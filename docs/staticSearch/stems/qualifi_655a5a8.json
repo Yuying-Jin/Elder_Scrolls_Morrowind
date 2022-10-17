@@ -1,0 +1,14 @@
+
+  { "stem" : "qualifi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Qualified",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "..., is currently the only under-strength garrison on Vvardenfell. <mark>Qualified<\/mark> citizens seeking enlistment in the Imperial Legion should apply to the...",
+            "fid" : "content" } ] } ] }

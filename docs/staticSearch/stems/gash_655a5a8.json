@@ -1,0 +1,111 @@
+
+  { "stem" : "gash",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...the Grazelands, Molag Amur, Red Mountain, the West <mark>Gash<\/mark>, and Sheogorad.",
+            "fid" : "content" },
+          
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 1057,
+            "context" : " West <mark>Gash<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 1063,
+            "context" : " The western highlands of Vvardefell are called the West <mark>Gash<\/mark>. The region extends from the Sea of Ghosts on the...",
+            "fid" : "content" },
+          
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 1196,
+            "context" : "...village astride the silt strider caravan route between the northwest West <mark>Gash<\/mark> and Ald'ruhn.",
+            "fid" : "content" },
+          
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 1207,
+            "context" : "...are tiny fishing villages on the northern coast of the West <mark>Gash<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...Councilor of Redoran Council, Vvardenfell District, Lord of North <mark>Gash<\/mark>, of Arobar Manor, Manor District, Ald'ruhn, District...",
+            "fid" : "content" },
+          
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...Councilor of Redoran Council, Vvardenfell District, Lord of West <mark>Gash<\/mark>, of Ramoran Manor, Manor District, Ald'ruhn, District...",
+            "fid" : "content" },
+          
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...Councilor of Redoran Council, Vvardenfell District, Lord of South <mark>Gash<\/mark>, of Sarethi Manor, Manor District, Ald'ruhn, District...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 4717,
+            "context" : "West <mark>Gash<\/mark>" },
+          
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 4725,
+            "context" : "West_<mark>Gash<\/mark>" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...tradehouses gathered around a central plaza, as in the West <mark>Gash<\/mark> village of Gnisis. Ald'ruhn, the Redoran district seat,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gash",
+            "weight" : "1",
+            "pos" : 4847,
+            "context" : "west <mark>gash<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gash",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...a tough shrub growing in the rocky highlands of the West <mark>Gash<\/mark>.",
+            "fid" : "content" } ] } ] }

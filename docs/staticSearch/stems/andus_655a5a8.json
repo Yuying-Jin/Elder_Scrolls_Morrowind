@@ -1,0 +1,37 @@
+
+  { "stem" : "andus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Andus",
+            "weight" : "1",
+            "pos" : 950,
+            "context" : "<mark>Andus<\/mark>_Tradehouse" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "andus",
+            "weight" : "1",
+            "pos" : 1122,
+            "context" : "<mark>andus<\/mark> tradehouse",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Andus",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "<mark>Andus<\/mark> Tradehouse: Visitable? yes",
+            "fid" : "acq" } ] } ] }

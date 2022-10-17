@@ -1,0 +1,25 @@
+
+  { "stem" : "drop",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drop",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "If you <mark>drop<\/mark> a Khajiit head-first from a great height, will...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dropped",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "Baranat <mark>dropped<\/mark> his blade and ran at Vanis, moving so fast he...",
+            "fid" : "content" } ] } ] }

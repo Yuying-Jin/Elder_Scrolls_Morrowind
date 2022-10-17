@@ -1,0 +1,31 @@
+
+  { "stem" : "ill",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ill",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...very different kind of society, one that he had been <mark>ill<\/mark>-equipped to deal with. They were poor.",
+            "fid" : "content" },
+          
+          { "form" : "ill",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "Not long afterwards, Sedura Indoril Pavflek Mamoona fell <mark>ill<\/mark> and died, despite all the skills of the great healers...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ill",
+            "weight" : "1",
+            "pos" : 381,
+            "context" : "...; there are no trails or marked routes. Casual travelers <mark>ill<\/mark>-equipped for the attacks of wild beasts and brigands should...",
+            "fid" : "content" } ] } ] }

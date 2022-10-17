@@ -1,0 +1,42 @@
+
+  { "stem" : "beverag",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "beverage",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "..., imposes favorable tariffs on flin [an imported fortified Imperial alcoholic <mark>beverage<\/mark>]. The council protests the continuing burdensome tariffs on the native...",
+            "fid" : "content" },
+          
+          { "form" : "beverages",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...]. The council protests the continuing burdensome tariffs on the native <mark>beverages<\/mark> sujamma, greef, and shein.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beverage",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "The wake was considered a great success as the <mark>beverage<\/mark> killed a great many guests and thus Mordrin Hanin was supplied...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beverages",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...grants relief to merchants complaining of high tariffs on imported alcoholic <mark>beverages<\/mark>.",
+            "fid" : "content" } ] } ] }

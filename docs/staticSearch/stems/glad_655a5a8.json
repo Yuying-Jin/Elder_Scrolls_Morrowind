@@ -1,0 +1,14 @@
+
+  { "stem" : "glad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Glad",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "I'm <mark>Glad<\/mark> I'm Not No Orc",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "spend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spend",
+            "weight" : "1",
+            "pos" : 667,
+            "context" : "...deep sleep of the wicked, dreaming of how they would <mark>spend<\/mark> their share of the gold. Both would wake up early...",
+            "fid" : "content" } ] } ] }

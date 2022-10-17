@@ -1,0 +1,14 @@
+
+  { "stem" : "intent",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "intention",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...into swearing an oath against the Powers which he had no <mark>intention<\/mark> of keeping. The Hide of the Savior turned Dagon's titanic...",
+            "fid" : "content" } ] } ] }

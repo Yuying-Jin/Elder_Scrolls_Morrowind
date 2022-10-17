@@ -1,0 +1,14 @@
+
+  { "stem" : "theolog",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "theology",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...daedrai Lords Azura, Boethiah, and Mephala. In Temple <mark>theology<\/mark>, however, Azura is the Anticipation of Sotha Sil,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,342 @@
+
+  { "stem" : "silenc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 22,
+        "contexts" : 
+        [ 
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "<mark>Silence<\/mark>" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 437,
+            "context" : "<mark>Silence<\/mark>, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 1852,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2053,
+            "context" : "<mark>Silence<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2141,
+            "context" : "<mark>Silence<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2240,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2493,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2554,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2598,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 3353,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 4305,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 4382,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 4387,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 5576,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 5611,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 6571,
+            "context" : "<mark>Silence<\/mark>, count: 5",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 6647,
+            "context" : "<mark>Silence<\/mark>, count: 7",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 6886,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 6903,
+            "context" : "<mark>Silence<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 7337,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 7386,
+            "context" : "<mark>Silence<\/mark>, count: 9",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 7666,
+            "context" : "<mark>Silence<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 21,
+        "contexts" : 
+        [ 
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "<mark>Silence<\/mark>, count: 2" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 1681,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 1874,
+            "context" : "<mark>Silence<\/mark>, count: 2" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 1959,
+            "context" : "<mark>Silence<\/mark>, count: 2" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2073,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2327,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2385,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 2427,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 3166,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 4152,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 4239,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 4244,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 5335,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 5373,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 6464,
+            "context" : "<mark>Silence<\/mark>, count: 5" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 6538,
+            "context" : "<mark>Silence<\/mark>, count: 7" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 6771,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 6786,
+            "context" : "<mark>Silence<\/mark>, count: 2" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 7222,
+            "context" : "<mark>Silence<\/mark>, count: 1" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 7251,
+            "context" : "<mark>Silence<\/mark>, count: 9" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 7529,
+            "context" : "<mark>Silence<\/mark>, count: 2" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "<mark>Silence<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...said Silverthorn, suddenly excited. “Can you teach the spell <mark>Silence<\/mark>? I can certainly pay you.”",
+            "fid" : "content" },
+          
+          { "form" : "silence",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...it truly meant to bend sound, creating a cone of <mark>silence<\/mark> as glass can bend light. He had Silverthorn close his...",
+            "fid" : "content" },
+          
+          { "form" : "silence",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "...mouth. Silverthorn smiled and nodded his head, enjoying the <mark>silence<\/mark>. He could have killed Egroamaro without the spell, he...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "silencing",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...dealt them both mighty blows, shattering their skulls, and <mark>silencing<\/mark> their argument, and went merrily upon his way. And...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "silence",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...throat-slashing, properly executed, can both slay and <mark>silence<\/mark> a guard and leave the thief relatively bloodfree. And after...",
+            "fid" : "content" } ] } ] }

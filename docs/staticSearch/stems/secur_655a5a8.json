@@ -1,0 +1,80 @@
+
+  { "stem" : "secur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "securing",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...profit. You must learn to protect your own property by <mark>securing<\/mark> it with hidden chests, locks, and even traps....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "security",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...You want to move undetected. You want to know about <mark>security<\/mark> -- locks, traps, and how to get around them....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "security",
+            "weight" : "1",
+            "pos" : 343,
+            "context" : "...chosen to reduce its reliance on Redoran mercenaries for protection and <mark>security<\/mark>, it has been forced to turn to Western mercenaries for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "secure",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...Close and sure they strike with shortblade, or distant and <mark>secure<\/mark> they strike from afar with accurate missile fire. Light armor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "secures",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "Folly <mark>secures<\/mark> its power to harm.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "secure",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...among the oldest and most trusted of mages, and make <mark>secure<\/mark> this ordering through arcane codes and keys to confound even the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "security's",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...is housed there before being sent to the bank, the <mark>security's<\/mark> going to be tighter than a kwama's ass. You can't...",
+            "fid" : "content" } ] } ] }

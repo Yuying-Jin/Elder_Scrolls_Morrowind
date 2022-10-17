@@ -1,0 +1,36 @@
+
+  { "stem" : "vigor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vigorously",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...drink, mix in flask with pure Skyrim Ice and shake <mark>vigorously<\/mark>. Strain through Winged Twilight membrane and served in gem encrusted...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vigorously",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "For example, since the Telvanni <mark>vigorously<\/mark> defend the right to own slaves, and since they keep...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vigor",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...St. Nerevar grants Spirit of Nerevar, forfortifying the body's <mark>vigor<\/mark>.",
+            "fid" : "content" } ] } ] }

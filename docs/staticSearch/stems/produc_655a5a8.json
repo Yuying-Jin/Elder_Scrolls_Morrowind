@@ -1,0 +1,59 @@
+
+  { "stem" : "produc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "produce",
+            "weight" : "1",
+            "pos" : 460,
+            "context" : "...of Necromancy can be practiced on animals, such experiments rarely <mark>produce<\/mark> interesting results. The servant's ability to follow directions seems to...",
+            "fid" : "content" },
+          
+          { "form" : "produce",
+            "weight" : "1",
+            "pos" : 477,
+            "context" : "...the corpse of a man, elf, or beastman can <mark>produce<\/mark> a useful servant, the corpses of animals produce mere guard...",
+            "fid" : "content" },
+          
+          { "form" : "produce",
+            "weight" : "1",
+            "pos" : 482,
+            "context" : "...beastman can produce a useful servant, the corpses of animals <mark>produce<\/mark> mere guard dogs at best. Often a raised animal is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "produce",
+            "weight" : "1",
+            "pos" : 812,
+            "context" : " The regular rain and dark soils of the Grazelands <mark>produce<\/mark> the rich grazing for Ashlander herds that give the region its...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "produce",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...named. The very rare black ironwood tree is said to <mark>produce<\/mark> a nut which is very succulent and is believed to enhance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "produced",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "Levitation can be <mark>produced<\/mark> from any two of the following ingredients: trama root,...",
+            "fid" : "content" } ] } ] }

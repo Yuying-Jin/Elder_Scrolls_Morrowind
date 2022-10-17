@@ -1,0 +1,66 @@
+
+  { "stem" : "largest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "largest",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : " Vivec City is the <mark>largest<\/mark> settlement on Vvardenfell, and one of the largest cities in...",
+            "fid" : "content" },
+          
+          { "form" : "largest",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "...is the largest settlement on Vvardenfell, and one of the <mark>largest<\/mark> cities in the East. Each of the great cantons is...",
+            "fid" : "content" },
+          
+          { "form" : "largest",
+            "weight" : "1",
+            "pos" : 596,
+            "context" : "..., and the site of the Festival Slave Market, the <mark>largest<\/mark> slave market on Vvardenfell.",
+            "fid" : "content" },
+          
+          { "form" : "largest",
+            "weight" : "1",
+            "pos" : 1110,
+            "context" : "...Balmora is the district seat of House Hlaalu, and the <mark>largest<\/mark> settlement on Vvardenfell after Vivec City. Good roads lead north...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "largest",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : " Vivec is the <mark>largest<\/mark> settlement on Vvardenfell, and one of the largest cities in...",
+            "fid" : "content" },
+          
+          { "form" : "largest",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "...is the largest settlement on Vvardenfell, and one of the <mark>largest<\/mark> cities in the East. Each of the great cantons is...",
+            "fid" : "content" },
+          
+          { "form" : "largest",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : " The High Fane is the <mark>largest<\/mark> Tribunal temple on Vvardenfell. Archcanon Saryoni presides over the temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "largest",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "...the district seat of House Redoran, and one of the <mark>largest<\/mark> settlements on Vvardenfell. The three principal districts are Ald'ruhn town...",
+            "fid" : "content" } ] } ] }

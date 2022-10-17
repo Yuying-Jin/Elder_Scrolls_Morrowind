@@ -1,0 +1,408 @@
+
+  { "stem" : "nerevar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 16,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "The Real <mark>Nerevar<\/mark>" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 552,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 2100,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 3217,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5212,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5219,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5314,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5419,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 8",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5823,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5869,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 6052,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 6179,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "nerevar",
+            "weight" : "1",
+            "pos" : 7089,
+            "context" : "indoril <mark>nerevar<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "nerevar",
+            "weight" : "1",
+            "pos" : 7101,
+            "context" : "<mark>nerevar<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 7106,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 8",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "nerevar",
+            "weight" : "1",
+            "pos" : 7433,
+            "context" : "st.<mark>nerevar<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 15,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 1926,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 3059,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5119,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 4" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5222,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 8" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5315,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5329,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5575,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5621,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 5771,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 6087,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 1" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 6939,
+            "context" : "<mark>Nerevar<\/mark>" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 6944,
+            "context" : "The Real <mark>Nerevar<\/mark>, count: 8" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 6956,
+            "context" : "Indoril <mark>Nerevar<\/mark>" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 7320,
+            "context" : "St.<mark>Nerevar<\/mark>" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "The Real <mark>Nerevar<\/mark>: A Telvanni retainer's informal history of Nerevar",
+            "fid" : "Nerevar" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "The Real Nerevar: A Telvanni retainer's informal history of <mark>Nerevar<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...In that time, House Dwemer were great enchanters, so <mark>Nerevar<\/mark> went in secret to a Dwemer smith and asked for an...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...it was enchanted to instantly kill anyone who wore it except <mark>Nerevar<\/mark>. The ring was called Moon-and-Star, and it...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...The ring was called Moon-and-Star, and it helped <mark>Nerevar<\/mark> unite the various clans into the First Council.",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...Nord clans as allies, and held northwest Morrowind, while <mark>Nerevar<\/mark> mustered the other Houses and nomad tribes and marched to meet...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...of House Dwemer, House Dagoth, and their allies. <mark>Nerevar<\/mark> was killed in the battle, and his ring lost,...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar's",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...killed in the battle, and his ring lost, but <mark>Nerevar's<\/mark> alliance survives in Morrowind's ruling political institution, the Grand Council...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "..., the Good Daedra, the prophet Veloth, and Saint <mark>Nerevar<\/mark> ]. Dissident priests ask whether Dagoth Ur's powers and the Tribunal...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "..., and holds that the Dwemer destroyed themselves, rather than that <mark>Nerevar<\/mark> destroyed them. Ashlander tradition further holds that Nerevar left Dagoth Ur...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...rather than that Nerevar destroyed them. Ashlander tradition further holds that <mark>Nerevar<\/mark> left Dagoth Ur guarding the profane secrets of Red Mountain while...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "...left Dagoth Ur guarding the profane secrets of Red Mountain while <mark>Nerevar<\/mark> went to confer with the Grand Council [i.e., the Tribunal],...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...to confer with the Grand Council [i.e., the Tribunal], that <mark>Nerevar<\/mark> died at the conference [not of his wounds, according to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "..., the Good Daedra, the prophet Veloth, and Saint <mark>Nerevar<\/mark> ]. Dissident priests ask whether Dagoth Ur's powers and the Tribunal...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "..., and holds that the Dwemer destroyed themselves, rather than that <mark>Nerevar<\/mark> destroyed them. Ashlander tradition further holds that Nerevar left Dagoth Ur...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...rather than that Nerevar destroyed them. Ashlander tradition further holds that <mark>Nerevar<\/mark> left Dagoth Ur guarding the profane secrets of Red Mountain while...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "...left Dagoth Ur guarding the profane secrets of Red Mountain while <mark>Nerevar<\/mark> went to confer with the Grand Council [i.e., the Tribunal],...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...to confer with the Grand Council [i.e., the Tribunal], that <mark>Nerevar<\/mark> died at the conference [not of his wounds, according to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : " Lord <mark>Nerevar<\/mark> Indoril, Hail Resdaynia My Lord, Friend, and Companion..." },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : " Once we were friends and brothers, Lord <mark>Nerevar<\/mark>, in peace and in war. No houseman ever served...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "St. <mark>Nerevar<\/mark> grants Spirit of Nerevar, forfortifying the body's vigor.",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "St. Nerevar grants Spirit of <mark>Nerevar<\/mark>, forfortifying the body's vigor.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 316,
+            "context" : "...-rulers Almalexia and Sotha Sil in the murder of Lord <mark>Nerevar<\/mark>, the greatest of Dunmer heroes and generals. The story...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "..., \"Of course Vivec would never have conspired to murder Lord <mark>Nerevar<\/mark>, but it happened so long ago... who can know...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 243,
+            "context" : "Long after Lord <mark>Nerevar<\/mark> and the Tribunal triumphed over Dagoth Ur, the people wished...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevar",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "Saint <mark>Nerevar<\/mark> the Captain appeared before Baranat in golden armor, and smiled...",
+            "fid" : "content" } ] } ] }

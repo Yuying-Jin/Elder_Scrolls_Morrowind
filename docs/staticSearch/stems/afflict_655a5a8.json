@@ -1,0 +1,36 @@
+
+  { "stem" : "afflict",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "afflicted",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "To restore health to the <mark>afflicted<\/mark> and wounded, combine in equal parts two or more of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "afflictions",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...cures of common diseases, of blight diseases, and of <mark>afflictions<\/mark> of poison.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "afflicted",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...of vampire hunters is believed to be primarily composed of formerly <mark>afflicted<\/mark> vampires who have been cured of the disease. According to...",
+            "fid" : "content" } ] } ] }

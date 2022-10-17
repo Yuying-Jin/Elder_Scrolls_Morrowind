@@ -1,0 +1,47 @@
+
+  { "stem" : "put",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "put",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "An unfortunate tax revolt in Balmora was <mark>put<\/mark> down after significant property damage and loss of life. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "put",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...very difficult, but once retrieved it can be used to <mark>put<\/mark> an enemy to sleep for a short while by passing it...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "put",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...Baranat in shining robes, and smiled upon him, \"Baranat, <mark>put<\/mark> down your blade and I will make you swifter than bolt...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "put",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...mention, swears by the strangle-and-slash technique. Simply <mark>put<\/mark>, you grab your victim's throat from behind and while throttling...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "supplement",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "supplement",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...forts help to insure law and order, providing guards to <mark>supplement<\/mark> the local guard units of the Temple and Great Houses Hlaalu...",
+            "fid" : "content" } ] } ] }

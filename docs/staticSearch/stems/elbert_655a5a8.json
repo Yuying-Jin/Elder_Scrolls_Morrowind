@@ -1,0 +1,37 @@
+
+  { "stem" : "elbert",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Elbert",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "..., have manor residences in Ald'ruhn-Under_skar. Edwinna <mark>Elbert<\/mark> is the Mages Guild steward, and Percius Mercius has recently...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Elbert",
+            "weight" : "1",
+            "pos" : 6543,
+            "context" : "Edwinna <mark>Elbert<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elbert",
+            "weight" : "1",
+            "pos" : 6652,
+            "context" : "edwinna <mark>elbert<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

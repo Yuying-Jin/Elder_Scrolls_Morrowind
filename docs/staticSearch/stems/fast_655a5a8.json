@@ -1,0 +1,65 @@
+
+  { "stem" : "fast",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "fast",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "You want to be <mark>fast<\/mark> and agile. You want to move undetected. You want...",
+            "fid" : "content" },
+          
+          { "form" : "fast",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...around them. You want to defend yourself. You travel light and <mark>fast<\/mark>, and want light arms like daggers and shortswords. You...",
+            "fid" : "content" },
+          
+          { "form" : "fast",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...light armor, so you can keep moving, and moving <mark>fast<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fast",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...Baranat dropped his blade and ran at Vanis, moving so <mark>fast<\/mark> he didn't rustle a leaf with his pace. In a...",
+            "fid" : "content" },
+          
+          { "form" : "fast",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...youngest Coribael brother, Feryn, who not only was as <mark>fast<\/mark> as Vanis, but so strong, he could rip a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fast",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "In House Hlaalu you must be <mark>fast<\/mark> and agile. You must be able to keep up with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fast",
+            "weight" : "1",
+            "pos" : 529,
+            "context" : "...specially designed compartments in his tunic's sleeves, where they held <mark>fast<\/mark> with no jingling or unusual bulges. \"We'll meet back at...",
+            "fid" : "content" } ] } ] }

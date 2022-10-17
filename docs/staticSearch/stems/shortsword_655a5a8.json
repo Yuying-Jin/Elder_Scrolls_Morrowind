@@ -1,0 +1,37 @@
+
+  { "stem" : "shortsword",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shortswords",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...light and fast, and want light arms like daggers and <mark>shortswords<\/mark>. You don't want to get into a slugging match,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shortsword",
+            "weight" : "1",
+            "pos" : 482,
+            "context" : "<mark>shortsword<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shortsword",
+            "weight" : "1",
+            "pos" : 652,
+            "context" : "<mark>shortsword<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "ungod",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ungodly",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...that those unholy devices were the ones originally created by the <mark>ungodly<\/mark> Dwemer sorceror Kagrenac to create the False Construct Numidium.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ungodly",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...that those unholy devices were the ones originally created by the <mark>ungodly<\/mark> Dwemer sorceror Kagrenac to create the False Construct Numidium.",
+            "fid" : "content" } ] } ] }

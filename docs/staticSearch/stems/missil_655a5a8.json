@@ -1,0 +1,14 @@
+
+  { "stem" : "missil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "missile",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "..., or distant and secure they strike from afar with accurate <mark>missile<\/mark> fire. Light armor protects them from harm, and the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "be",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beings",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...as it is, it is a deadly poison to most living <mark>beings<\/mark> and needs to be avoided by adventurers. It is said...",
+            "fid" : "content" } ] } ] }

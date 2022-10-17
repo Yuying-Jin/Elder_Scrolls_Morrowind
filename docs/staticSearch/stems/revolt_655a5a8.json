@@ -1,0 +1,25 @@
+
+  { "stem" : "revolt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "revolt",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "An unfortunate tax <mark>revolt<\/mark> in Balmora was put down after significant property damage and loss...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "revolt",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "A minor tax <mark>revolt<\/mark> in Balmora was suppressed without undue harm to life and property...",
+            "fid" : "content" } ] } ] }

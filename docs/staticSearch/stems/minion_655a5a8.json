@@ -1,0 +1,25 @@
+
+  { "stem" : "minion",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "minions",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "...past have failed, until now. Dagon seems to have new <mark>minions<\/mark> at his side this time. These new horrors are not...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "minions",
+            "weight" : "1",
+            "pos" : 635,
+            "context" : "...not stray too far from the Ghostgate and flees from any <mark>minions<\/mark> of Dagoth Ur. When you address the shrine, it...",
+            "fid" : "content" } ] } ] }

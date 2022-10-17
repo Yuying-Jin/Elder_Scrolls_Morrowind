@@ -1,0 +1,460 @@
+
+  { "stem" : "life",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 21,
+        "contexts" : 
+        [ 
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "Book of <mark>Life<\/mark> of Service" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "The Book of <mark>Life<\/mark> and Service" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 1873,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2256,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2264,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2529,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2541,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3057,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3074,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3078,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3347,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3520,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3524,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3665,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3921,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4164,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4174,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4204,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4208,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4323,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 7178,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 19,
+        "contexts" : 
+        [ 
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 1702,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2089,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2097,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2363,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2372,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2884,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2901,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 2905,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3176,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3367,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3371,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3512,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 3724,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4020,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4030,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4060,
+            "context" : "Book of <mark>Life<\/mark> of Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4064,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 4187,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 7053,
+            "context" : "The Book of <mark>Life<\/mark> and Service, count: 1" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : " What is the Virtuous <mark>Life<\/mark>?",
+            "fid" : "content" },
+          
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...the Nine Divines as models for living a good and virtuous <mark>life<\/mark>. Each of the Nine represents different aspects of life,...",
+            "fid" : "content" },
+          
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...virtuous life. Each of the Nine represents different aspects of <mark>life<\/mark>, and how it should be lived. But the simplest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...one's family and clan. Gravity is the essential seriousness of <mark>life<\/mark>. Life is hard, and events must be judged,...",
+            "fid" : "content" },
+          
+          { "form" : "Life",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...and clan. Gravity is the essential seriousness of life. <mark>Life<\/mark> is hard, and events must be judged, endured,...",
+            "fid" : "content" },
+          
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "..., and the virtues they represent. A light, careless <mark>life<\/mark> is not worth living. Redoran settlements are designed in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "...the ranks of the gods. The similarities between his mortal <mark>life<\/mark> and my own astonish even me. It is only proper that...",
+            "fid" : "content" },
+          
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...] from the records. Only I shall hold sway over <mark>life<\/mark> and death. Only one name shall be whispered in fear...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 432,
+            "context" : ".... He tore the ash from his perished followers, breathed <mark>life<\/mark> into their lungs, and cured them of the blight....",
+            "fid" : "content" },
+          
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 494,
+            "context" : "...Dreugh. When he defeated Ruddy Man, Vivec spared his <mark>life<\/mark>, on the condition that Ruddy Man and his children would...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 471,
+            "context" : "...follow directions seems to be related to the subject's intelligence in <mark>life<\/mark>. While raising the corpse of a man, elf,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : " \"Drawn by intimations of my former <mark>life<\/mark>, I visited my former post at Bal Ur, hoping...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...animated remains may depend on the abilities of the revenant's former <mark>life<\/mark>, and may therefore be weak or strong, or more...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : "...Balmora was put down after significant property damage and loss of <mark>life<\/mark>. The council warned that such disturbances might spread to Ald'ruhn...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...animated remains may depend on the abilities of the revenant's former <mark>life<\/mark>, and may therefore be weak or strong, or more...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : "...Guard. I know, I know, you want a <mark>life<\/mark> of adventure and danger and freedom, but if you'd only...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...Vivec City between the blood of battle and the waters of <mark>life<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "Blessed Almsivi, through birth, <mark>life<\/mark>, ghost.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...and protection of his Dunmer people, and through his long <mark>life<\/mark>, his humility, and his unconquerable spirit, he attained...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "life",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...minor tax revolt in Balmora was suppressed without undue harm to <mark>life<\/mark> and property. The council sent deputations to the Duke to...",
+            "fid" : "content" } ] } ] }

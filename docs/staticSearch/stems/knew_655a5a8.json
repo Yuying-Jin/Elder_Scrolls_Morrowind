@@ -1,0 +1,60 @@
+
+  { "stem" : "knew",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "knew",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...Most locals at the Plot and Plaster cornerclub in Tel Aruhn <mark>knew<\/mark> enough not to listen in, but she knew better than to...",
+            "fid" : "content" },
+          
+          { "form" : "knew",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...in Tel Aruhn knew enough not to listen in, but she <mark>knew<\/mark> better than to take any chances.",
+            "fid" : "content" },
+          
+          { "form" : "knew",
+            "weight" : "1",
+            "pos" : 445,
+            "context" : "...Lledos was impressed. For someone of relative inexperience, she <mark>knew<\/mark> her way through shadows.",
+            "fid" : "content" },
+          
+          { "form" : "knew",
+            "weight" : "1",
+            "pos" : 546,
+            "context" : "The group parted ways. The only person who <mark>knew<\/mark> the most covert route through the city's sewer system, Lledos...",
+            "fid" : "content" },
+          
+          { "form" : "knew",
+            "weight" : "1",
+            "pos" : 743,
+            "context" : "...and he treated them well, but from past experience he <mark>knew<\/mark> that servants talked. If they began to connect his absences...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knew",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...we perform are real with no illusions. We wish we <mark>knew<\/mark> tricks, for it's far too time-consuming to have...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knew",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...Oristian Silverthorn with a weary smile for his admirer. He <mark>knew<\/mark> that his name was not yet legendary, and it was...",
+            "fid" : "content" } ] } ] }

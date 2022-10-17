@@ -1,0 +1,25 @@
+
+  { "stem" : "societi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "society",
+            "weight" : "1",
+            "pos" : 506,
+            "context" : "...marshes of Black Marsh. House Dres is an agrarian agricultural <mark>society<\/mark>, and its large saltrice plantations rely completely on slave labor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "society",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "..., he suddenly found himself on a very different kind of <mark>society<\/mark>, one that he had been ill-equipped to deal...",
+            "fid" : "content" } ] } ] }

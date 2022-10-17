@@ -1,0 +1,86 @@
+
+  { "stem" : "reason",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "reason",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "..., they have an intolerance of Necromancy that goes beyond all <mark>reason<\/mark>. Many Necromancers who practice our Arts in Valenwood become \"one...",
+            "fid" : "content" },
+          
+          { "form" : "reason",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "...strength of their bones. If King Gortwog will listen to <mark>reason<\/mark>, we could offer the services of our Art in defense...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reason",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...after this process, but I have never found any practical <mark>reason<\/mark> for doing this.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reason",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...ways that make raising them again impossible. This is another <mark>reason<\/mark> that care should be given to the skeleton's preparation. Too...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reasonable",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...and enchanter shops are under Skar as well. Commodities at <mark>reasonable<\/mark> prices, but with smaller selections, are available from the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reasonable",
+            "weight" : "1",
+            "pos" : 497,
+            "context" : "...residence cantons for commoners and paupers. The Temple charges very <mark>reasonable<\/mark> rents for comfortable workshops, shops, and apartments, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reasons",
+            "weight" : "1",
+            "pos" : 334,
+            "context" : "...the craftsmen and specialists they need. And since for political <mark>reasons<\/mark> House Telvanni has chosen to reduce its reliance on Redoran mercenaries...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reason",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "There's no <mark>reason<\/mark> when one knows one is going to be slitting some throats...",
+            "fid" : "content" } ] } ] }

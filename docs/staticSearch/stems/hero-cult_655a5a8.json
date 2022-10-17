@@ -1,0 +1,20 @@
+
+  { "stem" : "hero-cult",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hero-cults",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "Nordic <mark>hero-cults<\/mark> provide a strong counter-current to the dominant secularism of...",
+            "fid" : "content" },
+          
+          { "form" : "hero-cult",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : ".... The Imperial Cult of Tiber Septim is just such a <mark>hero-cult<\/mark>, and among the military, provincial colonists, and recently...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "doesn't",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "doesn't",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...just go to the local guild Hall. The Thieves Guild <mark>doesn't<\/mark> have Guild Halls. But thieves like to be where their...",
+            "fid" : "content" } ] } ] }

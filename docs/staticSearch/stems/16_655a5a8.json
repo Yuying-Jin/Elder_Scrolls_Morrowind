@@ -1,0 +1,39 @@
+
+  { "stem" : "16",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "16",
+            "weight" : "1",
+            "pos" : 6125,
+            "context" : "Vampires of Vvardenfell, count: <mark>16<\/mark>" },
+          
+          { "form" : "16",
+            "weight" : "1",
+            "pos" : 6697,
+            "context" : "Smuggler's Island, count: <mark>16<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "16",
+            "weight" : "1",
+            "pos" : 6205,
+            "context" : "Vampires of Vvardenfell, count: <mark>16<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "16",
+            "weight" : "1",
+            "pos" : 6783,
+            "context" : "Smuggler's Island, count: <mark>16<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

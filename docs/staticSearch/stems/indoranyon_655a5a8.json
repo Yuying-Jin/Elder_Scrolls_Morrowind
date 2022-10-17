@@ -1,0 +1,37 @@
+
+  { "stem" : "indoranyon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indoranyon",
+            "weight" : "1",
+            "pos" : 2326,
+            "context" : "<mark>Indoranyon<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "indoranyon",
+            "weight" : "1",
+            "pos" : 2492,
+            "context" : "<mark>indoranyon<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indoranyon",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...paid the old teacher and set off on his way. <mark>Indoranyon<\/mark>, Egroamaro's stronghold, was not far from Sadrith Mora,...",
+            "fid" : "content" } ] } ] }

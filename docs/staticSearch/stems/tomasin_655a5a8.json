@@ -1,0 +1,20 @@
+
+  { "stem" : "tomasin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tomasin",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "\"I am Kena Warfel <mark>Tomasin<\/mark>, and I can prove that Akatosh, Nirn, and...",
+            "fid" : "content" },
+          
+          { "form" : "Tomasin",
+            "weight" : "1",
+            "pos" : 338,
+            "context" : "...the mathematical formula, which proved correct, and Kena Warfel <mark>Tomasin<\/mark> vaporized on the spot.",
+            "fid" : "content" } ] } ] }

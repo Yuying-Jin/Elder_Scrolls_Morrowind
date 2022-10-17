@@ -1,0 +1,43 @@
+
+  { "stem" : "neither",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "neither",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...you for your justice, Lord Vivec. I shall be <mark>neither<\/mark> cruel nor arbitrary, for fair dealing earns the love,...",
+            "fid" : "content" },
+          
+          { "form" : "neither",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...you for your courtesy, Lord Vivec. I shall speak <mark>neither<\/mark> hurtful nor harsh word, but shall speak respectfully, even...",
+            "fid" : "content" },
+          
+          { "form" : "neither",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...Thank you for your generosity, Lord Vivec. I shall <mark>neither<\/mark> hoard nor steal, nor encumber myself with profitless treasures,...",
+            "fid" : "content" },
+          
+          { "form" : "neither",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...Thank you for your humility, Lord Vivec. I shall <mark>neither<\/mark> strut nor preen in vanity, but shall know and give...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "neither",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "Refuse <mark>neither<\/mark> brother nor ghost.",
+            "fid" : "content" } ] } ] }

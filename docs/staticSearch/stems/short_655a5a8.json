@@ -1,0 +1,48 @@
+
+  { "stem" : "short",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...am a councilor of House Hlaalu and chose to write this <mark>short<\/mark> guide for those who seek to understand us or join us...",
+            "fid" : "content" },
+          
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...is best to fight quickly in comfortable, light armors with <mark>short<\/mark> blades, or to fight from a distance with a marksman's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...the potion has the ability to increase one's stamina for a <mark>short<\/mark> while.",
+            "fid" : "content" },
+          
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...can be used to put an enemy to sleep for a <mark>short<\/mark> while by passing it under his nose.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "short",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...The strong walls and towers of this Western fortress lies a <mark>short<\/mark> distance to the south of Ald'ruhn town, through South Gate...",
+            "fid" : "content" } ] } ] }

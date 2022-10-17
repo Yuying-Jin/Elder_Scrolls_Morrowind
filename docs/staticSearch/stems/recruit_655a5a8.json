@@ -1,0 +1,25 @@
+
+  { "stem" : "recruit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Recruit",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...you can, and take unblocked blows upon your heavy armor. <mark>Recruit<\/mark> must also be proficient at athletics, both to march long...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recruit",
+            "weight" : "1",
+            "pos" : 321,
+            "context" : "..., skilled retainers for most services. Though House Telvanni does <mark>recruit<\/mark> from their own lower classes, they must go outside their...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "paradox",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "paradoxically",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...is the beloved Warrior-Poet of the True People, <mark>paradoxically<\/mark> beautiful and bloody. Vivec is an artistic violence. Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "paradoxically",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "...\/orgy, tact\/poetic truths); Mephala is understood <mark>paradoxically<\/mark> to contain and integrate these contradictory themes. And all these...",
+            "fid" : "content" } ] } ] }

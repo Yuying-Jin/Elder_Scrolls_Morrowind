@@ -1,0 +1,334 @@
+
+  { "stem" : "yellow",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 24,
+        "contexts" : 
+        [ 
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1181,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1263,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1329,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1411,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1585,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1626,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1749,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 3064,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 3760,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4374,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4613,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4706,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4764,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 11",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4901,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 5159,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 5628,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 5660,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 5",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 6467,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 6528,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 6932,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 7140,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 7526,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 7567,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 23,
+        "contexts" : 
+        [ 
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1003,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1089,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1136,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1228,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1414,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1455,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 1580,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 2891,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 3604,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4231,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 2" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4449,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4527,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4636,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 11" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 4766,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 5013,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 5357,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 5404,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 5" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 6384,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 6420,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 6666,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 6815,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 7008,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" },
+          
+          { "form" : "Yellow",
+            "weight" : "1",
+            "pos" : 7428,
+            "context" : "<mark>Yellow<\/mark> Book of 3E 426, count: 1" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "yellow",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...identify themselves by their traditional colors: red for Redoran, <mark>yellow<\/mark> for Hlaalu, and brown for Telvanni. Thus, members...",
+            "fid" : "content" },
+          
+          { "form" : "Yellows",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "..., members of House Hlaalu may be referred to collectively as <mark>Yellows<\/mark>.",
+            "fid" : "content" } ] } ] }

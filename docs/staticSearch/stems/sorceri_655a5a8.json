@@ -1,0 +1,36 @@
+
+  { "stem" : "sorceri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sorcery",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "Chimere used Dagon's Protonymic in an incantation to invoke a <mark>sorcery<\/mark> that would gradually drain all of Dagon's power into the void...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sorceries",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...The Dwemer were defeated, with great slaughter, and terrible <mark>sorceries<\/mark> were used, resulting in the utter extermination of House Dwemer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sorceries",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...The \"ash vampire\" of Ashlanderlegend is not undead. <mark>Sorceries<\/mark> and blessings affecting the undead reportedly have no effect on these...",
+            "fid" : "content" } ] } ] }

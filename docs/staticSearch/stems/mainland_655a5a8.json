@@ -1,0 +1,59 @@
+
+  { "stem" : "mainland",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mainland",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "...is an island; there's no road or bridge to the <mark>mainland<\/mark>. To visit the mainland, you must either be able...",
+            "fid" : "content" },
+          
+          { "form" : "mainland",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...no road or bridge to the mainland. To visit the <mark>mainland<\/mark>, you must either be able to fly, swim,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mainland",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...dominated by the giant volcano Red Mountain and cut off from <mark>mainland<\/mark> Morrowind by the surrounding Inner Sea.",
+            "fid" : "content" },
+          
+          { "form" : "mainland",
+            "weight" : "1",
+            "pos" : 683,
+            "context" : "...on a rocky promontory at the northeastern tip of the Vvardenfell <mark>mainland<\/mark> in the Azura's Coast region.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mainland",
+            "weight" : "1",
+            "pos" : 533,
+            "context" : " Foot bridges connect with the <mark>mainland<\/mark> between the Ebonheart region and Hlaalu Compound, between the north...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mainland",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "\"We didn't make it as far as the <mark>mainland<\/mark>,\" said Harithoel. \"I can't see the coastline at all....",
+            "fid" : "content" } ] } ] }

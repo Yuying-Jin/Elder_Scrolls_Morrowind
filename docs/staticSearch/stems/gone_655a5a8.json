@@ -1,0 +1,25 @@
+
+  { "stem" : "gone",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gone",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "...to the shop weeks later, the item I wanted was <mark>gone<\/mark>. Better to get a great purchase at a decent price...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gone",
+            "weight" : "1",
+            "pos" : 503,
+            "context" : "...entered. No alarm had been raised, the gold was <mark>gone<\/mark>, and corpses lay pooling blood on the stone floors within...",
+            "fid" : "content" } ] } ] }

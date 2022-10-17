@@ -1,0 +1,42 @@
+
+  { "stem" : "signific",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "significant",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...members of the council and their residences. It also chronicles <mark>significant<\/mark> events and council actions for the year.]",
+            "fid" : "content" },
+          
+          { "form" : "significant",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "An unfortunate tax revolt in Balmora was put down after <mark>significant<\/mark> property damage and loss of life. The council warned that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "significantly",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...this are unimportant as even an amateur can strengthen a skeleton <mark>significantly<\/mark>. Only practice will reveal the best methods of binding and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "significant",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...Dibella. The Imperial Cult of Tiber Septim also has a <mark>significant<\/mark> charismatic sub-cult.",
+            "fid" : "content" } ] } ] }

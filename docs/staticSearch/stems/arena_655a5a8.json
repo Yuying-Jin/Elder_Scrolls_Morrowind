@@ -1,0 +1,125 @@
+
+  { "stem" : "arena",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...hundreds of tourists and pilgrims daily. Citizens flock to the <mark>Arena<\/mark> for public entertainments like mock battles and comic plays. Outlanders...",
+            "fid" : "content" },
+          
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...at the center of the cross -- Redoran Compound northwest, <mark>Arena<\/mark> northeast, St. Delyn's Canton southwest, and St....",
+            "fid" : "content" },
+          
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 406,
+            "context" : "...of the Foreign Quarter, west of and next to the <mark>Arena<\/mark>. The Redoran administrative center there includes the Redoran Treasury,...",
+            "fid" : "content" },
+          
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 444,
+            "context" : " <mark>Arena<\/mark> Compound",
+            "fid" : "content" },
+          
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 446,
+            "context" : " The <mark>Arena<\/mark> Compound lies between the Redoran compound on the west and the...",
+            "fid" : "content" },
+          
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 455,
+            "context" : "...the west and the Telvanni compound on the east. The <mark>Arena<\/mark> is the site of public entertainments and combat sports. The...",
+            "fid" : "content" },
+          
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 463,
+            "context" : "...site of public entertainments and combat sports. The comfortable domed <mark>Arena<\/mark> has seating for hundreds of spectators; beneath the Arena are...",
+            "fid" : "content" },
+          
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 468,
+            "context" : "...domed Arena has seating for hundreds of spectators; beneath the <mark>Arena<\/mark> are dressing and storage rooms for entertainers and training rooms and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 963,
+            "context" : "<mark>Arena<\/mark>" },
+          
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 4550,
+            "context" : "Vivec,_<mark>Arena<\/mark>_Hidden_Area" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "arena",
+            "weight" : "1",
+            "pos" : 1135,
+            "context" : "<mark>arena<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "arena",
+            "weight" : "1",
+            "pos" : 4602,
+            "context" : "vivec, <mark>arena<\/mark> hidden area",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arenas",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...goods on dangerous routes, the collection of beasts for the <mark>arenas<\/mark>, and other duties defined by the Guild Stewards. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...hundreds of tourists and pilgrims daily. Citizens flock to the <mark>Arena<\/mark> for entertainments and war games. Outlanders mostly confine themselves to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arena",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "Vivec, <mark>Arena<\/mark> Hidden Area: Visitable? yes",
+            "fid" : "acq" } ] } ] }

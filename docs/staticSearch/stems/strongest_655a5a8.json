@@ -1,0 +1,42 @@
+
+  { "stem" : "strongest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "strongest",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...she has made it clear that she will only marry the <mark>strongest<\/mark> man in Morrowind.\"",
+            "fid" : "content" },
+          
+          { "form" : "strongest",
+            "weight" : "1",
+            "pos" : 706,
+            "context" : "\"You don't wish to marry the <mark>strongest<\/mark>, most intelligent, toughest, most agile suitors?\" asked...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strongest",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "In Hammerfell, where worship of Arkay is <mark>strongest<\/mark>, the dead are almost always subject to Arkay's Law....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strongest",
+            "weight" : "1",
+            "pos" : 365,
+            "context" : "...prospect of doing battle with Airen Coribael, the swiftest, <mark>strongest<\/mark>, sturdiest, and most accomplished fighter of the brothers....",
+            "fid" : "content" } ] } ] }

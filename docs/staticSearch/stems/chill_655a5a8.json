@@ -1,0 +1,14 @@
+
+  { "stem" : "chill",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chilled",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...mug, slowly stirring with a glass rod. For a <mark>chilled<\/mark> drink, mix in flask with pure Skyrim Ice and shake...",
+            "fid" : "content" } ] } ] }

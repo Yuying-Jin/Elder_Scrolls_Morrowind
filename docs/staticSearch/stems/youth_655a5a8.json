@@ -1,0 +1,14 @@
+
+  { "stem" : "youth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "youth",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...said Darothil with some measure of pride. “But in my <mark>youth<\/mark>, I used to teach the skills of Illusion at the...",
+            "fid" : "content" } ] } ] }

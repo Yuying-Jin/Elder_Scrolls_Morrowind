@@ -1,0 +1,25 @@
+
+  { "stem" : "nose",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nose",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : "...to sleep for a short while by passing it under his <mark>nose<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nose",
+            "weight" : "1",
+            "pos" : 846,
+            "context" : "...his study swing open. The smell of stoneflower filled his <mark>nose<\/mark> and he opened his eyes. Only a little of the...",
+            "fid" : "content" } ] } ] }

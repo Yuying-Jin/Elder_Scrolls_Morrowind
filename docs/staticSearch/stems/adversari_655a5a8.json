@@ -1,0 +1,14 @@
+
+  { "stem" : "adversari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "adversary",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "Egroamaro bowed to his <mark>adversary<\/mark> sardonically, and then prepared to unleash a fireball to incinerate...",
+            "fid" : "content" } ] } ] }

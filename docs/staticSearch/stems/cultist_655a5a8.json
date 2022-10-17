@@ -1,0 +1,31 @@
+
+  { "stem" : "cultist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "cultist's",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...relationship with a blood family ancestor spirit, and the Temple <mark>cultist's<\/mark> relationship with the Tribunal is a relationship with a living,...",
+            "fid" : "content" },
+          
+          { "form" : "cultists",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "...who walks the earth, speaks in person with priests and <mark>cultists<\/mark>, and whose daily actions are prescribed models for the daily...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cultists",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "...is a dangerous site, haunted by old magics, dark <mark>cultists<\/mark>, and their Daedric summonings, and not recommended for sightseers...",
+            "fid" : "content" } ] } ] }

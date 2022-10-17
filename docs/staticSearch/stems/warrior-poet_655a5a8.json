@@ -1,0 +1,31 @@
+
+  { "stem" : "warrior-poet",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Warrior-Poet",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...is also the most public, for he is the beloved <mark>Warrior-Poet<\/mark> of the True People, paradoxically beautiful and bloody. Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "Warrior-Poet",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...This explicit presentation of Vivec the Guardian God-King and <mark>Warrior-Poet<\/mark> is the one most accessible and familiar to Westerners. However...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Warrior-Poet",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...the abode of the god-hero Lord Vivec, the <mark>Warrior-Poet<\/mark> of the three deities who comprise Almsivi, the divine patrons...",
+            "fid" : "content" } ] } ] }

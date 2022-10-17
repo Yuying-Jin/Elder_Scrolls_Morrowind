@@ -1,0 +1,60 @@
+
+  { "stem" : "confer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "conferred",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...; Temple doctrine claims their divine powers and immortality are ultimately <mark>conferred<\/mark> as a communal judgement by the Dunmer ancestors [ including,...",
+            "fid" : "content" },
+          
+          { "form" : "confer",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...guarding the profane secrets of Red Mountain while Nerevar went to <mark>confer<\/mark> with the Grand Council [i.e., the Tribunal], that Nerevar died...",
+            "fid" : "content" },
+          
+          { "form" : "conference",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...Grand Council [i.e., the Tribunal], that Nerevar died at the <mark>conference<\/mark> [not of his wounds, according to the Ashlanders, but...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "conferred",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...; Temple doctrine claims their divine powers and immortality are ultimately <mark>conferred<\/mark> as a communal judgement by the Dunmer ancestors [ including,...",
+            "fid" : "content" },
+          
+          { "form" : "confer",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...guarding the profane secrets of Red Mountain while Nerevar went to <mark>confer<\/mark> with the Grand Council [i.e., the Tribunal], that Nerevar died...",
+            "fid" : "content" },
+          
+          { "form" : "conference",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...Grand Council [i.e., the Tribunal], that Nerevar died at the <mark>conference<\/mark> [not of his wounds, according to the Ashlanders, but...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confer",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...Cornerclub. Telvanni wizards and retainers visit the Council Hall to <mark>confer<\/mark> with the Telvanni Mouths (Telvanni Mouths are spokesmen for their...",
+            "fid" : "content" } ] } ] }

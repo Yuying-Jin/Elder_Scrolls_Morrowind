@@ -1,0 +1,446 @@
+
+  { "stem" : "fighter",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 22,
+        "contexts" : 
+        [ 
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 893,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fighters",
+            "weight" : "1",
+            "pos" : 990,
+            "context" : "ald'ruhn <mark>fighters<\/mark> guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 992,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 1280,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fighters",
+            "weight" : "1",
+            "pos" : 1368,
+            "context" : "balmora <mark>fighters<\/mark> guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 1370,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 3321,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4509,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fighters",
+            "weight" : "1",
+            "pos" : 4593,
+            "context" : "vivec <mark>fighters<\/mark> guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4595,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4782,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fighters",
+            "weight" : "1",
+            "pos" : 4871,
+            "context" : "wolverine hall: sadright mora <mark>fighters<\/mark> guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4873,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4887,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 5203,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "fighters",
+            "weight" : "1",
+            "pos" : 5509,
+            "context" : "guild of <mark>fighters<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 5510,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "fighters",
+            "weight" : "1",
+            "pos" : 5516,
+            "context" : "<mark>fighters<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "fighters",
+            "weight" : "1",
+            "pos" : 5605,
+            "context" : "<mark>fighters<\/mark> guild",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 6766,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 7343,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 21,
+        "contexts" : 
+        [ 
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 709,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 806,
+            "context" : "Ald'ruhn <mark>Fighters<\/mark> Guild" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 808,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 1111,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 1199,
+            "context" : "Balmora <mark>Fighters<\/mark> Guild" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 1201,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 3150,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4364,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 4438,
+            "context" : "Vivec <mark>Fighters<\/mark> Guild" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4440,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4665,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 4743,
+            "context" : "Wolverine Hall: Sadright Mora <mark>Fighters<\/mark> Guild" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4745,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 2" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 4794,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 5057,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 5301,
+            "context" : "Guild of <mark>Fighters<\/mark>" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 5302,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 4" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 5308,
+            "context" : "<mark>Fighters<\/mark>" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 5367,
+            "context" : "<mark>Fighters<\/mark> Guild" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 6680,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1" },
+          
+          { "form" : "Fighter's",
+            "weight" : "1",
+            "pos" : 7228,
+            "context" : "<mark>Fighter's<\/mark> Guild Charter, count: 1" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "Ald'ruhn <mark>Fighters<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Balmora <mark>Fighters<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "Wolverine Hall: Sadrith Mora <mark>Fighters<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "Vivec <mark>Fighters<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : " The Guild of <mark>Fighters<\/mark> provides employment to free-swords and mercenaries and contracts to...",
+            "fid" : "GuildofFighters" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : " The Guild of <mark>Fighters<\/mark> was established under the section 4 of the \"Guilds Act,\"...",
+            "fid" : "content" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : " Any member of the Guild of <mark>Fighters<\/mark> who strikes or steals from another member shall be expelled from...",
+            "fid" : "content" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : " Citizens who contract with the Guild of <mark>Fighters<\/mark> and have a dispute may appeal first to the Guild Steward...",
+            "fid" : "content" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "<mark>Fighters<\/mark> Guild Chapters in Vvardenfell District, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...in Sadright Mora is established in Wolverine Hall: Sadrith Mora <mark>Fighters<\/mark> Guild under lease from the Telvanni Council. The chapter in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Ald'ruhn <mark>Fighters<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "..., including an Imperial cult altar. The guildhalls of the <mark>Fighters<\/mark> Guild and Mages Guild are near the South Gate. Pricy...",
+            "fid" : "content" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...Mages Guild steward, and Percius Mercius has recently become the <mark>Fighters<\/mark> Guild steward. Old Methal Seran is an eminent Temple priest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : " Outlanders can find services for the <mark>Fighters<\/mark> Guild, Mages Guild, and Imperial cult at Wolverine Hall...",
+            "fid" : "content" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...is the only establishment with public beds. Members of the <mark>Fighters<\/mark> Guild, Mages Guild, and Imperial cults look for hospitality...",
+            "fid" : "content" },
+          
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...publican. At Wolverine Hall, Hrundi the Nord is the <mark>Fighters<\/mark> Guild steward, Procyon Nigiliusis [sic] is Mages Guild...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 636,
+            "context" : "...friendly and supportive relationship with the Imperial Guilds -- especially the <mark>Fighters<\/mark> and Mages Guilds. We also have a friendly and supportive...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fighter",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "Being a thief is not like being a <mark>fighter<\/mark>. You don't just go to the local guild Hall....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fighters",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...think so. Why couldn't you get a nice position at the <mark>Fighters<\/mark> Guild right here in town? I hear they're looking for...",
+            "fid" : "FightersGuild" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fighter",
+            "weight" : "1",
+            "pos" : 368,
+            "context" : "..., the swiftest, strongest, sturdiest, and most accomplished <mark>fighter<\/mark> of the brothers. He prayed to the saints for help...",
+            "fid" : "content" } ] } ] }

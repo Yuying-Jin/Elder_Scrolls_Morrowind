@@ -1,0 +1,14 @@
+
+  { "stem" : "kin-spirit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kin-spirits",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "...they be permitted to rob our tombs, to bind our <mark>kin-spirits<\/mark> into sorcerous slavery, to steal the lives of our dead...",
+            "fid" : "content" } ] } ] }

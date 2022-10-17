@@ -1,0 +1,25 @@
+
+  { "stem" : "hell",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hell",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "Gather no seed in the fields of <mark>Hell<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hell",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "..., and stands guard over Red Mountain, the gate to <mark>hell<\/mark>. He is part of the holy Tribunal, a god...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "ash-blight",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ash-blight",
+            "weight" : "1",
+            "pos" : 1015,
+            "context" : "...never shines; the only weather is the red and deadly <mark>ash-blight<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "visual",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "visualizing",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...his strength. It took him some time to master it, <mark>visualizing<\/mark> magicka streaming through his body, pumping through the very fibers...",
+            "fid" : "content" } ] } ] }

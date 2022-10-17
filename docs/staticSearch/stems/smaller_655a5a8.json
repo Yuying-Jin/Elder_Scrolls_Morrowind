@@ -1,0 +1,36 @@
+
+  { "stem" : "smaller",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smaller",
+            "weight" : "1",
+            "pos" : 424,
+            "context" : "...of the giant native mushrooms. Telvanni villages are comprised of <mark>smaller<\/mark> mushroom pods hollowed out for craftsmen and commoners. Open-...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smaller",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...Skar as well. Commodities at reasonable prices, but with <mark>smaller<\/mark> selections, are available from the smith, clothier, trader...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smaller",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...from egg mines, and sold everywhere in Morrowind; the <mark>smaller<\/mark> eggs retain properties lost in later states of gestation. chokeweed...",
+            "fid" : "content" } ] } ] }

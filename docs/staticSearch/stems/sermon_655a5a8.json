@@ -1,0 +1,311 @@
+
+  { "stem" : "sermon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 22,
+        "contexts" : 
+        [ 
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1" },
+          
+          { "form" : "Sermons",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "Saryonis <mark>Sermons<\/mark> Manuscript" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 1239,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 1884,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Sermons",
+            "weight" : "1",
+            "pos" : 2613,
+            "context" : "Saryonis <mark>Sermons<\/mark> Manuscript, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 2795,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Sermons",
+            "weight" : "1",
+            "pos" : 3604,
+            "context" : "Saryonis <mark>Sermons<\/mark> Manuscript, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5180,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5274,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5322,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5367,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5725,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 6253,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 6310,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 6806,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 6814,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7001,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7309,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7516,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7660,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7674,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sermons",
+            "weight" : "1",
+            "pos" : 7684,
+            "context" : "Saryonis <mark>Sermons<\/mark> Manuscript, count: 8",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 20,
+        "contexts" : 
+        [ 
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 1066,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 1713,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermons",
+            "weight" : "1",
+            "pos" : 2442,
+            "context" : "Saryonis <mark>Sermons<\/mark> Manuscript, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 2621,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermons",
+            "weight" : "1",
+            "pos" : 3451,
+            "context" : "Saryonis <mark>Sermons<\/mark> Manuscript, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5034,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5098,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5134,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 2" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5170,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5482,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 5937,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 6254,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 3" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 6563,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 2" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 6718,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 2" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 6890,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7194,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 2" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7393,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7523,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" },
+          
+          { "form" : "Sermons",
+            "weight" : "1",
+            "pos" : 7535,
+            "context" : "Saryonis <mark>Sermons<\/mark> Manuscript, count: 8" },
+          
+          { "form" : "Sermon",
+            "weight" : "1",
+            "pos" : 7562,
+            "context" : "36 Lessons of Vivec <mark>Sermon<\/mark> 1, count: 1" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Sermons",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "Saryoni's <mark>Sermons<\/mark> Learn from the teachings of Vivec, and from the Archcanon's...",
+            "fid" : "content" },
+          
+          { "form" : "sermons",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...Learn from the teachings of Vivec, and from the Archcanon's <mark>sermons<\/mark> on the Seven Graces.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sermons",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : " Hear the words of Lord Vivec, and heed his <mark>sermons<\/mark> on the Seven Graces, for he names them seven times...",
+            "fid" : "content" } ] } ] }

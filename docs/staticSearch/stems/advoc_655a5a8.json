@@ -1,0 +1,25 @@
+
+  { "stem" : "advoc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "advocate",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...heroism of the Tribunal. In fact, the Dissident priests <mark>advocate<\/mark> restoring many of the elements of Fundamentalist Ancestor Worship as practiced...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "advocate",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...heroism of the Tribunal. In fact, the Dissident priests <mark>advocate<\/mark> restoring many of the elements of Fundamentalist Ancestor Worship as practiced...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "kand",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kand",
+            "weight" : "1",
+            "pos" : 936,
+            "context" : "...bound for the nearby pilgrimage sites at Mount Assarnibibi and Mount <mark>Kand<\/mark> take refuge at the outpost's hostels, comforted by the garrison...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kand",
+            "weight" : "1",
+            "pos" : 2786,
+            "context" : "Mount <mark>Kand<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kand",
+            "weight" : "1",
+            "pos" : 2955,
+            "context" : "mount <mark>kand<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

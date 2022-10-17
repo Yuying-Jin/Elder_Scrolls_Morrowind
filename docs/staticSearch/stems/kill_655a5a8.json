@@ -1,0 +1,132 @@
+
+  { "stem" : "kill",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "killing",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...Camonna Tong are bad people. The Camonna Tong don't mind <mark>killing<\/mark> people. Heck, they LIKE killing people. The Thieves...",
+            "fid" : "content" },
+          
+          { "form" : "killing",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...Camonna Tong don't mind killing people. Heck, they LIKE <mark>killing<\/mark> people. The Thieves Guild, on the other hand,...",
+            "fid" : "content" },
+          
+          { "form" : "killing",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : ".... The Thieves Guild, on the other hand, thinks <mark>killing<\/mark> people is bad business. You want to be good people...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "kill",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...only have time to learn one spell. I have to <mark>kill<\/mark> Egroamaro, collect the award, and be back in Gnisis...",
+            "fid" : "content" },
+          
+          { "form" : "killed",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...myself if you, Saint Seryn let it not be so, were <mark>killed<\/mark> during one of these jaunts? I don't think so. Why...",
+            "fid" : "content" },
+          
+          { "form" : "killed",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "...nodded his head, enjoying the silence. He could have <mark>killed<\/mark> Egroamaro without the spell, he considered, but he could...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "kill",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...of persuasion; for safety, it was enchanted to instantly <mark>kill<\/mark> anyone who wore it except Nerevar. The ring was called...",
+            "fid" : "content" },
+          
+          { "form" : "killed",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...Dwemer, House Dagoth, and their allies. Nerevar was <mark>killed<\/mark> in the battle, and his ring lost, but Nerevar's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kill",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...of the Imperial cult, and of course, forbidden to <mark>kill<\/mark> another member. It is forbidden to steal from another member...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "killed",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "The wake was considered a great success as the beverage <mark>killed<\/mark> a great many guests and thus Mordrin Hanin was supplied with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "killed",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...into the void. All Chimere's friends and countrymen were instantly <mark>killed<\/mark>, though the sounds of their voices remained to torment Chimere's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "killing",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "...means to advancement. Those reluctant to prove their worthiness by <mark>killing<\/mark> off the competition, and those uncomfortable about competing in such...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Killing",
+            "weight" : "1",
+            "pos" : 431,
+            "context" : "...But on the seventh day, as he was preparing his <mark>Killing<\/mark> Blow, he suddenly stopped, eyes wide open. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "killing",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...head, drawing the string tight, and then supplying the <mark>killing<\/mark> blow or blows.\"",
+            "fid" : "content" } ] } ] }

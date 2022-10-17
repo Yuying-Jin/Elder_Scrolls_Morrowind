@@ -1,0 +1,52 @@
+
+  { "stem" : "11",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "11",
+            "weight" : "1",
+            "pos" : 4640,
+            "context" : "Yellow Book of 3E 426, count: <mark>11<\/mark>" },
+          
+          { "form" : "11",
+            "weight" : "1",
+            "pos" : 6599,
+            "context" : "Unnamed Book, count: <mark>11<\/mark>" },
+          
+          { "form" : "11",
+            "weight" : "1",
+            "pos" : 6794,
+            "context" : "Unnamed Book, count: <mark>11<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "11",
+            "weight" : "1",
+            "pos" : 4768,
+            "context" : "Yellow Book of 3E 426, count: <mark>11<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "11",
+            "weight" : "1",
+            "pos" : 6697,
+            "context" : "Unnamed Book, count: <mark>11<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "11",
+            "weight" : "1",
+            "pos" : 6911,
+            "context" : "Unnamed Book, count: <mark>11<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

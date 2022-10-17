@@ -1,0 +1,197 @@
+
+  { "stem" : "except",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "exceptions",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...dead are almost always subject to Arkay's Law. There are <mark>exceptions<\/mark> after large battles or in remote areas where death occurs far...",
+            "fid" : "content" },
+          
+          { "form" : "exception",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "...mandate cremation of the dead. This is practiced almost without <mark>exception<\/mark> in the north, through an Imperial burial in a tomb...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "exceptional",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...of Gnisis. Ald'ruhn, the Redoran district seat, is <mark>exceptional<\/mark>, with its distinctive feature being the colossal prehistoric bug shell...",
+            "fid" : "content" },
+          
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "...modest one-story private dwellings follow the same plan, <mark>except<\/mark> with less decoration. Hlaalu plantation estates resemble Temple compounds,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "exceptions",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...and do not think of their relationships as personal. Notable <mark>exceptions<\/mark> include minor charismatic sub-cults of Akatosh and Dibella....",
+            "fid" : "content" },
+          
+          { "form" : "exception",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "With the <mark>exception<\/mark> of the Alessian Order, which Heartlanders regard as a dark...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...of pain and terror that I cannot express in words, <mark>except<\/mark> that it seemed afterward that I had been asleep and dreaming...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exceptionally",
+            "weight" : "1",
+            "pos" : 369,
+            "context" : "...for a modest fee. Gnaar Mok is a LONG and <mark>exceptionally<\/mark> unpleasant walk west to the coast and then south; there...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 457,
+            "context" : "...The region is rocky, infertile, and largely uninhabited, <mark>except<\/mark> for the outpost at Molag Mar, the Telvanni settlements at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exception",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "..., enchanted weapons are not needed to destroy skeletons. An <mark>exception<\/mark> is the bonelord, a peculiar form of revenant that seems...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...been nigh invincible. Gothren's own troops had no hope, <mark>except<\/mark> to pray that Mehrunes Dagon would reclaim his artifact. Considering...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exception",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "..., enchanted weapons are not needed to destroy skeletons. An <mark>exception<\/mark> is the bonelord, a peculiar form of revenant that seems...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...figure with ties to one of the royal Houses, everyone <mark>except<\/mark> for S'Riizh and Harithoel. They decided that it was all...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exceptionally",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...armor is a mixed blessing. It also makes its wearer <mark>exceptionally<\/mark> vulnerable to magical attacks, so one should only wear it...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exceptions",
+            "weight" : "1",
+            "pos" : 381,
+            "context" : "...by adventurers require more rare and expensive ingredients. There are <mark>exceptions<\/mark>, like the easy and affordable recipe for fire shield....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "..., it was enchanted to instantly kill anyone who wore it <mark>except<\/mark> Nerevar. The ring was called Moon-and-Star, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...the fundaments, and curtail the flow through the Congeries, <mark>except<\/mark> when functions be warranted. And safeguard that the Congeries shall...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "except",
+            "weight" : "1",
+            "pos" : 818,
+            "context" : "...in his bed, waiting, but there was no sound <mark>except<\/mark> the usual creaks and groans of his old house. Afternoon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exceptional",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...greatly in their approach to prey. The Quarra bloodline features <mark>exceptional<\/mark> strength and endurance, and attacks in a state of ecstatic...",
+            "fid" : "content" } ] } ] }

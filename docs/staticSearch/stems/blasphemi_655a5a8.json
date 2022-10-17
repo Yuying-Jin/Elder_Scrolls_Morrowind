@@ -1,0 +1,14 @@
+
+  { "stem" : "blasphemi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blasphemy",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...if sorcerers bring them forth, then such a summons is <mark>blasphemy<\/mark>, an abomination before the Tribes and Temple, and a...",
+            "fid" : "content" } ] } ] }

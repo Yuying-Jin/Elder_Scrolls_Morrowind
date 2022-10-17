@@ -1,0 +1,31 @@
+
+  { "stem" : "aid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "aid",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...is the worldly working of the Divine Plan. We pledge <mark>aid<\/mark> and comfort to all citizens in need, and serve the...",
+            "fid" : "content" },
+          
+          { "form" : "aid",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...ask only a one-time pledge of 50 drakes to <mark>aid<\/mark> us in our good works. Thereafter, the only cost...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aid",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...I run into any trouble, I'll call on them to <mark>aid<\/mark> my quest.\"",
+            "fid" : "content" } ] } ] }

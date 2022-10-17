@@ -1,0 +1,37 @@
+
+  { "stem" : "velanda",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Velanda",
+            "weight" : "1",
+            "pos" : 7006,
+            "context" : "<mark>Velanda<\/mark> Omani" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "velanda",
+            "weight" : "1",
+            "pos" : 7138,
+            "context" : "<mark>velanda<\/mark> omani",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Velanda",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "Mistress <mark>Velanda<\/mark> Omani, by Grace of Almsivi, Honored Councilor of Hlaalu...",
+            "fid" : "VelandaOmani" } ] } ] }

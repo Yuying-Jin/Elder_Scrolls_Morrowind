@@ -1,0 +1,70 @@
+
+  { "stem" : "feet",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "feet",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...first from a great height, will it land on its <mark>feet<\/mark>?",
+            "fid" : "content" },
+          
+          { "form" : "feet",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "Not if you cut off the <mark>feet<\/mark> first.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "feet",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...by throwing the spear or by plunging at one at his <mark>feet<\/mark>. S'Riizh made fire, but being lame, he had...",
+            "fid" : "content" },
+          
+          { "form" : "feet",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "Harithoel excitedly started to help S'Riizh to his <mark>feet<\/mark>, but the man rose on his own.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feet",
+            "weight" : "1",
+            "pos" : 409,
+            "context" : "..., I would say that no one is faster on their <mark>feet<\/mark> than our troupe, but Master Neloth's guards were surprisingly quick...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feet",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...and showy flowers. They attain a height of about three <mark>feet<\/mark> and have feathery leaves; the flowers are usually bright red...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feet",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "...to dust on impact. Feryn tried to get to his <mark>feet<\/mark>, but Baranat tore him apart, scattering him across the...",
+            "fid" : "content" } ] } ] }

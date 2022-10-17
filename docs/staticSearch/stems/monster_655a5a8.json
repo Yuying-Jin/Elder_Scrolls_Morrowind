@@ -1,0 +1,42 @@
+
+  { "stem" : "monster",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "monster",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "..., I found myself a feast for a blood-drinking <mark>monster<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "monsters",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...to atone in some for my crimes by preying upon its <mark>monsters<\/mark>, or perishing under their attacks. It is there that,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "monsters",
+            "weight" : "1",
+            "pos" : 383,
+            "context" : "...housed in the lowest tiers, along with cells full of <mark>monsters<\/mark>. There are many tradesmen, craftsmen, and trainers,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Monsters",
+            "weight" : "1",
+            "pos" : 338,
+            "context" : "...his many other crimes, Molag Bal, the Father of <mark>Monsters<\/mark>, spawned the first vampire upon the corpse of a defeated...",
+            "fid" : "content" } ] } ] }

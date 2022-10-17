@@ -1,0 +1,31 @@
+
+  { "stem" : "cover",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "covered",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...large bowl. Slowly stir in crabmeat and bittergreen. Bake <mark>covered<\/mark> in a hot over for one half hour to one hour...",
+            "fid" : "content" },
+          
+          { "form" : "cover",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...pan into the pie crust. Sprinkle with ash salts and <mark>cover<\/mark> the pie crust. Bake for one quarter hour in a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "covered",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "..., and Sadrith Mora. The rest of the island is <mark>covered<\/mark> by hostile desert wastes, arid grasslands, and volcanic badlands...",
+            "fid" : "content" } ] } ] }

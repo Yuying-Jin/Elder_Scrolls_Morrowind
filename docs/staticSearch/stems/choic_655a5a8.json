@@ -1,0 +1,25 @@
+
+  { "stem" : "choic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "choice",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "...testing for questing heroes hoping to receive Vivec's favor. Many <mark>choice<\/mark> treasures are guarded by Daedric servants in the Puzzle Canal's dark...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "choice",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "\"It's not my weapon of <mark>choice<\/mark>,\" said Harithoel, quietly, watching his prey and missing...",
+            "fid" : "content" } ] } ] }

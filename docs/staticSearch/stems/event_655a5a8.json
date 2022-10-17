@@ -1,0 +1,25 @@
+
+  { "stem" : "event",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "events",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...the essential seriousness of life. Life is hard, and <mark>events<\/mark> must be judged, endured, and reflected upon with due...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "events",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "...of the council and their residences. It also chronicles significant <mark>events<\/mark> and council actions for the year.]",
+            "fid" : "content" } ] } ] }

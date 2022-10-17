@@ -1,0 +1,70 @@
+
+  { "stem" : "busi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "business",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...coins in any deal. Theft and murder are bad for <mark>business<\/mark>. You can steal from someone, but will he trade...",
+            "fid" : "content" },
+          
+          { "form" : "business",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "There are many ways to do <mark>business<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "business",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...and agile. You must be able to keep up with <mark>business<\/mark> and with the times. You must be able to speak...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "business",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...tea or sweetmeats and engage in polite conversation before commencing the <mark>business<\/mark>. This eminently civilized tradition has a practical purpose, allowing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "busy",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "...seat of the Imperial government for Vvardenfell district, and a <mark>busy<\/mark> center of maritime trade. Castle Ebonheart is the home of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "business",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "..., on the other hand, thinks killing people is bad <mark>business<\/mark>. You want to be good people, right? So...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "business",
+            "weight" : "1",
+            "pos" : 766,
+            "context" : "...week off with pay whenever he was out of town on <mark>business<\/mark>.",
+            "fid" : "content" } ] } ] }

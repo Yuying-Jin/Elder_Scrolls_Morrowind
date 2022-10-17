@@ -1,0 +1,14 @@
+
+  { "stem" : "recal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recall",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...to be done, and, upon doing a thing, to <mark>recall<\/mark> how and when that thing has been done. For example...",
+            "fid" : "content" } ] } ] }

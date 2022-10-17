@@ -1,0 +1,25 @@
+
+  { "stem" : "dress",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dressed",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...and isolated, I yielded to my foe. The creature <mark>dressed<\/mark> like a gentleman, and I hoped for honorable treatment....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dressing",
+            "weight" : "1",
+            "pos" : 469,
+            "context" : "...has seating for hundreds of spectators; beneath the Arena are <mark>dressing<\/mark> and storage rooms for entertainers and training rooms and animal pens...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,76 @@
+
+  { "stem" : "took",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...they were like stars or the messages of stars. Ayem <mark>took<\/mark> a netchiman's wife and said:",
+            "fid" : "content" },
+          
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...Ayem threw the netchiman's wife into the ocean water where dreughs <mark>took<\/mark> her into castles of glass and coral. They gifted the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...Khajiit either. Or their dark sense of humor. He <mark>took<\/mark> some sarcastic comments from Master S'Rabba literally, and we all...",
+            "fid" : "content" },
+          
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 594,
+            "context" : "...a third rate show in Rihad,\" said Senyndie as they <mark>took<\/mark> their rooms a few hours later. \"Why do we bother...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...voice to speak, but there was no sound. Silverthorn <mark>took<\/mark> his time, strolling across the length of the hall,...",
+            "fid" : "content" },
+          
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 342,
+            "context" : "...myself, worrying about you. I suppose you'd like it if I <mark>took<\/mark> more of an interest in your work, but it's like...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "It <mark>took<\/mark> a little over an hour for Harithoel to search the island...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "took",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "...Yakin taught him the spell to fortify his strength. It <mark>took<\/mark> him some time to master it, visualizing magicka streaming through his...",
+            "fid" : "content" } ] } ] }

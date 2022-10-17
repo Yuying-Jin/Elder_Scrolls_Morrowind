@@ -1,0 +1,36 @@
+
+  { "stem" : "ruthless",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruthless",
+            "weight" : "1",
+            "pos" : 709,
+            "context" : "...disapproves of the lawless and greedy Camonna Tong, and their <mark>ruthless<\/mark> exploitation of the poor and weak.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruthless",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "...the competition, and those uncomfortable about competing in such a <mark>ruthless<\/mark> atmosphere, might better employ their time and efforts in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruthless",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "...violence, lust, and conspiracy associated the more primitive and <mark>ruthless<\/mark> impulses of the Anticipations.",
+            "fid" : "content" } ] } ] }

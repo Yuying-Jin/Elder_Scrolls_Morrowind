@@ -1,0 +1,109 @@
+
+  { "stem" : "cultur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...the Great Houses of Vvardenfell and Morrowind. Hlaalu welcomes Imperial <mark>culture<\/mark> and law, Imperial Legions and bureaucracy, and Imperial freedom...",
+            "fid" : "content" },
+          
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 482,
+            "context" : "...and Temple authority. House Indoril is openly hostile to Imperial <mark>culture<\/mark> and religion, and preserves many traditional Dunmer customs and practices...",
+            "fid" : "content" },
+          
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 525,
+            "context" : "...Temple supporters, House Dres is hostile to Imperial law and <mark>culture<\/mark>, and in particular opposed to any attempts to limit the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...The violent antipathy of Morrowind <mark>culture<\/mark> toward necromancy ensures that vampires are virtually unknown in Morrowind...",
+            "fid" : "content" },
+          
+          { "form" : "cultural",
+            "weight" : "1",
+            "pos" : 383,
+            "context" : "...which controls access to the only substantial collection of historical and <mark>cultural<\/mark> records in Morrowind....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : " Whether this particular custom is part of the <mark>culture<\/mark> or not, it's wise for the buyer and seller to greet...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 661,
+            "context" : "...we praise their faithful dedication to the Emperor and to Imperial <mark>culture<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...were believed to be extinct in Morrowind for centuries. Dunmer <mark>culture<\/mark> has a special hatred for vampires, and in earlier times...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cultures",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...large part for consistent political and social misunderstanding between the two <mark>cultures<\/mark>. Heartlanders do not consider cult affairs as serious matters,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...were believed to be extinct in Morrowind for centuries. Dunmer <mark>culture<\/mark> has a special hatred for vampires, and in earlier times...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "culture",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...Tribunes of the Temple were represented in the dawn of Chimeri <mark>culture<\/mark> by their Anticipations. These Anticipations are known to the West...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "tap",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tapped",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "...bend light. He had Silverthorn close his eyes while he <mark>tapped<\/mark> the side of his glass, making him picture the sound...",
+            "fid" : "content" } ] } ] }

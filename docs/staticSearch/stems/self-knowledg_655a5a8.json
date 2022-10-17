@@ -1,0 +1,14 @@
+
+  { "stem" : "self-knowledg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "self-knowledge",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "The Pilgrim's Path The path to wisdom and <mark>self-knowledge<\/mark> is through pilgrimage. Those who would rise in the ranks...",
+            "fid" : "content" } ] } ] }

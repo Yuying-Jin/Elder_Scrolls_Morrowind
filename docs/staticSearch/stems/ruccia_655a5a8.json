@@ -1,0 +1,37 @@
+
+  { "stem" : "ruccia",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ruccia",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...Buckmoth Legion Fort, Somutis Vunnis at Moonmoth Legion Fort, <mark>Ruccia<\/mark> Conician in the Grand Council Chambers in Ebonheart, or Lalatia...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ruccia",
+            "weight" : "1",
+            "pos" : 3143,
+            "context" : "<mark>Ruccia<\/mark> Conician" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruccia",
+            "weight" : "1",
+            "pos" : 3312,
+            "context" : "<mark>ruccia<\/mark> conician",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

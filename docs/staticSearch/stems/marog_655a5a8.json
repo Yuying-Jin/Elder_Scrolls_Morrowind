@@ -1,0 +1,101 @@
+
+  { "stem" : "marog",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches" },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 699,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 1524,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 3004,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 3805,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 3933,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 5260,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 5328,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 6556,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 6738,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Marog",
+            "weight" : "1",
+            "pos" : 6953,
+            "context" : "Tal <mark>Marog<\/mark> Kers Researches, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

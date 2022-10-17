@@ -1,0 +1,14 @@
+
+  { "stem" : "marvel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marvelous",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...Created by the Daedra Lord Malacath, this armor has the <mark>marvelous<\/mark> property of turning the blow of an oathbreaker. Chimere tricked...",
+            "fid" : "content" } ] } ] }

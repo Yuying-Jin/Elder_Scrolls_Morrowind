@@ -1,0 +1,72 @@
+
+  { "stem" : "hanud",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Hanud",
+            "weight" : "1",
+            "pos" : 2152,
+            "context" : "<mark>Hanud<\/mark>" },
+          
+          { "form" : "Hanud",
+            "weight" : "1",
+            "pos" : 2169,
+            "context" : "<mark>Hanud<\/mark> Tower" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hanud",
+            "weight" : "1",
+            "pos" : 2322,
+            "context" : "<mark>hanud<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "hanud",
+            "weight" : "1",
+            "pos" : 2339,
+            "context" : "<mark>hanud<\/mark> tower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hanud",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "<mark>Hanud<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hanud",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "<mark>Hanud<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hanud",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "<mark>Hanud<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

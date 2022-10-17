@@ -1,0 +1,20 @@
+
+  { "stem" : "foliag",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "foliage",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...flowers are inconspicuous and often hidden. The glossy, evergreen <mark>foliage<\/mark> and flowers are resistant to the conditions of high heat and...",
+            "fid" : "content" },
+          
+          { "form" : "foliage",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...The plant is very difficult to find as its above ground <mark>foliage<\/mark> is very meager and scrawny. But the Arrowroot itself can...",
+            "fid" : "content" } ] } ] }

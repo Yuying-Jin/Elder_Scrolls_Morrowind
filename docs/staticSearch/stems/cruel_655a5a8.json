@@ -1,0 +1,47 @@
+
+  { "stem" : "cruel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Cruel",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...the dead, the ceaseless weeping of the necromancer's thrall? <mark>Cruel<\/mark> enough is the ancestor's service given in love to Hearth and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cruel",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...you bound me by oath to defend. It was a <mark>cruel<\/mark> blow, a bitter betrayal, to be felled by your...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cruel",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...for your justice, Lord Vivec. I shall be neither <mark>cruel<\/mark> nor arbitrary, for fair dealing earns the love, trust...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cruel",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...the whim of Boethiah or one of the other daedra with <mark>cruel<\/mark> senses of humor.",
+            "fid" : "content" } ] } ] }

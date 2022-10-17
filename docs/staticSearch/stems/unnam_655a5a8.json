@@ -1,0 +1,226 @@
+
+  { "stem" : "unnam",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 17,
+        "contexts" : 
+        [ 
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "<mark>Unnamed<\/mark> Book" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 706,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 1605,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 1718,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 2143,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 2577,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 3143,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 4",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 3543,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 3821,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 5775,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 5825,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6477,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6694,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 11",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6834,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 10",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6908,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 11",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 7210,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 7285,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 7",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 16,
+        "contexts" : 
+        [ 
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 532,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 2" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 1434,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 1549,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 1961,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 2" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 2408,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 2968,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 4" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 3390,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 3920,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 3" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 5577,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6066,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6394,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 2" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6596,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 11" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6730,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 10" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 6791,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 11" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 7078,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 1" },
+          
+          { "form" : "Unnamed",
+            "weight" : "1",
+            "pos" : 7160,
+            "context" : "<mark>Unnamed<\/mark> Book, count: 7" } ] } ] }

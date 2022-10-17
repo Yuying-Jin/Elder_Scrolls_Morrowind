@@ -1,0 +1,37 @@
+
+  { "stem" : "andrano",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Andrano's",
+            "weight" : "1",
+            "pos" : 887,
+            "context" : "Ald'ruhn,_Boldrisa_<mark>Andrano's<\/mark>_House" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "andrano's",
+            "weight" : "1",
+            "pos" : 1042,
+            "context" : "ald'ruhn, boldrisa <mark>andrano's<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Andrano's",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "Ald'ruhn, Boldrisa <mark>Andrano's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

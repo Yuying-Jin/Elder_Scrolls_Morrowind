@@ -1,0 +1,26 @@
+
+  { "stem" : "twenti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "twenty",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "...Yakin. \"They say he can stand in blue flames for <mark>twenty<\/mark> minutes.\"",
+            "fid" : "content" },
+          
+          { "form" : "twenty",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...for me.\" And he sat in the inferno of flame for <mark>twenty<\/mark> minutes before he left.",
+            "fid" : "content" },
+          
+          { "form" : "twenty",
+            "weight" : "1",
+            "pos" : 635,
+            "context" : "...Priif's sparring partner to attack him with his sword. After <mark>twenty<\/mark> minutes of blocking the man's blows with his shield, he...",
+            "fid" : "content" } ] } ] }

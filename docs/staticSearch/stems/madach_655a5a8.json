@@ -1,0 +1,61 @@
+
+  { "stem" : "madach",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Madach",
+            "weight" : "1",
+            "pos" : 2062,
+            "context" : "Gnisis,_<mark>Madach<\/mark>_Tradehouse" },
+          
+          { "form" : "Madach",
+            "weight" : "1",
+            "pos" : 5873,
+            "context" : "<mark>Madach<\/mark>_ Tradehouse" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "madach",
+            "weight" : "1",
+            "pos" : 2229,
+            "context" : "gnisis, <mark>madach<\/mark> tradehouse",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "madach",
+            "weight" : "1",
+            "pos" : 6168,
+            "context" : "<mark>madach<\/mark> tradehouse",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Madach",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "Gnisis, <mark>Madach<\/mark> Tradehouse: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Madach",
+            "weight" : "1",
+            "pos" : 437,
+            "context" : "...The lesson learned, he came across Master Combova at the <mark>Madach<\/mark> Tradehouse&gt;.",
+            "fid" : "Madach_Tradehouse" } ] } ] }

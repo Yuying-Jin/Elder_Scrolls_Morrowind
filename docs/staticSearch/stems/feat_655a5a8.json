@@ -1,0 +1,14 @@
+
+  { "stem" : "feat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feats",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...it's far too time-consuming to have to master actual <mark>feats<\/mark>.\"",
+            "fid" : "content" } ] } ] }

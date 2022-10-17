@@ -1,0 +1,14 @@
+
+  { "stem" : "pursu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pursuing",
+            "weight" : "1",
+            "pos" : 358,
+            "context" : "...The wizard-lords of House Telvanni have traditionally isolated themselves, <mark>pursuing<\/mark> wisdom and mastery in solitude. But certain ambitious wizards-...",
+            "fid" : "content" } ] } ] }

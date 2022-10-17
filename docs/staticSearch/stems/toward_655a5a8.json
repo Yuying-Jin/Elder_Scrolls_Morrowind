@@ -1,0 +1,98 @@
+
+  { "stem" : "toward",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 568,
+            "context" : "...north. Good roads lead from the Foreign Quarter bridge west <mark>towards<\/mark> Seyda Neen, north towards Suran and the Ascadian Isles,...",
+            "fid" : "content" },
+          
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 572,
+            "context" : "...from the Foreign Quarter bridge west towards Seyda Neen, north <mark>towards<\/mark> Suran and the Ascadian Isles, and east towards Molag Mar...",
+            "fid" : "content" },
+          
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 577,
+            "context" : "..., north towards Suran and the Ascadian Isles, and east <mark>towards<\/mark> Molag Mar. Roads from the Telvanni Compound bridge are useful...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...Suran on the north shore of Lake Amaya as you head <mark>towards<\/mark> Pelagiad. The shrine is between two rocks, and most...",
+            "fid" : "content" },
+          
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 523,
+            "context" : "...and south of Gnisis. The cave mouth faces south, <mark>towards<\/mark> the sea, and is marked by a large natural arch...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...experience in these matters, though it is best to err <mark>towards<\/mark> tight bindings. One may always loosen them at a later...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...swings northwest to avoid the barren wastes, and curves around <mark>towards<\/mark> the west until it heads south again to Caldera. Between...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "towards",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "...about, and in a desperate panic all the Guar scuttled off <mark>towards<\/mark> the sea, determined to drown themselves rather than live in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "toward",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...?\" asked the Ashkhan with some disapprobation and a dismissive gesture <mark>toward<\/mark> the Redguard woman in the troupe.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "toward",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...The violent antipathy of Morrowind culture <mark>toward<\/mark> necromancy ensures that vampires are virtually unknown in Morrowind......",
+            "fid" : "content" } ] } ] }

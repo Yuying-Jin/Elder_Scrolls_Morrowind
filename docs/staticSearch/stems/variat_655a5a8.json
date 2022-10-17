@@ -1,0 +1,14 @@
+
+  { "stem" : "variat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "variation",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...\"The classic technique, which requires less grappling than my friend's <mark>variation<\/mark>, is to place one hand over the victim's mouth,...",
+            "fid" : "content" } ] } ] }

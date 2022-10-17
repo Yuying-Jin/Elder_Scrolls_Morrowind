@@ -1,0 +1,37 @@
+
+  { "stem" : "bonem",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bonemeal",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...Part mixed Bittergreen Petals, Void Salts, Green Lichens and <mark>Bonemeal<\/mark> 1 Part Moonsugar 5 Parts Flin",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bonemeal",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "<mark>bonemeal<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bonemeal",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "<mark>bonemeal<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

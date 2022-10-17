@@ -1,0 +1,37 @@
+
+  { "stem" : "alemb",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Alembic",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : " Combine Blood, Heart, Moonsugar in Large Ebony <mark>Alembic<\/mark>. Heat fire fed by Bones of Traitors. Condense vapors...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "alembic",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "<mark>alembic<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "alembic",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "<mark>alembic<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

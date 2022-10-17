@@ -1,0 +1,30 @@
+
+  { "stem" : "hackle-lo",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hackle-lo",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...two or more of the following ingredients: luminous russula, <mark>hackle-lo<\/mark> leaf, and kwama cuttle. luminous russula is a squat...",
+            "fid" : "content" },
+          
+          { "form" : "hackle-lo",
+            "weight" : "1",
+            "pos" : 351,
+            "context" : "...brown-and-green toadstool mushroom of the Bitter Coast region. <mark>hackle-lo<\/mark> leaf is a succulent leaf of the Grazelands, prized for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hackle-lo",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "<mark>hackle-lo<\/mark>_leaf" } ] } ] }

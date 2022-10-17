@@ -1,0 +1,44 @@
+
+  { "stem" : "perman",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "permanent",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "...regions. The village of Maar Gan is the only sizable <mark>permanent<\/mark> Ashlands settlement; Ald'ruhn, the district seat of House Redoran...",
+            "fid" : "content" },
+          
+          { "form" : "permanent",
+            "weight" : "1",
+            "pos" : 431,
+            "context" : " The Ashlanders Urshilaku tribe has a <mark>permanent<\/mark> settlement at Urshilaku camp in the Ashlands region north of Maar...",
+            "fid" : "content" },
+          
+          { "form" : "permanent",
+            "weight" : "1",
+            "pos" : 674,
+            "context" : " The Ashlander Ahemmusa tribe has a <mark>permanent<\/mark> settlement at Ahemmusa camp on a rocky promontory at the northeastern...",
+            "fid" : "content" },
+          
+          { "form" : "Permanent",
+            "weight" : "1",
+            "pos" : 828,
+            "context" : "...of Vvardenfell, sandwiched between the Ashlands and Azura's Coast. <mark>Permanent<\/mark> settlements include Vos village and the towers of Tel Vos and...",
+            "fid" : "content" },
+          
+          { "form" : "permanent",
+            "weight" : "1",
+            "pos" : 858,
+            "context" : " The Ashlander Zainab tribe has a <mark>permanent<\/mark> settlement at Zainab camp, near the village of Vos in...",
+            "fid" : "content" },
+          
+          { "form" : "permanent",
+            "weight" : "1",
+            "pos" : 952,
+            "context" : " The Ashlander Erabenimsun tribe has a <mark>permanent<\/mark> settlement at Erabenimsun camp, an isolated hut settlement in the...",
+            "fid" : "content" } ] } ] }

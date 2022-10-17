@@ -1,0 +1,14 @@
+
+  { "stem" : "impact",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "impact",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...knocking the giant through a boulder which turned to dust on <mark>impact<\/mark>. Feryn tried to get to his feet, but Baranat...",
+            "fid" : "content" } ] } ] }

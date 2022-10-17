@@ -1,0 +1,37 @@
+
+  { "stem" : "tr",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "TR",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "Mournhold, Mournhold Temple: Office of the Lord Archcanon <mark>TR<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "TR",
+            "weight" : "1",
+            "pos" : 2820,
+            "context" : "Mournhold, Mournhold Temple: Office of the Lord Archcanon <mark>TR<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tr",
+            "weight" : "1",
+            "pos" : 2989,
+            "context" : "mournhold, mournhold temple: office of the lord archcanon <mark>tr<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "landfal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "landfall",
+            "weight" : "1",
+            "pos" : 754,
+            "context" : "...throughout the Inner Sea. Most visitors from the Empire make <mark>landfall<\/mark> at the port of Seyda Neen, where they are processed...",
+            "fid" : "content" } ] } ] }

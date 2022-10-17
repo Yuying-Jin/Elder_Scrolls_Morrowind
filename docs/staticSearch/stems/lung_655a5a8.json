@@ -1,0 +1,14 @@
+
+  { "stem" : "lung",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lungs",
+            "weight" : "1",
+            "pos" : 433,
+            "context" : "...the ash from his perished followers, breathed life into their <mark>lungs<\/mark>, and cured them of the blight. This is Vivec's...",
+            "fid" : "content" } ] } ] }

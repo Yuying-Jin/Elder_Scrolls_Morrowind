@@ -1,0 +1,26 @@
+
+  { "stem" : "techniqu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "technique",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...with thieves today,\" said Lledos, \"Is the lack of <mark>technique<\/mark>. I know there's no honor among thieves, and there...",
+            "fid" : "content" },
+          
+          { "form" : "technique",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "...name I won't mention, swears by the strangle-and-slash <mark>technique<\/mark>. Simply put, you grab your victim's throat from behind...",
+            "fid" : "content" },
+          
+          { "form" : "technique",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "\"The classic <mark>technique<\/mark>, which requires less grappling than my friend's variation, is...",
+            "fid" : "content" } ] } ] }

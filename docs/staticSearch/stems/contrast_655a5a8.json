@@ -1,0 +1,25 @@
+
+  { "stem" : "contrast",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "contrast",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "..., and its predecessor, house ancestor cults, are, by <mark>contrast<\/mark> with Imperial cults, extremely intimate and personal. In ancestor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "contrast",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...grows mainly in the Ascadian Isles. frost salts, by <mark>contrast<\/mark>, are rare and expensive. These crystalline compounds precipitate from...",
+            "fid" : "content" } ] } ] }

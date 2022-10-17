@@ -1,0 +1,37 @@
+
+  { "stem" : "atronach",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "atronachs",
+            "weight" : "1",
+            "pos" : 6012,
+            "context" : "frost_<mark>atronachs<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "atronachs",
+            "weight" : "1",
+            "pos" : 5053,
+            "context" : "frost <mark>atronachs<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "atronachs",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : ".... Such residues may be collected from the remains of frost <mark>atronachs<\/mark> that have been banished from the mortal plane.",
+            "fid" : "content" } ] } ] }

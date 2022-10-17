@@ -1,0 +1,14 @@
+
+  { "stem" : "chest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chests",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "...learn to protect your own property by securing it with hidden <mark>chests<\/mark>, locks, and even traps. And when confrontation is...",
+            "fid" : "content" } ] } ] }

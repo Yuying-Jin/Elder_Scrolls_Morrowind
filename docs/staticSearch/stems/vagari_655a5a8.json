@@ -1,0 +1,83 @@
+
+  { "stem" : "vagari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka" },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 3413,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 3480,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 3842,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 4286,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 4726,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 3286,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 1" },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 3329,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 1" },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 3930,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 2" },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 4142,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 1" },
+          
+          { "form" : "Vagaries",
+            "weight" : "1",
+            "pos" : 4588,
+            "context" : "The <mark>Vagaries<\/mark> of Magicka, count: 1" } ] } ] }

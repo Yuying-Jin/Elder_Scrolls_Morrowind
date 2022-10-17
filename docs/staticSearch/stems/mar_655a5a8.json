@@ -1,0 +1,121 @@
+
+  { "stem" : "mar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 579,
+            "context" : "...towards Suran and the Ascadian Isles, and east towards Molag <mark>Mar<\/mark>. Roads from the Telvanni Compound bridge are useful mostly for...",
+            "fid" : "content" },
+          
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 588,
+            "context" : "...the Telvanni Compound bridge are useful mostly for travelers to Molag <mark>Mar<\/mark>. Silt strider service is available at the north end of...",
+            "fid" : "content" },
+          
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 605,
+            "context" : "...Vivec to Suran, Seyda Neen, Balmora, and Molag <mark>Mar<\/mark>. Ships from the docks at the Foreign Quarter travel to...",
+            "fid" : "content" },
+          
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 615,
+            "context" : "...the Foreign Quarter travel to Ebonheart, Hla Oad, Molag <mark>Mar<\/mark>, and Tel Branora. Ships from nearby Ebonheart sail to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 460,
+            "context" : "..., and largely uninhabited, except for the outpost at Molag <mark>Mar<\/mark>, the Telvanni settlements at Sadrith Mora, the wizard towers...",
+            "fid" : "content" },
+          
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 919,
+            "context" : " The outpost at Molag <mark>Mar<\/mark> is a fortified stronghold on the southeastern edge of the desolate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 2614,
+            "context" : "Molag <mark>Mar<\/mark>" },
+          
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 2635,
+            "context" : "Molag_<mark>Mar<\/mark>" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "Molag <mark>Mar<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...to priests at the temples in Ald'ruhn, Balmora, Molag <mark>Mar<\/mark>, and Ghostgate, or with priests at the High Fane...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mar",
+            "weight" : "1",
+            "pos" : 2788,
+            "context" : "molag <mark>mar<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Molag <mark>Mar<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mar",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "Molag <mark>Mar<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

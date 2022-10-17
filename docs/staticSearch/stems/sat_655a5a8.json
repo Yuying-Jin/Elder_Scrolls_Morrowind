@@ -1,0 +1,20 @@
+
+  { "stem" : "sat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sat",
+            "weight" : "1",
+            "pos" : 453,
+            "context" : "..., cast a ball of blue flame for me.\" And he <mark>sat<\/mark> in the inferno of flame for twenty minutes before he left...",
+            "fid" : "content" },
+          
+          { "form" : "sat",
+            "weight" : "1",
+            "pos" : 473,
+            "context" : "...Leles, cast a ball of blue flames for me.\" Oin <mark>sat<\/mark> in the inferno of blue fire for very nearly an hour...",
+            "fid" : "content" } ] } ] }

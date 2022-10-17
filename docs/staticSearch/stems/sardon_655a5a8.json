@@ -1,0 +1,14 @@
+
+  { "stem" : "sardon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sardonically",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "Egroamaro bowed to his adversary <mark>sardonically<\/mark>, and then prepared to unleash a fireball to incinerate him....",
+            "fid" : "content" } ] } ] }

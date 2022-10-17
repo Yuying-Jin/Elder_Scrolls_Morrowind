@@ -1,0 +1,20 @@
+
+  { "stem" : "top-tier",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "top-tier",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : "...Two noble families, the Savens and the Dralors, have <mark>top-tier<\/mark> manors. There are many tradesmen, craftsmen, and trainers...",
+            "fid" : "content" },
+          
+          { "form" : "top-tier",
+            "weight" : "1",
+            "pos" : 523,
+            "context" : "...Delyn, and Hlaalu Councilor Yngling Half-Troll has a <mark>top-tier<\/mark> manor on St. Olms.",
+            "fid" : "content" } ] } ] }

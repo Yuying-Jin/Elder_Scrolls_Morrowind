@@ -1,0 +1,25 @@
+
+  { "stem" : "hard",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hard",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : ".... Gravity is the essential seriousness of life. Life is <mark>hard<\/mark>, and events must be judged, endured, and reflected...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hard",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "...forests of Skyrim. The wood from these trees is as <mark>hard<\/mark> as the metal for which they are named. The very...",
+            "fid" : "content" } ] } ] }

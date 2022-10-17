@@ -1,0 +1,192 @@
+
+  { "stem" : "rest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Book of <mark>Rest<\/mark> and Endings" },
+          
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 2115,
+            "context" : "gnaar mok, druegh jigger's <mark>rest<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 2260,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 2291,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 2533,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 3535,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 4183,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 1942,
+            "context" : "Gnaar Mok, Druegh-jigger's <mark>Rest<\/mark>" },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 2093,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1" },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 2121,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1" },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 2367,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1" },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 3382,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1" },
+          
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 4039,
+            "context" : "Book of <mark>Rest<\/mark> and Endings, count: 1" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Rest",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "Gnaar Mok, Druegh-jigger's <mark>Rest<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...centers at Balmora, Ald'ruhn, and Sadrith Mora. The <mark>rest<\/mark> of the island is covered by hostile desert wastes, arid...",
+            "fid" : "content" },
+          
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 1039,
+            "context" : "...of Dagoth Ur might emerge from Red Mountain to threaten the <mark>rest<\/mark> of Morrowind. The Ghostfence itself is a colossal magical artifact...",
+            "fid" : "content" },
+          
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 1054,
+            "context" : "...Mountain and prevents the Blight from spilling its corruption across the <mark>rest<\/mark> of Vvardenfell.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "resting",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "\"If you can catch your victim lying down asleep or <mark>resting<\/mark>, you are in an excellent position. You place one...",
+            "fid" : "content" },
+          
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 726,
+            "context" : "...He reigned in his guar and filled its feed. The <mark>rest<\/mark> of the stalls were empty. It wouldn't be until that...",
+            "fid" : "content" },
+          
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 778,
+            "context" : "...tight, but Sathis had given himself a few hours to <mark>rest<\/mark> before his household returned. His own bed was wonderfully soft...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "...the corpse miner's will, how may such a spirit ever find <mark>rest<\/mark>? How may it ever find its way back to its...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 493,
+            "context" : "...a raised animal is unable to distinguish its master from the <mark>rest<\/mark> of the living and many amateur practitioners have been torn apart...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rest",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...it is not. The help of friends includes a place to <mark>rest<\/mark>, and a place to buy supplies and services -- training...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rested",
+            "weight" : "1",
+            "pos" : 402,
+            "context" : "...as they fled the ash and blight. Weary, they <mark>rested<\/mark> here a while. When Vivec awoke, he found himself and...",
+            "fid" : "content" } ] } ] }

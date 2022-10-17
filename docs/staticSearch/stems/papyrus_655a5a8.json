@@ -1,0 +1,14 @@
+
+  { "stem" : "papyrus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "papyrus",
+            "weight" : "1",
+            "pos" : 548,
+            "context" : "...of the act, you have some very fine sheets of <mark>papyrus<\/mark>.\"",
+            "fid" : "content" } ] } ] }

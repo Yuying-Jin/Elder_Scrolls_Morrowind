@@ -1,0 +1,14 @@
+
+  { "stem" : "cheap",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cheap",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "..., combine in equal parts two or more of the following <mark>cheap<\/mark> and common ingredients: marshmerrow, wickwheat, corkbulb root,...",
+            "fid" : "content" } ] } ] }

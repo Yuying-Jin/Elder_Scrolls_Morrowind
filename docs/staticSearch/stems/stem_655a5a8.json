@@ -1,0 +1,14 @@
+
+  { "stem" : "stem",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stems",
+            "weight" : "1",
+            "pos" : 412,
+            "context" : "...wizards' tower, a fantastic organic form grown and sculpted from <mark>stems<\/mark>, caps, and root-like holdfasts of the giant...",
+            "fid" : "content" } ] } ] }

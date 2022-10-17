@@ -1,0 +1,43 @@
+
+  { "stem" : "tulkiand",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tulkiande",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...juggles fifteen flaming globes while hopping across broken glass. Master <mark>Tulkiande<\/mark> will astound you as she supports her body with one finger...",
+            "fid" : "content" },
+          
+          { "form" : "Tulkiande",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "...the bridge into the main courtyard of the stronghold. Masters <mark>Tulkiande<\/mark>, Mearvis, Jereth, and I formed a pyramid to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tulkiande",
+            "weight" : "1",
+            "pos" : 7413,
+            "context" : "Master <mark>Tulkiande<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tulkiande",
+            "weight" : "1",
+            "pos" : 7552,
+            "context" : "master <mark>tulkiande<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

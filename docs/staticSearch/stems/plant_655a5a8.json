@@ -1,0 +1,78 @@
+
+  { "stem" : "plant",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...of high heat and bright light. A petal from this <mark>plant<\/mark> placed under an adventurer's tongue will provide protection from the heat...",
+            "fid" : "content" },
+          
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...It is said, however, that Argonians can pick the <mark>plant<\/mark> and use the sap derived from its roots as an enhancement...",
+            "fid" : "content" },
+          
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 270,
+            "context" : "...it that when mixed properly with the pulp of the Aloe <mark>plant<\/mark>, the potion has the ability to increase one's stamina for...",
+            "fid" : "content" },
+          
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...in the swamps of Black Marsh. The fronds from this <mark>plant<\/mark> are light green and quite delicate. Picking a frond can...",
+            "fid" : "content" },
+          
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : "...that can be found in the Province of Valenwood. The <mark>plant<\/mark> is very difficult to find as its above ground foliage is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...buried in consecrated ground. green lichen is a hardy primitive <mark>plant<\/mark> that grows in the Ascadian Isles and Azura's Coast.",
+            "fid" : "content" },
+          
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : ".... coda flowers are collected from the primitive draggle-tail <mark>plant<\/mark> of the Bitter Coast.",
+            "fid" : "content" },
+          
+          { "form" : "plant",
+            "weight" : "1",
+            "pos" : 479,
+            "context" : "...crushed diamonds and bittergreen petals. Bittergreen is a red flowering <mark>plant<\/mark> growing in the Red Mountain region. diamonds, on the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "plants",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...has nine basic geographic regions, each with their own distinctive <mark>plants<\/mark> and terrain features. Scholars have based their classifications on the...",
+            "fid" : "content" },
+          
+          { "form" : "plants",
+            "weight" : "1",
+            "pos" : 491,
+            "context" : "...by boat. Despite the rocky terrain, a variety of <mark>plants<\/mark> thrive on the regular rainfall.",
+            "fid" : "content" } ] } ] }

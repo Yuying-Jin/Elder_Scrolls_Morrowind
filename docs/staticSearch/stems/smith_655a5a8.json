@@ -1,0 +1,25 @@
+
+  { "stem" : "smith",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smith",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...prices, but with smaller selections, are available from the <mark>smith<\/mark>, clothier, trader, pawnbroker, and bookseller near the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smith",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "...great enchanters, so Nerevar went in secret to a Dwemer <mark>smith<\/mark> and asked for an enchanted ring that would help him. The...",
+            "fid" : "content" } ] } ] }

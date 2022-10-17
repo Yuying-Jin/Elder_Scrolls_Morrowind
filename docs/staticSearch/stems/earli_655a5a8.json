@@ -1,0 +1,14 @@
+
+  { "stem" : "earli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "early",
+            "weight" : "1",
+            "pos" : 672,
+            "context" : "...spend their share of the gold. Both would wake up <mark>early<\/mark> and rush to the Plot and Plaster. He could see...",
+            "fid" : "content" } ] } ] }

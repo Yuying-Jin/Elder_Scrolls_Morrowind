@@ -1,0 +1,36 @@
+
+  { "stem" : "crucibl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crucible",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "Forge a keen Faith in the <mark>crucible<\/mark> of suffering.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crucible",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "Forge a keen Faith in the <mark>crucible<\/mark> of suffering.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crucible",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "What dark <mark>crucible<\/mark> may kindle their souls to light?",
+            "fid" : "content" } ] } ] }

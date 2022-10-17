@@ -1,0 +1,14 @@
+
+  { "stem" : "vote",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "votes",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "...behalf, receiving messengers from their patrons and casting their patron's <mark>votes<\/mark> in Council affairs.)",
+            "fid" : "content" } ] } ] }

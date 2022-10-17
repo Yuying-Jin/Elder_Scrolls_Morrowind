@@ -1,0 +1,25 @@
+
+  { "stem" : "memori",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "memories",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "..., let none be seen by the living. Let the <mark>memories<\/mark> of the undead waste away from the people. Send missionaries...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "memory",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "..., though the sounds of their voices remained to torment Chimere's <mark>memory<\/mark>. Chimere was condemned to live forever, to grow progressively...",
+            "fid" : "content" } ] } ] }

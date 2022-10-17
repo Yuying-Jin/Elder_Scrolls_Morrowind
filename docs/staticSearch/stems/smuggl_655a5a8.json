@@ -1,0 +1,36 @@
+
+  { "stem" : "smuggl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smuggling",
+            "weight" : "1",
+            "pos" : 770,
+            "context" : "...of the Coastguard station. The Coastguard cutters docked here control <mark>smuggling<\/mark> and piracy on the Inner Sea.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Smuggling",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "<mark>Smuggling<\/mark> and organized crime have become increasingly aggressive and violent in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smuggling",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...fell on the small island, the two men discussed the <mark>smuggling<\/mark> operation and what went wrong. Their boat, laden with...",
+            "fid" : "content" } ] } ] }

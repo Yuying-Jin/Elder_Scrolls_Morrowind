@@ -1,0 +1,20 @@
+
+  { "stem" : "dot",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "dotted",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...southern coast are densely populated; the inland Ascadian Isles are <mark>dotted<\/mark> with small farms and large plantations. The climate is temperate...",
+            "fid" : "content" },
+          
+          { "form" : "dotted",
+            "weight" : "1",
+            "pos" : 981,
+            "context" : "...are steep and rugged, and the crater is deep and <mark>dotted<\/mark> with surface lava. The Ghostfence, a magical barrier which...",
+            "fid" : "content" } ] } ] }

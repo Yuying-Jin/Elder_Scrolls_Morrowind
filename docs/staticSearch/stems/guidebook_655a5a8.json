@@ -1,0 +1,14 @@
+
+  { "stem" : "guidebook",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "guidebook",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "I have been asked to write this <mark>guidebook<\/mark> for outsiders who are unfamiliar with the Tribunal Temple, and...",
+            "fid" : "content" } ] } ] }

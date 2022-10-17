@@ -1,0 +1,37 @@
+
+  { "stem" : "falvillo",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Falvillo's",
+            "weight" : "1",
+            "pos" : 1723,
+            "context" : "<mark>Falvillo's<\/mark> Endeavor" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "falvillo's",
+            "weight" : "1",
+            "pos" : 1894,
+            "context" : "<mark>falvillo's<\/mark> endeavor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Falvillo's",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "<mark>Falvillo's<\/mark> Endeavor: Visitable? yes",
+            "fid" : "acq" } ] } ] }

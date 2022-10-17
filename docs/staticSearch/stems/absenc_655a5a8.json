@@ -1,0 +1,14 @@
+
+  { "stem" : "absenc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "absences",
+            "weight" : "1",
+            "pos" : 748,
+            "context" : "...knew that servants talked. If they began to connect his <mark>absences<\/mark> with thefts in other towns, it was only a matter...",
+            "fid" : "content" } ] } ] }

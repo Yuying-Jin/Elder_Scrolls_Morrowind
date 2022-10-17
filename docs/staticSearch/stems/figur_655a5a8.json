@@ -1,0 +1,58 @@
+
+  { "stem" : "figur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "figures",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : " Notable <mark>figures<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Figures",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : " Notable <mark>Figures<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "figures",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...a private and practical matter, and public pronouncements by religious <mark>figures<\/mark> are not welcomed.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "figure",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...everyone would drown, from the bold captain to the mysterious <mark>figure<\/mark> with ties to one of the royal Houses, everyone except...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "figure",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...the daedrai that anticipated him, Black Hands Mephala, a foundation <mark>figure<\/mark> of the earliest Chimer. This darker side of Vivec does...",
+            "fid" : "content" } ] } ] }

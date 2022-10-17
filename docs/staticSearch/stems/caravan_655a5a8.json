@@ -1,0 +1,25 @@
+
+  { "stem" : "caravan",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caravans",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "..., or the rapacious city merchant is selling shoddy merchandise. <mark>Caravans<\/mark>, it should be mentioned, are always good places to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "caravan",
+            "weight" : "1",
+            "pos" : 1192,
+            "context" : "...is a small mining and trade village astride the silt strider <mark>caravan<\/mark> route between the northwest West Gash and Ald'ruhn.",
+            "fid" : "content" } ] } ] }

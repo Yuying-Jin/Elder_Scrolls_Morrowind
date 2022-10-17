@@ -1,0 +1,14 @@
+
+  { "stem" : "ginger",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ginger",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "Down by the <mark>Ginger<\/mark> Garden",
+            "fid" : "content" } ] } ] }

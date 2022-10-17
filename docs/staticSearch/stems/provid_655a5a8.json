@@ -1,0 +1,153 @@
+
+  { "stem" : "provid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "provides",
+            "weight" : "1",
+            "pos" : 391,
+            "context" : "..., craftsmen, and trainers, and the Lizard's Head cornerclub <mark>provides<\/mark> lodgings for Telvanni kin and mercenaries.",
+            "fid" : "content" },
+          
+          { "form" : "provides",
+            "weight" : "1",
+            "pos" : 439,
+            "context" : "...craftsmen, and trainers, and the Flowers of Gold cornerclub <mark>provides<\/mark> lodgings for Redoran kin and retainers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "provide",
+            "weight" : "1",
+            "pos" : 724,
+            "context" : "...called the Smuggler's Coast, the region's secluded coves and islands <mark>provide<\/mark> refuge for criminal trade, and the frequent rain and fog...",
+            "fid" : "content" },
+          
+          { "form" : "provided",
+            "weight" : "1",
+            "pos" : 1247,
+            "context" : "...ship services; all other island-to-island transport must be <mark>provided<\/mark> by the traveler.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "provide",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...harvest his muck without his guar, and he could not <mark>provide<\/mark> for his family or his village. So the Lord Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "provides",
+            "weight" : "1",
+            "pos" : 440,
+            "context" : "...the blight. This is Vivec's heroism -- his tender heart <mark>provides<\/mark> strength when his might fails.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provides",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...the corpses of criminals and traitors to use legally. This <mark>provides<\/mark> those who have acquired such a post with a fresh supply...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provides",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : " The Guild of Fighters <mark>provides<\/mark> employment to free-swords and mercenaries and contracts to local...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provide",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "..., founder and patron of the Empire. Imperial cult priests <mark>provide<\/mark> worship and services for all these gods at Imperial shrines in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provides",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...Skar. The Ald'ruhn Temple on the east side of town <mark>provides<\/mark> service for Temple worshipers. Buckmoth Fort offers services to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "providing",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "..., the local forts help to insure law and order, <mark>providing<\/mark> guards to supplement the local guard units of the Temple and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provided",
+            "weight" : "1",
+            "pos" : 334,
+            "context" : "...we decided that he still owed us for the entertainment we <mark>provided<\/mark> under torture. We weren't sure how to collect, but...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provide",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "Nordic hero-cults <mark>provide<\/mark> a strong counter-current to the dominant secularism of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provide",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...A petal from this plant placed under an adventurer's tongue will <mark>provide<\/mark> protection from the heat and fire found in the lava pits...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provided",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...And while Boethiah, the so-called Prince of Plots, <mark>provided<\/mark> the revolutionary methods needed to bring about this transformation, Mephala...",
+            "fid" : "content" } ] } ] }

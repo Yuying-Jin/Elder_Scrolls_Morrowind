@@ -1,0 +1,25 @@
+
+  { "stem" : "freedom",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "freedom",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...culture and law, Imperial Legions and bureaucracy, and Imperial <mark>freedom<\/mark> of trade and religion. Hlaalu still honors the old Dunmer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "freedom",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "...know, you want a life of adventure and danger and <mark>freedom<\/mark>, but if you'd only take one moment to think of...",
+            "fid" : "content" } ] } ] }

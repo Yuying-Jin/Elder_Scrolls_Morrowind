@@ -1,0 +1,43 @@
+
+  { "stem" : "zenithar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Zenithar",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...Nine Divines, the Aedra Akatosh, Dibella, Arkay, <mark>Zenithar<\/mark>, Mara, Stendarr, Kynareth, and Julianos, and...",
+            "fid" : "content" },
+          
+          { "form" : "Zenithar",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...of the Nine Divines: Akatosh, Dibella, Arkay, <mark>Zenithar<\/mark>, Mara, Stendarr, Kynareth, Julianos, and Tiber...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Zenithar",
+            "weight" : "1",
+            "pos" : 7612,
+            "context" : "<mark>Zenithar<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "zenithar",
+            "weight" : "1",
+            "pos" : 7749,
+            "context" : "<mark>zenithar<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

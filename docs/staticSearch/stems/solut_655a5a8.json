@@ -1,0 +1,14 @@
+
+  { "stem" : "solut",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "solution",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...and expensive. These crystalline compounds precipitate from elemental frost in <mark>solution<\/mark>. Such residues may be collected from the remains of frost...",
+            "fid" : "content" } ] } ] }

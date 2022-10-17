@@ -1,0 +1,32 @@
+
+  { "stem" : "hori",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Horis",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...a raging river, where the second eldest Coribael brother, <mark>Horis<\/mark>, stood guard. Horis, who was faster than his...",
+            "fid" : "content" },
+          
+          { "form" : "Horis",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "...the second eldest Coribael brother, Horis, stood guard. <mark>Horis<\/mark>, who was faster than his brother Vanis, stronger than...",
+            "fid" : "content" },
+          
+          { "form" : "Horis",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "Baranat rushed at <mark>Horis<\/mark>, and two plunged into the rushing river. For twelve...",
+            "fid" : "content" },
+          
+          { "form" : "Horis",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "...hours, they wrestled one another under the water, until <mark>Horis<\/mark> could hold his breath no more and drowned. Baranat pulled...",
+            "fid" : "content" } ] } ] }

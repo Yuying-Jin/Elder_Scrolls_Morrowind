@@ -1,0 +1,25 @@
+
+  { "stem" : "spiritu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spiritual",
+            "weight" : "1",
+            "pos" : 471,
+            "context" : ".... It is difficult and sometimes dangerous work, but the <mark>spiritual<\/mark> rewards are great. Lay healers need only the skills of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spiritual",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...and complete services here, and an Imperial cult shrine serves the <mark>spiritual<\/mark> needs of the Imperial faithful. Various independent tradesmen, craftsmen...",
+            "fid" : "content" } ] } ] }

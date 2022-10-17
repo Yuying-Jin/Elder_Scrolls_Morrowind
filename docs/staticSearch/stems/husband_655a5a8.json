@@ -1,0 +1,37 @@
+
+  { "stem" : "husband",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "husband",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...and Oin, and told the young man that the lady's <mark>husband<\/mark> was not very well. Oin held back his happiness and...",
+            "fid" : "content" },
+          
+          { "form" : "husband",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "...her counselors. They are trying to find her a new <mark>husband<\/mark>, and she has made it clear that she will only...",
+            "fid" : "content" },
+          
+          { "form" : "husband",
+            "weight" : "1",
+            "pos" : 727,
+            "context" : "...men interested in my money and the money of my late <mark>husband<\/mark>. The truth is that I've never forgotten the young boy...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "husband",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...other day, I said Calissah, what good is a <mark>husband<\/mark>--”",
+            "fid" : "content" } ] } ] }

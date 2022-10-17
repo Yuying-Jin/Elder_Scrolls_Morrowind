@@ -1,0 +1,36 @@
+
+  { "stem" : "addit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "addition",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...the proper order, skeletons may be strengthened considerably by the <mark>addition<\/mark> of support on their joints. The most common are leather...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "additional",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...Tribunal Temple services are all housed within the Council Hall; <mark>additional<\/mark> Telvanni services are available in the Great Market district and in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "addition",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "...feathery leaves; the flowers are usually bright red. In <mark>addition<\/mark> to their beauty, they are said to have magical abilities...",
+            "fid" : "content" } ] } ] }

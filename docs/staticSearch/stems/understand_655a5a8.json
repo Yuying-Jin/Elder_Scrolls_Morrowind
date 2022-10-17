@@ -1,0 +1,58 @@
+
+  { "stem" : "understand",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "understanding",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...stronger servant who will follow your commands with more independence and <mark>understanding<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "understand",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...chose to write this short guide for those who seek to <mark>understand<\/mark> us or join us. House Hlaalu is the most open...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "understanding",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "...examine and analyze for patterns before he acts, with the <mark>understanding<\/mark> that many patterns are subtle or hidden.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "understanding",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...wouldn't recommend it. Eventually, we were let go on the <mark>understanding<\/mark> that we would never set foot in Sadrith Mora again. Actually...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "understanding",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...more complete appreciation of the complex nature of Vivec requires an <mark>understanding<\/mark> of the nature of Vivec's Anticipation, Mephala, and the...",
+            "fid" : "content" } ] } ] }

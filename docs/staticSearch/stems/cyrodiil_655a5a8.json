@@ -1,0 +1,70 @@
+
+  { "stem" : "cyrodiil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Cyrodiil",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...and bind them to your will. Look to my children in <mark>Cyrodiil<\/mark> for guidance.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Cyrodiils",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...to steal something. Similarly, Nords, Bretons, and <mark>Cyrodiils<\/mark> are sometimes treated coolly by merchants in the Summurset Isles....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Cyrodiil",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "In <mark>Cyrodiil<\/mark>, a few Necromancers who have served the Empire are given...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Cyrodiil",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "..., on the west by Skyrim, on the southwest by <mark>Cyrodiil<\/mark> (also known as the Imperial Province), and on the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Cyrodiil",
+            "weight" : "1",
+            "pos" : 1461,
+            "context" : "<mark>Cyrodiil<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cyrodiil",
+            "weight" : "1",
+            "pos" : 1632,
+            "context" : "<mark>cyrodiil<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

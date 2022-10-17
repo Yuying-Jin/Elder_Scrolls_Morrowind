@@ -1,0 +1,131 @@
+
+  { "stem" : "far",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "..., right? So join the Thieves Guild, and stay <mark>far<\/mark>, far away from the Camonna Tong.",
+            "fid" : "content" },
+          
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...? So join the Thieves Guild, and stay far, <mark>far<\/mark> away from the Camonna Tong.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...no illusions. We wish we knew tricks, for it's <mark>far<\/mark> too time-consuming to have to master actual feats.\"...",
+            "fid" : "content" },
+          
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 457,
+            "context" : "...the guards around to the back of the Gateway Inn, <mark>far<\/mark> from the others, and when I was sure they were...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "\"It takes away the pain,\" said S'Riizh. \"How <mark>far<\/mark> away are we?\"",
+            "fid" : "content" },
+          
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "\"We didn't make it as <mark>far<\/mark> as the mainland,\" said Harithoel. \"I can't see the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...exceptions after large battles or in remote areas where death occurs <mark>far<\/mark> from meddlesome priests. Fortunately, the dangerous terrain and creatures...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...a bit more time and effort, one may create a <mark>far<\/mark> more useful mummified servant.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...bonewalkers are malevolent and dangerous, but the greater bonewalkers are <mark>far<\/mark> worse than the more common 'lesser' bonewalkers. Thankfully, normal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...bonewalkers are malevolent and dangerous, but the greater bonewalkers are <mark>far<\/mark> worse than the more common 'lesser' bonewalkers. Thankfully, normal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...on his way. Indoranyon, Egroamaro's stronghold, was not <mark>far<\/mark> from Sadrith Mora, and he soon saw the blight and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...fibers of his muscles for a time, giving him strength <mark>far<\/mark> beyond the puny power nature had intended. When Oin met...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "far",
+            "weight" : "1",
+            "pos" : 632,
+            "context" : "...be safe, so long as he does not stray too <mark>far<\/mark> from the Ghostgate and flees from any minions of Dagoth Ur...",
+            "fid" : "content" } ] } ] }

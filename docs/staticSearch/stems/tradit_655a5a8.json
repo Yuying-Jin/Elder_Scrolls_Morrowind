@@ -1,0 +1,156 @@
+
+  { "stem" : "tradit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "traditional",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : ".... The three Great Houses on Vvardenfell identify themselves by their <mark>traditional<\/mark> colors: red for Redoran, yellow for Hlaalu, and...",
+            "fid" : "content" },
+          
+          { "form" : "traditions",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "The Great Houses <mark>traditions<\/mark> derive from ancient Dunmer clan and tribes, but now function...",
+            "fid" : "content" },
+          
+          { "form" : "traditionally",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "The wizard-lords of House Telvanni have <mark>traditionally<\/mark> isolated themselves, pursuing wisdom and mastery in solitude. But certain...",
+            "fid" : "content" },
+          
+          { "form" : "traditional",
+            "weight" : "1",
+            "pos" : 486,
+            "context" : "...openly hostile to Imperial culture and religion, and preserves many <mark>traditional<\/mark> Dunmer customs and practices in defiance of Imperial law. Dres...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "Ashlander <mark>tradition<\/mark> does not place the Tribunal at Red Mountain, and holds...",
+            "fid" : "content" },
+          
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...the Dwemer destroyed themselves, rather than that Nerevar destroyed them. Ashlander <mark>tradition<\/mark> further holds that Nerevar left Dagoth Ur guarding the profane secrets...",
+            "fid" : "content" },
+          
+          { "form" : "traditions",
+            "weight" : "1",
+            "pos" : 419,
+            "context" : "...priests acknowledge that most rank-and-file priests honor the best <mark>traditions<\/mark> of the Temple, they believe that many priests in higher...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "Ashlander <mark>tradition<\/mark> does not place the Tribunal at Red Mountain, and holds...",
+            "fid" : "content" },
+          
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...the Dwemer destroyed themselves, rather than that Nerevar destroyed them. Ashlander <mark>tradition<\/mark> further holds that Nerevar left Dagoth Ur guarding the profane secrets...",
+            "fid" : "content" },
+          
+          { "form" : "traditions",
+            "weight" : "1",
+            "pos" : 419,
+            "context" : "...priests acknowledge that most rank-and-file priests honor the best <mark>traditions<\/mark> of the Temple, they believe that many priests in higher...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "In the East, the Western <mark>tradition<\/mark> of vampire Hunters is unknown. Vampirism is known to be...",
+            "fid" : "content" },
+          
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 330,
+            "context" : "... In Temple doctrine, one ancient <mark>tradition<\/mark> holds that, among his many other crimes, Molag Bal,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "...heroes and generals. The story is derived from Ashlander oral <mark>tradition<\/mark>, and is flatly contradicted by all Temple traditions. Nonetheless...",
+            "fid" : "content" },
+          
+          { "form" : "traditions",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "...Ashlander oral tradition, and is flatly contradicted by all Temple <mark>traditions<\/mark>. Nonetheless, the tale is firmly established in the Dunmer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...in polite conversation before commencing the business. This eminently civilized <mark>tradition<\/mark> has a practical purpose, allowing the buyer to observe the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "traditions",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "In my native High Rock, <mark>traditions<\/mark> dating back to the witch kings and nomadic horsemen mandate cremation...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "In the great wind of progress, <mark>tradition<\/mark> cannot stand.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tradition",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...service, the worthy must seek the Grandmaster, who by <mark>tradition<\/mark> lives in the unseen and unlooked-for corners of Vivec City...",
+            "fid" : "content" } ] } ] }

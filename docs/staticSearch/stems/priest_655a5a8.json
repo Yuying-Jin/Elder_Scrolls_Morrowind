@@ -1,0 +1,328 @@
+
+  { "stem" : "priest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 14,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...: concerning the points of Temple doctrine challenged by the Dissident <mark>priests<\/mark>:",
+            "fid" : "DissidentPriests" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...Daedra, the prophet Veloth, and Saint Nerevar ]. Dissident <mark>priests<\/mark> ask whether Dagoth Ur's powers and the Tribunal powers might ultimately...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "The Dissident <mark>priests<\/mark> say that the Temple has always maintained a public face [...",
+            "fid" : "content" },
+          
+          { "form" : "\"priestly",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...maintained a public face [represented by the Heirographa -- the <mark>\"priestly<\/mark> writings\"] and a hidden face [ represented by the Apographa...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "...or heroism of the Tribunal. In fact, the Dissident <mark>priests<\/mark> advocate restoring many of the elements of Fundamentalist Ancestor Worship as...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...Exactly how this would work is debated inconclusively within the Dissident <mark>priests<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "...of the Nerevarines is unjust and politically motivated. The Dissident <mark>priests<\/mark> do not reject mysticism, revelation, or prophecy as part...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "...and the prophecies of the Incarnate. Many among the Dissident <mark>priests<\/mark> have come to believe that the Nerevarine prophecies are genuine,...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 343,
+            "context" : "The Dissident <mark>priests<\/mark> reject the authority of the Archcanon and the Ordinators. The...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...best interests of the Temple or its worshippers. The Dissident <mark>priests<\/mark> believe the Archcanon and Ordinators speak for themselves, not for the...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "...and secret imprisonment to discourage heresy and dissent. The Dissident <mark>priests<\/mark> feel the Ordinators are either out of control, or tools...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 411,
+            "context" : "Though the Dissident <mark>priests<\/mark> acknowledge that most rank-and-file priests honor the best traditions...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 416,
+            "context" : "Though the Dissident priests acknowledge that most rank-and-file <mark>priests<\/mark> honor the best traditions of the Temple, they believe that...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "...the best traditions of the Temple, they believe that many <mark>priests<\/mark> in higher ranks are interested more in love of authority and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 14,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...: concerning the points of Temple doctrine challenged by the Dissident <mark>priests<\/mark>:",
+            "fid" : "DissidentPriests" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...Daedra, the prophet Veloth, and Saint Nerevar ]. Dissident <mark>priests<\/mark> ask whether Dagoth Ur's powers and the Tribunal powers might ultimately...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "The Dissident <mark>priests<\/mark> say that the Temple has always maintained a public face [...",
+            "fid" : "content" },
+          
+          { "form" : "\"priestly",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...maintained a public face [represented by the Heirographa -- the <mark>\"priestly<\/mark> writings\"] and a hidden face [ represented by the Apographa...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "...or heroism of the Tribunal. In fact, the Dissident <mark>priests<\/mark> advocate restoring many of the elements of Fundamentalist Ancestor Worship as...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...Exactly how this would work is debated inconclusively within the Dissident <mark>priests<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "...of the Nerevarines is unjust and politically motivated. The Dissident <mark>priests<\/mark> do not reject mysticism, revelation, or prophecy as part...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "...and the prophecies of the Incarnate. Many among the Dissident <mark>priests<\/mark> have come to believe that the Nerevarine prophecies are genuine,...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 343,
+            "context" : "The Dissident <mark>priests<\/mark> reject the authority of the Archcanon and the Ordinators. The...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...best interests of the Temple or its worshippers. The Dissident <mark>priests<\/mark> believe the Archcanon and Ordinators speak for themselves, not for the...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "...and secret imprisonment to discourage heresy and dissent. The Dissident <mark>priests<\/mark> feel the Ordinators are either out of control, or tools...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 411,
+            "context" : "Though the Dissident <mark>priests<\/mark> acknowledge that most rank-and-file priests honor the best traditions...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 416,
+            "context" : "Though the Dissident priests acknowledge that most rank-and-file <mark>priests<\/mark> honor the best traditions of the Temple, they believe that...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "...the best traditions of the Temple, they believe that many <mark>priests<\/mark> in higher ranks are interested more in love of authority and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "To the Scholars: Humiliate the <mark>priests<\/mark> of Arkay. Reveal the primitive burial customs to be mere...",
+            "fid" : "content" },
+          
+          { "form" : "Priests",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "To the <mark>Priests<\/mark>: Use your servants sparingly, let none be seen by...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...will be torn stone from stone. The blood of his <mark>priests<\/mark> will sate our thirst; their bones will rise as our...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...Blessed Almsivi, Triune Grace, the saints, and the <mark>priests<\/mark>, are welcome to the Fellowship of the Tribunal Temple....",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "Those interested in joining the Tribunal Temple should speak to <mark>priests<\/mark> at the temples in Ald'ruhn, Balmora, Molag Mar,...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "..., Balmora, Molag Mar, and Ghostgate, or with <mark>priests<\/mark> at the High Fane in the Temple Compound in Vivec City...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...Septim, founder and patron of the Empire. Imperial cult <mark>priests<\/mark> provide worship and services for all these gods at Imperial shrines...",
+            "fid" : "content" },
+          
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 558,
+            "context" : "...the shrines, carries messages and packages, and sometimes escorts <mark>priests<\/mark> and lay servants on dangerous missions. This occasional service is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "priest",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...Fighters Guild steward. Old Methal Seran is an eminent Temple <mark>priest<\/mark> and scholar. Raesa Pullia is commandant of Buckmoth Fort,...",
+            "fid" : "content" },
+          
+          { "form" : "priest",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "...the Dreamer is the chapter steward. The Redguard Hean is <mark>priest<\/mark> of the Imperial cult. Goren Andarys is the guild steward...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...battles or in remote areas where death occurs far from meddlesome <mark>priests<\/mark>. Fortunately, the dangerous terrain and creatures in the deserts...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "priest",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...Mages Guild steward, and Aunius Autrus is the Imperial cult <mark>priest<\/mark>. Big Helende, the Thieves Guild Boss, makes frequent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...presides over the temple, along with a large staff of <mark>priests<\/mark>, healers, and monks. Pilgrims travel from all over...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Priests",
+            "weight" : "1",
+            "pos" : 5667,
+            "context" : "Dissident <mark>Priests<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 5933,
+            "context" : "dissident <mark>priests<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "priests",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...breathing god who walks the earth, speaks in person with <mark>priests<\/mark> and cultists, and whose daily actions are prescribed models for...",
+            "fid" : "content" } ] } ] }

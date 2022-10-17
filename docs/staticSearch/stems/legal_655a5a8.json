@@ -1,0 +1,14 @@
+
+  { "stem" : "legal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "legally",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...Empire are given the corpses of criminals and traitors to use <mark>legally<\/mark>. This provides those who have acquired such a post with...",
+            "fid" : "content" } ] } ] }

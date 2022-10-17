@@ -1,0 +1,54 @@
+
+  { "stem" : "compani",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Company",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...The officers, docks, and warehouses of the East Empire <mark>Company<\/mark> are also found in Ebonheart.",
+            "fid" : "content" },
+          
+          { "form" : "Company",
+            "weight" : "1",
+            "pos" : 1143,
+            "context" : "...recently chartered Imperial town and mining corporation. The Caldera Mining <mark>Company<\/mark> has been granted an Imperial monopoly to remove raw ebony from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Company",
+            "weight" : "1",
+            "pos" : 5049,
+            "context" : "East Empire <mark>Company<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "company",
+            "weight" : "1",
+            "pos" : 5195,
+            "context" : "east empire <mark>company<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "company",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "..., shared the same tutors, played in the same exclusive <mark>company<\/mark>. When his mother died, and his father discovered that...",
+            "fid" : "content" } ] } ] }

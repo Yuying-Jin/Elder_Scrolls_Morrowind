@@ -1,0 +1,37 @@
+
+  { "stem" : "vignum",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vignum",
+            "weight" : "1",
+            "pos" : 7528,
+            "context" : "Calissiah <mark>Vignum<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vignum",
+            "weight" : "1",
+            "pos" : 7665,
+            "context" : "calissiah <mark>vignum<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vignum",
+            "weight" : "1",
+            "pos" : 350,
+            "context" : "...your work, but it's like I was telling Ser Calissiah <mark>Vignum<\/mark> the other day, I said Calissah, what good is...",
+            "fid" : "content" } ] } ] }

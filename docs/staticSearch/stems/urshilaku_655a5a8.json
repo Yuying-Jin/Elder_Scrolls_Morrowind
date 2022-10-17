@@ -1,0 +1,97 @@
+
+  { "stem" : "urshilaku",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Urshilaku",
+            "weight" : "1",
+            "pos" : 429,
+            "context" : " The Ashlanders <mark>Urshilaku<\/mark> tribe has a permanent settlement at Urshilaku camp in the Ashlands...",
+            "fid" : "content" },
+          
+          { "form" : "Urshilaku",
+            "weight" : "1",
+            "pos" : 433,
+            "context" : " The Ashlanders Urshilaku tribe has a permanent settlement at <mark>Urshilaku<\/mark> camp in the Ashlands region north of Maar Gan village....",
+            "fid" : "content" },
+          
+          { "form" : "Urshilaku",
+            "weight" : "1",
+            "pos" : 1098,
+            "context" : "...Caldera lies near Balmora. The herds of the Ashlanders of <mark>Urshilaku<\/mark> camp graze on the sparse but hardy highland vegetation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Urshilaku",
+            "weight" : "1",
+            "pos" : 4243,
+            "context" : "<mark>Urshilaku<\/mark>" },
+          
+          { "form" : "Urshilaku",
+            "weight" : "1",
+            "pos" : 4248,
+            "context" : "<mark>Urshilaku<\/mark> camp" },
+          
+          { "form" : "Urshilaku",
+            "weight" : "1",
+            "pos" : 4255,
+            "context" : "<mark>Urshilaku<\/mark>,_Laterus_Burial" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "urshilaku",
+            "weight" : "1",
+            "pos" : 4386,
+            "context" : "<mark>urshilaku<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "urshilaku",
+            "weight" : "1",
+            "pos" : 4391,
+            "context" : "<mark>urshilaku<\/mark> camp",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "urshilaku",
+            "weight" : "1",
+            "pos" : 4398,
+            "context" : "<mark>urshilaku<\/mark>, laterus burial",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Urshilaku",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "<mark>Urshilaku<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Urshilaku",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "<mark>Urshilaku<\/mark>, Laterus Burial: Visitable? yes",
+            "fid" : "acq" } ] } ] }

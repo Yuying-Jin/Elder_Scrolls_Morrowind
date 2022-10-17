@@ -1,0 +1,25 @@
+
+  { "stem" : "triumph",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "triumphs",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...of Vivec's experiments with challenge and risk, his failures and <mark>triumphs<\/mark>, his blessings of insight and good fortune, and his...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "triumphed",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "Long after Lord Nerevar and the Tribunal <mark>triumphed<\/mark> over Dagoth Ur, the people wished to build a monument...",
+            "fid" : "content" } ] } ] }

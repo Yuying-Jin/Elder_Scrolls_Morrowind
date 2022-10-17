@@ -1,0 +1,47 @@
+
+  { "stem" : "bold",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bold",
+            "weight" : "1",
+            "pos" : 566,
+            "context" : "...servants on dangerous missions. This occasional service is ideal for <mark>bold<\/mark>, free-spirited adventurers. Shrine sergeants are called upon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bold",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...behind the mask of cautious counsel, for fortune favors the <mark>bold<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bold",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...Who could have predicted that everyone would drown, from the <mark>bold<\/mark> captain to the mysterious figure with ties to one of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bold",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "<mark>Bold<\/mark> Admiral Richton",
+            "fid" : "content" } ] } ] }

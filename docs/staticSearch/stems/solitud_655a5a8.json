@@ -1,0 +1,14 @@
+
+  { "stem" : "solitud",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "solitude",
+            "weight" : "1",
+            "pos" : 361,
+            "context" : "...House Telvanni have traditionally isolated themselves, pursuing wisdom and mastery in <mark>solitude<\/mark>. But certain ambitious wizards-lords, their retainers,...",
+            "fid" : "content" } ] } ] }

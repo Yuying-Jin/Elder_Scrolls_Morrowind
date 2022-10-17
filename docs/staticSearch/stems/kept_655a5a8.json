@@ -1,0 +1,36 @@
+
+  { "stem" : "kept",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kept",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...race? For ages the Great Houses and the Temple have <mark>kept<\/mark> our land clean of the vampire's taint, but now these...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kept",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...I made no human my prey, only beasts, and <mark>kept<\/mark> myself apart from the other clankin; nonetheless, I abandoned...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kept",
+            "weight" : "1",
+            "pos" : 292,
+            "context" : "...could do night after night is toss and turn. I <mark>kept<\/mark> imagining you burned to ashes by that battlemage, and where...",
+            "fid" : "content" } ] } ] }

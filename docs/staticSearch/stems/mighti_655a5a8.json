@@ -1,0 +1,88 @@
+
+  { "stem" : "mighti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "\"Mighty",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "<mark>\"Mighty<\/mark> Gothren, alas, we know no tricks. All the...",
+            "fid" : "content" },
+          
+          { "form" : "Mighty",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "\"Master Senyndie? Ah, <mark>Mighty<\/mark> Gothren, she hails from the Alik'r Desert of Hammerfell where...",
+            "fid" : "content" },
+          
+          { "form" : "\"Mighty",
+            "weight" : "1",
+            "pos" : 507,
+            "context" : "<mark>\"Mighty<\/mark> Gothren, that part of the story hasn't happened yet,\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mighty",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...spoiled by your unseemly squabbling.\" So he dealt them both <mark>mighty<\/mark> blows, shattering their skulls, and silencing their argument,...",
+            "fid" : "content" },
+          
+          { "form" : "mighty",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...tower and proclaimed to all the world that he was a <mark>mighty<\/mark> and learned healer, master of all alchemy and potions,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mighty",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...The Ministry of Truth, a celestial body suspended by Vivec's <mark>mighty<\/mark> power over the Temple Compound, is the headquarters of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mighty",
+            "weight" : "1",
+            "pos" : 6976,
+            "context" : "Nimlom_the_<mark>Mighty<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mighty",
+            "weight" : "1",
+            "pos" : 7023,
+            "context" : "nimlom the <mark>mighty<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mighty",
+            "weight" : "1",
+            "pos" : 684,
+            "context" : "...no more interest in him that I had in Nimlom the <mark>Mighty<\/mark>, Kena Zombel Mokafa, or Master Vomph,\" replied a...",
+            "fid" : "content" } ] } ] }

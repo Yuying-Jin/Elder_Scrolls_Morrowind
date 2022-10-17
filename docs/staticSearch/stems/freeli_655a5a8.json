@@ -1,0 +1,36 @@
+
+  { "stem" : "freeli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "freely",
+            "weight" : "1",
+            "pos" : 381,
+            "context" : "...cold weather and isolated terrain allow a few Necromancers to operate <mark>freely<\/mark>. Alas, the availability of corpses is limited to Nords...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "freely",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "..., nor encumber myself with profitless treasures, but shall share <mark>freely<\/mark> among house and hearth.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "freely",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...handling of these menaces. On the other hand, they <mark>freely<\/mark> admit that even a large community of vampires might easily escape...",
+            "fid" : "content" } ] } ] }

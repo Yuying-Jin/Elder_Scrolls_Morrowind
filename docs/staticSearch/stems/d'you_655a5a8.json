@@ -1,0 +1,14 @@
+
+  { "stem" : "d'you",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "d'you",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...I says, 'Stab the fetcher in the back.' What <mark>d'you<\/mark> prefer? We challenge 'em to a game of chits?\"...",
+            "fid" : "content" } ] } ] }

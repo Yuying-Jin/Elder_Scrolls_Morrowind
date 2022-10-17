@@ -1,0 +1,20 @@
+
+  { "stem" : "outer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "outer",
+            "weight" : "1",
+            "pos" : 975,
+            "context" : "...is a vast volcano in the center of Vvardenfell. The <mark>outer<\/mark> slopes are steep and rugged, and the crater is deep...",
+            "fid" : "content" },
+          
+          { "form" : "outer",
+            "weight" : "1",
+            "pos" : 1000,
+            "context" : "..., disease-laden weather called 'blight,' rings the volcano's <mark>outer<\/mark> slopes, and is broken only at Ghostgate. Within the...",
+            "fid" : "content" } ] } ] }

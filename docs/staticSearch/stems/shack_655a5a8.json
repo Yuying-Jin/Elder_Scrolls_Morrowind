@@ -1,0 +1,85 @@
+
+  { "stem" : "shack",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Shack",
+            "weight" : "1",
+            "pos" : 622,
+            "context" : "Abandoned <mark>Shack<\/mark>" },
+          
+          { "form" : "Shack",
+            "weight" : "1",
+            "pos" : 1589,
+            "context" : "Dren_Plantation,_Helvi's_<mark>Shack<\/mark>" },
+          
+          { "form" : "Shack",
+            "weight" : "1",
+            "pos" : 2440,
+            "context" : "Llirala's <mark>Shack<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "shack",
+            "weight" : "1",
+            "pos" : 799,
+            "context" : "abandoned <mark>shack<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "shack",
+            "weight" : "1",
+            "pos" : 1758,
+            "context" : "dren plantation, helvi's <mark>shack<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "shack",
+            "weight" : "1",
+            "pos" : 2611,
+            "context" : "llirala's <mark>shack<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shack",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Abandoned <mark>Shack<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shack",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Llirala's <mark>Shack<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shack",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Dren Plantation, Helvi's <mark>Shack<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

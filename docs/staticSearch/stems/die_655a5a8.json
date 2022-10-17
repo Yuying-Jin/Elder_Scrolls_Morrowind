@@ -1,0 +1,149 @@
+
+  { "stem" : "die",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "die",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...say, no, and no, three times more. Such necromancers must <mark>die<\/mark>, and their profane magicks must die with them.",
+            "fid" : "content" },
+          
+          { "form" : "die",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...more. Such necromancers must die, and their profane magicks must <mark>die<\/mark> with them.",
+            "fid" : "content" },
+          
+          { "form" : "die",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...undead lords and their vile cattle have returned. These vampires <mark>die<\/mark>, and their corrupt cattle with them, and their blood taint...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...a modest rate. Most will assume the slave escaped or <mark>died<\/mark> in the Ashlands.",
+            "fid" : "content" },
+          
+          { "form" : "die",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "...Alas, the availability of corpses is limited to Nords who <mark>die<\/mark> from exposure or in battle. While the cold is preservative...",
+            "fid" : "content" },
+          
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 445,
+            "context" : "...corpses. While I prefer to work with those who have <mark>died<\/mark> a natural death, a more expedient approach is sometimes necessary...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "..., played in the same exclusive company. When his mother <mark>died<\/mark>, and his father discovered that the money they had been...",
+            "fid" : "content" },
+          
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...Not long afterwards, Sedura Indoril Pavflek Mamoona fell ill and <mark>died<\/mark>, despite all the skills of the great healers, including...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "Here Lord Vivec met a poor farmer whose guar had <mark>died<\/mark>. The farmer could not harvest his muck without his guar...",
+            "fid" : "content" },
+          
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...to all people, great and small, who suffered and <mark>died<\/mark> in the war. It became the custom to make offerings...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "die",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "We <mark>die<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 292,
+            "context" : "...placed there for his use; so that the poor Netch <mark>died<\/mark>, not from his wounds, but from the greed and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "die",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "The Litany of Service The Boneman's Oath We <mark>die<\/mark>. We pray. To live. We serve.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...confer with the Grand Council [i.e., the Tribunal], that Nerevar <mark>died<\/mark> at the conference [not of his wounds, according to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...all of us were let go. Master S'Rabba had apparently <mark>died<\/mark> under torture. You have probably had experience torturing the slave...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "died",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...confer with the Grand Council [i.e., the Tribunal], that Nerevar <mark>died<\/mark> at the conference [not of his wounds, according to the...",
+            "fid" : "content" } ] } ] }

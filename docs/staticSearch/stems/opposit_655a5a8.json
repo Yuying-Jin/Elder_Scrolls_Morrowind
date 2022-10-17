@@ -1,0 +1,14 @@
+
+  { "stem" : "opposit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "opposite",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...behind and while throttling him, you batter his face against the <mark>opposite<\/mark> wall. When the victim is thus rendered unconscious, you...",
+            "fid" : "content" } ] } ] }

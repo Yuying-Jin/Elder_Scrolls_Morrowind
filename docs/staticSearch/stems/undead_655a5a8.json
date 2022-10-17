@@ -1,0 +1,151 @@
+
+  { "stem" : "undead",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Undead",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "<mark>Undead<\/mark> commonly occur in three basic types: spirit, flesh,...",
+            "fid" : "Undead" },
+          
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...but even the weakest vampire is immeasurably stronger than most other <mark>undead<\/mark>. Note: Ash vampires are not vampires, and are...",
+            "fid" : "content" },
+          
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...Note: Ash vampires are not vampires, and are not <mark>undead<\/mark>. Ash vampires are extremely dangerous. While their spirit and...",
+            "fid" : "content" },
+          
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 243,
+            "context" : "...the Tribunal Temple report that spell effects known to affect the <mark>undead<\/mark> have no effect on ash vampires.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Undead",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "<mark>Undead<\/mark> commonly occur in three basic types: spirit, flesh,...",
+            "fid" : "Undead" },
+          
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...but even the weakest vampire is immeasurably stronger than most other <mark>undead<\/mark>. Note: Ash vampires are not vampires, and are...",
+            "fid" : "content" },
+          
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...Note: Ash vampires are not vampires, and are not <mark>undead<\/mark>. Ash vampires are extremely dangerous. While their spirit and...",
+            "fid" : "content" },
+          
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "...the Tribunal Temple report that spell effects known to affect the <mark>undead<\/mark> have no effect on ash vampires.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "And shall we tolerate the hidden hosts of the <mark>undead<\/mark>, the arrogant princes of necromancers, the ancient vampire demons...",
+            "fid" : "content" },
+          
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...our land clean of the vampire's taint, but now these <mark>undead<\/mark> lords and their vile cattle have returned. These vampires die...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...The \"ash vampire\" of Ashlanderlegend is not <mark>undead<\/mark>. Sorceries and blessings affecting the undead reportedly have no effect...",
+            "fid" : "content" },
+          
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...of Ashlanderlegend is not undead. Sorceries and blessings affecting the <mark>undead<\/mark> reportedly have no effect on these creatures. No specimen has...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...be seen by the living. Let the memories of the <mark>undead<\/mark> waste away from the people. Send missionaries to the unbound...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "One more note to the student: While most <mark>undead<\/mark> can be raised again and again, skeletons are often damaged in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Undead",
+            "weight" : "1",
+            "pos" : 5903,
+            "context" : "<mark>Undead<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 6189,
+            "context" : "<mark>undead<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undead",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...was set upon by the servitors of Egroamaro, living and <mark>undead<\/mark>. With his enchanted ebony blade, he cut through legions...",
+            "fid" : "content" } ] } ] }

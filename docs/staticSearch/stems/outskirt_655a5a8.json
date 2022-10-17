@@ -1,0 +1,14 @@
+
+  { "stem" : "outskirt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "outskirts",
+            "weight" : "1",
+            "pos" : 720,
+            "context" : "...risen when Sathis reached the stables of his house on the <mark>outskirts<\/mark> of Vivec. He reigned in his guar and filled its...",
+            "fid" : "content" } ] } ] }

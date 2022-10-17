@@ -1,0 +1,24 @@
+
+  { "stem" : "moon-and-star",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "moon-and-star",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "<mark>moon-and-star<\/mark>" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Moon-and-Star",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...anyone who wore it except Nerevar. The ring was called <mark>Moon-and-Star<\/mark>, and it helped Nerevar unite the various clans into the...",
+            "fid" : "moon and star" } ] } ] }

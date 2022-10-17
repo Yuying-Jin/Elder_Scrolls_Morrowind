@@ -1,0 +1,313 @@
+
+  { "stem" : "high",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 2184,
+            "context" : "<mark>High<\/mark> Fane" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 2191,
+            "context" : "<mark>High<\/mark> Rock" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 2198,
+            "context" : "<mark>High<\/mark>_Fane" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 4421,
+            "context" : "Vivec City, <mark>High<\/mark> Fane" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 4474,
+            "context" : "Vivec, <mark>High<\/mark> Fane" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 6567,
+            "context" : "<mark>High<\/mark> Fane" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...great cantons is the size of a complete town. The <mark>High<\/mark> Fane and the palace of Vivec are visited by hundreds of...",
+            "fid" : "content" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...the Temple prison, hangs above the great temple of the <mark>High<\/mark> Fane, the Halls of Wisdom and Justice, and Lord...",
+            "fid" : "content" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...top, the Temple Compound, with Vivec's Palace, the <mark>High<\/mark> Fane, the Ministry of Truth, and the Hall of...",
+            "fid" : "content" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : " The <mark>High<\/mark> Fane is the largest Tribunal temple on Vvardenfell. Archcanon Saryoni...",
+            "fid" : "content" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...monks. Pilgrims travel from all over Morrowind to view the <mark>High<\/mark> Fane and the Ministry of Truth, and to offer prayer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 2354,
+            "context" : "<mark>high<\/mark> fane",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 2366,
+            "context" : "<mark>high<\/mark> rock",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 4576,
+            "context" : "vivec city, <mark>high<\/mark> fane",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 4643,
+            "context" : "vivec, <mark>high<\/mark> fane",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 6665,
+            "context" : "<mark>high<\/mark> fane",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "King Hlaalu Athyn Llethan, <mark>High<\/mark> Councilor and Lord of Morrowind, grants relief to merchants complaining...",
+            "fid" : "content" },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...and Lord of Morrowind, grants relief to merchants complaining of <mark>high<\/mark> tariffs on imported alcoholic beverages.",
+            "fid" : "content" },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "...sent deputations to the Duke to express their concerns over the <mark>high<\/mark> tax rates and the injurious effect of high tariffs on trade...",
+            "fid" : "content" },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...concerns over the high tax rates and the injurious effect of <mark>high<\/mark> tariffs on trade.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "Vivec, <mark>High<\/mark> Fane: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...Molag Mar, and Ghostgate, or with priests at the <mark>High<\/mark> Fane in the Temple Compound in Vivec City.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...and the strider port, while the Temple is located on <mark>high<\/mark> ground to the east, and surrounded by a residential section...",
+            "fid" : "content" },
+          
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...and Mages Guild are near the South Gate. Pricy but <mark>high<\/mark>-quality clothier, alchemist, and enchanter shops are under...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "<mark>High<\/mark> Fane: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "..., Vvardenfell District, Imperial Era 426 Archmagister Gothren, Lord <mark>High<\/mark> Magus of Telvanni Council, Vvardenfell District, Tower of Tel...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "In my native <mark>High<\/mark> Rock, traditions dating back to the witch kings and nomadic...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 666,
+            "context" : " The Imperial cults have the greatest respect for the <mark>high<\/mark> moral principles of House Redoran and the Morag Tong, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...great cantons is the size of a complete town. The <mark>High<\/mark> Fane and the palace of Vivec are visited by hundreds of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...our old friendship, I would forgive you, and raise you <mark>high<\/mark> in my service. The Sixth House was not dead,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 383,
+            "context" : "\"It was <mark>high<\/mark>, but the surface of these Telvanni mushrooms is practically a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "King Hlaalu Athyn Llethan, <mark>High<\/mark> Councilor and Lord of Morrowind, imposes favorable tariffs on flin...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "..., evergreen foliage and flowers are resistant to the conditions of <mark>high<\/mark> heat and bright light. A petal from this plant placed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 243,
+            "context" : "It is true that advancement in Telvanni ranks depends on <mark>high<\/mark> intelligence and willpower, and that candidates proficient in the arts...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high",
+            "weight" : "1",
+            "pos" : 393,
+            "context" : ".... But most such potions require at least one ingredient with <mark>high<\/mark> cost in coin or blood.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "High",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...in the Temple District, along the western wall of the <mark>High<\/mark> Fane, the great Temple of Vvardenfell. When you address...",
+            "fid" : "content" } ] } ] }

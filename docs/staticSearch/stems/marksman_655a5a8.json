@@ -1,0 +1,25 @@
+
+  { "stem" : "marksman",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marksman's",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...short blades, or to fight from a distance with a <mark>marksman's<\/mark> weapons.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marksman's",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...to get into a slugging match, so you want the <mark>marksman's<\/mark> weapons -- the bow, crossbow, throwing star, and...",
+            "fid" : "content" } ] } ] }

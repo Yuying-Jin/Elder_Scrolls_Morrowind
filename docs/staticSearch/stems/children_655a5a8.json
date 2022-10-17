@@ -1,0 +1,54 @@
+
+  { "stem" : "children",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "Hear me, <mark>children<\/mark>. Once I was a lowly man such as yourselves. By...",
+            "fid" : "content" },
+          
+          { "form" : "children's",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...buried with the proper rituals from being raised to serve my <mark>children's<\/mark> will. As you know, my children, Arkay's Blessing is...",
+            "fid" : "content" },
+          
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...raised to serve my children's will. As you know, my <mark>children<\/mark>, Arkay's Blessing is flexible to those with daring, but...",
+            "fid" : "content" },
+          
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...honeyed words and bind them to your will. Look to my <mark>children<\/mark> in Cyrodiil for guidance.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...is swept clean of false friends and greedy thieves, the <mark>children<\/mark> of Veloth will build anew a garden of plenty in this...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "children",
+            "weight" : "1",
+            "pos" : 498,
+            "context" : "...his life, on the condition that Ruddy Man and his <mark>children<\/mark> would give up their tough hides to serve as armor for...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,44 @@
+
+  { "stem" : "recip",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Recipes",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "Healers' <mark>Recipes<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "recipes",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "Healers should all know the <mark>recipes<\/mark> for the following popular potions. Fortunately, in most cases...",
+            "fid" : "content" },
+          
+          { "form" : "Recipes",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "Travelers' <mark>Recipes<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "recipes",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "Pilgrims and travelers will find the following inexpensive <mark>recipes<\/mark> of particular interest.",
+            "fid" : "content" },
+          
+          { "form" : "Recipes",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "Adventurers' <mark>Recipes<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "recipe",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "...ingredients. There are exceptions, like the easy and affordable <mark>recipe<\/mark> for fire shield. But most such potions require at least...",
+            "fid" : "content" } ] } ] }

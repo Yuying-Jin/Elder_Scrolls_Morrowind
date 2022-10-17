@@ -1,0 +1,36 @@
+
+  { "stem" : "construct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Construct",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...created by the ungodly Dwemer sorceror Kagrenac to create the False <mark>Construct<\/mark> Numidium.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Construct",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...created by the ungodly Dwemer sorceror Kagrenac to create the False <mark>Construct<\/mark> Numidium.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "construct",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...to be of much help, but Harithoel was able to <mark>construct<\/mark> a crude shelter, weaving the sand weeds. As night...",
+            "fid" : "content" } ] } ] }

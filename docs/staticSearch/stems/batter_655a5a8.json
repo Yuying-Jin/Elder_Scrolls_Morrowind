@@ -1,0 +1,25 @@
+
+  { "stem" : "batter",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "battered",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "S'Riizh was too <mark>battered<\/mark> to be of much help, but Harithoel was able to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "batter",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...grab your victim's throat from behind and while throttling him, you <mark>batter<\/mark> his face against the opposite wall. When the victim is...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "anyth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anything",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...said that in the port of Senchal, one may purchase <mark>anything<\/mark> one desires. This is true if you desire fresh corpses...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anything",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...the coastline at all. But that's not all. I haven't found <mark>anything<\/mark> edible anywhere. Just weeds and a few scraggly trees.\"...",
+            "fid" : "content" } ] } ] }

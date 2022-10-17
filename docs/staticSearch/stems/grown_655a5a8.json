@@ -1,0 +1,42 @@
+
+  { "stem" : "grown",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "grown",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...well-suited for: gardening. In time, he had <mark>grown<\/mark> an impressive garden of willow anther, gold kanet, chokeweed...",
+            "fid" : "content" },
+          
+          { "form" : "grown",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "..., white bloatroot, and trama shrubs. He had also <mark>grown<\/mark> himself into a remarkably uninteresting man -- aside from his gardening...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grown",
+            "weight" : "1",
+            "pos" : 410,
+            "context" : "...is dominated by the wizards' tower, a fantastic organic form <mark>grown<\/mark> and sculpted from stems, caps, and root-like...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grown",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "Domica Redwort is a herb <mark>grown<\/mark> by many residents of Valenwood for their beautiful and showy flowers...",
+            "fid" : "content" } ] } ] }

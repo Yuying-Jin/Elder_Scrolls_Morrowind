@@ -1,0 +1,25 @@
+
+  { "stem" : "refus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Refuse",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "<mark>Refuse<\/mark> neither brother nor ghost.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "refuse",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...of the disease. According to legend, the vampire Hunters <mark>refuse<\/mark> to reveal the cure to the disease for fear that it...",
+            "fid" : "content" } ] } ] }

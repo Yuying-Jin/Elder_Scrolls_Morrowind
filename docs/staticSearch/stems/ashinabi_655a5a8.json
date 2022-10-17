@@ -1,0 +1,37 @@
+
+  { "stem" : "ashinabi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ashinabi",
+            "weight" : "1",
+            "pos" : 1029,
+            "context" : "<mark>Ashinabi<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ashinabi",
+            "weight" : "1",
+            "pos" : 1199,
+            "context" : "<mark>ashinabi<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ashinabi",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Ashinabi<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

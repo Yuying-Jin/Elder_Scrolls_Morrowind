@@ -1,0 +1,58 @@
+
+  { "stem" : "safe",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "safe",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...Guild know where the action is, and where the action is <mark>safe<\/mark>, and where it is not. The help of friends includes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "safe",
+            "weight" : "1",
+            "pos" : 460,
+            "context" : "...from the others, and when I was sure they were <mark>safe<\/mark>, I jumped off the wall and into the water.\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "safely",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...mountain goat, a potion that allows the user to glide <mark>safely<\/mark> above the ground can be made.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "safe",
+            "weight" : "1",
+            "pos" : 629,
+            "context" : "...is dangerous, but even the most timid pilgrim should be <mark>safe<\/mark>, so long as he does not stray too far from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "safe",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...poisoning the victim with a bite, then withdrawing to a <mark>safe<\/mark> distance, returning to feed only when the prey has weakened...",
+            "fid" : "content" } ] } ] }

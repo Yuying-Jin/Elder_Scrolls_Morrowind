@@ -1,0 +1,20 @@
+
+  { "stem" : "assimil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "assimilated",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "\"...I have noted that Heartlanders like myself, and <mark>assimilated<\/mark> Imperial Citizens of other races, tend to impersonal and formal...",
+            "fid" : "content" },
+          
+          { "form" : "assimilated",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "..., and among the military, provincial colonists, and recently <mark>assimilated<\/mark> foreigners, the cult is particularly strong and personal.",
+            "fid" : "content" } ] } ] }

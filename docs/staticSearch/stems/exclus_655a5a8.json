@@ -1,0 +1,25 @@
+
+  { "stem" : "exclus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exclusive",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...in a house as an oath-bonded hireling, pledging <mark>exclusive<\/mark> loyalty to a single house and forsaking ambitions with all other...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exclusive",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...tailors, shared the same tutors, played in the same <mark>exclusive<\/mark> company. When his mother died, and his father discovered...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,58 @@
+
+  { "stem" : "surpris",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "surprised",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...are viewed with a certain amount of suspicion. Don't be <mark>surprised<\/mark> or insulted if the shopkeepers follow you around the shop,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "surprised",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...deep in the caverns beneath the pilgrim's shrine. I was <mark>surprised<\/mark>, and thrilled, and terrified, when Molag Bal,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "surprisingly",
+            "weight" : "1",
+            "pos" : 414,
+            "context" : "...their feet than our troupe, but Master Neloth's guards were <mark>surprisingly<\/mark> quick. I sent the troupe through the gate to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "surprised",
+            "weight" : "1",
+            "pos" : 413,
+            "context" : "\"S'Riizh watches though,\" said S'Riizh. \"You'd be <mark>surprised<\/mark> how much you can learn just by watching. Don't forget...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "surprise",
+            "weight" : "1",
+            "pos" : 473,
+            "context" : "...to open the sack where Lady Genevrah lay. His first <mark>surprise<\/mark>. She had a face like a dreugh and as she...",
+            "fid" : "content" } ] } ] }

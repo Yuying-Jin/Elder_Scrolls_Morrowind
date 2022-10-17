@@ -1,0 +1,48 @@
+
+  { "stem" : "brara",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Brara",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : " All six Redoran councilors, <mark>Brara<\/mark> Morvayn, Hlaren Ramoran, Athyn Sarethi, Garisa Llethri,...",
+            "fid" : "BraraMorvayn" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Brara",
+            "weight" : "1",
+            "pos" : 6905,
+            "context" : "<mark>Brara<\/mark> Morvayn" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "brara",
+            "weight" : "1",
+            "pos" : 7030,
+            "context" : "<mark>brara<\/mark> morvayn",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Brara",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "Mistress Lady <mark>Brara<\/mark> Morvayn, by Grace of Almsivi, Honored Councilor of Redoran...",
+            "fid" : "content" } ] } ] }

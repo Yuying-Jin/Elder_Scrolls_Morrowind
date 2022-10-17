@@ -1,0 +1,43 @@
+
+  { "stem" : "bread",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bread",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...combine two or more of the following: crab meat, <mark>bread<\/mark>, small kwama egg, and chokeweed. Crabmeat is taken...",
+            "fid" : "content" },
+          
+          { "form" : "bread",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...from the mud crab, commonly found along all coasts. <mark>bread<\/mark> in Morrowind is usually baked from saltrice flour. Kwama eggs...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bread",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "<mark>bread<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bread",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "<mark>bread<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

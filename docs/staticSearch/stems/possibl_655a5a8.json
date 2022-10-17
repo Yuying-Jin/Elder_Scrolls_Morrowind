@@ -1,0 +1,64 @@
+
+  { "stem" : "possibl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "possible",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...any other race caught in Summerset Isle can expect the worst <mark>possible<\/mark> punishments.",
+            "fid" : "content" },
+          
+          { "form" : "possible",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...the deserts and mountains of Hammerfell makes the acquisition of corpses <mark>possible<\/mark>, though they are often in poor condition and require special...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "possible",
+            "weight" : "1",
+            "pos" : 489,
+            "context" : "...gathering herbs and potion components. They should avoid trouble where <mark>possible<\/mark>, and so need not be masters of the arts of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "possible",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...the award, and be back in Gnisis as quickly as <mark>possible<\/mark>. My wife worries when I'm away.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "possible",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...Since the Weir Gate has been taken, teleportation is not <mark>possible<\/mark>. Only Papré can make such a journey to the Imperial...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "possible",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : ".... Vivec sought out experiences that tested him in every way <mark>possible<\/mark>, particularly in the defense and protection of his Dunmer people...",
+            "fid" : "content" } ] } ] }

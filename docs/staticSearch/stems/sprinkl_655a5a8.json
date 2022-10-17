@@ -1,0 +1,14 @@
+
+  { "stem" : "sprinkl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sprinkle",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...melted, pour from the pan into the pie crust. <mark>Sprinkle<\/mark> with ash salts and cover the pie crust. Bake for...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,70 @@
+
+  { "stem" : "sever",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "several",
+            "weight" : "1",
+            "pos" : 409,
+            "context" : "Oin agreed, and for the next <mark>several<\/mark> weeks, he learned the spell to make his endurance like...",
+            "fid" : "content" },
+          
+          { "form" : "several",
+            "weight" : "1",
+            "pos" : 562,
+            "context" : "...the spell that would fire his impulses with magicka. Over <mark>several<\/mark> weeks, he learned how to supplant his own natural energy...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "several",
+            "weight" : "1",
+            "pos" : 354,
+            "context" : "...a squirming sack which Baranat assumed either contained Lady Genevrah or <mark>several<\/mark> large cats. The young adventurer quailed at the prospect of...",
+            "fid" : "content" },
+          
+          { "form" : "Several",
+            "weight" : "1",
+            "pos" : 485,
+            "context" : "...she had a very, very, very unpleasant personality as well. <mark>Several<\/mark> days later, when they were back at the old woman's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "several",
+            "weight" : "1",
+            "pos" : 651,
+            "context" : "...Azura's Coast. The site has a nasty reputation, and <mark>several<\/mark> Telvanni wizards currently have competing camps of hirelings and adventurers exploring...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "several",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "The last <mark>several<\/mark> hours had been a whirlwind to all. In less than a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Several",
+            "weight" : "1",
+            "pos" : 346,
+            "context" : "...the first vampire upon the corpse of a defeated foe. <mark>Several<\/mark> different versions of this story exist, with the foe variously...",
+            "fid" : "content" } ] } ] }

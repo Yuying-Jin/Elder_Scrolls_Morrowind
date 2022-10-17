@@ -1,0 +1,31 @@
+
+  { "stem" : "desol",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "desolate",
+            "weight" : "1",
+            "pos" : 924,
+            "context" : "...Mar is a fortified stronghold on the southeastern edge of the <mark>desolate<\/mark> Molag Amur region. Pilgrims bound for the nearby pilgrimage sites...",
+            "fid" : "content" },
+          
+          { "form" : "desolate",
+            "weight" : "1",
+            "pos" : 960,
+            "context" : "...camp, an isolated hut settlement in the middle of the <mark>desolate<\/mark> Molag Amur region.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "desolate",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "...he cut through legions before facing the master himself in the <mark>desolate<\/mark> main hall.",
+            "fid" : "content" } ] } ] }

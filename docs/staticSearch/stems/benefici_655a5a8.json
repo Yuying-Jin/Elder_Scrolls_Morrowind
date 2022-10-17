@@ -1,0 +1,25 @@
+
+  { "stem" : "benefici",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneficial",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "...in exchange for disposing of the Orcish dead. A mutually <mark>beneficial<\/mark> arrangement as I'm sure the Orcs will agree. To this...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneficial",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...meager and scrawny. But the Arrowroot itself can be most <mark>beneficial<\/mark> to the gatherer as it has magical properties. The paste...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "tail",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tail",
+            "weight" : "1",
+            "pos" : 316,
+            "context" : "...racers. coda flowers are collected from the primitive draggle-<mark>tail<\/mark> plant of the Bitter Coast.",
+            "fid" : "content" } ] } ] }

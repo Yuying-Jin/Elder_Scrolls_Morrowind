@@ -1,0 +1,42 @@
+
+  { "stem" : "twelv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "twelve",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "..., we can divide the profits between two rather than between <mark>twelve<\/mark>.\"",
+            "fid" : "content" },
+          
+          { "form" : "twelve",
+            "weight" : "1",
+            "pos" : 438,
+            "context" : "...divided by two was more profitable than a fortune divided by <mark>twelve<\/mark>, S'Riizh listened to that too.\" S'Riizh shuffled back to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Twelve",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "The <mark>Twelve<\/mark>-Night Drunk",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "twelve",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "...Horis, and two plunged into the rushing river. For <mark>twelve<\/mark> hours, they wrestled one another under the water, until...",
+            "fid" : "content" } ] } ] }

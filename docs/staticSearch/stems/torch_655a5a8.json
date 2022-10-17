@@ -1,0 +1,14 @@
+
+  { "stem" : "torch",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "torch",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : " How many Orcs does it take to light a <mark>torch<\/mark>?",
+            "fid" : "content" } ] } ] }

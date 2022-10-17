@@ -1,0 +1,42 @@
+
+  { "stem" : "drink",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "drink",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...Condense vapors into a large Ebony flask. For a hot <mark>drink<\/mark>, strain contents through Scamp Skin and mix with Flin in...",
+            "fid" : "content" },
+          
+          { "form" : "drink",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "..., slowly stirring with a glass rod. For a chilled <mark>drink<\/mark>, mix in flask with pure Skyrim Ice and shake vigorously...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drinking",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...Instead, I found myself a feast for a blood-<mark>drinking<\/mark> monster.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drinking",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "“That is why I'm <mark>drinking<\/mark> now,” sighed Silverthorn. “So tell me, what is your profession...",
+            "fid" : "content" } ] } ] }

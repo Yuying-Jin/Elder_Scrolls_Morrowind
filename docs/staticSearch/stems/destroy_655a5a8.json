@@ -1,0 +1,70 @@
+
+  { "stem" : "destroy",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "destroyed",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...the Tribunal at Red Mountain, and holds that the Dwemer <mark>destroyed<\/mark> themselves, rather than that Nerevar destroyed them. Ashlander tradition further holds...",
+            "fid" : "content" },
+          
+          { "form" : "destroyed",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...and holds that the Dwemer destroyed themselves, rather than that Nerevar <mark>destroyed<\/mark> them. Ashlander tradition further holds that Nerevar left Dagoth Ur guarding...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "destroyed",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...the Tribunal at Red Mountain, and holds that the Dwemer <mark>destroyed<\/mark> themselves, rather than that Nerevar destroyed them. Ashlander tradition further holds...",
+            "fid" : "content" },
+          
+          { "form" : "destroyed",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...and holds that the Dwemer destroyed themselves, rather than that Nerevar <mark>destroyed<\/mark> them. Ashlander tradition further holds that Nerevar left Dagoth Ur guarding...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "destroy",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...and shields. Fortunately, enchanted weapons are not needed to <mark>destroy<\/mark> skeletons. An exception is the bonelord, a peculiar form...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "destroy",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...and shields. Fortunately, enchanted weapons are not needed to <mark>destroy<\/mark> skeletons. An exception is the bonelord, a peculiar form...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "destroyed",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...curable, a cured vampire would be an abomination to be <mark>destroyed<\/mark>. Since the disease is infallibly cured if treated within three...",
+            "fid" : "content" } ] } ] }

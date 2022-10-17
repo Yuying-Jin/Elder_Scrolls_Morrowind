@@ -1,0 +1,20 @@
+
+  { "stem" : "ball",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ball",
+            "weight" : "1",
+            "pos" : 450,
+            "context" : "...nudging the witch next to him. \"Kena Leles, cast a <mark>ball<\/mark> of blue flame for me.\" And he sat in the inferno...",
+            "fid" : "content" },
+          
+          { "form" : "ball",
+            "weight" : "1",
+            "pos" : 469,
+            "context" : "...Master Vomph,\" said Oin. \"Kena Leles, cast a <mark>ball<\/mark> of blue flames for me.\" Oin sat in the inferno of...",
+            "fid" : "content" } ] } ] }

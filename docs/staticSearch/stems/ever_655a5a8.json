@@ -1,0 +1,76 @@
+
+  { "stem" : "ever",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...force to the corpse miner's will, how may such a spirit <mark>ever<\/mark> find rest? How may it ever find its way back...",
+            "fid" : "content" },
+          
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...may such a spirit ever find rest? How may it <mark>ever<\/mark> find its way back to its blood and clan?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "...Lord Nerevar, in peace and in war. No houseman <mark>ever<\/mark> served you better, or more faithfully. Much that I...",
+            "fid" : "content" },
+          
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : " As <mark>ever<\/mark>, your respectful servant and loyal friend, Lord Voryn Dagoth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...reportedly have no effect on these creatures. No specimen has <mark>ever<\/mark> been examined, and no references have ever linked these legends...",
+            "fid" : "content" },
+          
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...No specimen has ever been examined, and no references have <mark>ever<\/mark> linked these legends with the known clans of Tamrielic vampires.......",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "...Dunmer feel that all they think and do is under the <mark>ever<\/mark>-watchful eye of the Tribunal and family ancestor spirits....\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ever",
+            "weight" : "1",
+            "pos" : 766,
+            "context" : "...next season's worth of willow anther. Then they lived happily <mark>ever<\/mark> after.",
+            "fid" : "content" } ] } ] }

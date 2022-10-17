@@ -1,0 +1,36 @@
+
+  { "stem" : "blind",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blinding",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...within the basin before the altar, and instantly experienced a <mark>blinding<\/mark> of pain and terror that I cannot express in words,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blindly",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...turn a profit, take it. But do not follow money <mark>blindly<\/mark>. There is value in reputation, more than many young...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blinded",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...be abused by prideful wizards, confident in their skill and <mark>blinded<\/mark> by their ambitions. In this, hold the ordering of the...",
+            "fid" : "content" } ] } ] }

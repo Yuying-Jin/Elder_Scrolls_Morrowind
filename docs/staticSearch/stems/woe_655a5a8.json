@@ -1,0 +1,14 @@
+
+  { "stem" : "woe",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "woe",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...Chained completely together With never a false word, Weal and <mark>woe<\/mark>, wish and real, Woven each together From first kiss...",
+            "fid" : "content" } ] } ] }

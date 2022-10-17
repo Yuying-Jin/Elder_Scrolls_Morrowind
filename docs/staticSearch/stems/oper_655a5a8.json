@@ -1,0 +1,42 @@
+
+  { "stem" : "oper",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "operate",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...dealt with. I know of only a few Sload Necromancers who <mark>operate<\/mark> successfully in Black Marsh, and even they stay near coast...",
+            "fid" : "content" },
+          
+          { "form" : "operate",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "...the cold weather and isolated terrain allow a few Necromancers to <mark>operate<\/mark> freely. Alas, the availability of corpses is limited to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "operations",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "...Justice contain the executive, administrative, judicial, and martial <mark>operations<\/mark> of the Tribunal Temple. The Palace of Vivec is the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "operation",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...on the small island, the two men discussed the smuggling <mark>operation<\/mark> and what went wrong. Their boat, laden with five...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,70 @@
+
+  { "stem" : "across",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 843,
+            "context" : "...Tel Fyr. The Ashlanders of Zainab camp move their herds <mark>across<\/mark> the plains in search of fresh grazing. There are no...",
+            "fid" : "content" },
+          
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 852,
+            "context" : "...There are no roads or tracks, but travel is easy <mark>across<\/mark> the open plains.",
+            "fid" : "content" },
+          
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 1053,
+            "context" : "...encircles Red Mountain and prevents the Blight from spilling its corruption <mark>across<\/mark> the rest of Vvardenfell.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...will dazzle you as he juggles fifteen flaming globes while hopping <mark>across<\/mark> broken glass. Master Tulkiande will astound you as she supports...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...there was no sound. Silverthorn took his time, strolling <mark>across<\/mark> the length of the hall, before dispatching the battlemage with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 434,
+            "context" : "...of magicka and expelling it. The lesson learned, he came <mark>across<\/mark> Master Combova at the Madach Tradehouse&gt;.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "across",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...his feet, but Baranat tore him apart, scattering him <mark>across<\/mark> the valley floor in eighty-seven pieces. Beyond Feryn's...",
+            "fid" : "content" } ] } ] }

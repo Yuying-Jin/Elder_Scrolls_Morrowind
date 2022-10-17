@@ -1,0 +1,65 @@
+
+  { "stem" : "murder",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "murder",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "...As known in the West, Mephala is the demon of <mark>murder<\/mark>, sex, and secrets. All of these themes contain...",
+            "fid" : "content" },
+          
+          { "form" : "murder",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...The Dunmer do not envision Lord Vivec as a creature of <mark>murder<\/mark>, sex, and secrets. Rather, they conceive of...",
+            "fid" : "content" },
+          
+          { "form" : "murder",
+            "weight" : "1",
+            "pos" : 314,
+            "context" : "...with his co-rulers Almalexia and Sotha Sil in the <mark>murder<\/mark> of Lord Nerevar, the greatest of Dunmer heroes and generals...",
+            "fid" : "content" },
+          
+          { "form" : "murder",
+            "weight" : "1",
+            "pos" : 342,
+            "context" : "...to say, \"Of course Vivec would never have conspired to <mark>murder<\/mark> Lord Nerevar, but it happened so long ago... who...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "murder",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...against the more tangible coins in any deal. Theft and <mark>murder<\/mark> are bad for business. You can steal from someone,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "murder",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "...disconcerting for some potential candidates is House Telvanni's casual acceptance of <mark>murder<\/mark> and assassination of rivals as a means to advancement. Those...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "murders",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...land. Unfortunately, in those troubled days, kidnappings, <mark>murders<\/mark>, and thievery were rampant, and there was a dearth...",
+            "fid" : "content" } ] } ] }

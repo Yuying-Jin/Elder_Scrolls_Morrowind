@@ -1,0 +1,37 @@
+
+  { "stem" : "leorian",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Leoriane's",
+            "weight" : "1",
+            "pos" : 1395,
+            "context" : "Caldera, Surane <mark>Leoriane's<\/mark> house" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "leoriane's",
+            "weight" : "1",
+            "pos" : 1566,
+            "context" : "caldera, surane <mark>leoriane's<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Leoriane's",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Caldera, Surane <mark>Leoriane's<\/mark> house: Visitable? yes",
+            "fid" : "acq" } ] } ] }

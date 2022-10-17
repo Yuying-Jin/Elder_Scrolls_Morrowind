@@ -1,0 +1,65 @@
+
+  { "stem" : "especi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "especially",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "...noble personality and a strong will. Respect the magical arts, <mark>especially<\/mark> the colleges of Restoration, Mysticism, and Conjuration. Those...",
+            "fid" : "content" },
+          
+          { "form" : "especially",
+            "weight" : "1",
+            "pos" : 324,
+            "context" : "...the field unarmored to fight only with blunt weapons, are <mark>especially<\/mark> praiseworthy. Knowledge of enchantments and the gift of diplomatic speech...",
+            "fid" : "content" },
+          
+          { "form" : "especially",
+            "weight" : "1",
+            "pos" : 635,
+            "context" : "...and a friendly and supportive relationship with the Imperial Guilds -- <mark>especially<\/mark> the Fighters and Mages Guilds. We also have a friendly...",
+            "fid" : "content" },
+          
+          { "form" : "especially",
+            "weight" : "1",
+            "pos" : 690,
+            "context" : "...impious and inhumane practices of the Telvanni. The Imperial cult <mark>especially<\/mark> disapproves of the practice of slavery, and looks forward to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "especially",
+            "weight" : "1",
+            "pos" : 475,
+            "context" : "...did. It's pretty tall. It was a simple matter, <mark>especially<\/mark> since I could land in the water. Still, it's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "especially",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...a fern like herb found in Black Marsh. It is <mark>especially<\/mark> prolific around the area of Utherus Swamp. It is a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "especially",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "..., and that candidates proficient in the arts of magic -- <mark>especially<\/mark> Mysticism, Conjuration, Illusion, Alteration, Destruction and Enchanting...",
+            "fid" : "content" } ] } ] }

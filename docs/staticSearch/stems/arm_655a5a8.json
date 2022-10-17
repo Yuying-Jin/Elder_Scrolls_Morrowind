@@ -1,0 +1,25 @@
+
+  { "stem" : "arm",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arm",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : " The missionary <mark>arm<\/mark> of the great faiths, the Imperial cult brings divine inspiration...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arms",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...defend yourself. You travel light and fast, and want light <mark>arms<\/mark> like daggers and shortswords. You don't want to get into...",
+            "fid" : "content" } ] } ] }

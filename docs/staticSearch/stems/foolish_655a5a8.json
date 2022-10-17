@@ -1,0 +1,25 @@
+
+  { "stem" : "foolish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "foolishness",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...are unable to cure yourself of your own manifest arrogance and <mark>foolishness<\/mark>?\" ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "foolish",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...epic songs. They trace the evolution of Vivec from a <mark>foolish<\/mark> mortal into an enlightened divine. Vivec sought out experiences that...",
+            "fid" : "content" } ] } ] }

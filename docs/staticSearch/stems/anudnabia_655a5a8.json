@@ -1,0 +1,37 @@
+
+  { "stem" : "anudnabia",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Anudnabia",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...from their Forge, and for a time the Fires of <mark>Anudnabia<\/mark> were silent. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Anudnabia",
+            "weight" : "1",
+            "pos" : 957,
+            "context" : "<mark>Anudnabia<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anudnabia",
+            "weight" : "1",
+            "pos" : 1129,
+            "context" : "<mark>anudnabia<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

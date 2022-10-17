@@ -1,0 +1,104 @@
+
+  { "stem" : "let",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "let",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "To the Priests: Use your servants sparingly, <mark>let<\/mark> none be seen by the living. Let the memories of...",
+            "fid" : "content" },
+          
+          { "form" : "Let",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...servants sparingly, let none be seen by the living. <mark>Let<\/mark> the memories of the undead waste away from the people....",
+            "fid" : "content" },
+          
+          { "form" : "Let",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...the unbound dead, to the Vampires and the Liches. <mark>Let<\/mark> all the nations of dead carry my banner and my banner...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "let",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : "...have, have you? I wouldn't recommend it. Eventually, we were <mark>let<\/mark> go on the understanding that we would never set foot in...",
+            "fid" : "content" },
+          
+          { "form" : "let",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...in Sadrith Mora again. Actually, not all of us were <mark>let<\/mark> go. Master S'Rabba had apparently died under torture. You...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Let",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "<mark>Let<\/mark> faith be your only law.",
+            "fid" : "content" },
+          
+          { "form" : "Let",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "Faith conquers all. <mark>Let<\/mark> us yield to Faith.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Let",
+            "weight" : "1",
+            "pos" : 503,
+            "context" : "...have been torn apart by the animal servants they created. <mark>Let<\/mark> such stories be a lesson to you.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Let",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "Faith conquers all. <mark>Let<\/mark> us yield to Faith.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "let",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "...enough gold that I could support myself if you, Saint Seryn <mark>let<\/mark> it not be so, were killed during one of these jaunts...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "let",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...of the terms of his bargain with Chimere. Rather than <mark>let<\/mark> his power drain into the void, Dagon cast it all...",
+            "fid" : "content" } ] } ] }

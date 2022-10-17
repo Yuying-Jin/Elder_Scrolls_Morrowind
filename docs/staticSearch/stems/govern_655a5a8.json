@@ -1,0 +1,14 @@
+
+  { "stem" : "govern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "government",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : " Ebonheart is the seat of the Imperial <mark>government<\/mark> for Vvardenfell district, and a busy center of maritime trade...",
+            "fid" : "content" } ] } ] }

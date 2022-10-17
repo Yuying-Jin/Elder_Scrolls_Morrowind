@@ -1,0 +1,14 @@
+
+  { "stem" : "aspir",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aspires",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...which are largely hostile to non-Dunmer, House Hlaalu <mark>aspires<\/mark> to live in peace and harmony with the other races,...",
+            "fid" : "content" } ] } ] }

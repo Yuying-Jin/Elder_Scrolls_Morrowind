@@ -1,0 +1,25 @@
+
+  { "stem" : "visitor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "visitors",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...here. The Black Shalk Cornerclub rents beds to non-guild <mark>visitors<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "visitors",
+            "weight" : "1",
+            "pos" : 751,
+            "context" : "...is a beacon to mariners throughout the Inner Sea. Most <mark>visitors<\/mark> from the Empire make landfall at the port of Seyda Neen...",
+            "fid" : "content" } ] } ] }

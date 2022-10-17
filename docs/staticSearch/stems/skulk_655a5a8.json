@@ -1,0 +1,14 @@
+
+  { "stem" : "skulk",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skulk",
+            "weight" : "1",
+            "pos" : 354,
+            "context" : "...piece of Nightshade inside their armor to increase their abilities to <mark>skulk<\/mark>, hide and become invisible.",
+            "fid" : "content" } ] } ] }

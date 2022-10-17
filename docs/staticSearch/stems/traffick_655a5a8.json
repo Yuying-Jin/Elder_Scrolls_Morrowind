@@ -1,0 +1,14 @@
+
+  { "stem" : "traffick",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "traffickings",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : ".... The Direnni derived the bulk of their power from their <mark>traffickings<\/mark> with Daedra, a very profitable but risky path to success...",
+            "fid" : "content" } ] } ] }

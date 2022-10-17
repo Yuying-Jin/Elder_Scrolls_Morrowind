@@ -1,0 +1,25 @@
+
+  { "stem" : "laden",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "laden",
+            "weight" : "1",
+            "pos" : 994,
+            "context" : "...travel as well as seals in the harmful, disease-<mark>laden<\/mark> weather called 'blight,' rings the volcano's outer slopes, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "laden",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...the smuggling operation and what went wrong. Their boat, <mark>laden<\/mark> with five crates of moon sugar, was supposed to meet...",
+            "fid" : "content" } ] } ] }

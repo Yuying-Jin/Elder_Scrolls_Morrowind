@@ -1,0 +1,25 @@
+
+  { "stem" : "barren",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "barren",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...south. The road to Balmora swings northwest to avoid the <mark>barren<\/mark> wastes, and curves around towards the west until it heads...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "barren",
+            "weight" : "1",
+            "pos" : 885,
+            "context" : "...hills, steep-sided ravines, lava pools, and <mark>barren<\/mark> ash pavements. Pathfinding and travel is extremely difficult in this...",
+            "fid" : "content" } ] } ] }

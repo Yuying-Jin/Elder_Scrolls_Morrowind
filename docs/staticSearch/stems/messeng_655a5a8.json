@@ -1,0 +1,14 @@
+
+  { "stem" : "messeng",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "messengers",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...the Council Hall, acting on his patron's behalf, receiving <mark>messengers<\/mark> from their patrons and casting their patron's votes in Council affairs...",
+            "fid" : "content" } ] } ] }

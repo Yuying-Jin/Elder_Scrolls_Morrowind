@@ -1,0 +1,25 @@
+
+  { "stem" : "spring",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "springs",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...fruitless quest. Harithoel dug deeply, but there were no <mark>springs<\/mark> under the island, just sand and rock. S'Riizh felt...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spring",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "As <mark>spring<\/mark> turned into summer and summer into fall, Oin began to...",
+            "fid" : "content" } ] } ] }

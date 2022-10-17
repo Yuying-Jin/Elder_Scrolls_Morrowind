@@ -1,0 +1,36 @@
+
+  { "stem" : "select",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "selects",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : " The Guild <mark>selects<\/mark> candidates who are strong and healthy. A candidate must have...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "selections",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...as well. Commodities at reasonable prices, but with smaller <mark>selections<\/mark>, are available from the smith, clothier, trader,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "selects",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "The Legion <mark>selects<\/mark> candidates on the basis of superior endurance, the soldierly virtue...",
+            "fid" : "content" } ] } ] }

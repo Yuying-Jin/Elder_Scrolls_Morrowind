@@ -1,0 +1,65 @@
+
+  { "stem" : "imag",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "image",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...Queen of the Three in One. In you is an <mark>image<\/mark> and a seven-syllable spell, AYEM AE SEHTI AE...",
+            "fid" : "content" },
+          
+          { "form" : "image",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...changing her sex so that she might give birth to the <mark>image<\/mark> as an egg. There she stayed for seven or eight...",
+            "fid" : "content" },
+          
+          { "form" : "image",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...to behold and they danced before the egg and its learning <mark>image<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "images",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "Those shrines bearing the <mark>images<\/mark> of Vivec, Almalexia, and Sotha Sil also may grant...",
+            "fid" : "content" },
+          
+          { "form" : "images",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "Those shrines bearing the <mark>images<\/mark> of the saints may also grant the particular blessings of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "image",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "Engrave upon thy eye the <mark>image<\/mark> of injustice.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "image",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "Engrave upon thy eye the <mark>image<\/mark> of injustice.",
+            "fid" : "content" } ] } ] }

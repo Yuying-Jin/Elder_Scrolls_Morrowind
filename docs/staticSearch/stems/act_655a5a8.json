@@ -1,0 +1,80 @@
+
+  { "stem" : "act",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Act",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...of Fighters was established under the section 4 of the \"Guilds <mark>Act<\/mark>,\" and this charter was first confirmed under the Potentate Versidue...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "acts",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "...requires the observer to examine and analyze for patterns before he <mark>acts<\/mark>, with the understanding that many patterns are subtle or hidden...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "acts",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...corrupted by self-interest and politics, and no longer <mark>acts<\/mark> in the best interests of the Temple or its worshippers....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "act",
+            "weight" : "1",
+            "pos" : 545,
+            "context" : "...the whole effect away, but at the end of the <mark>act<\/mark>, you have some very fine sheets of papyrus.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "acts",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...corrupted by self-interest and politics, and no longer <mark>acts<\/mark> in the best interests of the Temple or its worshippers....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "acting",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "..., a trusted subordinate in residence at the Council Hall, <mark>acting<\/mark> on his patron's behalf, receiving messengers from their patrons and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "acted",
+            "weight" : "1",
+            "pos" : 437,
+            "context" : "...wolves as the three passed over the parapets. She also <mark>acted<\/mark> as lead scout, and Lledos was impressed. For someone...",
+            "fid" : "content" } ] } ] }

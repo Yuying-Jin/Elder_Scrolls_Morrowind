@@ -1,0 +1,320 @@
+
+  { "stem" : "black",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 13,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "The <mark>Black<\/mark> Glove" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 1080,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 1429,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 1467,
+            "context" : "<mark>black<\/mark> marsh",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 1485,
+            "context" : "<mark>black<\/mark> shalk cornerclub",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 3423,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 3453,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 4090,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 4541,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 4605,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 6139,
+            "context" : "The <mark>Black<\/mark> Glove, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 6745,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 7003,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 907,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 1264,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 1304,
+            "context" : "<mark>Black<\/mark> Marsh" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 1322,
+            "context" : "<mark>Black<\/mark> Shalk Cornerclub" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 3296,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 3318,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 3987,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 4553,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 4595,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 5554,
+            "context" : "The <mark>Black<\/mark> Glove, count: 2" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 6644,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 6881,
+            "context" : "The <mark>Black<\/mark> Glove, count: 1" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "The Poppy, both <mark>black<\/mark> and white, can be found growing wild in the mountains...",
+            "fid" : "content" },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...in the wilderness without rations. It is said that the <mark>black<\/mark> and white poppies together have magical properties. When they are...",
+            "fid" : "content" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...Tongue, common name for a fern like herb found in <mark>Black<\/mark> Marsh. It is especially prolific around the area of Utherus...",
+            "fid" : "content" },
+          
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "...the metal for which they are named. The very rare <mark>black<\/mark> ironwood tree is said to produce a nut which is very...",
+            "fid" : "content" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "The Somnalius Fern can be found in the swamps of <mark>Black<\/mark> Marsh. The fronds from this plant are light green and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "Finding suitable corpses in <mark>Black<\/mark> Marsh is nearly impossible due to their rapid decay. There...",
+            "fid" : "content" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...know of only a few Sload Necromancers who operate successfully in <mark>Black<\/mark> Marsh, and even they stay near coast.",
+            "fid" : "content" },
+          
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...of Elsweyr pose some of the same problems as those of <mark>Black<\/mark> Marsh, the deserts preserve corpses for hundreds of years in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 500,
+            "context" : "...the south of Morrowind, bordering the swamps and marshes of <mark>Black<\/mark> Marsh. House Dres is an agrarian agricultural society, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...tradesmen, craftsmen, and trainers also rent space here. The <mark>Black<\/mark> Shalk Cornerclub rents beds to non-guild visitors.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...known as the Imperial Province), and on the south by <mark>Black<\/mark> Marsh (also known as Argonia). Vvardenfell District encompasses Vvardefell...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "<mark>Black<\/mark> Fredas",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...? Then, perhaps, your oath and service may please the <mark>Black<\/mark> Glove.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "How <mark>black<\/mark> my heart, roasting fiercely?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Black",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...Dunmer as the transcendent evolution of the daedrai that anticipated him, <mark>Black<\/mark> Hands Mephala, a foundation figure of the earliest Chimer....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "black",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...the Thieves Guild and the Camonna Tong for control of the <mark>black<\/mark> markets.",
+            "fid" : "content" } ] } ] }

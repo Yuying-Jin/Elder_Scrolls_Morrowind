@@ -1,0 +1,31 @@
+
+  { "stem" : "seiz",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "seize",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...fortune by the forelocks. When you see your chances, <mark>seize<\/mark> them.",
+            "fid" : "content" },
+          
+          { "form" : "seize",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "Then, reader, would you <mark>seize<\/mark> this opportunity to join House Hlaalu? Would you have yourself...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seizing",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...the island, just sand and rock. S'Riizh felt panic <mark>seizing<\/mark> his soul, until he saw the small, quick,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,243 @@
+
+  { "stem" : "provinc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...Manor, Manor District, Ald'ruhn, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...Manor, Manor District, Ald'ruhn, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...Manor, Manor District, Ald'ruhn, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...of Morvayn Manor, East Ald'ruhn, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...Manor, Manor District, Ald'ruhn, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...Manor, Manor District, Ald'ruhn, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "...Tel Aruhn, East Molag Amur, District of Vvardenfell, <mark>Province<\/mark> of Morrowind Master Aryon, Mage Lord of Telvanni Council,...",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...Village of Vos, The Grazelands, District of Vvardenfell, <mark>Province<\/mark> of Morrowind Master Neloth, Mage Lord of Telvanni Council,...",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...of Tel Naga, Sadrith Mora, District of Vvardenfell, <mark>Province<\/mark> of Morrowind Mistress Dratha, Mage Lord of Telvanni Council,...",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...of Tel Mora, The Grazelands, District of Vvardenfell, <mark>Province<\/mark> of Morrowind Mistress Therana, Mage Lord of Telvanni Council,...",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...of Tel Branora, Azura's Coast, District of Vvardenfell, <mark>Province<\/mark> of Morrowind Councilor Representatives of House Telvanni, Council Hall,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "..., Elmas Island, East Vivec, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...of No Fixed Residence, Vivec, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...Manor, Hlaalu Compound, Vivec, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...of St. Olms, Vivec, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "..., Ascadian Isles, Bal Ur, District of Vvardenfell, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "province",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...throughout Morrowind: the most intelligent man alive was in the <mark>province<\/mark>. Oin went to visit his friend, Kena Yakin Bael...",
+            "fid" : "content" },
+          
+          { "form" : "province",
+            "weight" : "1",
+            "pos" : 488,
+            "context" : "...quickly throughout Morrowind: the toughest man alive was in the <mark>province<\/mark>. Oin went to visit his friend, Kena Yakin Bael...",
+            "fid" : "content" },
+          
+          { "form" : "province",
+            "weight" : "1",
+            "pos" : 654,
+            "context" : "...throughout Morrowind: the most agile man alive was in the <mark>province<\/mark>. Oin went to visit his friend, Kena Yakin Bael...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...who accepted the contract and second with the authorities of each <mark>Province<\/mark>. ",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "Fighters Guild Chapters in Vvardenfell District, <mark>Province<\/mark> of Morrowind",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "provinces",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "...Imperial cult brings divine inspiration and consolation to the Empire's remote <mark>provinces<\/mark>. The cults combine the worship of the Nine Divines,...",
+            "fid" : "content" },
+          
+          { "form" : "provinces",
+            "weight" : "1",
+            "pos" : 700,
+            "context" : "...forward to the day when slavery is illegal in all Imperial <mark>provinces<\/mark>. The Imperial cult also disapproves of the lawless and greedy...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "province",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : " Morrowind is the northeastmost <mark>province<\/mark> of the Tamrielic Empire, bounded on the north and east...",
+            "fid" : "content" },
+          
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...on the southwest by Cyrodiil (also known as the Imperial <mark>Province<\/mark>), and on the south by Black Marsh (also known...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "province",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "While the Arts of Necromancy are only illegal in the <mark>province<\/mark> of Morrowind, few citizens of the Empire have an enlightened...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provinces",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...bones in a matter of days. Lesser crabs in other <mark>provinces<\/mark> can do the same in a matter of weeks.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "provinces",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...to the rapid pace of change and progress in the Imperial <mark>provinces<\/mark>. Unlike the other Great Houses, which are largely hostile...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...trader, writing from the Vos Tradehouse in Vvardenfell District, <mark>Province<\/mark> of Morrowind]",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Province",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "...a thick, rubbery tuber that can be found in the <mark>Province<\/mark> of Valenwood. The plant is very difficult to find as...",
+            "fid" : "content" } ] } ] }

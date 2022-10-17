@@ -1,0 +1,42 @@
+
+  { "stem" : "bounti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bounty",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...sin and error. Like generous relatives, they share their <mark>bounty<\/mark> among the greatest and least, according to their needs....",
+            "fid" : "content" },
+          
+          { "form" : "bounties",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : "The Consolations of Prayer Learn what <mark>bounties<\/mark> and blessing might be gained by prayer at the shrines found...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bounty",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "Through the <mark>bounty<\/mark> of Blessed Almsivi, Triune Grace, and all the hosts...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bounty",
+            "weight" : "1",
+            "pos" : 541,
+            "context" : "...at the Plot and Plaster tomorrow morning and split up the <mark>bounty<\/mark>.\"",
+            "fid" : "content" } ] } ] }

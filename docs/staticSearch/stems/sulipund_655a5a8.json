@@ -1,0 +1,59 @@
+
+  { "stem" : "sulipund",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sulipund",
+            "weight" : "1",
+            "pos" : 3559,
+            "context" : "<mark>Sulipund<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sulipund",
+            "weight" : "1",
+            "pos" : 3711,
+            "context" : "<mark>sulipund<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sulipund",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "<mark>Sulipund<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sulipund",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "<mark>Sulipund<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sulipund",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "<mark>Sulipund<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "uncomfort",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "uncomfortable",
+            "weight" : "1",
+            "pos" : 374,
+            "context" : "...prove their worthiness by killing off the competition, and those <mark>uncomfortable<\/mark> about competing in such a ruthless atmosphere, might better employ...",
+            "fid" : "content" } ] } ] }

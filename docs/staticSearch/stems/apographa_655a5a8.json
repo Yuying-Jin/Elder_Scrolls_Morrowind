@@ -1,0 +1,37 @@
+
+  { "stem" : "apographa",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Apographa",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...from the same source -- Red Mountain. Sources in the <mark>Apographa<\/mark> suggest that the Tribunal relied on profanely enchanted tools to achieve...",
+            "fid" : "content" },
+          
+          { "form" : "Apographa",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...\"priestly writings\"] and a hidden face [ represented by the <mark>Apographa<\/mark> -- the \"hidden writings\"]. The public account portrays the actions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Apographa",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...from the same source -- Red Mountain. Sources in the <mark>Apographa<\/mark> suggest that the Tribunal relied on profanely enchanted tools to achieve...",
+            "fid" : "content" },
+          
+          { "form" : "Apographa",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...\"priestly writings\"] and a hidden face [ represented by the <mark>Apographa<\/mark> -- the \"hidden writings\"]. The public account portrays the actions...",
+            "fid" : "content" } ] } ] }

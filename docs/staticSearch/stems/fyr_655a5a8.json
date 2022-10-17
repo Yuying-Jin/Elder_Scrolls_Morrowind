@@ -1,0 +1,279 @@
+
+  { "stem" : "fyr",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 2087,
+            "context" : "Hall of <mark>Fyr<\/mark>" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 3719,
+            "context" : "Tel <mark>Fyr<\/mark>" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 3732,
+            "context" : "Tel <mark>Fyr<\/mark>, Hall of Fyr" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 3734,
+            "context" : "Tel Fyr, Hall of <mark>Fyr<\/mark>" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 4116,
+            "context" : "Tower of Tel <mark>Fyr<\/mark>, Hall of Fyr" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 4118,
+            "context" : "Tower of Tel Fyr, Hall of <mark>Fyr<\/mark>" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 4126,
+            "context" : "Tower_of_Tel_<mark>Fyr<\/mark>" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 4139,
+            "context" : "Tower_of_Tel_<mark>Fyr<\/mark>,_Hall_of_Fyr" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 4141,
+            "context" : "Tower_of_Tel_Fyr,_Hall_of_<mark>Fyr<\/mark>" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 6583,
+            "context" : "Divayth <mark>Fyr<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "fyr",
+            "weight" : "1",
+            "pos" : 2254,
+            "context" : "hall of <mark>fyr<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fyr",
+            "weight" : "1",
+            "pos" : 3916,
+            "context" : "tel <mark>fyr<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fyr",
+            "weight" : "1",
+            "pos" : 3929,
+            "context" : "tel <mark>fyr<\/mark>, hall of fyr",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fyr",
+            "weight" : "1",
+            "pos" : 3931,
+            "context" : "tel fyr, hall of <mark>fyr<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fyr",
+            "weight" : "1",
+            "pos" : 4267,
+            "context" : "tower of tel <mark>fyr<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fyr",
+            "weight" : "1",
+            "pos" : 4280,
+            "context" : "tower of tel <mark>fyr<\/mark>, hall of fyr",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fyr",
+            "weight" : "1",
+            "pos" : 4282,
+            "context" : "tower of tel fyr, hall of <mark>fyr<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fyr",
+            "weight" : "1",
+            "pos" : 6681,
+            "context" : "divayth <mark>fyr<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 551,
+            "context" : " Tel <mark>Fyr<\/mark> is the Telvanni tower of Sorcerer-Lord Divayth Fyr....",
+            "fid" : "content" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 558,
+            "context" : "...Tel Fyr is the Telvanni tower of Sorcerer-Lord Divayth <mark>Fyr<\/mark>. Beneath the tower is the Corprusarium, a refuge-...",
+            "fid" : "content" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 837,
+            "context" : "...include Vos village and the towers of Tel Vos and Tel <mark>Fyr<\/mark>. The Ashlanders of Zainab camp move their herds across the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "Tower of Tel <mark>Fyr<\/mark>, Hall of Fyr: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "Tower of Tel Fyr, Hall of <mark>Fyr<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "Hall of <mark>Fyr<\/mark>: Visitable? ",
+            "fid" : "acq" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Tel <mark>Fyr<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Tel <mark>Fyr<\/mark>, Hall of Fyr: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Tel Fyr, Hall of <mark>Fyr<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "Tel <mark>Fyr<\/mark>, Hall of Fyr: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "Tel Fyr, Hall of <mark>Fyr<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "Tower of Tel <mark>Fyr<\/mark>, Hall of Fyr: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "Tower of Tel Fyr, Hall of <mark>Fyr<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Hall of <mark>Fyr<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "Hall of <mark>Fyr<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "Tower of Tel <mark>Fyr<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fyr",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "Tower of Tel <mark>Fyr<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

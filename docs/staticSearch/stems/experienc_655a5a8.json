@@ -1,0 +1,36 @@
+
+  { "stem" : "experienc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "experienced",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...the gem within the basin before the altar, and instantly <mark>experienced<\/mark> a blinding of pain and terror that I cannot express in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "experienced",
+            "weight" : "1",
+            "pos" : 541,
+            "context" : ".... Dreugh within the cave itself are fearsome enemies; only <mark>experienced<\/mark> and capable adventurers should attempt to re-enact the epic...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "experienced",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...with Temple officials persuade me that the Dunmer of Morrowind are <mark>experienced<\/mark> and knowledgeable in the handling of these menaces. On the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "kneel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kneel",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "<mark>Kneel<\/mark> before the Teacher's chair.",
+            "fid" : "content" } ] } ] }

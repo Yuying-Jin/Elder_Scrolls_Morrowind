@@ -1,0 +1,47 @@
+
+  { "stem" : "profici",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "proficiency",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...who are strong and healthy. A candidate must have some <mark>proficiency<\/mark> with long blades, axes, blunt weapons, and shields...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "proficiency",
+            "weight" : "1",
+            "pos" : 593,
+            "context" : "..., but later, missions may demand higher levels of combat <mark>proficiency<\/mark>. Those interested should speak to Kaye at the Imperial Chapels...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "proficient",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...unblocked blows upon your heavy armor. Recruit must also be <mark>proficient<\/mark> at athletics, both to march long distances with heavy packs...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "proficient",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...ranks depends on high intelligence and willpower, and that candidates <mark>proficient<\/mark> in the arts of magic -- especially Mysticism, Conjuration,...",
+            "fid" : "content" } ] } ] }

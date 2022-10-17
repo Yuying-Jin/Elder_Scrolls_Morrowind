@@ -1,0 +1,14 @@
+
+  { "stem" : "whatev",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whatever",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...blade, spear, and blunt weapons. You must block <mark>whatever<\/mark> blows you can, and take unblocked blows upon your heavy armor...",
+            "fid" : "content" } ] } ] }

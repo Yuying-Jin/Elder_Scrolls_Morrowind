@@ -1,0 +1,43 @@
+
+  { "stem" : "meri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Meris",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "St. <mark>Meris<\/mark> grants Meris' Warding, for resistance to corprus disease.",
+            "fid" : "content" },
+          
+          { "form" : "Meris'",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "St. Meris grants <mark>Meris'<\/mark> Warding, for resistance to corprus disease.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Meris",
+            "weight" : "1",
+            "pos" : 7313,
+            "context" : "St.<mark>Meris<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "meris",
+            "weight" : "1",
+            "pos" : 7426,
+            "context" : "st.<mark>meris<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,36 @@
+
+  { "stem" : "expel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expelled",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...of Fighters who strikes or steals from another member shall be <mark>expelled<\/mark> from the Guild. Re-admittance is at the discretion...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expelled",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...member. Break any one of these rules, and be <mark>expelled<\/mark> from the cult.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expelling",
+            "weight" : "1",
+            "pos" : 430,
+            "context" : "...lightning, pulling the pain into a reservoir of magicka and <mark>expelling<\/mark> it. The lesson learned, he came across Master Combova at...",
+            "fid" : "content" } ] } ] }

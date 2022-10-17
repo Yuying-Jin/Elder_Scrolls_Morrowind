@@ -1,0 +1,25 @@
+
+  { "stem" : "earth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...and Sotha Sil were mortal guardians of Morrowind who walked the <mark>earth<\/mark>, defeated the Dunmer's greatest enemies, the Nords and the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "earth",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...a relationship with a living, breathing god who walks the <mark>earth<\/mark>, speaks in person with priests and cultists, and whose...",
+            "fid" : "content" } ] } ] }

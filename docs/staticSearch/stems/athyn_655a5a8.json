@@ -1,0 +1,91 @@
+
+  { "stem" : "athyn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Athyn",
+            "weight" : "1",
+            "pos" : 6805,
+            "context" : "Hlaalu <mark>Athyn<\/mark> Llethan" },
+          
+          { "form" : "Athyn",
+            "weight" : "1",
+            "pos" : 6813,
+            "context" : "<mark>Athyn<\/mark> Llethan" },
+          
+          { "form" : "Athyn",
+            "weight" : "1",
+            "pos" : 7132,
+            "context" : "<mark>Athyn<\/mark> Sarethi" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "athyn",
+            "weight" : "1",
+            "pos" : 6922,
+            "context" : "hlaalu <mark>athyn<\/mark> llethan",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "athyn",
+            "weight" : "1",
+            "pos" : 6930,
+            "context" : "<mark>athyn<\/mark> llethan",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "athyn",
+            "weight" : "1",
+            "pos" : 7257,
+            "context" : "<mark>athyn<\/mark> sarethi",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Athyn",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "Master Lord <mark>Athyn<\/mark> Sarethi, by Grace of Almsivi, Honored Councilor of Redoran...",
+            "fid" : "content" },
+          
+          { "form" : "Athyn",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "King Hlaalu <mark>Athyn<\/mark> Llethan, High Councilor and Lord of Morrowind, imposes favorable...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Athyn",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...All six Redoran councilors, Brara Morvayn, Hlaren Ramoran, <mark>Athyn<\/mark> Sarethi, Garisa Llethri, Miner Arobar, and Bolvyn Venim...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Athyn",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "King Hlaalu <mark>Athyn<\/mark> Llethan, High Councilor and Lord of Morrowind, grants relief...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "map",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "map",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...eight cantons, each a little town in itself. On a <mark>map<\/mark>, it looks like a cross, with the Foreign Quarter...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "map",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "Galsiah brought out the <mark>map<\/mark> of the guildhouse, freshly stolen, and they began to...",
+            "fid" : "content" } ] } ] }

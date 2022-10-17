@@ -1,0 +1,83 @@
+
+  { "stem" : "hymn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Ashland <mark>Hymns<\/mark>" },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 833,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 902,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 2388,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 4467,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 6492,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 656,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1" },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 739,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1" },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 2220,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1" },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 4328,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1" },
+          
+          { "form" : "Hymns",
+            "weight" : "1",
+            "pos" : 6409,
+            "context" : "Ashland <mark>Hymns<\/mark>, count: 1" } ] } ] }

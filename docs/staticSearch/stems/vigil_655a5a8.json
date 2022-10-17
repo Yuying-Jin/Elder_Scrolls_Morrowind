@@ -1,0 +1,14 @@
+
+  { "stem" : "vigil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vigilance",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...violent crime in the Hlaalu House Districts, thanks to the <mark>vigilance<\/mark> of the Legions and stern sentences by the magistrates. The...",
+            "fid" : "content" } ] } ] }

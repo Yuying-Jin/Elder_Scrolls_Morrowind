@@ -1,0 +1,31 @@
+
+  { "stem" : "understood",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "understood",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...appear in the popular literature and liturgy, but is instinctively <mark>understood<\/mark> and accepted by the Dunmer as an integral part of Vivec's...",
+            "fid" : "content" },
+          
+          { "form" : "understood",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...courtship\/orgy, tact\/poetic truths); Mephala is <mark>understood<\/mark> paradoxically to contain and integrate these contradictory themes. And all...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "understood",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...or feedings, the process of contracting the disease is little <mark>understood<\/mark>. Some have suggested that victims may willingly submit themselves to...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "poet-artist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poet-artist",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...conceive of Lord Vivec as benevolent king, guardian warrior, <mark>poet-artist<\/mark>. But, at the same time, unconsciously, they accept...",
+            "fid" : "content" } ] } ] }

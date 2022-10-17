@@ -1,0 +1,14 @@
+
+  { "stem" : "temperatur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "temperature",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...standing in a pool, and a wizard slowly raises the <mark>temperature<\/mark>, measure by measure, to boiling, the kagouti will...",
+            "fid" : "content" } ] } ] }

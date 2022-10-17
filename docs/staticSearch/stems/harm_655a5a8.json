@@ -1,0 +1,109 @@
+
+  { "stem" : "harm",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "harm",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...a boiling pool, he will leap out immediately to avoid <mark>harm<\/mark>. But if the kagouti is standing in a pool,...",
+            "fid" : "content" },
+          
+          { "form" : "harm",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...And so it is clear that thoughtless companions may bring more <mark>harm<\/mark> than help.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "harmed",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...ghost, wraith, and dwarven ghost, can only be <mark>harmed<\/mark> by weapons that are enchanted or made of refined substances such...",
+            "fid" : "content" },
+          
+          { "form" : "harm",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...than the more common 'lesser' bonewalkers. Thankfully, normal weapons <mark>harm<\/mark> bonewalkers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "harmed",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...ghost, wraith, and dwarven ghost, can only be <mark>harmed<\/mark> by weapons that are enchanted or made of refined substances such...",
+            "fid" : "content" },
+          
+          { "form" : "harm",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...than the more common 'lesser' bonewalkers. Thankfully, normal weapons <mark>harm<\/mark> bonewalkers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "harm",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : " We also say, \"do not <mark>harm<\/mark> one another.\" It is forbidden to attack another person of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "harmful",
+            "weight" : "1",
+            "pos" : 991,
+            "context" : "...magical barrier which blocks travel as well as seals in the <mark>harmful<\/mark>, disease-laden weather called 'blight,' rings the volcano's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "harm",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...afar with accurate missile fire. Light armor protects them from <mark>harm<\/mark>, and the acrobatic discipline finds for them the unseen and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "harm",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "Folly secures its power to <mark>harm<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "harm",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "A minor tax revolt in Balmora was suppressed without undue <mark>harm<\/mark> to life and property. The council sent deputations to the...",
+            "fid" : "content" } ] } ] }

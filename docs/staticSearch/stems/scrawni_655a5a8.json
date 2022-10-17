@@ -1,0 +1,14 @@
+
+  { "stem" : "scrawni",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scrawny",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "...to find as its above ground foliage is very meager and <mark>scrawny<\/mark>. But the Arrowroot itself can be most beneficial to the...",
+            "fid" : "content" } ] } ] }

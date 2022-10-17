@@ -1,0 +1,14 @@
+
+  { "stem" : "client",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "clients",
+            "weight" : "1",
+            "pos" : 368,
+            "context" : "...But certain ambitious wizards-lords, their retainers, and <mark>clients<\/mark> have entered whole-heartedly into the competition to control and...",
+            "fid" : "content" } ] } ] }

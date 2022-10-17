@@ -1,0 +1,42 @@
+
+  { "stem" : "institut",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "institution",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...would make its practice impossible were it not for the fortunate <mark>institution<\/mark> of slavery. While the Temple will investigate obvious signs of...",
+            "fid" : "content" },
+          
+          { "form" : "institute",
+            "weight" : "1",
+            "pos" : 358,
+            "context" : ".... There are even rumors that King Gothryd of Daggerfall may <mark>institute<\/mark> the Imperial practice of donating the corpses of criminals for Necromantic...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "institution",
+            "weight" : "1",
+            "pos" : 530,
+            "context" : "..., and in particular opposed to any attempts to limit the <mark>institution<\/mark> of slavery.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "institution",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...ring lost, but Nerevar's alliance survives in Morrowind's ruling political <mark>institution<\/mark>, the Grand Council.",
+            "fid" : "content" } ] } ] }

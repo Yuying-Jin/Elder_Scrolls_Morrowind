@@ -1,0 +1,96 @@
+
+  { "stem" : "fakebook",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>" },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 1439,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 1612,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 2514,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 5682,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 5866,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 7205,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 1274,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1" },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 1441,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1" },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 2348,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1" },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 5439,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1" },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 5618,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1" },
+          
+          { "form" : "Fakebook",
+            "weight" : "1",
+            "pos" : 6218,
+            "context" : "The Balladeer's <mark>Fakebook<\/mark>, count: 1" } ] } ] }

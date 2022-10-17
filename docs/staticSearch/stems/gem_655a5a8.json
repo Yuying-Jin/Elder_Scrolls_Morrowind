@@ -1,0 +1,76 @@
+
+  { "stem" : "gem",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gem",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "[Rithari sought and obtained a cursed soul <mark>gem<\/mark> of mysterious nature from a deep cavern on the northern slopes...",
+            "fid" : "content" },
+          
+          { "form" : "gem",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "\"I placed the <mark>gem<\/mark> within the basin before the altar, and instantly experienced a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gem",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...shake vigorously. Strain through Winged Twilight membrane and served in <mark>gem<\/mark> encrusted goblet. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gem",
+            "weight" : "1",
+            "pos" : 513,
+            "context" : "soul_<mark>gem<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gem",
+            "weight" : "1",
+            "pos" : 683,
+            "context" : "soul <mark>gem<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gem",
+            "weight" : "1",
+            "pos" : 643,
+            "context" : "...address the shrine, it is customary to leave a soul <mark>gem<\/mark> in remembrance of our ancestors who were bound to the Tribunal's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gems",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...Saint Roris the Martyr appeared before Baranat with flesh like sparkling <mark>gems<\/mark>, and smiled on him, \"Baranat, I will make you...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "pulp",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pulp",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...tasty. Legend has it that when mixed properly with the <mark>pulp<\/mark> of the Aloe plant, the potion has the ability to...",
+            "fid" : "content" } ] } ] }

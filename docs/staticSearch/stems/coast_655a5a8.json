@@ -1,0 +1,321 @@
+
+  { "stem" : "coast",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 22,
+        "contexts" : 
+        [ 
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...island's population is confined to the relatively hospitable west and southwest <mark>coast<\/mark>, centered on the ancient city of Vivec and the old...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...are called: the Ascadian Isles, the Ashlands, Azura's <mark>Coast<\/mark>, the Bitter Coast, the Grazelands, Molag Amur,...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...Ascadian Isles, the Ashlands, Azura's Coast, the Bitter <mark>Coast<\/mark>, the Grazelands, Molag Amur, Red Mountain, the...",
+            "fid" : "content" },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : ".... The urban areas of Vivec and Ebonheart of the southern <mark>coast<\/mark> are densely populated; the inland Ascadian Isles are dotted with...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 442,
+            "context" : " Azura's <mark>Coast<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 444,
+            "context" : " The rugged <mark>coast<\/mark> and islands of northern and eastern Vvardenfell are called Azura's Coast...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 451,
+            "context" : "...coast and islands of northern and eastern Vvardenfell are called Azura's <mark>Coast<\/mark>. The region is rocky, infertile, and largely uninhabited...",
+            "fid" : "content" },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 483,
+            "context" : "...fishing villages of Ald Redaynia and Dagon Fel on the north <mark>coast<\/mark>. There are no roads; most travel is by boat...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 549,
+            "context" : "...located on a rocky promontory at the southeasternmost tip of Azura's <mark>Coast<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 647,
+            "context" : "...First Era ruin in the southeastern islands and promontories of Azura's <mark>Coast<\/mark>. The site has a nasty reputation, and several Telvanni...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 685,
+            "context" : "...at the northeastern tip of the Vvardenfell mainland in the Azura's <mark>Coast<\/mark> region.",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 688,
+            "context" : " The Bitter <mark>Coast<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 690,
+            "context" : " The western <mark>coast<\/mark> of Vvardenfell from Seyda Neen north to Gnaar Mok is called...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 699,
+            "context" : "...from Seyda Neen north to Gnaar Mok is called the Bitter <mark>Coast<\/mark>. The salt marshes and humid swamps of this region are...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 719,
+            "context" : "...Hla Oad, and Seyda Neen. Also called the Smuggler's <mark>Coast<\/mark>, the region's secluded coves and islands provide refuge for criminal...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 783,
+            "context" : "...a tiny isolated fishing village on western Vvardenfell in the Bitter <mark>Coast<\/mark> region. A rough track along the River Odai connects Hla...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 802,
+            "context" : "...Gnaar Mok is a tiny island fishing village in the Bitter <mark>Coast<\/mark> region of western Vvardenfell.",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 827,
+            "context" : "...the northeast of Vvardenfell, sandwiched between the Ashlands and Azura's <mark>Coast<\/mark>. Permanent settlements include Vos village and the towers of Tel...",
+            "fid" : "content" },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 1069,
+            "context" : "...The region extends from the Sea of Ghosts on the northwest <mark>coast<\/mark> to the inland town of Balmora, where the region is...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 1076,
+            "context" : "...of Balmora, where the region is sandwiched between the Bitter <mark>Coast<\/mark> and the Ashlands. The trading village of Gnisis is north...",
+            "fid" : "content" },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 1090,
+            "context" : "...fishing villages of Ald Veloth and Khuul lie on the north <mark>coast<\/mark>. The town of Caldera lies near Balmora. The herds...",
+            "fid" : "content" },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 1205,
+            "context" : "...Ald Velothi and Khuul are tiny fishing villages on the northern <mark>coast<\/mark> of the West Gash.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...but it also grows wild in the Grazelands and on Azura's <mark>Coast<\/mark>. wickwheat is a wild Ashland grain that grows in the...",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : ".... saltrice occasionally grows wild in the Grazelands and on Azura's <mark>Coast<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "coasts",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...is taken from the mud crab, commonly found along all <mark>coasts<\/mark>. bread in Morrowind is usually baked from saltrice flour....",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...hardy primitive plant that grows in the Ascadian Isles and Azura's <mark>Coast<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...collected from the primitive draggle-tail plant of the Bitter <mark>Coast<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "..., mottled-brown-and-green toadstool mushroom of the Bitter <mark>Coast<\/mark> region. hackle-lo leaf is a succulent leaf of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 1059,
+            "context" : "Azura's <mark>Coast<\/mark>" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 1073,
+            "context" : "Azura's_<mark>Coast<\/mark>" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 1291,
+            "context" : "Bitter <mark>Coast<\/mark>" },
+          
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 1298,
+            "context" : "Bitter_<mark>Coast<\/mark>" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...and resources, building towers and bases all along the eastern <mark>coast<\/mark>. According to Telvanni principles, the powerful define the standards...",
+            "fid" : "content" },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 464,
+            "context" : "...comprising the lands south of the Inner Sea and the eastern <mark>coast<\/mark>. The city of Almalexia is located in Indoril District,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 1229,
+            "context" : "azura's <mark>coast<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 1456,
+            "context" : "bitter <mark>coast<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...surface world and set her down on the shoals of Azura's <mark>Coast<\/mark>. There she lay for seven or eight more months,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Coast",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...Council, Vvardenfell District, Tower of Tel Branora, Azura's <mark>Coast<\/mark>, District of Vvardenfell, Province of Morrowind Councilor Representatives of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...operate successfully in Black Marsh, and even they stay near <mark>coast<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "...wish a skeletal servant instead, place the corpse along a <mark>coast<\/mark> or in a swamp or marsh. Animals are the Necromancer's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "...Mok is a LONG and exceptionally unpleasant walk west to the <mark>coast<\/mark> and then south; there are no trails or marked routes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...was supposed to meet another, the Sanchariot, off the <mark>coast<\/mark> of Hla Oad. Who could have predicted the storm?...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coast",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...Dagon scooped up tiny Caecilly Island (a small island off the <mark>coast<\/mark> of Northmoor) and hurled in into the void. All...",
+            "fid" : "content" } ] } ] }

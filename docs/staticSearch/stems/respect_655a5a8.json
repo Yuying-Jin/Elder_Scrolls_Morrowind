@@ -1,0 +1,109 @@
+
+  { "stem" : "respect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Respect",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : "...the faithful must cultivate a noble personality and a strong will. <mark>Respect<\/mark> the magical arts, especially the colleges of Restoration, Mysticism...",
+            "fid" : "content" },
+          
+          { "form" : "respect",
+            "weight" : "1",
+            "pos" : 665,
+            "context" : " The Imperial cults have the greatest <mark>respect<\/mark> for the high moral principles of House Redoran and the Morag...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "respect",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "..., for fair dealing earns the love, trust, and <mark>respect<\/mark> of our people.",
+            "fid" : "content" },
+          
+          { "form" : "respectfully",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...shall speak neither hurtful nor harsh word, but shall speak <mark>respectfully<\/mark>, even of my enemies, for temperate words may turn...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "respect",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...Dagon's Daedric servants, that they now share a bond of <mark>respect<\/mark> and courtesy with the followers of the Tribunal, though we...",
+            "fid" : "content" },
+          
+          { "form" : "respect",
+            "weight" : "1",
+            "pos" : 465,
+            "context" : "...a potion of Cure Common Disease as a token of your <mark>respect<\/mark> for justice. Suitable potions may be purchased from Temple....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "respected",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...worse in some ways. Some Altmer born into the most <mark>respected<\/mark> noble and scholarly families are actually allowed to study the dead...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "respect",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...and reflected upon with due care and earnestness. Piety is <mark>respect<\/mark> for the gods, and the virtues they represent. A...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "respectful",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : " As ever, your <mark>respectful<\/mark> servant and loyal friend, Lord Voryn Dagoth, Dagoth Ur...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "respect",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...receive a blessing if he prays, if he proves his <mark>respect<\/mark> with a generous donation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "respected",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...Sedura Indoril Pavflek Mamoona, one of the wealthiest and most <mark>respected<\/mark> nobles in Gnisis, and Serjo Benitah Gorgoth. His heart...",
+            "fid" : "content" } ] } ] }

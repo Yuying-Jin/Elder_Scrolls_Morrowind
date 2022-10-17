@@ -1,0 +1,25 @@
+
+  { "stem" : "prison",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prison",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...Vivec's holy city. The Ministry of Truth, the Temple <mark>prison<\/mark>, hangs above the great temple of the High Fane,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prison",
+            "weight" : "1",
+            "pos" : 564,
+            "context" : ".... Beneath the tower is the Corprusarium, a refuge-<mark>prison<\/mark> where the deranged, distorted victims of the deadly corprus disease...",
+            "fid" : "content" } ] } ] }

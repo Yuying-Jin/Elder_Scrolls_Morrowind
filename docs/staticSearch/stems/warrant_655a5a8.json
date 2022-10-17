@@ -1,0 +1,25 @@
+
+  { "stem" : "warrant",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "warranted",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...curtail the flow through the Congeries, except when functions be <mark>warranted<\/mark>. And safeguard that the Congeries shall not be abused by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "warrant",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...the streets. Even in Tel Aruhn, that's likely to <mark>warrant<\/mark> suspicion.",
+            "fid" : "content" } ] } ] }

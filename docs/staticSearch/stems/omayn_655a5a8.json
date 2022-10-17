@@ -1,0 +1,25 @@
+
+  { "stem" : "omayn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Omayn",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...Aryon: Mouth Arara Uvulas For Master Neloth: Mouth Raven <mark>Omayn<\/mark> For Mistress Therana: Felisa Ulessen For Mistress Dratha: Mouth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Omayn",
+            "weight" : "1",
+            "pos" : 270,
+            "context" : "..., Galos Mathendis, Arara Uvulas, Mallam Ryon, Raven <mark>Omayn<\/mark>, and Dalyne Arvel, Telvanni Council clerk. Councilor Mage...",
+            "fid" : "content" } ] } ] }

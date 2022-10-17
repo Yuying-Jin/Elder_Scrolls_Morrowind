@@ -1,0 +1,31 @@
+
+  { "stem" : "combat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "combat",
+            "weight" : "1",
+            "pos" : 459,
+            "context" : "...east. The Arena is the site of public entertainments and <mark>combat<\/mark> sports. The comfortable domed Arena has seating for hundreds of...",
+            "fid" : "content" },
+          
+          { "form" : "combat",
+            "weight" : "1",
+            "pos" : 477,
+            "context" : "...rooms for entertainers and training rooms and animal pens for the <mark>combat<\/mark> competitors.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "combat",
+            "weight" : "1",
+            "pos" : 592,
+            "context" : "...tasks, but later, missions may demand higher levels of <mark>combat<\/mark> proficiency. Those interested should speak to Kaye at the Imperial...",
+            "fid" : "content" } ] } ] }

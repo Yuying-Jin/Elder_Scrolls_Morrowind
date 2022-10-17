@@ -1,0 +1,94 @@
+
+  { "stem" : "teach",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "\"You can <mark>teach<\/mark> me a spell that will fortify my own strength,\" said...",
+            "fid" : "content" },
+          
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 263,
+            "context" : "...my own strength,\" said Oin. \"I beg you to <mark>teach<\/mark> it to me now.\"",
+            "fid" : "content" },
+          
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "\"You can <mark>teach<\/mark> me a spell that will fortify my own endurance,\" said...",
+            "fid" : "content" },
+          
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : "...my own endurance,\" said Oin. \"I beg you to <mark>teach<\/mark> it to me now.\"",
+            "fid" : "content" },
+          
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 535,
+            "context" : "\"You can <mark>teach<\/mark> me a spell that will fortify my own agility,\" said...",
+            "fid" : "content" },
+          
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 542,
+            "context" : "...my own agility,\" said Oin. \"I beg you to <mark>teach<\/mark> it to me now.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...of pride. “But in my youth, I used to <mark>teach<\/mark> the skills of Illusion at the University of Gwylim.”",
+            "fid" : "content" },
+          
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...help me then,” said Silverthorn, suddenly excited. “Can you <mark>teach<\/mark> the spell Silence? I can certainly pay you.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teachings",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...of Mephala and the prophecies of Veloth and even the forbidden <mark>teachings<\/mark> of Trinimac.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teachings",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "Saryoni's Sermons Learn from the <mark>teachings<\/mark> of Vivec, and from the Archcanon's sermons on the Seven...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teach",
+            "weight" : "1",
+            "pos" : 579,
+            "context" : "Now I <mark>teach<\/mark> them the greatest lesson of all, thought Lledos as he sloshed...",
+            "fid" : "content" } ] } ] }

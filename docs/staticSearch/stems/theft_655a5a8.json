@@ -1,0 +1,47 @@
+
+  { "stem" : "theft",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "theft",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...is forbidden to steal from another member, whether by open <mark>theft<\/mark> or by covert pickpocketing. It is forbidden to trespass upon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Theft",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...carefully balanced against the more tangible coins in any deal. <mark>Theft<\/mark> and murder are bad for business. You can steal from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thefts",
+            "weight" : "1",
+            "pos" : 749,
+            "context" : "...servants talked. If they began to connect his absences with <mark>thefts<\/mark> in other towns, it was only a matter of time...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "theft",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...council is pleased to report a reduction in the incidence of <mark>theft<\/mark> and violent crime in the Hlaalu House Districts, thanks to...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,43 @@
+
+  { "stem" : "aralor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Aralor",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "St. <mark>Aralor<\/mark> grants Aralor's Intervention, for fortifying character.",
+            "fid" : "content" },
+          
+          { "form" : "Aralor's",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "St. Aralor grants <mark>Aralor's<\/mark> Intervention, for fortifying character.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aralor",
+            "weight" : "1",
+            "pos" : 7285,
+            "context" : "St.<mark>Aralor<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aralor",
+            "weight" : "1",
+            "pos" : 7398,
+            "context" : "st.<mark>aralor<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

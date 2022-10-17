@@ -1,0 +1,14 @@
+
+  { "stem" : "robe",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "robes",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "Saint Veloth the Pilgrim appeared before Baranat in shining <mark>robes<\/mark>, and smiled upon him, \"Baranat, put down your blade...",
+            "fid" : "content" } ] } ] }

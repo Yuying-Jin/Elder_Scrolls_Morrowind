@@ -1,0 +1,14 @@
+
+  { "stem" : "enforc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enforcement",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...Redoran House Districts. The councilors blame local corruption, weakened <mark>enforcement<\/mark>, and aggressive competition between the Thieves Guild and the Camonna...",
+            "fid" : "content" } ] } ] }

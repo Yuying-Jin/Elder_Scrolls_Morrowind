@@ -1,0 +1,96 @@
+
+  { "stem" : "ballad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook" },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 1438,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 1611,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 2513,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 5681,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 5865,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 7204,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 1273,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 1440,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 2347,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 5438,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 5617,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
+          
+          { "form" : "Balladeer's",
+            "weight" : "1",
+            "pos" : 6217,
+            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" } ] } ] }

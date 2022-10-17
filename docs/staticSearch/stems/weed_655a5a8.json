@@ -1,0 +1,20 @@
+
+  { "stem" : "weed",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "weeds",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...that's not all. I haven't found anything edible anywhere. Just <mark>weeds<\/mark> and a few scraggly trees.\"",
+            "fid" : "content" },
+          
+          { "form" : "weeds",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...was able to construct a crude shelter, weaving the sand <mark>weeds<\/mark>. As night fell on the small island, the two...",
+            "fid" : "content" } ] } ] }

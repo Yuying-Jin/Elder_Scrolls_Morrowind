@@ -1,0 +1,53 @@
+
+  { "stem" : "warm",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "warming",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...common thief,\" said Lledos, pouring himself more greef, <mark>warming<\/mark> to his subject. \"Sticks his dagger in his opponent's back...",
+            "fid" : "content" },
+          
+          { "form" : "warm",
+            "weight" : "1",
+            "pos" : 784,
+            "context" : "...his household returned. His own bed was wonderfully soft and <mark>warm<\/mark> compared to the dreadful mattress he had to use at the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "warm",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...power what is yours by right, to drag forth the <mark>warm<\/mark> spirits from their world between and bind them to their service...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "warm",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...the buyer and seller to greet one another with smiles and <mark>warm<\/mark> salutations, like gladiators honoring one another before the battle....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "warm",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "...wish to join the Imperial cult in Vvardenfell will find a <mark>warm<\/mark> welcome from our cult greeters: Ygfa at Fort Pelagiad,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "invad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "invade",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...the Dunmer dead. Those foreign sorcerers of other races that <mark>invade<\/mark> our shores, shall they be permitted to rob our tombs...",
+            "fid" : "content" } ] } ] }

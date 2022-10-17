@@ -1,0 +1,37 @@
+
+  { "stem" : "ginko",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ginko",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "<mark>ginko<\/mark> leaves" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ginko",
+            "weight" : "1",
+            "pos" : 414,
+            "context" : "<mark>ginko<\/mark> leaves",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ginko",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "The <mark>Ginko<\/mark> leaves which are found along the banks of rivers and lakes...",
+            "fid" : "content" } ] } ] }

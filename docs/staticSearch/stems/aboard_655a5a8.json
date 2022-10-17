@@ -1,0 +1,14 @@
+
+  { "stem" : "aboard",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aboard",
+            "weight" : "1",
+            "pos" : 342,
+            "context" : "...have met on the night of the storm. The smugglers <mark>aboard<\/mark> would pay them good money for the moon sugar. Luckily...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "outpost",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "outpost",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...rocky, infertile, and largely uninhabited, except for the <mark>outpost<\/mark> at Molag Mar, the Telvanni settlements at Sadrith Mora,...",
+            "fid" : "content" },
+          
+          { "form" : "outpost",
+            "weight" : "1",
+            "pos" : 917,
+            "context" : " The <mark>outpost<\/mark> at Molag Mar is a fortified stronghold on the southeastern edge...",
+            "fid" : "content" },
+          
+          { "form" : "outpost's",
+            "weight" : "1",
+            "pos" : 939,
+            "context" : "...sites at Mount Assarnibibi and Mount Kand take refuge at the <mark>outpost's<\/mark> hostels, comforted by the garrison of Redoran and Buoyant Armiger...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Outpost",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "...Imperial Chapels, Governor's Hall in Caldera, and Ald Velothi <mark>Outpost<\/mark>.",
+            "fid" : "content" } ] } ] }

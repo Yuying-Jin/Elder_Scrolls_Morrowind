@@ -1,0 +1,20 @@
+
+  { "stem" : "triolith",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "triolith",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...site the pilgrim must stand before the three-sided stone <mark>triolith<\/mark> and read the inscription. To ease the pilgrim's task,...",
+            "fid" : "content" },
+          
+          { "form" : "triolith",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "...accepts the sword, pilgrims must read the inscription on the <mark>triolith<\/mark>.",
+            "fid" : "content" } ] } ] }

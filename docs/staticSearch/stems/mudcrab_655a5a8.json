@@ -1,0 +1,78 @@
+
+  { "stem" : "mudcrab",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mudcrabs",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "The Guar and the <mark>Mudcrabs<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Mudcrabs",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...just as they got near the shoreline, a colony of <mark>Mudcrabs<\/mark>, frightened in their turn by the approach of the Guar...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mudcrabs",
+            "weight" : "1",
+            "pos" : 6918,
+            "context" : "<mark>Mudcrabs<\/mark>" },
+          
+          { "form" : "mudcrab",
+            "weight" : "1",
+            "pos" : 7642,
+            "context" : "<mark>mudcrab<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mudcrab",
+            "weight" : "1",
+            "pos" : 7043,
+            "context" : "<mark>mudcrab<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "mudcrabs",
+            "weight" : "1",
+            "pos" : 7050,
+            "context" : "<mark>mudcrabs<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mudcrabs",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...comes to stripping the flesh from a corpse. The ravenous <mark>mudcrabs<\/mark> of Morrowind can strip a corpse down to its bones in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mudcrab",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "the meat of one <mark>mudcrab<\/mark> (two portions)",
+            "fid" : "mudcrab" } ] } ] }

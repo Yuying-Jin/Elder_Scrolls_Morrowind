@@ -1,0 +1,25 @@
+
+  { "stem" : "burst",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "burst",
+            "weight" : "1",
+            "pos" : 744,
+            "context" : "Oin <mark>burst<\/mark> into the room and was reunited with Benitah. They were...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "burst",
+            "weight" : "1",
+            "pos" : 377,
+            "context" : "Saint Olms the Just appeared before Baranat in a <mark>burst<\/mark> of flame, and smiled on him, \"Baranat, I will...",
+            "fid" : "content" } ] } ] }

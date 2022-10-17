@@ -1,0 +1,25 @@
+
+  { "stem" : "physic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "physical",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...of his glass, making him picture the sound as the <mark>physical<\/mark> entity it was, before it was extinguished.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "physical",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...you see, has been kidnapped by the Coribael brothers whose <mark>physical<\/mark> prowess is the stuff of legend.\"",
+            "fid" : "content" } ] } ] }

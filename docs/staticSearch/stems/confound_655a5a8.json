@@ -1,0 +1,14 @@
+
+  { "stem" : "confound",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confound",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...and make secure this ordering through arcane codes and keys to <mark>confound<\/mark> even the most clever students.",
+            "fid" : "content" } ] } ] }

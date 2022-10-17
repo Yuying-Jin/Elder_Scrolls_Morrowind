@@ -1,0 +1,37 @@
+
+  { "stem" : "crossbow",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crossbow",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "..., so you want the marksman's weapons -- the bow, <mark>crossbow<\/mark>, throwing star, and dart. You want light armor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crossbow",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "<mark>crossbow<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crossbow",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "<mark>crossbow<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

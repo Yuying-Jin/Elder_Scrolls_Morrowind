@@ -1,0 +1,53 @@
+
+  { "stem" : "reach",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "reached",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...dead by Baranat's hands. The adventurer continued on until he <mark>reached<\/mark> the second youngest Coribael brother, Feryn, who not only...",
+            "fid" : "content" },
+          
+          { "form" : "reached",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "...of the river and continued down the valley, until he <mark>reached<\/mark> the camp. Airen Coribael himself was there, guarding a squirming...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reached",
+            "weight" : "1",
+            "pos" : 1239,
+            "context" : "...at Ald Redaynia and Dagon Fel. Only Dagon Fel is <mark>reached<\/mark> by ship services; all other island-to-island transport must...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reaching",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "[Upon <mark>reaching<\/mark> the last page of the book, the words 'Boat Ack'...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reached",
+            "weight" : "1",
+            "pos" : 717,
+            "context" : "The sun was fully risen when Sathis <mark>reached<\/mark> the stables of his house on the outskirts of Vivec....",
+            "fid" : "content" } ] } ] }

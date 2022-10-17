@@ -1,0 +1,14 @@
+
+  { "stem" : "reduct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reduction",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "The council is pleased to report a <mark>reduction<\/mark> in the incidence of theft and violent crime in the Hlaalu...",
+            "fid" : "content" } ] } ] }

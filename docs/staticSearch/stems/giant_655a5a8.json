@@ -1,0 +1,111 @@
+
+  { "stem" : "giant",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...undecorated exteriors inspired by the landscape and by the shells of <mark>giant<\/mark> native insects. Redoran villages are typically centered on Temple compounds...",
+            "fid" : "content" },
+          
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 418,
+            "context" : "...stems, caps, and root-like holdfasts of the <mark>giant<\/mark> native mushrooms. Telvanni villages are comprised of smaller mushroom pods...",
+            "fid" : "content" },
+          
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 436,
+            "context" : "...craftsmen and commoners. Open-air markets often include the <mark>giant<\/mark> cages displaying the wares of the slave masters.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...undecorated exteriors inspired by the landscape and by the shells of <mark>giant<\/mark> native insects. Most guildhalls, cornerclubs, and merchants are...",
+            "fid" : "content" },
+          
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...and council district sheltered beneath the shell of an ancient extinct <mark>giant<\/mark> crab. The large carapace encloses a central dome, from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...sic] Island, a great land mass dominated by the <mark>giant<\/mark> volcano Red Mountain and cut off from mainland Morrowind by the...",
+            "fid" : "content" },
+          
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 1173,
+            "context" : "...Council Chamber are located inside the shell of an ancient extinct <mark>giant<\/mark> crab. Tracks lead north to Maar Gan and Gnisis villages...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : ".... Baranat hid himself and trembled as he looked at the <mark>giant<\/mark> Feryn Coribael. Again, the young adventurer prayed to the saints...",
+            "fid" : "giant" },
+          
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "Baranat rushed at Feryn, knocking the <mark>giant<\/mark> through a boulder which turned to dust on impact. Feryn...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...is the Telvanni Council Hall, a large orb supported by <mark>giant<\/mark> mushroom stalks. To the east of the Great Market is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 6053,
+            "context" : "<mark>giant<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "giant",
+            "weight" : "1",
+            "pos" : 5562,
+            "context" : "<mark>giant<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

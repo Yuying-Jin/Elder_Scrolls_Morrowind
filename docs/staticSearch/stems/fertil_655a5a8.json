@@ -1,0 +1,14 @@
+
+  { "stem" : "fertil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fertile",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...Suran is an agricultural village in the northeastern corner of the <mark>fertile<\/mark> Ascadian Isles region. Two popular pilgrimage sites are nearby --...",
+            "fid" : "content" } ] } ] }

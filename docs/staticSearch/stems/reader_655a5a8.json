@@ -1,0 +1,14 @@
+
+  { "stem" : "reader",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reader",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "Then, <mark>reader<\/mark>, would you seize this opportunity to join House Hlaalu?...",
+            "fid" : "content" } ] } ] }

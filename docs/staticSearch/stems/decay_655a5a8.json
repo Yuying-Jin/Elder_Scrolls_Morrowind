@@ -1,0 +1,61 @@
+
+  { "stem" : "decay",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "decayed",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "Fresh and <mark>decayed<\/mark> corpses are those that still have flesh upon them. If their...",
+            "fid" : "content" },
+          
+          { "form" : "decay",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "...corpses are those that still have flesh upon them. If their <mark>decay<\/mark> is advanced, or if you wish a skeletal servant instead...",
+            "fid" : "content" },
+          
+          { "form" : "decayed",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...young Necromancer might want to know. For instance, a <mark>decayed<\/mark> servant may be raised many times, even if they have...",
+            "fid" : "content" },
+          
+          { "form" : "decayed",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...leather straps, and sewing the flesh (if it not too <mark>decayed<\/mark>) with catgut. Your servant may be weaker each time...",
+            "fid" : "content" },
+          
+          { "form" : "decaying",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...first step to creating a mummified servant is to soak the <mark>decaying<\/mark> corpse in a bath of salt or natron for at least...",
+            "fid" : "content" },
+          
+          { "form" : "decay",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...natron for at least one month. This will halt the <mark>decay<\/mark> of the corpse, and if the corpse is fresh enough...",
+            "fid" : "content" },
+          
+          { "form" : "decay",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...cloth or linen. This will further preserve the body against <mark>decay<\/mark> and, if done properly, will offer some protection as well...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "decay",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...corpses in Black Marsh is nearly impossible due to their rapid <mark>decay<\/mark>. There are also diseases, Argonian tribesmen, and other...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "eastern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "eastern",
+            "weight" : "1",
+            "pos" : 383,
+            "context" : "...land and resources, building towers and bases all along the <mark>eastern<\/mark> coast. According to Telvanni principles, the powerful define the...",
+            "fid" : "content" },
+          
+          { "form" : "eastern",
+            "weight" : "1",
+            "pos" : 463,
+            "context" : "..., comprising the lands south of the Inner Sea and the <mark>eastern<\/mark> coast. The city of Almalexia is located in Indoril District...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eastern",
+            "weight" : "1",
+            "pos" : 447,
+            "context" : " The rugged coast and islands of northern and <mark>eastern<\/mark> Vvardenfell are called Azura's Coast. The region is rocky,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,54 @@
+
+  { "stem" : "hearth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "hearth",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...of it, but between worlds they linger, held to the <mark>hearth<\/mark> and tomb by blood and loyalty. And if they come...",
+            "fid" : "content" },
+          
+          { "form" : "Hearth",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...never sleep, the summoning to service of those bound through <mark>Hearth<\/mark> and House to the protection of the clan.",
+            "fid" : "content" },
+          
+          { "form" : "Hearth",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...? Cruel enough is the ancestor's service given in love to <mark>Hearth<\/mark> and Kin. But ghost or guardian, bonewalker or bonelord...",
+            "fid" : "content" },
+          
+          { "form" : "hearth",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "Only a righteous Dunmer, bound by blood to <mark>hearth<\/mark> and kin, bound by oath and service to the Temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hearth",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...with profitless treasures, but shall share freely among house and <mark>hearth<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hearths",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "The blood of broken <mark>hearths<\/mark> and houses",
+            "fid" : "content" } ] } ] }

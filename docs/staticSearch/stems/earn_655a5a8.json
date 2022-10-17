@@ -1,0 +1,14 @@
+
+  { "stem" : "earn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "earns",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...I shall be neither cruel nor arbitrary, for fair dealing <mark>earns<\/mark> the love, trust, and respect of our people....",
+            "fid" : "content" } ] } ] }

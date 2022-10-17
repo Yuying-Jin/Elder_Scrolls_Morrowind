@@ -1,0 +1,31 @@
+
+  { "stem" : "behold",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "behold",
+            "weight" : "1",
+            "pos" : 593,
+            "context" : "\"Ah, <mark>behold<\/mark> the power of the amazing Funcrazot Priif,\" said the afore...",
+            "fid" : "content" },
+          
+          { "form" : "behold",
+            "weight" : "1",
+            "pos" : 622,
+            "context" : "\"Very impressive, Ser Priif. Now, <mark>behold<\/mark> the power of the remarkable Gazouf Mough,\" said Oin,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "behold",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...Demiprince joined together into a pillar of fighting styles terrible to <mark>behold<\/mark> and they danced before the egg and its learning image....",
+            "fid" : "content" } ] } ] }

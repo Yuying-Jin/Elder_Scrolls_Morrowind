@@ -1,0 +1,20 @@
+
+  { "stem" : "prompt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "prompted",
+            "weight" : "1",
+            "pos" : 602,
+            "context" : "...amazing Funcrazot Priif,\" said the afore-mentioned, and <mark>prompted<\/mark> his sparring partner to attack him with his sword. He...",
+            "fid" : "content" },
+          
+          { "form" : "prompted",
+            "weight" : "1",
+            "pos" : 629,
+            "context" : "...power of the remarkable Gazouf Mough,\" said Oin, and <mark>prompted<\/mark> Priif's sparring partner to attack him with his sword. After...",
+            "fid" : "content" } ] } ] }

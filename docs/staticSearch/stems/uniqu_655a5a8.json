@@ -1,0 +1,25 @@
+
+  { "stem" : "uniqu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unique",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "The newly formed Orsinium presents a <mark>unique<\/mark> opportunity. As you know, Orc corpses are among the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unique",
+            "weight" : "1",
+            "pos" : 466,
+            "context" : "Imalyn opened the vault in his <mark>unique<\/mark> and systematic method. As the tumblers fell beneath his fingers...",
+            "fid" : "content" } ] } ] }

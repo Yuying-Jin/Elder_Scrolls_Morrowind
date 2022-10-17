@@ -1,0 +1,14 @@
+
+  { "stem" : "feeding-ground",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feeding-ground",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...wounded Netch lay himself down in a quiet corner of its <mark>feeding-ground<\/mark>. His healthy companions came in great numbers to inquire after...",
+            "fid" : "content" } ] } ] }

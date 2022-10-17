@@ -1,0 +1,31 @@
+
+  { "stem" : "roll",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Roll",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "<mark>Roll<\/mark>, Bretonnia, Roll",
+            "fid" : "content" },
+          
+          { "form" : "Roll",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "Roll, Bretonnia, <mark>Roll<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rolling",
+            "weight" : "1",
+            "pos" : 483,
+            "context" : "...in the water. Still, it's only a matter of <mark>rolling<\/mark> and twisting the body like so. I'll demonstrate it if you...",
+            "fid" : "content" } ] } ] }

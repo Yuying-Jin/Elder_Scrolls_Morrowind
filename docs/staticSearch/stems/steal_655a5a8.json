@@ -1,0 +1,75 @@
+
+  { "stem" : "steal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "steal",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : ".... Abide not the sorcerer among you, for he comes to <mark>steal<\/mark> the bones of your fathers and dust of your tombs....",
+            "fid" : "content" },
+          
+          { "form" : "steal",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...to bind our kin-spirits into sorcerous slavery, to <mark>steal<\/mark> the lives of our dead as well as our land of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steal",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...shopkeepers follow you around the shop, assuming you're going to <mark>steal<\/mark> something. Similarly, Nords, Bretons, and Cyrodiils are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steals",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : " Any member of the Guild of Fighters who strikes or <mark>steals<\/mark> from another member shall be expelled from the Guild. Re...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steal",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "..., forbidden to kill another member. It is forbidden to <mark>steal<\/mark> from another member, whether by open theft or by covert...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steal",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : ".... Theft and murder are bad for business. You can <mark>steal<\/mark> from someone, but will he trade with you after that?...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steal",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...your generosity, Lord Vivec. I shall neither hoard nor <mark>steal<\/mark>, nor encumber myself with profitless treasures, but shall share...",
+            "fid" : "content" } ] } ] }

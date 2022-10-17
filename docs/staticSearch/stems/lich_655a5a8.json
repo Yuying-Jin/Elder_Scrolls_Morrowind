@@ -1,0 +1,14 @@
+
+  { "stem" : "lich",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Liches",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...missionaries to the unbound dead, to the Vampires and the <mark>Liches<\/mark>. Let all the nations of dead carry my banner and...",
+            "fid" : "content" } ] } ] }

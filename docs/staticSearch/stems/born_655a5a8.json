@@ -1,0 +1,36 @@
+
+  { "stem" : "born",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "born",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "He was <mark>born<\/mark> in the ash among the Velothi, anon Chimer, before...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "born",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...Summerset Isle is even worse in some ways. Some Altmer <mark>born<\/mark> into the most respected noble and scholarly families are actually allowed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "born",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "\"My lady,\" said Baranat. \"When I was <mark>born<\/mark>, I was blessed by Vivec, Almalexia, and Sotha...",
+            "fid" : "content" } ] } ] }

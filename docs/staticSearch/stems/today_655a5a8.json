@@ -1,0 +1,14 @@
+
+  { "stem" : "today",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "today",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "\"The problem with thieves <mark>today<\/mark>,\" said Lledos, \"Is the lack of technique. I...",
+            "fid" : "content" } ] } ] }

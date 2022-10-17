@@ -1,0 +1,32 @@
+
+  { "stem" : "rent",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "rent",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "...faithful. Various independent tradesmen, craftsmen, and trainers also <mark>rent<\/mark> space here. The Black Shalk Cornerclub rents beds to non-...",
+            "fid" : "content" },
+          
+          { "form" : "rents",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "..., and trainers also rent space here. The Black Shalk Cornerclub <mark>rents<\/mark> beds to non-guild visitors.",
+            "fid" : "content" },
+          
+          { "form" : "rent",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "...lord Mavon Drenim is the ranking Telvanni noble. The Telvanni <mark>rent<\/mark> the compound from the Temple, and have to make do...",
+            "fid" : "content" },
+          
+          { "form" : "rents",
+            "weight" : "1",
+            "pos" : 498,
+            "context" : "...cantons for commoners and paupers. The Temple charges very reasonable <mark>rents<\/mark> for comfortable workshops, shops, and apartments, and most...",
+            "fid" : "content" } ] } ] }

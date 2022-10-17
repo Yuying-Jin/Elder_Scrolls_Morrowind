@@ -1,0 +1,14 @@
+
+  { "stem" : "lifetim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lifetimes",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "How many <mark>lifetimes<\/mark> of labor and lament",
+            "fid" : "content" } ] } ] }

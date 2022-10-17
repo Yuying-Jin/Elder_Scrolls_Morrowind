@@ -1,0 +1,14 @@
+
+  { "stem" : "grove",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grove",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "The Golden <mark>Grove<\/mark>",
+            "fid" : "content" } ] } ] }

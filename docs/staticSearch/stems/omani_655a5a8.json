@@ -1,0 +1,62 @@
+
+  { "stem" : "omani",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Omani",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "<mark>Omani<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Omani",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "Mistress Velanda <mark>Omani<\/mark>, by Grace of Almsivi, Honored Councilor of Hlaalu Council...",
+            "fid" : "VelandaOmani" },
+          
+          { "form" : "Omani",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...Hlaalu Council, Vvardenfell District, Free Trader, Lord of <mark>Omani<\/mark> Plantation, Elmas Island, East Vivec, District of Vvardenfell...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Omani",
+            "weight" : "1",
+            "pos" : 2889,
+            "context" : "<mark>Omani<\/mark> Manor" },
+          
+          { "form" : "Omani",
+            "weight" : "1",
+            "pos" : 7007,
+            "context" : "Velanda <mark>Omani<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "omani",
+            "weight" : "1",
+            "pos" : 3062,
+            "context" : "<mark>omani<\/mark> manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "omani",
+            "weight" : "1",
+            "pos" : 7139,
+            "context" : "velanda <mark>omani<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

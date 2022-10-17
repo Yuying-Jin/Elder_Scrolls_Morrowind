@@ -1,0 +1,25 @@
+
+  { "stem" : "denial",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "denial",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "5. <mark>denial<\/mark> of the prophecies of the Incarnate, and persecution of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "denial",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "5. <mark>denial<\/mark> of the prophecies of the Incarnate, and persecution of the...",
+            "fid" : "content" } ] } ] }

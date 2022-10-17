@@ -1,0 +1,47 @@
+
+  { "stem" : "finger",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fingers",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...coral. They gifted the netchiman's wife with gills and milk <mark>fingers<\/mark>, changing her sex so that she might give birth to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "finger",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...Tulkiande will astound you as she supports her body with one <mark>finger<\/mark> while rotating hoops in ornate patterns with her legs. Master...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fingers",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...could rip a trama shrub up by the roots with two <mark>fingers<\/mark>. Baranat hid himself and trembled as he looked at the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fingers",
+            "weight" : "1",
+            "pos" : 472,
+            "context" : "...unique and systematic method. As the tumblers fell beneath his <mark>fingers<\/mark>, he softly sang an old dirty tavern song about the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "conquer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "conquers",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "Faith <mark>conquers<\/mark> all. Let us yield to Faith.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "conquers",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "Faith <mark>conquers<\/mark> all. Let us yield to Faith.",
+            "fid" : "content" } ] } ] }

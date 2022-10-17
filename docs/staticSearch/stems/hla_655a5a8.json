@@ -1,0 +1,77 @@
+
+  { "stem" : "hla",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Hla",
+            "weight" : "1",
+            "pos" : 712,
+            "context" : "...only settlements found at the good harbors of Gnaar Mok, <mark>Hla<\/mark> Oad, and Seyda Neen. Also called the Smuggler's Coast...",
+            "fid" : "content" },
+          
+          { "form" : "Hla",
+            "weight" : "1",
+            "pos" : 774,
+            "context" : " <mark>Hla<\/mark> Oad is a tiny isolated fishing village on western Vvardenfell in...",
+            "fid" : "content" },
+          
+          { "form" : "Hla",
+            "weight" : "1",
+            "pos" : 791,
+            "context" : "...Coast region. A rough track along the River Odai connects <mark>Hla<\/mark> Oad with the town of Balmora.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Hla",
+            "weight" : "1",
+            "pos" : 612,
+            "context" : "...from the docks at the Foreign Quarter travel to Ebonheart, <mark>Hla<\/mark> Oad, Molag Mar, and Tel Branora. Ships from...",
+            "fid" : "content" },
+          
+          { "form" : "Hla",
+            "weight" : "1",
+            "pos" : 622,
+            "context" : "..., and Tel Branora. Ships from nearby Ebonheart sail to <mark>Hla<\/mark> Oad, Sadrith Mora, Tel Branora, and the Foreign...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hla",
+            "weight" : "1",
+            "pos" : 2205,
+            "context" : "<mark>Hla<\/mark> Oad" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hla",
+            "weight" : "1",
+            "pos" : 2373,
+            "context" : "<mark>hla<\/mark> oad",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hla",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...to meet another, the Sanchariot, off the coast of <mark>Hla<\/mark> Oad. Who could have predicted the storm? Who could...",
+            "fid" : "content" } ] } ] }

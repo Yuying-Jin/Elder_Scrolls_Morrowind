@@ -1,0 +1,36 @@
+
+  { "stem" : "monstrous",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "monstrous",
+            "weight" : "1",
+            "pos" : 1030,
+            "context" : "...garrisons. Ghostgate sits astride the only gap through which the <mark>monstrous<\/mark> hosts of Dagoth Ur might emerge from Red Mountain to threaten...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "monstrous",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "Fate, <mark>monstrous<\/mark> and empty, the whirling wheel of evil.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "monstrous",
+            "weight" : "1",
+            "pos" : 324,
+            "context" : "...deliberate attempt to contract the disease, and a mark of <mark>monstrous<\/mark> depravity....",
+            "fid" : "content" } ] } ] }

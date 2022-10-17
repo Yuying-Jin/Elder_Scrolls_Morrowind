@@ -1,0 +1,98 @@
+
+  { "stem" : "experi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "experiment",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "...Art. Thus, the acquisition of corpses on which to <mark>experiment<\/mark> is often difficult.",
+            "fid" : "content" },
+          
+          { "form" : "experiments",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...the Arts of Necromancy can be practiced on animals, such <mark>experiments<\/mark> rarely produce interesting results. The servant's ability to follow directions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "experience",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...about you and your troops. You probably haven't had the <mark>experience<\/mark> of being tortured for information you don't have, have you? I...",
+            "fid" : "content" },
+          
+          { "form" : "experience",
+            "weight" : "1",
+            "pos" : 314,
+            "context" : "...S'Rabba had apparently died under torture. You have probably had <mark>experience<\/mark> torturing the slave races and know how easily they break.\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "experiences",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...a foolish mortal into an enlightened divine. Vivec sought out <mark>experiences<\/mark> that tested him in every way possible, particularly in the...",
+            "fid" : "content" },
+          
+          { "form" : "experiments",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...the Seven Graces. The Cantatas relate many stories of Vivec's <mark>experiments<\/mark> with challenge and risk, his failures and triumphs, his...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "experience",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...making it useless. Again, only practice can give the necessary <mark>experience<\/mark> in these matters, though it is best to err towards...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "experience",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...mysticism, revelation, or prophecy as part of the religious <mark>experience<\/mark>. The Dissidents have not resolved the issue of true or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "experience",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...mysticism, revelation, or prophecy as part of the religious <mark>experience<\/mark>. The Dissidents have not resolved the issue of true or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "experience",
+            "weight" : "1",
+            "pos" : 742,
+            "context" : "...people, and he treated them well, but from past <mark>experience<\/mark> he knew that servants talked. If they began to connect...",
+            "fid" : "content" } ] } ] }

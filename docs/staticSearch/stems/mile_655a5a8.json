@@ -1,0 +1,31 @@
+
+  { "stem" : "mile",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "miles",
+            "weight" : "1",
+            "pos" : 644,
+            "context" : "...therefore be looking for a Dunmer named Sathis celebrating his wealth <mark>miles<\/mark> and miles away in Vivec.",
+            "fid" : "content" },
+          
+          { "form" : "miles",
+            "weight" : "1",
+            "pos" : 645,
+            "context" : "...looking for a Dunmer named Sathis celebrating his wealth miles and <mark>miles<\/mark> away in Vivec.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "miles",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "Baranat rode many <mark>miles<\/mark> through the northern swamps before he came to the first of...",
+            "fid" : "content" } ] } ] }

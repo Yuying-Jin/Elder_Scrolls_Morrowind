@@ -1,0 +1,59 @@
+
+  { "stem" : "achiev",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "achieved",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Temple doctrine claims their apotheosis was miraculously <mark>achieved<\/mark> through questing, virtue, knowledge, testing, and battling...",
+            "fid" : "content" },
+          
+          { "form" : "achieve",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...Apographa suggest that the Tribunal relied on profanely enchanted tools to <mark>achieve<\/mark> godhead, and that those unholy devices were the ones originally...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "achieved",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Temple doctrine claims their apotheosis was miraculously <mark>achieved<\/mark> through questing, virtue, knowledge, testing, and battling...",
+            "fid" : "content" },
+          
+          { "form" : "achieve",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...Apographa suggest that the Tribunal relied on profanely enchanted tools to <mark>achieve<\/mark> godhead, and that those unholy devices were the ones originally...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "achieved",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...each one gave to the egg new motions that could be <mark>achieved<\/mark> by certain movements of the bones. These are called the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "achieved",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...Dunmer's greatest enemies, the Nords and the Dwarves, and <mark>achieved<\/mark> divine substance through superhuman discipline and virtue and supernatural wisdom and...",
+            "fid" : "content" } ] } ] }

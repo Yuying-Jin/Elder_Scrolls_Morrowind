@@ -1,0 +1,55 @@
+
+  { "stem" : "ruddi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Ruddy",
+            "weight" : "1",
+            "pos" : 485,
+            "context" : "Within the Koal Cave, Vivec fought a battle with <mark>Ruddy<\/mark> Man, the father of the Dreugh. When he defeated...",
+            "fid" : "content" },
+          
+          { "form" : "Ruddy",
+            "weight" : "1",
+            "pos" : 490,
+            "context" : "...Man, the father of the Dreugh. When he defeated <mark>Ruddy<\/mark> Man, Vivec spared his life, on the condition that...",
+            "fid" : "content" },
+          
+          { "form" : "Ruddy",
+            "weight" : "1",
+            "pos" : 496,
+            "context" : "...Man, Vivec spared his life, on the condition that <mark>Ruddy<\/mark> Man and his children would give up their tough hides to...",
+            "fid" : "content" },
+          
+          { "form" : "Ruddy",
+            "weight" : "1",
+            "pos" : 569,
+            "context" : "...of dreugh wax as a token of Vivec's victorious struggle with <mark>Ruddy<\/mark> Man.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ruddy",
+            "weight" : "1",
+            "pos" : 7103,
+            "context" : "<mark>Ruddy<\/mark>_Man" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruddy",
+            "weight" : "1",
+            "pos" : 6969,
+            "context" : "<mark>ruddy<\/mark> man",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

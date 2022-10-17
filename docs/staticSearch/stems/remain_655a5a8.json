@@ -1,0 +1,99 @@
+
+  { "stem" : "remain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...known as 'bonewalkers' in Morrowind. Magic preserves the bonewalker's fleshy <mark>remains<\/mark> along with the bones and spirit. Bonewalkers are readily identified...",
+            "fid" : "content" },
+          
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...or skeletons. The agility and fighting ability of the animated <mark>remains<\/mark> may depend on the abilities of the revenant's former life,...",
+            "fid" : "content" },
+          
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...from its spirit energies than from the substance of its skeletal <mark>remains<\/mark>. Bonelords are very powerful, and very dangerous. Normal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...known as 'bonewalkers' in Morrowind. Magic preserves the bonewalker's fleshy <mark>remains<\/mark> along with the bones and spirit. Bonewalkers are readily identified...",
+            "fid" : "content" },
+          
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...or skeletons. The agility and fighting ability of the animated <mark>remains<\/mark> may depend on the abilities of the revenant's former life,...",
+            "fid" : "content" },
+          
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...from its spirit energies than from the substance of its skeletal <mark>remains<\/mark>. Bonelords are very powerful, and very dangerous. Normal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...green lichen. gravedust is spirit-affinitive dust taken from <mark>remains<\/mark> buried in consecrated ground. green lichen is a hardy primitive...",
+            "fid" : "content" },
+          
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "...frost in solution. Such residues may be collected from the <mark>remains<\/mark> of frost atronachs that have been banished from the mortal plane...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remains",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...will dare to stand against your might. But one obstacle <mark>remains<\/mark>. His name is Arkay.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remaining",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "8th moon ....... \"I have presented to the few <mark>remaining<\/mark> Battlemages my last hope plan. I will fight my way...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remained",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...countrymen were instantly killed, though the sounds of their voices <mark>remained<\/mark> to torment Chimere's memory. Chimere was condemned to live forever...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,82 @@
+
+  { "stem" : "fresh",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fresh",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...This provides those who have acquired such a post with a <mark>fresh<\/mark> supply of corpses, most of them young, strong,...",
+            "fid" : "content" },
+          
+          { "form" : "fresh",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "...purchase anything one desires. This is true if you desire <mark>fresh<\/mark> corpses.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fresh",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "<mark>Fresh<\/mark> and decayed corpses are those that still have flesh upon them....",
+            "fid" : "content" },
+          
+          { "form" : "fresh",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...the decay of the corpse, and if the corpse is <mark>fresh<\/mark> enough to have an unpleasant odor, the salts will remove...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fresh",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "Finding <mark>fresh<\/mark> water was their first goal, and it turned out to...",
+            "fid" : "content" },
+          
+          { "form" : "fresh",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...not only were food, but there was always a little <mark>fresh<\/mark> water within them. If he could catch one, the two...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fresh",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : ".... \"My dear friends, we aren't mugging some Nord tourist <mark>fresh<\/mark> off the ferry. The Cobblers Guildhall may not sound intimidating...",
+            "fid" : "content" },
+          
+          { "form" : "freshly",
+            "weight" : "1",
+            "pos" : 381,
+            "context" : "Galsiah brought out the map of the guildhouse, <mark>freshly<\/mark> stolen, and they began to detail out the strategy....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fresh",
+            "weight" : "1",
+            "pos" : 846,
+            "context" : "...Zainab camp move their herds across the plains in search of <mark>fresh<\/mark> grazing. There are no roads or tracks, but travel...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "gro",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gro",
+            "weight" : "1",
+            "pos" : 7628,
+            "context" : "Garothmuk <mark>gro<\/mark>-Muzgub" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gro",
+            "weight" : "1",
+            "pos" : 7067,
+            "context" : "garothmuk <mark>gro<\/mark> muzgub",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

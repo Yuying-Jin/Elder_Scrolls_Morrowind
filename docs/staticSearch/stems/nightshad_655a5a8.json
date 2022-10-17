@@ -1,0 +1,43 @@
+
+  { "stem" : "nightshad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Nightshade",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "<mark>Nightshade<\/mark> is reputed to be a very poisonous herb. However the...",
+            "fid" : "content" },
+          
+          { "form" : "Nightshade",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...path of thievery. Many Khajiits will tuck a piece of <mark>Nightshade<\/mark> inside their armor to increase their abilities to skulk, hide...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nightshade",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "<mark>nightshade<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nightshade",
+            "weight" : "1",
+            "pos" : 575,
+            "context" : "<mark>nightshade<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

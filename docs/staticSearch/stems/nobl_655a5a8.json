@@ -1,0 +1,87 @@
+
+  { "stem" : "nobl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "nobles",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "...tradesmen also have shops at Hlaalu Compound. Some House Hlaalu <mark>nobles<\/mark> and retainers prefer to maintain their residences in the less-...",
+            "fid" : "content" },
+          
+          { "form" : "noble",
+            "weight" : "1",
+            "pos" : 358,
+            "context" : ".... The mage-lord Mavon Drenim is the ranking Telvanni <mark>noble<\/mark>. The Telvanni rent the compound from the Temple, and...",
+            "fid" : "content" },
+          
+          { "form" : "noble",
+            "weight" : "1",
+            "pos" : 424,
+            "context" : "...lowest tier is a Redoran shrine and ancestral vaults. Two <mark>noble<\/mark> families, the Savens and the Dralors, have top-...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "noble",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...and glorify the Nine Divines, the faithful must cultivate a <mark>noble<\/mark> personality and a strong will. Respect the magical arts, especially...",
+            "fid" : "content" },
+          
+          { "form" : "noble",
+            "weight" : "1",
+            "pos" : 675,
+            "context" : "...Redoran and the Morag Tong, and honors their different but <mark>noble<\/mark> conceptions of Divine Inspiration.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "noble",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...in some ways. Some Altmer born into the most respected <mark>noble<\/mark> and scholarly families are actually allowed to study the dead in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "noble",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...old Dunmer ways—the ancestors, the Temple, and the <mark>noble<\/mark> houses—but has readily adapted to the rapid pace of change...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nobles",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "And, since the Telvanni are ruled by wizard-lord <mark>nobles<\/mark>, many assume they accept only candidates of the highest intelligence...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nobles",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...Indoril Pavflek Mamoona, one of the wealthiest and most respected <mark>nobles<\/mark> in Gnisis, and Serjo Benitah Gorgoth. His heart fell...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "cycl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Cycle",
+            "weight" : "1",
+            "pos" : 452,
+            "context" : "...With three quick flashes of his hand, Baranat completed the <mark>Cycle<\/mark> of Blood, the old Redguard fighting style he had begun...",
+            "fid" : "content" } ] } ] }

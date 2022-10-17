@@ -1,0 +1,66 @@
+
+  { "stem" : "darvel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Darvel",
+            "weight" : "1",
+            "pos" : 1244,
+            "context" : "Balmora,_Dorisa <mark>Darvel<\/mark>:_Bookseller" },
+          
+          { "form" : "Darvel",
+            "weight" : "1",
+            "pos" : 1253,
+            "context" : "Balmora,_Dorisa_<mark>Darvel<\/mark>:_Bookseller" },
+          
+          { "form" : "Darvel",
+            "weight" : "1",
+            "pos" : 6469,
+            "context" : "Dorisa <mark>Darvel<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "darvel",
+            "weight" : "1",
+            "pos" : 1395,
+            "context" : "balmora, dorisa <mark>darvel<\/mark>: bookseller",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "darvel",
+            "weight" : "1",
+            "pos" : 6576,
+            "context" : "dorisa <mark>darvel<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Darvel",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "Balmora, Dorisa <mark>Darvel<\/mark>: Bookseller: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Darvel",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "Balmora, Dorisa <mark>Darvel<\/mark>: Bookseller: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "recant",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recanted",
+            "weight" : "1",
+            "pos" : 406,
+            "context" : ".... Initially imprisoned by the Temple for heresy, he later <mark>recanted<\/mark>, was released, and served his final years as a...",
+            "fid" : "content" } ] } ] }

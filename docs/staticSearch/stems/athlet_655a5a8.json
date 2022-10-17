@@ -1,0 +1,14 @@
+
+  { "stem" : "athlet",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "athletics",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...upon your heavy armor. Recruit must also be proficient at <mark>athletics<\/mark>, both to march long distances with heavy packs, and...",
+            "fid" : "content" } ] } ] }

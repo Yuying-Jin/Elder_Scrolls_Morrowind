@@ -1,0 +1,36 @@
+
+  { "stem" : "luxuri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "luxury",
+            "weight" : "1",
+            "pos" : 429,
+            "context" : "...in higher ranks are interested more in love of authority and <mark>luxury<\/mark> than in the welfare of the poor, weak, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "luxury",
+            "weight" : "1",
+            "pos" : 579,
+            "context" : "...In the meantime, you will be honored guests with every <mark>luxury<\/mark> the Archmagister of House Telvanni can afford.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "luxury",
+            "weight" : "1",
+            "pos" : 429,
+            "context" : "...in higher ranks are interested more in love of authority and <mark>luxury<\/mark> than in the welfare of the poor, weak, and...",
+            "fid" : "content" } ] } ] }

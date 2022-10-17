@@ -1,0 +1,36 @@
+
+  { "stem" : "mean",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "meaning",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "“My name would have no <mark>meaning<\/mark> to you, but I'm Erer Darothil,” he said, raising...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "means",
+            "weight" : "1",
+            "pos" : 367,
+            "context" : "...Telvanni's casual acceptance of murder and assassination of rivals as a <mark>means<\/mark> to advancement. Those reluctant to prove their worthiness by killing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "means",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...a diverse variety, he was able to demonstrate all the <mark>means<\/mark> of silent assassination he had developed over the years.",
+            "fid" : "content" } ] } ] }

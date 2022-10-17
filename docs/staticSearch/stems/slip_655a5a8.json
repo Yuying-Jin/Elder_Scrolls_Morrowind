@@ -1,0 +1,20 @@
+
+  { "stem" : "slip",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "slipped",
+            "weight" : "1",
+            "pos" : 553,
+            "context" : "...most covert route through the city's sewer system, Lledos, <mark>slipped<\/mark> in through a duct and vanished below. Galsiah threw on her...",
+            "fid" : "content" },
+          
+          { "form" : "slipped",
+            "weight" : "1",
+            "pos" : 767,
+            "context" : "He <mark>slipped<\/mark> the gold into the vault in his study, and went...",
+            "fid" : "content" } ] } ] }

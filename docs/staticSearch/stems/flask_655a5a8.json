@@ -1,0 +1,20 @@
+
+  { "stem" : "flask",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "flask",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...by Bones of Traitors. Condense vapors into a large Ebony <mark>flask<\/mark>. For a hot drink, strain contents through Scamp Skin...",
+            "fid" : "content" },
+          
+          { "form" : "flask",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...a glass rod. For a chilled drink, mix in <mark>flask<\/mark> with pure Skyrim Ice and shake vigorously. Strain through Winged...",
+            "fid" : "content" } ] } ] }

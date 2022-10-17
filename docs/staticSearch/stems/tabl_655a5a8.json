@@ -1,0 +1,86 @@
+
+  { "stem" : "tabl",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Book <mark>Table<\/mark>",
+            "fid" : "ssForm" },
+          
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Group <mark>Table<\/mark>",
+            "fid" : "ssForm" },
+          
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "Item <mark>Table<\/mark>",
+            "fid" : "ssForm" },
+          
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Location <mark>Table<\/mark>",
+            "fid" : "ssForm" },
+          
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Person <mark>Table<\/mark>",
+            "fid" : "ssForm" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Table<\/mark> of Items",
+            "fid" : "bookTables",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "<mark>Table<\/mark> of Locations",
+            "fid" : "bookTables",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "<mark>Table<\/mark> of Groups",
+            "fid" : "bookTables",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "Table",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "<mark>Table<\/mark> of Persons",
+            "fid" : "bookTables",
+            "in" : 
+            [ "ssCtx1" ] } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "table",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...down his flagon of greef violently on the rough-hewn <mark>table<\/mark>. \"B'vek, what do you want us to say?...",
+            "fid" : "content" } ] } ] }

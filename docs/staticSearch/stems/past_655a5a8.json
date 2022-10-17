@@ -1,0 +1,58 @@
+
+  { "stem" : "past",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "Blessed are the Masters, for they bridge the <mark>past<\/mark> and span the future.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...ages. Blessed are the Masters, for they bridge the <mark>past<\/mark> and span the future.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "paste",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...beneficial to the gatherer as it has magical properties. The <mark>paste<\/mark> made from grinding the root is very tasty and can improve...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "...into the hands of evil. Their many attempts in the <mark>past<\/mark> have failed, until now. Dagon seems to have new minions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "past",
+            "weight" : "1",
+            "pos" : 741,
+            "context" : "...good people, and he treated them well, but from <mark>past<\/mark> experience he knew that servants talked. If they began to...",
+            "fid" : "content" } ] } ] }

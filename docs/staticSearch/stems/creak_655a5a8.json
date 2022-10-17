@@ -1,0 +1,25 @@
+
+  { "stem" : "creak",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "creaking",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...word of the spell, he suddenly found that all the <mark>creaking<\/mark> and sighing of the ruins around him had been stilled....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "creaks",
+            "weight" : "1",
+            "pos" : 820,
+            "context" : "..., waiting, but there was no sound except the usual <mark>creaks<\/mark> and groans of his old house. Afternoon sunlight came through...",
+            "fid" : "content" } ] } ] }

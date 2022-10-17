@@ -1,0 +1,14 @@
+
+  { "stem" : "distort",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "distorted",
+            "weight" : "1",
+            "pos" : 566,
+            "context" : "...the Corprusarium, a refuge-prison where the deranged, <mark>distorted<\/mark> victims of the deadly corprus disease are housed and tended....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "whirlwind",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whirlwind",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "The last several hours had been a <mark>whirlwind<\/mark> to all. In less than a day, the three had...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "nourish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nourishment",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...mountains of Hammerfell. Their succulent pods are often the only <mark>nourishment<\/mark> of adventurers who find themselves in the wilderness without rations....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "elf",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Elf",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "Why did the Dark <mark>Elf<\/mark> cross the road?",
+            "fid" : "DarkElves" },
+          
+          { "form" : "Elf",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "If a Wood <mark>Elf<\/mark> mime falls in a forest, who cares?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elf",
+            "weight" : "1",
+            "pos" : 475,
+            "context" : "...in life. While raising the corpse of a man, <mark>elf<\/mark>, or beastman can produce a useful servant, the corpses...",
+            "fid" : "content" } ] } ] }

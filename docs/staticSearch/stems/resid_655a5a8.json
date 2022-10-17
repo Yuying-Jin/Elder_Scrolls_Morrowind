@@ -1,0 +1,97 @@
+
+  { "stem" : "resid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "residences",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : ".... Some House Hlaalu nobles and retainers prefer to maintain their <mark>residences<\/mark> in the less-formal St. Delyn and St....",
+            "fid" : "content" },
+          
+          { "form" : "residence",
+            "weight" : "1",
+            "pos" : 491,
+            "context" : " St. Delyn Canton and St. Olms Canton are <mark>residence<\/mark> cantons for commoners and paupers. The Temple charges very reasonable...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "residence",
+            "weight" : "1",
+            "pos" : 347,
+            "context" : "...outbuildings for craftsmen and servants, dominated by a grand manor <mark>residence<\/mark> in place of a Temple shrine.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "residences",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...Llethri, Miner Arobar, and Bolvyn Venim, have manor <mark>residences<\/mark> in Ald'ruhn-Under_skar. Edwinna Elbert is the Mages...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "residence",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...Great Market is Tel Naga, the towering wizard-tower <mark>residence<\/mark> of Telvanni Councilor Mage-Lord Master Neloth.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "residences",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : ".... It lists the current members of the council and their <mark>residences<\/mark>. It also chronicles significant events and council actions for the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "residents",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "Domica Redwort is a herb grown by many <mark>residents<\/mark> of Valenwood for their beautiful and showy flowers. They attain...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "residence",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...they are represented by a 'Mouth', a trusted subordinate in <mark>residence<\/mark> at the Council Hall, acting on his patron's behalf,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Residence",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "..., Vvardenfell District, Free Trader, Gentleman of No Fixed <mark>Residence<\/mark>, Vivec, District of Vvardenfell, Province of Morrowind",
+            "fid" : "content" } ] } ] }

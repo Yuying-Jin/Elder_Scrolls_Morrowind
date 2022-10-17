@@ -1,0 +1,14 @@
+
+  { "stem" : "stake",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stake",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...and their blood taint must be forever erased by fire and <mark>stake<\/mark>.",
+            "fid" : "content" } ] } ] }

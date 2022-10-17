@@ -1,0 +1,25 @@
+
+  { "stem" : "twist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "twisting",
+            "weight" : "1",
+            "pos" : 484,
+            "context" : "...water. Still, it's only a matter of rolling and <mark>twisting<\/mark> the body like so. I'll demonstrate it if you want.\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Twisting",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...town among the happy voices of his friends and countrymen. <mark>Twisting<\/mark> the literal words of Chimere's pact, Dagon scooped up tiny...",
+            "fid" : "content" } ] } ] }

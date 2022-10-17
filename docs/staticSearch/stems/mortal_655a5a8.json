@@ -1,0 +1,81 @@
+
+  { "stem" : "mortal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "mortal",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...the instant of his betrayal, Dagon struck out against the <mark>mortal<\/mark> who tricked him. Chimere's pact assured that he would live forever...",
+            "fid" : "content" },
+          
+          { "form" : "mortal",
+            "weight" : "1",
+            "pos" : 283,
+            "context" : "...used in the Wild Hunts could not be handled by any <mark>mortal<\/mark> or immortal save the ones sanctified to the Hunt and bound...",
+            "fid" : "content" },
+          
+          { "form" : "mortal",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "...Hide, forged by Malacath -- are sufficient to protect a <mark>mortal<\/mark> or immortal bearer from its maleficent energies",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mortal",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...entered the ranks of the gods. The similarities between his <mark>mortal<\/mark> life and my own astonish even me. It is only proper...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mortal",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...Temple believes that Almalexia, Vivec, and Sotha Sil were <mark>mortal<\/mark> guardians of Morrowind who walked the earth, defeated the Dunmer's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mortal",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...the remains of frost atronachs that have been banished from the <mark>mortal<\/mark> plane.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mortal",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "Consider your end, <mark>mortal<\/mark>!",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mortal",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...songs. They trace the evolution of Vivec from a foolish <mark>mortal<\/mark> into an enlightened divine. Vivec sought out experiences that tested...",
+            "fid" : "content" } ] } ] }

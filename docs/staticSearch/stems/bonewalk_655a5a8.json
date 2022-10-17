@@ -1,0 +1,162 @@
+
+  { "stem" : "bonewalk",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "'bonewalkers'",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...they are often called in the West, are known as <mark>'bonewalkers'<\/mark> in Morrowind. Magic preserves the bonewalker's fleshy remains along with...",
+            "fid" : "content" },
+          
+          { "form" : "bonewalker's",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "..., are known as 'bonewalkers' in Morrowind. Magic preserves the <mark>bonewalker's<\/mark> fleshy remains along with the bones and spirit. Bonewalkers are...",
+            "fid" : "content" },
+          
+          { "form" : "Bonewalkers",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...the bonewalker's fleshy remains along with the bones and spirit. <mark>Bonewalkers<\/mark> are readily identified by the sharp protuberances of bone and metal...",
+            "fid" : "content" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...in the rituals that bind them to this plane. All <mark>bonewalkers<\/mark> are malevolent and dangerous, but the greater bonewalkers are far...",
+            "fid" : "content" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : ".... All bonewalkers are malevolent and dangerous, but the greater <mark>bonewalkers<\/mark> are far worse than the more common 'lesser' bonewalkers. Thankfully...",
+            "fid" : "content" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...the greater bonewalkers are far worse than the more common 'lesser' <mark>bonewalkers<\/mark>. Thankfully, normal weapons harm bonewalkers.",
+            "fid" : "content" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...the more common 'lesser' bonewalkers. Thankfully, normal weapons harm <mark>bonewalkers<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "'bonewalkers'",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...they are often called in the West, are known as <mark>'bonewalkers'<\/mark> in Morrowind. Magic preserves the bonewalker's fleshy remains along with...",
+            "fid" : "content" },
+          
+          { "form" : "bonewalker's",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "..., are known as 'bonewalkers' in Morrowind. Magic preserves the <mark>bonewalker's<\/mark> fleshy remains along with the bones and spirit. Bonewalkers are...",
+            "fid" : "content" },
+          
+          { "form" : "Bonewalkers",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...the bonewalker's fleshy remains along with the bones and spirit. <mark>Bonewalkers<\/mark> are readily identified by the sharp protuberances of bone and metal...",
+            "fid" : "content" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...in the rituals that bind them to this plane. All <mark>bonewalkers<\/mark> are malevolent and dangerous, but the greater bonewalkers are far...",
+            "fid" : "content" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : ".... All bonewalkers are malevolent and dangerous, but the greater <mark>bonewalkers<\/mark> are far worse than the more common 'lesser' bonewalkers. Thankfully...",
+            "fid" : "content" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...the greater bonewalkers are far worse than the more common 'lesser' <mark>bonewalkers<\/mark>. Thankfully, normal weapons harm bonewalkers.",
+            "fid" : "content" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...the more common 'lesser' bonewalkers. Thankfully, normal weapons harm <mark>bonewalkers<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Bonewalker",
+            "weight" : "1",
+            "pos" : 4975,
+            "context" : "<mark>Bonewalker<\/mark>" },
+          
+          { "form" : "Bonewalkers",
+            "weight" : "1",
+            "pos" : 4981,
+            "context" : "<mark>Bonewalkers<\/mark>" },
+          
+          { "form" : "bonewalker's",
+            "weight" : "1",
+            "pos" : 5947,
+            "context" : "<mark>bonewalker's<\/mark>" },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 5959,
+            "context" : "<mark>bonewalkers<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "bonewalker",
+            "weight" : "1",
+            "pos" : 5116,
+            "context" : "<mark>bonewalker<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bonewalker's",
+            "weight" : "1",
+            "pos" : 5122,
+            "context" : "<mark>bonewalker's<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bonewalkers",
+            "weight" : "1",
+            "pos" : 5134,
+            "context" : "<mark>bonewalkers<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bonewalker",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...love to Hearth and Kin. But ghost or guardian, <mark>bonewalker<\/mark> or bonelord, summoned by profane ritual and bound by force...",
+            "fid" : "content" } ] } ] }

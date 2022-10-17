@@ -1,0 +1,25 @@
+
+  { "stem" : "communiti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "communities",
+            "weight" : "1",
+            "pos" : 466,
+            "context" : "...and minister to the sick and hurt in poor and isolated <mark>communities<\/mark>. It is difficult and sometimes dangerous work, but the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "community",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...the other hand, they freely admit that even a large <mark>community<\/mark> of vampires might easily escape detection in the remote wastelands,...",
+            "fid" : "content" } ] } ] }

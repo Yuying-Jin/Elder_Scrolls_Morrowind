@@ -1,0 +1,48 @@
+
+  { "stem" : "mage-lord",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Mage-Lord",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...Naga, the towering wizard-tower residence of Telvanni Councilor <mark>Mage-Lord<\/mark> Master Neloth.",
+            "fid" : "content" },
+          
+          { "form" : "mage-lords",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...the Telvanni Mouths (Telvanni Mouths are spokesmen for their councilor <mark>mage-lords<\/mark>) Felisa Ulessen, Galos Mathendis, Arara Uvulas, Mallam...",
+            "fid" : "content" },
+          
+          { "form" : "Mage-Lord",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...Omayn, and Dalyne Arvel, Telvanni Council clerk. Councilor <mark>Mage-Lord<\/mark> Master Neloth lives in Tel Naga, the wizard tower in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mage-lord",
+            "weight" : "1",
+            "pos" : 351,
+            "context" : " Telvanni Compound is the eastmost canton. The <mark>mage-lord<\/mark> Mavon Drenim is the ranking Telvanni noble. The Telvanni rent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mage-Lord",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...however, Azura is the Anticipation of Sotha Sil, the <mark>Mage-Lord<\/mark> of ALMSIVI. Boethiah is the Anticipation of Almalexia, ALMSIVI's...",
+            "fid" : "content" } ] } ] }

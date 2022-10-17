@@ -1,0 +1,25 @@
+
+  { "stem" : "immeasur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "immeasurably",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...age and accumulated lore, but even the weakest vampire is <mark>immeasurably<\/mark> stronger than most other undead. Note: Ash vampires are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "immeasurably",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...age and accumulated lore, but even the weakest vampire is <mark>immeasurably<\/mark> stronger than most other undead. Note: Ash vampires are...",
+            "fid" : "content" } ] } ] }

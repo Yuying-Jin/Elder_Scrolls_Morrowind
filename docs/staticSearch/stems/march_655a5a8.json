@@ -1,0 +1,36 @@
+
+  { "stem" : "march",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "march",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...though a Telvanni wizard may be, no individual can withstand the <mark>march<\/mark> of history. The Indoril are loved by the people for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "march",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : ".... Recruit must also be proficient at athletics, both to <mark>march<\/mark> long distances with heavy packs, and to advance and maneuver...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marched",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "..., while Nerevar mustered the other Houses and nomad tribes and <mark>marched<\/mark> to meet the Dwemer-Dagoth-Westerner forces.",
+            "fid" : "content" } ] } ] }

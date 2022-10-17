@@ -1,0 +1,14 @@
+
+  { "stem" : "countri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "country",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "Morrowind is holy <mark>country<\/mark>, and its gods are flesh and blood. Collectively,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "lad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lads",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "Island <mark>Lads<\/mark> Down from the Mountain",
+            "fid" : "content" } ] } ] }

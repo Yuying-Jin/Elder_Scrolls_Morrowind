@@ -1,0 +1,70 @@
+
+  { "stem" : "mystic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mysticism",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...unjust and politically motivated. The Dissident priests do not reject <mark>mysticism<\/mark>, revelation, or prophecy as part of the religious experience...",
+            "fid" : "content" },
+          
+          { "form" : "mysticism",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...issue of true or false insights. They have studied the <mark>mysticism<\/mark> of the Ashlander Ancestor Cults, in particular the rites of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mysticism",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...unjust and politically motivated. The Dissident priests do not reject <mark>mysticism<\/mark>, revelation, or prophecy as part of the religious experience...",
+            "fid" : "content" },
+          
+          { "form" : "mysticism",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...issue of true or false insights. They have studied the <mark>mysticism<\/mark> of the Ashlander Ancestor Cults, in particular the rites of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mysticism",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...We study Restoration and Alchemy to heal the people, and <mark>Mysticism<\/mark> to learn more of the divine. We must also study...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mysticism",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "...Respect the magical arts, especially the colleges of Restoration, <mark>Mysticism<\/mark>, and Conjuration. Those who swear to avoid bloodshed,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mysticism",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...and that candidates proficient in the arts of magic -- especially <mark>Mysticism<\/mark>, Conjuration, Illusion, Alteration, Destruction and Enchanting -...",
+            "fid" : "content" } ] } ] }

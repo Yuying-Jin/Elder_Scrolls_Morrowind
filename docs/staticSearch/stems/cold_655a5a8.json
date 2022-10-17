@@ -1,0 +1,20 @@
+
+  { "stem" : "cold",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "cold",
+            "weight" : "1",
+            "pos" : 374,
+            "context" : "In Skyrim, the <mark>cold<\/mark> weather and isolated terrain allow a few Necromancers to operate freely...",
+            "fid" : "content" },
+          
+          { "form" : "cold",
+            "weight" : "1",
+            "pos" : 390,
+            "context" : "...Nords who die from exposure or in battle. While the <mark>cold<\/mark> is preservative, the snow makes these corpses difficult to find...",
+            "fid" : "content" } ] } ] }

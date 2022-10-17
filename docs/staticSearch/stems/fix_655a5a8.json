@@ -1,0 +1,25 @@
+
+  { "stem" : "fix",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fixing",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...services -- training and tools. The help of friends includes <mark>fixing<\/mark> things with the guards at a discount rate. That's where...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fixed",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...Council, Vvardenfell District, Free Trader, Gentleman of No <mark>Fixed<\/mark> Residence, Vivec, District of Vvardenfell, Province of Morrowind...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,42 @@
+
+  { "stem" : "recogn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "recognizing",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : " A lot of the game depends on <mark>recognizing<\/mark> the types of shop-keepers and not automatically assuming that...",
+            "fid" : "content" },
+          
+          { "form" : "Recognize",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...and merchants before you even step foot in a shop. <mark>Recognize<\/mark> too the prejudices of the region. In Morrowind where I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recognized",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...land described by the native Ashlanders, so the designations are <mark>recognized<\/mark> by most local traders, travelers, and adventurers. These...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recognizes",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...proceed systematically when no pattern is perceived. When the observer <mark>recognizes<\/mark> that many things must be done, and in no specific...",
+            "fid" : "content" } ] } ] }

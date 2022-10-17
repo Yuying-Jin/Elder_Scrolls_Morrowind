@@ -1,0 +1,14 @@
+
+  { "stem" : "packag",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "packages",
+            "weight" : "1",
+            "pos" : 555,
+            "context" : "...sergeant helps keep order at the shrines, carries messages and <mark>packages<\/mark>, and sometimes escorts priests and lay servants on dangerous missions...",
+            "fid" : "content" } ] } ] }

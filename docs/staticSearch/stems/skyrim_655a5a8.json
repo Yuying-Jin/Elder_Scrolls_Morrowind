@@ -1,0 +1,76 @@
+
+  { "stem" : "skyrim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Skyrim",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "In <mark>Skyrim<\/mark>, the cold weather and isolated terrain allow a few Necromancers...",
+            "fid" : "content" },
+          
+          { "form" : "Skyrim",
+            "weight" : "1",
+            "pos" : 405,
+            "context" : "...magical detection of corpses would be invaluable to the Necromancers of <mark>Skyrim<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skyrim",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...east by the Sea of Ghosts, on the west by <mark>Skyrim<\/mark>, on the southwest by Cyrodiil (also known as the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skyrim",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : ".... For a chilled drink, mix in flask with pure <mark>Skyrim<\/mark> Ice and shake vigorously. Strain through Winged Twilight membrane and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skyrim",
+            "weight" : "1",
+            "pos" : 3527,
+            "context" : "<mark>Skyrim<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skyrim",
+            "weight" : "1",
+            "pos" : 3679,
+            "context" : "<mark>skyrim<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skyrim",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...from the Ironwood trees which grow deep in the forests of <mark>Skyrim<\/mark>. The wood from these trees is as hard as the...",
+            "fid" : "content" } ] } ] }

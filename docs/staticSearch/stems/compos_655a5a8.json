@@ -1,0 +1,25 @@
+
+  { "stem" : "compos",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "composed",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...The poetry is simple and dramatic, lyric and personal, <mark>composed<\/mark> to be sung or recited. The following is an excerpt...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "composed",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...a shadowy fraternity of vampire hunters is believed to be primarily <mark>composed<\/mark> of formerly afflicted vampires who have been cured of the disease...",
+            "fid" : "content" } ] } ] }

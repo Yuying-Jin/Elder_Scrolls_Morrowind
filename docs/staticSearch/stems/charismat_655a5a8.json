@@ -1,0 +1,20 @@
+
+  { "stem" : "charismat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "charismatic",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...think of their relationships as personal. Notable exceptions include minor <mark>charismatic<\/mark> sub-cults of Akatosh and Dibella. The Imperial Cult...",
+            "fid" : "content" },
+          
+          { "form" : "charismatic",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : ".... The Imperial Cult of Tiber Septim also has a significant <mark>charismatic<\/mark> sub-cult.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "youngest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "youngest",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...brothers' guard posts. There he saw Vanis Coribael, the <mark>youngest<\/mark> of the brothers, watching the valley for intruders. Vanis...",
+            "fid" : "content" },
+          
+          { "form" : "youngest",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...hands. The adventurer continued on until he reached the second <mark>youngest<\/mark> Coribael brother, Feryn, who not only was as fast...",
+            "fid" : "content" } ] } ] }

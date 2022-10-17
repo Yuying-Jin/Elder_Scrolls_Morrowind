@@ -1,0 +1,47 @@
+
+  { "stem" : "piec",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pieces",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...-keeper. If you are offered something for ten gold <mark>pieces<\/mark>, try offering six and see where that takes you.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "piece",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : "...the career path of thievery. Many Khajiits will tuck a <mark>piece<\/mark> of Nightshade inside their armor to increase their abilities to skulk...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pieces",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "..., scattering him across the valley floor in eighty-seven <mark>pieces<\/mark>. Beyond Feryn's post was a raging river, where the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pieces",
+            "weight" : "1",
+            "pos" : 522,
+            "context" : "...You learned well.\" Lledos said as he poured the gold <mark>pieces<\/mark> into the specially designed compartments in his tunic's sleeves, where...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,87 @@
+
+  { "stem" : "proper",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "proper",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...only bring the corpse to a suitable site and enact the <mark>proper<\/mark> rituals. However, there are a few tips that a...",
+            "fid" : "content" },
+          
+          { "form" : "properly",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...This will further preserve the body against decay and, if done <mark>properly<\/mark>, will offer some protection as well. Do not worry...",
+            "fid" : "content" },
+          
+          { "form" : "proper",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...too stiff or desiccated to be a useful servant, the <mark>proper<\/mark> rituals will imbue the mummified corpse with the strength to move...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "proper",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...mortal life and my own astonish even me. It is only <mark>proper<\/mark> that we should be enemies.",
+            "fid" : "content" },
+          
+          { "form" : "proper",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...used without consent. Arkay's Law prevents those buried with the <mark>proper<\/mark> rituals from being raised to serve my children's will. As you...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "proper",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...involved in raising a skeleton will assemble the bones in the <mark>proper<\/mark> order, skeletons may be strengthened considerably by the addition of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "proper",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...along with the inland lakes and waterways of the Ascadian Isles <mark>proper<\/mark>. The urban areas of Vivec and Ebonheart of the southern...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "properly",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...very sweet and tasty. Legend has it that when mixed <mark>properly<\/mark> with the pulp of the Aloe plant, the potion has...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "properly",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : ".... Not good. Now a good throat-slashing, <mark>properly<\/mark> executed, can both slay and silence a guard and leave...",
+            "fid" : "content" } ] } ] }

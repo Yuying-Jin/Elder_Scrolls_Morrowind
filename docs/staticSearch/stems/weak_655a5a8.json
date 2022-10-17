@@ -1,0 +1,81 @@
+
+  { "stem" : "weak",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Weak",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "...the Poor, Education for the Ignorant, Protection for the <mark>Weak<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "weak",
+            "weight" : "1",
+            "pos" : 432,
+            "context" : "...authority and luxury than in the welfare of the poor, <mark>weak<\/mark>, and ignorant.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Weak",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "...the Poor, Education for the Ignorant, Protection for the <mark>Weak<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "weak",
+            "weight" : "1",
+            "pos" : 432,
+            "context" : "...authority and luxury than in the welfare of the poor, <mark>weak<\/mark>, and ignorant.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weak",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "...house or your ancestors. Serve and protect the poor and <mark>weak<\/mark>, and honor your elders and clan.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weak",
+            "weight" : "1",
+            "pos" : 712,
+            "context" : "...Camonna Tong, and their ruthless exploitation of the poor and <mark>weak<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weak",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...abilities of the revenant's former life, and may therefore be <mark>weak<\/mark> or strong, or more or less capable with weapons and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weak",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...abilities of the revenant's former life, and may therefore be <mark>weak<\/mark> or strong, or more or less capable with weapons and...",
+            "fid" : "content" } ] } ] }

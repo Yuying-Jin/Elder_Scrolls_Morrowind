@@ -1,0 +1,64 @@
+
+  { "stem" : "report",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "reportedly",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...Ashlanderlegend is not undead. Sorceries and blessings affecting the undead <mark>reportedly<\/mark> have no effect on these creatures. No specimen has ever...",
+            "fid" : "content" },
+          
+          { "form" : "reported",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...cult blessings. However, during incubation, some victims have <mark>reported<\/mark> sleep disturbances and troubling dreams. After symptoms are exhibited,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "report",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "...some magical process, the holy warriors of the Tribunal Temple <mark>report<\/mark> that spell effects known to affect the undead have no effect...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "report",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...some magical process, the holy warriors of the Tribunal Temple <mark>report<\/mark> that spell effects known to affect the undead have no effect...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "report",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...such a journey to the Imperial Palace. There, we will <mark>report<\/mark> the evil infection and return with a regimental force of rescue...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "report",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "The council is pleased to <mark>report<\/mark> a reduction in the incidence of theft and violent crime in...",
+            "fid" : "content" } ] } ] }

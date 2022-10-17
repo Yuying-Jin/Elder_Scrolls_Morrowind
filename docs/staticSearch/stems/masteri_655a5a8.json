@@ -1,0 +1,64 @@
+
+  { "stem" : "masteri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mastery",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "Blessed Almsivi, Mercy, <mark>Mastery<\/mark>, Mystery.",
+            "fid" : "content" },
+          
+          { "form" : "Mastery",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "Three mouths sing Mercy, <mark>Mastery<\/mark>, Mystery.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mastery",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "...lords of House Telvanni have traditionally isolated themselves, pursuing wisdom and <mark>mastery<\/mark> in solitude. But certain ambitious wizards-lords, their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mastery",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...the duties of Imperial citizenship. Troopers are expected to demonstrate <mark>mastery<\/mark> of the long blade, the spear and blunt weapons....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mastery",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "Blessed ALMSIVI, Mercy, <mark>Mastery<\/mark>, Mystery",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mastery",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...deities exemplifying Dunmeri virtues. Almalexia is Mercy, Vivec is <mark>Mastery<\/mark>, and Sotha Sil is Mystery. Vivec is easily the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "motion",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "motions",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "...her one night and each one gave to the egg new <mark>motions<\/mark> that could be achieved by certain movements of the bones....",
+            "fid" : "content" },
+          
+          { "form" : "Motions",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...called Fa-Nuit-Hen, or the Multiplier of <mark>Motions<\/mark> Known. And Fa-Nuit-Hen said:",
+            "fid" : "content" } ] } ] }

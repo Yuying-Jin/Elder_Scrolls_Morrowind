@@ -1,0 +1,89 @@
+
+  { "stem" : "star",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stars",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...and known would fold themselves around her until they were like <mark>stars<\/mark> or the messages of stars. Ayem took a netchiman's wife...",
+            "fid" : "content" },
+          
+          { "form" : "stars",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...around her until they were like stars or the messages of <mark>stars<\/mark>. Ayem took a netchiman's wife and said:",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "star",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "moon-and-<mark>star<\/mark>" },
+          
+          { "form" : "star",
+            "weight" : "1",
+            "pos" : 545,
+            "context" : "throwing <mark>star<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "star",
+            "weight" : "1",
+            "pos" : 550,
+            "context" : "moon and <mark>star<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "star",
+            "weight" : "1",
+            "pos" : 719,
+            "context" : "throwing <mark>star<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "star",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...want the marksman's weapons -- the bow, crossbow, throwing <mark>star<\/mark>, and dart. You want light armor, so you...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Star",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...Dau into forsaking its appointed path through Oblivion. The Mad <mark>Star<\/mark> inspired the moon to hurl itself upon Vivec's new city,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Star",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...wore it except Nerevar. The ring was called Moon-and-<mark>Star<\/mark>, and it helped Nerevar unite the various clans into the...",
+            "fid" : "moon and star" } ] } ] }

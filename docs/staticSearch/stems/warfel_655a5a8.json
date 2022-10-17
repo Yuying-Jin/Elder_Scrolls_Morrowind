@@ -1,0 +1,26 @@
+
+  { "stem" : "warfel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Warfel",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "\"I am Kena <mark>Warfel<\/mark> Tomasin, and I can prove that Akatosh, Nirn,...",
+            "fid" : "content" },
+          
+          { "form" : "Warfel",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...that Akatosh, Nirn, and Oblivion are one,\" said <mark>Warfel<\/mark>, writing out the mathematical formula that showed it was so....",
+            "fid" : "content" },
+          
+          { "form" : "Warfel",
+            "weight" : "1",
+            "pos" : 337,
+            "context" : "...out the mathematical formula, which proved correct, and Kena <mark>Warfel<\/mark> Tomasin vaporized on the spot.",
+            "fid" : "content" } ] } ] }

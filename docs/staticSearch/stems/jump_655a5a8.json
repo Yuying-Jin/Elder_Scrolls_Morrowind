@@ -1,0 +1,20 @@
+
+  { "stem" : "jump",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "jumped",
+            "weight" : "1",
+            "pos" : 461,
+            "context" : "..., and when I was sure they were safe, I <mark>jumped<\/mark> off the wall and into the water.\"",
+            "fid" : "content" },
+          
+          { "form" : "jumped",
+            "weight" : "1",
+            "pos" : 464,
+            "context" : " \"You <mark>jumped<\/mark> off the wall?\"",
+            "fid" : "content" } ] } ] }

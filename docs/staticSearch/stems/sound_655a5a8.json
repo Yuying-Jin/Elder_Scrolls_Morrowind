@@ -1,0 +1,76 @@
+
+  { "stem" : "sound",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "sound",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...the spell. He explained what it truly meant to bend <mark>sound<\/mark>, creating a cone of silence as glass can bend light...",
+            "fid" : "content" },
+          
+          { "form" : "sound",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...tapped the side of his glass, making him picture the <mark>sound<\/mark> as the physical entity it was, before it was extinguished....",
+            "fid" : "content" },
+          
+          { "form" : "sound",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "...He opened his voice to speak, but there was no <mark>sound<\/mark>. Silverthorn took his time, strolling across the length of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sound",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...tourist fresh off the ferry. The Cobblers Guildhall may not <mark>sound<\/mark> intimidating but tonight, when the dues collection is housed there...",
+            "fid" : "content" },
+          
+          { "form" : "sound",
+            "weight" : "1",
+            "pos" : 817,
+            "context" : "...still in his bed, waiting, but there was no <mark>sound<\/mark> except the usual creaks and groans of his old house....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sounds",
+            "weight" : "1",
+            "pos" : 549,
+            "context" : "\"It <mark>sounds<\/mark> delightful, Master Rhunen Zebavi,\" said Gothren. \"I look...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sounds",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...All Chimere's friends and countrymen were instantly killed, though the <mark>sounds<\/mark> of their voices remained to torment Chimere's memory. Chimere was...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sounds",
+            "weight" : "1",
+            "pos" : 676,
+            "context" : "...remarkable Gazouf Mough?\" Kena Yakin Bael was asking. \"He <mark>sounds<\/mark> like a very promising suitor.\"",
+            "fid" : "content" } ] } ] }

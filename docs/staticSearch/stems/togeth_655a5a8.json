@@ -1,0 +1,75 @@
+
+  { "stem" : "togeth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...it is To bind two souls in faith, Chained completely <mark>together<\/mark> With never a false word, Weal and woe, wish...",
+            "fid" : "content" },
+          
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "..., Weal and woe, wish and real, Woven each <mark>together<\/mark> From first kiss to last breath, First and last whispered...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "Then the Barons and the Demiprince joined <mark>together<\/mark> into a pillar of fighting styles terrible to behold and they...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : ".... The most common are leather straps that bind the bones <mark>together<\/mark> more tightly. Some practitioners also drive metal spikes are between...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...the Telvanni Compound on the east, and four cantons grouped <mark>together<\/mark> at the center of the cross -- Redoran Compound northwest,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...That's where the 'honor among thieves' part comes in. Friends stick <mark>together<\/mark>, and help each other.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "together",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...rations. It is said that the black and white poppies <mark>together<\/mark> have magical properties. When they are crushed and mixed with...",
+            "fid" : "content" } ] } ] }

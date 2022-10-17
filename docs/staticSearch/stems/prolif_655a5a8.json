@@ -1,0 +1,14 @@
+
+  { "stem" : "prolif",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prolific",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...fern like herb found in Black Marsh. It is especially <mark>prolific<\/mark> around the area of Utherus Swamp. It is a beautiful...",
+            "fid" : "content" } ] } ] }

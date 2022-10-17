@@ -1,0 +1,36 @@
+
+  { "stem" : "wrathmen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wrathmen",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "Blessed are the <mark>Wrathmen<\/mark>, for they render their rage unto the ages.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wrathmen",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "The Ritual for Ending of <mark>Wrathmen<\/mark> From fifty Fathers Frozen in slavepast Rip from the wraithloom Sunder...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wrathmen",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...in the glory of the transcendent spirit. Blessed are the <mark>Wrathmen<\/mark>, for they render their rage unto the ages. Blessed...",
+            "fid" : "content" } ] } ] }

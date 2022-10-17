@@ -1,0 +1,25 @@
+
+  { "stem" : "latest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "latest",
+            "weight" : "1",
+            "pos" : 523,
+            "context" : "...perform for you now? I hadn't told you yet about our <mark>latest<\/mark> realization of acrobacy when Master Mearvis takes a simple ebony blade...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "latest",
+            "weight" : "1",
+            "pos" : 506,
+            "context" : "...Master Vomph,\" he said, not entirely approving of Oin's <mark>latest<\/mark> sobriquet, \"And has said that she was mistaken. She...",
+            "fid" : "content" } ] } ] }

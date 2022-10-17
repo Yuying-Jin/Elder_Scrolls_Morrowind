@@ -1,0 +1,91 @@
+
+  { "stem" : "welcom",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcome",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...colonization of the wastes and wildernesses of Vvardenfell, they are <mark>welcome<\/mark> to do so, with the Councilors' best wishes, but Telvanni...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcome",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...Triune Grace, the saints, and the priests, are <mark>welcome<\/mark> to the Fellowship of the Tribunal Temple. The Temple is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcome",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...to join the Imperial cult in Vvardenfell will find a warm <mark>welcome<\/mark> from our cult greeters: Ygfa at Fort Pelagiad, Syloria...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcome",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "...Manor. If you have the skills, you will be <mark>welcome<\/mark>. And if you have the will, you may serve House...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcomes",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...dominant among the Great Houses of Vvardenfell and Morrowind. Hlaalu <mark>welcomes<\/mark> Imperial culture and law, Imperial Legions and bureaucracy, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcome",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "An acrobatic distraction would be a <mark>welcome<\/mark> relief.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcomed",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...practical matter, and public pronouncements by religious figures are not <mark>welcomed<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "welcome",
+            "weight" : "1",
+            "pos" : 278,
+            "context" : "...Sadrith Mora for acceptance in House Telvanni can expect a cordial <mark>welcome<\/mark>.",
+            "fid" : "content" } ] } ] }

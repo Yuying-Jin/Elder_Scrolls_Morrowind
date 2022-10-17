@@ -1,0 +1,14 @@
+
+  { "stem" : "entiti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "entity",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...his glass, making him picture the sound as the physical <mark>entity<\/mark> it was, before it was extinguished.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "bird",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "birds",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "It is said the number is the number of <mark>birds<\/mark> that can nest in an ancient tibrol tree, less three...",
+            "fid" : "content" } ] } ] }

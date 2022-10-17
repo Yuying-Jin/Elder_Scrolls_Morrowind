@@ -1,0 +1,65 @@
+
+  { "stem" : "blunt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blunt",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...to demonstrate mastery of the long blade, the spear and <mark>blunt<\/mark> weapons. Legion troops train with shield and heavy armor,...",
+            "fid" : "content" },
+          
+          { "form" : "blunt",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "..., you must master the long blade, spear, and <mark>blunt<\/mark> weapons. You must block whatever blows you can, and take...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blunt",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...candidate must have some proficiency with long blades, axes, <mark>blunt<\/mark> weapons, and shields. Guildsmen must be able to use...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blunt",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...bloodshed, to take the field unarmored to fight only with <mark>blunt<\/mark> weapons, are especially praiseworthy. Knowledge of enchantments and the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blunt",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "<mark>blunt<\/mark> weapons" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blunt",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "<mark>blunt<\/mark> weapons",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

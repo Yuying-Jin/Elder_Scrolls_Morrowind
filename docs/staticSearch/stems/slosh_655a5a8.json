@@ -1,0 +1,14 @@
+
+  { "stem" : "slosh",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sloshed",
+            "weight" : "1",
+            "pos" : 584,
+            "context" : "...teach them the greatest lesson of all, thought Lledos as he <mark>sloshed<\/mark> through the labyrinthine tunnels of sludge. His guar was waiting...",
+            "fid" : "content" } ] } ] }

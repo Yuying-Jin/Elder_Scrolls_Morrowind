@@ -1,0 +1,14 @@
+
+  { "stem" : "satur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "saturated",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "..., you may have to apply more salts if they become <mark>saturated<\/mark>. Some Necromancers remove the vital organs before or after this...",
+            "fid" : "content" } ] } ] }

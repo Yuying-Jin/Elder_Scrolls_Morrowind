@@ -1,0 +1,25 @@
+
+  { "stem" : "you'll",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "you'll",
+            "weight" : "1",
+            "pos" : 330,
+            "context" : "...and Caldera are many sidepaths; watch for signposts, or <mark>you'll<\/mark> get lost. The silt strider port is along the western...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "you'll",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : " If you're not Telvanni or Telvanni retainers, <mark>you'll<\/mark> want to know Angaredhel, Prefect of Hospitality at the Gateway...",
+            "fid" : "content" } ] } ] }

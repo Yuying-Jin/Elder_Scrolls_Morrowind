@@ -1,0 +1,25 @@
+
+  { "stem" : "torn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "torn",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...soon we shall strike. The Temples of Arkay will be <mark>torn<\/mark> stone from stone. The blood of his priests will sate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "torn",
+            "weight" : "1",
+            "pos" : 498,
+            "context" : "...the rest of the living and many amateur practitioners have been <mark>torn<\/mark> apart by the animal servants they created. Let such stories...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,49 @@
+
+  { "stem" : "caecilli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Caecilly",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...the literal words of Chimere's pact, Dagon scooped up tiny <mark>Caecilly<\/mark> Island (a small island off the coast of Northmoor) and...",
+            "fid" : "content" },
+          
+          { "form" : "Caecilly",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...cast it all into his curse. As a result, <mark>Caecilly<\/mark> Island was cast into the void, all its citizens were...",
+            "fid" : "content" },
+          
+          { "form" : "Caecilly",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...Chapel of the Innocent Quarry: Chimere believes that Dagon had <mark>Caecilly<\/mark> Island established as the site of the Chapel of the Innocent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caecilly",
+            "weight" : "1",
+            "pos" : 1356,
+            "context" : "<mark>Caecilly<\/mark> Island" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "caecilly",
+            "weight" : "1",
+            "pos" : 1521,
+            "context" : "<mark>caecilly<\/mark> island",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

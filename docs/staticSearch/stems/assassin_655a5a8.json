@@ -1,0 +1,36 @@
+
+  { "stem" : "assassin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assassination",
+            "weight" : "1",
+            "pos" : 365,
+            "context" : "...some potential candidates is House Telvanni's casual acceptance of murder and <mark>assassination<\/mark> of rivals as a means to advancement. Those reluctant to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assassination",
+            "weight" : "1",
+            "pos" : 460,
+            "context" : "..., he was able to demonstrate all the means of silent <mark>assassination<\/mark> he had developed over the years.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assassination",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "...All of these themes contain subtle aspects and violent ones (<mark>assassination<\/mark>\/genocide, courtship\/orgy, tact\/poetic truths...",
+            "fid" : "content" } ] } ] }

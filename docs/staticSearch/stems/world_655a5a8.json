@@ -1,0 +1,126 @@
+
+  { "stem" : "world",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...not into the <mark>world<\/mark>, nor out of it, but between worlds they linger,...",
+            "fid" : "content" },
+          
+          { "form" : "worlds",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "......not into the world, nor out of it, but between <mark>worlds<\/mark> they linger, held to the hearth and tomb by blood...",
+            "fid" : "content" },
+          
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...by right, to drag forth the warm spirits from their <mark>world<\/mark> between and bind them to their service like slaves and beasts...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "..., and they raised the netchiman's wife back to the surface <mark>world<\/mark> and set her down on the shoals of Azura's Coast....",
+            "fid" : "content" },
+          
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "'For I have crushed a <mark>world<\/mark> with my left hand,' he will say, 'but in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...Son's, the Magnificence that was Mordrin Hanin ended in this <mark>world<\/mark>. Representative of Ashalmawia, Maelkashishi and Ald Sotha gathered in...",
+            "fid" : "content" },
+          
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...and thus Mordrin Hanin was supplied with companions in the next <mark>world<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "world's",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...the Personality to lead others and the Willpower to resist the <mark>world's<\/mark> temptations. When violence is needful, we fight with staves...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worldly",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...the Defender of the Faith, and the Empire is the <mark>worldly<\/mark> working of the Divine Plan. We pledge aid and comfort...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...Telvanni issued forth from his tower and proclaimed to all the <mark>world<\/mark> that he was a mighty and learned healer, master of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...friend, and all the power you need to set the <mark>world<\/mark> aright. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...shall know and give thanks for my place in the greater <mark>world<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "world",
+            "weight" : "1",
+            "pos" : 570,
+            "context" : "...own natural energy with the spell's, how to view the <mark>world<\/mark> at the slower pace a man with advanced agility sees....",
+            "fid" : "content" } ] } ] }

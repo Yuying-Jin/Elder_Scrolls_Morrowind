@@ -1,0 +1,43 @@
+
+  { "stem" : "nuit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Nuit",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...came, and he was a Demiprince, called Fa-<mark>Nuit<\/mark>-Hen, or the Multiplier of Motions Known. And...",
+            "fid" : "content" },
+          
+          { "form" : "Nuit",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "..., or the Multiplier of Motions Known. And Fa-<mark>Nuit<\/mark>-Hen said:",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nuit",
+            "weight" : "1",
+            "pos" : 6558,
+            "context" : "Fa-<mark>Nuit<\/mark>-Hen" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nuit",
+            "weight" : "1",
+            "pos" : 6801,
+            "context" : "fa <mark>nuit<\/mark> hen",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

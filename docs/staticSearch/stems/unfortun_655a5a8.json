@@ -1,0 +1,80 @@
+
+  { "stem" : "unfortun",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unfortunate",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...our Art. If one of your servants comes to an <mark>unfortunate<\/mark> end, you may raise the servant again by carefully gathering...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unfortunate",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "An <mark>unfortunate<\/mark> tax revolt in Balmora was put down after significant property damage...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unfortunately",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...upon Dagon's \"Protonymic\" (i.e., Incantory [sic] True Name). <mark>Unfortunately<\/mark>, like many of Malacath's gifts, the armor is a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unfortunately",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "<mark>Unfortunately<\/mark>, the potions most favored by adventurers require more rare and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unfortunately",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...would be allowed to marry her and inherit the land. <mark>Unfortunately<\/mark>, in those troubled days, kidnappings, murders, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unfortunately",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "...peculiar to Morrowind, appearing nowhere else in Imperial lore. <mark>Unfortunately<\/mark>, scholarly inquiry upon this topic is discouraged by the Temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unfortunate",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...and stern sentences by the magistrates. The council laments the <mark>unfortunate<\/mark> disturbances of the public peace resulting from the increasingly aggressive competition...",
+            "fid" : "content" } ] } ] }

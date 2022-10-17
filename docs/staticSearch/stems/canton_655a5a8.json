@@ -1,0 +1,214 @@
+
+  { "stem" : "canton",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 19,
+        "contexts" : 
+        [ 
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "...the largest cities in the East. Each of the great <mark>cantons<\/mark> is the size of a complete town. The High Fane...",
+            "fid" : "content" },
+          
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...and comic plays. Outlanders mostly confine themselves to the Foreign <mark>Canton<\/mark>, while natives live, work, and shop in the...",
+            "fid" : "content" },
+          
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...work, and shop in the Great House compounds and residential <mark>cantons<\/mark>. But most of all, this is Lord Vivec's holy city...",
+            "fid" : "content" },
+          
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : " Vivec is a city made up of eight <mark>cantons<\/mark>, each a little town in itself. On a map,...",
+            "fid" : "content" },
+          
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...west, the Telvanni Compound on the east, and four <mark>cantons<\/mark> grouped together at the center of the cross -- Redoran Compound...",
+            "fid" : "content" },
+          
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...-- Redoran Compound northwest, Arena northeast, St. Delyn's <mark>Canton<\/mark> southwest, and St. Olms Canton southeast.",
+            "fid" : "content" },
+          
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "..., St. Delyn's Canton southwest, and St. Olms <mark>Canton<\/mark> southeast.",
+            "fid" : "content" },
+          
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : " The Foreign Quarter is the large three-tiered <mark>canton<\/mark> to the north. Originally, foreigners were not allowed to...",
+            "fid" : "content" },
+          
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : " Hlaalu Compound is the westmost <mark>canton<\/mark>. The Hlaalu Councilor Crassius Curio has a splendid tier-...",
+            "fid" : "content" },
+          
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "...the less-formal St. Delyn and St. Olms <mark>cantons<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 350,
+            "context" : " Telvanni Compound is the eastmost <mark>canton<\/mark>. The mage-lord Mavon Drenim is the ranking Telvanni...",
+            "fid" : "content" },
+          
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : " Redoran Compound is the <mark>canton<\/mark> south of the Foreign Quarter, west of and next to...",
+            "fid" : "content" },
+          
+          { "form" : "Cantons",
+            "weight" : "1",
+            "pos" : 484,
+            "context" : " St. Delyn and St. Olms Residential <mark>Cantons<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 487,
+            "context" : " St. Delyn <mark>Canton<\/mark> and St. Olms Canton are residence cantons for commoners and...",
+            "fid" : "content" },
+          
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 490,
+            "context" : " St. Delyn Canton and St. Olms <mark>Canton<\/mark> are residence cantons for commoners and paupers. The Temple charges...",
+            "fid" : "content" },
+          
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 492,
+            "context" : "...St. Delyn Canton and St. Olms Canton are residence <mark>cantons<\/mark> for commoners and paupers. The Temple charges very reasonable rents...",
+            "fid" : "content" },
+          
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 508,
+            "context" : "...most of Vvardenfell's crafts and light industry are housed in these <mark>cantons<\/mark>. The Abbey of St. Delyn the Wise is on...",
+            "fid" : "content" },
+          
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 637,
+            "context" : "...Quarter of Vivec. Low-fare gondolas shuttle passengers from <mark>canton<\/mark> to canton via Vivec's canals.",
+            "fid" : "content" },
+          
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 638,
+            "context" : "...Vivec. Low-fare gondolas shuttle passengers from canton to <mark>canton<\/mark> via Vivec's canals.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "...the largest cities in the East. Each of the great <mark>cantons<\/mark> is the size of a complete town. The High Fane...",
+            "fid" : "content" },
+          
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...and war games. Outlanders mostly confine themselves to the Foreign <mark>Canton<\/mark>, while natives live, work, and shop in the...",
+            "fid" : "content" },
+          
+          { "form" : "cantons",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...work, and shop in the Great House compounds and residential <mark>cantons<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 1411,
+            "context" : "<mark>Canton<\/mark> of St. Olms" },
+          
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 1771,
+            "context" : "Foreign <mark>Canton<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 1582,
+            "context" : "<mark>canton<\/mark> of st. olms",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 1940,
+            "context" : "foreign <mark>canton<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...is on the top steps of Vivec's Palace, the southernmost <mark>Canton<\/mark> of Vivec City. The customary donation for those in good...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "canton",
+            "weight" : "1",
+            "pos" : 789,
+            "context" : "...compared to the dreadful mattress he had to use at the <mark>canton<\/mark> in Tel Aruhn.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Canton",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...Council, Vvardenfell District, Free Trader, Yngling Manor, <mark>Canton<\/mark> of St. Olms, Vivec, District of Vvardenfell,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "smell",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smell",
+            "weight" : "1",
+            "pos" : 843,
+            "context" : "...heard the vault door in his study swing open. The <mark>smell<\/mark> of stoneflower filled his nose and he opened his eyes....",
+            "fid" : "content" } ] } ] }

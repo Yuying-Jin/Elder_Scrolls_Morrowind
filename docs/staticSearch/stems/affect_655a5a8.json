@@ -1,0 +1,48 @@
+
+  { "stem" : "affect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "affect",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...very powerful, and very dangerous. Normal weapons do not <mark>affect<\/mark> them.",
+            "fid" : "content" },
+          
+          { "form" : "affect",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...warriors of the Tribunal Temple report that spell effects known to <mark>affect<\/mark> the undead have no effect on ash vampires.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "affect",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...very powerful, and very dangerous. Normal weapons do not <mark>affect<\/mark> them.",
+            "fid" : "content" },
+          
+          { "form" : "affect",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...warriors of the Tribunal Temple report that spell effects known to <mark>affect<\/mark> the undead have no effect on ash vampires.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "affecting",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...\"ash vampire\" of Ashlanderlegend is not undead. Sorceries and blessings <mark>affecting<\/mark> the undead reportedly have no effect on these creatures. No...",
+            "fid" : "content" } ] } ] }

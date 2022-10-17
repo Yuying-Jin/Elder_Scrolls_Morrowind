@@ -1,0 +1,25 @@
+
+  { "stem" : "undecor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undecorated",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...style, built of local materials, with organic curves and <mark>undecorated<\/mark> exteriors inspired by the landscape and by the shells of giant...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undecorated",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...style, built of local materials, with organic curves and <mark>undecorated<\/mark> exteriors inspired by the landscape and by the shells of giant...",
+            "fid" : "content" } ] } ] }

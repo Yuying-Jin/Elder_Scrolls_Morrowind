@@ -1,0 +1,1913 @@
+
+  { "stem" : "book",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 148,
+        "contexts" : 
+        [ 
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "Boethiah's Pillow <mark>Book<\/mark>" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "<mark>Book<\/mark> of Life of Service" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "<mark>Book<\/mark> of Rest and Endings" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "Brown <mark>Book<\/mark> of 3E 426" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "No-h's Picture <mark>Book<\/mark> of Wood" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "Red <mark>Book<\/mark> of 3E 426" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "Sottilde's Code <mark>Book<\/mark>" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "The <mark>Book<\/mark> of Life and Service" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "Unnamed <mark>Book<\/mark>" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426" },
+          
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "  Items <mark>Books<\/mark> with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "  Items Books with Counts Link to First Mention in Each <mark>Book<\/mark>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 440,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 641,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 707,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 713,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 787,
+            "context" : "  Locations <mark>Books<\/mark> with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 792,
+            "context" : "  Locations Books with Counts Link to First Mention in Each <mark>Book<\/mark>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 803,
+            "context" : "No-h's Picture <mark>Book<\/mark> of Wood, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 874,
+            "context" : "Boethiah's Pillow <mark>Book<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 884,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 9",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 936,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1146,
+            "context" : "Boethiah's Pillow <mark>Book<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1149,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1182,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1264,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1310,
+            "context" : "Sottilde's Code <mark>Book<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1316,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1330,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1412,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1496,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1548,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1586,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1606,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1627,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1719,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1750,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1801,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1872,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1899,
+            "context" : "No-h's Picture <mark>Book<\/mark> of Wood, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2062,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2090,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2144,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2157,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2255,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2259,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2263,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2290,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2404,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2436,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2459,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2467,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "books",
+            "weight" : "1",
+            "pos" : 2520,
+            "context" : "jobasha's rare <mark>books<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2528,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2532,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2540,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2578,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2631,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2634,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2666,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2725,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2841,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 7",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2942,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3037,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3056,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3065,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3073,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3077,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3144,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 4",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3169,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3178,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3244,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3269,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3306,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3346,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3362,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3503,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3519,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3523,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3534,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3544,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3664,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3705,
+            "context" : "Sottilde's Code <mark>Book<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3747,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3761,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3793,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3822,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3852,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3873,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3920,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4063,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4102,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4163,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4173,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4182,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4203,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4207,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4218,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4322,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4375,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4614,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4707,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4760,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 14",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4765,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 11",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4849,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4902,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 4911,
+            "context" : "  Groups <mark>Books<\/mark> with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4916,
+            "context" : "  Groups Books with Counts Link to First Mention in Each <mark>Book<\/mark>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4926,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5075,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5160,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5282,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5625,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5629,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5661,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 5",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5702,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5776,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5826,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5984,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 15",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6103,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6159,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 6286,
+            "context" : "  Persons <mark>Books<\/mark> with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6291,
+            "context" : "  Persons Books with Counts Link to First Mention in Each <mark>Book<\/mark>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6408,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6468,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6478,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6529,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6695,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 11",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6835,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 10",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6909,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 11",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6925,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6933,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6944,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7036,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7141,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7177,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7189,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7211,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7263,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7286,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 7",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7393,
+            "context" : "Sottilde's Code <mark>Book<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7527,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7568,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7648,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7687,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 136,
+        "contexts" : 
+        [ 
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 2,
+            "context" : "    Items <mark>Books<\/mark> with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Locations Books..." },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "    Items Books with Counts Link to First Mention in Each <mark>Book<\/mark>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Locations Books with Counts Link to First Mention in Each Book..." },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 471,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 533,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 2" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 539,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 610,
+            "context" : "...Books with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Locations <mark>Books<\/mark> with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Groups Books..." },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 615,
+            "context" : "...Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 Locations Books with Counts Link to First Mention in Each <mark>Book<\/mark>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Groups Books with Counts Link to First Mention in Each Book..." },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 626,
+            "context" : "No-h's Picture <mark>Book<\/mark> of Wood, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 690,
+            "context" : "Boethiah's Pillow <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 700,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 9" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 725,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 973,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 978,
+            "context" : "Boethiah's Pillow <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1004,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1090,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1123,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1137,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1158,
+            "context" : "Sottilde's Code <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1229,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1333,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1368,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1415,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1435,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1456,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1550,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1581,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1620,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1701,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1728,
+            "context" : "No-h's Picture <mark>Book<\/mark> of Wood, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1880,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1918,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1962,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 2" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 1975,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2088,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2092,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2096,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2120,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2244,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2270,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2293,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2310,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 2354,
+            "context" : "Jobasha's Rare <mark>Books<\/mark>" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2362,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2366,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2371,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2409,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2456,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2473,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2494,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2539,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2672,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 7" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2773,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2858,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2883,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2892,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2900,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2904,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2969,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 4" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 2996,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3005,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3073,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3111,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3137,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3175,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3255,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3350,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3366,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3370,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3381,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3391,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3511,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3553,
+            "context" : "Sottilde's Code <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3591,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3605,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3641,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3723,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3921,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 3" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3940,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3947,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3978,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 3997,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4019,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4029,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4038,
+            "context" : "<mark>Book<\/mark> of Rest and Endings, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4059,
+            "context" : "<mark>Book<\/mark> of Life of Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4063,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4074,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4186,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4232,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 2" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4450,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4528,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4632,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 14" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4637,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 11" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4719,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4767,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 4801,
+            "context" : "...Books with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Groups <mark>Books<\/mark> with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Persons Books..." },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4806,
+            "context" : "...Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                Groups Books with Counts Link to First Mention in Each <mark>Book<\/mark>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Persons Books with Counts Link to First Mention in Each Book..." },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 4940,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5014,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5088,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5354,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5358,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5405,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 5" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5456,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5578,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5701,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 15" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5858,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5890,
+            "context" : "The Blue <mark>Book<\/mark> of Riddles, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 5897,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 4" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6067,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 6203,
+            "context" : "...Books with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Persons <mark>Books<\/mark> with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             " },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6208,
+            "context" : "...Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Persons Books with Counts Link to First Mention in Each <mark>Book<\/mark>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             " },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6333,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6385,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6395,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 2" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6421,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6597,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 11" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6667,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6731,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 10" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6792,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 11" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6808,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6816,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6824,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6908,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7009,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7052,
+            "context" : "The <mark>Book<\/mark> of Life and Service, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7061,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7079,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7135,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7161,
+            "context" : "Unnamed <mark>Book<\/mark>, count: 7" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7280,
+            "context" : "Sottilde's Code <mark>Book<\/mark>, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7429,
+            "context" : "Yellow <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7508,
+            "context" : "Red <mark>Book<\/mark> of 3E 426, count: 1" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 7538,
+            "context" : "The <mark>Book<\/mark> of Dawn and Dusk, count: 1" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "Red <mark>Book<\/mark> of Great House Redoran",
+            "fid" : "content" },
+          
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "[The Red <mark>Book<\/mark> is a yearbook of the affairs of the Redoran Council of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Capns_Guide_to_the_Fishy_Stick",
+        "docUri" : "librarium\/Capns_Guide_to_the_Fishy_Stick.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "book",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "This <mark>book<\/mark> is supposedly the definitive reference to fishy sticks throughout Tamriel,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "books",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "For those who would be wise, these sacred <mark>books<\/mark> will be of interest.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Books",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Jobasha's Rare <mark>Books<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "book",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "[Upon reaching the last page of the <mark>book<\/mark>, the words 'Boat Ack', are seen scrawled about the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Book",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Book<\/mark> Table",
+            "fid" : "ssForm" } ] } ] }

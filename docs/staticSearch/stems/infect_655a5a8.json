@@ -1,0 +1,25 @@
+
+  { "stem" : "infect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "infection",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...to the Imperial Palace. There, we will report the evil <mark>infection<\/mark> and return with a regimental force of rescue. May the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "infecting",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "...for fear that it may encourage depraved thrill seekers from deliberately <mark>infecting<\/mark> themselves.",
+            "fid" : "content" } ] } ] }

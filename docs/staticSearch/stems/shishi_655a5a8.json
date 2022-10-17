@@ -1,0 +1,59 @@
+
+  { "stem" : "shishi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shishi",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "<mark>Shishi<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shishi",
+            "weight" : "1",
+            "pos" : 3475,
+            "context" : "<mark>Shishi<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shishi",
+            "weight" : "1",
+            "pos" : 3628,
+            "context" : "<mark>shishi<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shishi",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "<mark>Shishi<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shishi",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "<mark>Shishi<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

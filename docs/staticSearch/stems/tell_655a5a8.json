@@ -1,0 +1,53 @@
+
+  { "stem" : "tell",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tell",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "“That is why I'm drinking now,” sighed Silverthorn. “So <mark>tell<\/mark> me, what is your profession?”",
+            "fid" : "content" },
+          
+          { "form" : "telling",
+            "weight" : "1",
+            "pos" : 347,
+            "context" : "...an interest in your work, but it's like I was <mark>telling<\/mark> Ser Calissiah Vignum the other day, I said Calissah,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tell",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...there at the best price you can get. I cannot <mark>tell<\/mark> you how many times I passed up a rare and interesting...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tell",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "And I <mark>tell<\/mark> them, \"You want to join the Guild. Make friends....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tell",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...the living is lost. My name is Samar Starlover. <mark>Tell<\/mark> my sister I am dead, and if all the seas...",
+            "fid" : "content" } ] } ] }

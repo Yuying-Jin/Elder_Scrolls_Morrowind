@@ -1,0 +1,25 @@
+
+  { "stem" : "godhead",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "godhead",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...suggest that the Tribunal relied on profanely enchanted tools to achieve <mark>godhead<\/mark>, and that those unholy devices were the ones originally created...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "godhead",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...suggest that the Tribunal relied on profanely enchanted tools to achieve <mark>godhead<\/mark>, and that those unholy devices were the ones originally created...",
+            "fid" : "content" } ] } ] }

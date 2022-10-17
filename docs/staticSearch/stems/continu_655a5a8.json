@@ -1,0 +1,64 @@
+
+  { "stem" : "continu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "continued",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...flash, Vanis was dead by Baranat's hands. The adventurer <mark>continued<\/mark> on until he reached the second youngest Coribael brother, Feryn...",
+            "fid" : "content" },
+          
+          { "form" : "continued",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...and drowned. Baranat pulled himself out of the river and <mark>continued<\/mark> down the valley, until he reached the camp. Airen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "continual",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "..., determined to drown themselves rather than live in such a <mark>continual<\/mark> state of fear. But just as they got near the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "continuing",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...[an imported fortified Imperial alcoholic beverage]. The council protests the <mark>continuing<\/mark> burdensome tariffs on the native beverages sujamma, greef, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "continued",
+            "weight" : "1",
+            "pos" : 357,
+            "context" : "Liah <mark>continued<\/mark> to talk, deaf to the fact that her words were...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "continued",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...was not very well. Oin held back his happiness and <mark>continued<\/mark> on his errands.",
+            "fid" : "content" } ] } ] }

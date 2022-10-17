@@ -1,0 +1,14 @@
+
+  { "stem" : "ofconfront",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ofConfrontation",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "\"The Test <mark>ofConfrontation<\/mark> requires the observer to examine the obstacle, and compare his...",
+            "fid" : "content" } ] } ] }

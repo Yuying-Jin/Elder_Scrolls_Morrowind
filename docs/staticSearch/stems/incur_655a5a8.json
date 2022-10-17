@@ -1,0 +1,26 @@
+
+  { "stem" : "incur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "incurable",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : ".... After symptoms are exhibited, however, the disease is <mark>incurable<\/mark> and irreversible....",
+            "fid" : "content" },
+          
+          { "form" : "incurable",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "...of vampire Hunters is unknown. Vampirism is known to be <mark>incurable<\/mark>, and even if it were curable, a cured vampire...",
+            "fid" : "content" },
+          
+          { "form" : "incurable",
+            "weight" : "1",
+            "pos" : 390,
+            "context" : "... Though the Dunmer believe the disease is <mark>incurable<\/mark>, a Buoyant Armiger of former years named Galur Rithari insisted...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "skelet",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skeletal",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...If their decay is advanced, or if you wish a <mark>skeletal<\/mark> servant instead, place the corpse along a coast or in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skeletal",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...practice will reveal the best methods of binding and reinforcing the <mark>skeletal<\/mark> servant. Amateurs often make the mistake of binding the bones...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skeletal",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...more from its spirit energies than from the substance of its <mark>skeletal<\/mark> remains. Bonelords are very powerful, and very dangerous....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skeletal",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...more from its spirit energies than from the substance of its <mark>skeletal<\/mark> remains. Bonelords are very powerful, and very dangerous....",
+            "fid" : "content" } ] } ] }

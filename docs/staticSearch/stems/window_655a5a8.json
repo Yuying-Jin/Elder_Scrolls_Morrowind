@@ -1,0 +1,14 @@
+
+  { "stem" : "window",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "window",
+            "weight" : "1",
+            "pos" : 828,
+            "context" : "...of his old house. Afternoon sunlight came through his bedroom <mark>window<\/mark> in ribbons, catching dust. He closed his eyes....",
+            "fid" : "content" } ] } ] }

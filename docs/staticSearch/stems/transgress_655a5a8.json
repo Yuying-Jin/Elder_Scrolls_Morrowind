@@ -1,0 +1,14 @@
+
+  { "stem" : "transgress",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "transgress",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...Perform holy quests and bring luster to the Temple. Never <mark>transgress<\/mark> against your brothers or sisters, and never dishonor your house...",
+            "fid" : "content" } ] } ] }

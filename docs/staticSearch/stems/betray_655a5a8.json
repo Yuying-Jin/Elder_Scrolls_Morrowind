@@ -1,0 +1,36 @@
+
+  { "stem" : "betray",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "betrayal",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...to defend. It was a cruel blow, a bitter <mark>betrayal<\/mark>, to be felled by your hand.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "betrayal",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...cast into Oblivion. However, in the instant of his <mark>betrayal<\/mark>, Dagon struck out against the mortal who tricked him. Chimere's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "betrayed",
+            "weight" : "1",
+            "pos" : 706,
+            "context" : "...so would their moods. The chain of reactions that every <mark>betrayed<\/mark> person exhibits: nervousness, doubt, bewilderment, anger....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "bier",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "biers",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "Smokes and shades on the <mark>biers<\/mark> of Red Mountain.",
+            "fid" : "content" } ] } ] }

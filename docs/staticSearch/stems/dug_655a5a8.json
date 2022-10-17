@@ -1,0 +1,14 @@
+
+  { "stem" : "dug",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dug",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...and it turned out to be a fruitless quest. Harithoel <mark>dug<\/mark> deeply, but there were no springs under the island,...",
+            "fid" : "content" } ] } ] }

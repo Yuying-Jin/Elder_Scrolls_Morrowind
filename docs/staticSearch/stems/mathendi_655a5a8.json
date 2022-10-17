@@ -1,0 +1,37 @@
+
+  { "stem" : "mathendi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mathendis",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...for their councilor mage-lords) Felisa Ulessen, Galos <mark>Mathendis<\/mark>, Arara Uvulas, Mallam Ryon, Raven Omayn, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mathendis",
+            "weight" : "1",
+            "pos" : 6859,
+            "context" : "Galos <mark>Mathendis<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mathendis",
+            "weight" : "1",
+            "pos" : 6983,
+            "context" : "galos <mark>mathendis<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "leg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "legs",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...with one finger while rotating hoops in ornate patterns with her <mark>legs<\/mark>. Master Mearvis will take a simple ebony blade --\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "legs",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "..., the two men could be saved. With his broken <mark>legs<\/mark>, he was a pathetic predator and he was soon reduced...",
+            "fid" : "content" } ] } ] }

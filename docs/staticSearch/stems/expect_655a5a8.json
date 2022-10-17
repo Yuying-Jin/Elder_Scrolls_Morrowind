@@ -1,0 +1,70 @@
+
+  { "stem" : "expect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "expected",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...which reduces the number of available corpses. As would be <mark>expected<\/mark> from such a backwards people, they have an intolerance of...",
+            "fid" : "content" },
+          
+          { "form" : "expect",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...A Necromancer of any other race caught in Summerset Isle can <mark>expect<\/mark> the worst possible punishments.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "expect",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...Conjuration, Illusion, Alteration, Destruction and Enchanting - can <mark>expect<\/mark> to advance faster and higher in the ranks.",
+            "fid" : "content" },
+          
+          { "form" : "expect",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...Council Hall in Sadrith Mora for acceptance in House Telvanni can <mark>expect<\/mark> a cordial welcome.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expected",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : " Bargaining is <mark>expected<\/mark> all over Tamriel, but the game can be broken if...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expected",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...the model for the duties of Imperial citizenship. Troopers are <mark>expected<\/mark> to demonstrate mastery of the long blade, the spear and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expect",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : ".... You can't just stab at every back you encounter and <mark>expect<\/mark> to make it into the vaults.\"",
+            "fid" : "content" } ] } ] }

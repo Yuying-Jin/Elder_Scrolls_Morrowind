@@ -1,0 +1,14 @@
+
+  { "stem" : "sale",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sale",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...practical purpose, allowing the buyer to observe the wares for <mark>sale<\/mark>. It is considered impolite not to accept, though it...",
+            "fid" : "content" } ] } ] }

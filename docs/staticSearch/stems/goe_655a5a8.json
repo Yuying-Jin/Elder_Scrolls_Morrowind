@@ -1,0 +1,25 @@
+
+  { "stem" : "goe",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "goes",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...a backwards people, they have an intolerance of Necromancy that <mark>goes<\/mark> beyond all reason. Many Necromancers who practice our Arts in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "goes",
+            "weight" : "1",
+            "pos" : 346,
+            "context" : "...town wall, north of West Gate. Silt strider service <mark>goes<\/mark> from Ald'ruhn to Balmora, Gnisis, Khuul, or Maar...",
+            "fid" : "content" } ] } ] }

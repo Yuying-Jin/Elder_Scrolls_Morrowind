@@ -1,0 +1,56 @@
+
+  { "stem" : "sadright",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Sadright",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "<mark>Sadright<\/mark> Mora: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Sadright",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...in the towns of Ald'ruhn and Balmora. The chapter in <mark>Sadright<\/mark> Mora is established in Wolverine Hall: Sadrith Mora Fighters Guild...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Sadright",
+            "weight" : "1",
+            "pos" : 3148,
+            "context" : "<mark>Sadright<\/mark> Mora" },
+          
+          { "form" : "Sadright",
+            "weight" : "1",
+            "pos" : 4741,
+            "context" : "Wolverine Hall: <mark>Sadright<\/mark> Mora Fighters Guild" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sadright",
+            "weight" : "1",
+            "pos" : 3319,
+            "context" : "<mark>sadright<\/mark> mora",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "sadright",
+            "weight" : "1",
+            "pos" : 4869,
+            "context" : "wolverine hall: <mark>sadright<\/mark> mora fighters guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

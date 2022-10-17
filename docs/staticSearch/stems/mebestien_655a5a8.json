@@ -1,0 +1,37 @@
+
+  { "stem" : "mebestien",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mebestien",
+            "weight" : "1",
+            "pos" : 2958,
+            "context" : "Pelagiad,_<mark>Mebestien<\/mark>_Ence:_Trader" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mebestien",
+            "weight" : "1",
+            "pos" : 3133,
+            "context" : "pelagiad, <mark>mebestien<\/mark> ence: trader",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mebestien",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "Pelagiad, <mark>Mebestien<\/mark> Ence: Trader: Visitable? yes",
+            "fid" : "acq" } ] } ] }

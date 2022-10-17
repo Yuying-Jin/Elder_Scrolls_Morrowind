@@ -1,0 +1,121 @@
+
+  { "stem" : "delyn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Delyn's",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...cross -- Redoran Compound northwest, Arena northeast, St. <mark>Delyn's<\/mark> Canton southwest, and St. Olms Canton southeast.",
+            "fid" : "content" },
+          
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "...to maintain their residences in the less-formal St. <mark>Delyn<\/mark> and St. Olms cantons.",
+            "fid" : "content" },
+          
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 480,
+            "context" : " St. <mark>Delyn<\/mark> and St. Olms Residential Cantons",
+            "fid" : "content" },
+          
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 486,
+            "context" : " St. <mark>Delyn<\/mark> Canton and St. Olms Canton are residence cantons for commoners...",
+            "fid" : "content" },
+          
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 511,
+            "context" : "...are housed in these cantons. The Abbey of St. <mark>Delyn<\/mark> the Wise is on the top tier of St. Delyn...",
+            "fid" : "content" },
+          
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 516,
+            "context" : "...Delyn the Wise is on the top tier of St. <mark>Delyn<\/mark>, and Hlaalu Councilor Yngling Half-Troll has a top...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 4082,
+            "context" : "The Abbey of St. <mark>Delyn<\/mark> the Wise" },
+          
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 6492,
+            "context" : "<mark>Delyn<\/mark>" },
+          
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 7292,
+            "context" : "St.<mark>Delyn<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "delyn",
+            "weight" : "1",
+            "pos" : 4226,
+            "context" : "the abbey of st. <mark>delyn<\/mark> the wise",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "delyn",
+            "weight" : "1",
+            "pos" : 6599,
+            "context" : "<mark>delyn<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "delyn",
+            "weight" : "1",
+            "pos" : 7405,
+            "context" : "st.<mark>delyn<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "St. <mark>Delyn<\/mark> grants Shield of St. Delyn, for resistance to blight...",
+            "fid" : "content" },
+          
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "St. Delyn grants Shield of St. <mark>Delyn<\/mark>, for resistance to blight diseases.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Delyn",
+            "weight" : "1",
+            "pos" : 504,
+            "context" : "Saint <mark>Delyn<\/mark> the Wise watched the young adventurer from a cloud in the...",
+            "fid" : "content" } ] } ] }

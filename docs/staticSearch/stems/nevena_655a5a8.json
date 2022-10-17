@@ -1,0 +1,37 @@
+
+  { "stem" : "nevena",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nevena",
+            "weight" : "1",
+            "pos" : 7426,
+            "context" : "<mark>Nevena<\/mark> Ules" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nevena",
+            "weight" : "1",
+            "pos" : 7565,
+            "context" : "<mark>nevena<\/mark> ules",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nevena",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "Mistress <mark>Nevena<\/mark> Ules, by Grace of Almsivi, Honored Councilor of Hlaalu...",
+            "fid" : "content" } ] } ] }

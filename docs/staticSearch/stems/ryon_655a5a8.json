@@ -1,0 +1,54 @@
+
+  { "stem" : "ryon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Ryon",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...Council Hall, Sadrith Mora For Archmagister Gothren: Mouth Mallam <mark>Ryon<\/mark>, Mage For Master Aryon: Mouth Arara Uvulas For Master...",
+            "fid" : "content" },
+          
+          { "form" : "Ryon",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...Mistress Therana: Felisa Ulessen For Mistress Dratha: Mouth Mallam <mark>Ryon<\/mark> Council Actions In response to repeated protests from Duke Dren and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ryon",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...) Felisa Ulessen, Galos Mathendis, Arara Uvulas, Mallam <mark>Ryon<\/mark>, Raven Omayn, and Dalyne Arvel, Telvanni Council clerk...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ryon",
+            "weight" : "1",
+            "pos" : 7111,
+            "context" : "Mallam <mark>Ryon<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ryon",
+            "weight" : "1",
+            "pos" : 7236,
+            "context" : "mallam <mark>ryon<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

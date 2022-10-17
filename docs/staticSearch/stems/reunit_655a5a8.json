@@ -1,0 +1,25 @@
+
+  { "stem" : "reunit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reunited",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...I am not sorrowful though, for I will be eternally <mark>reunited<\/mark> with Dragonne Papré. Hope for the living is lost....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reunited",
+            "weight" : "1",
+            "pos" : 746,
+            "context" : "Oin burst into the room and was <mark>reunited<\/mark> with Benitah. They were married at once. A week later...",
+            "fid" : "content" } ] } ] }

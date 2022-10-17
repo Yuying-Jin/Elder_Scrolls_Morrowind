@@ -1,0 +1,64 @@
+
+  { "stem" : "rout",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "route",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "...to Maar Gan and Gnisis villages and by a circuitous western <mark>route<\/mark> to Caldera, Balmora, and points south. The road...",
+            "fid" : "content" },
+          
+          { "form" : "routes",
+            "weight" : "1",
+            "pos" : 377,
+            "context" : "...coast and then south; there are no trails or marked <mark>routes<\/mark>. Casual travelers ill-equipped for the attacks of wild...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "routes",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...of creatures and pests, the delivery of goods on dangerous <mark>routes<\/mark>, the collection of beasts for the arenas, and other...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "route",
+            "weight" : "1",
+            "pos" : 1193,
+            "context" : "...a small mining and trade village astride the silt strider caravan <mark>route<\/mark> between the northwest West Gash and Ald'ruhn.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "route",
+            "weight" : "1",
+            "pos" : 593,
+            "context" : "...the Ghostfence, just northeast of the Ghostgate itself. The safest <mark>route<\/mark> to Ghostgate is along the Foyada Mamaea, a volcanic ravine...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "route",
+            "weight" : "1",
+            "pos" : 548,
+            "context" : "...parted ways. The only person who knew the most covert <mark>route<\/mark> through the city's sewer system, Lledos, slipped in through...",
+            "fid" : "content" } ] } ] }

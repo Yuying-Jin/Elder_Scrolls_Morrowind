@@ -1,0 +1,48 @@
+
+  { "stem" : "dagger",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "daggers",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...You travel light and fast, and want light arms like <mark>daggers<\/mark> and shortswords. You don't want to get into a slugging...",
+            "fid" : "dagger" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dagger",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "<mark>dagger<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dagger",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "<mark>dagger<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dagger",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...himself more greef, warming to his subject. \"Sticks his <mark>dagger<\/mark> in his opponent's back. This may slay the target,...",
+            "fid" : "content" } ] } ] }

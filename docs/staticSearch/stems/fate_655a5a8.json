@@ -1,0 +1,36 @@
+
+  { "stem" : "fate",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fate",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "..., and to contemplate the tragic consequences of his defiance of <mark>fate<\/mark> and fortune in cheating a Daedra Lord.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fate",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "<mark>Fate<\/mark>, monstrous and empty, the whirling wheel of evil....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fates",
+            "weight" : "1",
+            "pos" : 409,
+            "context" : "...confidence or stupidity were driving the other two, but the <mark>fates<\/mark> were aligned. The guildhouse was going to be robbed....",
+            "fid" : "content" } ] } ] }

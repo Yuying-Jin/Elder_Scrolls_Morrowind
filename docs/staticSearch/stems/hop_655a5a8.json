@@ -1,0 +1,25 @@
+
+  { "stem" : "hop",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hops",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "What is green and <mark>hops<\/mark> and sizzles on lava?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hopping",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...Jereth will dazzle you as he juggles fifteen flaming globes while <mark>hopping<\/mark> across broken glass. Master Tulkiande will astound you as she...",
+            "fid" : "content" } ] } ] }

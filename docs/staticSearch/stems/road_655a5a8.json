@@ -1,0 +1,144 @@
+
+  { "stem" : "road",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Roads",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : " <mark>Roads<\/mark> lead northwest to Maar Gan and Gnisis villages and by a...",
+            "fid" : "content" },
+          
+          { "form" : "road",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "...route to Caldera, Balmora, and points south. The <mark>road<\/mark> to Balmora swings northwest to avoid the barren wastes, and...",
+            "fid" : "content" },
+          
+          { "form" : "roads",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "...the attacks of wild beasts and brigands should keep to the <mark>roads<\/mark> and travel services.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "roads",
+            "weight" : "1",
+            "pos" : 549,
+            "context" : "...and between the east bay region and Telvanni Compound. Good <mark>roads<\/mark> lead from the Hlaalu Compound bridge south to Ebonheart and north...",
+            "fid" : "content" },
+          
+          { "form" : "roads",
+            "weight" : "1",
+            "pos" : 562,
+            "context" : "...Ebonheart and north to Seyda Neen and points north. Good <mark>roads<\/mark> lead from the Foreign Quarter bridge west towards Seyda Neen,...",
+            "fid" : "content" },
+          
+          { "form" : "Roads",
+            "weight" : "1",
+            "pos" : 580,
+            "context" : "...and the Ascadian Isles, and east towards Molag Mar. <mark>Roads<\/mark> from the Telvanni Compound bridge are useful mostly for travelers to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "roads",
+            "weight" : "1",
+            "pos" : 484,
+            "context" : "...and Dagon Fel on the north coast. There are no <mark>roads<\/mark>; most travel is by boat. Despite the rocky terrain...",
+            "fid" : "content" },
+          
+          { "form" : "roads",
+            "weight" : "1",
+            "pos" : 848,
+            "context" : "...the plains in search of fresh grazing. There are no <mark>roads<\/mark> or tracks, but travel is easy across the open plains...",
+            "fid" : "content" },
+          
+          { "form" : "roads",
+            "weight" : "1",
+            "pos" : 1116,
+            "context" : "...and the largest settlement on Vvardenfell after Vivec City. Good <mark>roads<\/mark> lead north to Ald'ruhn and south to Caldera, Seyda Neen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "road",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...rocks, and most easily noticed while traveling east along the <mark>road<\/mark>. Alof's farm nearby has a small dock on the north...",
+            "fid" : "content" },
+          
+          { "form" : "road",
+            "weight" : "1",
+            "pos" : 453,
+            "context" : "...Gnisis Temple, in the village of Gnisis, northwest by <mark>road<\/mark> from the town of Ald'ruhn. When you address the shrine...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "road",
+            "weight" : "1",
+            "pos" : 481,
+            "context" : "...the skills of the prudent traveler, being often on the <mark>road<\/mark> and in the wilderness, gathering herbs and potion components....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "road",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : " Sadrith Mora is an island; there's no <mark>road<\/mark> or bridge to the mainland. To visit the mainland,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "road",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "Why did the Dark Elf cross the <mark>road<\/mark>?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Road",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "Pilgrim on the <mark>Road<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "road",
+            "weight" : "1",
+            "pos" : 599,
+            "context" : "On the <mark>road<\/mark> to Vivec, he thought of Galsiah and Imalyn. Perhaps...",
+            "fid" : "content" } ] } ] }

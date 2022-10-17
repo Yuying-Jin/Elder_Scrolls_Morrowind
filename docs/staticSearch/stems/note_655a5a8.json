@@ -1,0 +1,69 @@
+
+  { "stem" : "note",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "note",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "One more <mark>note<\/mark> to the student: While most undead can be raised again...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Note",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...the weakest vampire is immeasurably stronger than most other undead. <mark>Note<\/mark>: Ash vampires are not vampires, and are not undead...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Note",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "Council Affairs of <mark>Note<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "noted",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "\"...I have <mark>noted<\/mark> that Heartlanders like myself, and assimilated Imperial Citizens of other races...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Note",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "...the weakest vampire is immeasurably stronger than most other undead. <mark>Note<\/mark>: Ash vampires are not vampires, and are not undead...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Note",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "Council Affairs of <mark>Note<\/mark>",
+            "fid" : "content" } ] } ] }

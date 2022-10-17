@@ -1,0 +1,25 @@
+
+  { "stem" : "sainthood",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sainthood",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "...divinity of the Tribunal, the Dissidents do not challenge the <mark>sainthood<\/mark> or heroism of the Tribunal. In fact, the Dissident...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sainthood",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "...divinity of the Tribunal, the Dissidents do not challenge the <mark>sainthood<\/mark> or heroism of the Tribunal. In fact, the Dissident...",
+            "fid" : "content" } ] } ] }

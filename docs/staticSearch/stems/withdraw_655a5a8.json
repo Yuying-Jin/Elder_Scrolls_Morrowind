@@ -1,0 +1,14 @@
+
+  { "stem" : "withdraw",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "withdrawing",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...ambush, first poisoning the victim with a bite, then <mark>withdrawing<\/mark> to a safe distance, returning to feed only when the...",
+            "fid" : "content" } ] } ] }

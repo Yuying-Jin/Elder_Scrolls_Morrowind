@@ -1,0 +1,64 @@
+
+  { "stem" : "ground",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...a potion that allows the user to glide safely above the <mark>ground<\/mark> can be made.",
+            "fid" : "content" },
+          
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : ".... The plant is very difficult to find as its above <mark>ground<\/mark> foliage is very meager and scrawny. But the Arrowroot itself...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...the strider port, while the Temple is located on high <mark>ground<\/mark> to the east, and surrounded by a residential section....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...lay himself down in a quiet corner of its feeding-<mark>ground<\/mark>. His healthy companions came in great numbers to inquire after...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "1 pound of <mark>ground<\/mark> meat (mixed rat and hound)",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ground",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...is spirit-affinitive dust taken from remains buried in consecrated <mark>ground<\/mark>. green lichen is a hardy primitive plant that grows in...",
+            "fid" : "content" } ] } ] }

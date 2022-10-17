@@ -1,0 +1,14 @@
+
+  { "stem" : "fourfold",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fourfold",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "Your <mark>fourfold<\/mark> duties are to: Faith, Family, Masters, and all...",
+            "fid" : "content" } ] } ] }

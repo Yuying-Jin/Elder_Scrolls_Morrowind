@@ -1,0 +1,59 @@
+
+  { "stem" : "shara",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shara",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "<mark>Shara<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shara",
+            "weight" : "1",
+            "pos" : 3429,
+            "context" : "<mark>Shara<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shara",
+            "weight" : "1",
+            "pos" : 3582,
+            "context" : "<mark>shara<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shara",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "<mark>Shara<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shara",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "<mark>Shara<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "tariff",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tariffs",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...Llethan, High Councilor and Lord of Morrowind, imposes favorable <mark>tariffs<\/mark> on flin [an imported fortified Imperial alcoholic beverage]. The council...",
+            "fid" : "content" },
+          
+          { "form" : "tariffs",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...fortified Imperial alcoholic beverage]. The council protests the continuing burdensome <mark>tariffs<\/mark> on the native beverages sujamma, greef, and shein....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tariffs",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...Lord of Morrowind, grants relief to merchants complaining of high <mark>tariffs<\/mark> on imported alcoholic beverages.",
+            "fid" : "content" },
+          
+          { "form" : "tariffs",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "...over the high tax rates and the injurious effect of high <mark>tariffs<\/mark> on trade.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "feel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feel",
+            "weight" : "1",
+            "pos" : 390,
+            "context" : "...secret imprisonment to discourage heresy and dissent. The Dissident priests <mark>feel<\/mark> the Ordinators are either out of control, or tools used...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feel",
+            "weight" : "1",
+            "pos" : 390,
+            "context" : "...secret imprisonment to discourage heresy and dissent. The Dissident priests <mark>feel<\/mark> the Ordinators are either out of control, or tools used...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feel",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...under constant review and judgement by their gods; the Dunmer <mark>feel<\/mark> that all they think and do is under the ever-...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feel",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...go? Do you laugh and cry, but no longer <mark>feel<\/mark>? Do you wear these masks? Then, perhaps, your...",
+            "fid" : "content" } ] } ] }

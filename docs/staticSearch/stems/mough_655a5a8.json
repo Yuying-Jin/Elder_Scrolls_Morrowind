@@ -1,0 +1,20 @@
+
+  { "stem" : "mough",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mough",
+            "weight" : "1",
+            "pos" : 626,
+            "context" : "...Ser Priif. Now, behold the power of the remarkable Gazouf <mark>Mough<\/mark>,\" said Oin, and prompted Priif's sparring partner to attack...",
+            "fid" : "content" },
+          
+          { "form" : "Mough",
+            "weight" : "1",
+            "pos" : 671,
+            "context" : "\"Have you heard about the remarkable Gazouf <mark>Mough<\/mark>?\" Kena Yakin Bael was asking. \"He sounds like a...",
+            "fid" : "content" } ] } ] }

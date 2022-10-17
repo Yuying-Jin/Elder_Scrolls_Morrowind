@@ -1,0 +1,14 @@
+
+  { "stem" : "battlefield",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "battlefields",
+            "weight" : "1",
+            "pos" : 346,
+            "context" : "...south. There are still many corpses easily taken from the <mark>battlefields<\/mark> of the War of Betony and the lawless times that followed...",
+            "fid" : "content" } ] } ] }

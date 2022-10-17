@@ -1,0 +1,14 @@
+
+  { "stem" : "martyr",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Martyr",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "Saint Roris the <mark>Martyr<\/mark> appeared before Baranat with flesh like sparkling gems, and smiled...",
+            "fid" : "content" } ] } ] }

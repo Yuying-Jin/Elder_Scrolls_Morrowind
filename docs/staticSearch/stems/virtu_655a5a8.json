@@ -1,0 +1,115 @@
+
+  { "stem" : "virtu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "virtues",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...Great Houses with holdings on Vvardenfell. The Redoran prize the <mark>virtues<\/mark> of duty, gravity, and piety. Duty is to...",
+            "fid" : "content" },
+          
+          { "form" : "virtues",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...earnestness. Piety is respect for the gods, and the <mark>virtues<\/mark> they represent. A light, careless life is not worth...",
+            "fid" : "content" },
+          
+          { "form" : "virtue",
+            "weight" : "1",
+            "pos" : 391,
+            "context" : "...According to Telvanni principles, the powerful define the standards of <mark>virtue<\/mark>, and the Telvanni are unwilling to allow the ambitious Hlaalu...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "virtue",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...the Dwarves, and achieved divine substance through superhuman discipline and <mark>virtue<\/mark> and supernatural wisdom and insight. Like loving ancestors, they...",
+            "fid" : "content" },
+          
+          { "form" : "virtue",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...of the Lords and Saints, and gain blessings and learn <mark>virtue<\/mark> by suffering and overcoming hardships.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "virtue",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...selects candidates on the basis of superior endurance, the soldierly <mark>virtue<\/mark>, and trustworthy personality, the citizen's virtue, for service...",
+            "fid" : "content" },
+          
+          { "form" : "virtue",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "..., the soldierly virtue, and trustworthy personality, the citizen's <mark>virtue<\/mark>, for service in the Legion is the model for the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Virtues",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "..., Julianos, and Tiber Septim. We preach the Nine <mark>Virtues<\/mark>: Humility, Inspiration, Piety, Work, Compassion,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "virtue",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...Temple doctrine claims their apotheosis was miraculously achieved through questing, <mark>virtue<\/mark>, knowledge, testing, and battling with Evil; Temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "virtue",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...Temple doctrine claims their apotheosis was miraculously achieved through questing, <mark>virtue<\/mark>, knowledge, testing, and battling with Evil; Temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "virtues",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...them the unseen and unlooked-for path. Have you these <mark>virtues<\/mark>? Then, perhaps, your oath and service may please the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "virtues",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...the Tribunal, the triune ALMSIVI, three deities exemplifying Dunmeri <mark>virtues<\/mark>. Almalexia is Mercy, Vivec is Mastery, and Sotha...",
+            "fid" : "content" } ] } ] }

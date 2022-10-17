@@ -1,0 +1,14 @@
+
+  { "stem" : "fatigu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fatigue",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "To restore <mark>fatigue<\/mark> after heavy exertion, combine two or more of the following...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "dunmeri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dunmeri",
+            "weight" : "1",
+            "pos" : 5208,
+            "context" : "<mark>Dunmeri<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dunmeri",
+            "weight" : "1",
+            "pos" : 5405,
+            "context" : "<mark>dunmeri<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dunmeri",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...called the Tribunal, the triune ALMSIVI, three deities exemplifying <mark>Dunmeri<\/mark> virtues. Almalexia is Mercy, Vivec is Mastery, and...",
+            "fid" : "Dunmeri" } ] } ] }

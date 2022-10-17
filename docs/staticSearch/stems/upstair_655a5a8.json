@@ -1,0 +1,14 @@
+
+  { "stem" : "upstair",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "upstairs",
+            "weight" : "1",
+            "pos" : 772,
+            "context" : "...the gold into the vault in his study, and went <mark>upstairs<\/mark>. The schedule had been tight, but Sathis had given...",
+            "fid" : "content" } ] } ] }

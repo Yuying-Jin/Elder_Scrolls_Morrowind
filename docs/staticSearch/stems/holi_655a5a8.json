@@ -1,0 +1,64 @@
+
+  { "stem" : "holi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "holy",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "Morrowind is <mark>holy<\/mark> country, and its gods are flesh and blood. Collectively...",
+            "fid" : "content" },
+          
+          { "form" : "holy",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "..., the gate to hell. He is part of the <mark>holy<\/mark> Tribunal, a god of the New Temple, and an...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "holy",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...Family, Masters, and all that is good. Perform <mark>holy<\/mark> quests and bring luster to the Temple. Never transgress against...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "holy",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...residential cantons. But most of all, this is Lord Vivec's <mark>holy<\/mark> city. The Ministry of Truth, the Temple prison,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "holy",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...substance may indeed be preserved by some magical process, the <mark>holy<\/mark> warriors of the Tribunal Temple report that spell effects known to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "holy",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...substance may indeed be preserved by some magical process, the <mark>holy<\/mark> warriors of the Tribunal Temple report that spell effects known to...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,103 @@
+
+  { "stem" : "keep",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "keep",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...you'd like us to do?\" asked Galsiah calmly, trying to <mark>keep<\/mark> the tone of the group down. Most locals at the Plot...",
+            "fid" : "content" },
+          
+          { "form" : "keep",
+            "weight" : "1",
+            "pos" : 338,
+            "context" : "...wadded cloth on the aft-side of their knives to <mark>keep<\/mark> blood from getting on their cuffs. It's impractical for this...",
+            "fid" : "content" },
+          
+          { "form" : "keep",
+            "weight" : "1",
+            "pos" : 576,
+            "context" : "...headed east into the park, trusting his unnatural senses to <mark>keep<\/mark> him away from the citywatch.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "keep",
+            "weight" : "1",
+            "pos" : 550,
+            "context" : " A shrine sergeant helps <mark>keep<\/mark> order at the shrines, carries messages and packages, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "keep",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...must be fast and agile. You must be able to <mark>keep<\/mark> up with business and with the times. You must be...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "keep",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "...-equipped for the attacks of wild beasts and brigands should <mark>keep<\/mark> to the roads and travel services.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "keep",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...and dart. You want light armor, so you can <mark>keep<\/mark> moving, and moving fast.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "keeping",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...an oath against the Powers which he had no intention of <mark>keeping<\/mark>. The Hide of the Savior turned Dagon's titanic fury long...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "keep",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...vigorously defend the right to own slaves, and since they <mark>keep<\/mark> many Argonian and Khajiit as slaves, many Argonians and Khajiit...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Keep",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "<mark>Keep<\/mark> no secret from your Judge's scale.",
+            "fid" : "content" } ] } ] }

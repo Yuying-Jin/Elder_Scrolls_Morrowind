@@ -1,0 +1,59 @@
+
+  { "stem" : "throw",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throwing",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...you want the marksman's weapons -- the bow, crossbow, <mark>throwing<\/mark> star, and dart. You want light armor, so...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throwing",
+            "weight" : "1",
+            "pos" : 544,
+            "context" : "<mark>throwing<\/mark> star" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throwing",
+            "weight" : "1",
+            "pos" : 718,
+            "context" : "<mark>throwing<\/mark> star",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throwing",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...and with great accuracy. He could hit a fish by <mark>throwing<\/mark> the spear or by plunging at one at his feet....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throwing",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "...when you're only anticipating one or two victims, nothing beats <mark>throwing<\/mark> a sack over the targets [sic] head, drawing...",
+            "fid" : "content" } ] } ] }

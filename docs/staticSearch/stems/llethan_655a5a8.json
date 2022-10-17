@@ -1,0 +1,61 @@
+
+  { "stem" : "llethan",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Llethan",
+            "weight" : "1",
+            "pos" : 6806,
+            "context" : "Hlaalu Athyn <mark>Llethan<\/mark>" },
+          
+          { "form" : "Llethan",
+            "weight" : "1",
+            "pos" : 6814,
+            "context" : "Athyn <mark>Llethan<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "llethan",
+            "weight" : "1",
+            "pos" : 6923,
+            "context" : "hlaalu athyn <mark>llethan<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "llethan",
+            "weight" : "1",
+            "pos" : 6931,
+            "context" : "athyn <mark>llethan<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Llethan",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "King Hlaalu Athyn <mark>Llethan<\/mark>, High Councilor and Lord of Morrowind, imposes favorable tariffs...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Llethan",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "King Hlaalu Athyn <mark>Llethan<\/mark>, High Councilor and Lord of Morrowind, grants relief to...",
+            "fid" : "content" } ] } ] }

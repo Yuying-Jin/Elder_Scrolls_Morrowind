@@ -1,0 +1,14 @@
+
+  { "stem" : "autrus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Autrus",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "...Nigiliusis [sic] is Mages Guild steward, and Aunius <mark>Autrus<\/mark> is the Imperial cult priest. Big Helende, the Thieves...",
+            "fid" : "content" } ] } ] }

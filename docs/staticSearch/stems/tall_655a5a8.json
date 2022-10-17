@@ -1,0 +1,25 @@
+
+  { "stem" : "tall",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tall",
+            "weight" : "1",
+            "pos" : 472,
+            "context" : "..., as a matter of fact, I did. It's pretty <mark>tall<\/mark>. It was a simple matter, especially since I could...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tall",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...years ago, he heard some people talking through the thick <mark>tall<\/mark> trama shrubs about the marriage of Sedura Indoril Pavflek Mamoona,...",
+            "fid" : "content" } ] } ] }

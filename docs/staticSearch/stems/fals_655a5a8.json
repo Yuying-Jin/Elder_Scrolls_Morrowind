@@ -1,0 +1,76 @@
+
+  { "stem" : "fals",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "falsely",
+            "weight" : "1",
+            "pos" : 730,
+            "context" : "...saints of the Temple pantheon as worthy inspirations, the Temple <mark>falsely<\/mark> insists that theirs is the One True Faith, and that...",
+            "fid" : "content" },
+          
+          { "form" : "false",
+            "weight" : "1",
+            "pos" : 738,
+            "context" : "...the One True Faith, and that the Imperial cults worship <mark>false<\/mark> gods.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "False",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...originally created by the ungodly Dwemer sorceror Kagrenac to create the <mark>False<\/mark> Construct Numidium.",
+            "fid" : "content" },
+          
+          { "form" : "false",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : ".... The Dissidents have not resolved the issue of true or <mark>false<\/mark> insights. They have studied the mysticism of the Ashlander Ancestor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "False",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...originally created by the ungodly Dwemer sorceror Kagrenac to create the <mark>False<\/mark> Construct Numidium.",
+            "fid" : "content" },
+          
+          { "form" : "false",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : ".... The Dissidents have not resolved the issue of true or <mark>false<\/mark> insights. They have studied the mysticism of the Ashlander Ancestor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "false",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "...two souls in faith, Chained completely together With never a <mark>false<\/mark> word, Weal and woe, wish and real, Woven...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "false",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...and divine pretenders. When the land is swept clean of <mark>false<\/mark> friends and greedy thieves, the children of Veloth will build...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "prici",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pricy",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...Fighters Guild and Mages Guild are near the South Gate. <mark>Pricy<\/mark> but high-quality clothier, alchemist, and enchanter shops...",
+            "fid" : "content" } ] } ] }

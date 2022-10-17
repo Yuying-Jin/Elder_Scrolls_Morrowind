@@ -1,0 +1,47 @@
+
+  { "stem" : "surviv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "survived",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "...the spell, he considered, but he could not have <mark>survived<\/mark> his wife.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "survive",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...\"You are certainly brave, but I fear you would never <mark>survive<\/mark>,\" said the old woman. \"My daughter, you see...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "survives",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...the battle, and his ring lost, but Nerevar's alliance <mark>survives<\/mark> in Morrowind's ruling political institution, the Grand Council.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "survive",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "...contracted from wounds received from a vampire. Since few victims <mark>survive<\/mark> vampiric attacks or feedings, the process of contracting the disease...",
+            "fid" : "content" } ] } ] }

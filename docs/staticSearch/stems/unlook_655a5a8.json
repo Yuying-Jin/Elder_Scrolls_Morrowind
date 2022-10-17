@@ -1,0 +1,20 @@
+
+  { "stem" : "unlook",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "unlooked",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "..., and the acrobatic discipline finds for them the unseen and <mark>unlooked<\/mark>-for path. Have you these virtues? Then, perhaps,...",
+            "fid" : "content" },
+          
+          { "form" : "unlooked",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...the Grandmaster, who by tradition lives in the unseen and <mark>unlooked<\/mark>-for corners of Vivec City between the blood of battle and...",
+            "fid" : "content" } ] } ] }

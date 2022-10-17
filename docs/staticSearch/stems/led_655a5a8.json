@@ -1,0 +1,14 @@
+
+  { "stem" : "led",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "led",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : "...Ur first crept back into Red Mountain and awakened it, Vivec <mark>led<\/mark> refugees here as they fled the ash and blight. Weary...",
+            "fid" : "content" } ] } ] }

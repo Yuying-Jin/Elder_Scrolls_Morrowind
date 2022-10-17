@@ -1,0 +1,76 @@
+
+  { "stem" : "month",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "months",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...as an egg. There she stayed for seven or eight <mark>months<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "months",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...Azura's Coast. There she lay for seven or eight more <mark>months<\/mark>, caring for the egg-knowledge by whispering to it...",
+            "fid" : "content" },
+          
+          { "form" : "months'",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "'Go to the land of the Indoril in three <mark>months'<\/mark> time, for that is when war comes. I return...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "months",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "It was nearly two <mark>months<\/mark> after washing ashore that the men saw a boat on the...",
+            "fid" : "content" },
+          
+          { "form" : "months",
+            "weight" : "1",
+            "pos" : 406,
+            "context" : ".... I could have used your help spearing dinner all these <mark>months<\/mark>.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "month",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...in a bath of salt or natron for at least one <mark>month<\/mark>. This will halt the decay of the corpse, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "months",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...agreed to see the acrobats because he needed entertaining. For <mark>months<\/mark> now, he had been struggling with his fellow Telvanni Councilor,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "months",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...who slew all those ash vampires in Ghostgate a couple of <mark>months<\/mark> back?”",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "add",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "add",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...an open flame. When the meat begins to brown, <mark>add<\/mark> the saltrice. Stir for a few moments and add the...",
+            "fid" : "content" },
+          
+          { "form" : "add",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "..., add the saltrice. Stir for a few moments and <mark>add<\/mark> the Scuttle and Kwama egg. When the Kwama egg is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "add",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...of bargaining, to be played seriously and, I hasten to <mark>add<\/mark>, politely. In Elsweyr, it is common for the...",
+            "fid" : "content" } ] } ] }

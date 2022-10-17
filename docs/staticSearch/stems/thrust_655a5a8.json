@@ -1,0 +1,14 @@
+
+  { "stem" : "thrust",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thrust",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "...until he had fashioned a spear. Again and again, he <mark>thrust<\/mark> the spear at the fish, but he had no more...",
+            "fid" : "content" } ] } ] }

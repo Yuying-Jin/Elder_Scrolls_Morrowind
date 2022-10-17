@@ -1,0 +1,78 @@
+
+  { "stem" : "mount",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mount",
+            "weight" : "1",
+            "pos" : 933,
+            "context" : "...Amur region. Pilgrims bound for the nearby pilgrimage sites at <mark>Mount<\/mark> Assarnibibi and Mount Kand take refuge at the outpost's hostels,...",
+            "fid" : "content" },
+          
+          { "form" : "Mount",
+            "weight" : "1",
+            "pos" : 935,
+            "context" : "...Pilgrims bound for the nearby pilgrimage sites at Mount Assarnibibi and <mark>Mount<\/mark> Kand take refuge at the outpost's hostels, comforted by the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mount",
+            "weight" : "1",
+            "pos" : 2778,
+            "context" : "<mark>Mount<\/mark> Assarnibibi" },
+          
+          { "form" : "Mount",
+            "weight" : "1",
+            "pos" : 2785,
+            "context" : "<mark>Mount<\/mark> Kand" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mount",
+            "weight" : "1",
+            "pos" : 2947,
+            "context" : "<mark>mount<\/mark> assarnibibi",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "mount",
+            "weight" : "1",
+            "pos" : 2954,
+            "context" : "<mark>mount<\/mark> kand",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mount",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...way to the bowells of the Battlespire, where I will <mark>mount<\/mark> Dragonne Papré, my Dragon companion. From his lair,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mount",
+            "weight" : "1",
+            "pos" : 649,
+            "context" : "As he prodded his <mark>mount<\/mark> forward and the sun began rising, Sathis pictured Galsiah and...",
+            "fid" : "content" } ] } ] }

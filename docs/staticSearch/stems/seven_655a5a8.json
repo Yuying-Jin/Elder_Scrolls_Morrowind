@@ -1,0 +1,128 @@
+
+  { "stem" : "seven",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "seven",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...Three in One. In you is an image and a <mark>seven<\/mark>-syllable spell, AYEM AE SEHTI AE VEHK, which...",
+            "fid" : "content" },
+          
+          { "form" : "seven",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...to the image as an egg. There she stayed for <mark>seven<\/mark> or eight months.",
+            "fid" : "content" },
+          
+          { "form" : "seven",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...on the shoals of Azura's Coast. There she lay for <mark>seven<\/mark> or eight more months, caring for the egg-knowledge...",
+            "fid" : "content" },
+          
+          { "form" : "Seven",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "<mark>Seven<\/mark> Daedra came to her one night and each one gave to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Seven",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...words of Lord Vivec, and heed his sermons on the <mark>Seven<\/mark> Graces, for he names them seven times and seven ways...",
+            "fid" : "content" },
+          
+          { "form" : "seven",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...his sermons on the Seven Graces, for he names them <mark>seven<\/mark> times and seven ways --",
+            "fid" : "content" },
+          
+          { "form" : "seven",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...the Seven Graces, for he names them seven times and <mark>seven<\/mark> ways --",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "seven",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...apart, scattering him across the valley floor in eighty-<mark>seven<\/mark> pieces. Beyond Feryn's post was a raging river, where...",
+            "fid" : "content" },
+          
+          { "form" : "seven",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : "...camp and began battle with Airen Coribael. The fight lasted <mark>seven<\/mark> days, and for six of them, Airen had the upper...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seven",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...teachings of Vivec, and from the Archcanon's sermons on the <mark>Seven<\/mark> Graces.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seven",
+            "weight" : "1",
+            "pos" : 3493,
+            "context" : "Shrines_of_the_<mark>Seven<\/mark>_Graces" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seven",
+            "weight" : "1",
+            "pos" : 3646,
+            "context" : "shrines of the <mark>seven<\/mark> graces",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seven",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...and his unconquerable spirit, he attained the Wisdom of the <mark>Seven<\/mark> Graces. The Cantatas relate many stories of Vivec's experiments with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seven",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "The pilgrim must visit each of the Shrines of the <mark>Seven<\/mark> Graces. At each site the pilgrim must stand before the...",
+            "fid" : "content" } ] } ] }

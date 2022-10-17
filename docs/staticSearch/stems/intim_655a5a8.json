@@ -1,0 +1,25 @@
+
+  { "stem" : "intim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "intimations",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : " \"Drawn by <mark>intimations<\/mark> of my former life, I visited my former post at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "intimate",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...ancestor cults, are, by contrast with Imperial cults, extremely <mark>intimate<\/mark> and personal. In ancestor cults, the worshipper has a...",
+            "fid" : "content" } ] } ] }

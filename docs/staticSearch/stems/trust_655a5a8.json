@@ -1,0 +1,47 @@
+
+  { "stem" : "trust",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trust",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...cruel nor arbitrary, for fair dealing earns the love, <mark>trust<\/mark>, and respect of our people.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trusted",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : ".... Instead, they are represented by a 'Mouth', a <mark>trusted<\/mark> subordinate in residence at the Council Hall, acting on his...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trusted",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...hold the ordering of the Congeries among the oldest and most <mark>trusted<\/mark> of mages, and make secure this ordering through arcane codes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trusting",
+            "weight" : "1",
+            "pos" : 573,
+            "context" : "...and headed north. Imalyn headed east into the park, <mark>trusting<\/mark> his unnatural senses to keep him away from the citywatch....",
+            "fid" : "content" } ] } ] }

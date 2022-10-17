@@ -1,0 +1,48 @@
+
+  { "stem" : "tool",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tools",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...in the Apographa suggest that the Tribunal relied on profanely enchanted <mark>tools<\/mark> to achieve godhead, and that those unholy devices were the...",
+            "fid" : "content" },
+          
+          { "form" : "tools",
+            "weight" : "1",
+            "pos" : 394,
+            "context" : "...priests feel the Ordinators are either out of control, or <mark>tools<\/mark> used to maintain a corrupt priesthood in power.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tools",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...in the Apographa suggest that the Tribunal relied on profanely enchanted <mark>tools<\/mark> to achieve godhead, and that those unholy devices were the...",
+            "fid" : "content" },
+          
+          { "form" : "tools",
+            "weight" : "1",
+            "pos" : 394,
+            "context" : "...priests feel the Ordinators are either out of control, or <mark>tools<\/mark> used to maintain a corrupt priesthood in power.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tools",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...and a place to buy supplies and services -- training and <mark>tools<\/mark>. The help of friends includes fixing things with the guards...",
+            "fid" : "content" } ] } ] }

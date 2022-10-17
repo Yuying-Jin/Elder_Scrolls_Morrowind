@@ -1,0 +1,14 @@
+
+  { "stem" : "corprusarium",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Corprusarium",
+            "weight" : "1",
+            "pos" : 561,
+            "context" : "...Sorcerer-Lord Divayth Fyr. Beneath the tower is the <mark>Corprusarium<\/mark>, a refuge-prison where the deranged, distorted victims...",
+            "fid" : "content" } ] } ] }

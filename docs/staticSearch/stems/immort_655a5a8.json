@@ -1,0 +1,42 @@
+
+  { "stem" : "immort",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "immortal",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...the Wild Hunts could not be handled by any mortal or <mark>immortal<\/mark> save the ones sanctified to the Hunt and bound by its...",
+            "fid" : "content" },
+          
+          { "form" : "immortal",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...forged by Malacath -- are sufficient to protect a mortal or <mark>immortal<\/mark> bearer from its maleficent energies",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "immortality",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...battling with Evil; Temple doctrine claims their divine powers and <mark>immortality<\/mark> are ultimately conferred as a communal judgement by the Dunmer ancestors...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "immortality",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...battling with Evil; Temple doctrine claims their divine powers and <mark>immortality<\/mark> are ultimately conferred as a communal judgement by the Dunmer ancestors...",
+            "fid" : "content" } ] } ] }

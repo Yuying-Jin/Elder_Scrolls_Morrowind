@@ -1,0 +1,14 @@
+
+  { "stem" : "robberi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "robbery",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...leave the thief relatively bloodfree. And after all, after the <mark>robbery<\/mark>, we don't want people seeing a bunch of blood-...",
+            "fid" : "content" } ] } ] }

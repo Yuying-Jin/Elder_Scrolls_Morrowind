@@ -1,0 +1,37 @@
+
+  { "stem" : "dart",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dart",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...weapons -- the bow, crossbow, throwing star, and <mark>dart<\/mark>. You want light armor, so you can keep moving...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dart",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "<mark>dart<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dart",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "<mark>dart<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

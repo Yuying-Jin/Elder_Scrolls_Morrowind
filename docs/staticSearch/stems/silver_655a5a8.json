@@ -1,0 +1,42 @@
+
+  { "stem" : "silver",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "...In a battle with Mehrunes Dagon, Vivec gave his own <mark>silver<\/mark> longsword to the Daedra Lord rather than dishonor himself by fighting...",
+            "fid" : "content" },
+          
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "...center of the Puzzle Canal, and will accept a plain <mark>silver<\/mark> longsword if spoken to with courtesy. After Krazzt accepts the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...weapons that are enchanted or made of refined substances such as <mark>silver<\/mark>. Ancestor ghosts, the most common spirit revenant, are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "silver",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...weapons that are enchanted or made of refined substances such as <mark>silver<\/mark>. Ancestor ghosts, the most common spirit revenant, are...",
+            "fid" : "content" } ] } ] }

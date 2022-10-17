@@ -1,0 +1,14 @@
+
+  { "stem" : "blood-soak",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blood-soaked",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...the robbery, we don't want people seeing a bunch of <mark>blood-soaked<\/mark> butchers running through the streets. Even in Tel Aruhn,...",
+            "fid" : "content" } ] } ] }

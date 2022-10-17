@@ -1,0 +1,221 @@
+
+  { "stem" : "south",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...towers of this Western fortress lies a short distance to the <mark>south<\/mark> of Ald'ruhn town, through South Gate behind the Mages Guild...",
+            "fid" : "content" },
+          
+          { "form" : "South",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...a short distance to the south of Ald'ruhn town, through <mark>South<\/mark> Gate behind the Mages Guild.",
+            "fid" : "content" },
+          
+          { "form" : "South",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...guildhalls of the Fighters Guild and Mages Guild are near the <mark>South<\/mark> Gate. Pricy but high-quality clothier, alchemist,...",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "...strider port. The Rat in the Pot cornerclub is in <mark>south<\/mark> Ald'ruhn, near the guildhalls.",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "...a circuitous western route to Caldera, Balmora, and points <mark>south<\/mark>. The road to Balmora swings northwest to avoid the barren...",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...wastes, and curves around towards the west until it heads <mark>south<\/mark> again to Caldera. Between Ald'ruhn and Caldera are many sidepaths...",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 374,
+            "context" : "...LONG and exceptionally unpleasant walk west to the coast and then <mark>south<\/mark>; there are no trails or marked routes. Casual travelers...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...(also known as the Imperial Province), and on the <mark>south<\/mark> by Black Marsh (also known as Argonia). Vvardenfell District...",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 1120,
+            "context" : "...after Vivec City. Good roads lead north to Ald'ruhn and <mark>south<\/mark> to Caldera, Seyda Neen, and Vivec City. The...",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 1132,
+            "context" : "...Vivec City. The Imperial Legion garrison of Fort Moonmoth lies <mark>south<\/mark> of Balmora.",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 1182,
+            "context" : ".... Tracks lead north to Maar Gan and Gnisis villages and <mark>south<\/mark> to Balmora.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 460,
+            "context" : "...Indoril District occupies the heartland of Morrowind, comprising the lands <mark>south<\/mark> of the Inner Sea and the eastern coast. The city...",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 495,
+            "context" : "...in defiance of Imperial law. Dres District is in the <mark>south<\/mark> of Morrowind, bordering the swamps and marshes of Black Marsh...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 401,
+            "context" : " Redoran Compound is the canton <mark>south<\/mark> of the Foreign Quarter, west of and next to the...",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 554,
+            "context" : "...Telvanni Compound. Good roads lead from the Hlaalu Compound bridge <mark>south<\/mark> to Ebonheart and north to Seyda Neen and points north....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "South",
+            "weight" : "1",
+            "pos" : 1270,
+            "context" : "Balmora,_<mark>South<\/mark>_Wall_Cornerclub" },
+          
+          { "form" : "South",
+            "weight" : "1",
+            "pos" : 3544,
+            "context" : "<mark>South<\/mark> Wall Cornerclub" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 1435,
+            "context" : "balmora, <mark>south<\/mark> wall cornerclub",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 3696,
+            "context" : "<mark>south<\/mark> wall cornerclub",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 517,
+            "context" : "...cavern on the seacoast west of the ancient stronghold Berandas and <mark>south<\/mark> of Gnisis. The cave mouth faces south, towards the...",
+            "fid" : "content" },
+          
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 522,
+            "context" : "...stronghold Berandas and south of Gnisis. The cave mouth faces <mark>south<\/mark>, towards the sea, and is marked by a large...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "south",
+            "weight" : "1",
+            "pos" : 340,
+            "context" : "...in a tomb or city cemetery is more common in the <mark>south<\/mark>. There are still many corpses easily taken from the battlefields...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "South",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "<mark>South<\/mark> Wall Cornerclub: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "South",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...Honored Councilor of Redoran Council, Vvardenfell District, Lord of <mark>South<\/mark> Gash, of Sarethi Manor, Manor District, Ald'ruhn,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sottilde's_Code_Book",
+        "docUri" : "librarium\/Sottilde's_Code_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "South",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>South<\/mark> Wall Cornerclub: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "South",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Balmora, <mark>South<\/mark> Wall Cornerclub: Visitable? yes",
+            "fid" : "acq" } ] } ] }

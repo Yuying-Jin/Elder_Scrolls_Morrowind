@@ -1,0 +1,78 @@
+
+  { "stem" : "rat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rat",
+            "weight" : "1",
+            "pos" : 435,
+            "context" : "<mark>rat<\/mark> meat" },
+          
+          { "form" : "Rat",
+            "weight" : "1",
+            "pos" : 4089,
+            "context" : "The <mark>Rat<\/mark> in the Pot" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rat",
+            "weight" : "1",
+            "pos" : 605,
+            "context" : "<mark>rat<\/mark> meat",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "rat",
+            "weight" : "1",
+            "pos" : 4240,
+            "context" : "the <mark>rat<\/mark> in the pot",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Rat",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "The Hound and <mark>Rat<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "rat",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "1 pound of ground meat (mixed <mark>rat<\/mark> and hound)",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rat",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "..., near West Gate and the silt strider port. The <mark>Rat<\/mark> in the Pot cornerclub is in south Ald'ruhn, near the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rat",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "The <mark>Rat<\/mark> in the Pot: Visitable? ",
+            "fid" : "acq" } ] } ] }

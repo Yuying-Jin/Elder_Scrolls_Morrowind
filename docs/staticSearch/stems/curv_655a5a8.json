@@ -1,0 +1,31 @@
+
+  { "stem" : "curv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...Redoran village style, built of local materials, with organic <mark>curves<\/mark> and undecorated exteriors inspired by the landscape and by the shells...",
+            "fid" : "content" },
+          
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...to Balmora swings northwest to avoid the barren wastes, and <mark>curves<\/mark> around towards the west until it heads south again to Caldera...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "curves",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...Dunmer village style, built of local materials, with organic <mark>curves<\/mark> and undecorated exteriors inspired by the landscape and by the shells...",
+            "fid" : "content" } ] } ] }

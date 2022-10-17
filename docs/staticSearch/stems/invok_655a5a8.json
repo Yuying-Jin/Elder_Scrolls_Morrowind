@@ -1,0 +1,20 @@
+
+  { "stem" : "invok",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "invoked",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...enough for Chimere to deliver his own attack -- an incantation <mark>invoked<\/mark> upon Dagon's \"Protonymic\" (i.e., Incantory [sic] True Name)....",
+            "fid" : "content" },
+          
+          { "form" : "invoke",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "Chimere used Dagon's Protonymic in an incantation to <mark>invoke<\/mark> a sorcery that would gradually drain all of Dagon's power into...",
+            "fid" : "content" } ] } ] }

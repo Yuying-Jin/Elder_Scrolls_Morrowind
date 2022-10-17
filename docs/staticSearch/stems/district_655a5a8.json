@@ -1,0 +1,495 @@
+
+  { "stem" : "district",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 20,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...a yearbook of the affairs of the Redoran Council of Vvardenfell <mark>District<\/mark> for 3E 426. It lists the current members of the...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "Councilors of House Redoran, Vvardenfell <mark>District<\/mark>, Imperial Era 426",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...Grace of Almsivi, Chief Councilor of Redoran Council, Vvardenfell <mark>District<\/mark>, Lord Ald'ruhn of Bolvyn Manor, Manor District, Ald'ruhn...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "..., Vvardenfell District, Lord Ald'ruhn of Bolvyn Manor, Manor <mark>District<\/mark>, Ald'ruhn, District of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...Lord Ald'ruhn of Bolvyn Manor, Manor District, Ald'ruhn, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...Grace of Almsivi, Honored Councilor of Redoran Council, Vvardenfell <mark>District<\/mark>, Lord of North Gash, of Arobar Manor, Manor...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "..., Lord of North Gash, of Arobar Manor, Manor <mark>District<\/mark>, Ald'ruhn, District of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...Gash, of Arobar Manor, Manor District, Ald'ruhn, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...Grace of Almsivi, Honored Councilor of Redoran Council, Vvardenfell <mark>District<\/mark>, Lord of West Gash, of Ramoran Manor, Manor...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "..., Lord of West Gash, of Ramoran Manor, Manor <mark>District<\/mark>, Ald'ruhn, District of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...Gash, of Ramoran Manor, Manor District, Ald'ruhn, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...Grace of Almsivi, Honored Councilor of Redoran Council, Vvardenfell <mark>District<\/mark>, Lady of Maar Gan, of Morvayn Manor, East...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...of Maar Gan, of Morvayn Manor, East Ald'ruhn, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...Grace of Almsivi, Honored Councilor of Redoran Council, Vvardenfell <mark>District<\/mark>, Lord of South Gash, of Sarethi Manor, Manor...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "..., Lord of South Gash, of Sarethi Manor, Manor <mark>District<\/mark>, Ald'ruhn, District of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...Gash, of Sarethi Manor, Manor District, Ald'ruhn, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...Grace of Almsivi, Honored Councilor of Redoran Council, Vvardenfell <mark>District<\/mark>, Lord of The northern Ashlands, of Llethri Manor,...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...Lord of The northern Ashlands, of Llethri Manor, Manor <mark>District<\/mark>, Ald'ruhn, District of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...Ashlands, of Llethri Manor, Manor District, Ald'ruhn, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Districts",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...crime have become increasingly aggressive and violent in the Redoran House <mark>Districts<\/mark>. The councilors blame local corruption, weakened enforcement, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "  Councilors of House Telvanni, Vvardenfell <mark>District<\/mark>, Imperial Era 426 Archmagister Gothren, Lord High Magus of...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...Archmagister Gothren, Lord High Magus of Telvanni Council, Vvardenfell <mark>District<\/mark>, Tower of Tel Aruhn, East Molag Amur, District...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...District, Tower of Tel Aruhn, East Molag Amur, <mark>District<\/mark> of Vvardenfell, Province of Morrowind Master Aryon, Mage Lord...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...Morrowind Master Aryon, Mage Lord of Telvanni Council, Vvardenfell <mark>District<\/mark>, Tower of Tel Vos, Village of Vos, The...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...of Tel Vos, Village of Vos, The Grazelands, <mark>District<\/mark> of Vvardenfell, Province of Morrowind Master Neloth, Mage Lord...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...Morrowind Master Neloth, Mage Lord of Telvanni Council, Vvardenfell <mark>District<\/mark>, Tower of Tel Naga, Sadrith Mora, District of...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...Vvardenfell District, Tower of Tel Naga, Sadrith Mora, <mark>District<\/mark> of Vvardenfell, Province of Morrowind Mistress Dratha, Mage Lord...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...Morrowind Mistress Dratha, Mage Lord of Telvanni Council, Vvardenfell <mark>District<\/mark>, Tower of Tel Mora, The Grazelands, District of...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...Vvardenfell District, Tower of Tel Mora, The Grazelands, <mark>District<\/mark> of Vvardenfell, Province of Morrowind Mistress Therana, Mage Lord...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...Morrowind Mistress Therana, Mage Lord of Telvanni Council, Vvardenfell <mark>District<\/mark>, Tower of Tel Branora, Azura's Coast, District of...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...Vvardenfell District, Tower of Tel Branora, Azura's Coast, <mark>District<\/mark> of Vvardenfell, Province of Morrowind Councilor Representatives of House Telvanni...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...and the Grand Council concerning slavery and slave trading in Vvardenfell <mark>District<\/mark>. The right to own and trade slaves is guaranteed by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "Councilors of House Hlaalu, Vvardenfell <mark>District<\/mark>, Imperial Era 426",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell <mark>District<\/mark>, Free Trader, Lord of Omani Plantation, Elmas Island...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...Lord of Omani Plantation, Elmas Island, East Vivec, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell <mark>District<\/mark>, Free Trader, Gentleman of No Fixed Residence, Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...Free Trader, Gentleman of No Fixed Residence, Vivec, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell <mark>District<\/mark>, Free Trader, Curio Manor, Hlaalu Compound, Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...Free Trader, Curio Manor, Hlaalu Compound, Vivec, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell <mark>District<\/mark>, Free Trader, Yngling Manor, Canton of St....",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...Yngling Manor, Canton of St. Olms, Vivec, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...Grace of Almsivi, Honored Councilor of Hlaalu Council, Vvardenfell <mark>District<\/mark>, Free Trader, Ules Manor, Suran, Ascadian Isles...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...Ules Manor, Suran, Ascadian Isles, Bal Ur, <mark>District<\/mark> of Vvardenfell, Province of Morrowind",
+            "fid" : "content" },
+          
+          { "form" : "Districts",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...the incidence of theft and violent crime in the Hlaalu House <mark>Districts<\/mark>, thanks to the vigilance of the Legions and stern sentences...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...south by Black Marsh (also known as Argonia). Vvardenfell <mark>District<\/mark> encompasses Vvardefell [sic] Island, a great land mass...",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...on the ancient city of Vivec and the old Great House <mark>district<\/mark> centers at Balmora, Ald'ruhn, and Sadrith Mora. The...",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : " Ebonheart is the seat of the Imperial government for Vvardenfell <mark>district<\/mark>, and a busy center of maritime trade. Castle Ebonheart...",
+            "fid" : "content" },
+          
+          { "form" : "district's",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...Castle Ebonheart is the home of Duke Vedam Dren, the <mark>district's<\/mark> ruler and Emperor's representative. Also located at Castle Ebonheart are...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...Emperor's representative. Also located at Castle Ebonheart are the Vvardenfell <mark>District<\/mark> Council chambers and the Hawk Moth Legion garrison. The officers...",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 393,
+            "context" : "...is the only sizable permanent Ashlands settlement; Ald'ruhn, the <mark>district<\/mark> seat of House Redoran, is on the margin of the...",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 497,
+            "context" : " Sadrith Mora is the <mark>district<\/mark> seat of House Telvanni, and home of the Telvanni Council...",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 1106,
+            "context" : " Balmora is the <mark>district<\/mark> seat of House Hlaalu, and the largest settlement on Vvardenfell...",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 1159,
+            "context" : " Ald'ruhn is the <mark>district<\/mark> seat of House Redoran, and a large settlement. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Districts",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : " Principle <mark>Districts<\/mark> of Ald'ruhn",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : " Ald'ruhn is the <mark>district<\/mark> seat of House Redoran, and one of the largest settlements...",
+            "fid" : "content" },
+          
+          { "form" : "districts",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...one of the largest settlements on Vvardenfell. The three principal <mark>districts<\/mark> are Ald'ruhn town, Ald'ruhn-under-Skar, and Buckmoth Fort...",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...most distinctive architectural feature of Ald'ruhn -- a manor and council <mark>district<\/mark> sheltered beneath the shell of an ancient extinct giant crab....",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : " Buckmoth Fort is the Imperial legion garrison for the <mark>district<\/mark>. The strong walls and towers of this Western fortress lies...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...the West Gash village of Gnisis. Ald'ruhn, the Redoran <mark>district<\/mark> seat, is exceptional, with its distinctive feature being the...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 454,
+            "context" : "...two Great Houses without holdings or interest in Vvardenfell. Indoril <mark>District<\/mark> occupies the heartland of Morrowind, comprising the lands south of...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 469,
+            "context" : "...eastern coast. The city of Almalexia is located in Indoril <mark>District<\/mark>, and the Indoril are orthodox and conservative supporters of the...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 494,
+            "context" : "...Dunmer customs and practices in defiance of Imperial law. Dres <mark>District<\/mark> is in the south of Morrowind, bordering the swamps and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : " Sadrith Mora is the <mark>district<\/mark> seat of House Telvanni, and home of the Telvanni Council...",
+            "fid" : "content" },
+          
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...Hall; additional Telvanni services are available in the Great Market <mark>district<\/mark> and in Tel Naga. The Gateway merchant inn is the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...to protect against invasions or internal disorders, but in Vvardenfell <mark>District<\/mark> of Morrowind, the local forts help to insure law and...",
+            "fid" : "content" },
+          
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : " There are five legion garrisons in Vvardenfell <mark>District<\/mark>. The three town garrisons -- Moonmoth Legion Fort in Balmora...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "Fighters Guild Chapters in Vvardenfell <mark>District<\/mark>, Province of Morrowind",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 4051,
+            "context" : "Temple_<mark>District<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "district",
+            "weight" : "1",
+            "pos" : 4195,
+            "context" : "temple <mark>district<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "..., Imperial trader, writing from the Vos Tradehouse in Vvardenfell <mark>District<\/mark>, Province of Morrowind]",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "District",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...is found in the city of Vivec, in the Temple <mark>District<\/mark>, along the western wall of the High Fane, the...",
+            "fid" : "content" } ] } ] }

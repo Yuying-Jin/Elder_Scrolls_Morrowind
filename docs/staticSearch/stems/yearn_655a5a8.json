@@ -1,0 +1,20 @@
+
+  { "stem" : "yearn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "yearned",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...Unlearned, uncharismatic, unathletic, uncoordinated. And yet he <mark>yearned<\/mark>. Specifically, he yearned for a girl he had known...",
+            "fid" : "content" },
+          
+          { "form" : "yearned",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "..., uncoordinated. And yet he yearned. Specifically, he <mark>yearned<\/mark> for a girl he had known before all his trouble,...",
+            "fid" : "content" } ] } ] }

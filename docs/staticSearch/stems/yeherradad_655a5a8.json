@@ -1,0 +1,37 @@
+
+  { "stem" : "yeherradad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Yeherradad's",
+            "weight" : "1",
+            "pos" : 4751,
+            "context" : "<mark>Yeherradad's<\/mark>_Hut" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "yeherradad's",
+            "weight" : "1",
+            "pos" : 4879,
+            "context" : "<mark>yeherradad's<\/mark> hut",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Yeherradad's",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "<mark>Yeherradad's<\/mark> Hut: Visitable? yes",
+            "fid" : "acq" } ] } ] }

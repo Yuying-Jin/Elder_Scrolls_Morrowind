@@ -1,0 +1,25 @@
+
+  { "stem" : "vast",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vast",
+            "weight" : "1",
+            "pos" : 971,
+            "context" : "...The dominant feature of Vvardenfell, Red Mountain, is a <mark>vast<\/mark> volcano in the center of Vvardenfell. The outer slopes are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vastness",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...Maelkashishi and Ald Sotha gathered in a great host at the <mark>vastness<\/mark> of Assurnabitashpi. Even Hilbongard and Dorach Gusal were lured from...",
+            "fid" : "content" } ] } ] }

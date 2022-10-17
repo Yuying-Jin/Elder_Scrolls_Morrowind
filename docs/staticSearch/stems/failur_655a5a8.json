@@ -1,0 +1,25 @@
+
+  { "stem" : "failur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "failures",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...many stories of Vivec's experiments with challenge and risk, his <mark>failures<\/mark> and triumphs, his blessings of insight and good fortune,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "failure",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...the disease is infallibly cured if treated within three days, <mark>failure<\/mark> to treat oneself after an encounter with a vampire would be...",
+            "fid" : "content" } ] } ] }

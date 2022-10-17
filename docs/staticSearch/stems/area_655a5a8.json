@@ -1,0 +1,76 @@
+
+  { "stem" : "area",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "area",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...southern lowlands where most of Vvardenfell's agriculture is found. The <mark>area<\/mark> includes Pelagiad, Suran, Vivec City, and Ald Sotha...",
+            "fid" : "content" },
+          
+          { "form" : "areas",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...lakes and waterways of the Ascadian Isles proper. The urban <mark>areas<\/mark> of Vivec and Ebonheart of the southern coast are densely populated...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "areas",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "...Law. There are exceptions after large battles or in remote <mark>areas<\/mark> where death occurs far from meddlesome priests. Fortunately, the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Area",
+            "weight" : "1",
+            "pos" : 4552,
+            "context" : "Vivec,_Arena_Hidden_<mark>Area<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "area",
+            "weight" : "1",
+            "pos" : 4604,
+            "context" : "vivec, arena hidden <mark>area<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "area",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...found in Black Marsh. It is especially prolific around the <mark>area<\/mark> of Utherus Swamp. It is a beautiful wildflower. Its...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Area",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "Vivec, Arena Hidden <mark>Area<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

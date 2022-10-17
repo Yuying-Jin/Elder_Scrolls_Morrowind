@@ -1,0 +1,36 @@
+
+  { "stem" : "swear",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swear",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...colleges of Restoration, Mysticism, and Conjuration. Those who <mark>swear<\/mark> to avoid bloodshed, to take the field unarmored to fight...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swearing",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...turning the blow of an oathbreaker. Chimere tricked Dagon into <mark>swearing<\/mark> an oath against the Powers which he had no intention of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swears",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "..., a thief in Gnisis whose name I won't mention, <mark>swears<\/mark> by the strangle-and-slash technique. Simply put, you...",
+            "fid" : "content" } ] } ] }

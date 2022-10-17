@@ -1,0 +1,37 @@
+
+  { "stem" : "tax",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tax",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "An unfortunate <mark>tax<\/mark> revolt in Balmora was put down after significant property damage and...",
+            "fid" : "content" },
+          
+          { "form" : "taxes",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...disturbances might spread to Ald'ruhn if the heavy burden of Imperial <mark>taxes<\/mark> were not alleviated.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tax",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "A minor <mark>tax<\/mark> revolt in Balmora was suppressed without undue harm to life and...",
+            "fid" : "content" },
+          
+          { "form" : "tax",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...deputations to the Duke to express their concerns over the high <mark>tax<\/mark> rates and the injurious effect of high tariffs on trade....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,70 @@
+
+  { "stem" : "simpl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "simple",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...ornate patterns with her legs. Master Mearvis will take a <mark>simple<\/mark> ebony blade --\"",
+            "fid" : "content" },
+          
+          { "form" : "simple",
+            "weight" : "1",
+            "pos" : 473,
+            "context" : "...fact, I did. It's pretty tall. It was a <mark>simple<\/mark> matter, especially since I could land in the water....",
+            "fid" : "content" },
+          
+          { "form" : "simple",
+            "weight" : "1",
+            "pos" : 529,
+            "context" : "...about our latest realization of acrobacy when Master Mearvis takes a <mark>simple<\/mark> ebony blade and juggles it in one hand and a handful...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "simple",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : " Our doctrines are <mark>simple<\/mark>. We acknowledge the divinity of the Nine Divines: Akatosh...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "simple",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : "...and craft guilds, manors and council halls—are designed as <mark>simple<\/mark> multi-storied buildings roughly rectangular in plan, featuring arched...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Simple",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "Why belong? <mark>Simple<\/mark>. Everybody needs friends.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "simple",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...the Lover and Sotha Sil the Teacher. The poetry is <mark>simple<\/mark> and dramatic, lyric and personal, composed to be sung...",
+            "fid" : "content" } ] } ] }

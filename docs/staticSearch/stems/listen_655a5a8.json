@@ -1,0 +1,64 @@
+
+  { "stem" : "listen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "listens",
+            "weight" : "1",
+            "pos" : 430,
+            "context" : "...boat was only a few minutes from landing. \"And S'Riizh <mark>listens<\/mark>. When you said that a fortune divided by two was...",
+            "fid" : "content" },
+          
+          { "form" : "listened",
+            "weight" : "1",
+            "pos" : 440,
+            "context" : "...was more profitable than a fortune divided by twelve, S'Riizh <mark>listened<\/mark> to that too.\" S'Riizh shuffled back to the crate by the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "listen",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...and the strength of their bones. If King Gortwog will <mark>listen<\/mark> to reason, we could offer the services of our Art...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "listened",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...all diseases. Lord Vivec looked upon this wizard, and <mark>listened<\/mark> to his boasting, then asked him, \"How can you pretend...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Listen",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "<mark>Listen<\/mark>, faithful, to Vivec's words, for he says five...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "listen",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...Plot and Plaster cornerclub in Tel Aruhn knew enough not to <mark>listen<\/mark> in, but she knew better than to take any chances....",
+            "fid" : "content" } ] } ] }

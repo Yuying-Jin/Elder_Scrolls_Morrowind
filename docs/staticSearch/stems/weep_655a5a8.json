@@ -1,0 +1,14 @@
+
+  { "stem" : "weep",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weeping",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...Who can know the shame of the dead, the ceaseless <mark>weeping<\/mark> of the necromancer's thrall? Cruel enough is the ancestor's service...",
+            "fid" : "content" } ] } ] }

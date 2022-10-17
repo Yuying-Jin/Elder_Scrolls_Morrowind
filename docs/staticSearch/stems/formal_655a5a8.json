@@ -1,0 +1,25 @@
+
+  { "stem" : "formal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "formal",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...and retainers prefer to maintain their residences in the less-<mark>formal<\/mark> St. Delyn and St. Olms cantons.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "formal",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...assimilated Imperial Citizens of other races, tend to impersonal and <mark>formal<\/mark> relationships with their gods and spirits. For us, cults...",
+            "fid" : "content" } ] } ] }

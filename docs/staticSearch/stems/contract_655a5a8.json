@@ -1,0 +1,55 @@
+
+  { "stem" : "contract",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "contracts",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...of Fighters provides employment to free-swords and mercenaries and <mark>contracts<\/mark> to local citizens. Citizens may contract with the Guild for...",
+            "fid" : "content" },
+          
+          { "form" : "contract",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...swords and mercenaries and contracts to local citizens. Citizens may <mark>contract<\/mark> with the Guild for the removal of creatures and pests,...",
+            "fid" : "content" },
+          
+          { "form" : "contract",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : " Citizens who <mark>contract<\/mark> with the Guild of Fighters and have a dispute may appeal...",
+            "fid" : "content" },
+          
+          { "form" : "contract",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...dispute may appeal first to the Guild Steward who accepted the <mark>contract<\/mark> and second with the authorities of each Province. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "contracted",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "...It is supposed that vampirism is <mark>contracted<\/mark> from wounds received from a vampire. Since few victims survive...",
+            "fid" : "content" },
+          
+          { "form" : "contracting",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...few victims survive vampiric attacks or feedings, the process of <mark>contracting<\/mark> the disease is little understood. Some have suggested that victims...",
+            "fid" : "content" },
+          
+          { "form" : "contract",
+            "weight" : "1",
+            "pos" : 321,
+            "context" : "...encounter with a vampire would be considered a deliberate attempt to <mark>contract<\/mark> the disease, and a mark of monstrous depravity....",
+            "fid" : "content" } ] } ] }

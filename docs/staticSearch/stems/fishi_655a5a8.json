@@ -1,0 +1,61 @@
+
+  { "stem" : "fishi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Fishy",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick" },
+          
+          { "form" : "Fishy",
+            "weight" : "1",
+            "pos" : 1117,
+            "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Fishy",
+            "weight" : "1",
+            "pos" : 3801,
+            "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Capns_Guide_to_the_Fishy_Stick",
+        "docUri" : "librarium\/Capns_Guide_to_the_Fishy_Stick.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fishy",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "This book is supposedly the definitive reference to <mark>fishy<\/mark> sticks throughout Tamriel, but the pages are so smeared with...",
+            "fid" : "content" },
+          
+          { "form" : "fishy",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "...sticks throughout Tamriel, but the pages are so smeared with <mark>fishy<\/mark> stick sauce it is impossible to read any of them.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fishy",
+            "weight" : "1",
+            "pos" : 945,
+            "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick, count: 1" },
+          
+          { "form" : "Fishy",
+            "weight" : "1",
+            "pos" : 3649,
+            "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick, count: 1" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "distinguish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "distinguish",
+            "weight" : "1",
+            "pos" : 491,
+            "context" : "...dogs at best. Often a raised animal is unable to <mark>distinguish<\/mark> its master from the rest of the living and many amateur...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "distinguished",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...personal improvement in their attributes and skills. Only the most <mark>distinguished<\/mark> are worthy of advancement to the higher ranks in the Imperial...",
+            "fid" : "content" } ] } ] }

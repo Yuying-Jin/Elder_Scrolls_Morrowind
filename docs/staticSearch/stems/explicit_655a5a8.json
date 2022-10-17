@@ -1,0 +1,20 @@
+
+  { "stem" : "explicit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "explicit",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "This <mark>explicit<\/mark> presentation of Vivec the Guardian God-King and Warrior-...",
+            "fid" : "content" },
+          
+          { "form" : "explicitly",
+            "weight" : "1",
+            "pos" : 263,
+            "context" : "...the Dunmer concepts of Vivec, even if they are not <mark>explicitly<\/mark> described and explained in Temple doctrine.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "palansour",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Palansour",
+            "weight" : "1",
+            "pos" : 2932,
+            "context" : "<mark>Palansour<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "palansour",
+            "weight" : "1",
+            "pos" : 3105,
+            "context" : "<mark>palansour<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

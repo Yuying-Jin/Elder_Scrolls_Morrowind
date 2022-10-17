@@ -1,0 +1,59 @@
+
+  { "stem" : "shishara",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shishara",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "<mark>Shishara<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shishara",
+            "weight" : "1",
+            "pos" : 3458,
+            "context" : "<mark>Shishara<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shishara",
+            "weight" : "1",
+            "pos" : 3611,
+            "context" : "<mark>shishara<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shishara",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "<mark>Shishara<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Shishara",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "<mark>Shishara<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

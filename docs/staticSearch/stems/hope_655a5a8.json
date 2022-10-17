@@ -1,0 +1,71 @@
+
+  { "stem" : "hope",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "hoped",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...foe. The creature dressed like a gentleman, and I <mark>hoped<\/mark> for honorable treatment. Instead, I found myself a feast...",
+            "fid" : "content" },
+          
+          { "form" : "hope",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...myself apart from the other clankin; nonetheless, I abandoned <mark>hope<\/mark> and lived like a beast.",
+            "fid" : "content" },
+          
+          { "form" : "hoping",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...life, I visited my former post at Bal Ur, <mark>hoping<\/mark> perhaps to atone in some for my crimes by preying upon...",
+            "fid" : "content" },
+          
+          { "form" : "hope",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "..., in return for a favor. However, with no <mark>hope<\/mark> for my soul or spirit unless I might be cured,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hope",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : ".......... \"I have presented to the few remaining Battlemages my last <mark>hope<\/mark> plan. I will fight my way to the bowells of...",
+            "fid" : "content" },
+          
+          { "form" : "Hope",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "..., for I will be eternally reunited with Dragonne Papré. <mark>Hope<\/mark> for the living is lost. My name is Samar Starlover...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hoping",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...Canal, a place of worship and testing for questing heroes <mark>hoping<\/mark> to receive Vivec's favor. Many choice treasures are guarded by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hope",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...troops had been nigh invincible. Gothren's own troops had no <mark>hope<\/mark>, except to pray that Mehrunes Dagon would reclaim his artifact...",
+            "fid" : "content" } ] } ] }

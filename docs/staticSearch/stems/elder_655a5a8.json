@@ -1,0 +1,14 @@
+
+  { "stem" : "elder",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elders",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...Serve and protect the poor and weak, and honor your <mark>elders<\/mark> and clan.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "slow",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "slow",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...Chimere miscalculated, however, not realizing that Dagon's resistance could <mark>slow<\/mark> the draining of his power, even if it could not...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "kindl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kindle",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "What dark crucible may <mark>kindle<\/mark> their souls to light?",
+            "fid" : "content" } ] } ] }

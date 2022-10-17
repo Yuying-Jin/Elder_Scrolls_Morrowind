@@ -1,0 +1,66 @@
+
+  { "stem" : "wax",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "wax",
+            "weight" : "1",
+            "pos" : 438,
+            "context" : "...his strength with a potion made from ash yams and dreugh <mark>wax<\/mark>. Ash yam is a tough tuberous root vegetable common to...",
+            "fid" : "content" },
+          
+          { "form" : "wax",
+            "weight" : "1",
+            "pos" : 450,
+            "context" : "...tuberous root vegetable common to the Ascadian Isles region. dreugh <mark>wax<\/mark> is a tough, waxy substance scraped from dreugh shells....",
+            "fid" : "content" },
+          
+          { "form" : "wax",
+            "weight" : "1",
+            "pos" : 463,
+            "context" : "...powerful aquatic creatures, and hunting them for their hides and <mark>wax<\/mark> is a dangerous occupation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wax",
+            "weight" : "1",
+            "pos" : 553,
+            "context" : "...the epic battle with the Dreugh in the cave. Dreugh <mark>wax<\/mark> may be bought at the Temple in Gnisis. When you...",
+            "fid" : "content" },
+          
+          { "form" : "wax",
+            "weight" : "1",
+            "pos" : 564,
+            "context" : "...shrine, it is customary to leave a portion of dreugh <mark>wax<\/mark> as a token of Vivec's victorious struggle with Ruddy Man....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wax",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "dreugh_<mark>wax<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wax",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "dreugh <mark>wax<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

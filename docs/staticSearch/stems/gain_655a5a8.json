@@ -1,0 +1,53 @@
+
+  { "stem" : "gain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gain",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...may retrace the steps of the Lords and Saints, and <mark>gain<\/mark> blessings and learn virtue by suffering and overcoming hardships.",
+            "fid" : "content" },
+          
+          { "form" : "gained",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...The Consolations of Prayer Learn what bounties and blessing might be <mark>gained<\/mark> by prayer at the shrines found in temples, and in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gain",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...be adopted into a Great House. Initially an outlander may <mark>gain<\/mark> status in a house as an oath-bonded hireling,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gained",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "Feather reduces the weary traveler's burdens and can be <mark>gained<\/mark> from heather and scuttle. Heather is a low evergreen shrub...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gained",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "What benefits may be <mark>gained<\/mark> shall be listed herein for the edification of the worshipper and...",
+            "fid" : "content" } ] } ] }

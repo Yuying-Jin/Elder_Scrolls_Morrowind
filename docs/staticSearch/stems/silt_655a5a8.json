@@ -1,0 +1,48 @@
+
+  { "stem" : "silt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "silt",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...are found to the west, near West Gate and the <mark>silt<\/mark> strider port. The Rat in the Pot cornerclub is in...",
+            "fid" : "content" },
+          
+          { "form" : "silt",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...; watch for signposts, or you'll get lost. The <mark>silt<\/mark> strider port is along the western town wall, north of...",
+            "fid" : "content" },
+          
+          { "form" : "Silt",
+            "weight" : "1",
+            "pos" : 343,
+            "context" : "...along the western town wall, north of West Gate. <mark>Silt<\/mark> strider service goes from Ald'ruhn to Balmora, Gnisis, Khuul...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Silt",
+            "weight" : "1",
+            "pos" : 589,
+            "context" : "...Compound bridge are useful mostly for travelers to Molag Mar. <mark>Silt<\/mark> strider service is available at the north end of the Foreign...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "silt",
+            "weight" : "1",
+            "pos" : 1190,
+            "context" : " Gnisis is a small mining and trade village astride the <mark>silt<\/mark> strider caravan route between the northwest West Gash and Ald'ruhn....",
+            "fid" : "content" } ] } ] }

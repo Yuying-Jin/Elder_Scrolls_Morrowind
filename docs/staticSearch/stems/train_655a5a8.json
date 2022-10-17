@@ -1,0 +1,58 @@
+
+  { "stem" : "train",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "training",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "..., Foreign Quarter, and Imperial Chapels in Ebonheart. Seek <mark>training<\/mark> at Wolverine Hall, Buckmoth Fort, Moonmoth Fort, Ebonheart...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "training",
+            "weight" : "1",
+            "pos" : 473,
+            "context" : "...beneath the Arena are dressing and storage rooms for entertainers and <mark>training<\/mark> rooms and animal pens for the combat competitors.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "training",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...rest, and a place to buy supplies and services -- <mark>training<\/mark> and tools. The help of friends includes fixing things with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "train",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...long blade, the spear and blunt weapons. Legion troops <mark>train<\/mark> with shield and heavy armor, and so must be skilled...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "train",
+            "weight" : "1",
+            "pos" : 442,
+            "context" : "...\"I considered the amount of gold and time it takes to <mark>train<\/mark> a good troupe, and it seemed smarter to try to...",
+            "fid" : "content" } ] } ] }

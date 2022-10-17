@@ -1,0 +1,14 @@
+
+  { "stem" : "grappl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grappling",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "\"The classic technique, which requires less <mark>grappling<\/mark> than my friend's variation, is to place one hand over...",
+            "fid" : "content" } ] } ] }

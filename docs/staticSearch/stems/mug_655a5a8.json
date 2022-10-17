@@ -1,0 +1,25 @@
+
+  { "stem" : "mug",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mug",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...strain contents through Scamp Skin and mix with Flin in large <mark>mug<\/mark>, slowly stirring with a glass rod. For a chilled...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mugging",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...Lledos with a sigh. \"My dear friends, we aren't <mark>mugging<\/mark> some Nord tourist fresh off the ferry. The Cobblers Guildhall...",
+            "fid" : "content" } ] } ] }

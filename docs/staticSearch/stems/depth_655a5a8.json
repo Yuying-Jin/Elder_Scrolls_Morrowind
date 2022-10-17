@@ -1,0 +1,14 @@
+
+  { "stem" : "depth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "depths",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...ruin that was the battlemage's calling card. Delving into the <mark>depths<\/mark> of the ruins, Silverthorn was set upon by the servitors...",
+            "fid" : "content" } ] } ] }

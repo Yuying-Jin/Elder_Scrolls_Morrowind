@@ -1,0 +1,14 @@
+
+  { "stem" : "northeastmost",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "northeastmost",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : " Morrowind is the <mark>northeastmost<\/mark> province of the Tamrielic Empire, bounded on the north and...",
+            "fid" : "content" } ] } ] }

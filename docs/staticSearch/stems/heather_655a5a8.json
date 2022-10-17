@@ -1,0 +1,20 @@
+
+  { "stem" : "heather",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "heather",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...Feather reduces the weary traveler's burdens and can be gained from <mark>heather<\/mark> and scuttle. Heather is a low evergreen shrub of the...",
+            "fid" : "content" },
+          
+          { "form" : "Heather",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...traveler's burdens and can be gained from heather and scuttle. <mark>Heather<\/mark> is a low evergreen shrub of the Ascadian Isles, known...",
+            "fid" : "content" } ] } ] }

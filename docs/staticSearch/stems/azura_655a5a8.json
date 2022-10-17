@@ -1,0 +1,153 @@
+
+  { "stem" : "azura",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...regions are called: the Ascadian Isles, the Ashlands, <mark>Azura's<\/mark> Coast, the Bitter Coast, the Grazelands, Molag Amur...",
+            "fid" : "content" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 441,
+            "context" : " <mark>Azura's<\/mark> Coast",
+            "fid" : "content" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 450,
+            "context" : "...rugged coast and islands of northern and eastern Vvardenfell are called <mark>Azura's<\/mark> Coast. The region is rocky, infertile, and largely...",
+            "fid" : "content" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 548,
+            "context" : "...are located on a rocky promontory at the southeasternmost tip of <mark>Azura's<\/mark> Coast.",
+            "fid" : "content" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 646,
+            "context" : "...ancient First Era ruin in the southeastern islands and promontories of <mark>Azura's<\/mark> Coast. The site has a nasty reputation, and several...",
+            "fid" : "content" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 684,
+            "context" : "...promontory at the northeastern tip of the Vvardenfell mainland in the <mark>Azura's<\/mark> Coast region.",
+            "fid" : "content" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 826,
+            "context" : "...in the northeast of Vvardenfell, sandwiched between the Ashlands and <mark>Azura's<\/mark> Coast. Permanent settlements include Vos village and the towers of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 1058,
+            "context" : "<mark>Azura's<\/mark> Coast" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 1072,
+            "context" : "<mark>Azura's<\/mark>_Coast" },
+          
+          { "form" : "Azura",
+            "weight" : "1",
+            "pos" : 6357,
+            "context" : "<mark>Azura<\/mark>" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "..., but it also grows wild in the Grazelands and on <mark>Azura's<\/mark> Coast. wickwheat is a wild Ashland grain that grows in...",
+            "fid" : "content" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...Isles. saltrice occasionally grows wild in the Grazelands and on <mark>Azura's<\/mark> Coast.",
+            "fid" : "content" },
+          
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...a hardy primitive plant that grows in the Ascadian Isles and <mark>Azura's<\/mark> Coast.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "azura's",
+            "weight" : "1",
+            "pos" : 1228,
+            "context" : "<mark>azura's<\/mark> coast",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "azura",
+            "weight" : "1",
+            "pos" : 6429,
+            "context" : "<mark>azura<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Azura",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...Anticipations are known to the West as the sinister daedrai Lords <mark>Azura<\/mark>, Boethiah, and Mephala. In Temple theology, however...",
+            "fid" : "content" },
+          
+          { "form" : "Azura",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...Boethiah, and Mephala. In Temple theology, however, <mark>Azura<\/mark> is the Anticipation of Sotha Sil, the Mage-Lord...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...the surface world and set her down on the shoals of <mark>Azura's<\/mark> Coast. There she lay for seven or eight more months...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Azura's",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...Telvanni Council, Vvardenfell District, Tower of Tel Branora, <mark>Azura's<\/mark> Coast, District of Vvardenfell, Province of Morrowind Councilor Representatives...",
+            "fid" : "content" } ] } ] }

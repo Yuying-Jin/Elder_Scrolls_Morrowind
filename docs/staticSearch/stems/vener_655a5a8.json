@@ -1,0 +1,47 @@
+
+  { "stem" : "vener",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "veneration",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "..., Kynareth, and Julianos, and the Talos cult, <mark>veneration<\/mark> of the divine god-hero Tiber Septim, founder and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "veneration",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "4. <mark>veneration<\/mark> of the Daedra, Saints, and Ancestors",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "veneration",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "4. <mark>veneration<\/mark> of the Daedra, Saints, and Ancestors",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "veneration",
+            "weight" : "1",
+            "pos" : 283,
+            "context" : "...Dunmer consider cult affairs, and in particular, ancestral spirit <mark>veneration<\/mark>, to be very serious matters indeed.",
+            "fid" : "content" } ] } ] }

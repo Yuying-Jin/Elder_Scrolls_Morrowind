@@ -1,0 +1,67 @@
+
+  { "stem" : "morvayn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Morvayn",
+            "weight" : "1",
+            "pos" : 2770,
+            "context" : "<mark>Morvayn<\/mark> Manor" },
+          
+          { "form" : "Morvayn",
+            "weight" : "1",
+            "pos" : 6906,
+            "context" : "Brara <mark>Morvayn<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "morvayn",
+            "weight" : "1",
+            "pos" : 2939,
+            "context" : "<mark>morvayn<\/mark> manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "morvayn",
+            "weight" : "1",
+            "pos" : 7031,
+            "context" : "brara <mark>morvayn<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Morvayn",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "Mistress Lady Brara <mark>Morvayn<\/mark>, by Grace of Almsivi, Honored Councilor of Redoran Council...",
+            "fid" : "content" },
+          
+          { "form" : "Morvayn",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...Council, Vvardenfell District, Lady of Maar Gan, of <mark>Morvayn<\/mark> Manor, East Ald'ruhn, District of Vvardenfell, Province of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Morvayn",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : " All six Redoran councilors, Brara <mark>Morvayn<\/mark>, Hlaren Ramoran, Athyn Sarethi, Garisa Llethri, Miner...",
+            "fid" : "BraraMorvayn" } ] } ] }

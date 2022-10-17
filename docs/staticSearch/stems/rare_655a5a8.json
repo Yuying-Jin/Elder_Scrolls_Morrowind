@@ -1,0 +1,127 @@
+
+  { "stem" : "rare",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "rare",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...the Ascadian Isles. frost salts, by contrast, are <mark>rare<\/mark> and expensive. These crystalline compounds precipitate from elemental frost in...",
+            "fid" : "content" },
+          
+          { "form" : "rare",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "Unfortunately, the potions most favored by adventurers require more <mark>rare<\/mark> and expensive ingredients. There are exceptions, like the easy...",
+            "fid" : "content" },
+          
+          { "form" : "rarely",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "...sload. sload soap is not expensive, but is only <mark>rarely<\/mark> stocked by apothecaries or alchemists, and cannot be collected locally...",
+            "fid" : "content" },
+          
+          { "form" : "rare",
+            "weight" : "1",
+            "pos" : 486,
+            "context" : "...region. diamonds, on the other hand, are very <mark>rare<\/mark> and expensive and usually must be purchased from fine alchemists....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rare",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "Ironwood Nut, this <mark>rare<\/mark> nut comes from the Ironwood trees which grow deep in the...",
+            "fid" : "content" },
+          
+          { "form" : "rare",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...as the metal for which they are named. The very <mark>rare<\/mark> black ironwood tree is said to produce a nut which is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rare",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...I cannot tell you how many times I passed up a <mark>rare<\/mark> and interesting relic, assuming that I could find it elsewhere...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rarely",
+            "weight" : "1",
+            "pos" : 459,
+            "context" : "...Arts of Necromancy can be practiced on animals, such experiments <mark>rarely<\/mark> produce interesting results. The servant's ability to follow directions seems...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rarely",
+            "weight" : "1",
+            "pos" : 407,
+            "context" : "...game here, and their herds find sparse grazing. It rains <mark>rarely<\/mark>, and suffers frequent ash storms.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rare",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "Jobasha's <mark>Rare<\/mark> Books: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rare",
+            "weight" : "1",
+            "pos" : 2353,
+            "context" : "Jobasha's <mark>Rare<\/mark> Books" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rare",
+            "weight" : "1",
+            "pos" : 2519,
+            "context" : "jobasha's <mark>rare<\/mark> books",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rarely",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "Oh, how <mark>rarely<\/mark> wisdom rules our hearts!",
+            "fid" : "content" } ] } ] }

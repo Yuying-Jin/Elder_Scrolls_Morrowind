@@ -1,0 +1,25 @@
+
+  { "stem" : "raw",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "raw",
+            "weight" : "1",
+            "pos" : 1148,
+            "context" : "...Caldera Mining Company has been granted an Imperial monopoly to remove <mark>raw<\/mark> ebony from the rich deposits here. Caldera has the appearance and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "raw",
+            "weight" : "1",
+            "pos" : 292,
+            "context" : "...a fish. The men tore it apart and ate it <mark>raw<\/mark>. As the days and weeks went by, Harithoel got better...",
+            "fid" : "content" } ] } ] }

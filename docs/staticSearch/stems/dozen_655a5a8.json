@@ -1,0 +1,25 @@
+
+  { "stem" : "dozen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dozens",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "..., but with care and maintenance, one may raise zombies <mark>dozens<\/mark> of times.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dozen",
+            "weight" : "1",
+            "pos" : 451,
+            "context" : "Lledos's expertise was demonstrated a <mark>dozen<\/mark> times, and the guards were of such a diverse variety...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,48 @@
+
+  { "stem" : "crassius",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Crassius",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : " Hlaalu Compound is the westmost canton. The Hlaalu Councilor <mark>Crassius<\/mark> Curio has a splendid tier-top mansion here. The tiers...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Crassius",
+            "weight" : "1",
+            "pos" : 6418,
+            "context" : "<mark>Crassius<\/mark> Curio" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crassius",
+            "weight" : "1",
+            "pos" : 6523,
+            "context" : "<mark>crassius<\/mark> curio",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Crassius",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "Master <mark>Crassius<\/mark> Curio, by Grace of Almsivi, Honored Councilor of Hlaalu...",
+            "fid" : "content" } ] } ] }

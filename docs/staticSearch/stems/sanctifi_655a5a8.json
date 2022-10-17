@@ -1,0 +1,25 @@
+
+  { "stem" : "sanctifi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sanctified",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "...not be handled by any mortal or immortal save the ones <mark>sanctified<\/mark> to the Hunt and bound by its strictures. However,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sanctified",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...or at pilgrim waysides, or in the tomb of the <mark>sanctified<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "insult",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "insults",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...be broken if one's offer is so preposterously low that it <mark>insults<\/mark> the shop-keeper. If you are offered something for...",
+            "fid" : "content" },
+          
+          { "form" : "insulted",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "...with a certain amount of suspicion. Don't be surprised or <mark>insulted<\/mark> if the shopkeepers follow you around the shop, assuming you're...",
+            "fid" : "content" } ] } ] }

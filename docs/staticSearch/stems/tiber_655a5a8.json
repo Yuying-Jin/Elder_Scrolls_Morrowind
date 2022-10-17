@@ -1,0 +1,60 @@
+
+  { "stem" : "tiber",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tiber",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...the Talos cult, veneration of the divine god-hero <mark>Tiber<\/mark> Septim, founder and patron of the Empire. Imperial cult...",
+            "fid" : "content" },
+          
+          { "form" : "Tiber",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...Zenithar, Mara, Stendarr, Kynareth, Julianos, and <mark>Tiber<\/mark> Septim. We preach the Nine Virtues: Humility, Inspiration...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tiber",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...-cults of Akatosh and Dibella. The Imperial Cult of <mark>Tiber<\/mark> Septim also has a significant charismatic sub-cult.",
+            "fid" : "content" },
+          
+          { "form" : "Tiber",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...the dominant secularism of the Empire. The Imperial Cult of <mark>Tiber<\/mark> Septim is just such a hero-cult, and among...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tiber",
+            "weight" : "1",
+            "pos" : 7205,
+            "context" : "<mark>Tiber<\/mark> Septim" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tiber",
+            "weight" : "1",
+            "pos" : 7320,
+            "context" : "<mark>tiber<\/mark> septim",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

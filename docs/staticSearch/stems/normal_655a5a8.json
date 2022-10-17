@@ -1,0 +1,48 @@
+
+  { "stem" : "normal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "normal",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...far worse than the more common 'lesser' bonewalkers. Thankfully, <mark>normal<\/mark> weapons harm bonewalkers.",
+            "fid" : "content" },
+          
+          { "form" : "Normal",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...remains. Bonelords are very powerful, and very dangerous. <mark>Normal<\/mark> weapons do not affect them.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "normal",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...far worse than the more common 'lesser' bonewalkers. Thankfully, <mark>normal<\/mark> weapons harm bonewalkers.",
+            "fid" : "content" },
+          
+          { "form" : "Normal",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...remains. Bonelords are very powerful, and very dangerous. <mark>Normal<\/mark> weapons do not affect them.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "normally",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...Inspired by their master's weapon, Mehrunes' Razor&gt;, Neloth's <mark>normally<\/mark> cowardly troops had been nigh invincible. Gothren's own troops had...",
+            "fid" : "content" } ] } ] }

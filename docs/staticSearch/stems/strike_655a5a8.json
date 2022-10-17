@@ -1,0 +1,64 @@
+
+  { "stem" : "strike",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "strike",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...they supply to misdirect their prey. Close and sure they <mark>strike<\/mark> with shortblade, or distant and secure they strike from afar...",
+            "fid" : "content" },
+          
+          { "form" : "strike",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...sure they strike with shortblade, or distant and secure they <mark>strike<\/mark> from afar with accurate missile fire. Light armor protects them...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strike",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "For soon we shall <mark>strike<\/mark>. The Temples of Arkay will be torn stone from stone...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strikes",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : " Any member of the Guild of Fighters who <mark>strikes<\/mark> or steals from another member shall be expelled from the Guild...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strike",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "...by, Harithoel got better and better until he was able to <mark>strike<\/mark> quickly and with great accuracy. He could hit a fish...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "striking",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "For example, one of the most <mark>striking<\/mark> persistent myths associated with Vivec is the story that Vivec conspired...",
+            "fid" : "content" } ] } ] }

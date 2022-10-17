@@ -1,0 +1,42 @@
+
+  { "stem" : "list",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "listed",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "What benefits may be gained shall be <mark>listed<\/mark> herein for the edification of the worshipper and pilgrim.",
+            "fid" : "content" },
+          
+          { "form" : "listed",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...also grant the particular blessings of the saints, which are <mark>listed<\/mark> for you here:",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lists",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...the Redoran Council of Vvardenfell District for 3E 426. It <mark>lists<\/mark> the current members of the council and their residences. It...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "list",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...To ease the pilgrim's task, the Temple  has made this <mark>list<\/mark> of shrines along with directions and advice to pilgrims. The...",
+            "fid" : "content" } ] } ] }

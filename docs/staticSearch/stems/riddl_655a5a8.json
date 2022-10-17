@@ -1,0 +1,107 @@
+
+  { "stem" : "riddl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>" },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 2091,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 3794,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 3853,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 4064,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 4103,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 4927,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 1919,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1" },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 3642,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1" },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 3941,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1" },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 3979,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1" },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 3998,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1" },
+          
+          { "form" : "Riddles",
+            "weight" : "1",
+            "pos" : 5891,
+            "context" : "The Blue Book of <mark>Riddles<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "riddles",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "Herein are presented all manner of <mark>riddles<\/mark>, as collected by the scholars of St Rilms, to...",
+            "fid" : "content" } ] } ] }

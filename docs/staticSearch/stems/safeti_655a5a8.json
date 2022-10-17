@@ -1,0 +1,14 @@
+
+  { "stem" : "safeti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "safety",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...The ring gave its wearer great powers of persuasion; for <mark>safety<\/mark>, it was enchanted to instantly kill anyone who wore it...",
+            "fid" : "content" } ] } ] }

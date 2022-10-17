@@ -1,0 +1,14 @@
+
+  { "stem" : "three-fac",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "three-faced",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...prayer and devotion. The three-sided shrines betoken the <mark>three-faced<\/mark> benison of Almsivi, and may be found in Temples,...",
+            "fid" : "content" } ] } ] }

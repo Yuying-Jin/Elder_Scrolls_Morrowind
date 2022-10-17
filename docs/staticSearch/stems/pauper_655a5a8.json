@@ -1,0 +1,14 @@
+
+  { "stem" : "pauper",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "paupers",
+            "weight" : "1",
+            "pos" : 494,
+            "context" : "...and St. Olms Canton are residence cantons for commoners and <mark>paupers<\/mark>. The Temple charges very reasonable rents for comfortable workshops,...",
+            "fid" : "content" } ] } ] }

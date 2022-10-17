@@ -1,0 +1,25 @@
+
+  { "stem" : "insect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "insects",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...inspired by the landscape and by the shells of giant native <mark>insects<\/mark>. Redoran villages are typically centered on Temple compounds and their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "insects",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...inspired by the landscape and by the shells of giant native <mark>insects<\/mark>. Most guildhalls, cornerclubs, and merchants are sited in...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "earlier",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "earlier",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...Dunmer culture has a special hatred for vampires, and in <mark>earlier<\/mark> times the Ordinators and Buoyant Armigers hunted them to extinction....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "earlier",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...Dunmer culture has a special hatred for vampires, and in <mark>earlier<\/mark> times the Ordinators and Buoyant Armigers hunted them to extinction....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,70 @@
+
+  { "stem" : "arch",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arched",
+            "weight" : "1",
+            "pos" : 316,
+            "context" : "...simple multi-storied buildings roughly rectangular in plan, featuring <mark>arched<\/mark> entranceways and modest decorated exteriors. More modest one-story...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arch",
+            "weight" : "1",
+            "pos" : 578,
+            "context" : " Tel Aruhn is the Telvanni tower of <mark>Arch<\/mark>-Mage Gothren, Telvanni Sorcerer-Lord and head of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arch",
+            "weight" : "1",
+            "pos" : 6616,
+            "context" : "<mark>Arch<\/mark>-Mage Gothren" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arch",
+            "weight" : "1",
+            "pos" : 6713,
+            "context" : "<mark>arch<\/mark> mage gothren",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arches",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "<mark>Arches<\/mark> and spires line the rock halls,",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arch",
+            "weight" : "1",
+            "pos" : 528,
+            "context" : "...towards the sea, and is marked by a large natural <mark>arch<\/mark> of stone. The region is wilderness, and finding the...",
+            "fid" : "content" } ] } ] }

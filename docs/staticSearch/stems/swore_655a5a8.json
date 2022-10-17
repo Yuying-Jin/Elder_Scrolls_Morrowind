@@ -1,0 +1,36 @@
+
+  { "stem" : "swore",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swore",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "You <mark>swore<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swore",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "The Master's Voice You <mark>swore<\/mark>. To Serve. Your Lord. Commands.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swore",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...the courage and daring of Vivec, the moon Baar Dau <mark>swore<\/mark> itself to eternal service of the Tribunal and all its works...",
+            "fid" : "content" } ] } ] }

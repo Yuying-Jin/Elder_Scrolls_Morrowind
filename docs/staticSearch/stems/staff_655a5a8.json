@@ -1,0 +1,14 @@
+
+  { "stem" : "staff",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "staff",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...Archcanon Saryoni presides over the temple, along with a large <mark>staff<\/mark> of priests, healers, and monks. Pilgrims travel from...",
+            "fid" : "content" } ] } ] }

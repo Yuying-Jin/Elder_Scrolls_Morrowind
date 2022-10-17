@@ -1,0 +1,25 @@
+
+  { "stem" : "hint",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hint",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "..., untruths, inconsistencies, conflicting accounts and varying interpretations which <mark>hint<\/mark> at darker and less heroic motives and actions of the Tribunes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hint",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "..., untruths, inconsistencies, conflicting accounts and varying interpretations which <mark>hint<\/mark> at darker and less heroic motives and actions of the Tribunes...",
+            "fid" : "content" } ] } ] }

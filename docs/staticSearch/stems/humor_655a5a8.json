@@ -1,0 +1,25 @@
+
+  { "stem" : "humor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "humor",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...wasn't used to Khajiit either. Or their dark sense of <mark>humor<\/mark>. He took some sarcastic comments from Master S'Rabba literally,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "humor",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...Boethiah or one of the other daedra with cruel senses of <mark>humor<\/mark>.",
+            "fid" : "content" } ] } ] }

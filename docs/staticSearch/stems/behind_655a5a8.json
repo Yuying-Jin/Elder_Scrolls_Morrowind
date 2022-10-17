@@ -1,0 +1,64 @@
+
+  { "stem" : "behind",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...technique. Simply put, you grab your victim's throat from <mark>behind<\/mark> and while throttling him, you batter his face against the opposite...",
+            "fid" : "content" },
+          
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "...unconscious, you slash his throat while still holding him from <mark>behind<\/mark>, and the risk of staining one's clothes with blood is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "'Look, little Vehk, and find the face <mark>behind<\/mark> the splendor of my bladed carriage, for in it is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...distance to the south of Ald'ruhn town, through South Gate <mark>behind<\/mark> the Mages Guild.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...Lord Vivec. I shall not shun risk, nor hide <mark>behind<\/mark> the mask of cautious counsel, for fortune favors the bold...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "behind",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...When you address the shrine, it is customary to leave <mark>behind<\/mark> a Potion of Rising Force. Suitable potions may be purchased...",
+            "fid" : "content" } ] } ] }

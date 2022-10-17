@@ -1,0 +1,81 @@
+
+  { "stem" : "stori",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "storied",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "..., manors and council halls—are designed as simple multi-<mark>storied<\/mark> buildings roughly rectangular in plan, featuring arched entranceways and modest...",
+            "fid" : "content" },
+          
+          { "form" : "story",
+            "weight" : "1",
+            "pos" : 324,
+            "context" : "...arched entranceways and modest decorated exteriors. More modest one-<mark>story<\/mark> private dwellings follow the same plan, except with less decoration...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "story",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "...of the most striking persistent myths associated with Vivec is the <mark>story<\/mark> that Vivec conspired with his co-rulers Almalexia and Sotha...",
+            "fid" : "content" },
+          
+          { "form" : "story",
+            "weight" : "1",
+            "pos" : 321,
+            "context" : "...Nerevar, the greatest of Dunmer heroes and generals. The <mark>story<\/mark> is derived from Ashlander oral tradition, and is flatly contradicted...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stories",
+            "weight" : "1",
+            "pos" : 504,
+            "context" : "...torn apart by the animal servants they created. Let such <mark>stories<\/mark> be a lesson to you.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "story",
+            "weight" : "1",
+            "pos" : 510,
+            "context" : "\"Mighty Gothren, that part of the <mark>story<\/mark> hasn't happened yet,\" said Rhunen Zebavi. \"Are you ready...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stories",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...the Wisdom of the Seven Graces. The Cantatas relate many <mark>stories<\/mark> of Vivec's experiments with challenge and risk, his failures and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "story",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...corpse of a defeated foe. Several different versions of this <mark>story<\/mark> exist, with the foe variously identified as a Daedra Lord...",
+            "fid" : "content" } ] } ] }

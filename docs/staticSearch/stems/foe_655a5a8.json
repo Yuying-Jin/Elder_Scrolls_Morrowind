@@ -1,0 +1,64 @@
+
+  { "stem" : "foe",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "foe",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : "..., spawned the first vampire upon the corpse of a defeated <mark>foe<\/mark>. Several different versions of this story exist, with the...",
+            "fid" : "content" },
+          
+          { "form" : "foe",
+            "weight" : "1",
+            "pos" : 351,
+            "context" : ".... Several different versions of this story exist, with the <mark>foe<\/mark> variously identified as a Daedra Lord, a Temple Saint,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "foe",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "\"Outnumbered and isolated, I yielded to my <mark>foe<\/mark>. The creature dressed like a gentleman, and I hoped...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "foe",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : ".... “He is said to be very powerful, an implacable <mark>foe<\/mark>.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Foes",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "Dark Blooded <mark>Foes<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "foe",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...the Daedra Lord rather than dishonor himself by fighting an unarmed <mark>foe<\/mark>. This so impressed the Dremora, the most honorable and...",
+            "fid" : "content" } ] } ] }

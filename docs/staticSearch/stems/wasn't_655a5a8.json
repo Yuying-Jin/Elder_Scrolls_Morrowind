@@ -1,0 +1,20 @@
+
+  { "stem" : "wasn't",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wasn't",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...rage, which that particular comment had only enflamed. \"He <mark>wasn't<\/mark> used to Khajiit either. Or their dark sense of humor...",
+            "fid" : "content" },
+          
+          { "form" : "wasn't",
+            "weight" : "1",
+            "pos" : 431,
+            "context" : "\"It <mark>wasn't<\/mark> bravery, it was economics,\" smiled Rhunen Zebavi. \"I...",
+            "fid" : "content" } ] } ] }

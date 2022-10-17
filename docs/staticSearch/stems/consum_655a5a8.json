@@ -1,0 +1,25 @@
+
+  { "stem" : "consum",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "consuming",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...are between the joints, which is more expensive and time <mark>consuming<\/mark>, but they protect the servant where it is weakest....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "consuming",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...wish we knew tricks, for it's far too time-<mark>consuming<\/mark> to have to master actual feats.\"",
+            "fid" : "content" } ] } ] }

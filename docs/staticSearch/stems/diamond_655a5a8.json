@@ -1,0 +1,43 @@
+
+  { "stem" : "diamond",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "diamonds",
+            "weight" : "1",
+            "pos" : 473,
+            "context" : "...prized effects of potions, can be made only from crushed <mark>diamonds<\/mark> and bittergreen petals. Bittergreen is a red flowering plant growing...",
+            "fid" : "content" },
+          
+          { "form" : "diamonds",
+            "weight" : "1",
+            "pos" : 484,
+            "context" : "...a red flowering plant growing in the Red Mountain region. <mark>diamonds<\/mark>, on the other hand, are very rare and expensive...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diamonds",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "<mark>diamonds<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diamonds",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "<mark>diamonds<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

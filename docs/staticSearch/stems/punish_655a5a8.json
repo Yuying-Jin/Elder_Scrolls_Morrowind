@@ -1,0 +1,25 @@
+
+  { "stem" : "punish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "punishments",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...other race caught in Summerset Isle can expect the worst possible <mark>punishments<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "punish",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "...guard and counsel their followers. Like stern parents, they <mark>punish<\/mark> sin and error. Like generous relatives, they share their...",
+            "fid" : "content" } ] } ] }

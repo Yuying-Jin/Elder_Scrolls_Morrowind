@@ -1,0 +1,14 @@
+
+  { "stem" : "ransom",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ransom",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...the Lady Genevrah was kidnapped from her estate and held for <mark>ransom<\/mark>, her mother sent word out that whoever rescued her would...",
+            "fid" : "content" } ] } ] }

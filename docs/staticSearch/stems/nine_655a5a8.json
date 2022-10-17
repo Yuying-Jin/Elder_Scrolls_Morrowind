@@ -1,0 +1,101 @@
+
+  { "stem" : "nine",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "...Empire's remote provinces. The cults combine the worship of the <mark>Nine<\/mark> Divines, the Aedra Akatosh, Dibella, Arkay, Zenithar...",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...Our doctrines are simple. We acknowledge the divinity of the <mark>Nine<\/mark> Divines: Akatosh, Dibella, Arkay, Zenithar, Mara...",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...Kynareth, Julianos, and Tiber Septim. We preach the <mark>Nine<\/mark> Virtues: Humility, Inspiration, Piety, Work, Compassion...",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : " The Imperial cults look to the <mark>Nine<\/mark> Divines as models for living a good and virtuous life....",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...for living a good and virtuous life. Each of the <mark>Nine<\/mark> represents different aspects of life, and how it should be...",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "...-- modest fees which help us spread the blessings of the <mark>Nine<\/mark> to those less fortunate than ourselves.",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : " Seekers who wish to advance in the service of the <mark>Nine<\/mark> must dedicate time and resources to serving the cult, and...",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : " To serve and glorify the <mark>Nine<\/mark> Divines, the faithful must cultivate a noble personality and a...",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 576,
+            "context" : "...spirited adventurers. Shrine sergeants are called upon to serve the <mark>Nine<\/mark> with weapon, armor, and spell. New shrine sergeants...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 481,
+            "context" : "...softly sang an old dirty tavern song about the Ninety-<mark>Nine<\/mark> Loves of Boethiah. He said it helped him focus and...",
+            "fid" : "content" },
+          
+          { "form" : "Nine",
+            "weight" : "1",
+            "pos" : 810,
+            "context" : "...could still hear Imalyn's voice nearby, singing The Ninety-<mark>Nine<\/mark> Loves of Boethiah. He lay still in his bed,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nine",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : " Vvardenfell has <mark>nine<\/mark> basic geographic regions, each with their own distinctive plants and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nine",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...His heart fell. She had found another, a mere <mark>nine<\/mark> years since she had given him that look while at play...",
+            "fid" : "content" } ] } ] }

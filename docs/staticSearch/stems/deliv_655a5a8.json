@@ -1,0 +1,47 @@
+
+  { "stem" : "deliv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "delivered",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...the splendor of my bladed carriage, for in it is <mark>delivered<\/mark> the unmixed conflict path, perfect in every way. What...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "delivering",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...a deep cavern on the northern slopes of Dagoth Ur, <mark>delivering<\/mark> it to Molag Bal's shrine in Bal Ur.]",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deliver",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...the Savior turned Dagon's titanic fury long enough for Chimere to <mark>deliver<\/mark> his own attack -- an incantation invoked upon Dagon's \"Protonymic\" (i.e.,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deliver",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...healers, including Kena Yakin Bael. When Oin came to <mark>deliver<\/mark> the herbs that day, he said, \"If you are...",
+            "fid" : "content" } ] } ] }

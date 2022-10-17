@@ -1,0 +1,37 @@
+
+  { "stem" : "skink",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skink",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "<mark>Skink<\/mark>-in-Tree's-Shade: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skink",
+            "weight" : "1",
+            "pos" : 3518,
+            "context" : "<mark>Skink<\/mark>-in-Tree's-Shade" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skink",
+            "weight" : "1",
+            "pos" : 3670,
+            "context" : "<mark>skink<\/mark> in tree's shade",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

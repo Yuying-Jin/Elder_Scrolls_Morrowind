@@ -1,0 +1,25 @@
+
+  { "stem" : "overcom",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "overcoming",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...Saints, and gain blessings and learn virtue by suffering and <mark>overcoming<\/mark> hardships.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "overcoming",
+            "weight" : "1",
+            "pos" : 583,
+            "context" : "...power of ALMSIVI, and a monument to Dunmer pride in <mark>overcoming<\/mark> its enemies.",
+            "fid" : "content" } ] } ] }

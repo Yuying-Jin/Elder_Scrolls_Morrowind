@@ -1,0 +1,369 @@
+
+  { "stem" : "ordo",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 28,
+        "contexts" : 
+        [ 
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "<mark>Ordo<\/mark> Legionis" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 477,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 3",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 524,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 647,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 690,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 918,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1301,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1514,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1596,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1794,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1969,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1988,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2150,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2197,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2349,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2817,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2889,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 3118,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 4779,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5493,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5667,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5698,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5789,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 6",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5796,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5991,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 6077,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 6564,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 27,
+        "contexts" : 
+        [ 
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 3" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 352,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 477,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 520,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 755,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1153,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1349,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1425,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1634,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1798,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1812,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 1989,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2022,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2179,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2650,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2720,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 2943,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 4649,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 3" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5289,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5411,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5459,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5540,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 6" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5547,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 3" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5708,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 5797,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 1" },
+          
+          { "form" : "Ordo",
+            "weight" : "1",
+            "pos" : 6457,
+            "context" : "<mark>Ordo<\/mark> Legionis, count: 2" } ] } ] }

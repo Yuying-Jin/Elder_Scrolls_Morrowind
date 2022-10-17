@@ -1,0 +1,131 @@
+
+  { "stem" : "salt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "salt",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...servant is to soak the decaying corpse in a bath of <mark>salt<\/mark> or natron for at least one month. This will halt...",
+            "fid" : "content" },
+          
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...corpse is fresh enough to have an unpleasant odor, the <mark>salts<\/mark> will remove that as well. In a moist climate,...",
+            "fid" : "content" },
+          
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "...as Argonian or Thras, you may have to apply more <mark>salts<\/mark> if they become saturated. Some Necromancers remove the vital organs...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "ash <mark>salts<\/mark>" },
+          
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "frost_<mark>salts<\/mark>" },
+          
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 575,
+            "context" : "void <mark>salts<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "ash <mark>salts<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "frost <mark>salts<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 749,
+            "context" : "void <mark>salts<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "a pinch of ash <mark>salts<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...from the pan into the pie crust. Sprinkle with ash <mark>salts<\/mark> and cover the pie crust. Bake for one quarter hour...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "To restore magicka for spellcasting, combine comberry and frost <mark>salts<\/mark>. comberry is a bitter berry, used to make wines...",
+            "fid" : "content" },
+          
+          { "form" : "salts",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...wines. It grows mainly in the Ascadian Isles. frost <mark>salts<\/mark>, by contrast, are rare and expensive. These crystalline...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "salt",
+            "weight" : "1",
+            "pos" : 700,
+            "context" : "...north to Gnaar Mok is called the Bitter Coast. The <mark>salt<\/mark> marshes and humid swamps of this region are uninhabited, with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Salts",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...Daedra's Heart of Daedra 1 Part mixed Bittergreen Petals, Void <mark>Salts<\/mark>, Green Lichens and Bonemeal 1 Part Moonsugar 5 Parts Flin...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "tend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tended",
+            "weight" : "1",
+            "pos" : 572,
+            "context" : "..., distorted victims of the deadly corprus disease are housed and <mark>tended<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tend",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...Heartlanders like myself, and assimilated Imperial Citizens of other races, <mark>tend<\/mark> to impersonal and formal relationships with their gods and spirits....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tended",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "As he <mark>tended<\/mark> his garden one springtide, not very many years ago,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tends",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "...unsure, strangle the victim first to avoid the blood that <mark>tends<\/mark> to spurt out in three foot jets when someone is stabbed...",
+            "fid" : "content" } ] } ] }

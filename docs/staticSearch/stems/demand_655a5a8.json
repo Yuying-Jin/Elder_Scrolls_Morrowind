@@ -1,0 +1,20 @@
+
+  { "stem" : "demand",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "demand",
+            "weight" : "1",
+            "pos" : 589,
+            "context" : "...are given the easiest tasks, but later, missions may <mark>demand<\/mark> higher levels of combat proficiency. Those interested should speak to...",
+            "fid" : "content" },
+          
+          { "form" : "demanding",
+            "weight" : "1",
+            "pos" : 602,
+            "context" : " Oracle's Quests are the most <mark>demanding<\/mark> of all Imperial cult missions. Only members of the higher...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,42 @@
+
+  { "stem" : "bay",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bay",
+            "weight" : "1",
+            "pos" : 539,
+            "context" : "...between the Ebonheart region and Hlaalu Compound, between the north <mark>bay<\/mark> region and the Foreign Quarter, and between the east bay...",
+            "fid" : "content" },
+          
+          { "form" : "bay",
+            "weight" : "1",
+            "pos" : 544,
+            "context" : "...bay region and the Foreign Quarter, and between the east <mark>bay<\/mark> region and Telvanni Compound. Good roads lead from the Hlaalu...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bay",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "...deterrent to the bandits and pirates that still threaten the Iliac <mark>Bay<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bay",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...Legion garrison and guilds. The docks are in a sheltered <mark>bay<\/mark> on the western side of the island, and a trail...",
+            "fid" : "content" } ] } ] }

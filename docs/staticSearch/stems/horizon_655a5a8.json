@@ -1,0 +1,14 @@
+
+  { "stem" : "horizon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "horizon",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : "...after washing ashore that the men saw a boat on the <mark>horizon<\/mark>. They set a large fire, and the crew saw...",
+            "fid" : "content" } ] } ] }

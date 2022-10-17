@@ -1,0 +1,43 @@
+
+  { "stem" : "expens",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "expensive",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...Isles. frost salts, by contrast, are rare and <mark>expensive<\/mark>. These crystalline compounds precipitate from elemental frost in solution....",
+            "fid" : "content" },
+          
+          { "form" : "expensive",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "..., the potions most favored by adventurers require more rare and <mark>expensive<\/mark> ingredients. There are exceptions, like the easy and affordable...",
+            "fid" : "content" },
+          
+          { "form" : "expensive",
+            "weight" : "1",
+            "pos" : 422,
+            "context" : "...-sentient forms of the sload. sload soap is not <mark>expensive<\/mark>, but is only rarely stocked by apothecaries or alchemists,...",
+            "fid" : "content" },
+          
+          { "form" : "expensive",
+            "weight" : "1",
+            "pos" : 487,
+            "context" : "...diamonds, on the other hand, are very rare and <mark>expensive<\/mark> and usually must be purchased from fine alchemists.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expensive",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...drive metal spikes are between the joints, which is more <mark>expensive<\/mark> and time consuming, but they protect the servant where it...",
+            "fid" : "content" } ] } ] }

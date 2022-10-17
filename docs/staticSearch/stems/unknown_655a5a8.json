@@ -1,0 +1,31 @@
+
+  { "stem" : "unknown",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "unknown",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...of Morrowind culture toward necromancy ensures that vampires are virtually <mark>unknown<\/mark> in Morrowind...",
+            "fid" : "content" },
+          
+          { "form" : "unknown",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "...In the East, the Western tradition of vampire Hunters is <mark>unknown<\/mark>. Vampirism is known to be incurable, and even if...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unknown",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...Boethiah, who was the Prince of Plots, and things <mark>unknown<\/mark> and known would fold themselves around her until they were like...",
+            "fid" : "content" } ] } ] }

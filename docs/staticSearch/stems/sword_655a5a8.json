@@ -1,0 +1,87 @@
+
+  { "stem" : "sword",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sword",
+            "weight" : "1",
+            "pos" : 606,
+            "context" : "..., and prompted his sparring partner to attack him with his <mark>sword<\/mark>. He blocked the blows effortlessly with a shield for ten...",
+            "fid" : "content" },
+          
+          { "form" : "sword",
+            "weight" : "1",
+            "pos" : 634,
+            "context" : "..., and prompted Priif's sparring partner to attack him with his <mark>sword<\/mark>. After twenty minutes of blocking the man's blows with his...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swords",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...brother-sister, who possesses invisible knowledge of words and <mark>swords<\/mark>, which you shall nurture until the Hortator comes.'",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swords",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : " The Guild of Fighters provides employment to free-<mark>swords<\/mark> and mercenaries and contracts to local citizens. Citizens may contract...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sword",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "...the altar, and gazed in the reflection of my own <mark>sword<\/mark> blade at my own face - no longer a blood-...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sword",
+            "weight" : "1",
+            "pos" : 351,
+            "context" : "long-<mark>sword<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sword",
+            "weight" : "1",
+            "pos" : 523,
+            "context" : "long <mark>sword<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sword",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "...longsword if spoken to with courtesy. After Krazzt accepts the <mark>sword<\/mark>, pilgrims must read the inscription on the triolith.",
+            "fid" : "content" } ] } ] }

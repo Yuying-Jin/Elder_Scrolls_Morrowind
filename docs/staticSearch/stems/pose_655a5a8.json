@@ -1,0 +1,36 @@
+
+  { "stem" : "pose",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pose",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "While the forests of Elsweyr <mark>pose<\/mark> some of the same problems as those of Black Marsh,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "posed",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...the Tribunal have been concealing the true nature of the threat <mark>posed<\/mark> by Dagoth Ur at Red Mountain, misleading the people about...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "posed",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...the Tribunal have been concealing the true nature of the threat <mark>posed<\/mark> by Dagoth Ur at Red Mountain, misleading the people about...",
+            "fid" : "content" } ] } ] }

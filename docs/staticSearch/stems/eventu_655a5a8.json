@@ -1,0 +1,25 @@
+
+  { "stem" : "eventu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Eventually",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...for information you don't have, have you? I wouldn't recommend it. <mark>Eventually<\/mark>, we were let go on the understanding that we would...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eventually",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "Oin <mark>eventually<\/mark> learned to make a living at the only skill he seemed...",
+            "fid" : "content" } ] } ] }

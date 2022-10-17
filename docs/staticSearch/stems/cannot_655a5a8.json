@@ -1,0 +1,92 @@
+
+  { "stem" : "cannot",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...quality of workmanship, but comment that, regretfully, you simply <mark>cannot<\/mark> afford such a price. When the shop-keeper compliments...",
+            "fid" : "content" },
+          
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "...and there at the best price you can get. I <mark>cannot<\/mark> tell you how many times I passed up a rare and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "In the great wind of progress, tradition <mark>cannot<\/mark> stand.",
+            "fid" : "content" },
+          
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...they fight among themselves more than against each other, and they <mark>cannot<\/mark> adapt to the ways of the Empire. Ancient and powerful...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...Temple, and a sin so great that ages of burning <mark>cannot<\/mark> cleanse the fault. Abide not the sorcerer among you, for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...Given the difficulty of obtaining corpses, this kind of inefficiency <mark>cannot<\/mark> be tolerated.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 651,
+            "context" : "...which strongly supports the Emperor and Imperial principles. Though we <mark>cannot<\/mark> condone the actions of the Thieves Guild, we praise their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...and instantly experienced a blinding of pain and terror that I <mark>cannot<\/mark> express in words, except that it seemed afterward that I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cannot",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : "...but is only rarely stocked by apothecaries or alchemists, and <mark>cannot<\/mark> be collected locally.",
+            "fid" : "content" } ] } ] }

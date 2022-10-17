@@ -1,0 +1,14 @@
+
+  { "stem" : "martial",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "martial",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...of Justice contain the executive, administrative, judicial, and <mark>martial<\/mark> operations of the Tribunal Temple. The Palace of Vivec is...",
+            "fid" : "content" } ] } ] }

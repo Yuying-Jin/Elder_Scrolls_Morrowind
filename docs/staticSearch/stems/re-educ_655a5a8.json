@@ -1,0 +1,14 @@
+
+  { "stem" : "re-educ",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "re-educated",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...headquarters of the Temple Ordinators, and heretics are imprisoned and <mark>re-educated<\/mark> there. The Hall of Wisdom and Hall of Justice contain the...",
+            "fid" : "content" } ] } ] }

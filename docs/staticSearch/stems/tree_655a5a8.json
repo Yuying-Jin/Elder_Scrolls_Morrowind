@@ -1,0 +1,111 @@
+
+  { "stem" : "tree",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...found anything edible anywhere. Just weeds and a few scraggly <mark>trees<\/mark>.\"",
+            "fid" : "content" },
+          
+          { "form" : "tree",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...small knife to whittle a point on a long, straight <mark>tree<\/mark> branch until he had fashioned a spear. Again and again,...",
+            "fid" : "content" },
+          
+          { "form" : "tree",
+            "weight" : "1",
+            "pos" : 421,
+            "context" : "...by watching. Don't forget the fifth crate over by the <mark>tree<\/mark>.\" S'Riizh shuffled over to the shore and saw that the...",
+            "fid" : "content" },
+          
+          { "form" : "tree",
+            "weight" : "1",
+            "pos" : 445,
+            "context" : "...to that too.\" S'Riizh shuffled back to the crate by the <mark>tree<\/mark>. \"And it occurred to S'Riizh that a fortune divided by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "Ironwood Nut, this rare nut comes from the Ironwood <mark>trees<\/mark> which grow deep in the forests of Skyrim. The wood...",
+            "fid" : "content" },
+          
+          { "form" : "trees",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "...deep in the forests of Skyrim. The wood from these <mark>trees<\/mark> is as hard as the metal for which they are named...",
+            "fid" : "content" },
+          
+          { "form" : "tree",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...for which they are named. The very rare black ironwood <mark>tree<\/mark> is said to produce a nut which is very succulent and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tree",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...the number of birds that can nest in an ancient tibrol <mark>tree<\/mark>, less three grams of honest work, but Vivec in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trees\"",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...Necromancers who practice our Arts in Valenwood become \"one with the <mark>trees\"<\/mark> themselves.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tree's",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Skink-in-<mark>Tree's<\/mark>-Shade: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tree's",
+            "weight" : "1",
+            "pos" : 3519,
+            "context" : "Skink-in-<mark>Tree's<\/mark>-Shade" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tree's",
+            "weight" : "1",
+            "pos" : 3671,
+            "context" : "skink in <mark>tree's<\/mark> shade",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

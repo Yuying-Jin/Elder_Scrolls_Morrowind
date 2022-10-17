@@ -1,0 +1,14 @@
+
+  { "stem" : "headquart",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "headquarters",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...by Vivec's mighty power over the Temple Compound, is the <mark>headquarters<\/mark> of the Temple Ordinators, and heretics are imprisoned and re...",
+            "fid" : "content" } ] } ] }

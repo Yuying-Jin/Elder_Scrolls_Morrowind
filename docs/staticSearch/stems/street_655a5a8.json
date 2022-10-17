@@ -1,0 +1,25 @@
+
+  { "stem" : "street",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "street",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...power nature had intended. When Oin met Horath on the <mark>street<\/mark> of Gnisis, he cast the spell and challenged him to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "streets",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...seeing a bunch of blood-soaked butchers running through the <mark>streets<\/mark>. Even in Tel Aruhn, that's likely to warrant suspicion...",
+            "fid" : "content" } ] } ] }

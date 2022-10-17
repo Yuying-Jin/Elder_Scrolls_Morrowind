@@ -1,0 +1,36 @@
+
+  { "stem" : "describ",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Boethiahs_Pillow_Book",
+        "docUri" : "librarium\/Boethiahs_Pillow_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "describe",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "No words can <mark>describe<\/mark> what you see. Or what you think you see....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "described",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...Scholars have based their classifications on the different types of land <mark>described<\/mark> by the native Ashlanders, so the designations are recognized by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "described",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...Dunmer concepts of Vivec, even if they are not explicitly <mark>described<\/mark> and explained in Temple doctrine.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,71 @@
+
+  { "stem" : "entertain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "entertainments",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...and pilgrims daily. Citizens flock to the Arena for public <mark>entertainments<\/mark> like mock battles and comic plays. Outlanders mostly confine themselves...",
+            "fid" : "content" },
+          
+          { "form" : "entertainments",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...on the east. The Arena is the site of public <mark>entertainments<\/mark> and combat sports. The comfortable domed Arena has seating for...",
+            "fid" : "content" },
+          
+          { "form" : "entertainers",
+            "weight" : "1",
+            "pos" : 472,
+            "context" : "...spectators; beneath the Arena are dressing and storage rooms for <mark>entertainers<\/mark> and training rooms and animal pens for the combat competitors....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "entertaining",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Master Gothren agreed to see the acrobats because he needed <mark>entertaining<\/mark>. For months now, he had been struggling with his fellow...",
+            "fid" : "content" },
+          
+          { "form" : "entertained",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "\"Neloth?!\" roared Gothren. \"You <mark>entertained<\/mark> that whoreson?!\"",
+            "fid" : "content" },
+          
+          { "form" : "entertainment",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...then, but we decided that he still owed us for the <mark>entertainment<\/mark> we provided under torture. We weren't sure how to collect...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "entertain",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...the Treaty of the Armistice, and Telvanni Council will not <mark>entertain<\/mark> any discussion of abridgements of those rights. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "entertainments",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...tourists and pilgrims daily. Citizens flock to the Arena for <mark>entertainments<\/mark> and war games. Outlanders mostly confine themselves to the Foreign...",
+            "fid" : "content" } ] } ] }

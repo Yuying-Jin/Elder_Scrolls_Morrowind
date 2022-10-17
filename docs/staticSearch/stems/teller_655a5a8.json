@@ -1,0 +1,14 @@
+
+  { "stem" : "teller",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teller",
+            "weight" : "1",
+            "pos" : 566,
+            "context" : "..., muddied her face to resemble an old f'lah fortune-<mark>teller<\/mark>, and headed north. Imalyn headed east into the park...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "chain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Chained",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...wondrous love it is To bind two souls in faith, <mark>Chained<\/mark> completely together With never a false word, Weal and woe...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chain",
+            "weight" : "1",
+            "pos" : 703,
+            "context" : "...Hours would pass, and so would their moods. The <mark>chain<\/mark> of reactions that every betrayed person exhibits: nervousness, doubt...",
+            "fid" : "content" } ] } ] }

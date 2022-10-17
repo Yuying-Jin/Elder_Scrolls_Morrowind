@@ -1,0 +1,58 @@
+
+  { "stem" : "yield",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "yielded",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "\"Outnumbered and isolated, I <mark>yielded<\/mark> to my foe. The creature dressed like a gentleman,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "yield",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...then drove Dagoth Ur beneath Red Mountain when he would not <mark>yield<\/mark> to their will.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "yield",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...then drove Dagoth Ur beneath Red Mountain when he would not <mark>yield<\/mark> to their will.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "yield",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "Faith conquers all. Let us <mark>yield<\/mark> to Faith.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "yield",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "Faith conquers all. Let us <mark>yield<\/mark> to Faith.",
+            "fid" : "content" } ] } ] }

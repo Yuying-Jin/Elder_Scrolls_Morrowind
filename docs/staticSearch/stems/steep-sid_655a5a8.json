@@ -1,0 +1,14 @@
+
+  { "stem" : "steep-sid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steep-sided",
+            "weight" : "1",
+            "pos" : 879,
+            "context" : "..., Molag Amur is an uninhabited wasteland of rocky hills, <mark>steep-sided<\/mark> ravines, lava pools, and barren ash pavements. Pathfinding...",
+            "fid" : "content" } ] } ] }

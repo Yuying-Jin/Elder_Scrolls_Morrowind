@@ -1,0 +1,154 @@
+
+  { "stem" : "say",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...man -- aside from his gardening, he had little to <mark>say<\/mark> for himself. Unlearned, uncharismatic, unathletic, uncoordinated. And...",
+            "fid" : "content" },
+          
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "\"I would <mark>say<\/mark>, Master Combova,\" said Yakin. \"They say he can...",
+            "fid" : "content" },
+          
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 383,
+            "context" : "...\"I would say, Master Combova,\" said Yakin. \"They <mark>say<\/mark> he can stand in blue flames for twenty minutes.\"",
+            "fid" : "content" },
+          
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 523,
+            "context" : "\"I would <mark>say<\/mark>, Funcrazot Priif,\" said Yakin. \"They say he is...",
+            "fid" : "content" },
+          
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 528,
+            "context" : "...\"I would say, Funcrazot Priif,\" said Yakin. \"They <mark>say<\/mark> he is the greatest shield-blocker and pickpocket in Morrowind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...hewn table. \"B'vek, what do you want us to <mark>say<\/mark>? You asks us 'What do you do when you see...",
+            "fid" : "content" },
+          
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...do you do when you see a guard?' and I <mark>says<\/mark>, 'Stab the fetcher in the back.' What d'you prefer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...have crushed a world with my left hand,' he will <mark>say<\/mark>, 'but in my right hand is how it could have...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "...as well as our land of the living? No, I <mark>say<\/mark>, no, and no, three times more. Such necromancers must die...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : " We also <mark>say<\/mark>, \"do not harm one another.\" It is forbidden to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 662,
+            "context" : "...competing camps of hirelings and adventurers exploring and looting there. Legend <mark>says<\/mark> that Bal Fell was built on the site of an ancient...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "The Dissident priests <mark>say<\/mark> that the Temple has always maintained a public face [represented...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 406,
+            "context" : "...the Gateway Inn. Now, with all humility, I would <mark>say<\/mark> that no one is faster on their feet than our troupe...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "The Dissident priests <mark>say<\/mark> that the Temple has always maintained a public face [represented...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "says",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "Listen, faithful, to Vivec's words, for he <mark>says<\/mark> five times and five ways --",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "say",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "...is firmly established in the Dunmer imagination, as if to <mark>say<\/mark>, \"Of course Vivec would never have conspired to murder Lord...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "incarn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Incarnate",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "5. denial of the prophecies of the <mark>Incarnate<\/mark>, and persecution of the Nerevarines",
+            "fid" : "content" },
+          
+          { "form" : "Incarnate",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...Ashlander seers and wise women, and the prophecies of the <mark>Incarnate<\/mark>. Many among the Dissident priests have come to believe that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Incarnate",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "5. denial of the prophecies of the <mark>Incarnate<\/mark>, and persecution of the Nerevarines",
+            "fid" : "content" },
+          
+          { "form" : "Incarnate",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...Ashlander seers and wise women, and the prophecies of the <mark>Incarnate<\/mark>. Many among the Dissident priests have come to believe that...",
+            "fid" : "content" } ] } ] }

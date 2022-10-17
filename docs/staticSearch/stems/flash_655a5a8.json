@@ -1,0 +1,31 @@
+
+  { "stem" : "flash",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "flash",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...he didn't rustle a leaf with his pace. In a <mark>flash<\/mark>, Vanis was dead by Baranat's hands. The adventurer continued...",
+            "fid" : "content" },
+          
+          { "form" : "flashes",
+            "weight" : "1",
+            "pos" : 448,
+            "context" : "...stepped into. A trap with no escape. With three quick <mark>flashes<\/mark> of his hand, Baranat completed the Cycle of Blood,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flash",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "...admirers ask, \"Arnie, how can I become a <mark>flash<\/mark> and prosperous fellow like you?\"",
+            "fid" : "content" } ] } ] }

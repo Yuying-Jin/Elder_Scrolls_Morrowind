@@ -1,0 +1,283 @@
+
+  { "stem" : "west",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...north and east by the Sea of Ghosts, on the <mark>west<\/mark> by Skyrim, on the southwest by Cyrodiil (also known...",
+            "fid" : "content" },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...most of the island's population is confined to the relatively hospitable <mark>west<\/mark> and southwest coast, centered on the ancient city of Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "..., the Grazelands, Molag Amur, Red Mountain, the <mark>West<\/mark> Gash, and Sheogorad.",
+            "fid" : "content" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 1056,
+            "context" : " <mark>West<\/mark> Gash",
+            "fid" : "content" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 1062,
+            "context" : " The western highlands of Vvardefell are called the <mark>West<\/mark> Gash. The region extends from the Sea of Ghosts on...",
+            "fid" : "content" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 1195,
+            "context" : "...trade village astride the silt strider caravan route between the northwest <mark>West<\/mark> Gash and Ald'ruhn.",
+            "fid" : "content" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 1206,
+            "context" : "...Khuul are tiny fishing villages on the northern coast of the <mark>West<\/mark> Gash.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...are sited in the southwest corner of town, convenient to <mark>West<\/mark> Gate and the strider port, while the Temple is located...",
+            "fid" : "content" },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...Skar Inn and the Council Club cornerclub are found to the <mark>west<\/mark>, near West Gate and the silt strider port. The...",
+            "fid" : "content" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...the Council Club cornerclub are found to the west, near <mark>West<\/mark> Gate and the silt strider port. The Rat in the...",
+            "fid" : "content" },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...to avoid the barren wastes, and curves around towards the <mark>west<\/mark> until it heads south again to Caldera. Between Ald'ruhn and...",
+            "fid" : "content" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "...strider port is along the western town wall, north of <mark>West<\/mark> Gate. Silt strider service goes from Ald'ruhn to Balmora,...",
+            "fid" : "content" },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "...fee. Gnaar Mok is a LONG and exceptionally unpleasant walk <mark>west<\/mark> to the coast and then south; there are no trails...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...of Justice at the bottom, the Hlaalu Compound to the <mark>west<\/mark>, the Telvanni Compound on the east, and four cantons...",
+            "fid" : "content" },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...Redoran Compound is the canton south of the Foreign Quarter, <mark>west<\/mark> of and next to the Arena. The Redoran administrative center...",
+            "fid" : "content" },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 451,
+            "context" : " The Arena Compound lies between the Redoran compound on the <mark>west<\/mark> and the Telvanni compound on the east. The Arena is...",
+            "fid" : "content" },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 567,
+            "context" : "...points north. Good roads lead from the Foreign Quarter bridge <mark>west<\/mark> towards Seyda Neen, north towards Suran and the Ascadian Isles...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 3284,
+            "context" : "Sadrith_Mora,_Gateway_Inn,_<mark>West<\/mark>_Wing" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 4716,
+            "context" : "<mark>West<\/mark> Gash" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 4724,
+            "context" : "<mark>West<\/mark>_Gash" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 3411,
+            "context" : "sadrith mora, gateway inn, <mark>west<\/mark> wing",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 4846,
+            "context" : "<mark>west<\/mark> gash",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "The Fields of Kummu are <mark>west<\/mark> of Suran on the north shore of Lake Amaya as you...",
+            "fid" : "content" },
+          
+          { "form" : "west",
+            "weight" : "1",
+            "pos" : 513,
+            "context" : "...is inside the Koal Cave, a cavern on the seacoast <mark>west<\/mark> of the ancient stronghold Berandas and south of Gnisis. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...culture by their Anticipations. These Anticipations are known to the <mark>West<\/mark> as the sinister daedrai Lords Azura, Boethiah, and Mephala...",
+            "fid" : "content" },
+          
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "As known in the <mark>West<\/mark>, Mephala is the demon of murder, sex, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 278,
+            "context" : "...the ancient vampire demons who creep from their lairs in the <mark>West<\/mark>, seeking refuge in profane Daedric shrines, abandoned Dunmer Strongholds...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...and tradehouses gathered around a central plaza, as in the <mark>West<\/mark> Gash village of Gnisis. Ald'ruhn, the Redoran district seat...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...revenants, or 'zombies' as they are often called in the <mark>West<\/mark>, are known as 'bonewalkers' in Morrowind. Magic preserves the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...Honored Councilor of Redoran Council, Vvardenfell District, Lord of <mark>West<\/mark> Gash, of Ramoran Manor, Manor District, Ald'ruhn,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...revenants, or 'zombies' as they are often called in the <mark>West<\/mark>, are known as 'bonewalkers' in Morrowind. Magic preserves the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...is a tough shrub growing in the rocky highlands of the <mark>West<\/mark> Gash.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "Sadrith Mora, Gateway Inn, <mark>West<\/mark> Wing: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "West",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "... In the <mark>West<\/mark>, a shadowy fraternity of vampire hunters is believed to be...",
+            "fid" : "content" } ] } ] }

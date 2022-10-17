@@ -1,0 +1,25 @@
+
+  { "stem" : "terribl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "terrible",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...and the Demiprince joined together into a pillar of fighting styles <mark>terrible<\/mark> to behold and they danced before the egg and its learning...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "terrible",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : ".... The Dwemer were defeated, with great slaughter, and <mark>terrible<\/mark> sorceries were used, resulting in the utter extermination of House...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "oldest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oldest",
+            "weight" : "1",
+            "pos" : 416,
+            "context" : "...learned the spell to make his endurance like that of the <mark>oldest<\/mark> stone. He learned how to shrug off the effects of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oldest",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : ".... In this, hold the ordering of the Congeries among the <mark>oldest<\/mark> and most trusted of mages, and make secure this ordering...",
+            "fid" : "content" } ] } ] }

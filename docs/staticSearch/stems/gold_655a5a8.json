@@ -1,0 +1,152 @@
+
+  { "stem" : "gold",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 494,
+            "context" : "...combinations. Within seconds, the vault was open and the <mark>gold<\/mark> was in hand.",
+            "fid" : "content" },
+          
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 502,
+            "context" : "...after they entered. No alarm had been raised, the <mark>gold<\/mark> was gone, and corpses lay pooling blood on the stone...",
+            "fid" : "content" },
+          
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 521,
+            "context" : ".... You learned well.\" Lledos said as he poured the <mark>gold<\/mark> pieces into the specially designed compartments in his tunic's sleeves,...",
+            "fid" : "content" },
+          
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 669,
+            "context" : "..., dreaming of how they would spend their share of the <mark>gold<\/mark>. Both would wake up early and rush to the Plot...",
+            "fid" : "content" },
+          
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 768,
+            "context" : "He slipped the <mark>gold<\/mark> into the vault in his study, and went upstairs....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "<mark>gold<\/mark>_kanet" },
+          
+          { "form" : "Gold",
+            "weight" : "1",
+            "pos" : 1764,
+            "context" : "Flowers of <mark>Gold<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 422,
+            "context" : "<mark>gold<\/mark> kanet",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 1933,
+            "context" : "flowers of <mark>gold<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...Tribunal Temple where he had received his quest, accepted the <mark>gold<\/mark> and the thanks, and was back in his house in...",
+            "fid" : "content" },
+          
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "..., and where would that leave me? Do we have enough <mark>gold<\/mark> that I could support myself if you, Saint Seryn let it...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "..., he had grown an impressive garden of willow anther, <mark>gold<\/mark> kanet, chokeweed, white bloatroot, and trama shrubs....",
+            "fid" : "content" },
+          
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 551,
+            "context" : "...\"But in return, I want your next season's worth of <mark>gold<\/mark> kanet, all to myself.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...shop-keeper. If you are offered something for ten <mark>gold<\/mark> pieces, try offering six and see where that takes you....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gold",
+            "weight" : "1",
+            "pos" : 437,
+            "context" : "...tradesmen, craftsmen, and trainers, and the Flowers of <mark>Gold<\/mark> cornerclub provides lodgings for Redoran kin and retainers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 439,
+            "context" : "...economics,\" smiled Rhunen Zebavi. \"I considered the amount of <mark>gold<\/mark> and time it takes to train a good troupe, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gold",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : ".... The customary donation for those in good fortune is 100 <mark>gold<\/mark>.",
+            "fid" : "content" } ] } ] }

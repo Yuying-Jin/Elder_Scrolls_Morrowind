@@ -1,0 +1,25 @@
+
+  { "stem" : "artifact",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "artifact",
+            "weight" : "1",
+            "pos" : 1044,
+            "context" : "...rest of Morrowind. The Ghostfence itself is a colossal magical <mark>artifact<\/mark> that completely encircles Red Mountain and prevents the Blight from spilling...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "artifact",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...hope, except to pray that Mehrunes Dagon would reclaim his <mark>artifact<\/mark>. Considering how much havoc it was causing, it seemed...",
+            "fid" : "content" } ] } ] }

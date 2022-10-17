@@ -1,0 +1,14 @@
+
+  { "stem" : "argonia",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Argonia",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...and on the south by Black Marsh (also known as <mark>Argonia<\/mark>). Vvardenfell District encompasses Vvardefell [sic] Island, a...",
+            "fid" : "content" } ] } ] }

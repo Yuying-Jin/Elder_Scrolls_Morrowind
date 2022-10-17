@@ -1,0 +1,37 @@
+
+  { "stem" : "helvi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Helvi's",
+            "weight" : "1",
+            "pos" : 1588,
+            "context" : "Dren_Plantation,_<mark>Helvi's<\/mark>_Shack" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "helvi's",
+            "weight" : "1",
+            "pos" : 1757,
+            "context" : "dren plantation, <mark>helvi's<\/mark> shack",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Helvi's",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "Dren Plantation, <mark>Helvi's<\/mark> Shack: Visitable? yes",
+            "fid" : "acq" } ] } ] }

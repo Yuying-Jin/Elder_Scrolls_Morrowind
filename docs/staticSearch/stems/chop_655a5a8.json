@@ -1,0 +1,14 @@
+
+  { "stem" : "chop",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chopped",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : " 1 handful of <mark>chopped<\/mark> bittergreen",
+            "fid" : "content" } ] } ] }

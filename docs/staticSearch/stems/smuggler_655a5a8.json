@@ -1,0 +1,144 @@
+
+  { "stem" : "smuggler",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "<mark>Smuggler's<\/mark> Island" },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 558,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 3",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 1200,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 1889,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 2378,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 5279,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 6474,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 6780,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 16",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 7251,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 26",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 3" },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 1030,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 1718,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 2210,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 5987,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 6391,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 6694,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 16" },
+          
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 7126,
+            "context" : "<mark>Smuggler's<\/mark> Island, count: 26" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Smuggler's",
+            "weight" : "1",
+            "pos" : 718,
+            "context" : "..., Hla Oad, and Seyda Neen. Also called the <mark>Smuggler's<\/mark> Coast, the region's secluded coves and islands provide refuge for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "smugglers",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "...to have met on the night of the storm. The <mark>smugglers<\/mark> aboard would pay them good money for the moon sugar....",
+            "fid" : "content" } ] } ] }

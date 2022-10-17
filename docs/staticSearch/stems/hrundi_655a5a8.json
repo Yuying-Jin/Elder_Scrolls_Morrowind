@@ -1,0 +1,37 @@
+
+  { "stem" : "hrundi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hrundi",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "..., and Ery, Gateway's publican. At Wolverine Hall, <mark>Hrundi<\/mark> the Nord is the Fighters Guild steward, Procyon Nigiliusis [...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hrundi",
+            "weight" : "1",
+            "pos" : 6722,
+            "context" : "<mark>Hrundi<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hrundi",
+            "weight" : "1",
+            "pos" : 6826,
+            "context" : "<mark>hrundi<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

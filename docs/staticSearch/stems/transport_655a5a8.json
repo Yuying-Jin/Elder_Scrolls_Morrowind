@@ -1,0 +1,47 @@
+
+  { "stem" : "transport",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Transportation",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : " Travel and <mark>Transportation<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Transportation",
+            "weight" : "1",
+            "pos" : 289,
+            "context" : " <mark>Transportation<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Transportation",
+            "weight" : "1",
+            "pos" : 529,
+            "context" : " <mark>Transportation<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "transport",
+            "weight" : "1",
+            "pos" : 1245,
+            "context" : "...is reached by ship services; all other island-to-island <mark>transport<\/mark> must be provided by the traveler.",
+            "fid" : "content" } ] } ] }

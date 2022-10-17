@@ -1,0 +1,14 @@
+
+  { "stem" : "ferri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ferry",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...friends, we aren't mugging some Nord tourist fresh off the <mark>ferry<\/mark>. The Cobblers Guildhall may not sound intimidating but tonight,...",
+            "fid" : "content" } ] } ] }

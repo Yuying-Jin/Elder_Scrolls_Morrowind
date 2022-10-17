@@ -1,0 +1,26 @@
+
+  { "stem" : "keeper",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "keeper",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...offer is so preposterously low that it insults the shop-<mark>keeper<\/mark>. If you are offered something for ten gold pieces,...",
+            "fid" : "content" },
+          
+          { "form" : "keeper",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...simply cannot afford such a price. When the shop-<mark>keeper<\/mark> compliments your taste, smile, but try to resist the...",
+            "fid" : "content" },
+          
+          { "form" : "keepers",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...of the game depends on recognizing the types of shop-<mark>keepers<\/mark> and not automatically assuming that the rural merchant is ignorant and...",
+            "fid" : "content" } ] } ] }

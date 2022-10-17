@@ -1,0 +1,37 @@
+
+  { "stem" : "gilva",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gilvas",
+            "weight" : "1",
+            "pos" : 1923,
+            "context" : "<mark>Gilvas<\/mark> Barelo" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gilvas",
+            "weight" : "1",
+            "pos" : 2097,
+            "context" : "<mark>gilvas<\/mark> barelo",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gilvas",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Gilvas<\/mark> Barelo: Visitable? yes",
+            "fid" : "acq" } ] } ] }

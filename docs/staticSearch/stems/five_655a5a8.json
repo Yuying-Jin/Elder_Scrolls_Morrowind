@@ -1,0 +1,59 @@
+
+  { "stem" : "five",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "five",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...Listen, faithful, to Vivec's words, for he says <mark>five<\/mark> times and five ways --",
+            "fid" : "content" },
+          
+          { "form" : "five",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "..., to Vivec's words, for he says five times and <mark>five<\/mark> ways --",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "five",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...operation and what went wrong. Their boat, laden with <mark>five<\/mark> crates of moon sugar, was supposed to meet another,...",
+            "fid" : "content" },
+          
+          { "form" : "five",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...used only a little bit of it, and they still had <mark>five<\/mark> nearly full crates. They were not only going to be...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "five",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "In modern times Morrowind is ruled by <mark>five<\/mark> Great Houses: House Hlaalu, House Redoran, House Telvanni...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "five",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : " There are <mark>five<\/mark> legion garrisons in Vvardenfell District. The three town garrisons --...",
+            "fid" : "content" } ] } ] }

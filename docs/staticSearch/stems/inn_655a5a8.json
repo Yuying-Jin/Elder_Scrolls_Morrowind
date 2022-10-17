@@ -1,0 +1,172 @@
+
+  { "stem" : "inn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...to Telvanni retainers; outsiders should confine themselves to the Gateway <mark>Inn<\/mark>, and to Wolverine Hall, the Imperial quarters of the...",
+            "fid" : "content" },
+          
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...and a trail leads up from the docks to the Gateway <mark>Inn<\/mark>. Beyond the Gateway Inn is the Great Market, with...",
+            "fid" : "content" },
+          
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...from the docks to the Gateway Inn. Beyond the Gateway <mark>Inn<\/mark> is the Great Market, with numerous craftsmen and traders,...",
+            "fid" : "content" },
+          
+          { "form" : "inn",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...Great Market district and in Tel Naga. The Gateway merchant <mark>inn<\/mark> is the only establishment with public beds. Members of the...",
+            "fid" : "content" },
+          
+          { "form" : "inn",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "...to know Angaredhel, Prefect of Hospitality at the Gateway merchant <mark>inn<\/mark>, and Ery, Gateway's publican. At Wolverine Hall,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 654,
+            "context" : "Ald Skar <mark>Inn<\/mark>" },
+          
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 1847,
+            "context" : "Gateway <mark>Inn<\/mark>" },
+          
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 3274,
+            "context" : "Sadrith_Mora,_Gateway_<mark>Inn<\/mark>" },
+          
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 3283,
+            "context" : "Sadrith_Mora,_Gateway_<mark>Inn<\/mark>,_West_Wing" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "inn",
+            "weight" : "1",
+            "pos" : 831,
+            "context" : "ald skar <mark>inn<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "inn",
+            "weight" : "1",
+            "pos" : 2026,
+            "context" : "gateway <mark>inn<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "inn",
+            "weight" : "1",
+            "pos" : 3401,
+            "context" : "sadrith mora, gateway <mark>inn<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "inn",
+            "weight" : "1",
+            "pos" : 3410,
+            "context" : "sadrith mora, gateway <mark>inn<\/mark>, west wing",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 403,
+            "context" : "...back down the tower and we were running for the Gateway <mark>Inn<\/mark>. Now, with all humility, I would say that no...",
+            "fid" : "content" },
+          
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...I lured the guards around to the back of the Gateway <mark>Inn<\/mark>, far from the others, and when I was sure...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Ald Skar <mark>Inn<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...near the entrance to Ald'ruhn-Under-Skar. The Ald Skar <mark>Inn<\/mark> and the Council Club cornerclub are found to the west,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 530,
+            "context" : "...to Telvanni retainers; outsiders must confine themselves to the Gateway <mark>Inn<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "Sadrith Mora, Gateway <mark>Inn<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Inn",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Sadrith Mora, Gateway <mark>Inn<\/mark>, West Wing: Visitable? yes",
+            "fid" : "acq" } ] } ] }

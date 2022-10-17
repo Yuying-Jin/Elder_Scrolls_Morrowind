@@ -1,0 +1,240 @@
+
+  { "stem" : "common",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...potions. Fortunately, in most cases, the ingredients are <mark>common<\/mark> and cheaply obtained.",
+            "fid" : "content" },
+          
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...in equal parts two or more of the following cheap and <mark>common<\/mark> ingredients: marshmerrow, wickwheat, corkbulb root, and saltrice...",
+            "fid" : "content" },
+          
+          { "form" : "commonly",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...and chokeweed. Crabmeat is taken from the mud crab, <mark>commonly<\/mark> found along all coasts. bread in Morrowind is usually baked...",
+            "fid" : "content" },
+          
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "To cure <mark>common<\/mark> diseases, combine gravedust and green lichen. gravedust is spirit...",
+            "fid" : "content" },
+          
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 445,
+            "context" : "...dreugh wax. Ash yam is a tough tuberous root vegetable <mark>common<\/mark> to the Ascadian Isles region. dreugh wax is a tough...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "commonly",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Undead <mark>commonly<\/mark> occur in three basic types: spirit, flesh, and...",
+            "fid" : "content" },
+          
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...refined substances such as silver. Ancestor ghosts, the most <mark>common<\/mark> spirit revenant, are harmless, apart from the minor curses...",
+            "fid" : "content" },
+          
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "..., but the greater bonewalkers are far worse than the more <mark>common<\/mark> 'lesser' bonewalkers. Thankfully, normal weapons harm bonewalkers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "commonly",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Undead <mark>commonly<\/mark> occur in three basic types: spirit, flesh, and...",
+            "fid" : "content" },
+          
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...refined substances such as silver. Ancestor ghosts, the most <mark>common<\/mark> spirit revenant, are harmless, apart from the minor curses...",
+            "fid" : "content" },
+          
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "..., but the greater bonewalkers are far worse than the more <mark>common<\/mark> 'lesser' bonewalkers. Thankfully, normal weapons harm bonewalkers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "All shrines grant cures of <mark>common<\/mark> diseases, of blight diseases, and of afflictions of poison...",
+            "fid" : "content" },
+          
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "St. Olms grants Olms' Benediction, for resistance to <mark>common<\/mark> disease.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 347,
+            "context" : "...the Puzzle Canal can be confusing and it is suggested that <mark>common<\/mark> pilgrims carry a scroll of ALMSIVI Intervention in case they get...",
+            "fid" : "content" },
+          
+          { "form" : "Common",
+            "weight" : "1",
+            "pos" : 462,
+            "context" : "...shrine, it is customary to leave a potion of Cure <mark>Common<\/mark> Disease as a token of your respect for justice. Suitable...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...hasten to add, politely. In Elsweyr, it is <mark>common<\/mark> for the shop-owner to offer the prospective buyer tea...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...an Imperial burial in a tomb or city cemetery is more <mark>common<\/mark> in the south. There are still many corpses easily taken...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...by the addition of support on their joints. The most <mark>common<\/mark> are leather straps that bind the bones together more tightly....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 395,
+            "context" : "...pray at Imperial cult healing altars and receive blessings which cure <mark>common<\/mark> and blight diseases, cure poisons, and restore damaged attributes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "commoners",
+            "weight" : "1",
+            "pos" : 429,
+            "context" : "...are comprised of smaller mushroom pods hollowed out for craftsmen and <mark>commoners<\/mark>. Open-air markets often include the giant cages displaying...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "commoners",
+            "weight" : "1",
+            "pos" : 493,
+            "context" : "...Delyn Canton and St. Olms Canton are residence cantons for <mark>commoners<\/mark> and paupers. The Temple charges very reasonable rents for comfortable...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "cure_<mark>common<\/mark>_disease" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "cure <mark>common<\/mark> disease",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "Dragon's-Tongue, <mark>common<\/mark> name for a fern like herb found in Black Marsh....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...of essential arcane engines and templates, and then only by <mark>common<\/mark> assent of the Council.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "common",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "\"The <mark>common<\/mark> thief,\" said Lledos, pouring himself more greef, warming...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "taught",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "taught",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "Oin agreed, and Yakin <mark>taught<\/mark> him the spell to fortify his strength. It took him...",
+            "fid" : "content" },
+          
+          { "form" : "taught",
+            "weight" : "1",
+            "pos" : 556,
+            "context" : "Oin agreed, and Yakin <mark>taught<\/mark> him the spell that would fire his impulses with magicka....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "strap",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "straps",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...parts as you can find, binding the bones with leather <mark>straps<\/mark>, and sewing the flesh (if it not too decayed)...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "straps",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...of support on their joints. The most common are leather <mark>straps<\/mark> that bind the bones together more tightly. Some practitioners also...",
+            "fid" : "content" } ] } ] }

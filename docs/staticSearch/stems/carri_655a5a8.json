@@ -1,0 +1,75 @@
+
+  { "stem" : "carri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "carry",
+            "weight" : "1",
+            "pos" : 330,
+            "context" : "...extra equipment. The best neck-hackers I know generally <mark>carry<\/mark> a bit of wadded cloth on the aft-side of...",
+            "fid" : "content" },
+          
+          { "form" : "carrying",
+            "weight" : "1",
+            "pos" : 680,
+            "context" : "...and Plaster. He could see them now, Imalyn laughing and <mark>carrying<\/mark> on, Galsiah hushing him to avoid bringing undue attention. They...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carry",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...Vampires and the Liches. Let all the nations of dead <mark>carry<\/mark> my banner and my banner alone.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carrying",
+            "weight" : "1",
+            "pos" : 434,
+            "context" : "...in Tear by Sload merchants and the rumors of Sload airships <mark>carrying<\/mark> corpses from Senchal.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carries",
+            "weight" : "1",
+            "pos" : 553,
+            "context" : " A shrine sergeant helps keep order at the shrines, <mark>carries<\/mark> messages and packages, and sometimes escorts priests and lay servants...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carries",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...to have magical abilities to enhance the appearance of anyone who <mark>carries<\/mark> or wears one of the flowers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carry",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...Canal can be confusing and it is suggested that common pilgrims <mark>carry<\/mark> a scroll of ALMSIVI Intervention in case they get lost....",
+            "fid" : "content" } ] } ] }

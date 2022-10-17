@@ -1,0 +1,25 @@
+
+  { "stem" : "struck",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "struck",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...myself, and my honor. Yet beneath Red Mountain, you <mark>struck<\/mark> me down as I guarded the treasure you bound me by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "struck",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : ".... However, in the instant of his betrayal, Dagon <mark>struck<\/mark> out against the mortal who tricked him. Chimere's pact assured that...",
+            "fid" : "content" } ] } ] }

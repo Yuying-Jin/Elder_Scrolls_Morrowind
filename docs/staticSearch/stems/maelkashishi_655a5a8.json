@@ -1,0 +1,48 @@
+
+  { "stem" : "maelkashishi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Maelkashishi",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...Mordrin Hanin ended in this world. Representative of Ashalmawia, <mark>Maelkashishi<\/mark> and Ald Sotha gathered in a great host at the vastness...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Maelkashishi",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Maelkashishi<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Maelkashishi",
+            "weight" : "1",
+            "pos" : 2517,
+            "context" : "<mark>Maelkashishi<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "maelkashishi",
+            "weight" : "1",
+            "pos" : 2686,
+            "context" : "<mark>maelkashishi<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

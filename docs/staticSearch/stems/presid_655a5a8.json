@@ -1,0 +1,14 @@
+
+  { "stem" : "presid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "presides",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...Fane is the largest Tribunal temple on Vvardenfell. Archcanon Saryoni <mark>presides<\/mark> over the temple, along with a large staff of priests...",
+            "fid" : "content" } ] } ] }

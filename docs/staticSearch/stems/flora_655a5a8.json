@@ -1,0 +1,473 @@
+
+  { "stem" : "flora",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 36,
+        "contexts" : 
+        [ 
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 382,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 417,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 485,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 577,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 593,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 677,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 933,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1313,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1473,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1545,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1704,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1738,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1844,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1855,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2020,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2312,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2398,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2821,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2900,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3356,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3687,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3717,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3744,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3828,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4117,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4331,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4410,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4417,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4454,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4538,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4970,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 5769,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 35,
+        "contexts" : 
+        [ 
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 406,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 507,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 762,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1161,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1310,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1378,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1535,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1569,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1673,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1684,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 1841,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2142,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2230,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2654,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 2731,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3183,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3535,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3568,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3609,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3669,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 3889,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4191,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4267,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4274,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4311,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4396,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 4852,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 1" },
+          
+          { "form" : "Flora",
+            "weight" : "1",
+            "pos" : 5526,
+            "context" : "Special <mark>Flora<\/mark> of Tamriel, count: 2" } ] } ] }

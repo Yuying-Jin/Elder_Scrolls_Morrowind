@@ -1,0 +1,14 @@
+
+  { "stem" : "high-qual",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "high-quality",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...and Mages Guild are near the South Gate. Pricy but <mark>high-quality<\/mark> clothier, alchemist, and enchanter shops are under Skar as...",
+            "fid" : "content" } ] } ] }

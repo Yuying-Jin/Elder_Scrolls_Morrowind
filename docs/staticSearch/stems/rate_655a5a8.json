@@ -1,0 +1,58 @@
+
+  { "stem" : "rate",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rate",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...Necromancer can thrive in Morrowind by taking slaves at a modest <mark>rate<\/mark>. Most will assume the slave escaped or died in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rate",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...of friends includes fixing things with the guards at a discount <mark>rate<\/mark>. That's where the 'honor among thieves' part comes in. Friends...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rate",
+            "weight" : "1",
+            "pos" : 589,
+            "context" : "...room and board will be almost as nice as a third <mark>rate<\/mark> show in Rihad,\" said Senyndie as they took their rooms...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rate",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : ".... Baranat look a look at his sad, cut-<mark>rate<\/mark> iron blade, and prayed to the saints.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rates",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...to the Duke to express their concerns over the high tax <mark>rates<\/mark> and the injurious effect of high tariffs on trade.",
+            "fid" : "content" } ] } ] }

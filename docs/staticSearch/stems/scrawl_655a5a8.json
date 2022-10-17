@@ -1,0 +1,25 @@
+
+  { "stem" : "scrawl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scrawled",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...of the book, the words 'Boat Ack', are seen <mark>scrawled<\/mark> about the margin in a vandalistic manner.]",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Scrawled",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "[[<mark>Scrawled<\/mark> hastily on a page from a log journal]]",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,86 @@
+
+  { "stem" : "famili",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "family",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "...cults, the worshipper has a direct relationship with a blood <mark>family<\/mark> ancestor spirit, and the Temple cultist's relationship with the Tribunal...",
+            "fid" : "content" },
+          
+          { "form" : "family",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "...is under the ever-watchful eye of the Tribunal and <mark>family<\/mark> ancestor spirits....\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "families",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : ".... Some Altmer born into the most respected noble and scholarly <mark>families<\/mark> are actually allowed to study the dead in the open....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Family",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "Your fourfold duties are to: Faith, <mark>Family<\/mark>, Masters, and all that is good. Perform holy...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "family",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : ".... Duty is to one's own honor, and to one's <mark>family<\/mark> and clan. Gravity is the essential seriousness of life....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "families",
+            "weight" : "1",
+            "pos" : 425,
+            "context" : "...tier is a Redoran shrine and ancestral vaults. Two noble <mark>families<\/mark>, the Savens and the Dralors, have top-tier...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "families",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...Oin Parnafacasis was in an elite group of the very best <mark>families<\/mark> of Gnisis. They went to the very best tailors,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "family",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...without his guar, and he could not provide for his <mark>family<\/mark> or his village. So the Lord Vivec removed his fine...",
+            "fid" : "content" } ] } ] }

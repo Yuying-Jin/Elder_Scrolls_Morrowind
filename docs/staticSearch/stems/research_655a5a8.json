@@ -1,0 +1,118 @@
+
+  { "stem" : "research",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>" },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 701,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 1526,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 3006,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 3807,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 3935,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 5262,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 5330,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 6558,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 6740,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Researches",
+            "weight" : "1",
+            "pos" : 6955,
+            "context" : "Tal Marog Kers <mark>Researches<\/mark>, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "research",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...actually allowed to study the dead in the open. Their <mark>research<\/mark>, however, seems to be centered on finding ways to...",
+            "fid" : "content" },
+          
+          { "form" : "research",
+            "weight" : "1",
+            "pos" : 397,
+            "context" : "..., the snow makes these corpses difficult to find. More <mark>research<\/mark> dedicated to the magical detection of corpses would be invaluable to...",
+            "fid" : "content" } ] } ] }

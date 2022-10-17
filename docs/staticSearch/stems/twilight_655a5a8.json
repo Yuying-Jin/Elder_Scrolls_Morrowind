@@ -1,0 +1,37 @@
+
+  { "stem" : "twilight",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Twilight",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...with pure Skyrim Ice and shake vigorously. Strain through Winged <mark>Twilight<\/mark> membrane and served in gem encrusted goblet. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Twilight",
+            "weight" : "1",
+            "pos" : 7420,
+            "context" : "Winged <mark>Twilight<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "twilight",
+            "weight" : "1",
+            "pos" : 7559,
+            "context" : "winged <mark>twilight<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

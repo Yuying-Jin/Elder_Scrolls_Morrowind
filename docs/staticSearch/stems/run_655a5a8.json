@@ -1,0 +1,75 @@
+
+  { "stem" : "run",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "running",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...don't want people seeing a bunch of blood-soaked butchers <mark>running<\/mark> through the streets. Even in Tel Aruhn, that's likely...",
+            "fid" : "content" },
+          
+          { "form" : "run",
+            "weight" : "1",
+            "pos" : 760,
+            "context" : "...all, they were human. It was best in the long <mark>run<\/mark> to give them a week off with pay whenever he was...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "runs",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...people for their gifts and donations, but when the money <mark>runs<\/mark> dry, will the people remember? The Dres know how...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "running",
+            "weight" : "1",
+            "pos" : 401,
+            "context" : "...minutes, she was back down the tower and we were <mark>running<\/mark> for the Gateway Inn. Now, with all humility, I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Runs",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "<mark>Runs<\/mark> in red rivers, blossoms in fountains.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "running",
+            "weight" : "1",
+            "pos" : 600,
+            "context" : "...to Ghostgate is along the Foyada Mamaea, a volcanic ravine <mark>running<\/mark> from the top of Red Mountain southwest to its end just...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "run",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...and I have the ear of the saints. If I <mark>run<\/mark> into any trouble, I'll call on them to aid my...",
+            "fid" : "content" } ] } ] }

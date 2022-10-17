@@ -1,0 +1,39 @@
+
+  { "stem" : "26",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "26",
+            "weight" : "1",
+            "pos" : 6372,
+            "context" : "The Prayers of Baranat, count: <mark>26<\/mark>" },
+          
+          { "form" : "26",
+            "weight" : "1",
+            "pos" : 7129,
+            "context" : "Smuggler's Island, count: <mark>26<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "26",
+            "weight" : "1",
+            "pos" : 6455,
+            "context" : "The Prayers of Baranat, count: <mark>26<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "26",
+            "weight" : "1",
+            "pos" : 7254,
+            "context" : "Smuggler's Island, count: <mark>26<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "nirn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nirn",
+            "weight" : "1",
+            "pos" : 2826,
+            "context" : "<mark>Nirn<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nirn",
+            "weight" : "1",
+            "pos" : 2995,
+            "context" : "<mark>nirn<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nirn",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...Kena Warfel Tomasin, and I can prove that Akatosh, <mark>Nirn<\/mark>, and Oblivion are one,\" said Warfel, writing out...",
+            "fid" : "content" } ] } ] }

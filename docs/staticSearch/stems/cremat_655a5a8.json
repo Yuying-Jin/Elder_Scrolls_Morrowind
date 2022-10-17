@@ -1,0 +1,14 @@
+
+  { "stem" : "cremat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cremation",
+            "weight" : "1",
+            "pos" : 327,
+            "context" : "...traditions dating back to the witch kings and nomadic horsemen mandate <mark>cremation<\/mark> of the dead. This is practiced almost without exception in...",
+            "fid" : "content" } ] } ] }

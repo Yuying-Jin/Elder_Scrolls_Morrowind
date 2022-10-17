@@ -1,0 +1,37 @@
+
+  { "stem" : "skaal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skaal",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Skaal<\/mark> Village: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skaal",
+            "weight" : "1",
+            "pos" : 3509,
+            "context" : "<mark>Skaal<\/mark> Village" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skaal",
+            "weight" : "1",
+            "pos" : 3662,
+            "context" : "<mark>skaal<\/mark> village",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

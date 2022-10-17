@@ -1,0 +1,14 @@
+
+  { "stem" : "pantheon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pantheon",
+            "weight" : "1",
+            "pos" : 726,
+            "context" : "...the Imperial cults acknowledges the lords and saints of the Temple <mark>pantheon<\/mark> as worthy inspirations, the Temple falsely insists that theirs is...",
+            "fid" : "content" } ] } ] }

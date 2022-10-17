@@ -1,0 +1,236 @@
+
+  { "stem" : "foreign",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...battles and comic plays. Outlanders mostly confine themselves to the <mark>Foreign<\/mark> Canton, while natives live, work, and shop in...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...a map, it looks like a cross, with the <mark>Foreign<\/mark> Quarter at the top, the Temple Compound, with Vivec's...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : " The <mark>Foreign<\/mark> Quarter",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : " The <mark>Foreign<\/mark> Quarter is the large three-tiered canton to the north...",
+            "fid" : "content" },
+          
+          { "form" : "foreigners",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...large three-tiered canton to the north. Originally, <mark>foreigners<\/mark> were not allowed to enter Vivec any further than the Foreign...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...foreigners were not allowed to enter Vivec any further than the <mark>Foreign<\/mark> Quarter, but now outlanders can travel throughout Vivec at will....",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 402,
+            "context" : " Redoran Compound is the canton south of the <mark>Foreign<\/mark> Quarter, west of and next to the Arena. The...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 541,
+            "context" : "...and Hlaalu Compound, between the north bay region and the <mark>Foreign<\/mark> Quarter, and between the east bay region and Telvanni Compound...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 564,
+            "context" : "...Seyda Neen and points north. Good roads lead from the <mark>Foreign<\/mark> Quarter bridge west towards Seyda Neen, north towards Suran and...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 595,
+            "context" : "...Silt strider service is available at the north end of the <mark>Foreign<\/mark> Quarter bridge, traveling from Vivec to Suran, Seyda Neen...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 608,
+            "context" : "..., and Molag Mar. Ships from the docks at the <mark>Foreign<\/mark> Quarter travel to Ebonheart, Hla Oad, Molag Mar,...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 628,
+            "context" : "...Hla Oad, Sadrith Mora, Tel Branora, and the <mark>Foreign<\/mark> Quarter of Vivec. Low-fare gondolas shuttle passengers from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 1770,
+            "context" : "<mark>Foreign<\/mark> Canton" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 1782,
+            "context" : "<mark>Foreign<\/mark> Quarter" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 1787,
+            "context" : "<mark>Foreign<\/mark> Quarter of Vivec" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 4456,
+            "context" : "Vivec, <mark>Foreign<\/mark> Quarter" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "foreign",
+            "weight" : "1",
+            "pos" : 1939,
+            "context" : "<mark>foreign<\/mark> canton",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "foreign",
+            "weight" : "1",
+            "pos" : 1951,
+            "context" : "<mark>foreign<\/mark> quarter",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "foreign",
+            "weight" : "1",
+            "pos" : 1958,
+            "context" : "<mark>foreign<\/mark> quarter of vivec",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "foreign",
+            "weight" : "1",
+            "pos" : 4620,
+            "context" : "vivec, <mark>foreign<\/mark> quarter",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 358,
+            "context" : "...Legion Fort, Wolverine Hall in Sadrith Mora, Vivec, <mark>Foreign<\/mark> Quarter, and Imperial Chapels in Ebonheart. Seek training at...",
+            "fid" : "content" },
+          
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 431,
+            "context" : "...members receive blessings free. Healing altars are found in: Vivec <mark>Foreign<\/mark> Quarter; Wolverine Hall in Sadrith Mora; Buckmoth Legion Fort...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "foreign",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...can call upon the spirits of the Dunmer dead. Those <mark>foreign<\/mark> sorcerers of other races that invade our shores, shall they...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...Telvanni Council. The chapter in Vivec is established in the <mark>Foreign<\/mark> Quarter under lease from the Tribunal Temple.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "...entertainments and war games. Outlanders mostly confine themselves to the <mark>Foreign<\/mark> Canton, while natives live, work, and shop in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...friends in Balmora, Ald'ruhn, Sadrith Mora, and the <mark>Foreign<\/mark> Quarter of Vivec. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Foreign",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "<mark>Foreign<\/mark> Quarter: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "foreign",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...from our long dream, coming forth to free Morrowind of <mark>foreign<\/mark> rulers and divine pretenders. When the land is swept clean...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "foreigners",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "...and among the military, provincial colonists, and recently assimilated <mark>foreigners<\/mark>, the cult is particularly strong and personal.",
+            "fid" : "content" } ] } ] }

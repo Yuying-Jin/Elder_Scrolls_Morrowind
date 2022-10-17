@@ -1,0 +1,36 @@
+
+  { "stem" : "render",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "render",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "Blessed are the Wrathmen, for they <mark>render<\/mark> their rage unto the ages.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "render",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...the transcendent spirit. Blessed are the Wrathmen, for they <mark>render<\/mark> their rage unto the ages. Blessed are the Masters,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rendered",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...face against the opposite wall. When the victim is thus <mark>rendered<\/mark> unconscious, you slash his throat while still holding him from...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,78 @@
+
+  { "stem" : "llethri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Llethri",
+            "weight" : "1",
+            "pos" : 2431,
+            "context" : "<mark>Llethri<\/mark> Manor" },
+          
+          { "form" : "Llethri",
+            "weight" : "1",
+            "pos" : 6822,
+            "context" : "Garisa <mark>Llethri<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "llethri",
+            "weight" : "1",
+            "pos" : 2602,
+            "context" : "<mark>llethri<\/mark> manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "llethri",
+            "weight" : "1",
+            "pos" : 6939,
+            "context" : "garisa <mark>llethri<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Llethri",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "Master Lord Garisa <mark>Llethri<\/mark>, by Grace of Almsivi, Honored Councilor of Redoran Council...",
+            "fid" : "content" },
+          
+          { "form" : "Llethri",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "..., Vvardenfell District, Lord of The northern Ashlands, of <mark>Llethri<\/mark> Manor, Manor District, Ald'ruhn, District of Vvardenfell,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Llethri",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "..., Brara Morvayn, Hlaren Ramoran, Athyn Sarethi, Garisa <mark>Llethri<\/mark>, Miner Arobar, and Bolvyn Venim, have manor residences...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Llethri",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Llethri<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" } ] } ] }

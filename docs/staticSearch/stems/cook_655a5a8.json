@@ -1,0 +1,462 @@
+
+  { "stem" : "cook",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 34,
+        "contexts" : 
+        [ 
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 500,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 3",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 509,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 586,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 608,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 618,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 634,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 6",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 765,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 925,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 2605,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 2896,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 2969,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 3200,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 8",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 4028,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 4480,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 4947,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5011,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5040,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5268,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5390,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5428,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5896,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 6",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5939,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 14",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 6005,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 6095,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 15",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 6376,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 6871,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 7045,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 7094,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 5",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 7590,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 6",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 7624,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 32,
+        "contexts" : 
+        [ 
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 3" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 416,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 438,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 448,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 464,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 6" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 591,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 718,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 2434,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 2727,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 2803,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 3027,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 8" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 3827,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 4341,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 4829,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 4888,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 4" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 4917,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5085,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5193,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5234,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5648,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 6" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5673,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 14" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5739,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 5815,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 15" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 6306,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 3" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 6758,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 6961,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 5" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 7451,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 6" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 7490,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 2" },
+          
+          { "form" : "Cooking",
+            "weight" : "1",
+            "pos" : 7644,
+            "context" : "Redoran <mark>Cooking<\/mark> Secrets, count: 1" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "cooked",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "a hand and a half of <mark>cooked<\/mark> saltrice",
+            "fid" : "content" },
+          
+          { "form" : "Cook",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "<mark>Cook<\/mark> the mixed meat in a pan over an open flame....",
+            "fid" : "content" },
+          
+          { "form" : "cooked",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...Scuttle and Kwama egg. When the Kwama egg is fully <mark>cooked<\/mark> and the Scuttle has melted, pour from the pan into...",
+            "fid" : "content" } ] } ] }

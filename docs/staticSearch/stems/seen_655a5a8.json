@@ -1,0 +1,25 @@
+
+  { "stem" : "seen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seen",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...the Priests: Use your servants sparingly, let none be <mark>seen<\/mark> by the living. Let the memories of the undead waste...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seen",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...page of the book, the words 'Boat Ack', are <mark>seen<\/mark> scrawled about the margin in a vandalistic manner.]",
+            "fid" : "content" } ] } ] }

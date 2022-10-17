@@ -1,0 +1,404 @@
+
+  { "stem" : "acrobaci",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 28,
+        "contexts" : 
+        [ 
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 545,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 4",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 922,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 1102,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 1166,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 1451,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 2032,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 2316,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 2699,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 3293,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 3351,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 4013,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 5738,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 5916,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 5955,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6071,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6539,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6724,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 14",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6775,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6849,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6993,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7081,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 10",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7198,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 7",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7246,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 4",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7316,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 4",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7495,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7554,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7745,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 27,
+        "contexts" : 
+        [ 
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 4" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 759,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 930,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 994,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 1286,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 1853,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 2146,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 2530,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 3124,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 3180,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 3812,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 5495,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 3" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 5692,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 5791,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 3" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6093,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 3" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6434,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6627,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 14" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6689,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6745,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6869,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 3" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 6932,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 10" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7073,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 7" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7121,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 4" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7201,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 4" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7378,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7415,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 2" },
+          
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 7608,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Acrobacy",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Realizations of <mark>Acrobacy<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "acrobacy",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...alas, we know no tricks. All the realizations of <mark>acrobacy<\/mark> we perform are real with no illusions. We wish we...",
+            "fid" : "content" },
+          
+          { "form" : "acrobacy",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "\"Very well, what realizations of <mark>acrobacy<\/mark> can you perform?\" asked Gothren with what almost looked like...",
+            "fid" : "content" },
+          
+          { "form" : "acrobacy",
+            "weight" : "1",
+            "pos" : 525,
+            "context" : "...now? I hadn't told you yet about our latest realization of <mark>acrobacy<\/mark> when Master Mearvis takes a simple ebony blade and juggles it...",
+            "fid" : "content" },
+          
+          { "form" : "acrobacy",
+            "weight" : "1",
+            "pos" : 574,
+            "context" : "...celebration, and I want to see all your realizations of <mark>acrobacy<\/mark>. In the meantime, you will be honored guests with...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,54 @@
+
+  { "stem" : "tough",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "tough",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...properties lost in later states of gestation. chokeweed is a <mark>tough<\/mark> shrub growing in the rocky highlands of the West Gash....",
+            "fid" : "content" },
+          
+          { "form" : "tough",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "...its taste and its roborative powers. kwama cuttle is a <mark>tough<\/mark>, waxy substance that comes from sacs in the mouths of...",
+            "fid" : "content" },
+          
+          { "form" : "tough",
+            "weight" : "1",
+            "pos" : 441,
+            "context" : "...from ash yams and dreugh wax. Ash yam is a <mark>tough<\/mark> tuberous root vegetable common to the Ascadian Isles region. dreugh...",
+            "fid" : "content" },
+          
+          { "form" : "tough",
+            "weight" : "1",
+            "pos" : 451,
+            "context" : "...common to the Ascadian Isles region. dreugh wax is a <mark>tough<\/mark>, waxy substance scraped from dreugh shells. Dreugh are powerful...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tough",
+            "weight" : "1",
+            "pos" : 501,
+            "context" : "...condition that Ruddy Man and his children would give up their <mark>tough<\/mark> hides to serve as armor for the Dunmer.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tough",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...brother Vanis, stronger than his brother Feryn, and so <mark>tough<\/mark> that he could swim in the lava of Dagoth Ur like...",
+            "fid" : "content" } ] } ] }

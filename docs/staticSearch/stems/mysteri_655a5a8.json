@@ -1,0 +1,86 @@
+
+  { "stem" : "mysteri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mystery",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "Blessed Almsivi, Mercy, Mastery, <mark>Mystery<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Mystery",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "Three mouths sing Mercy, Mastery, <mark>Mystery<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mystery",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...SEHTI AE VEHK, which you will repeat to it until <mark>mystery<\/mark> comes.'",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mysterious",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "[Rithari sought and obtained a cursed soul gem of <mark>mysterious<\/mark> nature from a deep cavern on the northern slopes of Dagoth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mystery",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "Blessed ALMSIVI, Mercy, Mastery, <mark>Mystery<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mysterious",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...that everyone would drown, from the bold captain to the <mark>mysterious<\/mark> figure with ties to one of the royal Houses, everyone...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mystery",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...damaged attributes, and the three blessings of Almsivi: Vivec's <mark>Mystery<\/mark>, for good fortune; Soul of Sotha Sil, for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mystery",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...is Mercy, Vivec is Mastery, and Sotha Sil is <mark>Mystery<\/mark>. Vivec is easily the most popular of them all. Vivec...",
+            "fid" : "content" } ] } ] }

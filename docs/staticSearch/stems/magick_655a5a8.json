@@ -1,0 +1,25 @@
+
+  { "stem" : "magick",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magicks",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...three times more. Such necromancers must die, and their profane <mark>magicks<\/mark> must die with them.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magicks",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...These new horrors are not at all too powerful beyond our <mark>magicks<\/mark> and weaponry, but their numbers are feverishly great. We...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,100 @@
+
+  { "stem" : "argonian",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Argonian",
+            "weight" : "1",
+            "pos" : 4836,
+            "context" : "<mark>Argonian<\/mark>" },
+          
+          { "form" : "Argonians",
+            "weight" : "1",
+            "pos" : 4847,
+            "context" : "<mark>Argonians<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "argonian",
+            "weight" : "1",
+            "pos" : 4954,
+            "context" : "<mark>argonian<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "argonians",
+            "weight" : "1",
+            "pos" : 4965,
+            "context" : "<mark>argonians<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Argonian",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...the right to own slaves, and since they keep many <mark>Argonian<\/mark> and Khajiit as slaves, many Argonians and Khajiit assume they...",
+            "fid" : "content" },
+          
+          { "form" : "Argonians",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...since they keep many Argonian and Khajiit as slaves, many <mark>Argonians<\/mark> and Khajiit assume they would not be accepted for service with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Argonians",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...region. In Morrowind where I hail from, for example, <mark>Argonians<\/mark> are viewed with a certain amount of suspicion. Don't be...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Argonian",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...due to their rapid decay. There are also diseases, <mark>Argonian<\/mark> tribesmen, and other difficulties that must be dealt with. I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Argonian",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "...that as well. In a moist climate, such as <mark>Argonian<\/mark> or Thras, you may have to apply more salts if...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Argonians",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...avoided by adventurers. It is said, however, that <mark>Argonians<\/mark> can pick the plant and use the sap derived from its...",
+            "fid" : "Argonians" } ] } ] }

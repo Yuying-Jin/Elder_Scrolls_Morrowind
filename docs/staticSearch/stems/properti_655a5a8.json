@@ -1,0 +1,86 @@
+
+  { "stem" : "properti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "properties",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...is said that the black and white poppies together have magical <mark>properties<\/mark>. When they are crushed and mixed with the milk of...",
+            "fid" : "content" },
+          
+          { "form" : "properties",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "...can be most beneficial to the gatherer as it has magical <mark>properties<\/mark>. The paste made from grinding the root is very tasty...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "property",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...covert pickpocketing. It is forbidden to trespass upon the private <mark>property<\/mark> of another member. Break any one of these rules,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "property",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "...make a profit. You must learn to protect your own <mark>property<\/mark> by securing it with hidden chests, locks, and even...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "property",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...An unfortunate tax revolt in Balmora was put down after significant <mark>property<\/mark> damage and loss of life. The council warned that such...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "property",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...by the Daedra Lord Malacath, this armor has the marvelous <mark>property<\/mark> of turning the blow of an oathbreaker. Chimere tricked Dagon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "properties",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "..., and sold everywhere in Morrowind; the smaller eggs retain <mark>properties<\/mark> lost in later states of gestation. chokeweed is a tough...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "property",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...revolt in Balmora was suppressed without undue harm to life and <mark>property<\/mark>. The council sent deputations to the Duke to express their...",
+            "fid" : "content" } ] } ] }

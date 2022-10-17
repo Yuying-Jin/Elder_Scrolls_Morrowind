@@ -1,0 +1,37 @@
+
+  { "stem" : "graegyn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Graegyn",
+            "weight" : "1",
+            "pos" : 6639,
+            "context" : "Chimere <mark>Graegyn<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "graegyn",
+            "weight" : "1",
+            "pos" : 6736,
+            "context" : "chimere <mark>graegyn<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Graegyn",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "Chimere <mark>Graegyn<\/mark> was a retainer of the ambitious Direnni clan. The Direnni...",
+            "fid" : "ChimereGraegyn" } ] } ] }

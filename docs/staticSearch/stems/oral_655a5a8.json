@@ -1,0 +1,14 @@
+
+  { "stem" : "oral",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oral",
+            "weight" : "1",
+            "pos" : 324,
+            "context" : "...Dunmer heroes and generals. The story is derived from Ashlander <mark>oral<\/mark> tradition, and is flatly contradicted by all Temple traditions....",
+            "fid" : "content" } ] } ] }

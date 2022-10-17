@@ -1,0 +1,25 @@
+
+  { "stem" : "stroke",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stroke",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...length of the hall, before dispatching the battlemage with one <mark>stroke<\/mark> of his blade.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stroke",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "..., and then saw through the throat in three or four <mark>stroke<\/mark> rather like playing a violin. It requires little effort,...",
+            "fid" : "content" } ] } ] }

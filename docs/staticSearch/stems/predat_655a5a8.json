@@ -1,0 +1,14 @@
+
+  { "stem" : "predat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "predator",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...saved. With his broken legs, he was a pathetic <mark>predator<\/mark> and he was soon reduced to hurling rocks at the alert...",
+            "fid" : "content" } ] } ] }

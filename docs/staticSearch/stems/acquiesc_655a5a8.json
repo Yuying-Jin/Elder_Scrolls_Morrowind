@@ -1,0 +1,14 @@
+
+  { "stem" : "acquiesc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "acquiesced",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...corruption, and despairing of my own welfare, I passively <mark>acquiesced<\/mark> in my gradual integration into the affairs of Clan Aundae....",
+            "fid" : "content" } ] } ] }

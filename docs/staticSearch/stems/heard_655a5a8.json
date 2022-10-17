@@ -1,0 +1,100 @@
+
+  { "stem" : "heard",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...garden one springtide, not very many years ago, he <mark>heard<\/mark> some people talking through the thick tall trama shrubs about the...",
+            "fid" : "content" },
+          
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 359,
+            "context" : "\"Her lady Benitah has <mark>heard<\/mark> of the intelligence of Kena Zombel Mokafa, and has said...",
+            "fid" : "content" },
+          
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 498,
+            "context" : "\"Her lady Benitah has <mark>heard<\/mark> of the endurance of Master Vomph,\" he said, not...",
+            "fid" : "content" },
+          
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 665,
+            "context" : "...Yakin Bael. The door was closed this time and he <mark>heard<\/mark> voices within.",
+            "fid" : "content" },
+          
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 668,
+            "context" : "\"Have you <mark>heard<\/mark> about the remarkable Gazouf Mough?\" Kena Yakin Bael was asking...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "“I've <mark>heard<\/mark> of you,” said the old vagabond, very impressed. “Aren't...",
+            "fid" : "content" },
+          
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...“I hail from the region of Ghostgate which is how I <mark>heard<\/mark> your name. Are you on an adventure as we speak...",
+            "fid" : "content" },
+          
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "“I've <mark>heard<\/mark> of him as well,” said Darothil. “He is said...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 837,
+            "context" : "The song returned, and Sathis <mark>heard<\/mark> the vault door in his study swing open. The smell...",
+            "fid" : "content" },
+          
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 870,
+            "context" : "...opened and his head was shoved to the side, he <mark>heard<\/mark> Galsiah in her typical calm voice, \"Thank you for the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...has been sent to Orsinium, though we have not yet <mark>heard<\/mark> any word on the state of these negotiations.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heard",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "Harithoel ignored S'Riizh, murmuring, \"The trick as I've <mark>heard<\/mark> it is to anticipate where your target's going to go and...",
+            "fid" : "content" } ] } ] }

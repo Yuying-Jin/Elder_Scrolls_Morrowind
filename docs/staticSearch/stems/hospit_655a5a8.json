@@ -1,0 +1,31 @@
+
+  { "stem" : "hospit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hospitality",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...Fighters Guild, Mages Guild, and Imperial cults look for <mark>hospitality<\/mark> at Wolverine Hall. Telvanni kin and retainers stay at the...",
+            "fid" : "content" },
+          
+          { "form" : "Hospitality",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...Telvanni retainers, you'll want to know Angaredhel, Prefect of <mark>Hospitality<\/mark> at the Gateway merchant inn, and Ery, Gateway's publican...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hospitable",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "..., most of the island's population is confined to the relatively <mark>hospitable<\/mark> west and southwest coast, centered on the ancient city of...",
+            "fid" : "content" } ] } ] }

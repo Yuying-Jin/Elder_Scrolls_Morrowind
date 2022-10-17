@@ -1,0 +1,31 @@
+
+  { "stem" : "militari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "military",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...policy to limit the influence of cult authorities in aristocratic, <mark>military<\/mark>, and bureaucratic affairs. Cult worship is regarded as a...",
+            "fid" : "content" },
+          
+          { "form" : "military",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...is just such a hero-cult, and among the <mark>military<\/mark>, provincial colonists, and recently assimilated foreigners, the cult...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "military",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "The most disciplined and effective <mark>military<\/mark> force in history, the Imperial Legions preserve the peace and...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,69 @@
+
+  { "stem" : "host",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hosts",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "And shall we tolerate the hidden <mark>hosts<\/mark> of the undead, the arrogant princes of necromancers, the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hosts",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "..., and Sotha Sil, the Anticipations, and all the <mark>hosts<\/mark> of saints of ancestors, the Temple guards and protects the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hosts",
+            "weight" : "1",
+            "pos" : 1031,
+            "context" : ".... Ghostgate sits astride the only gap through which the monstrous <mark>hosts<\/mark> of Dagoth Ur might emerge from Red Mountain to threaten the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "host",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...of Ashalmawia, Maelkashishi and Ald Sotha gathered in a great <mark>host<\/mark> at the vastness of Assurnabitashpi. Even Hilbongard and Dorach Gusal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hosts",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "The shattered <mark>hosts<\/mark> slumber in cradles of ash.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hosts",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...bounty of Blessed Almsivi, Triune Grace, and all the <mark>hosts<\/mark> of saints, the faithful who pray at the Temple's shrines...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,146 @@
+
+  { "stem" : "lower",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 1905,
+            "context" : "Ghostgate, Tower of Dawn <mark>Lower<\/mark> Level" },
+          
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 1915,
+            "context" : "Ghostgate,_Tower_of_Dawn_<mark>Lower<\/mark>_Level" },
+          
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 3778,
+            "context" : "Tel Mora, <mark>Lower<\/mark> Tower" },
+          
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 3873,
+            "context" : "Tel Uvirith, Tower <mark>Lower<\/mark>" },
+          
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 3986,
+            "context" : "Tel_Uvirith,_Tower_<mark>Lower<\/mark>" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "Ghostgate, Tower of Dawn <mark>Lower<\/mark> Level: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "Tel Mora, <mark>Lower<\/mark> Tower: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "Tel Uvirith, Tower <mark>Lower<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "lower",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...most services. Though House Telvanni does recruit from their own <mark>lower<\/mark> classes, they must go outside their house to hire the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "lower",
+            "weight" : "1",
+            "pos" : 2084,
+            "context" : "ghostgate, tower of dawn <mark>lower<\/mark> level",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "lower",
+            "weight" : "1",
+            "pos" : 3979,
+            "context" : "tel mora, <mark>lower<\/mark> tower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "lower",
+            "weight" : "1",
+            "pos" : 4086,
+            "context" : "tel uvirith, tower <mark>lower<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lower",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...other houses. Later, after faithful service and advancement in <mark>lower<\/mark> ranks, an outlander may seek adoption into a Great House...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lower",
+            "weight" : "1",
+            "pos" : 366,
+            "context" : " The Ashlands are the dry, inhospitable wastelands surrounding the <mark>lower<\/mark> slopes of Red Mountain. The Ashlands extend to the Sea...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lower",
+            "weight" : "1",
+            "pos" : 358,
+            "context" : "...themselves low enough to squirm under the gates so they could <mark>lower<\/mark> the bridge into the main courtyard of the stronghold. Masters...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "Tel Uvirith, Tower <mark>Lower<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lower",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "Ghostgate, Tower of Dawn <mark>Lower<\/mark> Level: Visitable? yes",
+            "fid" : "acq" } ] } ] }

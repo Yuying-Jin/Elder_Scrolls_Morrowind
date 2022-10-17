@@ -1,0 +1,47 @@
+
+  { "stem" : "princ",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Prince",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "...and her shadow was that of Boethiah, who was the <mark>Prince<\/mark> of Plots, and things unknown and known would fold themselves...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "princes",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...we tolerate the hidden hosts of the undead, the arrogant <mark>princes<\/mark> of necromancers, the ancient vampire demons who creep from their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prince",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...havoc it was causing, it seemed likely that the daedra <mark>prince<\/mark> would allow Master Neloth its use for some time to come...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Prince",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "...a new land. And while Boethiah, the so-called <mark>Prince<\/mark> of Plots, provided the revolutionary methods needed to bring about...",
+            "fid" : "content" } ] } ] }

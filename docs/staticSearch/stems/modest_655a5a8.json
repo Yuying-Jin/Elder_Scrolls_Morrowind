@@ -1,0 +1,86 @@
+
+  { "stem" : "modest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "modest",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "...storied buildings roughly rectangular in plan, featuring arched entranceways and <mark>modest<\/mark> decorated exteriors. More modest one-story private dwellings follow...",
+            "fid" : "content" },
+          
+          { "form" : "modest",
+            "weight" : "1",
+            "pos" : 321,
+            "context" : "...plan, featuring arched entranceways and modest decorated exteriors. More <mark>modest<\/mark> one-story private dwellings follow the same plan, except...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "modest",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...discrete Necromancer can thrive in Morrowind by taking slaves at a <mark>modest<\/mark> rate. Most will assume the slave escaped or died in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "modest",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...you use our health, healing, and blessing shrines -- <mark>modest<\/mark> fees which help us spread the blessings of the Nine to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "modest",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "..., Vivec City, Caldera, and Sadrith Mora for a <mark>modest<\/mark> fee. Gnaar Mok is a LONG and exceptionally unpleasant walk...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "modest",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...Ald'ruhn, Vivec City, Caldera, and Balmora for a <mark>modest<\/mark> fee.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "modest",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "Not true. Telvanni accept candidates of <mark>modest<\/mark> intelligence and willpower.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "modest",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "...these blessings when they pray at the shrines and make a <mark>modest<\/mark> donation. The Blessed of the Initiate rank and higher of...",
+            "fid" : "content" } ] } ] }

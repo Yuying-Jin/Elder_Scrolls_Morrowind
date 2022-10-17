@@ -1,0 +1,137 @@
+
+  { "stem" : "particular",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...and less heroic motives and actions of the Tribunes. In <mark>particular<\/mark>, conflicting accounts of the battle at Red Mountain raise questions...",
+            "fid" : "content" },
+          
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...have studied the mysticism of the Ashlander Ancestor Cults, in <mark>particular<\/mark> the rites of the Ashlander seers and wise women, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "particularly",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...though it was our Khajiit tumbler Master S'Rabba who he was <mark>particularly<\/mark> suspicious of. In fact, the irony is that he thought...",
+            "fid" : "content" },
+          
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...quickly, fully aware of Gothren's growing rage, which that <mark>particular<\/mark> comment had only enflamed. \"He wasn't used to Khajiit either...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...and less heroic motives and actions of the Tribunes. In <mark>particular<\/mark>, conflicting accounts of the battle at Red Mountain raise questions...",
+            "fid" : "content" },
+          
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...have studied the mysticism of the Ashlander Ancestor Cults, in <mark>particular<\/mark> the rites of the Ashlander seers and wise women, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "particularly",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...provincial colonists, and recently assimilated foreigners, the cult is <mark>particularly<\/mark> strong and personal.",
+            "fid" : "content" },
+          
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "...matters, where the Dunmer consider cult affairs, and in <mark>particular<\/mark>, ancestral spirit veneration, to be very serious matters indeed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : " Whether this <mark>particular<\/mark> custom is part of the culture or not, it's wise for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 526,
+            "context" : "...Dres is hostile to Imperial law and culture, and in <mark>particular<\/mark> opposed to any attempts to limit the institution of slavery....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...to magical attacks, so one should only wear it for <mark>particular<\/mark> occasions.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "Pilgrims and travelers will find the following inexpensive recipes of <mark>particular<\/mark> interest.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "particularly",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...sought out experiences that tested him in every way possible, <mark>particularly<\/mark> in the defense and protection of his Dunmer people, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "particular",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...shrines bearing the images of the saints may also grant the <mark>particular<\/mark> blessings of the saints, which are listed for you here:...",
+            "fid" : "content" } ] } ] }

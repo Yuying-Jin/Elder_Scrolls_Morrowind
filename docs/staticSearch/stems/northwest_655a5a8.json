@@ -1,0 +1,70 @@
+
+  { "stem" : "northwest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "northwest",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : " Roads lead <mark>northwest<\/mark> to Maar Gan and Gnisis villages and by a circuitous western...",
+            "fid" : "content" },
+          
+          { "form" : "northwest",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "...Balmora, and points south. The road to Balmora swings <mark>northwest<\/mark> to avoid the barren wastes, and curves around towards the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "northwest",
+            "weight" : "1",
+            "pos" : 1068,
+            "context" : ".... The region extends from the Sea of Ghosts on the <mark>northwest<\/mark> coast to the inland town of Balmora, where the region...",
+            "fid" : "content" },
+          
+          { "form" : "northwest",
+            "weight" : "1",
+            "pos" : 1194,
+            "context" : "...and trade village astride the silt strider caravan route between the <mark>northwest<\/mark> West Gash and Ald'ruhn.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "northwest",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...grouped together at the center of the cross -- Redoran Compound <mark>northwest<\/mark>, Arena northeast, St. Delyn's Canton southwest, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "northwest",
+            "weight" : "1",
+            "pos" : 452,
+            "context" : "...within the Gnisis Temple, in the village of Gnisis, <mark>northwest<\/mark> by road from the town of Ald'ruhn. When you address...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "northwest",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...Dagoth invited Orc and Nord clans as allies, and held <mark>northwest<\/mark> Morrowind, while Nerevar mustered the other Houses and nomad tribes...",
+            "fid" : "content" } ] } ] }

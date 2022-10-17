@@ -1,0 +1,226 @@
+
+  { "stem" : "tong",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 869,
+            "context" : "Ald'ruhn,-Morag_<mark>Tong<\/mark>_Guildhall" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 905,
+            "context" : "Ald'ruhn,_Morag_<mark>Tong<\/mark>_Guildhall" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 1262,
+            "context" : "Balmora,_Morag_<mark>Tong<\/mark>_Guild" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 3294,
+            "context" : "Sadrith_Mora,_Morag_<mark>Tong<\/mark>_Guild" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 5553,
+            "context" : "Morag_<mark>Tong<\/mark>" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 5852,
+            "context" : "Camonna <mark>Tong<\/mark>" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 5869,
+            "context" : "Morag <mark>Tong<\/mark>" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 7383,
+            "context" : "Morag <mark>Tong<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "tong",
+            "weight" : "1",
+            "pos" : 1078,
+            "context" : "ald'ruhn, morag <mark>tong<\/mark> guildhall",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tong",
+            "weight" : "1",
+            "pos" : 1427,
+            "context" : "balmora, morag <mark>tong<\/mark> guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tong",
+            "weight" : "1",
+            "pos" : 3421,
+            "context" : "sadrith mora, morag <mark>tong<\/mark> guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tong",
+            "weight" : "1",
+            "pos" : 6138,
+            "context" : "morag <mark>tong<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "tong",
+            "weight" : "1",
+            "pos" : 6150,
+            "context" : "camonna <mark>tong<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "tong",
+            "weight" : "1",
+            "pos" : 7506,
+            "context" : "morag <mark>tong<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Ald'ruhn, Morag <mark>Tong<\/mark> Guildhall: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "Balmora, Morag <mark>Tong<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Sadrith Mora, Morag <mark>Tong<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "Swift and agile are the Morag <mark>Tong<\/mark>. Silent and unseen they move. Illusions they supply to...",
+            "fid" : "Morag_Tong" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...Then, perhaps, your oath and service may please the Morag <mark>Tong<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "The competition is the Camonna <mark>Tong<\/mark>. And you don't want to join them, because they don't...",
+            "fid" : "content" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "And the Camonna <mark>Tong<\/mark> are bad people. The Camonna Tong don't mind killing people...",
+            "fid" : "content" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "And the Camonna Tong are bad people. The Camonna <mark>Tong<\/mark> don't mind killing people. Heck, they LIKE killing people...",
+            "fid" : "content" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...Guild, and stay far, far away from the Camonna <mark>Tong<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 672,
+            "context" : "...for the high moral principles of House Redoran and the Morag <mark>Tong<\/mark>, and honors their different but noble conceptions of Divine Inspiration...",
+            "fid" : "content" },
+          
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 708,
+            "context" : "...The Imperial cult also disapproves of the lawless and greedy Camonna <mark>Tong<\/mark>, and their ruthless exploitation of the poor and weak....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "...cult. Goren Andarys is the guild steward of the Morag <mark>Tong<\/mark>, whose guildhall is found in Ald'ruhn-Under-Skar.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "..., and aggressive competition between the Thieves Guild and the Camonna <mark>Tong<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Ald'ruhn, Morag <mark>Tong<\/mark> Guildhall: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tong",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "...the increasingly aggressive competition between the Thieves Guild and the Camonna <mark>Tong<\/mark> for control of the black markets.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "envis",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "envision",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "The Dunmer do not <mark>envision<\/mark> Lord Vivec as a creature of murder, sex, and...",
+            "fid" : "content" } ] } ] }

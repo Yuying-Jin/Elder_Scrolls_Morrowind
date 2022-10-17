@@ -1,0 +1,25 @@
+
+  { "stem" : "nimbl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nimble",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...he was soon reduced to hurling rocks at the alert and <mark>nimble<\/mark> little fish.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nimble",
+            "weight" : "1",
+            "pos" : 516,
+            "context" : "...endurance to marry, but a man of agility, a <mark>nimble<\/mark> acrobat. The greatest in all Morrowind.\"",
+            "fid" : "content" } ] } ] }

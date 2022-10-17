@@ -1,0 +1,50 @@
+
+  { "stem" : "callonus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Callonus",
+            "weight" : "1",
+            "pos" : 896,
+            "context" : "Ald'ruhn,_Codus_<mark>Callonus<\/mark>:_Bookseller" },
+          
+          { "form" : "Callonus",
+            "weight" : "1",
+            "pos" : 6407,
+            "context" : "Codus <mark>Callonus<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "callonus",
+            "weight" : "1",
+            "pos" : 1051,
+            "context" : "ald'ruhn, codus <mark>callonus<\/mark>: bookseller",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "callonus",
+            "weight" : "1",
+            "pos" : 6490,
+            "context" : "codus <mark>callonus<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Callonus",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Ald'ruhn, Codus <mark>Callonus<\/mark>: Bookseller: Visitable? yes",
+            "fid" : "acq" } ] } ] }

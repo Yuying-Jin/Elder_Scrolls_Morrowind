@@ -1,0 +1,25 @@
+
+  { "stem" : "problem",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "problems",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "While the forests of Elsweyr pose some of the same <mark>problems<\/mark> as those of Black Marsh, the deserts preserve corpses for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "problem",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "\"The <mark>problem<\/mark> with thieves today,\" said Lledos, \"Is the lack of...",
+            "fid" : "content" } ] } ] }

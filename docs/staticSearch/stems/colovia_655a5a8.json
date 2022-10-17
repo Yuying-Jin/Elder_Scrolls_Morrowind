@@ -1,0 +1,37 @@
+
+  { "stem" : "colovia",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Colovia",
+            "weight" : "1",
+            "pos" : 1439,
+            "context" : "<mark>Colovia<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "colovia",
+            "weight" : "1",
+            "pos" : 1610,
+            "context" : "<mark>colovia<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Colovia",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "Farewell to <mark>Colovia<\/mark>",
+            "fid" : "content" } ] } ] }

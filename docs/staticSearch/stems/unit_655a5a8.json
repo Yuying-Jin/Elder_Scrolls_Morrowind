@@ -1,0 +1,31 @@
+
+  { "stem" : "unit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "units",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...law and order, providing guards to supplement the local guard <mark>units<\/mark> of the Temple and Great Houses Hlaalu, Redoran, and...",
+            "fid" : "content" },
+          
+          { "form" : "unit",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...Hawkmoth Legion garrisoned at Castle Ebonheart is an elite honor guard <mark>unit<\/mark>, and also at full complement. The frontier installation,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unite",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...ring was called Moon-and-Star, and it helped Nerevar <mark>unite<\/mark> the various clans into the First Council.",
+            "fid" : "content" } ] } ] }

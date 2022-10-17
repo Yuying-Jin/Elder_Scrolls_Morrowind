@@ -1,0 +1,42 @@
+
+  { "stem" : "forward",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "forward",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "...while there's quite a bit of blood, it all jets <mark>forward<\/mark> away from you.",
+            "fid" : "content" },
+          
+          { "form" : "forward",
+            "weight" : "1",
+            "pos" : 650,
+            "context" : "As he prodded his mount <mark>forward<\/mark> and the sun began rising, Sathis pictured Galsiah and Imalyn...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forward",
+            "weight" : "1",
+            "pos" : 695,
+            "context" : "...cult especially disapproves of the practice of slavery, and looks <mark>forward<\/mark> to the day when slavery is illegal in all Imperial provinces...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forward",
+            "weight" : "1",
+            "pos" : 557,
+            "context" : "...delightful, Master Rhunen Zebavi,\" said Gothren. \"I look <mark>forward<\/mark> to seeing it in a few days time, but I...",
+            "fid" : "content" } ] } ] }

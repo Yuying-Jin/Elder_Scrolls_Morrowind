@@ -1,0 +1,14 @@
+
+  { "stem" : "undetect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undetected",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...want to be fast and agile. You want to move <mark>undetected<\/mark>. You want to know about security -- locks, traps...",
+            "fid" : "content" } ] } ] }

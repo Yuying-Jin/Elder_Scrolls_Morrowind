@@ -1,0 +1,79 @@
+
+  { "stem" : "zebavi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "by Master Rhunen <mark>Zebavi<\/mark>",
+            "fid" : "RhunenZebavi" },
+          
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...perform?\" asked the wizard to the lead acrobat, Rhunen <mark>Zebavi<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : " \"You're like Master Neloth then,\" said Rhunen <mark>Zebavi<\/mark> quickly, fully aware of Gothren's growing rage, which that...",
+            "fid" : "content" },
+          
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 436,
+            "context" : "\"It wasn't bravery, it was economics,\" smiled Rhunen <mark>Zebavi<\/mark>. \"I considered the amount of gold and time it takes...",
+            "fid" : "content" },
+          
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 499,
+            "context" : "\"We arrived here at court,\" said Rhunen <mark>Zebavi<\/mark> simply.",
+            "fid" : "content" },
+          
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 516,
+            "context" : "...that part of the story hasn't happened yet,\" said Rhunen <mark>Zebavi<\/mark>. \"Are you ready for us to perform for you now?...",
+            "fid" : "content" },
+          
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 553,
+            "context" : "\"It sounds delightful, Master Rhunen <mark>Zebavi<\/mark>,\" said Gothren. \"I look forward to seeing it in...",
+            "fid" : "content" },
+          
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 607,
+            "context" : "...\"There are already so many jugglers in Rihad,\" said Rhunen <mark>Zebavi<\/mark> with a shrug.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Zebavi",
+            "weight" : "1",
+            "pos" : 7606,
+            "context" : "Rhunen <mark>Zebavi<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "zebavi",
+            "weight" : "1",
+            "pos" : 7743,
+            "context" : "rhunen <mark>zebavi<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

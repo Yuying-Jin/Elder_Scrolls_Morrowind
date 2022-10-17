@@ -1,0 +1,48 @@
+
+  { "stem" : "rescu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rescued",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...the nice way to look at it is that if we're <mark>rescued<\/mark>, we can divide the profits between two rather than between...",
+            "fid" : "content" },
+          
+          { "form" : "rescue",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "Harithoel, overjoyed at <mark>rescue<\/mark> at long last, began picking up the crates and stacking...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rescued",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "...held for ransom, her mother sent word out that whoever <mark>rescued<\/mark> her would be allowed to marry her and inherit the land...",
+            "fid" : "content" },
+          
+          { "form" : "rescue",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...along the valley -- Baranat would have to defeat each to <mark>rescue<\/mark> the lady.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rescue",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...report the evil infection and return with a regimental force of <mark>rescue<\/mark>. May the Powers be with me.\"",
+            "fid" : "content" } ] } ] }

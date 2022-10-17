@@ -1,0 +1,14 @@
+
+  { "stem" : "topic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "topic",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "...else in Imperial lore. Unfortunately, scholarly inquiry upon this <mark>topic<\/mark> is discouraged by the Temple, which controls access to the...",
+            "fid" : "content" } ] } ] }

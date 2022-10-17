@@ -1,0 +1,247 @@
+
+  { "stem" : "larg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...; the inland Ascadian Isles are dotted with small farms and <mark>large<\/mark> plantations. The climate is temperate and comfortable, with moderate...",
+            "fid" : "content" },
+          
+          { "form" : "largely",
+            "weight" : "1",
+            "pos" : 455,
+            "context" : "...Azura's Coast. The region is rocky, infertile, and <mark>largely<\/mark> uninhabited, except for the outpost at Molag Mar, the...",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 520,
+            "context" : "...and accessible only by sea and teleportation. The town is <mark>large<\/mark>, with many services, but it is open only to...",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 1163,
+            "context" : "...Ald'ruhn is the district seat of House Redoran, and a <mark>large<\/mark> settlement. The Redoran Council Chamber are located inside the shell...",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 1209,
+            "context" : " The <mark>large<\/mark> island of Sheogorad lies north of Vvardenfell. This island and...",
+            "fid" : "content" },
+          
+          { "form" : "largely",
+            "weight" : "1",
+            "pos" : 1227,
+            "context" : "...from Vvardenfell into the Sea of Ghosts. The region is <mark>largely<\/mark> hostile and uninhabited, with two small villages at Ald Redaynia...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "largely",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...now function as political parties. Dunmer Great House membership is <mark>largely<\/mark> a matter of birth and marriage, but Imperial colonists may...",
+            "fid" : "content" },
+          
+          { "form" : "largely",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "...Imperial provinces. Unlike the other Great Houses, which are <mark>largely<\/mark> hostile to non-Dunmer, House Hlaalu aspires to live...",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 507,
+            "context" : ".... House Dres is an agrarian agricultural society, and its <mark>large<\/mark> saltrice plantations rely completely on slave labor for their economic viability...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Large",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : " Combine Blood, Heart, Moonsugar in <mark>Large<\/mark> Ebony Alembic. Heat fire fed by Bones of Traitors....",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...fire fed by Bones of Traitors. Condense vapors into a <mark>large<\/mark> Ebony flask. For a hot drink, strain contents through...",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "..., strain contents through Scamp Skin and mix with Flin in <mark>large<\/mark> mug, slowly stirring with a glass rod. For a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : " Ald'ruhn town is a <mark>large<\/mark> settlement in the Redoran village style, built of local materials...",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...beneath the shell of an ancient extinct giant crab. The <mark>large<\/mark> carapace encloses a central dome, from which radiate the entrances...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...and accessible only by sea and teleportation. The town is <mark>large<\/mark>, with many craftsmen, traders, and trainers, but...",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...of the Great Market is the Telvanni Council Hall, a <mark>large<\/mark> orb supported by giant mushroom stalks. To the east of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : " The Foreign Quarter is the <mark>large<\/mark> three-tiered canton to the north. Originally, foreigners...",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : ".... Archcanon Saryoni presides over the temple, along with a <mark>large<\/mark> staff of priests, healers, and monks. Pilgrims travel...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "1 <mark>large<\/mark> kwama egg",
+            "fid" : "content" },
+          
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "Beat eggs, wickwheat, and Scuttle in a <mark>large<\/mark> bowl. Slowly stir in crabmeat and bittergreen. Bake covered...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "...almost always subject to Arkay's Law. There are exceptions after <mark>large<\/mark> battles or in remote areas where death occurs far from meddlesome...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "<mark>large<\/mark> kwama egg" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 505,
+            "context" : "<mark>large<\/mark> kwama egg",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...differences in religious temperament between Heartlanders and Morrowind Dunmer accounts in <mark>large<\/mark> part for consistent political and social misunderstanding between the two cultures...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 330,
+            "context" : "...men saw a boat on the horizon. They set a <mark>large<\/mark> fire, and the crew saw them. As it approached,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 526,
+            "context" : "...south, towards the sea, and is marked by a <mark>large<\/mark> natural arch of stone. The region is wilderness, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...squirming sack which Baranat assumed either contained Lady Genevrah or several <mark>large<\/mark> cats. The young adventurer quailed at the prospect of doing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "large",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...On the other hand, they freely admit that even a <mark>large<\/mark> community of vampires might easily escape detection in the remote wastelands...",
+            "fid" : "content" } ] } ] }

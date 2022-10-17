@@ -1,0 +1,42 @@
+
+  { "stem" : "religion",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "religion",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "...Imperial Legions and bureaucracy, and Imperial freedom of trade and <mark>religion<\/mark>. Hlaalu still honors the old Dunmer ways—the ancestors,...",
+            "fid" : "content" },
+          
+          { "form" : "religion",
+            "weight" : "1",
+            "pos" : 483,
+            "context" : "...authority. House Indoril is openly hostile to Imperial culture and <mark>religion<\/mark>, and preserves many traditional Dunmer customs and practices in defiance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "religion",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...the Fellowship of the Tribunal Temple. The Temple is the <mark>religion<\/mark> of Morrowind and Dunmer people, and has been for generation...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "religion",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "Later, however, disputes over <mark>religion<\/mark> divided the Council, with House Dwemer and House Dagoth on...",
+            "fid" : "content" } ] } ] }

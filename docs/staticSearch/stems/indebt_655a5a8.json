@@ -1,0 +1,14 @@
+
+  { "stem" : "indebt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "indebted",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "..., but when the dust clears, they will find themselves <mark>indebted<\/mark> to us. The House Telvanni may know many arcane secrets...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,101 @@
+
+  { "stem" : "entri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Entry",
+            "weight" : "1",
+            "pos" : 3236,
+            "context" : "Sadrith Mora, Telvanni Council House, <mark>Entry<\/mark>" },
+          
+          { "form" : "Entry",
+            "weight" : "1",
+            "pos" : 3328,
+            "context" : "Sadrith_Mora,_Telvanni_Council_House,_<mark>Entry<\/mark>" },
+          
+          { "form" : "Entry",
+            "weight" : "1",
+            "pos" : 3938,
+            "context" : "Tel_Aruhn,_Tower_<mark>Entry<\/mark>" },
+          
+          { "form" : "Entry",
+            "weight" : "1",
+            "pos" : 4302,
+            "context" : "Vas, <mark>Entry<\/mark> Level" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "entry",
+            "weight" : "1",
+            "pos" : 3476,
+            "context" : "sadrith mora, telvanni council house, <mark>entry<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "entry",
+            "weight" : "1",
+            "pos" : 3850,
+            "context" : "tel aruhn, tower <mark>entry<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "entry",
+            "weight" : "1",
+            "pos" : 4445,
+            "context" : "vas, <mark>entry<\/mark> level",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Entry",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "<mark>Entry<\/mark> Level: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Entry",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "Sadrith Mora, Telvanni Council House, <mark>Entry<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Entry",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Tel Aruhn, Tower <mark>Entry<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Entry",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "Sadrith Mora, Telvanni Council House, <mark>Entry<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

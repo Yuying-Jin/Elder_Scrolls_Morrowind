@@ -1,0 +1,14 @@
+
+  { "stem" : "arbitrari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arbitrary",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...justice, Lord Vivec. I shall be neither cruel nor <mark>arbitrary<\/mark>, for fair dealing earns the love, trust, and...",
+            "fid" : "content" } ] } ] }

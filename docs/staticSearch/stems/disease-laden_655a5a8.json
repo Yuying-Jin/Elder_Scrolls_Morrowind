@@ -1,0 +1,14 @@
+
+  { "stem" : "disease-laden",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "disease-laden",
+            "weight" : "1",
+            "pos" : 992,
+            "context" : "...which blocks travel as well as seals in the harmful, <mark>disease-laden<\/mark> weather called 'blight,' rings the volcano's outer slopes, and...",
+            "fid" : "content" } ] } ] }

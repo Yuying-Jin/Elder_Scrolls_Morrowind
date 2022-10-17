@@ -1,0 +1,14 @@
+
+  { "stem" : "precinct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "precincts",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...decoration. Hlaalu plantation estates resemble Temple compounds, with walled <mark>precincts<\/mark> enclosing outbuildings for craftsmen and servants, dominated by a grand...",
+            "fid" : "content" } ] } ] }

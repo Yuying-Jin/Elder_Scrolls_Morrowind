@@ -1,0 +1,25 @@
+
+  { "stem" : "epic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "epic",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...[The Cantatas of Vivec are gospels written in the form of <mark>epic<\/mark> songs. They trace the evolution of Vivec from a foolish...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "epic",
+            "weight" : "1",
+            "pos" : 548,
+            "context" : "...experienced and capable adventurers should attempt to re-enact the <mark>epic<\/mark> battle with the Dreugh in the cave. Dreugh wax may...",
+            "fid" : "content" } ] } ] }

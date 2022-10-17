@@ -1,0 +1,20 @@
+
+  { "stem" : "spars",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sparse",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...region. Ashlanders hunt for game here, and their herds find <mark>sparse<\/mark> grazing. It rains rarely, and suffers frequent ash storms...",
+            "fid" : "content" },
+          
+          { "form" : "sparse",
+            "weight" : "1",
+            "pos" : 1101,
+            "context" : "...The herds of the Ashlanders of Urshilaku camp graze on the <mark>sparse<\/mark> but hardy highland vegetation.",
+            "fid" : "content" } ] } ] }

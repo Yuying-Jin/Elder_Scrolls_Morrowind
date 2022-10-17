@@ -1,0 +1,36 @@
+
+  { "stem" : "shine",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shines",
+            "weight" : "1",
+            "pos" : 1011,
+            "context" : "...Within the Ghostfence, rain never falls and the sun never <mark>shines<\/mark>; the only weather is the red and deadly ash-...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shine",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "From glowing ashes the Poet's wrath shall <mark>shine<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shining",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "Saint Veloth the Pilgrim appeared before Baranat in <mark>shining<\/mark> robes, and smiled upon him, \"Baranat, put down your...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "conduct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "conduct",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...of the battle at Red Mountain raise questions about the Tribunal's <mark>conduct<\/mark>, and about the source of their subsequent apotheosis. Also...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "conduct",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...of the battle at Red Mountain raise questions about the Tribunal's <mark>conduct<\/mark>, and about the source of their subsequent apotheosis. Also...",
+            "fid" : "content" } ] } ] }

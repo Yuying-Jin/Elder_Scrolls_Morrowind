@@ -1,0 +1,32 @@
+
+  { "stem" : "valley",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "valley",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : ".... Each of his brothers guarded a different post along the <mark>valley<\/mark> -- Baranat would have to defeat each to rescue the lady...",
+            "fid" : "content" },
+          
+          { "form" : "valley",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...Vanis Coribael, the youngest of the brothers, watching the <mark>valley<\/mark> for intruders. Vanis was known to be faster than the...",
+            "fid" : "content" },
+          
+          { "form" : "valley",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : "..., but Baranat tore him apart, scattering him across the <mark>valley<\/mark> floor in eighty-seven pieces. Beyond Feryn's post was...",
+            "fid" : "content" },
+          
+          { "form" : "valley",
+            "weight" : "1",
+            "pos" : 340,
+            "context" : "...Baranat pulled himself out of the river and continued down the <mark>valley<\/mark>, until he reached the camp. Airen Coribael himself was...",
+            "fid" : "content" } ] } ] }

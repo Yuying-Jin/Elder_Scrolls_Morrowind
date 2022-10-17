@@ -1,0 +1,14 @@
+
+  { "stem" : "dens",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "densely",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...urban areas of Vivec and Ebonheart of the southern coast are <mark>densely<\/mark> populated; the inland Ascadian Isles are dotted with small farms...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "shorelin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shoreline",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "...state of fear. But just as they got near the <mark>shoreline<\/mark>, a colony of Mudcrabs, frightened in their turn by...",
+            "fid" : "content" } ] } ] }

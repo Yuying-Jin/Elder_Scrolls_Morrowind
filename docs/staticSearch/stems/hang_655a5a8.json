@@ -1,0 +1,14 @@
+
+  { "stem" : "hang",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hangs",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...city. The Ministry of Truth, the Temple prison, <mark>hangs<\/mark> above the great temple of the High Fane, the Halls...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,59 @@
+
+  { "stem" : "hut",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "huts",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...are typically centered on Temple compounds and their courtyards, with <mark>huts<\/mark> and tradehouses gathered around a central plaza, as in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hut",
+            "weight" : "1",
+            "pos" : 957,
+            "context" : "...tribe has a permanent settlement at Erabenimsun camp, an isolated <mark>hut<\/mark> settlement in the middle of the desolate Molag Amur region....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hut",
+            "weight" : "1",
+            "pos" : 4752,
+            "context" : "Yeherradad's_<mark>Hut<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hut",
+            "weight" : "1",
+            "pos" : 4880,
+            "context" : "yeherradad's <mark>hut<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hut",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "Yeherradad's <mark>Hut<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

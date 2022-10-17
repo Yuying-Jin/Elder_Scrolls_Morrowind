@@ -1,0 +1,14 @@
+
+  { "stem" : "precaut",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "precautions",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...is going to be slitting some throats not to take some <mark>precautions<\/mark> and bring some extra equipment. The best neck-hackers...",
+            "fid" : "content" } ] } ] }

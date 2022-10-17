@@ -1,0 +1,14 @@
+
+  { "stem" : "vile",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vile",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...the vampire's taint, but now these undead lords and their <mark>vile<\/mark> cattle have returned. These vampires die, and their corrupt...",
+            "fid" : "content" } ] } ] }

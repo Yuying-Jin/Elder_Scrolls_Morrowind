@@ -1,0 +1,58 @@
+
+  { "stem" : "peculiar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "peculiar",
+            "weight" : "1",
+            "pos" : 626,
+            "context" : "...wizard and council member Master Aryon. Tel Vos is a <mark>peculiar<\/mark> blend of Telvanni and Western architectural styles, and is close...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "peculiar",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...to destroy skeletons. An exception is the bonelord, a <mark>peculiar<\/mark> form of revenant that seems to derive its powers more from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "peculiar",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...to destroy skeletons. An exception is the bonelord, a <mark>peculiar<\/mark> form of revenant that seems to derive its powers more from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "peculiar",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...rivers and lakes in Hammerfell are most inconspicuous, only its <mark>peculiar<\/mark> halfmoon shape makes it noticeable. It is very sweet and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "peculiar",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "...beast creature. This account of the origin of vampirism is <mark>peculiar<\/mark> to Morrowind, appearing nowhere else in Imperial lore. Unfortunately...",
+            "fid" : "content" } ] } ] }

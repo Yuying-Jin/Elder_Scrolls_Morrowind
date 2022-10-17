@@ -1,0 +1,25 @@
+
+  { "stem" : "crabmeat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crabmeat",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "..., and Scuttle in a large bowl. Slowly stir in <mark>crabmeat<\/mark> and bittergreen. Bake covered in a hot over for one...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Crabmeat",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...meat, bread, small kwama egg, and chokeweed. <mark>Crabmeat<\/mark> is taken from the mud crab, commonly found along all...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "lure",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lured",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...the vastness of Assurnabitashpi. Even Hilbongard and Dorach Gusal were <mark>lured<\/mark> from their Forge, and for a time the Fires of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lured",
+            "weight" : "1",
+            "pos" : 451,
+            "context" : "...to try to save everyone. In any case, I <mark>lured<\/mark> the guards around to the back of the Gateway Inn,...",
+            "fid" : "content" } ] } ] }

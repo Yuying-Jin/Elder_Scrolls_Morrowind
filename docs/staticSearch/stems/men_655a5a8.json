@@ -1,0 +1,65 @@
+
+  { "stem" : "men",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : ".... As night fell on the small island, the two <mark>men<\/mark> discussed the smuggling operation and what went wrong. Their boat...",
+            "fid" : "content" },
+          
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...water within them. If he could catch one, the two <mark>men<\/mark> could be saved. With his broken legs, he was...",
+            "fid" : "content" },
+          
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "..., by luck, managed to spear a fish. The <mark>men<\/mark> tore it apart and ate it raw. As the days...",
+            "fid" : "content" },
+          
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "It was nearly two months after washing ashore that the <mark>men<\/mark> saw a boat on the horizon. They set a large...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...Velothi, anon Chimer, before the war with the northern <mark>men<\/mark>. Ayem came first to the village of the netchimen,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "Arkay's Blessing prevents the souls of <mark>men<\/mark>, beastmen, and elves from being used without consent....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "men",
+            "weight" : "1",
+            "pos" : 722,
+            "context" : "...some kind of test to rebuff the advances of so many <mark>men<\/mark> interested in my money and the money of my late husband...",
+            "fid" : "content" } ] } ] }

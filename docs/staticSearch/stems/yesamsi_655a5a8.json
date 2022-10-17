@@ -1,0 +1,37 @@
+
+  { "stem" : "yesamsi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Yesamsi",
+            "weight" : "1",
+            "pos" : 4758,
+            "context" : "<mark>Yesamsi<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "yesamsi",
+            "weight" : "1",
+            "pos" : 4893,
+            "context" : "<mark>yesamsi<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Yesamsi",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "<mark>Yesamsi<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "maritim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "maritime",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...Imperial government for Vvardenfell district, and a busy center of <mark>maritime<\/mark> trade. Castle Ebonheart is the home of Duke Vedam Dren...",
+            "fid" : "content" },
+          
+          { "form" : "maritime",
+            "weight" : "1",
+            "pos" : 1219,
+            "context" : "...Vvardenfell. This island and its associated lesser islands are a <mark>maritime<\/mark> wilderness extending north from Vvardenfell into the Sea of Ghosts....",
+            "fid" : "content" } ] } ] }

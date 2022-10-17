@@ -1,0 +1,14 @@
+
+  { "stem" : "trustworthi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trustworthy",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...the basis of superior endurance, the soldierly virtue, and <mark>trustworthy<\/mark> personality, the citizen's virtue, for service in the Legion...",
+            "fid" : "content" } ] } ] }

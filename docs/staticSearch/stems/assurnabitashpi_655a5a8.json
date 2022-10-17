@@ -1,0 +1,37 @@
+
+  { "stem" : "assurnabitashpi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Assurnabitashpi",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...Ald Sotha gathered in a great host at the vastness of <mark>Assurnabitashpi<\/mark>. Even Hilbongard and Dorach Gusal were lured from their Forge...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Assurnabitashpi",
+            "weight" : "1",
+            "pos" : 1052,
+            "context" : "<mark>Assurnabitashpi<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assurnabitashpi",
+            "weight" : "1",
+            "pos" : 1222,
+            "context" : "<mark>assurnabitashpi<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

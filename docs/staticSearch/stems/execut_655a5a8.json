@@ -1,0 +1,31 @@
+
+  { "stem" : "execut",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "executed",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...Not good. Now a good throat-slashing, properly <mark>executed<\/mark>, can both slay and silence a guard and leave the...",
+            "fid" : "content" },
+          
+          { "form" : "execute",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : "...bought or stolen the necessary ingredients, and were about to <mark>execute<\/mark> it. Not one of the three were sure whether confidence or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "executive",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...there. The Hall of Wisdom and Hall of Justice contain the <mark>executive<\/mark>, administrative, judicial, and martial operations of the Tribunal...",
+            "fid" : "content" } ] } ] }

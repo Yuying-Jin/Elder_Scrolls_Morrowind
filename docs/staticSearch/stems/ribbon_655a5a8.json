@@ -1,0 +1,14 @@
+
+  { "stem" : "ribbon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ribbons",
+            "weight" : "1",
+            "pos" : 829,
+            "context" : "...old house. Afternoon sunlight came through his bedroom window in <mark>ribbons<\/mark>, catching dust. He closed his eyes.",
+            "fid" : "content" } ] } ] }

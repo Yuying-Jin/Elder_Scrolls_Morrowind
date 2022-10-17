@@ -1,0 +1,14 @@
+
+  { "stem" : "stupid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stupidity",
+            "weight" : "1",
+            "pos" : 406,
+            "context" : "...it. Not one of the three were sure whether confidence or <mark>stupidity<\/mark> were driving the other two, but the fates were aligned...",
+            "fid" : "content" } ] } ] }

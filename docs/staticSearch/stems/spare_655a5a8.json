@@ -1,0 +1,25 @@
+
+  { "stem" : "spare",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sparingly",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "To the Priests: Use your servants <mark>sparingly<\/mark>, let none be seen by the living. Let the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spared",
+            "weight" : "1",
+            "pos" : 493,
+            "context" : "...of the Dreugh. When he defeated Ruddy Man, Vivec <mark>spared<\/mark> his life, on the condition that Ruddy Man and his...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,114 @@
+
+  { "stem" : "left",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...sat in the inferno of flame for twenty minutes before he <mark>left<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 479,
+            "context" : "...inferno of blue fire for very nearly an hour before he <mark>left<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 496,
+            "context" : "They <mark>left<\/mark> the guildhouse an hour after they entered. No alarm had...",
+            "fid" : "content" },
+          
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 590,
+            "context" : "...labyrinthine tunnels of sludge. His guar was waiting where he <mark>left<\/mark> it at the city gates, making a laconic lunch of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "'For I have crushed a world with my <mark>left<\/mark> hand,' he will say, 'but in my right hand...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "However, creating a mere zombie is a method best <mark>left<\/mark> to lazy or desperate practitioners. With only a bit more...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...than that Nerevar destroyed them. Ashlander tradition further holds that Nerevar <mark>left<\/mark> Dagoth Ur guarding the profane secrets of Red Mountain while Nerevar...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : "\"We should have probably <mark>left<\/mark> then, but we decided that he still owed us for the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...than that Nerevar destroyed them. Ashlander tradition further holds that Nerevar <mark>left<\/mark> Dagoth Ur guarding the profane secrets of Red Mountain while Nerevar...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 363,
+            "context" : "...deaf to the fact that her words were dead before they <mark>left<\/mark> her mouth. Silverthorn smiled and nodded his head, enjoying...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "left",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...the other. He turned back to S'Riizh who was were he <mark>left<\/mark> him, half buried in the sand to pack his broken bones...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,36 @@
+
+  { "stem" : "ago",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ago",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : " \"Two days <mark>ago<\/mark>, yes. I remember that he said there have been...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ago",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...he tended his garden one springtide, not very many years <mark>ago<\/mark>, he heard some people talking through the thick tall trama...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ago",
+            "weight" : "1",
+            "pos" : 347,
+            "context" : "...conspired to murder Lord Nerevar, but it happened so long <mark>ago<\/mark>... who can know the truth?\"",
+            "fid" : "content" } ] } ] }

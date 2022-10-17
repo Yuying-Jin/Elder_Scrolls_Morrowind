@@ -1,0 +1,14 @@
+
+  { "stem" : "outbuild",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "outbuildings",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "...Hlaalu plantation estates resemble Temple compounds, with walled precincts enclosing <mark>outbuildings<\/mark> for craftsmen and servants, dominated by a grand manor residence...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "edg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "edge",
+            "weight" : "1",
+            "pos" : 334,
+            "context" : "...chartered Imperial village between Balmora and Vivec City on the western <mark>edge<\/mark> of the Ascadian Isles region. The village is right outside...",
+            "fid" : "content" },
+          
+          { "form" : "edge",
+            "weight" : "1",
+            "pos" : 923,
+            "context" : "...outpost at Molag Mar is a fortified stronghold on the southeastern <mark>edge<\/mark> of the desolate Molag Amur region. Pilgrims bound for the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "edges",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...saw the small, quick, golden fish swimming at the <mark>edges<\/mark> of the island. He had read somewhere that fish not...",
+            "fid" : "content" } ] } ] }

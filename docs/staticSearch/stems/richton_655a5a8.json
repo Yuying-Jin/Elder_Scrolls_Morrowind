@@ -1,0 +1,37 @@
+
+  { "stem" : "richton",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Richton",
+            "weight" : "1",
+            "pos" : 6216,
+            "context" : "Admiral_<mark>Richton<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "richton",
+            "weight" : "1",
+            "pos" : 7203,
+            "context" : "admiral <mark>richton<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Richton",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "Bold Admiral <mark>Richton<\/mark>",
+            "fid" : "Admiral_Richton" } ] } ] }

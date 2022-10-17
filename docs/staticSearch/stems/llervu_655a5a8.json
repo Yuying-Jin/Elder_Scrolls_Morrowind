@@ -1,0 +1,50 @@
+
+  { "stem" : "llervu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Llervu's",
+            "weight" : "1",
+            "pos" : 842,
+            "context" : "Ald'ruhn, Guls <mark>Llervu's<\/mark> House" },
+          
+          { "form" : "Llervu",
+            "weight" : "1",
+            "pos" : 6798,
+            "context" : "Elms <mark>Llervu<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "llervu's",
+            "weight" : "1",
+            "pos" : 1060,
+            "context" : "ald'ruhn, guls <mark>llervu's<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "llervu",
+            "weight" : "1",
+            "pos" : 6915,
+            "context" : "elms <mark>llervu<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Llervu's",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "Guls <mark>Llervu's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

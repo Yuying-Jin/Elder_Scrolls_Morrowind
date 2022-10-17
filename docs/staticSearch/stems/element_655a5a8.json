@@ -1,0 +1,36 @@
+
+  { "stem" : "element",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elements",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "...In fact, the Dissident priests advocate restoring many of the <mark>elements<\/mark> of Fundamentalist Ancestor Worship as practiced by the Ashlanders and by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elements",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "...In fact, the Dissident priests advocate restoring many of the <mark>elements<\/mark> of Fundamentalist Ancestor Worship as practiced by the Ashlanders and by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elemental",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "..., are rare and expensive. These crystalline compounds precipitate from <mark>elemental<\/mark> frost in solution. Such residues may be collected from the...",
+            "fid" : "content" } ] } ] }

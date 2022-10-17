@@ -1,0 +1,58 @@
+
+  { "stem" : "concern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "concerning",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...objection to proposals placed before Duke Dren and the Grand Council <mark>concerning<\/mark> slavery and slave trading in Vvardenfell District. The right to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "concerning",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "EXCERPT: <mark>concerning<\/mark> the points of Temple doctrine challenged by the Dissident priests:...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "concerns",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...been strained relations between you two. He also had some <mark>concerns<\/mark> about the outlanders in our troupe, though it was our...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "concerning",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "EXCERPT: <mark>concerning<\/mark> the points of Temple doctrine challenged by the Dissident priests:...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "concerns",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : ".... The council sent deputations to the Duke to express their <mark>concerns<\/mark> over the high tax rates and the injurious effect of high...",
+            "fid" : "content" } ] } ] }

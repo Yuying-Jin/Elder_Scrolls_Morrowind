@@ -1,0 +1,58 @@
+
+  { "stem" : "view",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "viewed",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...In Morrowind where I hail from, for example, Argonians are <mark>viewed<\/mark> with a certain amount of suspicion. Don't be surprised or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "view",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...of Morrowind, few citizens of the Empire have an enlightened <mark>view<\/mark> of our Art. Thus, the acquisition of corpses on...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "view",
+            "weight" : "1",
+            "pos" : 621,
+            "context" : " How do the Imperial cults <mark>view<\/mark> the other factions of Vvardenfell? The Imperial cults have a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "view",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "..., and monks. Pilgrims travel from all over Morrowind to <mark>view<\/mark> the High Fane and the Ministry of Truth, and to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "view",
+            "weight" : "1",
+            "pos" : 569,
+            "context" : "...supplant his own natural energy with the spell's, how to <mark>view<\/mark> the world at the slower pace a man with advanced agility...",
+            "fid" : "content" } ] } ] }

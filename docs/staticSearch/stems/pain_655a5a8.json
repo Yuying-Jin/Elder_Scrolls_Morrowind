@@ -1,0 +1,47 @@
+
+  { "stem" : "pain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pain",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...basin before the altar, and instantly experienced a blinding of <mark>pain<\/mark> and terror that I cannot express in words, except that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pain",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "\"It takes away the <mark>pain<\/mark>,\" said S'Riizh. \"How far away are we?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pain",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : "...poison, fire, and charges of lightning, pulling the <mark>pain<\/mark> into a reservoir of magicka and expelling it. The lesson learned...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pain",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...the Padomaic Ocean. Baranat thought of his own tolerance for <mark>pain<\/mark>, which was minimal, and prayed to the saints for...",
+            "fid" : "content" } ] } ] }

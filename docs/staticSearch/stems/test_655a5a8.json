@@ -1,0 +1,93 @@
+
+  { "stem" : "test",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Test",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "\"The <mark>Test<\/mark> of Pattern requires the observer to examine and analyze for patterns...",
+            "fid" : "content" },
+          
+          { "form" : "Test",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "\"The <mark>Test<\/mark> of Disorder requires the observer to proceed systematically when no pattern...",
+            "fid" : "content" },
+          
+          { "form" : "Test",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "\"The <mark>Test<\/mark> of Evasion requires the observer to examine the obstacle, and...",
+            "fid" : "content" },
+          
+          { "form" : "Test",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "\"The <mark>Test<\/mark> ofConfrontation requires the observer to examine the obstacle, and compare...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "test",
+            "weight" : "1",
+            "pos" : 698,
+            "context" : "...familiar to Oin. \"I will have to invent a new <mark>test<\/mark> for suitors, while I search for my true love.\"...",
+            "fid" : "content" },
+          
+          { "form" : "test",
+            "weight" : "1",
+            "pos" : 718,
+            "context" : "...said the woman. \"I had to make some kind of <mark>test<\/mark> to rebuff the advances of so many men interested in my...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "testing",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...Vivec is the Puzzle Canal, a place of worship and <mark>testing<\/mark> for questing heroes hoping to receive Vivec's favor. Many choice...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "testing",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...apotheosis was miraculously achieved through questing, virtue, knowledge, <mark>testing<\/mark>, and battling with Evil; Temple doctrine claims their divine...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "testing",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...apotheosis was miraculously achieved through questing, virtue, knowledge, <mark>testing<\/mark>, and battling with Evil; Temple doctrine claims their divine...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tested",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...mortal into an enlightened divine. Vivec sought out experiences that <mark>tested<\/mark> him in every way possible, particularly in the defense and...",
+            "fid" : "content" } ] } ] }

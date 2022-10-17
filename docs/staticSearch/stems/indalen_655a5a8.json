@@ -1,0 +1,37 @@
+
+  { "stem" : "indalen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indalen",
+            "weight" : "1",
+            "pos" : 2290,
+            "context" : "<mark>Indalen<\/mark>_Ancestral_Tomb" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "indalen",
+            "weight" : "1",
+            "pos" : 2456,
+            "context" : "<mark>indalen<\/mark> ancestral tomb",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indalen",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "<mark>Indalen<\/mark> Ancestral Tomb: Visitable? yes",
+            "fid" : "acq" } ] } ] }

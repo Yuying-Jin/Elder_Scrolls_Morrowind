@@ -1,0 +1,25 @@
+
+  { "stem" : "lust",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lusted",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...most carefully guarded, for how often have even the wise <mark>lusted<\/mark> to overreach their bodies and souls with vitality and mana....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lust",
+            "weight" : "1",
+            "pos" : 369,
+            "context" : "...hidden aspects of Vivec, the darker components of violence, <mark>lust<\/mark>, and conspiracy associated the more primitive and ruthless impulses of...",
+            "fid" : "content" } ] } ] }

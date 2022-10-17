@@ -1,0 +1,43 @@
+
+  { "stem" : "poppi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Poppy",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "The <mark>Poppy<\/mark>, both black and white, can be found growing wild...",
+            "fid" : "poppy" },
+          
+          { "form" : "poppies",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...without rations. It is said that the black and white <mark>poppies<\/mark> together have magical properties. When they are crushed and mixed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poppy",
+            "weight" : "1",
+            "pos" : 421,
+            "context" : "<mark>poppy<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poppy",
+            "weight" : "1",
+            "pos" : 591,
+            "context" : "<mark>poppy<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

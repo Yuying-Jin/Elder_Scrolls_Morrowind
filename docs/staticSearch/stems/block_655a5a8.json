@@ -1,0 +1,59 @@
+
+  { "stem" : "block",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blocking",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...shield and heavy armor, and so must be skilled at <mark>blocking<\/mark> and moving in heavy armor.",
+            "fid" : "content" },
+          
+          { "form" : "block",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...long blade, spear, and blunt weapons. You must <mark>block<\/mark> whatever blows you can, and take unblocked blows upon your heavy...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blocked",
+            "weight" : "1",
+            "pos" : 607,
+            "context" : "...his sparring partner to attack him with his sword. He <mark>blocked<\/mark> the blows effortlessly with a shield for ten minutes, and...",
+            "fid" : "content" },
+          
+          { "form" : "blocking",
+            "weight" : "1",
+            "pos" : 637,
+            "context" : "...to attack him with his sword. After twenty minutes of <mark>blocking<\/mark> the man's blows with his shield, he revealed that he...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blocks",
+            "weight" : "1",
+            "pos" : 987,
+            "context" : "...with surface lava. The Ghostfence, a magical barrier which <mark>blocks<\/mark> travel as well as seals in the harmful, disease-...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blocked",
+            "weight" : "1",
+            "pos" : 412,
+            "context" : "...the arrhythmic style the Khajiit call Goutfang; he parried and <mark>blocked<\/mark> in all the fashions of the great Nordic warriors; he...",
+            "fid" : "content" } ] } ] }

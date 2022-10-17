@@ -1,0 +1,97 @@
+
+  { "stem" : "right",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...Council concerning slavery and slave trading in Vvardenfell District. The <mark>right<\/mark> to own and trade slaves is guaranteed by the terms of...",
+            "fid" : "content" },
+          
+          { "form" : "rights",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...Telvanni Council will not entertain any discussion of abridgements of those <mark>rights<\/mark>. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...my left hand,' he will say, 'but in my <mark>right<\/mark> hand is how it could have won against me. Love is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : ".... He seeks to bind by power what is yours by <mark>right<\/mark>, to drag forth the warm spirits from their world between...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...western edge of the Ascadian Isles region. The village is <mark>right<\/mark> outside the Imperial Legion garrison at Fort Pelagiad. The houses...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...is bad business. You want to be good people, <mark>right<\/mark>? So join the Thieves Guild, and stay far,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rights",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...my gods, and shall insist upon them, and my ancient <mark>rights<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...Why couldn't you get a nice position at the Fighters Guild <mark>right<\/mark> here in town? I hear they're looking for a trainer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "right",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "For example, since the Telvanni vigorously defend the <mark>right<\/mark> to own slaves, and since they keep many Argonian and...",
+            "fid" : "content" } ] } ] }

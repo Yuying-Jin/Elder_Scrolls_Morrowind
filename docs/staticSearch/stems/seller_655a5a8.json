@@ -1,0 +1,14 @@
+
+  { "stem" : "seller",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seller",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...of the culture or not, it's wise for the buyer and <mark>seller<\/mark> to greet one another with smiles and warm salutations, like...",
+            "fid" : "content" } ] } ] }

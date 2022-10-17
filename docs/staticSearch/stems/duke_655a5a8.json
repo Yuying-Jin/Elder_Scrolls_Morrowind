@@ -1,0 +1,65 @@
+
+  { "stem" : "duke",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Duke",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...Mouth Mallam Ryon Council Actions In response to repeated protests from <mark>Duke<\/mark> Dren and representative of the other Great Houses, Telvanni Council...",
+            "fid" : "content" },
+          
+          { "form" : "Duke",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...endeavors. The council renews its objection to proposals placed before <mark>Duke<\/mark> Dren and the Grand Council concerning slavery and slave trading in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Duke",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "...center of maritime trade. Castle Ebonheart is the home of <mark>Duke<\/mark> Vedam Dren, the district's ruler and Emperor's representative. Also...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Duke",
+            "weight" : "1",
+            "pos" : 6522,
+            "context" : "<mark>Duke<\/mark> Vedam Dren" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "duke",
+            "weight" : "1",
+            "pos" : 6631,
+            "context" : "<mark>duke<\/mark> vedam dren",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Duke",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...to life and property. The council sent deputations to the <mark>Duke<\/mark> to express their concerns over the high tax rates and the...",
+            "fid" : "content" } ] } ] }

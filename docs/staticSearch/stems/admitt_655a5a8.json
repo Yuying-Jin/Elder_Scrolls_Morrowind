@@ -1,0 +1,14 @@
+
+  { "stem" : "admitt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "admittance",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...another member shall be expelled from the Guild. Re-<mark>admittance<\/mark> is at the discretion of the Guild Stewards. ",
+            "fid" : "content" } ] } ] }

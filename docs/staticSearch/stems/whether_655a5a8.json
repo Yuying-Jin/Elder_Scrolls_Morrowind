@@ -1,0 +1,81 @@
+
+  { "stem" : "whether",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...the prophet Veloth, and Saint Nerevar ]. Dissident priests ask <mark>whether<\/mark> Dagoth Ur's powers and the Tribunal powers might ultimately derive from...",
+            "fid" : "content" },
+          
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 285,
+            "context" : "Though no consensus exists among the Dissidents about <mark>whether<\/mark> the Nerevarine prophecies are genuine, all agree that the persecution...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...the prophet Veloth, and Saint Nerevar ]. Dissident priests ask <mark>whether<\/mark> Dagoth Ur's powers and the Tribunal powers might ultimately derive from...",
+            "fid" : "content" },
+          
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 285,
+            "context" : "Though no consensus exists among the Dissidents about <mark>whether<\/mark> the Nerevarine prophecies are genuine, all agree that the persecution...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Whether",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : " <mark>Whether<\/mark> this particular custom is part of the culture or not, it's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 419,
+            "context" : "...Sload only practice Necromancy on other races. It is uncertain <mark>whether<\/mark> this is true in Thras as well. If so, it...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...member. It is forbidden to steal from another member, <mark>whether<\/mark> by open theft or by covert pickpocketing. It is forbidden...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whether",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...about to execute it. Not one of the three were sure <mark>whether<\/mark> confidence or stupidity were driving the other two, but the...",
+            "fid" : "content" } ] } ] }

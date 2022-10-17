@@ -1,0 +1,25 @@
+
+  { "stem" : "loyal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "loyal",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : " As ever, your respectful servant and <mark>loyal<\/mark> friend, Lord Voryn Dagoth, Dagoth Ur ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "loyal",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...The truth is that House Telvanni wizard-lords depend on <mark>loyal<\/mark>, well-paid, skilled retainers for most services....",
+            "fid" : "content" } ] } ] }

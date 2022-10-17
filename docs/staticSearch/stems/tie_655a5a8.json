@@ -1,0 +1,14 @@
+
+  { "stem" : "tie",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ties",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...drown, from the bold captain to the mysterious figure with <mark>ties<\/mark> to one of the royal Houses, everyone except for S'Riizh...",
+            "fid" : "content" } ] } ] }

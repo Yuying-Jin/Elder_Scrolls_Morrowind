@@ -1,0 +1,14 @@
+
+  { "stem" : "burlap",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "burlap",
+            "weight" : "1",
+            "pos" : 855,
+            "context" : "...little of the afternoon sunlight could pierce the inside of the <mark>burlap<\/mark> sack.",
+            "fid" : "content" } ] } ] }

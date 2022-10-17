@@ -1,0 +1,47 @@
+
+  { "stem" : "invis",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "invisible",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...is an egg of my brother-sister, who possesses <mark>invisible<\/mark> knowledge of words and swords, which you shall nurture until...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Invisibility",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...“I know that spell,” said Darothil. “You might find <mark>Invisibility<\/mark> very helpful as well, or perhaps Darkness which would allow...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "invisible",
+            "weight" : "1",
+            "pos" : 357,
+            "context" : "...armor to increase their abilities to skulk, hide and become <mark>invisible<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Invisibility",
+            "weight" : "1",
+            "pos" : 466,
+            "context" : "<mark>Invisibility<\/mark>, one of the most prized effects of potions, can...",
+            "fid" : "content" } ] } ] }

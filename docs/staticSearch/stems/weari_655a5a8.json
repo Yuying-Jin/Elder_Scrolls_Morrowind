@@ -1,0 +1,36 @@
+
+  { "stem" : "weari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weary",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "“That I am,” said Oristian Silverthorn with a <mark>weary<\/mark> smile for his admirer. He knew that his name was...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weary",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "Feather reduces the <mark>weary<\/mark> traveler's burdens and can be gained from heather and scuttle....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Weary",
+            "weight" : "1",
+            "pos" : 401,
+            "context" : "...led refugees here as they fled the ash and blight. <mark>Weary<\/mark>, they rested here a while. When Vivec awoke, he...",
+            "fid" : "content" } ] } ] }

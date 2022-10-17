@@ -1,0 +1,120 @@
+
+  { "stem" : "poor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 464,
+            "context" : "...healing potions, and minister to the sick and hurt in <mark>poor<\/mark> and isolated communities. It is difficult and sometimes dangerous work...",
+            "fid" : "content" },
+          
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 711,
+            "context" : "...and greedy Camonna Tong, and their ruthless exploitation of the <mark>poor<\/mark> and weak.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Poor",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "8. fundamentals of Temple doctrine - Charity for the <mark>Poor<\/mark>, Education for the Ignorant, Protection for the Weak",
+            "fid" : "content" },
+          
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 431,
+            "context" : "...love of authority and luxury than in the welfare of the <mark>poor<\/mark>, weak, and ignorant.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Poor",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "8. fundamentals of Temple doctrine - Charity for the <mark>Poor<\/mark>, Education for the Ignorant, Protection for the Weak",
+            "fid" : "content" },
+          
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 431,
+            "context" : "...love of authority and luxury than in the welfare of the <mark>poor<\/mark>, weak, and ignorant.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 263,
+            "context" : "...the acquisition of corpses possible, though they are often in <mark>poor<\/mark> condition and require special care in preparation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "...dishonor your house or your ancestors. Serve and protect the <mark>poor<\/mark> and weak, and honor your elders and clan.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...had been placed there for his use; so that the <mark>poor<\/mark> Netch died, not from his wounds, but from the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...he had been ill-equipped to deal with. They were <mark>poor<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "Here Lord Vivec met a <mark>poor<\/mark> farmer whose guar had died. The farmer could not harvest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poor",
+            "weight" : "1",
+            "pos" : 501,
+            "context" : "...be inheriting was utterly dissolute by decades of blight storms and <mark>poor<\/mark> crops.",
+            "fid" : "content" } ] } ] }

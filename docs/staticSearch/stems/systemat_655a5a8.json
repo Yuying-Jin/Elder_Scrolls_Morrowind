@@ -1,0 +1,47 @@
+
+  { "stem" : "systemat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "systematically",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "\"The Test of Disorder requires the observer to proceed <mark>systematically<\/mark> when no pattern is perceived. When the observer recognizes that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "systematic",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...that the Nerevarine prophecies are genuine, and have made a <mark>systematic<\/mark> study of prophecies recorded in Temple archives.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "systematic",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...that the Nerevarine prophecies are genuine, and have made a <mark>systematic<\/mark> study of prophecies recorded in Temple archives.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "systematic",
+            "weight" : "1",
+            "pos" : 467,
+            "context" : "Imalyn opened the vault in his unique and <mark>systematic<\/mark> method. As the tumblers fell beneath his fingers, he...",
+            "fid" : "content" } ] } ] }

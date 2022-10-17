@@ -1,0 +1,25 @@
+
+  { "stem" : "pretend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pretend",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...listened to his boasting, then asked him, \"How can you <mark>pretend<\/mark> to prescribe for others the cure to all diseases, when...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pretenders",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "..., coming forth to free Morrowind of foreign rulers and divine <mark>pretenders<\/mark>. When the land is swept clean of false friends and...",
+            "fid" : "content" } ] } ] }

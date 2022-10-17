@@ -1,0 +1,133 @@
+
+  { "stem" : "near",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : ".... The guildhalls of the Fighters Guild and Mages Guild are <mark>near<\/mark> the South Gate. Pricy but high-quality clothier,...",
+            "fid" : "content" },
+          
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...the smith, clothier, trader, pawnbroker, and bookseller <mark>near<\/mark> the entrance to Ald'ruhn-Under-Skar. The Ald Skar Inn...",
+            "fid" : "content" },
+          
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...and the Council Club cornerclub are found to the west, <mark>near<\/mark> West Gate and the silt strider port. The Rat in...",
+            "fid" : "content" },
+          
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...The Rat in the Pot cornerclub is in south Ald'ruhn, <mark>near<\/mark> the guildhalls.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nearly",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "Finding suitable corpses in Black Marsh is <mark>nearly<\/mark> impossible due to their rapid decay. There are also diseases...",
+            "fid" : "content" },
+          
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...who operate successfully in Black Marsh, and even they stay <mark>near<\/mark> coast.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 862,
+            "context" : "...Ashlander Zainab tribe has a permanent settlement at Zainab camp, <mark>near<\/mark> the village of Vos in the Grazelands region.",
+            "fid" : "content" },
+          
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 1094,
+            "context" : "...lie on the north coast. The town of Caldera lies <mark>near<\/mark> Balmora. The herds of the Ashlanders of Urshilaku camp graze...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nearly",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "It was <mark>nearly<\/mark> two months after washing ashore that the men saw a boat...",
+            "fid" : "content" },
+          
+          { "form" : "nearly",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...only a little bit of it, and they still had five <mark>nearly<\/mark> full crates. They were not only going to be saved...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Near",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "<mark>Near<\/mark> the altar is Vivec's Ash Mask. In the Days of...",
+            "fid" : "content" },
+          
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 612,
+            "context" : "...just below Balmora. An old Dwemer bridge crosses the foyada <mark>near<\/mark> Fort Moonmoth. A pilgrim may follow the Foyada Mamaea all...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nearly",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...attempt to raise skeletons when you are sure that all or <mark>nearly<\/mark> all the bones are present.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "near",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...a continual state of fear. But just as they got <mark>near<\/mark> the shoreline, a colony of Mudcrabs, frightened in their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nearly",
+            "weight" : "1",
+            "pos" : 477,
+            "context" : "...me.\" Oin sat in the inferno of blue fire for very <mark>nearly<\/mark> an hour before he left.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,109 @@
+
+  { "stem" : "give",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 369,
+            "context" : "..., Mearvis, Jereth, and I formed a pyramid to <mark>give<\/mark> Master Senyndie a boost up to the tower of Tel Naga...",
+            "fid" : "content" },
+          
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 540,
+            "context" : "...handful of marshmerrow reeds in the other. I don't want to <mark>give<\/mark> the whole effect away, but at the end of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "..., \"If you are still in communication with Benitah, please <mark>give<\/mark> her my sympathies.\"",
+            "fid" : "content" },
+          
+          { "form" : "giving",
+            "weight" : "1",
+            "pos" : 292,
+            "context" : "...through the very fibers of his muscles for a time, <mark>giving<\/mark> him strength far beyond the puny power nature had intended....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gives",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...back. This may slay the target, but more often <mark>gives<\/mark> him time to scream and drenches the attacker with blood....",
+            "fid" : "content" },
+          
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 761,
+            "context" : "...were human. It was best in the long run to <mark>give<\/mark> them a week off with pay whenever he was out of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...and milk fingers, changing her sex so that she might <mark>give<\/mark> birth to the image as an egg. There she stayed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...skeleton's movements and making it useless. Again, only practice can <mark>give<\/mark> the necessary experience in these matters, though it is best...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 817,
+            "context" : "...of the Grazelands produce the rich grazing for Ashlander herds that <mark>give<\/mark> the region its name. The region lies in the northeast...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...neither strut nor preen in vanity, but shall know and <mark>give<\/mark> thanks for my place in the greater world.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "give",
+            "weight" : "1",
+            "pos" : 500,
+            "context" : "..., on the condition that Ruddy Man and his children would <mark>give<\/mark> up their tough hides to serve as armor for the Dunmer...",
+            "fid" : "content" } ] } ] }

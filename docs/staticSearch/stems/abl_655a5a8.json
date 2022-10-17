@@ -1,0 +1,109 @@
+
+  { "stem" : "abl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...Hlaalu you must be fast and agile. You must be <mark>able<\/mark> to keep up with business and with the times. You...",
+            "fid" : "content" },
+          
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...up with business and with the times. You must be <mark>able<\/mark> to speak quickly and convincingly. You must be able to...",
+            "fid" : "content" },
+          
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "...be able to speak quickly and convincingly. You must be <mark>able<\/mark> to trade with the best of merchants and make a profit...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...too battered to be of much help, but Harithoel was <mark>able<\/mark> to construct a crude shelter, weaving the sand weeds....",
+            "fid" : "content" },
+          
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "...weeks went by, Harithoel got better and better until he was <mark>able<\/mark> to strike quickly and with great accuracy. He could hit...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...axes, blunt weapons, and shields. Guildsmen must be <mark>able<\/mark> to use and maintain Heavy Armor. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "...mainland. To visit the mainland, you must either be <mark>able<\/mark> to fly, swim, or water-walk, or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...learned healer, master of all alchemy and potions, and <mark>able<\/mark> to cure all diseases. Lord Vivec looked upon this wizard...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "...is believed to enhance the strength of the adventurer who is <mark>able<\/mark> to crack its shell.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...and thievery were rampant, and there was a dearth of <mark>able<\/mark>-bodied adventurers for such assignments. In fact, the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "able",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...the guards were of such a diverse variety, he was <mark>able<\/mark> to demonstrate all the means of silent assassination he had developed...",
+            "fid" : "content" } ] } ] }

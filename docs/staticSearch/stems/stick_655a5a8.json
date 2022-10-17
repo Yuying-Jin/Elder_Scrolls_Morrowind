@@ -1,0 +1,83 @@
+
+  { "stem" : "stick",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Stick",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>" },
+          
+          { "form" : "Stick",
+            "weight" : "1",
+            "pos" : 1118,
+            "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Stick",
+            "weight" : "1",
+            "pos" : 3802,
+            "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Capns_Guide_to_the_Fishy_Stick",
+        "docUri" : "librarium\/Capns_Guide_to_the_Fishy_Stick.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sticks",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "This book is supposedly the definitive reference to fishy <mark>sticks<\/mark> throughout Tamriel, but the pages are so smeared with fishy...",
+            "fid" : "content" },
+          
+          { "form" : "stick",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "...throughout Tamriel, but the pages are so smeared with fishy <mark>stick<\/mark> sauce it is impossible to read any of them.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Stick",
+            "weight" : "1",
+            "pos" : 946,
+            "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>, count: 1" },
+          
+          { "form" : "Stick",
+            "weight" : "1",
+            "pos" : 3650,
+            "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stick",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : ".... That's where the 'honor among thieves' part comes in. Friends <mark>stick<\/mark> together, and help each other.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "\"Sticks",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "..., pouring himself more greef, warming to his subject. <mark>\"Sticks<\/mark> his dagger in his opponent's back. This may slay the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,69 @@
+
+  { "stem" : "scholar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Scholars",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "To the <mark>Scholars<\/mark>: Humiliate the priests of Arkay. Reveal the primitive burial...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scholarly",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...ways. Some Altmer born into the most respected noble and <mark>scholarly<\/mark> families are actually allowed to study the dead in the open...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scholar",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...steward. Old Methal Seran is an eminent Temple priest and <mark>scholar<\/mark>. Raesa Pullia is commandant of Buckmoth Fort, but Imsin...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Scholars",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "..., each with their own distinctive plants and terrain features. <mark>Scholars<\/mark> have based their classifications on the different types of land described...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scholars",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...are presented all manner of riddles, as collected by the <mark>scholars<\/mark> of St Rilms, to the greater glory of the Tribunal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scholarly",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "...Morrowind, appearing nowhere else in Imperial lore. Unfortunately, <mark>scholarly<\/mark> inquiry upon this topic is discouraged by the Temple, which...",
+            "fid" : "content" } ] } ] }

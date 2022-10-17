@@ -1,0 +1,25 @@
+
+  { "stem" : "essenti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "essential",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "..., and to one's family and clan. Gravity is the <mark>essential<\/mark> seriousness of life. Life is hard, and events must...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "essential",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...and banked, sanctioning their engendering only to the reconsecration of <mark>essential<\/mark> arcane engines and templates, and then only by common assent...",
+            "fid" : "content" } ] } ] }

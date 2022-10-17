@@ -1,0 +1,53 @@
+
+  { "stem" : "someon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "someone",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...blood that tends to spurt out in three foot jets when <mark>someone<\/mark> is stabbed while alive.",
+            "fid" : "content" },
+          
+          { "form" : "someone",
+            "weight" : "1",
+            "pos" : 442,
+            "context" : "...acted as lead scout, and Lledos was impressed. For <mark>someone<\/mark> of relative inexperience, she knew her way through shadows....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "someone",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...and murder are bad for business. You can steal from <mark>someone<\/mark>, but will he trade with you after that? You can't...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "someone",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...not so bad as they seem. For there is always <mark>someone<\/mark> worse off than you.\" ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "someone",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "...the surface of these Telvanni mushrooms is practically a ladder to <mark>someone<\/mark> of Master Senyndie's skills. In a few minutes' time,...",
+            "fid" : "content" } ] } ] }

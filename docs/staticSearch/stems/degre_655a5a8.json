@@ -1,0 +1,14 @@
+
+  { "stem" : "degre",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "degrees",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...only to the obvious danger, but also to the subtle <mark>degrees<\/mark> by which change may result in danger. ",
+            "fid" : "content" } ] } ] }

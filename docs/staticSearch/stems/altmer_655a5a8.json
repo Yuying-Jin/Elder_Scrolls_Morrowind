@@ -1,0 +1,48 @@
+
+  { "stem" : "altmer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Altmer",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "Summerset Isle is even worse in some ways. Some <mark>Altmer<\/mark> born into the most respected noble and scholarly families are actually...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Altmer",
+            "weight" : "1",
+            "pos" : 4813,
+            "context" : "<mark>Altmer<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "altmer",
+            "weight" : "1",
+            "pos" : 4931,
+            "context" : "<mark>altmer<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Altmer",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "...guidance of these three daedrai Lords, a discontented throng of <mark>Altmer<\/mark> transformed themselves into a new people and founded a new land...",
+            "fid" : "content" } ] } ] }

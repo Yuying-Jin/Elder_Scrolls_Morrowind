@@ -1,0 +1,25 @@
+
+  { "stem" : "accuraci",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "accuracy",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...better until he was able to strike quickly and with great <mark>accuracy<\/mark>. He could hit a fish by throwing the spear or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "accuracy",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "...grinding the root is very tasty and can improve the user's <mark>accuracy<\/mark> with a bow and arrow.",
+            "fid" : "content" } ] } ] }

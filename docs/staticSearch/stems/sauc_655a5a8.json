@@ -1,0 +1,14 @@
+
+  { "stem" : "sauc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Capns_Guide_to_the_Fishy_Stick",
+        "docUri" : "librarium\/Capns_Guide_to_the_Fishy_Stick.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sauce",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...Tamriel, but the pages are so smeared with fishy stick <mark>sauce<\/mark> it is impossible to read any of them.",
+            "fid" : "content" } ] } ] }

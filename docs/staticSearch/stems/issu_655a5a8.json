@@ -1,0 +1,36 @@
+
+  { "stem" : "issu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "issued",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : " Once upon a time, a Telvanni <mark>issued<\/mark> forth from his tower and proclaimed to all the world that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "issue",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...of the religious experience. The Dissidents have not resolved the <mark>issue<\/mark> of true or false insights. They have studied the mysticism...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "issue",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...of the religious experience. The Dissidents have not resolved the <mark>issue<\/mark> of true or false insights. They have studied the mysticism...",
+            "fid" : "content" } ] } ] }

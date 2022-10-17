@@ -1,0 +1,48 @@
+
+  { "stem" : "thief",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "thief",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "\"The common <mark>thief<\/mark>,\" said Lledos, pouring himself more greef, warming to...",
+            "fid" : "content" },
+          
+          { "form" : "thief",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "..., can both slay and silence a guard and leave the <mark>thief<\/mark> relatively bloodfree. And after all, after the robbery, we...",
+            "fid" : "content" },
+          
+          { "form" : "thief",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "\"A very good friend of mine, a <mark>thief<\/mark> in Gnisis whose name I won't mention, swears by the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thief",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "Being a <mark>thief<\/mark> is not like being a fighter. You don't just go...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thief's",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...the money they had been living on was based on a <mark>thief's<\/mark> salary, he suddenly found himself on a very different kind...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,83 @@
+
+  { "stem" : "saltric",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...common ingredients: marshmerrow, wickwheat, corkbulb root, and <mark>saltrice<\/mark>. marshmerrow is an important crop of the Ascadian Isles,...",
+            "fid" : "content" },
+          
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...Grazelands. Corkbulb grows best in the Ascadian Isles. Most <mark>saltrice<\/mark> comes from southeastern Morrowind, but there are also some new...",
+            "fid" : "content" },
+          
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...new and prospering farms and plantations in the Ascadian Isles. <mark>saltrice<\/mark> occasionally grows wild in the Grazelands and on Azura's Coast....",
+            "fid" : "content" },
+          
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...along all coasts. bread in Morrowind is usually baked from <mark>saltrice<\/mark> flour. Kwama eggs are harvested from egg mines, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "a hand and a half of cooked <mark>saltrice<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...flame. When the meat begins to brown, add the <mark>saltrice<\/mark>. Stir for a few moments and add the Scuttle and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 508,
+            "context" : "...House Dres is an agrarian agricultural society, and its large <mark>saltrice<\/mark> plantations rely completely on slave labor for their economic viability....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 443,
+            "context" : "<mark>saltrice<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "saltrice",
+            "weight" : "1",
+            "pos" : 613,
+            "context" : "<mark>saltrice<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

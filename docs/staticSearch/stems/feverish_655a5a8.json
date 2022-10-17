@@ -1,0 +1,14 @@
+
+  { "stem" : "feverish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feverishly",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...powerful beyond our magicks and weaponry, but their numbers are <mark>feverishly<\/mark> great. We grow low on supplies and soldiers for this...",
+            "fid" : "content" } ] } ] }

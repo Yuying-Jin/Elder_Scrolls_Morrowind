@@ -1,0 +1,25 @@
+
+  { "stem" : "cloud",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "clouds",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "How long beneath red-reeking <mark>clouds<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cloud",
+            "weight" : "1",
+            "pos" : 509,
+            "context" : "Saint Delyn the Wise watched the young adventurer from a <mark>cloud<\/mark> in the sky, and smiled on him, \"Baranat, before...",
+            "fid" : "content" } ] } ] }

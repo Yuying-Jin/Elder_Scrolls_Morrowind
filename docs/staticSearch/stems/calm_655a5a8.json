@@ -1,0 +1,42 @@
+
+  { "stem" : "calm",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "calmly",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...you explain specifically what you'd like us to do?\" asked Galsiah <mark>calmly<\/mark>, trying to keep the tone of the group down. Most...",
+            "fid" : "content" },
+          
+          { "form" : "calm",
+            "weight" : "1",
+            "pos" : 873,
+            "context" : "...shoved to the side, he heard Galsiah in her typical <mark>calm<\/mark> voice, \"Thank you for the lesson, Sathis.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "calmly",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "..., measure by measure, to boiling, the kagouti will <mark>calmly<\/mark> stand in place until he is boiled. Thus we see...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "calmly",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "Baranat walked <mark>calmly<\/mark> into the camp and began battle with Airen Coribael. The...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "interview",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "interviews",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...acknowledge the existence of Western vampire hunting orders. Nonetheless, <mark>interviews<\/mark> with Temple officials persuade me that the Dunmer of Morrowind are...",
+            "fid" : "content" } ] } ] }

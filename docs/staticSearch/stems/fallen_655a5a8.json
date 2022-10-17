@@ -1,0 +1,14 @@
+
+  { "stem" : "fallen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fallen",
+            "weight" : "1",
+            "pos" : 460,
+            "context" : "...Harithoel's skull. The trajectory had been perfect: it had <mark>fallen<\/mark> down from the branches as soon as the crate was removed...",
+            "fid" : "content" } ] } ] }

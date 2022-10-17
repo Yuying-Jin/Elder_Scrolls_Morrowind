@@ -1,0 +1,58 @@
+
+  { "stem" : "beyond",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beyond",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...backwards people, they have an intolerance of Necromancy that goes <mark>beyond<\/mark> all reason. Many Necromancers who practice our Arts in Valenwood...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Beyond",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...trail leads up from the docks to the Gateway Inn. <mark>Beyond<\/mark> the Gateway Inn is the Great Market, with numerous craftsmen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beyond",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...time. These new horrors are not at all too powerful <mark>beyond<\/mark> our magicks and weaponry, but their numbers are feverishly great...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beyond",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : "...of his muscles for a time, giving him strength far <mark>beyond<\/mark> the puny power nature had intended. When Oin met Horath...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Beyond",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...him across the valley floor in eighty-seven pieces. <mark>Beyond<\/mark> Feryn's post was a raging river, where the second eldest...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,242 @@
+
+  { "stem" : "name",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...stand against your might. But one obstacle remains. His <mark>name<\/mark> is Arkay.",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...thirst; their bones will rise as our servants. The <mark>name<\/mark> Arkay will be stuck [sic] from the records....",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...I shall hold sway over life and death. Only one <mark>name<\/mark> shall be whispered in fear. The name of your lord...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : ".... Only one name shall be whispered in fear. The <mark>name<\/mark> of your lord and master.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...a weary smile for his admirer. He knew that his <mark>name<\/mark> was not yet legendary, and it was best to be...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "“My <mark>name<\/mark> would have no meaning to you, but I'm Erer Darothil,”...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...from the region of Ghostgate which is how I heard your <mark>name<\/mark>. Are you on an adventure as we speak?”",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...challenged to rid The Grazelands of a rogue battlemage by the <mark>name<\/mark> of Egroamaro.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "named",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "..., a sweet thing with curly locks and a joyous laugh <mark>named<\/mark> Benitah Gorgoth. Once when at play he had pushed a...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 439,
+            "context" : "\"My <mark>name<\/mark> is Master Combova,\" said the fellow, nudging the witch...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 461,
+            "context" : "\"Master Combova, my <mark>name<\/mark> is Master Vomph,\" said Oin. \"Kena Leles, cast...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 740,
+            "context" : "...girl, and so brave fighting off the bullies. His <mark>name<\/mark> was Oin Parnafacasis.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "Dragon's-Tongue, common <mark>name<\/mark> for a fern like herb found in Black Marsh. It...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...of Utherus Swamp. It is a beautiful wildflower. Its <mark>name<\/mark> comes from the fire red fronds that protect its golden flower...",
+            "fid" : "content" },
+          
+          { "form" : "named",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...trees is as hard as the metal for which they are <mark>named<\/mark>. The very rare black ironwood tree is said to produce...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...very good friend of mine, a thief in Gnisis whose <mark>name<\/mark> I won't mention, swears by the strangle-and-slash technique...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 630,
+            "context" : "...hidden reserves. It was merely intellectual curiousity they thought his <mark>name<\/mark> was Lledos and he was meeting them at the Plot and...",
+            "fid" : "content" },
+          
+          { "form" : "named",
+            "weight" : "1",
+            "pos" : 640,
+            "context" : "...Plaster. The authorities wouldn't therefore be looking for a Dunmer <mark>named<\/mark> Sathis celebrating his wealth miles and miles away in Vivec....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "named",
+            "weight" : "1",
+            "pos" : 538,
+            "context" : "...Branora is the tower and seat of the eccentric Telvanni wizard <mark>named<\/mark> Therana. The tower and its tiny village are located on...",
+            "fid" : "content" },
+          
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 819,
+            "context" : "...the rich grazing for Ashlander herds that give the region its <mark>name<\/mark>. The region lies in the northeast of Vvardenfell, sandwiched...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Name",
+            "weight" : "1",
+            "pos" : 321,
+            "context" : "...are two public houses: the Elven Nations and the No <mark>Name<\/mark> Club. A variety of craftsmen and tradesmen also have shops...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Name",
+            "weight" : "1",
+            "pos" : 5040,
+            "context" : "No <mark>Name<\/mark> Club" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 5186,
+            "context" : "no <mark>name<\/mark> club",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "names",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...and heed his sermons on the Seven Graces, for he <mark>names<\/mark> them seven times and seven ways --",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "name",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...Dragonne Papré. Hope for the living is lost. My <mark>name<\/mark> is Samar Starlover. Tell my sister I am dead,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Name",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...incantation invoked upon Dagon's \"Protonymic\" (i.e., Incantory [sic] True <mark>Name<\/mark>). Unfortunately, like many of Malacath's gifts, the armor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "named",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...person who answered her call was a skinny, little fellow <mark>named<\/mark> Baranat.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "named",
+            "weight" : "1",
+            "pos" : 395,
+            "context" : "...the disease is incurable, a Buoyant Armiger of former years <mark>named<\/mark> Galur Rithari insisted that he was cured of vampirism. Initially...",
+            "fid" : "content" } ] } ] }

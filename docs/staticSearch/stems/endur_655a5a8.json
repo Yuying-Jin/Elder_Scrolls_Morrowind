@@ -1,0 +1,99 @@
+
+  { "stem" : "endur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "...a man of intelligence to marry, but a man of <mark>endurance<\/mark>, a rock. The greatest in all Morrowind.\"",
+            "fid" : "content" },
+          
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 392,
+            "context" : "...\"You can teach me a spell that will fortify my own <mark>endurance<\/mark>,\" said Oin. \"I beg you to teach it to...",
+            "fid" : "content" },
+          
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 414,
+            "context" : "...next several weeks, he learned the spell to make his <mark>endurance<\/mark> like that of the oldest stone. He learned how to...",
+            "fid" : "content" },
+          
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 499,
+            "context" : "\"Her lady Benitah has heard of the <mark>endurance<\/mark> of Master Vomph,\" he said, not entirely approving of...",
+            "fid" : "content" },
+          
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 512,
+            "context" : "...was mistaken. She was not looking for a man of <mark>endurance<\/mark> to marry, but a man of agility, a nimble...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...Sil, for magical power, and Lady's Grace, for <mark>endurance<\/mark> of hardships.",
+            "fid" : "content" },
+          
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "St. Rilms grants Rilm's Grace, for <mark>endurance<\/mark> of hardships.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "endured",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : ".... Life is hard, and events must be judged, <mark>endured<\/mark>, and reflected upon with due care and earnestness. Piety...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "The Legion selects candidates on the basis of superior <mark>endurance<\/mark>, the soldierly virtue, and trustworthy personality, the citizen's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...the sap derived from its roots as an enhancement to their <mark>endurance<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "endurance",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...approach to prey. The Quarra bloodline features exceptional strength and <mark>endurance<\/mark>, and attacks in a state of ecstatic frenzy. Aundae...",
+            "fid" : "content" } ] } ] }

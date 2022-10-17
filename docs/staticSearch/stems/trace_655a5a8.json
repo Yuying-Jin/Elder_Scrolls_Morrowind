@@ -1,0 +1,14 @@
+
+  { "stem" : "trace",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trace",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...are gospels written in the form of epic songs. They <mark>trace<\/mark> the evolution of Vivec from a foolish mortal into an enlightened...",
+            "fid" : "content" } ] } ] }

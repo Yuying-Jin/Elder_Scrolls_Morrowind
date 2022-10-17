@@ -1,0 +1,82 @@
+
+  { "stem" : "pride",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "PRIDE",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "<mark>PRIDE<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Pride",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "The Grace of <mark>Pride<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "pride",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "Thank you for your <mark>pride<\/mark>, Lord Vivec. I shall not doubt myself, or my...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Pride",
+            "weight" : "1",
+            "pos" : 573,
+            "context" : "The Ghostfence: The Shrine of <mark>Pride<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "pride",
+            "weight" : "1",
+            "pos" : 582,
+            "context" : "...will and power of ALMSIVI, and a monument to Dunmer <mark>pride<\/mark> in overcoming its enemies.",
+            "fid" : "content" },
+          
+          { "form" : "Pride",
+            "weight" : "1",
+            "pos" : 586,
+            "context" : "The Shrine of <mark>Pride<\/mark> is found within the Ghostfence, just northeast of the Ghostgate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pride",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "“I do nothing,” said Darothil with some measure of <mark>pride<\/mark>. “But in my youth, I used to teach the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prideful",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : ".... And safeguard that the Congeries shall not be abused by <mark>prideful<\/mark> wizards, confident in their skill and blinded by their ambitions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pride",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "..., and there never was, but there used to be some <mark>pride<\/mark>, some skill, some basic creativity. It really makes...",
+            "fid" : "content" } ] } ] }

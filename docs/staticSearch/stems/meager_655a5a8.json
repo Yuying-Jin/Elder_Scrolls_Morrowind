@@ -1,0 +1,14 @@
+
+  { "stem" : "meager",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "meager",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...very difficult to find as its above ground foliage is very <mark>meager<\/mark> and scrawny. But the Arrowroot itself can be most beneficial...",
+            "fid" : "content" } ] } ] }

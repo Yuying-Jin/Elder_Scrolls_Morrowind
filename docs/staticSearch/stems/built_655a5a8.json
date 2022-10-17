@@ -1,0 +1,53 @@
+
+  { "stem" : "built",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "built",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : "...Legion garrison at Fort Pelagiad. The houses and shops are <mark>built<\/mark> in the Western Imperial style, and Pelagiad looks more like...",
+            "fid" : "content" },
+          
+          { "form" : "built",
+            "weight" : "1",
+            "pos" : 665,
+            "context" : "...adventurers exploring and looting there. Legend says that Bal Fell was <mark>built<\/mark> on the site of an ancient Daedric worship center.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "built",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : ".... Redoran settlements are designed in the Dunmer village style, <mark>built<\/mark> of local materials, with organic curves and undecorated exteriors inspired...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "built",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...town is a large settlement in the Redoran village style, <mark>built<\/mark> of local materials, with organic curves and undecorated exteriors inspired...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "built",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...hurl itself upon Vivec's new city, which Sheogorath claimed was <mark>built<\/mark> in mockery of the heavens. When Vivec learned of Sheogorath's...",
+            "fid" : "content" } ] } ] }

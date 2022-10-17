@@ -1,0 +1,53 @@
+
+  { "stem" : "impress",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "impressive",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...suited for: gardening. In time, he had grown an <mark>impressive<\/mark> garden of willow anther, gold kanet, chokeweed, white...",
+            "fid" : "content" },
+          
+          { "form" : "impressive",
+            "weight" : "1",
+            "pos" : 619,
+            "context" : "\"Very <mark>impressive<\/mark>, Ser Priif. Now, behold the power of the remarkable...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "impressed",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "“I've heard of you,” said the old vagabond, very <mark>impressed<\/mark>. “Aren't you the adventurer who slew all those ash vampires...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "impressed",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "...than dishonor himself by fighting an unarmed foe. This so <mark>impressed<\/mark> the Dremora, the most honorable and chivalrous of Mehrunes Dagon's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "impressed",
+            "weight" : "1",
+            "pos" : 441,
+            "context" : ".... She also acted as lead scout, and Lledos was <mark>impressed<\/mark>. For someone of relative inexperience, she knew her way...",
+            "fid" : "content" } ] } ] }

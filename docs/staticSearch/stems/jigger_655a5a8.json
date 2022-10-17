@@ -1,0 +1,37 @@
+
+  { "stem" : "jigger",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "jigger's",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "Gnaar Mok, Druegh-<mark>jigger's<\/mark> Rest: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "jigger's",
+            "weight" : "1",
+            "pos" : 1941,
+            "context" : "Gnaar Mok, Druegh-<mark>jigger's<\/mark> Rest" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "jigger's",
+            "weight" : "1",
+            "pos" : 2114,
+            "context" : "gnaar mok, druegh <mark>jigger's<\/mark> rest",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

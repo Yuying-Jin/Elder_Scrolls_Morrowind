@@ -1,0 +1,31 @@
+
+  { "stem" : "agricultur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "agriculture",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...green, well-watered southern lowlands where most of Vvardenfell's <mark>agriculture<\/mark> is found. The area includes Pelagiad, Suran, Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "agricultural",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : " Suran is an <mark>agricultural<\/mark> village in the northeastern corner of the fertile Ascadian Isles region...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "agricultural",
+            "weight" : "1",
+            "pos" : 505,
+            "context" : "...and marshes of Black Marsh. House Dres is an agrarian <mark>agricultural<\/mark> society, and its large saltrice plantations rely completely on slave...",
+            "fid" : "content" } ] } ] }

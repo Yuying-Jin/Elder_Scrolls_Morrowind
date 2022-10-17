@@ -1,0 +1,104 @@
+
+  { "stem" : "challeng",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "challenged",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "EXCERPT: concerning the points of Temple doctrine <mark>challenged<\/mark> by the Dissident priests:",
+            "fid" : "content" },
+          
+          { "form" : "challenging",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "While <mark>challenging<\/mark> the divinity of the Tribunal, the Dissidents do not challenge...",
+            "fid" : "content" },
+          
+          { "form" : "challenge",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...challenging the divinity of the Tribunal, the Dissidents do not <mark>challenge<\/mark> the sainthood or heroism of the Tribunal. In fact,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "challenged",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "EXCERPT: concerning the points of Temple doctrine <mark>challenged<\/mark> by the Dissident priests:",
+            "fid" : "content" },
+          
+          { "form" : "challenging",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "While <mark>challenging<\/mark> the divinity of the Tribunal, the Dissidents do not challenge...",
+            "fid" : "content" },
+          
+          { "form" : "challenge",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...challenging the divinity of the Tribunal, the Dissidents do not <mark>challenge<\/mark> the sainthood or heroism of the Tribunal. In fact,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "challenges",
+            "weight" : "1",
+            "pos" : 612,
+            "context" : "...higher ranks are invited to assist the Oracle, and the <mark>challenges<\/mark> require the skill and courage found only in heroes of legend...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "challenged",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...“Yes,” said Silverthorn, with a grim expression. “I'm <mark>challenged<\/mark> to rid The Grazelands of a rogue battlemage by the name...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "challenge",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...Graces. The Cantatas relate many stories of Vivec's experiments with <mark>challenge<\/mark> and risk, his failures and triumphs, his blessings of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "challenged",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : "...on the street of Gnisis, he cast the spell and <mark>challenged<\/mark> him to a duel of strength.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "challenge",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...the fetcher in the back.' What d'you prefer? We <mark>challenge<\/mark> 'em to a game of chits?\"",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,36 @@
+
+  { "stem" : "triun",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Triune",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...are willing to submit to the wisdom of Blessed Almsivi, <mark>Triune<\/mark> Grace, the saints, and the priests, are welcome...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Triune",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "Through the bounty of Blessed Almsivi, <mark>Triune<\/mark> Grace, and all the hosts of saints, the faithful...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "triune",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : ".... Collectively, these gods are called the Tribunal, the <mark>triune<\/mark> ALMSIVI, three deities exemplifying Dunmeri virtues. Almalexia is Mercy...",
+            "fid" : "content" } ] } ] }

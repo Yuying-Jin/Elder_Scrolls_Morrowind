@@ -1,0 +1,209 @@
+
+  { "stem" : "justic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 2107,
+            "context" : "Hall of <mark>Justice<\/mark>" },
+          
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 2117,
+            "context" : "Hall of <mark>Justice<\/mark> Secret Library" },
+          
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 4465,
+            "context" : "Vivec, Hall of <mark>Justice<\/mark> Secret Library" },
+          
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 4560,
+            "context" : "Vivec,_Hall_of_<mark>Justice<\/mark>_Secret_Library" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...temple of the High Fane, the Halls of Wisdom and <mark>Justice<\/mark>, and Lord Vivec's Palace.",
+            "fid" : "content" },
+          
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...Truth, and the Hall of Wisdom and the Hall of <mark>Justice<\/mark> at the bottom, the Hlaalu Compound to the west,...",
+            "fid" : "content" },
+          
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "...re-educated there. The Hall of Wisdom and Hall of <mark>Justice<\/mark> contain the executive, administrative, judicial, and martial operations...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "justice",
+            "weight" : "1",
+            "pos" : 2274,
+            "context" : "hall of <mark>justice<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "justice",
+            "weight" : "1",
+            "pos" : 2287,
+            "context" : "hall of <mark>justice<\/mark> secret library",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "justice",
+            "weight" : "1",
+            "pos" : 4629,
+            "context" : "vivec, hall of <mark>justice<\/mark> secret library",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "JUSTICE",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "<mark>JUSTICE<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "The Grace of <mark>Justice<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "justice",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "Thank you for your <mark>justice<\/mark>, Lord Vivec. I shall be neither cruel nor arbitrary...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "The Mask of Vivec: Shrine of <mark>Justice<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 445,
+            "context" : "The Shrine of <mark>Justice<\/mark> is guarded within the Gnisis Temple, in the village of...",
+            "fid" : "content" },
+          
+          { "form" : "justice",
+            "weight" : "1",
+            "pos" : 466,
+            "context" : "...of Cure Common Disease as a token of your respect for <mark>justice<\/mark>. Suitable potions may be purchased from Temple. Homemade potions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "justice",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "Comfort is given, <mark>justice<\/mark> is taken.",
+            "fid" : "content" },
+          
+          { "form" : "justice",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "Can ghosts or <mark>justice<\/mark> change with time?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "<mark>Justice<\/mark> Offices: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Hall of <mark>Justice<\/mark> Secret Library: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...: Humility, Inspiration, Piety, Work, Compassion, <mark>Justice<\/mark>, Ambition, Learning, and Civility. Our Emperor is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "Hall of <mark>Justice<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "Vivec, Hall of <mark>Justice<\/mark> Secret Library: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Justice",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "Vivec, Hall of <mark>Justice<\/mark> Secret Library: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "gaeldol",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gaeldol",
+            "weight" : "1",
+            "pos" : 6589,
+            "context" : "<mark>Gaeldol<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gaeldol",
+            "weight" : "1",
+            "pos" : 6687,
+            "context" : "<mark>gaeldol<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

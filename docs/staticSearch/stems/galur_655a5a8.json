@@ -1,0 +1,98 @@
+
+  { "stem" : "galur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "<mark>Galur<\/mark> Rithari Papers" },
+          
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 1256,
+            "context" : "<mark>Galur<\/mark> Rithari Papers, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 1699,
+            "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 2010,
+            "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 2278,
+            "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 2536,
+            "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 5061,
+            "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 6445,
+            "context" : "<mark>Galur<\/mark> Rithari Papers, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "galur",
+            "weight" : "1",
+            "pos" : 7222,
+            "context" : "<mark>galur<\/mark> rithari",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 7090,
+            "context" : "<mark>Galur<\/mark> Rithari" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Galur",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : "...disease is incurable, a Buoyant Armiger of former years named <mark>Galur<\/mark> Rithari insisted that he was cured of vampirism. Initially imprisoned...",
+            "fid" : "GalurRithari" } ] } ] }

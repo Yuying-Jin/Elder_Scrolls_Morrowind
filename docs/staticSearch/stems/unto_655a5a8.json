@@ -1,0 +1,25 @@
+
+  { "stem" : "unto",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unto",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "Blessed are the Wrathmen, for they render their rage <mark>unto<\/mark> the ages.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unto",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : ".... Blessed are the Wrathmen, for they render their rage <mark>unto<\/mark> the ages. Blessed are the Masters, for they bridge...",
+            "fid" : "content" } ] } ] }

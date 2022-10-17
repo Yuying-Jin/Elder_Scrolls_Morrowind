@@ -1,0 +1,25 @@
+
+  { "stem" : "trail",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trails",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "...west to the coast and then south; there are no <mark>trails<\/mark> or marked routes. Casual travelers ill-equipped for the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trail",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...bay on the western side of the island, and a <mark>trail<\/mark> leads up from the docks to the Gateway Inn. Beyond...",
+            "fid" : "content" } ] } ] }

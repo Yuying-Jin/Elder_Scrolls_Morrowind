@@ -1,0 +1,20 @@
+
+  { "stem" : "vvardefel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Vvardefell",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...Black Marsh (also known as Argonia). Vvardenfell District encompasses <mark>Vvardefell<\/mark> [sic] Island, a great land mass dominated by...",
+            "fid" : "content" },
+          
+          { "form" : "Vvardefell",
+            "weight" : "1",
+            "pos" : 1060,
+            "context" : " The western highlands of <mark>Vvardefell<\/mark> are called the West Gash. The region extends from the...",
+            "fid" : "content" } ] } ] }

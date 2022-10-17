@@ -1,0 +1,14 @@
+
+  { "stem" : "recit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recited",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...dramatic, lyric and personal, composed to be sung or <mark>recited<\/mark>. The following is an excerpt from Lord Vivec's 'Brooding Beneath...",
+            "fid" : "content" } ] } ] }

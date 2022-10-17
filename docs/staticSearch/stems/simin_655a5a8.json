@@ -1,0 +1,77 @@
+
+  { "stem" : "simin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Simine",
+            "weight" : "1",
+            "pos" : 3500,
+            "context" : "<mark>Simine<\/mark> Fralinie: Bookseller" },
+          
+          { "form" : "Simine",
+            "weight" : "1",
+            "pos" : 4514,
+            "context" : "Vivec, <mark>Simine<\/mark> Fralinie: Bookseller" },
+          
+          { "form" : "Simine",
+            "weight" : "1",
+            "pos" : 4577,
+            "context" : "Vivec,_<mark>Simine<\/mark>_Fralinie:_Bookseller" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "simine",
+            "weight" : "1",
+            "pos" : 3653,
+            "context" : "<mark>simine<\/mark> fralinie: bookseller",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "simine",
+            "weight" : "1",
+            "pos" : 4688,
+            "context" : "vivec, <mark>simine<\/mark> fralinie: bookseller",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Simine",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "<mark>Simine<\/mark> Fralinie: Bookseller: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Simine",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "Vivec, <mark>Simine<\/mark> Fralinie: Bookseller: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Simine",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Vivec, <mark>Simine<\/mark> Fralinie: Bookseller: Visitable? yes",
+            "fid" : "acq" } ] } ] }

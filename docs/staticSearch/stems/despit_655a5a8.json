@@ -1,0 +1,25 @@
+
+  { "stem" : "despit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Despite",
+            "weight" : "1",
+            "pos" : 487,
+            "context" : "...There are no roads; most travel is by boat. <mark>Despite<\/mark> the rocky terrain, a variety of plants thrive on the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "despite",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...afterwards, Sedura Indoril Pavflek Mamoona fell ill and died, <mark>despite<\/mark> all the skills of the great healers, including Kena Yakin...",
+            "fid" : "content" } ] } ] }

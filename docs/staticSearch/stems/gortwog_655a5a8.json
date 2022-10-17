@@ -1,0 +1,37 @@
+
+  { "stem" : "gortwog",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gortwog",
+            "weight" : "1",
+            "pos" : 285,
+            "context" : "...their skin and the strength of their bones. If King <mark>Gortwog<\/mark> will listen to reason, we could offer the services of...",
+            "fid" : "KingGortwog" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gortwog",
+            "weight" : "1",
+            "pos" : 6609,
+            "context" : "King <mark>Gortwog<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gortwog",
+            "weight" : "1",
+            "pos" : 6707,
+            "context" : "king <mark>gortwog<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

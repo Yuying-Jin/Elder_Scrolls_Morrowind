@@ -1,0 +1,14 @@
+
+  { "stem" : "forgiv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forgive",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : " But, remembering our old friendship, I would <mark>forgive<\/mark> you, and raise you high in my service. The Sixth...",
+            "fid" : "content" } ] } ] }

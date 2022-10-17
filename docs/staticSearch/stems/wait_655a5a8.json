@@ -1,0 +1,48 @@
+
+  { "stem" : "wait",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "waiting",
+            "weight" : "1",
+            "pos" : 589,
+            "context" : "...sloshed through the labyrinthine tunnels of sludge. His guar was <mark>waiting<\/mark> where he left it at the city gates, making a...",
+            "fid" : "content" },
+          
+          { "form" : "wait",
+            "weight" : "1",
+            "pos" : 697,
+            "context" : "..., perhaps order a meal -- a big one -- and <mark>wait<\/mark>. Hours would pass, and so would their moods....",
+            "fid" : "content" },
+          
+          { "form" : "waiting",
+            "weight" : "1",
+            "pos" : 816,
+            "context" : "...Loves of Boethiah. He lay still in his bed, <mark>waiting<\/mark>, but there was no sound except the usual creaks and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wait",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "'Whom do you <mark>wait<\/mark> for?'",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wait",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "To the Hidden: <mark>Wait<\/mark>, as always, in the darkness.",
+            "fid" : "content" } ] } ] }

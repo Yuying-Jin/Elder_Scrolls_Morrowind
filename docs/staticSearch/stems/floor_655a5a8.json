@@ -1,0 +1,25 @@
+
+  { "stem" : "floor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "floor",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...but Baranat tore him apart, scattering him across the valley <mark>floor<\/mark> in eighty-seven pieces. Beyond Feryn's post was a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "floors",
+            "weight" : "1",
+            "pos" : 509,
+            "context" : "...was gone, and corpses lay pooling blood on the stone <mark>floors<\/mark> within.",
+            "fid" : "content" } ] } ] }

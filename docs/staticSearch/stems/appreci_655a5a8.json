@@ -1,0 +1,36 @@
+
+  { "stem" : "appreci",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "appreciate",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...even if they have been dismembered by those who do not <mark>appreciate<\/mark> our Art. If one of your servants comes to an...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "appreciation",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...away who was trying to hurt her, and the look of <mark>appreciation<\/mark> she gave him was enough to make all his days since...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "appreciation",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...an integral part of Vivec's divine aspect. A more complete <mark>appreciation<\/mark> of the complex nature of Vivec requires an understanding of the...",
+            "fid" : "content" } ] } ] }

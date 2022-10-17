@@ -1,0 +1,14 @@
+
+  { "stem" : "expedi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "expedient",
+            "weight" : "1",
+            "pos" : 448,
+            "context" : "...with those who have died a natural death, a more <mark>expedient<\/mark> approach is sometimes necessary to further the study of the Art...",
+            "fid" : "content" } ] } ] }

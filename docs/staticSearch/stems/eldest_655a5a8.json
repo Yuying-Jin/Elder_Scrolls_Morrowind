@@ -1,0 +1,20 @@
+
+  { "stem" : "eldest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "eldest",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...the north. In the center of the camp, the <mark>eldest<\/mark> and most powerful brother Airen Coribael was holding Lady Genevrah personally...",
+            "fid" : "content" },
+          
+          { "form" : "eldest",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...Beyond Feryn's post was a raging river, where the second <mark>eldest<\/mark> Coribael brother, Horis, stood guard. Horis, who...",
+            "fid" : "content" } ] } ] }

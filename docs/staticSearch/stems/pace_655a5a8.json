@@ -1,0 +1,36 @@
+
+  { "stem" : "pace",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pace",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...and the noble houses—but has readily adapted to the rapid <mark>pace<\/mark> of change and progress in the Imperial provinces. Unlike the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pace",
+            "weight" : "1",
+            "pos" : 572,
+            "context" : "...the spell's, how to view the world at the slower <mark>pace<\/mark> a man with advanced agility sees. In time, Oin...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pace",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "..., moving so fast he didn't rustle a leaf with his <mark>pace<\/mark>. In a flash, Vanis was dead by Baranat's hands...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "wraith",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wraith",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "..., and fleshless. Spirit revenants like the ancestor ghost, <mark>wraith<\/mark>, and dwarven ghost, can only be harmed by weapons...",
+            "fid" : "content" },
+          
+          { "form" : "Wraiths",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...apart from the minor curses they lay upon their victims. <mark>Wraiths<\/mark> are similar to ghosts, but they are capable of inflicting...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wraith",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "..., and fleshless. Spirit revenants like the ancestor ghost, <mark>wraith<\/mark>, and dwarven ghost, can only be harmed by weapons...",
+            "fid" : "content" },
+          
+          { "form" : "Wraiths",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...apart from the minor curses they lay upon their victims. <mark>Wraiths<\/mark> are similar to ghosts, but they are capable of inflicting...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,209 @@
+
+  { "stem" : "suran",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Surane",
+            "weight" : "1",
+            "pos" : 1394,
+            "context" : "Caldera, <mark>Surane<\/mark> Leoriane's house" },
+          
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 3584,
+            "context" : "<mark>Suran<\/mark>" },
+          
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 3628,
+            "context" : "<mark>Suran<\/mark>, Oran Manor" },
+          
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 3636,
+            "context" : "<mark>Suran<\/mark>,_Ralds_Oril:_Trader" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "surane",
+            "weight" : "1",
+            "pos" : 1565,
+            "context" : "caldera, <mark>surane<\/mark> leoriane's house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "suran",
+            "weight" : "1",
+            "pos" : 3736,
+            "context" : "<mark>suran<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "suran",
+            "weight" : "1",
+            "pos" : 3780,
+            "context" : "<mark>suran<\/mark>, oran manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "suran",
+            "weight" : "1",
+            "pos" : 3788,
+            "context" : "<mark>suran<\/mark>, ralds oril: trader",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 573,
+            "context" : "...the Foreign Quarter bridge west towards Seyda Neen, north towards <mark>Suran<\/mark> and the Ascadian Isles, and east towards Molag Mar....",
+            "fid" : "content" },
+          
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 600,
+            "context" : "...end of the Foreign Quarter bridge, traveling from Vivec to <mark>Suran<\/mark>, Seyda Neen, Balmora, and Molag Mar. Ships...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...of Vvardenfell's agriculture is found. The area includes Pelagiad, <mark>Suran<\/mark>, Vivec City, and Ald Sotha along with the inland...",
+            "fid" : "content" },
+          
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : " <mark>Suran<\/mark> is an agricultural village in the northeastern corner of the fertile...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "<mark>Suran<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "<mark>Suran<\/mark>, Oran Manor: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "<mark>Suran<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Surane",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "Caldera, <mark>Surane<\/mark> Leoriane's house: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "<mark>Suran<\/mark>, Ralds Oril: Trader: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "<mark>Suran<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "<mark>Suran<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "<mark>Suran<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "The Fields of Kummu are west of <mark>Suran<\/mark> on the north shore of Lake Amaya as you head towards...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Suran",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...Council, Vvardenfell District, Free Trader, Ules Manor, <mark>Suran<\/mark>, Ascadian Isles, Bal Ur, District of Vvardenfell,...",
+            "fid" : "content" } ] } ] }

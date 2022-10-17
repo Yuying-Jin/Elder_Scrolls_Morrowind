@@ -1,0 +1,14 @@
+
+  { "stem" : "airship",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "airships",
+            "weight" : "1",
+            "pos" : 433,
+            "context" : "...purchased in Tear by Sload merchants and the rumors of Sload <mark>airships<\/mark> carrying corpses from Senchal.",
+            "fid" : "content" } ] } ] }

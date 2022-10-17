@@ -1,0 +1,36 @@
+
+  { "stem" : "notabl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Notable",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : " <mark>Notable<\/mark> figures",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Notable",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : " <mark>Notable<\/mark> Figures",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Notable",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "..., and do not think of their relationships as personal. <mark>Notable<\/mark> exceptions include minor charismatic sub-cults of Akatosh and Dibella...",
+            "fid" : "content" } ] } ] }

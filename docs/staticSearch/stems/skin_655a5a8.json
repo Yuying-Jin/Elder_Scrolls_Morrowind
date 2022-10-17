@@ -1,0 +1,48 @@
+
+  { "stem" : "skin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skin",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "...are among the most sought after for the durability of their <mark>skin<\/mark> and the strength of their bones. If King Gortwog will...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Skin",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...flask. For a hot drink, strain contents through Scamp <mark>Skin<\/mark> and mix with Flin in large mug, slowly stirring with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skin",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "scamp <mark>skin<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skin",
+            "weight" : "1",
+            "pos" : 626,
+            "context" : "scamp <mark>skin<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

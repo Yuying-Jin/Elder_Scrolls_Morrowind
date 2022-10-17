@@ -1,0 +1,14 @@
+
+  { "stem" : "written",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "written",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : " [The Cantatas of Vivec are gospels <mark>written<\/mark> in the form of epic songs. They trace the evolution...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "hastili",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hastily",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...While the Temple will investigate obvious signs of Necromancy such as <mark>hastily<\/mark> emptied graves or ash stolen from one of their ashpits,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hastily",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "[[Scrawled <mark>hastily<\/mark> on a page from a log journal]]",
+            "fid" : "content" } ] } ] }

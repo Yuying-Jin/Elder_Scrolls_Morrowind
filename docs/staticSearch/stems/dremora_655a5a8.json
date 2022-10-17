@@ -1,0 +1,43 @@
+
+  { "stem" : "dremora",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Dremora",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "...himself by fighting an unarmed foe. This so impressed the <mark>Dremora<\/mark>, the most honorable and chivalrous of Mehrunes Dagon's Daedric servants...",
+            "fid" : "content" },
+          
+          { "form" : "Dremora",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...scroll of ALMSIVI Intervention in case they get lost. The <mark>Dremora<\/mark> Krazzt is found in the center of the Puzzle Canal,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dremora",
+            "weight" : "1",
+            "pos" : 5142,
+            "context" : "<mark>Dremora<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dremora",
+            "weight" : "1",
+            "pos" : 5334,
+            "context" : "<mark>dremora<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

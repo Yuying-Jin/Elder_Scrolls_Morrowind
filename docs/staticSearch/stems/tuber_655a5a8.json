@@ -1,0 +1,25 @@
+
+  { "stem" : "tuber",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tuber",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "Arrowroot is a thick, rubbery <mark>tuber<\/mark> that can be found in the Province of Valenwood. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tuberous",
+            "weight" : "1",
+            "pos" : 442,
+            "context" : "...ash yams and dreugh wax. Ash yam is a tough <mark>tuberous<\/mark> root vegetable common to the Ascadian Isles region. dreugh wax...",
+            "fid" : "content" } ] } ] }

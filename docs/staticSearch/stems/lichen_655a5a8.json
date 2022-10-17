@@ -1,0 +1,72 @@
+
+  { "stem" : "lichen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "lichen",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "green <mark>lichen<\/mark>" },
+          
+          { "form" : "lichens",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "green <mark>lichens<\/mark>" },
+          
+          { "form" : "lichen",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "green_<mark>lichen<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lichen",
+            "weight" : "1",
+            "pos" : 448,
+            "context" : "green <mark>lichen<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "lichens",
+            "weight" : "1",
+            "pos" : 455,
+            "context" : "green <mark>lichens<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lichen",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "To cure common diseases, combine gravedust and green <mark>lichen<\/mark>. gravedust is spirit-affinitive dust taken from remains buried...",
+            "fid" : "content" },
+          
+          { "form" : "lichen",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...affinitive dust taken from remains buried in consecrated ground. green <mark>lichen<\/mark> is a hardy primitive plant that grows in the Ascadian Isles...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lichens",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...Daedra 1 Part mixed Bittergreen Petals, Void Salts, Green <mark>Lichens<\/mark> and Bonemeal 1 Part Moonsugar 5 Parts Flin",
+            "fid" : "content" } ] } ] }

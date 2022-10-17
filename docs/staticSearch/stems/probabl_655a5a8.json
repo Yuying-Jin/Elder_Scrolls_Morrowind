@@ -1,0 +1,26 @@
+
+  { "stem" : "probabl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "probably",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...being tortured for information about you and your troops. You <mark>probably<\/mark> haven't had the experience of being tortured for information you don't...",
+            "fid" : "content" },
+          
+          { "form" : "probably",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : ".... Master S'Rabba had apparently died under torture. You have <mark>probably<\/mark> had experience torturing the slave races and know how easily they...",
+            "fid" : "content" },
+          
+          { "form" : "probably",
+            "weight" : "1",
+            "pos" : 327,
+            "context" : "\"We should have <mark>probably<\/mark> left then, but we decided that he still owed us for...",
+            "fid" : "content" } ] } ] }

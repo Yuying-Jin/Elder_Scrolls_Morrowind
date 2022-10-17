@@ -1,0 +1,77 @@
+
+  { "stem" : "craftsmen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...spiritual needs of the Imperial faithful. Various independent tradesmen, <mark>craftsmen<\/mark>, and trainers also rent space here. The Black Shalk Cornerclub...",
+            "fid" : "content" },
+          
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 324,
+            "context" : "...Elven Nations and the No Name Club. A variety of <mark>craftsmen<\/mark> and tradesmen also have shops at Hlaalu Compound. Some House...",
+            "fid" : "content" },
+          
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "...with cells full of monsters. There are many tradesmen, <mark>craftsmen<\/mark>, and trainers, and the Lizard's Head cornerclub provides lodgings...",
+            "fid" : "content" },
+          
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 434,
+            "context" : "...have top-tier manors. There are many tradesmen, <mark>craftsmen<\/mark>, and trainers, and the Flowers of Gold cornerclub provides...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 342,
+            "context" : "...estates resemble Temple compounds, with walled precincts enclosing outbuildings for <mark>craftsmen<\/mark> and servants, dominated by a grand manor residence in place...",
+            "fid" : "content" },
+          
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : "...Telvanni villages are comprised of smaller mushroom pods hollowed out for <mark>craftsmen<\/mark> and commoners. Open-air markets often include the giant...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...sea and teleportation. The town is large, with many <mark>craftsmen<\/mark>, traders, and trainers, but it is open only...",
+            "fid" : "content" },
+          
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...Beyond the Gateway Inn is the Great Market, with numerous <mark>craftsmen<\/mark> and traders, and a small slave market. North of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "craftsmen",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "...classes, they must go outside their house to hire the <mark>craftsmen<\/mark> and specialists they need. And since for political reasons House...",
+            "fid" : "content" } ] } ] }

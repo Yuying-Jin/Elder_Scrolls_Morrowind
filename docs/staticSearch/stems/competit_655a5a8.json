@@ -1,0 +1,64 @@
+
+  { "stem" : "competit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "competition",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "\"But what about the <mark>competition<\/mark>?\" my admirers ask.",
+            "fid" : "content" },
+          
+          { "form" : "competition",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "The <mark>competition<\/mark> is the Camonna Tong. And you don't want to join...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "competition",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "...retainers, and clients have entered whole-heartedly into the <mark>competition<\/mark> to control and exploit Vvardenfell's land and resources, building towers...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "competition",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...The councilors blame local corruption, weakened enforcement, and aggressive <mark>competition<\/mark> between the Thieves Guild and the Camonna Tong.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "competition",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : ".... Those reluctant to prove their worthiness by killing off the <mark>competition<\/mark>, and those uncomfortable about competing in such a ruthless atmosphere...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "competition",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...unfortunate disturbances of the public peace resulting from the increasingly aggressive <mark>competition<\/mark> between the Thieves Guild and the Camonna Tong for control of...",
+            "fid" : "content" } ] } ] }

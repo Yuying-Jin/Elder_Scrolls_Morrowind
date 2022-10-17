@@ -1,0 +1,20 @@
+
+  { "stem" : "undergo",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "undergoing",
+            "weight" : "1",
+            "pos" : 612,
+            "context" : "...questioning already. It was a pity he couldn't see them <mark>undergoing<\/mark> interrogation. Who would break under pressure first? Imalyn was...",
+            "fid" : "content" },
+          
+          { "form" : "undergoing",
+            "weight" : "1",
+            "pos" : 658,
+            "context" : "...the sun began rising, Sathis pictured Galsiah and Imalyn not <mark>undergoing<\/mark> interrogation, but sleeping the good deep sleep of the wicked...",
+            "fid" : "content" } ] } ] }

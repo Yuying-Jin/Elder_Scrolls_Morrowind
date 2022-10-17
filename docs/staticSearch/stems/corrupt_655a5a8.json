@@ -1,0 +1,87 @@
+
+  { "stem" : "corrupt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "corrupted",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "...refuge in profane Daedric shrines, abandoned Dunmer Strongholds, and <mark>corrupted<\/mark> subterranean labyrinths of the detested Dwemer race? For ages the...",
+            "fid" : "content" },
+          
+          { "form" : "corrupt",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "...vile cattle have returned. These vampires die, and their <mark>corrupt<\/mark> cattle with them, and their blood taint must be forever erased...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "corrupted",
+            "weight" : "1",
+            "pos" : 350,
+            "context" : "...the Archcanon and the Ordinators. The temple hierarchy has been <mark>corrupted<\/mark> by self-interest and politics, and no longer acts...",
+            "fid" : "content" },
+          
+          { "form" : "corrupt",
+            "weight" : "1",
+            "pos" : 397,
+            "context" : "...either out of control, or tools used to maintain a <mark>corrupt<\/mark> priesthood in power.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "corrupted",
+            "weight" : "1",
+            "pos" : 350,
+            "context" : "...the Archcanon and the Ordinators. The temple hierarchy has been <mark>corrupted<\/mark> by self-interest and politics, and no longer acts...",
+            "fid" : "content" },
+          
+          { "form" : "corrupt",
+            "weight" : "1",
+            "pos" : 397,
+            "context" : "...either out of control, or tools used to maintain a <mark>corrupt<\/mark> priesthood in power.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "corruption",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "\"Shamed by my <mark>corruption<\/mark>, and despairing of my own welfare, I passively acquiesced...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "corruption",
+            "weight" : "1",
+            "pos" : 1052,
+            "context" : "...completely encircles Red Mountain and prevents the Blight from spilling its <mark>corruption<\/mark> across the rest of Vvardenfell.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "corruption",
+            "weight" : "1",
+            "pos" : 243,
+            "context" : "...violent in the Redoran House Districts. The councilors blame local <mark>corruption<\/mark>, weakened enforcement, and aggressive competition between the Thieves Guild...",
+            "fid" : "content" } ] } ] }

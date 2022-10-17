@@ -1,0 +1,43 @@
+
+  { "stem" : "hawkmoth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Hawkmoth",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Hawkmoth<\/mark> Legion Garrison: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Hawkmoth",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...Fort Pelagiad in Pelagiad -- are at full complement. The <mark>Hawkmoth<\/mark> Legion garrisoned at Castle Ebonheart is an elite honor guard unit...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hawkmoth",
+            "weight" : "1",
+            "pos" : 2176,
+            "context" : "<mark>Hawkmoth<\/mark> Legion Garrison" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hawkmoth",
+            "weight" : "1",
+            "pos" : 2346,
+            "context" : "<mark>hawkmoth<\/mark> legion garrison",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

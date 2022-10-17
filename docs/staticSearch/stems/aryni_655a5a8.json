@@ -1,0 +1,61 @@
+
+  { "stem" : "aryni",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Aryni",
+            "weight" : "1",
+            "pos" : 877,
+            "context" : "Ald'ruhn,_<mark>Aryni<\/mark>_Orethi's_House" },
+          
+          { "form" : "Aryni",
+            "weight" : "1",
+            "pos" : 990,
+            "context" : "<mark>Aryni<\/mark> Orethi's House" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "aryni",
+            "weight" : "1",
+            "pos" : 1032,
+            "context" : "ald'ruhn, <mark>aryni<\/mark> orethi's house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "aryni",
+            "weight" : "1",
+            "pos" : 1162,
+            "context" : "<mark>aryni<\/mark> orethi's house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aryni",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Aryni<\/mark> Orethi's House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aryni",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Ald'ruhn, <mark>Aryni<\/mark> Orethi's House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

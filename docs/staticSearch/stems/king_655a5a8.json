@@ -1,0 +1,116 @@
+
+  { "stem" : "king",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "King",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...of their skin and the strength of their bones. If <mark>King<\/mark> Gortwog will listen to reason, we could offer the services...",
+            "fid" : "KingGortwog" },
+          
+          { "form" : "kings",
+            "weight" : "1",
+            "pos" : 323,
+            "context" : "...my native High Rock, traditions dating back to the witch <mark>kings<\/mark> and nomadic horsemen mandate cremation of the dead. This is...",
+            "fid" : "content" },
+          
+          { "form" : "King",
+            "weight" : "1",
+            "pos" : 354,
+            "context" : "...the lawless times that followed. There are even rumors that <mark>King<\/mark> Gothryd of Daggerfall may institute the Imperial practice of donating the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "kings",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...represented in Temple literature and liturgy as one of the divine <mark>kings<\/mark> of Morrowind. He guards the sacred Velothi subcontinent of Vvardenfell...",
+            "fid" : "content" },
+          
+          { "form" : "King",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "This explicit presentation of Vivec the Guardian God-<mark>King<\/mark> and Warrior-Poet is the one most accessible and familiar...",
+            "fid" : "content" },
+          
+          { "form" : "king",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "...secrets. Rather, they conceive of Lord Vivec as benevolent <mark>king<\/mark>, guardian warrior, poet-artist. But, at the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "King",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "'I am the Clockwork <mark>King<\/mark> of the Three in One. In you is an egg...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kings",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...Reveal the primitive burial customs to be mere superstition. Befriend <mark>kings<\/mark> with honeyed words and bind them to your will. Look to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "King",
+            "weight" : "1",
+            "pos" : 6608,
+            "context" : "<mark>King<\/mark> Gortwog" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "king",
+            "weight" : "1",
+            "pos" : 6706,
+            "context" : "<mark>king<\/mark> gortwog",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "King",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "<mark>King<\/mark> Hlaalu Athyn Llethan, High Councilor and Lord of Morrowind,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "King",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "<mark>King<\/mark> Hlaalu Athyn Llethan, High Councilor and Lord of Morrowind,...",
+            "fid" : "content" } ] } ] }

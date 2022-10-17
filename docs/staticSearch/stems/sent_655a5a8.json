@@ -1,0 +1,64 @@
+
+  { "stem" : "sent",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sent",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...kidnapped from her estate and held for ransom, her mother <mark>sent<\/mark> word out that whoever rescued her would be allowed to marry...",
+            "fid" : "content" },
+          
+          { "form" : "sent",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...Doubtful, but having no other prospects, the old woman <mark>sent<\/mark> Baranat off, explaining that the four brothers' camp was to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sent",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...will agree. To this end, a delegation has been <mark>sent<\/mark> to Orsinium, though we have not yet heard any word...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sent",
+            "weight" : "1",
+            "pos" : 416,
+            "context" : "...troupe, but Master Neloth's guards were surprisingly quick. I <mark>sent<\/mark> the troupe through the gate to the docks while I distracted...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sent",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...tonight, when the dues collection is housed there before being <mark>sent<\/mark> to the bank, the security's going to be tighter than...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sent",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...suppressed without undue harm to life and property. The council <mark>sent<\/mark> deputations to the Duke to express their concerns over the high...",
+            "fid" : "content" } ] } ] }

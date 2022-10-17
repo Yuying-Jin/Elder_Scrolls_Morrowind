@@ -1,0 +1,14 @@
+
+  { "stem" : "ashpit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ashpits",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...as hastily emptied graves or ash stolen from one of their <mark>ashpits<\/mark>, a careful and discrete Necromancer can thrive in Morrowind by...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,94 @@
+
+  { "stem" : "iii",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "Corpse Preparation v <mark>III<\/mark>" },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 1689,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 2716,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 2887,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 4259,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 6266,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 1518,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 1" },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 2558,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 1" },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 2718,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 1" },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 4108,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 1" },
+          
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 6186,
+            "context" : "Corpse Preparation v <mark>III<\/mark>, count: 3" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "III",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "<mark>III<\/mark>. Rules and Procedures",
+            "fid" : "content" } ] } ] }

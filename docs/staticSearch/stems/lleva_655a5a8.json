@@ -1,0 +1,26 @@
+
+  { "stem" : "lleva",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Llevas",
+            "weight" : "1",
+            "pos" : 6574,
+            "context" : "<mark>Llevas<\/mark> Fels" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "llevas",
+            "weight" : "1",
+            "pos" : 6672,
+            "context" : "<mark>llevas<\/mark> fels",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

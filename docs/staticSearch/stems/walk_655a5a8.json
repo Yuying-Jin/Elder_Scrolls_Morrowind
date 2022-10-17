@@ -1,0 +1,86 @@
+
+  { "stem" : "walk",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "walk",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "\"You can <mark>walk<\/mark>!\" he said, laughing. \"It's a miracle!\"",
+            "fid" : "content" },
+          
+          { "form" : "walk",
+            "weight" : "1",
+            "pos" : 398,
+            "context" : "...stacking them. \"I wish you had told me that you could <mark>walk<\/mark> though, mate. I could have used your help spearing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walked",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...Vivec, and Sotha Sil were mortal guardians of Morrowind who <mark>walked<\/mark> the earth, defeated the Dunmer's greatest enemies, the Nords...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walk",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "...modest fee. Gnaar Mok is a LONG and exceptionally unpleasant <mark>walk<\/mark> west to the coast and then south; there are no...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walk",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...either be able to fly, swim, or water-<mark>walk<\/mark>, or you must rely on shipmasters at the docks or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walks",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "...Tribunal is a relationship with a living, breathing god who <mark>walks<\/mark> the earth, speaks in person with priests and cultists,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Walk",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "<mark>Walk<\/mark> always in the presence of your Lords.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walked",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "Baranat <mark>walked<\/mark> calmly into the camp and began battle with Airen Coribael....",
+            "fid" : "content" } ] } ] }

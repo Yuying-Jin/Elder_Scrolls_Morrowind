@@ -1,0 +1,42 @@
+
+  { "stem" : "save",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "saved",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...If he could catch one, the two men could be <mark>saved<\/mark>. With his broken legs, he was a pathetic predator...",
+            "fid" : "content" },
+          
+          { "form" : "saved",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "...nearly full crates. They were not only going to be <mark>saved<\/mark>, they were going to be rich, just as Harithoel...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "save",
+            "weight" : "1",
+            "pos" : 448,
+            "context" : "...a good troupe, and it seemed smarter to try to <mark>save<\/mark> everyone. In any case, I lured the guards around...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "save",
+            "weight" : "1",
+            "pos" : 285,
+            "context" : "...Wild Hunts could not be handled by any mortal or immortal <mark>save<\/mark> the ones sanctified to the Hunt and bound by its strictures...",
+            "fid" : "content" } ] } ] }

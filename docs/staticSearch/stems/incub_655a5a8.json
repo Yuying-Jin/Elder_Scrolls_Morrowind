@@ -1,0 +1,20 @@
+
+  { "stem" : "incub",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "incubation",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "...During the <mark>incubation<\/mark> phase, lasting up to 72 hours, the vampirism disease...",
+            "fid" : "content" },
+          
+          { "form" : "incubation",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "...cured by general spellcraft or cult blessings. However, during <mark>incubation<\/mark>, some victims have reported sleep disturbances and troubling dreams....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,348 @@
+
+  { "stem" : "four",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 23,
+        "contexts" : 
+        [ 
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 424,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 742,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 757,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 777,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 816,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 2128,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 2844,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 6",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 2996,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 3008,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 3492,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 4044,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 4401,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6170,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6437,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 7",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6459,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 6",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6503,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 4",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6963,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 7024,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 7125,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 30",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 7162,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 5",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 7730,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 22,
+        "contexts" : 
+        [ 
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 243,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 568,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 583,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 603,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 639,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 1952,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 3" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 2675,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 6" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 2827,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 2834,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 3339,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 3967,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 4258,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 5875,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6376,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 6" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6844,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 4" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6852,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 3" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6977,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 1" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 6993,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 30" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 7037,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 5" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 7184,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 2" },
+          
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 7599,
+            "context" : "The <mark>Four<\/mark> Suitors of Benitah, count: 7" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Four",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...of our ancestors and protect against those who traffic with the <mark>Four<\/mark> Corners.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "four",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...the west, the Telvanni Compound on the east, and <mark>four<\/mark> cantons grouped together at the center of the cross -- Redoran...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "four",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...prospects, the old woman sent Baranat off, explaining that the <mark>four<\/mark> brothers' camp was to the north. In the center of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "four",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : "...mouth, and then saw through the throat in three or <mark>four<\/mark> stroke rather like playing a violin. It requires little effort...",
+            "fid" : "content" } ] } ] }

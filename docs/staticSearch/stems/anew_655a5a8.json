@@ -1,0 +1,20 @@
+
+  { "stem" : "anew",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "anew",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...friends and greedy thieves, the children of Veloth will build <mark>anew<\/mark> a garden of plenty in this blighted wasteland. Come to...",
+            "fid" : "content" },
+          
+          { "form" : "anew",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...counsel and power, if only you would pledge that friendship <mark>anew<\/mark>. The path to Red Mountain is long, and filled...",
+            "fid" : "content" } ] } ] }

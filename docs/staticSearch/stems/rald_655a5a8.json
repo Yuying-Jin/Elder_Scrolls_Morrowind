@@ -1,0 +1,37 @@
+
+  { "stem" : "rald",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ralds",
+            "weight" : "1",
+            "pos" : 3637,
+            "context" : "Suran,_<mark>Ralds<\/mark>_Oril:_Trader" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ralds",
+            "weight" : "1",
+            "pos" : 3789,
+            "context" : "suran, <mark>ralds<\/mark> oril: trader",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ralds",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "Suran, <mark>Ralds<\/mark> Oril: Trader: Visitable? yes",
+            "fid" : "acq" } ] } ] }

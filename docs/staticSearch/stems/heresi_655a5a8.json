@@ -1,0 +1,42 @@
+
+  { "stem" : "heresi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "heresy",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...was cured of vampirism. Initially imprisoned by the Temple for <mark>heresy<\/mark>, he later recanted, was released, and served his...",
+            "fid" : "content" },
+          
+          { "form" : "heresy",
+            "weight" : "1",
+            "pos" : 418,
+            "context" : "...Vivec. It is interesting that previous to his imprisonment for <mark>heresy<\/mark>, Rithari had been posted to the Buoyant Armiger garrison at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heresy",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "...abduction, terror, torture, and secret imprisonment to discourage <mark>heresy<\/mark> and dissent. The Dissident priests feel the Ordinators are either...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heresy",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "...abduction, terror, torture, and secret imprisonment to discourage <mark>heresy<\/mark> and dissent. The Dissident priests feel the Ordinators are either...",
+            "fid" : "content" } ] } ] }

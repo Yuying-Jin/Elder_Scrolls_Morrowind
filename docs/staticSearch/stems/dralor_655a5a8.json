@@ -1,0 +1,14 @@
+
+  { "stem" : "dralor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dralors",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : "...ancestral vaults. Two noble families, the Savens and the <mark>Dralors<\/mark>, have top-tier manors. There are many tradesmen...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,140 @@
+
+  { "stem" : "camp",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 434,
+            "context" : " The Ashlanders Urshilaku tribe has a permanent settlement at Urshilaku <mark>camp<\/mark> in the Ashlands region north of Maar Gan village.",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 474,
+            "context" : "...Aruhn, Tel Mora, and Tel Branora, and Ahemmusa <mark>camp<\/mark> and the remote fishing villages of Ald Redaynia and Dagon Fel...",
+            "fid" : "content" },
+          
+          { "form" : "camps",
+            "weight" : "1",
+            "pos" : 656,
+            "context" : "...a nasty reputation, and several Telvanni wizards currently have competing <mark>camps<\/mark> of hirelings and adventurers exploring and looting there. Legend says that...",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 677,
+            "context" : " The Ashlander Ahemmusa tribe has a permanent settlement at Ahemmusa <mark>camp<\/mark> on a rocky promontory at the northeastern tip of the Vvardenfell...",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 840,
+            "context" : "...of Tel Vos and Tel Fyr. The Ashlanders of Zainab <mark>camp<\/mark> move their herds across the plains in search of fresh grazing...",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 861,
+            "context" : " The Ashlander Zainab tribe has a permanent settlement at Zainab <mark>camp<\/mark>, near the village of Vos in the Grazelands region....",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 900,
+            "context" : "...is complicated by frequent ash storms. The Ashlanders of Erabenimsun <mark>camp<\/mark> hunt game here, but few others venture into this region....",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 955,
+            "context" : " The Ashlander Erabenimsun tribe has a permanent settlement at Erabenimsun <mark>camp<\/mark>, an isolated hut settlement in the middle of the desolate...",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 1099,
+            "context" : "...lies near Balmora. The herds of the Ashlanders of Urshilaku <mark>camp<\/mark> graze on the sparse but hardy highland vegetation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...the old woman sent Baranat off, explaining that the four brothers' <mark>camp<\/mark> was to the north. In the center of the camp...",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...camp was to the north. In the center of the <mark>camp<\/mark>, the eldest and most powerful brother Airen Coribael was holding...",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 342,
+            "context" : "...river and continued down the valley, until he reached the <mark>camp<\/mark>. Airen Coribael himself was there, guarding a squirming sack which...",
+            "fid" : "content" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "Baranat walked calmly into the <mark>camp<\/mark> and began battle with Airen Coribael. The fight lasted seven...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 632,
+            "context" : "Ahemmusa <mark>camp<\/mark>" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 1692,
+            "context" : "Erabenimsun <mark>camp<\/mark>" },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 4249,
+            "context" : "Urshilaku <mark>camp<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 809,
+            "context" : "ahemmusa <mark>camp<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 1863,
+            "context" : "erabenimsun <mark>camp<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "camp",
+            "weight" : "1",
+            "pos" : 4392,
+            "context" : "urshilaku <mark>camp<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

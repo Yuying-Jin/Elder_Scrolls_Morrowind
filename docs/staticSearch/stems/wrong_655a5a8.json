@@ -1,0 +1,47 @@
+
+  { "stem" : "wrong",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wrong",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...a better price. Too late, I discovered I was <mark>wrong<\/mark>, and when I returned to the shop weeks later,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wrong",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "Better to suffer a <mark>wrong<\/mark> than to do one.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wrong",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "..., the two men discussed the smuggling operation and what went <mark>wrong<\/mark>. Their boat, laden with five crates of moon sugar...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wrong",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "Better to suffer a <mark>wrong<\/mark> than to do one.",
+            "fid" : "content" } ] } ] }

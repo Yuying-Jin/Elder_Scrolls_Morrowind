@@ -1,0 +1,20 @@
+
+  { "stem" : "gorgoth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Gorgoth",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...sweet thing with curly locks and a joyous laugh named Benitah <mark>Gorgoth<\/mark>. Once when at play he had pushed a bully away...",
+            "fid" : "content" },
+          
+          { "form" : "Gorgoth",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...wealthiest and most respected nobles in Gnisis, and Serjo Benitah <mark>Gorgoth<\/mark>. His heart fell. She had found another, a...",
+            "fid" : "content" } ] } ] }

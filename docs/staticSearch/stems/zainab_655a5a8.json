@@ -1,0 +1,26 @@
+
+  { "stem" : "zainab",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Zainab",
+            "weight" : "1",
+            "pos" : 839,
+            "context" : "...towers of Tel Vos and Tel Fyr. The Ashlanders of <mark>Zainab<\/mark> camp move their herds across the plains in search of fresh...",
+            "fid" : "content" },
+          
+          { "form" : "Zainab",
+            "weight" : "1",
+            "pos" : 856,
+            "context" : " The Ashlander <mark>Zainab<\/mark> tribe has a permanent settlement at Zainab camp, near the...",
+            "fid" : "content" },
+          
+          { "form" : "Zainab",
+            "weight" : "1",
+            "pos" : 860,
+            "context" : " The Ashlander Zainab tribe has a permanent settlement at <mark>Zainab<\/mark> camp, near the village of Vos in the Grazelands region...",
+            "fid" : "content" } ] } ] }

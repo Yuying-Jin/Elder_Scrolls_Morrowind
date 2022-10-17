@@ -1,0 +1,14 @@
+
+  { "stem" : "virtual",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "virtually",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...antipathy of Morrowind culture toward necromancy ensures that vampires are <mark>virtually<\/mark> unknown in Morrowind...",
+            "fid" : "content" } ] } ] }

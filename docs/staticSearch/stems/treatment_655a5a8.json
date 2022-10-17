@@ -1,0 +1,14 @@
+
+  { "stem" : "treatment",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "treatment",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...creature dressed like a gentleman, and I hoped for honorable <mark>treatment<\/mark>. Instead, I found myself a feast for a blood...",
+            "fid" : "content" } ] } ] }

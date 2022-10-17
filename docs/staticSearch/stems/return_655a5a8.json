@@ -1,0 +1,132 @@
+
+  { "stem" : "return",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "return",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "\"Very well,\" replied Yakin. \"But in <mark>return<\/mark>, I want your next season's worth of trama root,...",
+            "fid" : "content" },
+          
+          { "form" : "return",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : "\"Very well,\" replied Yakin. \"But in <mark>return<\/mark>, I want your next season's worth of chokeweed, all...",
+            "fid" : "content" },
+          
+          { "form" : "return",
+            "weight" : "1",
+            "pos" : 546,
+            "context" : "\"Very well,\" replied Yakin. \"But in <mark>return<\/mark>, I want your next season's worth of gold kanet,...",
+            "fid" : "content" },
+          
+          { "form" : "returned",
+            "weight" : "1",
+            "pos" : 751,
+            "context" : ".... They were married at once. A week later, he <mark>returned<\/mark> to Kena Yakin Bael and learned how to fortify his personality...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "returned",
+            "weight" : "1",
+            "pos" : 732,
+            "context" : "...empty. It wouldn't be until that afternoon when his servants <mark>returned<\/mark> from the feast of St Rilms in Gnisis. They were...",
+            "fid" : "content" },
+          
+          { "form" : "returned",
+            "weight" : "1",
+            "pos" : 780,
+            "context" : "...had given himself a few hours to rest before his household <mark>returned<\/mark>. His own bed was wonderfully soft and warm compared to...",
+            "fid" : "content" },
+          
+          { "form" : "returned",
+            "weight" : "1",
+            "pos" : 835,
+            "context" : "The song <mark>returned<\/mark>, and Sathis heard the vault door in his study swing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "return",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...months' time, for that is when war comes. I <mark>return<\/mark> now to haunt the warriors who fell and still wonder why....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "returned",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "..., but now these undead lords and their vile cattle have <mark>returned<\/mark>. These vampires die, and their corrupt cattle with them,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "returned",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...late, I discovered I was wrong, and when I <mark>returned<\/mark> to the shop weeks later, the item I wanted was...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "return",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...offered me a chance to cure myself of vampirism, in <mark>return<\/mark> for a favor. However, with no hope for my...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "return",
+            "weight" : "1",
+            "pos" : 568,
+            "context" : "...to meet Master Neloth on the field. I will soon <mark>return<\/mark> for a victory celebration, and I want to see all...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "return",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...Imperial Palace. There, we will report the evil infection and <mark>return<\/mark> with a regimental force of rescue. May the Powers be...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "returning",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...with a bite, then withdrawing to a safe distance, <mark>returning<\/mark> to feed only when the prey has weakened...",
+            "fid" : "content" } ] } ] }

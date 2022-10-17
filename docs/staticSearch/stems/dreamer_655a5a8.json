@@ -1,0 +1,37 @@
+
+  { "stem" : "dreamer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dreamer",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...Raesa Pullia is commandant of Buckmoth Fort, but Imsin the <mark>Dreamer<\/mark> is the chapter steward. The Redguard Hean is priest of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dreamer",
+            "weight" : "1",
+            "pos" : 6516,
+            "context" : "Imsin the <mark>Dreamer<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dreamer",
+            "weight" : "1",
+            "pos" : 6625,
+            "context" : "imsin the <mark>dreamer<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

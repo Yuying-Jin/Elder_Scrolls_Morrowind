@@ -1,0 +1,31 @@
+
+  { "stem" : "comment",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "comment",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "..., fully aware of Gothren's growing rage, which that particular <mark>comment<\/mark> had only enflamed. \"He wasn't used to Khajiit either....",
+            "fid" : "content" },
+          
+          { "form" : "comments",
+            "weight" : "1",
+            "pos" : 278,
+            "context" : "...Or their dark sense of humor. He took some sarcastic <mark>comments<\/mark> from Master S'Rabba literally, and we all ended up being...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "comment",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...it. Much better to admire the quality of workmanship, but <mark>comment<\/mark> that, regretfully, you simply cannot afford such a price....",
+            "fid" : "content" } ] } ] }

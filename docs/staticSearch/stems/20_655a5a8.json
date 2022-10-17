@@ -1,0 +1,26 @@
+
+  { "stem" : "20",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "20",
+            "weight" : "1",
+            "pos" : 4630,
+            "context" : "Guide to Vvardenfell, count: <mark>20<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "20",
+            "weight" : "1",
+            "pos" : 4758,
+            "context" : "Guide to Vvardenfell, count: <mark>20<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

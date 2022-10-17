@@ -1,0 +1,14 @@
+
+  { "stem" : "somewher",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "somewhere",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...swimming at the edges of the island. He had read <mark>somewhere<\/mark> that fish not only were food, but there was always...",
+            "fid" : "content" } ] } ] }

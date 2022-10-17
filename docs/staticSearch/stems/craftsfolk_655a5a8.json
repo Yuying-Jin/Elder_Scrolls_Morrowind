@@ -1,0 +1,14 @@
+
+  { "stem" : "craftsfolk",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "craftsfolk",
+            "weight" : "1",
+            "pos" : 613,
+            "context" : "...of the Telvanni Council. The small settlement includes a few <mark>craftsfolk<\/mark> and a tradehouse.",
+            "fid" : "content" } ] } ] }

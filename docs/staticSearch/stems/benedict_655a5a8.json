@@ -1,0 +1,14 @@
+
+  { "stem" : "benedict",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Benediction",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "St. Olms grants Olms' <mark>Benediction<\/mark>, for resistance to common disease.",
+            "fid" : "content" } ] } ] }

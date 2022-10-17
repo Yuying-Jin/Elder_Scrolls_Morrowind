@@ -1,0 +1,36 @@
+
+  { "stem" : "happi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "happy",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...that he would live forever in his home town among the <mark>happy<\/mark> voices of his friends and countrymen. Twisting the literal words...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "happy",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "Count only the <mark>happy<\/mark> hours.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "happiness",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...lady's husband was not very well. Oin held back his <mark>happiness<\/mark> and continued on his errands.",
+            "fid" : "content" } ] } ] }

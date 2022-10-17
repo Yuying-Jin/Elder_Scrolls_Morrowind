@@ -1,0 +1,14 @@
+
+  { "stem" : "numer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "numerous",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : ".... Beyond the Gateway Inn is the Great Market, with <mark>numerous<\/mark> craftsmen and traders, and a small slave market. North...",
+            "fid" : "content" } ] } ] }

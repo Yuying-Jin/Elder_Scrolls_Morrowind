@@ -1,0 +1,14 @@
+
+  { "stem" : "match",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "match",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...and shortswords. You don't want to get into a slugging <mark>match<\/mark>, so you want the marksman's weapons -- the bow,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "bank",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "banks",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "The Ginko leaves which are found along the <mark>banks<\/mark> of rivers and lakes in Hammerfell are most inconspicuous, only...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bank",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : ".... Alof's farm nearby has a small dock on the north <mark>bank<\/mark> of Lake Amaya. This is the only dock nearby which...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "banked",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...mana. And also must the Magicka Fountains be damped and <mark>banked<\/mark>, sanctioning their engendering only to the reconsecration of essential arcane...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bank",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...the dues collection is housed there before being sent to the <mark>bank<\/mark>, the security's going to be tighter than a kwama's ass...",
+            "fid" : "content" } ] } ] }

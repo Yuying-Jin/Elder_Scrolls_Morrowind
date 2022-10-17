@@ -1,0 +1,284 @@
+
+  { "stem" : "mage",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...Naga, the towering wizard-tower residence of Telvanni Councilor <mark>Mage<\/mark>-Lord Master Neloth.",
+            "fid" : "content" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : " Outlanders can find services for the Fighters Guild, <mark>Mages<\/mark> Guild, and Imperial cult at Wolverine Hall. Members of...",
+            "fid" : "content" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...establishment with public beds. Members of the Fighters Guild, <mark>Mages<\/mark> Guild, and Imperial cults look for hospitality at Wolverine Hall...",
+            "fid" : "content" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...the Fighters Guild steward, Procyon Nigiliusis [sic] is <mark>Mages<\/mark> Guild steward, and Aunius Autrus is the Imperial cult priest...",
+            "fid" : "content" },
+          
+          { "form" : "mage",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "...the Telvanni Mouths (Telvanni Mouths are spokesmen for their councilor <mark>mage<\/mark>-lords) Felisa Ulessen, Galos Mathendis, Arara Uvulas...",
+            "fid" : "content" },
+          
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 278,
+            "context" : "...Omayn, and Dalyne Arvel, Telvanni Council clerk. Councilor <mark>Mage<\/mark>-Lord Master Neloth lives in Tel Naga, the wizard...",
+            "fid" : "content" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "...on shipmasters at the docks or the guild guide at the <mark>Mages<\/mark> Guild. Gals Arethi at the docks offers ship passage to...",
+            "fid" : "content" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "...Mora, or Dagon Fel. Iniel at the Wolverine Hall <mark>Mages<\/mark> Guild can teleport you to Ald'ruhn, Vivec City, Caldera...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "..., District of Vvardenfell, Province of Morrowind Master Aryon, <mark>Mage<\/mark> Lord of Telvanni Council, Vvardenfell District, Tower of Tel...",
+            "fid" : "content" },
+          
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "..., District of Vvardenfell, Province of Morrowind Master Neloth, <mark>Mage<\/mark> Lord of Telvanni Council, Vvardenfell District, Tower of Tel...",
+            "fid" : "content" },
+          
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "..., District of Vvardenfell, Province of Morrowind Mistress Dratha, <mark>Mage<\/mark> Lord of Telvanni Council, Vvardenfell District, Tower of Tel...",
+            "fid" : "content" },
+          
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "..., District of Vvardenfell, Province of Morrowind Mistress Therana, <mark>Mage<\/mark> Lord of Telvanni Council, Vvardenfell District, Tower of Tel...",
+            "fid" : "content" },
+          
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "..., Sadrith Mora For Archmagister Gothren: Mouth Mallam Ryon, <mark>Mage<\/mark> For Master Aryon: Mouth Arara Uvulas For Master Neloth:...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "Ald'ruhn <mark>Mages<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...the south of Ald'ruhn town, through South Gate behind the <mark>Mages<\/mark> Guild.",
+            "fid" : "content" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...Imperial cult altar. The guildhalls of the Fighters Guild and <mark>Mages<\/mark> Guild are near the South Gate. Pricy but high-...",
+            "fid" : "content" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...residences in Ald'ruhn-Under_skar. Edwinna Elbert is the <mark>Mages<\/mark> Guild steward, and Percius Mercius has recently become the Fighters...",
+            "fid" : "content" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "..., Khuul, or Maar Gan.. Guild guides at the <mark>Mages<\/mark> Guild teleport you to Balmora, Vivec City, Caldera,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 820,
+            "context" : "Ald'ruhn <mark>Mages<\/mark> Guild" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 1208,
+            "context" : "Balmora's <mark>Mages<\/mark> Guild" },
+          
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 4535,
+            "context" : "Vivec, Telvanni <mark>Mage<\/mark>" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 5379,
+            "context" : "<mark>Mages<\/mark> Guild" },
+          
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 6617,
+            "context" : "Arch-<mark>Mage<\/mark> Gothren" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "mages",
+            "weight" : "1",
+            "pos" : 1004,
+            "context" : "ald'ruhn <mark>mages<\/mark> guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "mages",
+            "weight" : "1",
+            "pos" : 1377,
+            "context" : "balmora's <mark>mages<\/mark> guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "mage",
+            "weight" : "1",
+            "pos" : 4714,
+            "context" : "vivec, telvanni <mark>mage<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "mages",
+            "weight" : "1",
+            "pos" : 5587,
+            "context" : "<mark>mages<\/mark> guild",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "mage",
+            "weight" : "1",
+            "pos" : 6714,
+            "context" : "arch <mark>mage<\/mark> gothren",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "Vivec, Telvanni <mark>Mage<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 383,
+            "context" : "...atmosphere, might better employ their time and efforts in the <mark>Mages<\/mark> Guild.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 637,
+            "context" : "...supportive relationship with the Imperial Guilds -- especially the Fighters and <mark>Mages<\/mark> Guilds. We also have a friendly and supportive relationship with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mage",
+            "weight" : "1",
+            "pos" : 352,
+            "context" : " Telvanni Compound is the eastmost canton. The <mark>mage<\/mark>-lord Mavon Drenim is the ranking Telvanni noble. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 579,
+            "context" : " Tel Aruhn is the Telvanni tower of Arch-<mark>Mage<\/mark> Gothren, Telvanni Sorcerer-Lord and head of the Telvanni...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mages",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Balmora's <mark>Mages<\/mark> Guild: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mages",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...ordering of the Congeries among the oldest and most trusted of <mark>mages<\/mark>, and make secure this ordering through arcane codes and keys...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mage",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "...however, Azura is the Anticipation of Sotha Sil, the <mark>Mage<\/mark>-Lord of ALMSIVI. Boethiah is the Anticipation of Almalexia...",
+            "fid" : "content" } ] } ] }

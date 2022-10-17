@@ -1,0 +1,37 @@
+
+  { "stem" : "marandus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Marandus",
+            "weight" : "1",
+            "pos" : 2528,
+            "context" : "<mark>Marandus<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marandus",
+            "weight" : "1",
+            "pos" : 2697,
+            "context" : "<mark>marandus<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Marandus",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "<mark>Marandus<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

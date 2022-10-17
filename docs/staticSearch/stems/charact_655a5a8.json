@@ -1,0 +1,36 @@
+
+  { "stem" : "charact",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "character",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : " The Imperial cult accepts all citizens of good <mark>character<\/mark> and earnest faith. We ask only a one-time...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "character",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...that a Great House councilor stand as sponsor for the candidate's <mark>character<\/mark> and loyalty. Finding a councilor to sponsor an outlander often...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "character",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "St. Aralor grants Aralor's Intervention, for fortifying <mark>character<\/mark>.",
+            "fid" : "content" } ] } ] }

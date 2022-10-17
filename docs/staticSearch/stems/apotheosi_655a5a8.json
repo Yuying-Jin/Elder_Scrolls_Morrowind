@@ -1,0 +1,37 @@
+
+  { "stem" : "apotheosi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "apotheosis",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "Temple doctrine claims their <mark>apotheosis<\/mark> was miraculously achieved through questing, virtue, knowledge, testing...",
+            "fid" : "content" },
+          
+          { "form" : "apotheosis",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...the Tribunal's conduct, and about the source of their subsequent <mark>apotheosis<\/mark>. Also, there is good evidence that the Tribunal have...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "apotheosis",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "Temple doctrine claims their <mark>apotheosis<\/mark> was miraculously achieved through questing, virtue, knowledge, testing...",
+            "fid" : "content" },
+          
+          { "form" : "apotheosis",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...the Tribunal's conduct, and about the source of their subsequent <mark>apotheosis<\/mark>. Also, there is good evidence that the Tribunal have...",
+            "fid" : "content" } ] } ] }

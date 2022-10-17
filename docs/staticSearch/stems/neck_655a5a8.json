@@ -1,0 +1,14 @@
+
+  { "stem" : "neck",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "neck",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "...take some precautions and bring some extra equipment. The best <mark>neck<\/mark>-hackers I know generally carry a bit of wadded cloth...",
+            "fid" : "content" } ] } ] }

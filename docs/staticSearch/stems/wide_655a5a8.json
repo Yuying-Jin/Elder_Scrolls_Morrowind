@@ -1,0 +1,25 @@
+
+  { "stem" : "wide",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wide",
+            "weight" : "1",
+            "pos" : 377,
+            "context" : "...Sea of Ghosts in the north, and elsewhere form a <mark>wide<\/mark> margin between the blighted Red Mountain region and other geographic regions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wide",
+            "weight" : "1",
+            "pos" : 436,
+            "context" : "...was preparing his Killing Blow, he suddenly stopped, eyes <mark>wide<\/mark> open. The blood drained from his face, and he...",
+            "fid" : "content" } ] } ] }

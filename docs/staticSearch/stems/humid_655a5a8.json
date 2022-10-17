@@ -1,0 +1,14 @@
+
+  { "stem" : "humid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "humid",
+            "weight" : "1",
+            "pos" : 702,
+            "context" : "...Mok is called the Bitter Coast. The salt marshes and <mark>humid<\/mark> swamps of this region are uninhabited, with the only settlements...",
+            "fid" : "content" } ] } ] }

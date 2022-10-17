@@ -1,0 +1,69 @@
+
+  { "stem" : "paper",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Papers",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "Galur Rithari <mark>Papers<\/mark>" },
+          
+          { "form" : "Papers",
+            "weight" : "1",
+            "pos" : 1258,
+            "context" : "Galur Rithari <mark>Papers<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Papers",
+            "weight" : "1",
+            "pos" : 1701,
+            "context" : "Galur Rithari <mark>Papers<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Papers",
+            "weight" : "1",
+            "pos" : 2012,
+            "context" : "Galur Rithari <mark>Papers<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Papers",
+            "weight" : "1",
+            "pos" : 2280,
+            "context" : "Galur Rithari <mark>Papers<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Papers",
+            "weight" : "1",
+            "pos" : 2538,
+            "context" : "Galur Rithari <mark>Papers<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Papers",
+            "weight" : "1",
+            "pos" : 5063,
+            "context" : "Galur Rithari <mark>Papers<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Papers",
+            "weight" : "1",
+            "pos" : 6447,
+            "context" : "Galur Rithari <mark>Papers<\/mark>, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "muscl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "muscles",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...through his body, pumping through the very fibers of his <mark>muscles<\/mark> for a time, giving him strength far beyond the puny...",
+            "fid" : "content" } ] } ] }

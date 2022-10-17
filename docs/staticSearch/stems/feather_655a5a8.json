@@ -1,0 +1,37 @@
+
+  { "stem" : "feather",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feather",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "<mark>feather<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feather",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "<mark>feather<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Feather",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "<mark>Feather<\/mark> reduces the weary traveler's burdens and can be gained from heather...",
+            "fid" : "content" } ] } ] }

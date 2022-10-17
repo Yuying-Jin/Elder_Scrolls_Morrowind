@@ -1,0 +1,36 @@
+
+  { "stem" : "impuls",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "impulsiveness",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...than to miss out on your opportunities for ownership. Occasionally <mark>impulsiveness<\/mark> is the best buying strategy.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "impulses",
+            "weight" : "1",
+            "pos" : 560,
+            "context" : "..., and Yakin taught him the spell that would fire his <mark>impulses<\/mark> with magicka. Over several weeks, he learned how to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "impulses",
+            "weight" : "1",
+            "pos" : 374,
+            "context" : "..., lust, and conspiracy associated the more primitive and ruthless <mark>impulses<\/mark> of the Anticipations.",
+            "fid" : "content" } ] } ] }

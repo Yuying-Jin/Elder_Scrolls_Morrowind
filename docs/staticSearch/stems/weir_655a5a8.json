@@ -1,0 +1,37 @@
+
+  { "stem" : "weir",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Weir",
+            "weight" : "1",
+            "pos" : 4709,
+            "context" : "<mark>Weir<\/mark> Gate" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weir",
+            "weight" : "1",
+            "pos" : 4839,
+            "context" : "<mark>weir<\/mark> gate",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Weir",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...From his lair, we will take flight. Since the <mark>Weir<\/mark> Gate has been taken, teleportation is not possible. Only...",
+            "fid" : "content" } ] } ] }

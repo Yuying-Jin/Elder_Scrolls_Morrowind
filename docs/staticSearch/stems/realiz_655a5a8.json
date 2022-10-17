@@ -1,0 +1,443 @@
+
+  { "stem" : "realiz",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 28,
+        "contexts" : 
+        [ 
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 544,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 4",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 921,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 1101,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 1165,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 1450,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 2031,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 2315,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 2698,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 3292,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 3350,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 4012,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 5737,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 5915,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 5954,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6070,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6538,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6723,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 14",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6774,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6848,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6992,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7080,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 10",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7197,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 7",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7245,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 4",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7315,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 4",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7494,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7553,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7744,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 27,
+        "contexts" : 
+        [ 
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 4" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 758,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 929,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 993,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 1285,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 1852,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 2145,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 2529,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 3123,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 3179,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 3811,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 5494,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 3" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 5691,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 5790,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 3" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6092,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 3" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6433,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6626,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 14" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6688,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6744,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6868,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 3" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 6931,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 10" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7072,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 7" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7120,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 4" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7200,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 4" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7377,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7414,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 2" },
+          
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 7607,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy, count: 1" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Realizations",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "<mark>Realizations<\/mark> of Acrobacy",
+            "fid" : "content" },
+          
+          { "form" : "realizations",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...Gothren, alas, we know no tricks. All the <mark>realizations<\/mark> of acrobacy we perform are real with no illusions. We...",
+            "fid" : "content" },
+          
+          { "form" : "realizations",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "\"Very well, what <mark>realizations<\/mark> of acrobacy can you perform?\" asked Gothren with what almost...",
+            "fid" : "content" },
+          
+          { "form" : "realization",
+            "weight" : "1",
+            "pos" : 524,
+            "context" : "...for you now? I hadn't told you yet about our latest <mark>realization<\/mark> of acrobacy when Master Mearvis takes a simple ebony blade and...",
+            "fid" : "content" },
+          
+          { "form" : "realizations",
+            "weight" : "1",
+            "pos" : 573,
+            "context" : "...a victory celebration, and I want to see all your <mark>realizations<\/mark> of acrobacy. In the meantime, you will be honored...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "realized",
+            "weight" : "1",
+            "pos" : 441,
+            "context" : "...open. The blood drained from his face, and he <mark>realized<\/mark> the trap he had stepped into. A trap with no escape...",
+            "fid" : "content" },
+          
+          { "form" : "realized",
+            "weight" : "1",
+            "pos" : 481,
+            "context" : "...she began to berate him for taking his time, he <mark>realized<\/mark> that she had a very, very, very unpleasant personality as well...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "realize",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...There is value in reputation, more than many young Hlaalu <mark>realize<\/mark>. This value must be carefully balanced against the more tangible...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "realizing",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...power into the void. Chimere miscalculated, however, not <mark>realizing<\/mark> that Dagon's resistance could slow the draining of his power,...",
+            "fid" : "content" } ] } ] }

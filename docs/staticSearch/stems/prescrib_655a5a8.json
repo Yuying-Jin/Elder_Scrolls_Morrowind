@@ -1,0 +1,25 @@
+
+  { "stem" : "prescrib",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prescribe",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...his boasting, then asked him, \"How can you pretend to <mark>prescribe<\/mark> for others the cure to all diseases, when you are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prescribed",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "...person with priests and cultists, and whose daily actions are <mark>prescribed<\/mark> models for the daily actions of their followers.",
+            "fid" : "content" } ] } ] }

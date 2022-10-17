@@ -1,0 +1,58 @@
+
+  { "stem" : "nice",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nice",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "...join them, because they don't want you and they're not very <mark>nice<\/mark>. They have this thing about outlanders. They want them...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nice",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "Wood is <mark>nice<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nice",
+            "weight" : "1",
+            "pos" : 587,
+            "context" : "\"So the room and board will be almost as <mark>nice<\/mark> as a third rate show in Rihad,\" said Senyndie as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nice",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "...jaunts? I don't think so. Why couldn't you get a <mark>nice<\/mark> position at the Fighters Guild right here in town? I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nice",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...looks like we're the only ones. I guess, the <mark>nice<\/mark> way to look at it is that if we're rescued,...",
+            "fid" : "content" } ] } ] }

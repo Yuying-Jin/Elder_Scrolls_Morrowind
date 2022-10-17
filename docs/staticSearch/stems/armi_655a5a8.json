@@ -1,0 +1,14 @@
+
+  { "stem" : "armi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "armies",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "The <mark>armies<\/mark> met at Red Mountain, a Dwemer stronghold. The Dwemer...",
+            "fid" : "content" } ] } ] }

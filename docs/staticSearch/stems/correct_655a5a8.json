@@ -1,0 +1,14 @@
+
+  { "stem" : "correct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "correct",
+            "weight" : "1",
+            "pos" : 335,
+            "context" : "...Oin. He wrote out the mathematical formula, which proved <mark>correct<\/mark>, and Kena Warfel Tomasin vaporized on the spot.",
+            "fid" : "content" } ] } ] }

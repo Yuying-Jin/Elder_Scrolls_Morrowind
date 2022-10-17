@@ -1,0 +1,31 @@
+
+  { "stem" : "partner",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "partner",
+            "weight" : "1",
+            "pos" : 604,
+            "context" : "...,\" said the afore-mentioned, and prompted his sparring <mark>partner<\/mark> to attack him with his sword. He blocked the blows...",
+            "fid" : "content" },
+          
+          { "form" : "partner",
+            "weight" : "1",
+            "pos" : 632,
+            "context" : "...remarkable Gazouf Mough,\" said Oin, and prompted Priif's sparring <mark>partner<\/mark> to attack him with his sword. After twenty minutes of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "partners",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...of insight and good fortune, and his debt to his <mark>partners<\/mark>, Almalexia the Lover and Sotha Sil the Teacher. The...",
+            "fid" : "content" } ] } ] }

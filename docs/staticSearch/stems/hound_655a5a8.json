@@ -1,0 +1,67 @@
+
+  { "stem" : "hound",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hound",
+            "weight" : "1",
+            "pos" : 413,
+            "context" : "nix-<mark>hound<\/mark> meat" },
+          
+          { "form" : "hounds",
+            "weight" : "1",
+            "pos" : 6985,
+            "context" : "Nix-<mark>hounds<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hound",
+            "weight" : "1",
+            "pos" : 583,
+            "context" : "nix <mark>hound<\/mark> meat",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "hounds",
+            "weight" : "1",
+            "pos" : 6819,
+            "context" : "nix <mark>hounds<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Hound",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "The <mark>Hound<\/mark> and Rat",
+            "fid" : "content" },
+          
+          { "form" : "hound",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "1 pound of ground meat (mixed rat and <mark>hound<\/mark>)",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hounds",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...terror. One day they saw a pack of Nix-<mark>hounds<\/mark> ranging about, and in a desperate panic all the Guar scuttled...",
+            "fid" : "content" } ] } ] }

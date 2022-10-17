@@ -1,0 +1,37 @@
+
+  { "stem" : "domica",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "domica",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "<mark>domica<\/mark> redwort" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "domica",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : "<mark>domica<\/mark> redwort",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Domica",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "<mark>Domica<\/mark> Redwort is a herb grown by many residents of Valenwood for...",
+            "fid" : "content" } ] } ] }

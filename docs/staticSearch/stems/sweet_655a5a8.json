@@ -1,0 +1,25 @@
+
+  { "stem" : "sweet",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sweet",
+            "weight" : "1",
+            "pos" : 263,
+            "context" : "...its peculiar halfmoon shape makes it noticeable. It is very <mark>sweet<\/mark> and tasty. Legend has it that when mixed properly with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sweet",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...a girl he had known before all his trouble, a <mark>sweet<\/mark> thing with curly locks and a joyous laugh named Benitah Gorgoth...",
+            "fid" : "content" } ] } ] }

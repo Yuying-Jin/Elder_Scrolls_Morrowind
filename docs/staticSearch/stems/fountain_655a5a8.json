@@ -1,0 +1,25 @@
+
+  { "stem" : "fountain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fountains",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "Runs in red rivers, blossoms in <mark>fountains<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fountains",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...souls with vitality and mana. And also must the Magicka <mark>Fountains<\/mark> be damped and banked, sanctioning their engendering only to the...",
+            "fid" : "content" } ] } ] }

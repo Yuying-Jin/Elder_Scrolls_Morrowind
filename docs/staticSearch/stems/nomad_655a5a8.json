@@ -1,0 +1,59 @@
+
+  { "stem" : "nomad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nomadic",
+            "weight" : "1",
+            "pos" : 324,
+            "context" : "...High Rock, traditions dating back to the witch kings and <mark>nomadic<\/mark> horsemen mandate cremation of the dead. This is practiced almost...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nomadic",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...grasslands, and volcanic badlands, and thinly populated by the <mark>nomadic<\/mark> Ashlander tribes.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nomad",
+            "weight" : "1",
+            "pos" : 6084,
+            "context" : "<mark>nomad<\/mark>_tribes" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nomad",
+            "weight" : "1",
+            "pos" : 6176,
+            "context" : "<mark>nomad<\/mark> tribes",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nomad",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...held northwest Morrowind, while Nerevar mustered the other Houses and <mark>nomad<\/mark> tribes and marched to meet the Dwemer-Dagoth-Westerner...",
+            "fid" : "content" } ] } ] }

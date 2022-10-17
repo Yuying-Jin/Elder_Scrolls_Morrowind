@@ -1,0 +1,14 @@
+
+  { "stem" : "arid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arid",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...rest of the island is covered by hostile desert wastes, <mark>arid<\/mark> grasslands, and volcanic badlands, and thinly populated by the...",
+            "fid" : "content" } ] } ] }

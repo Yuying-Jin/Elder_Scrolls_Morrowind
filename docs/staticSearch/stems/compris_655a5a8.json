@@ -1,0 +1,31 @@
+
+  { "stem" : "compris",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "comprised",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "...like holdfasts of the giant native mushrooms. Telvanni villages are <mark>comprised<\/mark> of smaller mushroom pods hollowed out for craftsmen and commoners....",
+            "fid" : "content" },
+          
+          { "form" : "comprising",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...in Vvardenfell. Indoril District occupies the heartland of Morrowind, <mark>comprising<\/mark> the lands south of the Inner Sea and the eastern coast...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "comprise",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...Vivec, the Warrior-Poet of the three deities who <mark>comprise<\/mark> Almsivi, the divine patrons of the Tribunal Temple. Only...",
+            "fid" : "content" } ] } ] }

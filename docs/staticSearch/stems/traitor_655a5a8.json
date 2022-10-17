@@ -1,0 +1,31 @@
+
+  { "stem" : "traitor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Traitors",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : " 2 Parts Blood of <mark>Traitors<\/mark> 1 Part Daedra's Heart of Daedra 1 Part mixed Bittergreen Petals...",
+            "fid" : "content" },
+          
+          { "form" : "Traitors",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...in Large Ebony Alembic. Heat fire fed by Bones of <mark>Traitors<\/mark>. Condense vapors into a large Ebony flask. For a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "traitors",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...have served the Empire are given the corpses of criminals and <mark>traitors<\/mark> to use legally. This provides those who have acquired such...",
+            "fid" : "content" } ] } ] }

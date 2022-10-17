@@ -1,0 +1,48 @@
+
+  { "stem" : "trainer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "trainers",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...the Imperial faithful. Various independent tradesmen, craftsmen, and <mark>trainers<\/mark> also rent space here. The Black Shalk Cornerclub rents beds to...",
+            "fid" : "content" },
+          
+          { "form" : "trainers",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "...of monsters. There are many tradesmen, craftsmen, and <mark>trainers<\/mark>, and the Lizard's Head cornerclub provides lodgings for Telvanni kin...",
+            "fid" : "content" },
+          
+          { "form" : "trainers",
+            "weight" : "1",
+            "pos" : 435,
+            "context" : "...tier manors. There are many tradesmen, craftsmen, and <mark>trainers<\/mark>, and the Flowers of Gold cornerclub provides lodgings for Redoran...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trainers",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...town is large, with many craftsmen, traders, and <mark>trainers<\/mark>, but it is open only to Telvanni retainers; outsiders...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trainer",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...right here in town? I hear they're looking for a <mark>trainer<\/mark> for the Imperial Guard. I know, I know,...",
+            "fid" : "content" } ] } ] }

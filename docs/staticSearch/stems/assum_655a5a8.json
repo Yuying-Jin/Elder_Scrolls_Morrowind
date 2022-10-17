@@ -1,0 +1,71 @@
+
+  { "stem" : "assum",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "assuming",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "...on recognizing the types of shop-keepers and not automatically <mark>assuming<\/mark> that the rural merchant is ignorant and easily fooled, or...",
+            "fid" : "content" },
+          
+          { "form" : "assuming",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...or insulted if the shopkeepers follow you around the shop, <mark>assuming<\/mark> you're going to steal something. Similarly, Nords, Bretons...",
+            "fid" : "content" },
+          
+          { "form" : "assuming",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : "...many times I passed up a rare and interesting relic, <mark>assuming<\/mark> that I could find it elsewhere in the region, perhaps...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "assume",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...isolationist and outlander-hating temperament of House Telvanni wizards often <mark>assume<\/mark> it would be impossible to obtain positions in service to House...",
+            "fid" : "content" },
+          
+          { "form" : "assume",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "...many Argonian and Khajiit as slaves, many Argonians and Khajiit <mark>assume<\/mark> they would not be accepted for service with House Telvanni....",
+            "fid" : "content" },
+          
+          { "form" : "assume",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...the Telvanni are ruled by wizard-lord nobles, many <mark>assume<\/mark> they accept only candidates of the highest intelligence and willpower....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assume",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...Morrowind by taking slaves at a modest rate. Most will <mark>assume<\/mark> the slave escaped or died in the Ashlands.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assumed",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...Airen Coribael himself was there, guarding a squirming sack which Baranat <mark>assumed<\/mark> either contained Lady Genevrah or several large cats. The young...",
+            "fid" : "content" } ] } ] }

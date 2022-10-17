@@ -1,0 +1,37 @@
+
+  { "stem" : "raesa",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Raesa",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...Old Methal Seran is an eminent Temple priest and scholar. <mark>Raesa<\/mark> Pullia is commandant of Buckmoth Fort, but Imsin the Dreamer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Raesa",
+            "weight" : "1",
+            "pos" : 7043,
+            "context" : "<mark>Raesa<\/mark> Pullia" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "raesa",
+            "weight" : "1",
+            "pos" : 7168,
+            "context" : "<mark>raesa<\/mark> pullia",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

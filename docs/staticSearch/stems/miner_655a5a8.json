@@ -1,0 +1,59 @@
+
+  { "stem" : "miner",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "miner's",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "...summoned by profane ritual and bound by force to the corpse <mark>miner's<\/mark> will, how may such a spirit ever find rest? How...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Miner",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...Morvayn, Hlaren Ramoran, Athyn Sarethi, Garisa Llethri, <mark>Miner<\/mark> Arobar, and Bolvyn Venim, have manor residences in Ald'ruhn...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Miner",
+            "weight" : "1",
+            "pos" : 6330,
+            "context" : "<mark>Miner<\/mark> Arobar" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "miner",
+            "weight" : "1",
+            "pos" : 6402,
+            "context" : "<mark>miner<\/mark> arobar",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Miner",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "Master Lord <mark>Miner<\/mark> Arobar, by Grace of Almsivi, Honored Councilor of Redoran...",
+            "fid" : "content" } ] } ] }

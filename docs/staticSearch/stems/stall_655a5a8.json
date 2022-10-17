@@ -1,0 +1,14 @@
+
+  { "stem" : "stall",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stalls",
+            "weight" : "1",
+            "pos" : 727,
+            "context" : "...his guar and filled its feed. The rest of the <mark>stalls<\/mark> were empty. It wouldn't be until that afternoon when his...",
+            "fid" : "content" } ] } ] }

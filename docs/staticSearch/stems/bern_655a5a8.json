@@ -1,0 +1,37 @@
+
+  { "stem" : "bern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Berne",
+            "weight" : "1",
+            "pos" : 4951,
+            "context" : "<mark>Berne<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "berne",
+            "weight" : "1",
+            "pos" : 5092,
+            "context" : "<mark>berne<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Berne",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...to hypnotize victims before feeding, while the swift and agile <mark>Berne<\/mark> clan vampires prefer stealth and ambush, first poisoning the victim...",
+            "fid" : "content" } ] } ] }

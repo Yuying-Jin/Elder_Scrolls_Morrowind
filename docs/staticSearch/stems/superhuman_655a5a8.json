@@ -1,0 +1,14 @@
+
+  { "stem" : "superhuman",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "superhuman",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...the Nords and the Dwarves, and achieved divine substance through <mark>superhuman<\/mark> discipline and virtue and supernatural wisdom and insight. Like loving...",
+            "fid" : "content" } ] } ] }

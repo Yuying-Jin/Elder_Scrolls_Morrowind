@@ -1,0 +1,47 @@
+
+  { "stem" : "type",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "types",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : " A lot of the game depends on recognizing the <mark>types<\/mark> of shop-keepers and not automatically assuming that the rural...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "types",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...terrain features. Scholars have based their classifications on the different <mark>types<\/mark> of land described by the native Ashlanders, so the designations...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "types",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "Undead commonly occur in three basic <mark>types<\/mark>: spirit, flesh, and fleshless. Spirit revenants like...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "types",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "Undead commonly occur in three basic <mark>types<\/mark>: spirit, flesh, and fleshless. Spirit revenants like...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "kay",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kaye",
+            "weight" : "1",
+            "pos" : 596,
+            "context" : "...higher levels of combat proficiency. Those interested should speak to <mark>Kaye<\/mark> at the Imperial Chapels in Ebonheart.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kaye",
+            "weight" : "1",
+            "pos" : 6765,
+            "context" : "<mark>Kaye<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kaye",
+            "weight" : "1",
+            "pos" : 6878,
+            "context" : "<mark>kaye<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,32 @@
+
+  { "stem" : "season",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "season's",
+            "weight" : "1",
+            "pos" : 270,
+            "context" : "...replied Yakin. \"But in return, I want your next <mark>season's<\/mark> worth of trama root, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "season's",
+            "weight" : "1",
+            "pos" : 403,
+            "context" : "...replied Yakin. \"But in return, I want your next <mark>season's<\/mark> worth of chokeweed, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "season's",
+            "weight" : "1",
+            "pos" : 549,
+            "context" : "...replied Yakin. \"But in return, I want your next <mark>season's<\/mark> worth of gold kanet, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "season's",
+            "weight" : "1",
+            "pos" : 760,
+            "context" : "...and learned how to fortify his personality in exchange for next <mark>season's<\/mark> worth of willow anther. Then they lived happily ever after....",
+            "fid" : "content" } ] } ] }

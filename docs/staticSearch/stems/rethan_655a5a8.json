@@ -1,0 +1,88 @@
+
+  { "stem" : "rethan",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Rethan",
+            "weight" : "1",
+            "pos" : 3092,
+            "context" : "<mark>Rethan<\/mark> Manor" },
+          
+          { "form" : "Rethan",
+            "weight" : "1",
+            "pos" : 3100,
+            "context" : "<mark>Rethan<\/mark> Manor, Gols' House" },
+          
+          { "form" : "Rethan",
+            "weight" : "1",
+            "pos" : 3109,
+            "context" : "<mark>Rethan<\/mark>_Manor" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rethan",
+            "weight" : "1",
+            "pos" : 3263,
+            "context" : "<mark>rethan<\/mark> manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "rethan",
+            "weight" : "1",
+            "pos" : 3282,
+            "context" : "<mark>rethan<\/mark> manor, gols' house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rethan",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "<mark>Rethan<\/mark> Manor, Gols' House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rethan",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "<mark>Rethan<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rethan",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "<mark>Rethan<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rethan",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "<mark>Rethan<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" } ] } ] }

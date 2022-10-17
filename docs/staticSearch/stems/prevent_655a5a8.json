@@ -1,0 +1,31 @@
+
+  { "stem" : "prevent",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "prevents",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "Arkay's Blessing <mark>prevents<\/mark> the souls of men, beastmen, and elves from being...",
+            "fid" : "content" },
+          
+          { "form" : "prevents",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "..., and elves from being used without consent. Arkay's Law <mark>prevents<\/mark> those buried with the proper rituals from being raised to serve...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prevents",
+            "weight" : "1",
+            "pos" : 1049,
+            "context" : "...is a colossal magical artifact that completely encircles Red Mountain and <mark>prevents<\/mark> the Blight from spilling its corruption across the rest of Vvardenfell...",
+            "fid" : "content" } ] } ] }

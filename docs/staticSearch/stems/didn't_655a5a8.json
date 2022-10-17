@@ -1,0 +1,25 @@
+
+  { "stem" : "didn't",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "didn't",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "\"We <mark>didn't<\/mark> make it as far as the mainland,\" said Harithoel....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "didn't",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...his blade and ran at Vanis, moving so fast he <mark>didn't<\/mark> rustle a leaf with his pace. In a flash,...",
+            "fid" : "content" } ] } ] }

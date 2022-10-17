@@ -1,0 +1,64 @@
+
+  { "stem" : "remov",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "remove",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...fresh enough to have an unpleasant odor, the salts will <mark>remove<\/mark> that as well. In a moist climate, such as...",
+            "fid" : "content" },
+          
+          { "form" : "remove",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...to apply more salts if they become saturated. Some Necromancers <mark>remove<\/mark> the vital organs before or after this process, but I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "removal",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...local citizens. Citizens may contract with the Guild for the <mark>removal<\/mark> of creatures and pests, the delivery of goods on dangerous...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remove",
+            "weight" : "1",
+            "pos" : 1147,
+            "context" : "...The Caldera Mining Company has been granted an Imperial monopoly to <mark>remove<\/mark> raw ebony from the rich deposits here. Caldera has the appearance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "removed",
+            "weight" : "1",
+            "pos" : 464,
+            "context" : "...fallen down from the branches as soon as the crate was <mark>removed<\/mark>, just as he had planned. \"Like you said,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "removed",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...for his family or his village. So the Lord Vivec <mark>removed<\/mark> his fine clothes and toiled in the fields like a beast...",
+            "fid" : "content" } ] } ] }

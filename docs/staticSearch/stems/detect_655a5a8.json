@@ -1,0 +1,25 @@
+
+  { "stem" : "detect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "detection",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : "...corpses difficult to find. More research dedicated to the magical <mark>detection<\/mark> of corpses would be invaluable to the Necromancers of Skyrim....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "detection",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...admit that even a large community of vampires might easily escape <mark>detection<\/mark> in the remote wastelands, or in the subterranean labyrinths of...",
+            "fid" : "content" } ] } ] }

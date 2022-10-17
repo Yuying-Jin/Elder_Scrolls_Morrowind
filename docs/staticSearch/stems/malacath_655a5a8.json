@@ -1,0 +1,49 @@
+
+  { "stem" : "malacath",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Malacath",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "Created by the Daedra Lord <mark>Malacath<\/mark>, this armor has the marvelous property of turning the blow...",
+            "fid" : "content" },
+          
+          { "form" : "Malacath's",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...[sic] True Name). Unfortunately, like many of <mark>Malacath's<\/mark> gifts, the armor is a mixed blessing. It also...",
+            "fid" : "content" },
+          
+          { "form" : "Malacath",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : "...instance, the Armor of the Savior's Hide, forged by <mark>Malacath<\/mark> -- are sufficient to protect a mortal or immortal bearer from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Malacath",
+            "weight" : "1",
+            "pos" : 6834,
+            "context" : "<mark>Malacath<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "malacath",
+            "weight" : "1",
+            "pos" : 6951,
+            "context" : "<mark>malacath<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

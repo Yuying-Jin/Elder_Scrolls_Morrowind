@@ -1,0 +1,14 @@
+
+  { "stem" : "proceed",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "proceed",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "\"The Test of Disorder requires the observer to <mark>proceed<\/mark> systematically when no pattern is perceived. When the observer recognizes...",
+            "fid" : "content" } ] } ] }

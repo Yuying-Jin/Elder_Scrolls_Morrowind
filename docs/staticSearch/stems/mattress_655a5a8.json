@@ -1,0 +1,14 @@
+
+  { "stem" : "mattress",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mattress",
+            "weight" : "1",
+            "pos" : 787,
+            "context" : "...own bed was wonderfully soft and warm compared to the dreadful <mark>mattress<\/mark> he had to use at the canton in Tel Aruhn....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "berat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "berate",
+            "weight" : "1",
+            "pos" : 478,
+            "context" : "...had a face like a dreugh and as she began to <mark>berate<\/mark> him for taking his time, he realized that she had...",
+            "fid" : "content" } ] } ] }

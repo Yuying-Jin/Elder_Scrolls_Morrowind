@@ -1,0 +1,36 @@
+
+  { "stem" : "tourist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tourists",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "...Fane and the palace of Vivec are visited by hundreds of <mark>tourists<\/mark> and pilgrims daily. Citizens flock to the Arena for public...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tourists",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...Fane and the palace of Vivec are visited by hundreds of <mark>tourists<\/mark> and pilgrims daily. Citizens flock to the Arena for entertainments...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tourist",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...sigh. \"My dear friends, we aren't mugging some Nord <mark>tourist<\/mark> fresh off the ferry. The Cobblers Guildhall may not sound...",
+            "fid" : "content" } ] } ] }

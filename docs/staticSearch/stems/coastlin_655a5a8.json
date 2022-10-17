@@ -1,0 +1,14 @@
+
+  { "stem" : "coastlin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coastline",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...as the mainland,\" said Harithoel. \"I can't see the <mark>coastline<\/mark> at all. But that's not all. I haven't found anything edible...",
+            "fid" : "content" } ] } ] }

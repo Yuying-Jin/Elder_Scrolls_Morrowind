@@ -1,0 +1,30 @@
+
+  { "stem" : "fa-nuit-hen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fa-Nuit-Hen",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...eighth Daedroth came, and he was a Demiprince, called <mark>Fa-Nuit-Hen<\/mark>, or the Multiplier of Motions Known. And Fa-...",
+            "fid" : "content" },
+          
+          { "form" : "Fa-Nuit-Hen",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "...-Hen, or the Multiplier of Motions Known. And <mark>Fa-Nuit-Hen<\/mark> said:",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fa-Nuit-Hen",
+            "weight" : "1",
+            "pos" : 6556,
+            "context" : "<mark>Fa-Nuit-Hen<\/mark>" } ] } ] }

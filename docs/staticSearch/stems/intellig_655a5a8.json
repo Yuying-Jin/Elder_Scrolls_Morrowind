@@ -1,0 +1,66 @@
+
+  { "stem" : "intellig",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "intelligent",
+            "weight" : "1",
+            "pos" : 346,
+            "context" : "The word went out quickly throughout Morrowind: the most <mark>intelligent<\/mark> man alive was in the province. Oin went to visit...",
+            "fid" : "content" },
+          
+          { "form" : "intelligence",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "\"Her lady Benitah has heard of the <mark>intelligence<\/mark> of Kena Zombel Mokafa, and has said that she was...",
+            "fid" : "content" },
+          
+          { "form" : "intelligence",
+            "weight" : "1",
+            "pos" : 368,
+            "context" : "...was mistaken. She was not looking for a man of <mark>intelligence<\/mark> to marry, but a man of endurance, a rock...",
+            "fid" : "content" },
+          
+          { "form" : "intelligent",
+            "weight" : "1",
+            "pos" : 707,
+            "context" : "\"You don't wish to marry the strongest, most <mark>intelligent<\/mark>, toughest, most agile suitors?\" asked the old Healer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "intelligence",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...nobles, many assume they accept only candidates of the highest <mark>intelligence<\/mark> and willpower.",
+            "fid" : "content" },
+          
+          { "form" : "intelligence",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "Not true. Telvanni accept candidates of modest <mark>intelligence<\/mark> and willpower.",
+            "fid" : "content" },
+          
+          { "form" : "intelligence",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "...It is true that advancement in Telvanni ranks depends on high <mark>intelligence<\/mark> and willpower, and that candidates proficient in the arts of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "intelligence",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "...ability to follow directions seems to be related to the subject's <mark>intelligence<\/mark> in life. While raising the corpse of a man,...",
+            "fid" : "content" } ] } ] }

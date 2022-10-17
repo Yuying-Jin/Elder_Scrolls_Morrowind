@@ -1,0 +1,36 @@
+
+  { "stem" : "prosper",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prosperity",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : "...the other races, and to share in the growth and <mark>prosperity<\/mark> of the Empire. Hlaalu public buildings—tradehouses and craft...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prosperous",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "..., \"Arnie, how can I become a flash and <mark>prosperous<\/mark> fellow like you?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prospering",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...from southeastern Morrowind, but there are also some new and <mark>prospering<\/mark> farms and plantations in the Ascadian Isles. saltrice occasionally grows...",
+            "fid" : "content" } ] } ] }

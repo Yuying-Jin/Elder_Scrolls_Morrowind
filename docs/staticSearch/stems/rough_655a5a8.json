@@ -1,0 +1,36 @@
+
+  { "stem" : "rough",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "roughly",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...and council halls—are designed as simple multi-storied buildings <mark>roughly<\/mark> rectangular in plan, featuring arched entranceways and modest decorated exteriors...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rough",
+            "weight" : "1",
+            "pos" : 785,
+            "context" : "...village on western Vvardenfell in the Bitter Coast region. A <mark>rough<\/mark> track along the River Odai connects Hla Oad with the town...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rough",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...sneered, slamming down his flagon of greef violently on the <mark>rough<\/mark>-hewn table. \"B'vek, what do you want us...",
+            "fid" : "content" } ] } ] }

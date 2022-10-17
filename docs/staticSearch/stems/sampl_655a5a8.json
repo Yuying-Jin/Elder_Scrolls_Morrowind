@@ -1,0 +1,14 @@
+
+  { "stem" : "sampl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sampling",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "\"You're <mark>sampling<\/mark> the merchandise?\" asked Harithoel angrily.",
+            "fid" : "content" } ] } ] }

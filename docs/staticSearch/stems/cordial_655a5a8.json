@@ -1,0 +1,14 @@
+
+  { "stem" : "cordial",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cordial",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...in Sadrith Mora for acceptance in House Telvanni can expect a <mark>cordial<\/mark> welcome.",
+            "fid" : "content" } ] } ] }

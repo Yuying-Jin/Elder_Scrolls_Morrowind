@@ -1,0 +1,857 @@
+
+  { "stem" : "redoran",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 42,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 499,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 3",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 508,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 585,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 607,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 617,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 633,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 6",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 764,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 924,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "redoran",
+            "weight" : "1",
+            "pos" : 1091,
+            "context" : "ald'ruhn, <mark>redoran<\/mark> council entrance",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 2604,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 2895,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 2968,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 3199,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 8",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "redoran",
+            "weight" : "1",
+            "pos" : 3240,
+            "context" : "<mark>redoran<\/mark> council entrance",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "redoran",
+            "weight" : "1",
+            "pos" : 3249,
+            "context" : "<mark>redoran<\/mark> treasury",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4027,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4479,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "redoran",
+            "weight" : "1",
+            "pos" : 4672,
+            "context" : "vivec, <mark>redoran<\/mark> records",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "redoran",
+            "weight" : "1",
+            "pos" : 4680,
+            "context" : "vivec, <mark>redoran<\/mark> treasury",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4946,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5010,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5039,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "redoran",
+            "weight" : "1",
+            "pos" : 5165,
+            "context" : "<mark>redoran<\/mark> council chamber",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5267,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5389,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5427,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5895,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 6",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5938,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 14",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "redoran",
+            "weight" : "1",
+            "pos" : 5964,
+            "context" : "<mark>redoran<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "redoran",
+            "weight" : "1",
+            "pos" : 5982,
+            "context" : "house <mark>redoran<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 6004,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 6094,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 15",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 6375,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 6870,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 7044,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 7093,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 5",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 7589,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 6",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 7623,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 40,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 3" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 335,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 415,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 437,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 447,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 463,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 6" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 590,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 717,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 859,
+            "context" : "Ald'ruhn, <mark>Redoran<\/mark> Council Entrance" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 2433,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 2726,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 2802,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 3026,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 8" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 3069,
+            "context" : "<mark>Redoran<\/mark> Council Entrance" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 3078,
+            "context" : "<mark>Redoran<\/mark> Treasury" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 3826,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4340,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4498,
+            "context" : "Vivec, <mark>Redoran<\/mark> Records" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4506,
+            "context" : "Vivec, <mark>Redoran<\/mark> Treasury" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4828,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4887,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 4" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 4916,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5019,
+            "context" : "<mark>Redoran<\/mark> Council Chamber" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5084,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5192,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5233,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5647,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 6" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5672,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 14" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5699,
+            "context" : "House <mark>Redoran<\/mark>" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5717,
+            "context" : "<mark>Redoran<\/mark>" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5738,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 5814,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 15" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 6305,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 3" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 6757,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 6960,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 5" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 7450,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 6" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 7489,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 2" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 7643,
+            "context" : "<mark>Redoran<\/mark> Cooking Secrets, count: 1" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 11,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "<mark>Redoran<\/mark> Council Entrance: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "Red Book of Great House <mark>Redoran<\/mark>",
+            "fid" : "HouseRedoran" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...[The Red Book is a yearbook of the affairs of the <mark>Redoran<\/mark> Council of Vvardenfell District for 3E 426. It lists the...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "Councilors of House <mark>Redoran<\/mark>, Vvardenfell District, Imperial Era 426",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...Bolvyn Venim, by Grace of Almsivi, Chief Councilor of <mark>Redoran<\/mark> Council, Vvardenfell District, Lord Ald'ruhn of Bolvyn Manor,...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...Miner Arobar, by Grace of Almsivi, Honored Councilor of <mark>Redoran<\/mark> Council, Vvardenfell District, Lord of North Gash, of...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...Hlaren Ramoran, by Grace of Almsivi, Honored Councilor of <mark>Redoran<\/mark> Council, Vvardenfell District, Lord of West Gash, of...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...Brara Morvayn, by Grace of Almsivi, Honored Councilor of <mark>Redoran<\/mark> Council, Vvardenfell District, Lady of Maar Gan, of...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...Athyn Sarethi, by Grace of Almsivi, Honored Councilor of <mark>Redoran<\/mark> Council, Vvardenfell District, Lord of South Gash, of...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...Garisa Llethri, by Grace of Almsivi, Honored Councilor of <mark>Redoran<\/mark> Council, Vvardenfell District, Lord of The northern Ashlands,...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...and organized crime have become increasingly aggressive and violent in the <mark>Redoran<\/mark> House Districts. The councilors blame local corruption, weakened enforcement...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...four cantons grouped together at the center of the cross -- <mark>Redoran<\/mark> Compound northwest, Arena northeast, St. Delyn's Canton southwest...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : " <mark>Redoran<\/mark> Compound",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 398,
+            "context" : " <mark>Redoran<\/mark> Compound is the canton south of the Foreign Quarter, west...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 407,
+            "context" : "...Quarter, west of and next to the Arena. The <mark>Redoran<\/mark> administrative center there includes the Redoran Treasury, Hall of Records...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 411,
+            "context" : "...to the Arena. The Redoran administrative center there includes the <mark>Redoran<\/mark> Treasury, Hall of Records, and Holding Cells. On...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 419,
+            "context" : "..., and Holding Cells. On the lowest tier is a <mark>Redoran<\/mark> shrine and ancestral vaults. Two noble families, the Savens...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 441,
+            "context" : "...trainers, and the Flowers of Gold cornerclub provides lodgings for <mark>Redoran<\/mark> kin and retainers.",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 449,
+            "context" : " The Arena Compound lies between the <mark>Redoran<\/mark> compound on the west and the Telvanni compound on the east...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "...is ruled by five Great Houses: House Hlaalu, House <mark>Redoran<\/mark>, House Telvanni, House Indoril, and House Dres....",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...on Vvardenfell identify themselves by their traditional colors: red for <mark>Redoran<\/mark>, yellow for Hlaalu, and brown for Telvanni. Thus...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "House <mark>Redoran<\/mark> is one of the three Dunmer Great Houses with holdings on...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...the three Dunmer Great Houses with holdings on Vvardenfell. The <mark>Redoran<\/mark> prize the virtues of duty, gravity, and piety....",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : ".... A light, careless life is not worth living. <mark>Redoran<\/mark> settlements are designed in the Dunmer village style, built of...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...the landscape and by the shells of giant native insects. <mark>Redoran<\/mark> villages are typically centered on Temple compounds and their courtyards,...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...in the West Gash village of Gnisis. Ald'ruhn, the <mark>Redoran<\/mark> district seat, is exceptional, with its distinctive feature being...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "Ald'ruhn, <mark>Redoran<\/mark> Council Entrance: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : " Ald'ruhn is the district seat of House <mark>Redoran<\/mark>, and one of the largest settlements on Vvardenfell. The...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : " Ald'ruhn town is a large settlement in the <mark>Redoran<\/mark> village style, built of local materials, with organic curves...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...a central dome, from which radiate the entrances to the <mark>Redoran<\/mark> Council chambers, the manors of the Redoran councilors, and...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...entrances to the Redoran Council chambers, the manors of the <mark>Redoran<\/mark> councilors, and shops of a few upscale merchants.",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : " House <mark>Redoran<\/mark> services are in the Council House and Councilor's Manors of Ald'ruhn...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : " All six <mark>Redoran<\/mark> councilors, Brara Morvayn, Hlaren Ramoran, Athyn Sarethi,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : "...permanent Ashlands settlement; Ald'ruhn, the district seat of House <mark>Redoran<\/mark>, is on the margin of the region. Ashlanders hunt...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 943,
+            "context" : "...refuge at the outpost's hostels, comforted by the garrison of <mark>Redoran<\/mark> and Buoyant Armiger crusaders stationed at the stronghold.",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 1162,
+            "context" : " Ald'ruhn is the district seat of House <mark>Redoran<\/mark>, and a large settlement. The Redoran Council Chamber are...",
+            "fid" : "content" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 1165,
+            "context" : "...seat of House Redoran, and a large settlement. The <mark>Redoran<\/mark> Council Chamber are located inside the shell of an ancient extinct...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "Vivec, <mark>Redoran<\/mark> Records: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "Vivec, <mark>Redoran<\/mark> Treasury: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 340,
+            "context" : "...political reasons House Telvanni has chosen to reduce its reliance on <mark>Redoran<\/mark> mercenaries for protection and security, it has been forced to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "<mark>Redoran<\/mark> Records: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 670,
+            "context" : "...have the greatest respect for the high moral principles of House <mark>Redoran<\/mark> and the Morag Tong, and honors their different but noble...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "The <mark>Redoran<\/mark> may surpass us on the field of battle, but when...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Redoran",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...local guard units of the Temple and Great Houses Hlaalu, <mark>Redoran<\/mark>, and Telvanni.",
+            "fid" : "content" } ] } ] }

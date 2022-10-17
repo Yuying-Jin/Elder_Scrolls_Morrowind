@@ -1,0 +1,14 @@
+
+  { "stem" : "amaz",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "amazing",
+            "weight" : "1",
+            "pos" : 595,
+            "context" : "\"Ah, behold the power of the <mark>amazing<\/mark> Funcrazot Priif,\" said the afore-mentioned, and prompted...",
+            "fid" : "content" } ] } ] }

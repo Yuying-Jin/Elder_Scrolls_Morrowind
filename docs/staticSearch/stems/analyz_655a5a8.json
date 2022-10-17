@@ -1,0 +1,14 @@
+
+  { "stem" : "analyz",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "analyze",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "\"The Test of Pattern requires the observer to examine and <mark>analyze<\/mark> for patterns before he acts, with the understanding that many...",
+            "fid" : "content" } ] } ] }

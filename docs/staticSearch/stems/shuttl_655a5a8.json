@@ -1,0 +1,14 @@
+
+  { "stem" : "shuttl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shuttle",
+            "weight" : "1",
+            "pos" : 635,
+            "context" : "...and the Foreign Quarter of Vivec. Low-fare gondolas <mark>shuttle<\/mark> passengers from canton to canton via Vivec's canals.",
+            "fid" : "content" } ] } ] }

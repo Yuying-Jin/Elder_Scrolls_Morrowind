@@ -1,0 +1,14 @@
+
+  { "stem" : "ack",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ack'",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "...reaching the last page of the book, the words 'Boat <mark>Ack'<\/mark>, are seen scrawled about the margin in a vandalistic manner...",
+            "fid" : "content" } ] } ] }

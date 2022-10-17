@@ -1,0 +1,14 @@
+
+  { "stem" : "reward",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rewards",
+            "weight" : "1",
+            "pos" : 472,
+            "context" : "...It is difficult and sometimes dangerous work, but the spiritual <mark>rewards<\/mark> are great. Lay healers need only the skills of the...",
+            "fid" : "content" } ] } ] }

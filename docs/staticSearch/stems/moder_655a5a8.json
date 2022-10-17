@@ -1,0 +1,14 @@
+
+  { "stem" : "moder",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "moderate",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...large plantations. The climate is temperate and comfortable, with <mark>moderate<\/mark> rainfall.",
+            "fid" : "content" } ] } ] }

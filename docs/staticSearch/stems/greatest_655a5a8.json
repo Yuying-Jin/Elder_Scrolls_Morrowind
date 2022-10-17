@@ -1,0 +1,109 @@
+
+  { "stem" : "greatest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "..., but a man of endurance, a rock. The <mark>greatest<\/mark> in all Morrowind.\"",
+            "fid" : "content" },
+          
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 518,
+            "context" : "...but a man of agility, a nimble acrobat. The <mark>greatest<\/mark> in all Morrowind.\"",
+            "fid" : "content" },
+          
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 529,
+            "context" : "...Funcrazot Priif,\" said Yakin. \"They say he is the <mark>greatest<\/mark> shield-blocker and pickpocket in Morrowind.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...guardians of Morrowind who walked the earth, defeated the Dunmer's <mark>greatest<\/mark> enemies, the Nords and the Dwarves, and achieved divine...",
+            "fid" : "content" },
+          
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : ".... Like generous relatives, they share their bounty among the <mark>greatest<\/mark> and least, according to their needs.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...or in a swamp or marsh. Animals are the Necromancer's <mark>greatest<\/mark> allies when it comes to stripping the flesh from a corpse...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 664,
+            "context" : " The Imperial cults have the <mark>greatest<\/mark> respect for the high moral principles of House Redoran and the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Greatest",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...by the Empire's new policies, rising from obscurity as the <mark>Greatest<\/mark> of the Houses.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...Chimere was condemned to live forever among the ruins of his <mark>greatest<\/mark> ambition.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 580,
+            "context" : "Now I teach them the <mark>greatest<\/mark> lesson of all, thought Lledos as he sloshed through the labyrinthine...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greatest",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...and Sotha Sil in the murder of Lord Nerevar, the <mark>greatest<\/mark> of Dunmer heroes and generals. The story is derived from...",
+            "fid" : "content" } ] } ] }

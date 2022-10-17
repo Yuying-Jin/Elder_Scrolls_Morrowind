@@ -1,0 +1,14 @@
+
+  { "stem" : "lest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lest",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "\"...but take care, <mark>lest<\/mark> power enfeeble the fundaments, and curtail the flow through the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "exchang",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exchange",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : "...services of our Art in defense of his young nation in <mark>exchange<\/mark> for disposing of the Orcish dead. A mutually beneficial arrangement...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exchange",
+            "weight" : "1",
+            "pos" : 758,
+            "context" : "...Kena Yakin Bael and learned how to fortify his personality in <mark>exchange<\/mark> for next season's worth of willow anther. Then they lived...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "worshipp",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worshippers",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "...longer acts in the best interests of the Temple or its <mark>worshippers<\/mark>. The Dissident priests believe the Archcanon and Ordinators speak for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worshippers",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "...longer acts in the best interests of the Temple or its <mark>worshippers<\/mark>. The Dissident priests believe the Archcanon and Ordinators speak for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worshipper",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "..., extremely intimate and personal. In ancestor cults, the <mark>worshipper<\/mark> has a direct relationship with a blood family ancestor spirit,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worshipper",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...be gained shall be listed herein for the edification of the <mark>worshipper<\/mark> and pilgrim.",
+            "fid" : "content" } ] } ] }

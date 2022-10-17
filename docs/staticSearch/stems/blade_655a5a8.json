@@ -1,0 +1,121 @@
+
+  { "stem" : "blade",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...look a look at his sad, cut-rate iron <mark>blade<\/mark>, and prayed to the saints.",
+            "fid" : "content" },
+          
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...robes, and smiled upon him, \"Baranat, put down your <mark>blade<\/mark> and I will make you swifter than bolt of lightning.\"...",
+            "fid" : "content" },
+          
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "Baranat dropped his <mark>blade<\/mark> and ran at Vanis, moving so fast he didn't rustle...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...citizenship. Troopers are expected to demonstrate mastery of the long <mark>blade<\/mark>, the spear and blunt weapons. Legion troops train with...",
+            "fid" : "long sword" },
+          
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...As a trooper or knight, you must master the long <mark>blade<\/mark>, spear, and blunt weapons. You must block whatever...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...with her legs. Master Mearvis will take a simple ebony <mark>blade<\/mark> --\"",
+            "fid" : "content" },
+          
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 531,
+            "context" : "...latest realization of acrobacy when Master Mearvis takes a simple ebony <mark>blade<\/mark> and juggles it in one hand and a handful of marshmerrow...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...of Egroamaro, living and undead. With his enchanted ebony <mark>blade<\/mark>, he cut through legions before facing the master himself in...",
+            "fid" : "content" },
+          
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...hall, before dispatching the battlemage with one stroke of his <mark>blade<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bladed",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "...Vehk, and find the face behind the splendor of my <mark>bladed<\/mark> carriage, for in it is delivered the unmixed conflict path...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blades",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...and healthy. A candidate must have some proficiency with long <mark>blades<\/mark>, axes, blunt weapons, and shields. Guildsmen must...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blade",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...altar, and gazed in the reflection of my own sword <mark>blade<\/mark> at my own face - no longer a blood-seeking...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blades",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...best to fight quickly in comfortable, light armors with short <mark>blades<\/mark>, or to fight from a distance with a marksman's weapons...",
+            "fid" : "content" } ] } ] }

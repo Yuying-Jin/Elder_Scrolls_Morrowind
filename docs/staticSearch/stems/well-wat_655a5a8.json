@@ -1,0 +1,14 @@
+
+  { "stem" : "well-wat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "well-watered",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...The Ascadian Isles is a region of lush, green, <mark>well-watered<\/mark> southern lowlands where most of Vvardenfell's agriculture is found. The...",
+            "fid" : "content" } ] } ] }

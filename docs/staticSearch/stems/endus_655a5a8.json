@@ -1,0 +1,48 @@
+
+  { "stem" : "endus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Endusal",
+            "weight" : "1",
+            "pos" : 1680,
+            "context" : "<mark>Endusal<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "endusal",
+            "weight" : "1",
+            "pos" : 1851,
+            "context" : "<mark>endusal<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Endusal",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Endusal<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Endusal",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "<mark>Endusal<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "flow",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flow",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "Rumors <mark>flow<\/mark> from the House of Troubles.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flow",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...care, lest power enfeeble the fundaments, and curtail the <mark>flow<\/mark> through the Congeries, except when functions be warranted. And...",
+            "fid" : "content" } ] } ] }

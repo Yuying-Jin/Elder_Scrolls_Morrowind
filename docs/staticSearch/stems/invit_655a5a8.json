@@ -1,0 +1,36 @@
+
+  { "stem" : "invit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "invitation",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...the game is really open to all, you don't need an <mark>invitation<\/mark>. And it is a game, the game of bargaining...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "invited",
+            "weight" : "1",
+            "pos" : 609,
+            "context" : "...Imperial cult missions. Only members of the higher ranks are <mark>invited<\/mark> to assist the Oracle, and the challenges require the skill...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "invited",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...and all the other Houses on the other. Dwemer and Dagoth <mark>invited<\/mark> Orc and Nord clans as allies, and held northwest Morrowind...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "there",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "there's",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "...said Lledos, \"Is the lack of technique. I know <mark>there's<\/mark> no honor among thieves, and there never was, but there...",
+            "fid" : "content" },
+          
+          { "form" : "there's",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...playing a violin. It requires little effort, and while <mark>there's<\/mark> quite a bit of blood, it all jets forward away...",
+            "fid" : "content" },
+          
+          { "form" : "There's",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "<mark>There's<\/mark> no reason when one knows one is going to be slitting...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "there's",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : " Sadrith Mora is an island; <mark>there's<\/mark> no road or bridge to the mainland. To visit the...",
+            "fid" : "content" } ] } ] }

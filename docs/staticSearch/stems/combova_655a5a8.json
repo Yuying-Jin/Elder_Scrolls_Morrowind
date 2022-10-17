@@ -1,0 +1,55 @@
+
+  { "stem" : "combova",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Combova",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "\"I would say, Master <mark>Combova<\/mark>,\" said Yakin. \"They say he can stand in blue...",
+            "fid" : "content" },
+          
+          { "form" : "Combova",
+            "weight" : "1",
+            "pos" : 436,
+            "context" : "...and expelling it. The lesson learned, he came across Master <mark>Combova<\/mark> at the Madach Tradehouse&gt;.",
+            "fid" : "content" },
+          
+          { "form" : "Combova",
+            "weight" : "1",
+            "pos" : 441,
+            "context" : "\"My name is Master <mark>Combova<\/mark>,\" said the fellow, nudging the witch next to him....",
+            "fid" : "content" },
+          
+          { "form" : "Combova",
+            "weight" : "1",
+            "pos" : 460,
+            "context" : "\"Master <mark>Combova<\/mark>, my name is Master Vomph,\" said Oin. \"Kena...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Combova",
+            "weight" : "1",
+            "pos" : 6843,
+            "context" : "Master_<mark>Combova<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "combova",
+            "weight" : "1",
+            "pos" : 6502,
+            "context" : "master <mark>combova<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,101 @@
+
+  { "stem" : "orc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Orcs",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : " How many <mark>Orcs<\/mark> does it take to light a torch?",
+            "fid" : "content" },
+          
+          { "form" : "orc",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : " Depends. Is an <mark>orc<\/mark> is [sic] doing the counting?",
+            "fid" : "content" },
+          
+          { "form" : "Orc",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "an <mark>Orc<\/mark> Acrobat",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Orc",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...formed Orsinium presents a unique opportunity. As you know, <mark>Orc<\/mark> corpses are among the most sought after for the durability of...",
+            "fid" : "content" },
+          
+          { "form" : "Orcs",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...Orcish dead. A mutually beneficial arrangement as I'm sure the <mark>Orcs<\/mark> will agree. To this end, a delegation has been...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Orc",
+            "weight" : "1",
+            "pos" : 5613,
+            "context" : "<mark>Orc<\/mark>" },
+          
+          { "form" : "Orcs",
+            "weight" : "1",
+            "pos" : 5629,
+            "context" : "<mark>Orcs<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "orc",
+            "weight" : "1",
+            "pos" : 5861,
+            "context" : "<mark>orc<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "orcs",
+            "weight" : "1",
+            "pos" : 5877,
+            "context" : "<mark>orcs<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Orc",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "I'm Glad I'm Not No <mark>Orc<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Orc",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...all the other Houses on the other. Dwemer and Dagoth invited <mark>Orc<\/mark> and Nord clans as allies, and held northwest Morrowind,...",
+            "fid" : "content" } ] } ] }

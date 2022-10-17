@@ -1,0 +1,14 @@
+
+  { "stem" : "offici",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "officials",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...of Western vampire hunting orders. Nonetheless, interviews with Temple <mark>officials<\/mark> persuade me that the Dunmer of Morrowind are experienced and knowledgeable...",
+            "fid" : "content" } ] } ] }

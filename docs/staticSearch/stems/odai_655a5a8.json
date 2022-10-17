@@ -1,0 +1,37 @@
+
+  { "stem" : "odai",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Odai",
+            "weight" : "1",
+            "pos" : 789,
+            "context" : "...the Bitter Coast region. A rough track along the River <mark>Odai<\/mark> connects Hla Oad with the town of Balmora.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Odai",
+            "weight" : "1",
+            "pos" : 3129,
+            "context" : "River <mark>Odai<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "odai",
+            "weight" : "1",
+            "pos" : 3298,
+            "context" : "river <mark>odai<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

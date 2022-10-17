@@ -1,0 +1,37 @@
+
+  { "stem" : "kudanat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kudanat",
+            "weight" : "1",
+            "pos" : 2407,
+            "context" : "<mark>Kudanat<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kudanat",
+            "weight" : "1",
+            "pos" : 2576,
+            "context" : "<mark>kudanat<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kudanat",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "<mark>Kudanat<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

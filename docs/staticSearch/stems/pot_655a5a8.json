@@ -1,0 +1,48 @@
+
+  { "stem" : "pot",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pot",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...Gate and the silt strider port. The Rat in the <mark>Pot<\/mark> cornerclub is in south Ald'ruhn, near the guildhalls.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pot",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "The Rat in the <mark>Pot<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pot",
+            "weight" : "1",
+            "pos" : 4090,
+            "context" : "The Rat in the <mark>Pot<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pot",
+            "weight" : "1",
+            "pos" : 4241,
+            "context" : "the rat in the <mark>pot<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

@@ -1,0 +1,93 @@
+
+  { "stem" : "perhap",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...and unlooked-for path. Have you these virtues? Then, <mark>perhaps<\/mark>, your oath and service may please the Morag Tong....",
+            "fid" : "content" },
+          
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...no longer feel? Do you wear these masks? Then, <mark>perhaps<\/mark>, your oath and service may please the Black Glove....",
+            "fid" : "content" },
+          
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...the dead. Are you one with these things? Then, <mark>perhaps<\/mark>, your oath and service may please Mephala.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "“Perhaps",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "<mark>“Perhaps<\/mark> you can help me then,” said Silverthorn, suddenly excited....",
+            "fid" : "content" },
+          
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : ".... “You might find Invisibility very helpful as well, or <mark>perhaps<\/mark> Darkness which would allow you to sneak up on old Egroamaro...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Perhaps",
+            "weight" : "1",
+            "pos" : 604,
+            "context" : "...road to Vivec, he thought of Galsiah and Imalyn. <mark>Perhaps<\/mark> they had been caught and brought in for questioning already....",
+            "fid" : "content" },
+          
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 692,
+            "context" : "...attention. They would take a couple flagons of greef, <mark>perhaps<\/mark> order a meal -- a big one -- and wait....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...assuming that I could find it elsewhere in the region, <mark>perhaps<\/mark> at a larger town at a better price. Too late...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "..., I visited my former post at Bal Ur, hoping <mark>perhaps<\/mark> to atone in some for my crimes by preying upon its...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "perhaps",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...a very profitable but risky path to success. Chimere was <mark>perhaps<\/mark> the cleverest and most ambitious of the Direnni summoners. He...",
+            "fid" : "content" } ] } ] }

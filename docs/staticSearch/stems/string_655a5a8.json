@@ -1,0 +1,14 @@
+
+  { "stem" : "string",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "string",
+            "weight" : "1",
+            "pos" : 359,
+            "context" : "...sack over the targets [sic] head, drawing the <mark>string<\/mark> tight, and then supplying the killing blow or blows.\"...",
+            "fid" : "content" } ] } ] }

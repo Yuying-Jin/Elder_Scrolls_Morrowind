@@ -1,0 +1,48 @@
+
+  { "stem" : "ocean",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ocean",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "Then Ayem threw the netchiman's wife into the <mark>ocean<\/mark> water where dreughs took her into castles of glass and coral...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ocean",
+            "weight" : "1",
+            "pos" : 2919,
+            "context" : "Padomaic_<mark>Ocean<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ocean",
+            "weight" : "1",
+            "pos" : 3092,
+            "context" : "padomaic <mark>ocean<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ocean",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...in the lava of Dagoth Ur like it was the Padomaic <mark>Ocean<\/mark>. Baranat thought of his own tolerance for pain, which...",
+            "fid" : "content" } ] } ] }

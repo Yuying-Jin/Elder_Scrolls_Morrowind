@@ -1,0 +1,25 @@
+
+  { "stem" : "sell",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "selling",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...ignorant and easily fooled, or the rapacious city merchant is <mark>selling<\/mark> shoddy merchandise. Caravans, it should be mentioned, are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sell",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...turned into summer and summer into fall, Oin began to <mark>sell<\/mark> his herbs, including some to Kena Kena Yakin Bael,...",
+            "fid" : "content" } ] } ] }

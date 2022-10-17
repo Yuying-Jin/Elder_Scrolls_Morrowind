@@ -1,0 +1,36 @@
+
+  { "stem" : "judgement",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "judgement",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...their divine powers and immortality are ultimately conferred as a communal <mark>judgement<\/mark> by the Dunmer ancestors [ including, among others, the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "judgement",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...their divine powers and immortality are ultimately conferred as a communal <mark>judgement<\/mark> by the Dunmer ancestors [ including, among others, the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "judgement",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...do not think of their actions as under constant review and <mark>judgement<\/mark> by their gods; the Dunmer feel that all they think...",
+            "fid" : "content" } ] } ] }

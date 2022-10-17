@@ -1,0 +1,104 @@
+
+  { "stem" : "rock",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "rock",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...there were no springs under the island, just sand and <mark>rock<\/mark>. S'Riizh felt panic seizing his soul, until he saw...",
+            "fid" : "content" },
+          
+          { "form" : "rocks",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...was a pathetic predator and he was soon reduced to hurling <mark>rocks<\/mark> at the alert and nimble little fish.",
+            "fid" : "content" },
+          
+          { "form" : "rock",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "S'Riizh laughed: \"Do you want a <mark>rock<\/mark>?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rock",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "In my native High <mark>Rock<\/mark>, traditions dating back to the witch kings and nomadic horsemen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rock",
+            "weight" : "1",
+            "pos" : 2192,
+            "context" : "High <mark>Rock<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rock",
+            "weight" : "1",
+            "pos" : 2367,
+            "context" : "high <mark>rock<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rock",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "Arches and spires line the <mark>rock<\/mark> halls,",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rock",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "St. Llothis grants The <mark>Rock<\/mark> of Llothis, for fortifying the will.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rock",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "...intelligence to marry, but a man of endurance, a <mark>rock<\/mark>. The greatest in all Morrowind.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rocks",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...as you head towards Pelagiad. The shrine is between two <mark>rocks<\/mark>, and most easily noticed while traveling east along the road...",
+            "fid" : "content" } ] } ] }

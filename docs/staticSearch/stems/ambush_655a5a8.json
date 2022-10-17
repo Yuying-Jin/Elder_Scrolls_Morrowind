@@ -1,0 +1,14 @@
+
+  { "stem" : "ambush",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ambush",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...while the swift and agile Berne clan vampires prefer stealth and <mark>ambush<\/mark>, first poisoning the victim with a bite, then withdrawing...",
+            "fid" : "content" } ] } ] }

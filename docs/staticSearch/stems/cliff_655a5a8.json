@@ -1,0 +1,14 @@
+
+  { "stem" : "cliff",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cliff",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...and Red Mountain regions. racer plumes are plucked from dead <mark>cliff<\/mark> racers. coda flowers are collected from the primitive draggle-...",
+            "fid" : "content" } ] } ] }

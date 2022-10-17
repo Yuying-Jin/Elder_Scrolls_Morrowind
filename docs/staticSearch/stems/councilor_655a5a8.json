@@ -1,0 +1,262 @@
+
+  { "stem" : "councilor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Councilors",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "<mark>Councilors<\/mark> of House Redoran, Vvardenfell District, Imperial Era 426",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...Archmaster Lord Bolvyn Venim, by Grace of Almsivi, Chief <mark>Councilor<\/mark> of Redoran Council, Vvardenfell District, Lord Ald'ruhn of Bolvyn...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...Master Lord Miner Arobar, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Redoran Council, Vvardenfell District, Lord of North Gash...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...Master Lord Hlaren Ramoran, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Redoran Council, Vvardenfell District, Lord of West Gash...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...Mistress Lady Brara Morvayn, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Redoran Council, Vvardenfell District, Lady of Maar Gan...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...Master Lord Athyn Sarethi, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Redoran Council, Vvardenfell District, Lord of South Gash...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "...Master Lord Garisa Llethri, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Redoran Council, Vvardenfell District, Lord of The northern...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "King Hlaalu Athyn Llethan, High <mark>Councilor<\/mark> and Lord of Morrowind, imposes favorable tariffs on flin [an...",
+            "fid" : "content" },
+          
+          { "form" : "councilors",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...increasingly aggressive and violent in the Redoran House Districts. The <mark>councilors<\/mark> blame local corruption, weakened enforcement, and aggressive competition between...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Councilors",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "<mark>Councilors<\/mark> of House Hlaalu, Vvardenfell District, Imperial Era 426",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "Mistress Velanda Omani, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Hlaalu Council, Vvardenfell District, Free Trader, Lord...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "Master Dram Bero, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Hlaalu Council, Vvardenfell District, Free Trader, Gentleman...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "Master Crassius Curio, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Hlaalu Council, Vvardenfell District, Free Trader, Curio...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...Yngling Half-Troll , by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Hlaalu Council, Vvardenfell District, Free Trader, Yngling...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "Mistress Nevena Ules, by Grace of Almsivi, Honored <mark>Councilor<\/mark> of Hlaalu Council, Vvardenfell District, Free Trader, Ules...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "King Hlaalu Athyn Llethan, High <mark>Councilor<\/mark> and Lord of Morrowind, grants relief to merchants complaining of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "councilor",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...and home of the Telvanni Council, though only one Telvanni <mark>councilor<\/mark> actually lives in Sadrith Mora. Sadrith Mora is an island...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...Tel Naga, the towering wizard-tower residence of Telvanni <mark>Councilor<\/mark> Mage-Lord Master Neloth.",
+            "fid" : "content" },
+          
+          { "form" : "councilor",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...with the Telvanni Mouths (Telvanni Mouths are spokesmen for their <mark>councilor<\/mark> mage-lords) Felisa Ulessen, Galos Mathendis, Arara...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...Raven Omayn, and Dalyne Arvel, Telvanni Council clerk. <mark>Councilor<\/mark> Mage-Lord Master Neloth lives in Tel Naga, the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Councilors",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "  <mark>Councilors<\/mark> of House Telvanni, Vvardenfell District, Imperial Era 426 Archmagister...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "..., Azura's Coast, District of Vvardenfell, Province of Morrowind <mark>Councilor<\/mark> Representatives of House Telvanni, Council Hall, Sadrith Mora For...",
+            "fid" : "content" },
+          
+          { "form" : "Councilors'",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...of Vvardenfell, they are welcome to do so, with the <mark>Councilors'<\/mark> best wishes, but Telvanni Council will not contribute its resources...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "councilors",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...to the Redoran Council chambers, the manors of the Redoran <mark>councilors<\/mark>, and shops of a few upscale merchants.",
+            "fid" : "content" },
+          
+          { "form" : "Councilor's",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : " House Redoran services are in the Council House and <mark>Councilor's<\/mark> Manors of Ald'ruhn-Under-Skar. The Ald'ruhn Temple on the...",
+            "fid" : "content" },
+          
+          { "form" : "councilors",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : " All six Redoran <mark>councilors<\/mark>, Brara Morvayn, Hlaren Ramoran, Athyn Sarethi, Garisa...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "councilor",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...higher ranks in a Great House requires that a Great House <mark>councilor<\/mark> stand as sponsor for the candidate's character and loyalty. Finding...",
+            "fid" : "content" },
+          
+          { "form" : "councilor",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...as sponsor for the candidate's character and loyalty. Finding a <mark>councilor<\/mark> to sponsor an outlander often involves performing a great service for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : " Hlaalu Compound is the westmost canton. The Hlaalu <mark>Councilor<\/mark> Crassius Curio has a splendid tier-top mansion here. The...",
+            "fid" : "content" },
+          
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 518,
+            "context" : "...on the top tier of St. Delyn, and Hlaalu <mark>Councilor<\/mark> Yngling Half-Troll has a top-tier manor on...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "councilor",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "I am a <mark>councilor<\/mark> of House Hlaalu and chose to write this short guide for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "councilor",
+            "weight" : "1",
+            "pos" : 507,
+            "context" : "...and home of the Telvanni Council, though only one Telvanni <mark>councilor<\/mark> actually lives in Sadrith Mora. Sadrith Mora is an island...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Councilor",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...For months now, he had been struggling with his fellow Telvanni <mark>Councilor<\/mark>, Master Neloth. Recently he always found himself on the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Councilors",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "(Telvanni <mark>Councilors<\/mark> do not serve on their house councils in person. Instead...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,58 @@
+
+  { "stem" : "point",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "points",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...by a circuitous western route to Caldera, Balmora, and <mark>points<\/mark> south. The road to Balmora swings northwest to avoid the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "points",
+            "weight" : "1",
+            "pos" : 559,
+            "context" : "...Compound bridge south to Ebonheart and north to Seyda Neen and <mark>points<\/mark> north. Good roads lead from the Foreign Quarter bridge west...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "points",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "EXCERPT: concerning the <mark>points<\/mark> of Temple doctrine challenged by the Dissident priests:",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "points",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "EXCERPT: concerning the <mark>points<\/mark> of Temple doctrine challenged by the Dissident priests:",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "point",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...to work. He used his small knife to whittle a <mark>point<\/mark> on a long, straight tree branch until he had fashioned...",
+            "fid" : "content" } ] } ] }

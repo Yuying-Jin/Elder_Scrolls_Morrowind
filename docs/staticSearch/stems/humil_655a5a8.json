@@ -1,0 +1,76 @@
+
+  { "stem" : "humil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Humility",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "The Fields of Kummu: Shrine of <mark>Humility<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "humility",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...the Fields of Kummu we go to pray for the same <mark>humility<\/mark> Lord Vivec showed on that day.",
+            "fid" : "content" },
+          
+          { "form" : "humility",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...leave a portion of muck at the shrine to represent Vivec's <mark>humility<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "HUMILITY",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "<mark>HUMILITY<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "humility",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "Thank you for your <mark>humility<\/mark>, Lord Vivec. I shall neither strut nor preen in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Humility",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "..., and Tiber Septim. We preach the Nine Virtues: <mark>Humility<\/mark>, Inspiration, Piety, Work, Compassion, Justice,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "humility",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...we were running for the Gateway Inn. Now, with all <mark>humility<\/mark>, I would say that no one is faster on their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "humility",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...his Dunmer people, and through his long life, his <mark>humility<\/mark>, and his unconquerable spirit, he attained the Wisdom of...",
+            "fid" : "content" } ] } ] }

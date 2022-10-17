@@ -1,0 +1,25 @@
+
+  { "stem" : "histor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Historically",
+            "weight" : "1",
+            "pos" : 713,
+            "context" : " <mark>Historically<\/mark>, our relationship with the Tribunal Temple is difficult and unfriendly...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "historical",
+            "weight" : "1",
+            "pos" : 382,
+            "context" : "...Temple, which controls access to the only substantial collection of <mark>historical<\/mark> and cultural records in Morrowind....",
+            "fid" : "content" } ] } ] }

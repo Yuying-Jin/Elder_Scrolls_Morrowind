@@ -1,0 +1,36 @@
+
+  { "stem" : "i'll",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "I'll",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "<mark>I'll<\/mark> make it twice!",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "I'll",
+            "weight" : "1",
+            "pos" : 487,
+            "context" : "...only a matter of rolling and twisting the body like so. <mark>I'll<\/mark> demonstrate it if you want.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "I'll",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...of the saints. If I run into any trouble, <mark>I'll<\/mark> call on them to aid my quest.\"",
+            "fid" : "content" } ] } ] }

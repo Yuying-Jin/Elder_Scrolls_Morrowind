@@ -1,0 +1,20 @@
+
+  { "stem" : "spar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sparring",
+            "weight" : "1",
+            "pos" : 603,
+            "context" : "...Priif,\" said the afore-mentioned, and prompted his <mark>sparring<\/mark> partner to attack him with his sword. He blocked the...",
+            "fid" : "content" },
+          
+          { "form" : "sparring",
+            "weight" : "1",
+            "pos" : 631,
+            "context" : "...the remarkable Gazouf Mough,\" said Oin, and prompted Priif's <mark>sparring<\/mark> partner to attack him with his sword. After twenty minutes...",
+            "fid" : "content" } ] } ] }

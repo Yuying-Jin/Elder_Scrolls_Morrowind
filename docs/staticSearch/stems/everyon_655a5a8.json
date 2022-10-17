@@ -1,0 +1,42 @@
+
+  { "stem" : "everyon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "everyone",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...could have predicted the storm? Who could have predicted that <mark>everyone<\/mark> would drown, from the bold captain to the mysterious figure...",
+            "fid" : "content" },
+          
+          { "form" : "everyone",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...mysterious figure with ties to one of the royal Houses, <mark>everyone<\/mark> except for S'Riizh and Harithoel. They decided that it was...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "everyone",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "Sense the moves of the game, and <mark>everyone<\/mark> can win.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "everyone",
+            "weight" : "1",
+            "pos" : 449,
+            "context" : "...good troupe, and it seemed smarter to try to save <mark>everyone<\/mark>. In any case, I lured the guards around to...",
+            "fid" : "content" } ] } ] }

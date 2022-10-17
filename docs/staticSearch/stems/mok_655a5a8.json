@@ -1,0 +1,79 @@
+
+  { "stem" : "mok",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Mok",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Gnaar <mark>Mok<\/mark>, Druegh-jigger's Rest: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Mok",
+            "weight" : "1",
+            "pos" : 696,
+            "context" : "...The western coast of Vvardenfell from Seyda Neen north to Gnaar <mark>Mok<\/mark> is called the Bitter Coast. The salt marshes and humid...",
+            "fid" : "content" },
+          
+          { "form" : "Mok",
+            "weight" : "1",
+            "pos" : 711,
+            "context" : "...with the only settlements found at the good harbors of Gnaar <mark>Mok<\/mark>, Hla Oad, and Seyda Neen. Also called the...",
+            "fid" : "content" },
+          
+          { "form" : "Mok",
+            "weight" : "1",
+            "pos" : 796,
+            "context" : " Gnaar <mark>Mok<\/mark> is a tiny island fishing village in the Bitter Coast region...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mok",
+            "weight" : "1",
+            "pos" : 1931,
+            "context" : "Gnaar <mark>Mok<\/mark>" },
+          
+          { "form" : "Mok",
+            "weight" : "1",
+            "pos" : 1938,
+            "context" : "Gnaar <mark>Mok<\/mark>, Druegh-jigger's Rest" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "mok",
+            "weight" : "1",
+            "pos" : 2105,
+            "context" : "gnaar <mark>mok<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "mok",
+            "weight" : "1",
+            "pos" : 2112,
+            "context" : "gnaar <mark>mok<\/mark>, druegh jigger's rest",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mok",
+            "weight" : "1",
+            "pos" : 367,
+            "context" : "...Caldera, and Sadrith Mora for a modest fee. Gnaar <mark>Mok<\/mark> is a LONG and exceptionally unpleasant walk west to the coast...",
+            "fid" : "content" } ] } ] }

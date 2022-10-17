@@ -1,0 +1,37 @@
+
+  { "stem" : "administr",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "administrative",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "...Hall of Wisdom and Hall of Justice contain the executive, <mark>administrative<\/mark>, judicial, and martial operations of the Tribunal Temple....",
+            "fid" : "content" },
+          
+          { "form" : "administrative",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "...a Velothi tower instead of their preferred mushroom towers. The <mark>administrative<\/mark> center includes a treasury and a hall of records. Slaves...",
+            "fid" : "content" },
+          
+          { "form" : "administrative",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "..., west of and next to the Arena. The Redoran <mark>administrative<\/mark> center there includes the Redoran Treasury, Hall of Records,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "administration",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "As a result of its close relationship with the Imperial <mark>administration<\/mark>, House Hlaalu has emerged as politically and economically dominant among...",
+            "fid" : "content" } ] } ] }

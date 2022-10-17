@@ -1,0 +1,14 @@
+
+  { "stem" : "horsemen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "horsemen",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "...Rock, traditions dating back to the witch kings and nomadic <mark>horsemen<\/mark> mandate cremation of the dead. This is practiced almost without...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,322 @@
+
+  { "stem" : "tomb",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 1709,
+            "context" : "Falas Ancestral <mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 2292,
+            "context" : "Indalen_Ancestral_<mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 2899,
+            "context" : "Orethi Ancestral <mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 3012,
+            "context" : "Ravel Ancestral <mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 3365,
+            "context" : "Sarano Ancestral <mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 3380,
+            "context" : "Sarys Ancestral <mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 3389,
+            "context" : "Savel_Ancestral_<mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 3411,
+            "context" : "Sethan_Ancestral_<mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 4037,
+            "context" : "Telvayn Ancestral <mark>Tomb<\/mark>" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 4073,
+            "context" : "Tharys_Ancestral_<mark>Tomb<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 1880,
+            "context" : "falas ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 2458,
+            "context" : "indalen ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 3072,
+            "context" : "orethi ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 3185,
+            "context" : "ravel ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 3518,
+            "context" : "sarano ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 3533,
+            "context" : "sarys ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 3542,
+            "context" : "savel ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 3564,
+            "context" : "sethan ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 4181,
+            "context" : "telvayn ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 4217,
+            "context" : "tharys ancestral <mark>tomb<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...but between worlds they linger, held to the hearth and <mark>tomb<\/mark> by blood and loyalty. And if they come unbidden,...",
+            "fid" : "content" },
+          
+          { "form" : "tombs",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...to steal the bones of your fathers and dust of your <mark>tombs<\/mark>. He seeks to bind by power what is yours by...",
+            "fid" : "content" },
+          
+          { "form" : "tombs",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...invade our shores, shall they be permitted to rob our <mark>tombs<\/mark>, to bind our kin-spirits into sorcerous slavery,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "Orethi Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "Sarano Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "Telvayn Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "Sarys Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : " Orethi Ancestral <mark>Tomb<\/mark>: Visitable? ",
+            "fid" : "acq" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "Sarano Ancestral <mark>Tomb<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "Indalen Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "Tharys Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Falas Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "...exception in the north, through an Imperial burial in a <mark>tomb<\/mark> or city cemetery is more common in the south. There...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tombs",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...temples, and in places of pilgrimage, and in the <mark>tombs<\/mark> of our ancestors.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "Ravel Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "Will it take to seal this restless <mark>tomb<\/mark>?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tomb",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...of pilgrimage, or at pilgrim waysides, or in the <mark>tomb<\/mark> of the sanctified.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "Sethan Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tomb",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Savel Ancestral <mark>Tomb<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "renown",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "renown",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...she hails from the Alik'r Desert of Hammerfell where she won <mark>renown<\/mark> for her skill at climbing sheer surfaces. You must see...",
+            "fid" : "content" } ] } ] }

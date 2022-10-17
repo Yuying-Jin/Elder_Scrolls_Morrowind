@@ -1,0 +1,25 @@
+
+  { "stem" : "confid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confident",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...that the Congeries shall not be abused by prideful wizards, <mark>confident<\/mark> in their skill and blinded by their ambitions. In this,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confidence",
+            "weight" : "1",
+            "pos" : 405,
+            "context" : "...to execute it. Not one of the three were sure whether <mark>confidence<\/mark> or stupidity were driving the other two, but the fates...",
+            "fid" : "content" } ] } ] }

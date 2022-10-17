@@ -1,0 +1,20 @@
+
+  { "stem" : "banner",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "banner",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...the Liches. Let all the nations of dead carry my <mark>banner<\/mark> and my banner alone.",
+            "fid" : "content" },
+          
+          { "form" : "banner",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...Let all the nations of dead carry my banner and my <mark>banner<\/mark> alone.",
+            "fid" : "content" } ] } ] }

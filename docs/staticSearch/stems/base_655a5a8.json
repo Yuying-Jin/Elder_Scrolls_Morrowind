@@ -1,0 +1,36 @@
+
+  { "stem" : "base",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bases",
+            "weight" : "1",
+            "pos" : 381,
+            "context" : "...control and exploit Vvardenfell's land and resources, building towers and <mark>bases<\/mark> all along the eastern coast. According to Telvanni principles,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "based",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...with their own distinctive plants and terrain features. Scholars have <mark>based<\/mark> their classifications on the different types of land described by the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "based",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...father discovered that the money they had been living on was <mark>based<\/mark> on a thief's salary, he suddenly found himself on a...",
+            "fid" : "content" } ] } ] }

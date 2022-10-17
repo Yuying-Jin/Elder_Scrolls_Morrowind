@@ -1,0 +1,36 @@
+
+  { "stem" : "plane",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "plane",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...and metal employed in the rituals that bind them to this <mark>plane<\/mark>. All bonewalkers are malevolent and dangerous, but the greater...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "plane",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...and metal employed in the rituals that bind them to this <mark>plane<\/mark>. All bonewalkers are malevolent and dangerous, but the greater...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "plane",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...remains of frost atronachs that have been banished from the mortal <mark>plane<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "rival",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rivals",
+            "weight" : "1",
+            "pos" : 366,
+            "context" : "...candidates is House Telvanni's casual acceptance of murder and assassination of <mark>rivals<\/mark> as a means to advancement. Those reluctant to prove their...",
+            "fid" : "content" } ] } ] }

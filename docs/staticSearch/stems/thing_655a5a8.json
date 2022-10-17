@@ -1,0 +1,116 @@
+
+  { "stem" : "thing",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "things",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...no pattern is perceived. When the observer recognizes that many <mark>things<\/mark> must be done, and in no specific order; the...",
+            "fid" : "content" },
+          
+          { "form" : "things",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...order; the procedure is to perceive and order all the <mark>things<\/mark> to be done, and, upon doing a thing, to...",
+            "fid" : "content" },
+          
+          { "form" : "thing",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...all the things to be done, and, upon doing a <mark>thing<\/mark>, to recall how and when that thing has been done...",
+            "fid" : "content" },
+          
+          { "form" : "thing",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...upon doing a thing, to recall how and when that <mark>thing<\/mark> has been done. For example, the observer must remember...",
+            "fid" : "content" },
+          
+          { "form" : "thing",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...example, the observer must remember the initial position of a <mark>thing<\/mark>, and also the new position of that thing.",
+            "fid" : "content" },
+          
+          { "form" : "thing",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...of a thing, and also the new position of that <mark>thing<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "things",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...-- training and tools. The help of friends includes fixing <mark>things<\/mark> with the guards at a discount rate. That's where the...",
+            "fid" : "content" },
+          
+          { "form" : "thing",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...want you and they're not very nice. They have this <mark>thing<\/mark> about outlanders. They want them all dead. So, unless...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "things",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...of Boethiah, who was the Prince of Plots, and <mark>things<\/mark> unknown and known would fold themselves around her until they were...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "things",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "...Hlaalu, and advance in the ranks, for above all <mark>things<\/mark>, House Hlaalu prizes initiative and ambition. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "“things",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...the water. 'Truly,' said one of the Guar, <mark>“things<\/mark> are not so bad as they seem. For there is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "things",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...the joy of the dead. Are you one with these <mark>things<\/mark>? Then, perhaps, your oath and service may please Mephala...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thing",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...girl he had known before all his trouble, a sweet <mark>thing<\/mark> with curly locks and a joyous laugh named Benitah Gorgoth....",
+            "fid" : "content" } ] } ] }

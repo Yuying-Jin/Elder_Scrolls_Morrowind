@@ -1,0 +1,14 @@
+
+  { "stem" : "unfriend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unfriendly",
+            "weight" : "1",
+            "pos" : 718,
+            "context" : "...Historically, our relationship with the Tribunal Temple is difficult and <mark>unfriendly<\/mark>. Though the Imperial cults acknowledges the lords and saints of...",
+            "fid" : "content" } ] } ] }

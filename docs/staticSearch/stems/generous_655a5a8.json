@@ -1,0 +1,42 @@
+
+  { "stem" : "generous",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "generous",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...at the shrines to receive their benefits. And Almsivi is <mark>generous<\/mark>, so even the Unbeliever may receive a blessing if he...",
+            "fid" : "content" },
+          
+          { "form" : "generous",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : "...if he prays, if he proves his respect with a <mark>generous<\/mark> donation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "generous",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...Like stern parents, they punish sin and error. Like <mark>generous<\/mark> relatives, they share their bounty among the greatest and least...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "generous",
+            "weight" : "1",
+            "pos" : 515,
+            "context" : "...our good works. Almoners who are successful at bringing in <mark>generous<\/mark> donations may rise in the ranks of Imperial Cults service....",
+            "fid" : "content" } ] } ] }

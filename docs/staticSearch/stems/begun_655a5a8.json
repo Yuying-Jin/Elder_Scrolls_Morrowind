@@ -1,0 +1,36 @@
+
+  { "stem" : "begun",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "begun",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...extinction. In recent years, however, vampires have either <mark>begun<\/mark> to sneak into Morrowind, or long-dormant ones have...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "begun",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "...extinction. In recent years, however, vampires have either <mark>begun<\/mark> to sneak into Morrowind, or long-dormant ones have...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "begun",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...Cycle of Blood, the old Redguard fighting style he had <mark>begun<\/mark> on day one. Airen Coribael breathed no more.",
+            "fid" : "content" } ] } ] }

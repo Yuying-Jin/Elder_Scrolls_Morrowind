@@ -1,0 +1,37 @@
+
+  { "stem" : "gwylim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gwylim",
+            "weight" : "1",
+            "pos" : 4238,
+            "context" : "University of <mark>Gwylim<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gwylim",
+            "weight" : "1",
+            "pos" : 4381,
+            "context" : "university of <mark>gwylim<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gwylim",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...used to teach the skills of Illusion at the University of <mark>Gwylim<\/mark>.”",
+            "fid" : "content" } ] } ] }

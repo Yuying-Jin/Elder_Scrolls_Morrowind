@@ -1,0 +1,137 @@
+
+  { "stem" : "mournhold",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 2792,
+            "context" : "<mark>Mournhold<\/mark>" },
+          
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 2814,
+            "context" : "<mark>Mournhold<\/mark>, Mournhold Temple: Office of the Lord Archcanon TR" },
+          
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 2815,
+            "context" : "Mournhold, <mark>Mournhold<\/mark> Temple: Office of the Lord Archcanon TR" },
+          
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 2882,
+            "context" : "Old <mark>Mournhold<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "mournhold",
+            "weight" : "1",
+            "pos" : 2961,
+            "context" : "<mark>mournhold<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "mournhold",
+            "weight" : "1",
+            "pos" : 2983,
+            "context" : "<mark>mournhold<\/mark>, mournhold temple: office of the lord archcanon tr",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "mournhold",
+            "weight" : "1",
+            "pos" : 2984,
+            "context" : "mournhold, <mark>mournhold<\/mark> temple: office of the lord archcanon tr",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "mournhold",
+            "weight" : "1",
+            "pos" : 3055,
+            "context" : "old <mark>mournhold<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "<mark>Mournhold<\/mark>, Mournhold Temple: Office of the Lord Archcanon TR:...",
+            "fid" : "acq" },
+          
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Mournhold, <mark>Mournhold<\/mark> Temple: Office of the Lord Archcanon TR: Visitable?...",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "<mark>Mournhold<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "Old <mark>Mournhold<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "<mark>Mournhold<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "<mark>Mournhold<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mournhold",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "<mark>Mournhold<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

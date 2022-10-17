@@ -1,0 +1,14 @@
+
+  { "stem" : "storag",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "storage",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "...for hundreds of spectators; beneath the Arena are dressing and <mark>storage<\/mark> rooms for entertainers and training rooms and animal pens for the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "shuffl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "shuffled",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "...Don't forget the fifth crate over by the tree.\" S'Riizh <mark>shuffled<\/mark> over to the shore and saw that the boat was only...",
+            "fid" : "content" },
+          
+          { "form" : "shuffled",
+            "weight" : "1",
+            "pos" : 442,
+            "context" : "...fortune divided by twelve, S'Riizh listened to that too.\" S'Riizh <mark>shuffled<\/mark> back to the crate by the tree. \"And it occurred...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "complic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "complicated",
+            "weight" : "1",
+            "pos" : 894,
+            "context" : "...travel is extremely difficult in this trackless wilderness, and is <mark>complicated<\/mark> by frequent ash storms. The Ashlanders of Erabenimsun camp hunt...",
+            "fid" : "content" } ] } ] }

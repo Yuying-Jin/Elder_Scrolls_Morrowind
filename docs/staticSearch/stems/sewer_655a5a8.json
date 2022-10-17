@@ -1,0 +1,14 @@
+
+  { "stem" : "sewer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sewer",
+            "weight" : "1",
+            "pos" : 550,
+            "context" : "...only person who knew the most covert route through the city's <mark>sewer<\/mark> system, Lledos, slipped in through a duct and vanished...",
+            "fid" : "content" } ] } ] }

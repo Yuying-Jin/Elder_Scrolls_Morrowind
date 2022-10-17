@@ -1,0 +1,36 @@
+
+  { "stem" : "teacher",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teacher",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "..., after a few hours of instruction, paid the old <mark>teacher<\/mark> and set off on his way. Indoranyon, Egroamaro's stronghold...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Teacher's",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "Kneel before the <mark>Teacher's<\/mark> chair.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Teacher",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...to his partners, Almalexia the Lover and Sotha Sil the <mark>Teacher<\/mark>. The poetry is simple and dramatic, lyric and personal...",
+            "fid" : "content" } ] } ] }

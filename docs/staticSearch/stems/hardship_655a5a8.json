@@ -1,0 +1,31 @@
+
+  { "stem" : "hardship",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hardships",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...for magical power, and Lady's Grace, for endurance of <mark>hardships<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "hardships",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "St. Rilms grants Rilm's Grace, for endurance of <mark>hardships<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hardships",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "..., and gain blessings and learn virtue by suffering and overcoming <mark>hardships<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "rose",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rose",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "...started to help S'Riizh to his feet, but the man <mark>rose<\/mark> on his own.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rose",
+            "weight" : "1",
+            "pos" : 425,
+            "context" : "...speed, strength, timing, and tactics as the moons <mark>rose<\/mark> and fell from the sky. But on the seventh day...",
+            "fid" : "content" } ] } ] }

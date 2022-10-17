@@ -1,0 +1,25 @@
+
+  { "stem" : "coloss",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "colossal",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...seat, is exceptional, with its distinctive feature being the <mark>colossal<\/mark> prehistoric bug shell that has been adapted as the house's council...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "colossal",
+            "weight" : "1",
+            "pos" : 1042,
+            "context" : "...threaten the rest of Morrowind. The Ghostfence itself is a <mark>colossal<\/mark> magical artifact that completely encircles Red Mountain and prevents the Blight...",
+            "fid" : "content" } ] } ] }

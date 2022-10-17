@@ -1,0 +1,14 @@
+
+  { "stem" : "gracious",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gracious",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "Green and <mark>Gracious<\/mark> Land",
+            "fid" : "content" } ] } ] }

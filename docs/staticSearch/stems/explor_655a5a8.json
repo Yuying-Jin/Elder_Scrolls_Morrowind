@@ -1,0 +1,47 @@
+
+  { "stem" : "explor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exploration",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...If the Empire or other House Councils wish to dispute Telvanni <mark>exploration<\/mark> and colonization of the wastes and wildernesses of Vvardenfell, they...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exploring",
+            "weight" : "1",
+            "pos" : 659,
+            "context" : "...several Telvanni wizards currently have competing camps of hirelings and adventurers <mark>exploring<\/mark> and looting there. Legend says that Bal Fell was built on...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "explorer",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "..., but they are capable of inflicting wounds to the careless <mark>explorer<\/mark>. Dwarven ghosts are more dangerous still, but they generally...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "explorer",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "..., but they are capable of inflicting wounds to the careless <mark>explorer<\/mark>. Dwarven ghosts are more dangerous still, but they generally...",
+            "fid" : "content" } ] } ] }

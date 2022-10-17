@@ -1,0 +1,88 @@
+
+  { "stem" : "heavi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...spear and blunt weapons. Legion troops train with shield and <mark>heavy<\/mark> armor, and so must be skilled at blocking and moving...",
+            "fid" : "content" },
+          
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "..., and so must be skilled at blocking and moving in <mark>heavy<\/mark> armor.",
+            "fid" : "content" },
+          
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "...block whatever blows you can, and take unblocked blows upon your <mark>heavy<\/mark> armor. Recruit must also be proficient at athletics, both...",
+            "fid" : "content" },
+          
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...be proficient at athletics, both to march long distances with <mark>heavy<\/mark> packs, and to advance and maneuver, charge and retreat...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Heavy",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...and shields. Guildsmen must be able to use and maintain <mark>Heavy<\/mark> Armor. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "<mark>heavy<\/mark> armor" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 475,
+            "context" : "<mark>heavy<\/mark> armor",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...council warned that such disturbances might spread to Ald'ruhn if the <mark>heavy<\/mark> burden of Imperial taxes were not alleviated.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heavy",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "To restore fatigue after <mark>heavy<\/mark> exertion, combine two or more of the following: crab...",
+            "fid" : "content" } ] } ] }

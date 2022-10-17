@@ -1,0 +1,48 @@
+
+  { "stem" : "rush",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "rushed",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "Baranat <mark>rushed<\/mark> at Feryn, knocking the giant through a boulder which turned...",
+            "fid" : "content" },
+          
+          { "form" : "rushed",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "Baranat <mark>rushed<\/mark> at Horis, and two plunged into the rushing river....",
+            "fid" : "content" },
+          
+          { "form" : "rushing",
+            "weight" : "1",
+            "pos" : 323,
+            "context" : "Baranat rushed at Horis, and two plunged into the <mark>rushing<\/mark> river. For twelve hours, they wrestled one another under...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rushed",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "The adventurer <mark>rushed<\/mark> back to the Tribunal Temple where he had received his quest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rush",
+            "weight" : "1",
+            "pos" : 673,
+            "context" : "...share of the gold. Both would wake up early and <mark>rush<\/mark> to the Plot and Plaster. He could see them now,...",
+            "fid" : "content" } ] } ] }

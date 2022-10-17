@@ -1,0 +1,86 @@
+
+  { "stem" : "yngling",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Yngling",
+            "weight" : "1",
+            "pos" : 4525,
+            "context" : "Vivec, St. Olms <mark>Yngling<\/mark> Manor" },
+          
+          { "form" : "Yngling",
+            "weight" : "1",
+            "pos" : 4764,
+            "context" : "<mark>Yngling<\/mark> Manor" },
+          
+          { "form" : "Yngling",
+            "weight" : "1",
+            "pos" : 6662,
+            "context" : "<mark>Yngling<\/mark> Half-Troll" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "yngling",
+            "weight" : "1",
+            "pos" : 4704,
+            "context" : "vivec, st. olms <mark>yngling<\/mark> manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "yngling",
+            "weight" : "1",
+            "pos" : 4899,
+            "context" : "<mark>yngling<\/mark> manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "yngling",
+            "weight" : "1",
+            "pos" : 7520,
+            "context" : "<mark>yngling<\/mark> half troll",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Yngling",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "Vivec, St. Olms <mark>Yngling<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Yngling",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "Master <mark>Yngling<\/mark> Half-Troll , by Grace of Almsivi, Honored Councilor...",
+            "fid" : "content" },
+          
+          { "form" : "Yngling",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...Councilor of Hlaalu Council, Vvardenfell District, Free Trader, <mark>Yngling<\/mark> Manor, Canton of St. Olms, Vivec, District...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Yngling",
+            "weight" : "1",
+            "pos" : 519,
+            "context" : "...the top tier of St. Delyn, and Hlaalu Councilor <mark>Yngling<\/mark> Half-Troll has a top-tier manor on St...",
+            "fid" : "content" } ] } ] }

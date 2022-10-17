@@ -1,0 +1,37 @@
+
+  { "stem" : "resdaynia",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Resdaynia",
+            "weight" : "1",
+            "pos" : 3085,
+            "context" : "<mark>Resdaynia<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "resdaynia",
+            "weight" : "1",
+            "pos" : 3256,
+            "context" : "<mark>resdaynia<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Resdaynia",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : " Lord Nerevar Indoril, Hail <mark>Resdaynia<\/mark> My Lord, Friend, and Companion ",
+            "fid" : "Resdaynia" } ] } ] }

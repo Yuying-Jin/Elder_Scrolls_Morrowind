@@ -1,0 +1,49 @@
+
+  { "stem" : "sugar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "sugar",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...pack his broken bones. One of the crates of moon <mark>sugar<\/mark> was open.",
+            "fid" : "moonsugar" },
+          
+          { "form" : "sugar",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...wrong. Their boat, laden with five crates of moon <mark>sugar<\/mark>, was supposed to meet another, the Sanchariot, off...",
+            "fid" : "content" },
+          
+          { "form" : "sugar",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : "...The smugglers aboard would pay them good money for the moon <mark>sugar<\/mark>. Luckily, S'Riizh had used only a little bit of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sugar",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "moon <mark>sugar<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sugar",
+            "weight" : "1",
+            "pos" : 557,
+            "context" : "moon <mark>sugar<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

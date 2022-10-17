@@ -1,0 +1,25 @@
+
+  { "stem" : "answer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "answering",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...duty, it is not unholy. It is but the <mark>answering<\/mark> of the ancestors, the awakening of those who never sleep...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "answered",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...for such assignments. In fact, the only person who <mark>answered<\/mark> her call was a skinny, little fellow named Baranat....",
+            "fid" : "content" } ] } ] }

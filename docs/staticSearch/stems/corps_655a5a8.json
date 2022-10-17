@@ -1,0 +1,627 @@
+
+  { "stem" : "corps",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 32,
+        "contexts" : 
+        [ 
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "<mark>Corpse<\/mark> Preparation v II" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "<mark>Corpse<\/mark> Preparation v III" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1215,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1469,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1636,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1680,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1683,
+            "context" : "<mark>Corpse<\/mark> Preparation v II, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1687,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1840,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2368,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2707,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2710,
+            "context" : "<mark>Corpse<\/mark> Preparation v II, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2714,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2858,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2885,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 3086,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 3731,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 3814,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4254,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4257,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4426,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4932,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4958,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5487,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5743,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5809,
+            "context" : "<mark>Corpse<\/mark> Preparation v II, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5849,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5862,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 6025,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 5",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 6264,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 6708,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 29,
+        "contexts" : 
+        [ 
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1045,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1306,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 3" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1465,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1509,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1512,
+            "context" : "<mark>Corpse<\/mark> Preparation v II, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1516,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 1669,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2193,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2549,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2552,
+            "context" : "<mark>Corpse<\/mark> Preparation v II, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2556,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2697,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 3" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2716,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 2913,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 3579,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 3658,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4103,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4106,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4287,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4817,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 4840,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5279,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5500,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 2" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5567,
+            "context" : "<mark>Corpse<\/mark> Preparation v II, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5601,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5614,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 3" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 5747,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 5" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 6184,
+            "context" : "<mark>Corpse<\/mark> Preparation v III, count: 3" },
+          
+          { "form" : "Corpse",
+            "weight" : "1",
+            "pos" : 6610,
+            "context" : "<mark>Corpse<\/mark> Preparation v 1, count: 1" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 18,
+        "contexts" : 
+        [ 
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...enlightened view of our Art. Thus, the acquisition of <mark>corpses<\/mark> on which to experiment is often difficult.",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...a few Necromancers who have served the Empire are given the <mark>corpses<\/mark> of criminals and traitors to use legally. This provides those...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "...who have acquired such a post with a fresh supply of <mark>corpses<\/mark>, most of them young, strong, and intact....",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "Finding suitable <mark>corpses<\/mark> in Black Marsh is nearly impossible due to their rapid decay...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...same problems as those of Black Marsh, the deserts preserve <mark>corpses<\/mark> for hundreds of years in a way that requires very little...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...anything one desires. This is true if you desire fresh <mark>corpses<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...cannibalism upon their enemies, which reduces the number of available <mark>corpses<\/mark>. As would be expected from such a backwards people,...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "...in the deserts and mountains of Hammerfell makes the acquisition of <mark>corpses<\/mark> possible, though they are often in poor condition and require...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...Orsinium presents a unique opportunity. As you know, Orc <mark>corpses<\/mark> are among the most sought after for the durability of their...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 343,
+            "context" : "...is more common in the south. There are still many <mark>corpses<\/mark> easily taken from the battlefields of the War of Betony and...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...Gothryd of Daggerfall may institute the Imperial practice of donating the <mark>corpses<\/mark> of criminals for Necromantic study as a deterrent to the bandits...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...few Necromancers to operate freely. Alas, the availability of <mark>corpses<\/mark> is limited to Nords who die from exposure or in battle...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 394,
+            "context" : ".... While the cold is preservative, the snow makes these <mark>corpses<\/mark> difficult to find. More research dedicated to the magical detection...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 401,
+            "context" : "...to find. More research dedicated to the magical detection of <mark>corpses<\/mark> would be invaluable to the Necromancers of Skyrim.",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 435,
+            "context" : "...Tear by Sload merchants and the rumors of Sload airships carrying <mark>corpses<\/mark> from Senchal.",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 442,
+            "context" : "These difficulties lead many Necromancers to create their own <mark>corpses<\/mark>. While I prefer to work with those who have died...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 473,
+            "context" : "...related to the subject's intelligence in life. While raising the <mark>corpse<\/mark> of a man, elf, or beastman can produce a...",
+            "fid" : "content" },
+          
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 480,
+            "context" : "...elf, or beastman can produce a useful servant, the <mark>corpses<\/mark> of animals produce mere guard dogs at best. Often a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Fresh and decayed <mark>corpses<\/mark> are those that still have flesh upon them. If their decay...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "...or if you wish a skeletal servant instead, place the <mark>corpse<\/mark> along a coast or in a swamp or marsh. Animals...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...greatest allies when it comes to stripping the flesh from a <mark>corpse<\/mark>. The ravenous mudcrabs of Morrowind can strip a corpse down...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...a corpse. The ravenous mudcrabs of Morrowind can strip a <mark>corpse<\/mark> down to its bones in a matter of days. Lesser...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...to create a zombie servant, one need only bring the <mark>corpse<\/mark> to a suitable site and enact the proper rituals. However...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...step to creating a mummified servant is to soak the decaying <mark>corpse<\/mark> in a bath of salt or natron for at least one...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...least one month. This will halt the decay of the <mark>corpse<\/mark>, and if the corpse is fresh enough to have an...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...will halt the decay of the corpse, and if the <mark>corpse<\/mark> is fresh enough to have an unpleasant odor, the salts...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...offer some protection as well. Do not worry if the <mark>corpse<\/mark> seems too stiff or desiccated to be a useful servant,...",
+            "fid" : "content" },
+          
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "...a useful servant, the proper rituals will imbue the mummified <mark>corpse<\/mark> with the strength to move itself. Most importantly, you will...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "..., summoned by profane ritual and bound by force to the <mark>corpse<\/mark> miner's will, how may such a spirit ever find rest?...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...little or no preparation at all. Given the difficulty of obtaining <mark>corpses<\/mark>, this kind of inefficiency cannot be tolerated.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "corpses",
+            "weight" : "1",
+            "pos" : 504,
+            "context" : "...alarm had been raised, the gold was gone, and <mark>corpses<\/mark> lay pooling blood on the stone floors within.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "corpse",
+            "weight" : "1",
+            "pos" : 343,
+            "context" : "...the Father of Monsters, spawned the first vampire upon the <mark>corpse<\/mark> of a defeated foe. Several different versions of this story...",
+            "fid" : "content" } ] } ] }

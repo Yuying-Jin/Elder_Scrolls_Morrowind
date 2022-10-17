@@ -1,0 +1,25 @@
+
+  { "stem" : "elit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elite",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...complement. The Hawkmoth Legion garrisoned at Castle Ebonheart is an <mark>elite<\/mark> honor guard unit, and also at full complement. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elite",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...he was ten years old, Oin Parnafacasis was in an <mark>elite<\/mark> group of the very best families of Gnisis. They went...",
+            "fid" : "content" } ] } ] }

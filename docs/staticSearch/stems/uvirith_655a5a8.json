@@ -1,0 +1,231 @@
+
+  { "stem" : "uvirith",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3819,
+            "context" : "Tel <mark>Uvirith<\/mark>" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3837,
+            "context" : "Tel <mark>Uvirith<\/mark>, Omavel's House" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3846,
+            "context" : "Tel <mark>Uvirith<\/mark>, Seleth's House" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3860,
+            "context" : "Tel <mark>Uvirith<\/mark>, Tel Uvirith Tower Upper" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3862,
+            "context" : "Tel Uvirith, Tel <mark>Uvirith<\/mark> Tower Upper" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3871,
+            "context" : "Tel <mark>Uvirith<\/mark>, Tower Lower" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3964,
+            "context" : "Tel_<mark>Uvirith<\/mark>,_Omavel's_House" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3974,
+            "context" : "Tel_<mark>Uvirith<\/mark>,_Seleth's_House" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3984,
+            "context" : "Tel_<mark>Uvirith<\/mark>,_Tower_Lower" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 3993,
+            "context" : "Tel_<mark>Uvirith<\/mark>,_Tower_Upper" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "uvirith",
+            "weight" : "1",
+            "pos" : 4020,
+            "context" : "tel <mark>uvirith<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "uvirith",
+            "weight" : "1",
+            "pos" : 4038,
+            "context" : "tel <mark>uvirith<\/mark>, omavel's house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "uvirith",
+            "weight" : "1",
+            "pos" : 4053,
+            "context" : "tel <mark>uvirith<\/mark>, seleth's house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "uvirith",
+            "weight" : "1",
+            "pos" : 4073,
+            "context" : "tel <mark>uvirith<\/mark>, tel uvirith tower upper",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "uvirith",
+            "weight" : "1",
+            "pos" : 4075,
+            "context" : "tel uvirith, tel <mark>uvirith<\/mark> tower upper",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "uvirith",
+            "weight" : "1",
+            "pos" : 4084,
+            "context" : "tel <mark>uvirith<\/mark>, tower lower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "uvirith",
+            "weight" : "1",
+            "pos" : 4098,
+            "context" : "tel <mark>uvirith<\/mark>, tower upper",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "Tel <mark>Uvirith<\/mark>, Omavel's House: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "Tel <mark>Uvirith<\/mark>, Seleth's House: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "Tel <mark>Uvirith<\/mark>, Tower Lower: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Tel <mark>Uvirith<\/mark>, Tel Uvirith Tower Upper: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "Tel Uvirith, Tel <mark>Uvirith<\/mark> Tower Upper: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Tel <mark>Uvirith<\/mark>, Tower Upper: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Tel <mark>Uvirith<\/mark>, Seleth's House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "Tel <mark>Uvirith<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Tel <mark>Uvirith<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Tel <mark>Uvirith<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "Tel <mark>Uvirith<\/mark>, Tower Lower: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Uvirith",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "Tel <mark>Uvirith<\/mark>, Omavel's House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,59 @@
+
+  { "stem" : "purchas",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "purchase",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...is said that in the port of Senchal, one may <mark>purchase<\/mark> anything one desires. This is true if you desire fresh...",
+            "fid" : "content" },
+          
+          { "form" : "purchased",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : "...If so, it would explain the number of slaves that are <mark>purchased<\/mark> in Tear by Sload merchants and the rumors of Sload airships...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "purchased",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...behind a Potion of Rising Force. Suitable potions may be <mark>purchased<\/mark> from the Temple . Homemade potions are not acceptable.",
+            "fid" : "content" },
+          
+          { "form" : "purchased",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "...token of your respect for justice. Suitable potions may be <mark>purchased<\/mark> from Temple. Homemade potions are not acceptable.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "purchase",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...item I wanted was gone. Better to get a great <mark>purchase<\/mark> at a decent price and discover it again at a worse...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "purchased",
+            "weight" : "1",
+            "pos" : 490,
+            "context" : "...hand, are very rare and expensive and usually must be <mark>purchased<\/mark> from fine alchemists.",
+            "fid" : "content" } ] } ] }

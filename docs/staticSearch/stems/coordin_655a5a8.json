@@ -1,0 +1,14 @@
+
+  { "stem" : "coordin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coordination",
+            "weight" : "1",
+            "pos" : 419,
+            "context" : "...of the great Nordic warriors; he maintained his balance, <mark>coordination<\/mark>, speed, strength, timing, and tactics as the...",
+            "fid" : "content" } ] } ] }

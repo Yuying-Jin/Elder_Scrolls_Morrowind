@@ -1,0 +1,49 @@
+
+  { "stem" : "obstacl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "obstacle",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "\"The Test of Evasion requires the observer to examine the <mark>obstacle<\/mark>, and compare his resources and abilities; if the obstacle...",
+            "fid" : "content" },
+          
+          { "form" : "obstacle",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...obstacle, and compare his resources and abilities; if the <mark>obstacle<\/mark> is too difficult, seek for a path around the difficulty...",
+            "fid" : "content" },
+          
+          { "form" : "obstacle",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "\"The Test ofConfrontation requires the observer to examine the <mark>obstacle<\/mark>, and compare his resources and abilities; if the obstacle...",
+            "fid" : "content" },
+          
+          { "form" : "obstacle",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...obstacle, and compare his resources and abilities; if the <mark>obstacle<\/mark> is too difficult, look for a path around the difficulty...",
+            "fid" : "content" },
+          
+          { "form" : "obstacle",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...but if no path around can be found, confront the <mark>obstacle<\/mark> directly.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "obstacle",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...few will dare to stand against your might. But one <mark>obstacle<\/mark> remains. His name is Arkay.",
+            "fid" : "content" } ] } ] }

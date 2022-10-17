@@ -1,0 +1,14 @@
+
+  { "stem" : "archmast",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Archmaster",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "<mark>Archmaster<\/mark> Lord Bolvyn Venim, by Grace of Almsivi, Chief Councilor...",
+            "fid" : "content" } ] } ] }

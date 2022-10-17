@@ -1,0 +1,14 @@
+
+  { "stem" : "mainten",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "maintenance",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...weaker each time this is done, but with care and <mark>maintenance<\/mark>, one may raise zombies dozens of times.",
+            "fid" : "content" } ] } ] }

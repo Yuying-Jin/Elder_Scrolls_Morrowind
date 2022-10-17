@@ -1,0 +1,53 @@
+
+  { "stem" : "worthi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "worthy",
+            "weight" : "1",
+            "pos" : 291,
+            "context" : "...in their attributes and skills. Only the most distinguished are <mark>worthy<\/mark> of advancement to the higher ranks in the Imperial cults....",
+            "fid" : "content" },
+          
+          { "form" : "worthy",
+            "weight" : "1",
+            "pos" : 727,
+            "context" : "...cults acknowledges the lords and saints of the Temple pantheon as <mark>worthy<\/mark> inspirations, the Temple falsely insists that theirs is the One...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worthy",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...long, and filled with danger, but if you are <mark>worthy<\/mark>, you will find there wisdom, a firm friend,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worthiness",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "...as a means to advancement. Those reluctant to prove their <mark>worthiness<\/mark> by killing off the competition, and those uncomfortable about competing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worthy",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "To make your oath and enter our service, the <mark>worthy<\/mark> must seek the Grandmaster, who by tradition lives in the...",
+            "fid" : "content" } ] } ] }

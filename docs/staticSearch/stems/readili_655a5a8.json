@@ -1,0 +1,36 @@
+
+  { "stem" : "readili",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "readily",
+            "weight" : "1",
+            "pos" : 270,
+            "context" : "...ancestors, the Temple, and the noble houses—but has <mark>readily<\/mark> adapted to the rapid pace of change and progress in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "readily",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...fleshy remains along with the bones and spirit. Bonewalkers are <mark>readily<\/mark> identified by the sharp protuberances of bone and metal employed in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "readily",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...fleshy remains along with the bones and spirit. Bonewalkers are <mark>readily<\/mark> identified by the sharp protuberances of bone and metal employed in...",
+            "fid" : "content" } ] } ] }

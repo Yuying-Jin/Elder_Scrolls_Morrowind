@@ -1,0 +1,14 @@
+
+  { "stem" : "tide",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tides",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...We are the only Great House who has embraced the irresistible <mark>tides<\/mark> of Imperial law and custom. And thus we have profited...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "assist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "assist",
+            "weight" : "1",
+            "pos" : 610,
+            "context" : "...missions. Only members of the higher ranks are invited to <mark>assist<\/mark> the Oracle, and the challenges require the skill and courage...",
+            "fid" : "content" } ] } ] }

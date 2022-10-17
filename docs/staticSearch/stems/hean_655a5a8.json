@@ -1,0 +1,37 @@
+
+  { "stem" : "hean",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hean",
+            "weight" : "1",
+            "pos" : 278,
+            "context" : "...but Imsin the Dreamer is the chapter steward. The Redguard <mark>Hean<\/mark> is priest of the Imperial cult. Goren Andarys is the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hean",
+            "weight" : "1",
+            "pos" : 6700,
+            "context" : "<mark>Hean<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hean",
+            "weight" : "1",
+            "pos" : 6786,
+            "context" : "<mark>hean<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

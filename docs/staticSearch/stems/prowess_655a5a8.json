@@ -1,0 +1,14 @@
+
+  { "stem" : "prowess",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prowess",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...see, has been kidnapped by the Coribael brothers whose physical <mark>prowess<\/mark> is the stuff of legend.\"",
+            "fid" : "content" } ] } ] }

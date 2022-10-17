@@ -1,0 +1,61 @@
+
+  { "stem" : "nerevarin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevarines",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "...of the prophecies of the Incarnate, and persecution of the <mark>Nerevarines<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Nerevarine",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "Though no consensus exists among the Dissidents about whether the <mark>Nerevarine<\/mark> prophecies are genuine, all agree that the persecution of the...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevarines",
+            "weight" : "1",
+            "pos" : 291,
+            "context" : "...prophecies are genuine, all agree that the persecution of the <mark>Nerevarines<\/mark> is unjust and politically motivated. The Dissident priests do not...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevarine",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "...Many among the Dissident priests have come to believe that the <mark>Nerevarine<\/mark> prophecies are genuine, and have made a systematic study of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Nerevarines",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "...of the prophecies of the Incarnate, and persecution of the <mark>Nerevarines<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Nerevarine",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "Though no consensus exists among the Dissidents about whether the <mark>Nerevarine<\/mark> prophecies are genuine, all agree that the persecution of the...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevarines",
+            "weight" : "1",
+            "pos" : 291,
+            "context" : "...prophecies are genuine, all agree that the persecution of the <mark>Nerevarines<\/mark> is unjust and politically motivated. The Dissident priests do not...",
+            "fid" : "content" },
+          
+          { "form" : "Nerevarine",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "...Many among the Dissident priests have come to believe that the <mark>Nerevarine<\/mark> prophecies are genuine, and have made a systematic study of...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "unlearn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unlearned",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...from his gardening, he had little to say for himself. <mark>Unlearned<\/mark>, uncharismatic, unathletic, uncoordinated. And yet he yearned...",
+            "fid" : "content" } ] } ] }

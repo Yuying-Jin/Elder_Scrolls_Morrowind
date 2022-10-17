@@ -1,0 +1,14 @@
+
+  { "stem" : "blood-drink",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blood-drinking",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...treatment. Instead, I found myself a feast for a <mark>blood-drinking<\/mark> monster.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,54 @@
+
+  { "stem" : "strider",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "strider",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...southwest corner of town, convenient to West Gate and the <mark>strider<\/mark> port, while the Temple is located on high ground to...",
+            "fid" : "content" },
+          
+          { "form" : "strider",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...found to the west, near West Gate and the silt <mark>strider<\/mark> port. The Rat in the Pot cornerclub is in south...",
+            "fid" : "content" },
+          
+          { "form" : "strider",
+            "weight" : "1",
+            "pos" : 334,
+            "context" : "...watch for signposts, or you'll get lost. The silt <mark>strider<\/mark> port is along the western town wall, north of West...",
+            "fid" : "content" },
+          
+          { "form" : "strider",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "...the western town wall, north of West Gate. Silt <mark>strider<\/mark> service goes from Ald'ruhn to Balmora, Gnisis, Khuul,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strider",
+            "weight" : "1",
+            "pos" : 590,
+            "context" : "...bridge are useful mostly for travelers to Molag Mar. Silt <mark>strider<\/mark> service is available at the north end of the Foreign Quarter...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strider",
+            "weight" : "1",
+            "pos" : 1191,
+            "context" : "...Gnisis is a small mining and trade village astride the silt <mark>strider<\/mark> caravan route between the northwest West Gash and Ald'ruhn.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,42 @@
+
+  { "stem" : "counsel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "counsel",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...and has been for generation upon generation. With guidance and <mark>counsel<\/mark> of Almalexia, Vivec, and Sotha Sil, the Anticipations...",
+            "fid" : "content" },
+          
+          { "form" : "counsel",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...wisdom and insight. Like loving ancestors, they guard and <mark>counsel<\/mark> their followers. Like stern parents, they punish sin and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "counsel",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...and honor that once we shared, I would grant you <mark>counsel<\/mark> and power, if only you would pledge that friendship anew...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "counsel",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...not shun risk, nor hide behind the mask of cautious <mark>counsel<\/mark>, for fortune favors the bold.",
+            "fid" : "content" } ] } ] }

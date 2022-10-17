@@ -1,0 +1,120 @@
+
+  { "stem" : "around",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...if the obstacle is too difficult, seek for a path <mark>around<\/mark> the difficulty.",
+            "fid" : "content" },
+          
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...if the obstacle is too difficult, look for a path <mark>around<\/mark> the difficulty... but if no path around can be found...",
+            "fid" : "content" },
+          
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...for a path around the difficulty... but if no path <mark>around<\/mark> can be found, confront the obstacle directly.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...heat and fire found in the lava pits and streams found <mark>around<\/mark> Dagoth-Ur.",
+            "fid" : "content" },
+          
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...like herb found in Black Marsh. It is especially prolific <mark>around<\/mark> the area of Utherus Swamp. It is a beautiful wildflower...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...of Plots, and things unknown and known would fold themselves <mark>around<\/mark> her until they were like stars or the messages of stars...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : ".... Don't be surprised or insulted if the shopkeepers follow you <mark>around<\/mark> the shop, assuming you're going to steal something. Similarly...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...Temple compounds and their courtyards, with huts and tradehouses gathered <mark>around<\/mark> a central plaza, as in the West Gash village of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "...Balmora swings northwest to avoid the barren wastes, and curves <mark>around<\/mark> towards the west until it heads south again to Caldera....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...about security -- locks, traps, and how to get <mark>around<\/mark> them. You want to defend yourself. You travel light and fast...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 453,
+            "context" : "...save everyone. In any case, I lured the guards <mark>around<\/mark> to the back of the Gateway Inn, far from the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "around",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "...suddenly found that all the creaking and sighing of the ruins <mark>around<\/mark> him had been stilled. He opened his voice to speak...",
+            "fid" : "content" } ] } ] }

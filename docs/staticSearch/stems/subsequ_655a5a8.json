@@ -1,0 +1,37 @@
+
+  { "stem" : "subsequ",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "subsequent",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...about the Tribunal's conduct, and about the source of their <mark>subsequent<\/mark> apotheosis. Also, there is good evidence that the Tribunal...",
+            "fid" : "content" },
+          
+          { "form" : "subsequently",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...according to the Ashlanders, but from treachery], and that <mark>subsequently<\/mark> the Tribunal confronted a defiant Dagoth Ur within Red Mountain,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "subsequent",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...about the Tribunal's conduct, and about the source of their <mark>subsequent<\/mark> apotheosis. Also, there is good evidence that the Tribunal...",
+            "fid" : "content" },
+          
+          { "form" : "subsequently",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...according to the Ashlanders, but from treachery], and that <mark>subsequently<\/mark> the Tribunal confronted a defiant Dagoth Ur within Red Mountain,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,84 @@
+
+  { "stem" : "arobar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Arobar",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : " <mark>Arobar<\/mark> Manor Bedrooms: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Arobar",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "Master Lord Miner <mark>Arobar<\/mark>, by Grace of Almsivi, Honored Councilor of Redoran Council...",
+            "fid" : "content" },
+          
+          { "form" : "Arobar",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...Council, Vvardenfell District, Lord of North Gash, of <mark>Arobar<\/mark> Manor, Manor District, Ald'ruhn, District of Vvardenfell,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Arobar",
+            "weight" : "1",
+            "pos" : 969,
+            "context" : "<mark>Arobar<\/mark> Manor Bedrooms" },
+          
+          { "form" : "Arobar",
+            "weight" : "1",
+            "pos" : 6331,
+            "context" : "Miner <mark>Arobar<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "arobar",
+            "weight" : "1",
+            "pos" : 1141,
+            "context" : "<mark>arobar<\/mark> manor bedrooms",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "arobar",
+            "weight" : "1",
+            "pos" : 6403,
+            "context" : "miner <mark>arobar<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Boethiahs_Pillow_Book",
+        "docUri" : "librarium\/Boethiahs_Pillow_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arobar",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Arobar<\/mark> Manor Bedrooms: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arobar",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "..., Hlaren Ramoran, Athyn Sarethi, Garisa Llethri, Miner <mark>Arobar<\/mark>, and Bolvyn Venim, have manor residences in Ald'ruhn-Under...",
+            "fid" : "content" } ] } ] }

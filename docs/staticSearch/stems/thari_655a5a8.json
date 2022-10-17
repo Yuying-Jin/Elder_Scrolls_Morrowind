@@ -1,0 +1,37 @@
+
+  { "stem" : "thari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tharys",
+            "weight" : "1",
+            "pos" : 4071,
+            "context" : "<mark>Tharys<\/mark>_Ancestral_Tomb" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tharys",
+            "weight" : "1",
+            "pos" : 4215,
+            "context" : "<mark>tharys<\/mark> ancestral tomb",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tharys",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "<mark>Tharys<\/mark> Ancestral Tomb: Visitable? yes",
+            "fid" : "acq" } ] } ] }

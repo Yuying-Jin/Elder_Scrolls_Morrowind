@@ -1,0 +1,75 @@
+
+  { "stem" : "legend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "legends",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...ever been examined, and no references have ever linked these <mark>legends<\/mark> with the known clans of Tamrielic vampires....",
+            "fid" : "content" },
+          
+          { "form" : "legend",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...vampires who have been cured of the disease. According to <mark>legend<\/mark>, the vampire Hunters refuse to reveal the cure to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "legend",
+            "weight" : "1",
+            "pos" : 618,
+            "context" : "...challenges require the skill and courage found only in heroes of <mark>legend<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Legend",
+            "weight" : "1",
+            "pos" : 661,
+            "context" : "...have competing camps of hirelings and adventurers exploring and looting there. <mark>Legend<\/mark> says that Bal Fell was built on the site of an...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Legend",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...makes it noticeable. It is very sweet and tasty. <mark>Legend<\/mark> has it that when mixed properly with the pulp of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "legend",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...by the Coribael brothers whose physical prowess is the stuff of <mark>legend<\/mark>.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "legend",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...Lady. Mephala is the Anticipation of Vivec. According to <mark>legend<\/mark>, under the guidance of these three daedrai Lords, a...",
+            "fid" : "content" } ] } ] }

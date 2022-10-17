@@ -1,0 +1,80 @@
+
+  { "stem" : "sic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sic",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...as our servants. The name Arkay will be stuck [<mark>sic<\/mark>] from the records. Only I shall hold sway over...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sic",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...the Nord is the Fighters Guild steward, Procyon Nigiliusis [<mark>sic<\/mark>] is Mages Guild steward, and Aunius Autrus is the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sic",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...(also known as Argonia). Vvardenfell District encompasses Vvardefell [<mark>sic<\/mark>] Island, a great land mass dominated by the giant...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sic",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : " Depends. Is an orc is [<mark>sic<\/mark>] doing the counting?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sic",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "\"Oh, well, Master Neloth felt similiarly [<mark>sic<\/mark>] that --\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sic",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...attack -- an incantation invoked upon Dagon's \"Protonymic\" (i.e., Incantory [<mark>sic<\/mark>] True Name). Unfortunately, like many of Malacath's gifts...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sic",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...victims, nothing beats throwing a sack over the targets [<mark>sic<\/mark>] head, drawing the string tight, and then supplying...",
+            "fid" : "content" } ] } ] }

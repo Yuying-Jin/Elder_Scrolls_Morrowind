@@ -1,0 +1,14 @@
+
+  { "stem" : "superior",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "superior",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "The Legion selects candidates on the basis of <mark>superior<\/mark> endurance, the soldierly virtue, and trustworthy personality, the...",
+            "fid" : "content" } ] } ] }

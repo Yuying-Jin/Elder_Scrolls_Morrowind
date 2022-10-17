@@ -1,0 +1,14 @@
+
+  { "stem" : "definit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Capns_Guide_to_the_Fishy_Stick",
+        "docUri" : "librarium\/Capns_Guide_to_the_Fishy_Stick.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "definitive",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "This book is supposedly the <mark>definitive<\/mark> reference to fishy sticks throughout Tamriel, but the pages are...",
+            "fid" : "content" } ] } ] }

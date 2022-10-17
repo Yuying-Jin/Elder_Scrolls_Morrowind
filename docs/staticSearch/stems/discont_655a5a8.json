@@ -1,0 +1,14 @@
+
+  { "stem" : "discont",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "discontented",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "..., under the guidance of these three daedrai Lords, a <mark>discontented<\/mark> throng of Altmer transformed themselves into a new people and founded...",
+            "fid" : "content" } ] } ] }

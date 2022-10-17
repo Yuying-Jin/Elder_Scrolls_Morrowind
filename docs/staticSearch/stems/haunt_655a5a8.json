@@ -1,0 +1,25 @@
+
+  { "stem" : "haunt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "haunt",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "...for that is when war comes. I return now to <mark>haunt<\/mark> the warriors who fell and still wonder why. But first I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "haunted",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...Though exotic and picturesque, it is a dangerous site, <mark>haunted<\/mark> by old magics, dark cultists, and their Daedric summonings...",
+            "fid" : "content" } ] } ] }

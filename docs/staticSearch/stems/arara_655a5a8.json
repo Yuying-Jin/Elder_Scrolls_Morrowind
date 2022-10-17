@@ -1,0 +1,48 @@
+
+  { "stem" : "arara",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arara",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...: Mouth Mallam Ryon, Mage For Master Aryon: Mouth <mark>Arara<\/mark> Uvulas For Master Neloth: Mouth Raven Omayn For Mistress Therana...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arara",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...councilor mage-lords) Felisa Ulessen, Galos Mathendis, <mark>Arara<\/mark> Uvulas, Mallam Ryon, Raven Omayn, and Dalyne Arvel...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arara",
+            "weight" : "1",
+            "pos" : 7460,
+            "context" : "<mark>Arara<\/mark> Uvulas" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arara",
+            "weight" : "1",
+            "pos" : 7604,
+            "context" : "<mark>arara<\/mark> uvulas",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

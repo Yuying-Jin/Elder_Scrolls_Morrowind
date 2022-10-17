@@ -1,0 +1,25 @@
+
+  { "stem" : "lawless",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lawless",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...taken from the battlefields of the War of Betony and the <mark>lawless<\/mark> times that followed. There are even rumors that King Gothryd...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lawless",
+            "weight" : "1",
+            "pos" : 705,
+            "context" : "...all Imperial provinces. The Imperial cult also disapproves of the <mark>lawless<\/mark> and greedy Camonna Tong, and their ruthless exploitation of the...",
+            "fid" : "content" } ] } ] }

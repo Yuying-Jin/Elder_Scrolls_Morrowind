@@ -1,0 +1,14 @@
+
+  { "stem" : "durabl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "durability",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "..., Orc corpses are among the most sought after for the <mark>durability<\/mark> of their skin and the strength of their bones. If...",
+            "fid" : "content" } ] } ] }

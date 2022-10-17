@@ -1,0 +1,152 @@
+
+  { "stem" : "later",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "\"Later",
+            "weight" : "1",
+            "pos" : 490,
+            "context" : "<mark>\"Later<\/mark>, if you please,\" said the Ashkhan. \"What happened...",
+            "fid" : "content" },
+          
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 597,
+            "context" : "...,\" said Senyndie as they took their rooms a few hours <mark>later<\/mark>. \"Why do we bother with these backwoods performances?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...less three grams of honest work, but Vivec in his <mark>later<\/mark> years found a better one and so gave this secret to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...was wrong, and when I returned to the shop weeks <mark>later<\/mark>, the item I wanted was gone. Better to get...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...towards tight bindings. One may always loosen them at a <mark>later<\/mark> date.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 586,
+            "context" : ".... New shrine sergeants are given the easiest tasks, but <mark>later<\/mark>, missions may demand higher levels of combat proficiency. Those...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Later",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...a single house and forsaking ambitions with all other houses. <mark>Later<\/mark>, after faithful service and advancement in lower ranks, an...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...was back in his house in Gnisis but a few days <mark>later<\/mark>. His wife Liah was beside herself with worry.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...everywhere in Morrowind; the smaller eggs retain properties lost in <mark>later<\/mark> states of gestation. chokeweed is a tough shrub growing in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 750,
+            "context" : "...reunited with Benitah. They were married at once. A week <mark>later<\/mark>, he returned to Kena Yakin Bael and learned how to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 487,
+            "context" : "...a very, very, very unpleasant personality as well. Several days <mark>later<\/mark>, when they were back at the old woman's court,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Later",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "<mark>Later<\/mark>, however, disputes over religion divided the Council, with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 795,
+            "context" : "Sathis woke up some time <mark>later<\/mark> from a nightmare. For a second after he opened his...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "later",
+            "weight" : "1",
+            "pos" : 405,
+            "context" : "...vampirism. Initially imprisoned by the Temple for heresy, he <mark>later<\/mark> recanted, was released, and served his final years as...",
+            "fid" : "content" } ] } ] }

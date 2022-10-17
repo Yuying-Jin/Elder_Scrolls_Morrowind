@@ -1,0 +1,69 @@
+
+  { "stem" : "control",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "control",
+            "weight" : "1",
+            "pos" : 374,
+            "context" : "...and clients have entered whole-heartedly into the competition to <mark>control<\/mark> and exploit Vvardenfell's land and resources, building towers and bases...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "control",
+            "weight" : "1",
+            "pos" : 769,
+            "context" : "...agents of the Coastguard station. The Coastguard cutters docked here <mark>control<\/mark> smuggling and piracy on the Inner Sea.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "control",
+            "weight" : "1",
+            "pos" : 393,
+            "context" : ".... The Dissident priests feel the Ordinators are either out of <mark>control<\/mark>, or tools used to maintain a corrupt priesthood in power...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "control",
+            "weight" : "1",
+            "pos" : 393,
+            "context" : ".... The Dissident priests feel the Ordinators are either out of <mark>control<\/mark>, or tools used to maintain a corrupt priesthood in power...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "controls",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "...inquiry upon this topic is discouraged by the Temple, which <mark>controls<\/mark> access to the only substantial collection of historical and cultural records...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "control",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...aggressive competition between the Thieves Guild and the Camonna Tong for <mark>control<\/mark> of the black markets.",
+            "fid" : "content" } ] } ] }

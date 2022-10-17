@@ -1,0 +1,37 @@
+
+  { "stem" : "almost",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "almost",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "..., where worship of Arkay is strongest, the dead are <mark>almost<\/mark> always subject to Arkay's Law. There are exceptions after large...",
+            "fid" : "content" },
+          
+          { "form" : "almost",
+            "weight" : "1",
+            "pos" : 330,
+            "context" : "...nomadic horsemen mandate cremation of the dead. This is practiced <mark>almost<\/mark> without exception in the north, through an Imperial burial in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "almost",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...realizations of acrobacy can you perform?\" asked Gothren with what <mark>almost<\/mark> looked like a smile.",
+            "fid" : "content" },
+          
+          { "form" : "almost",
+            "weight" : "1",
+            "pos" : 586,
+            "context" : "\"So the room and board will be <mark>almost<\/mark> as nice as a third rate show in Rihad,\" said...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "violenc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "violence",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...People, paradoxically beautiful and bloody. Vivec is an artistic <mark>violence<\/mark>. Vivec is represented in Temple literature and liturgy as one...",
+            "fid" : "content" },
+          
+          { "form" : "violence",
+            "weight" : "1",
+            "pos" : 368,
+            "context" : "...with the hidden aspects of Vivec, the darker components of <mark>violence<\/mark>, lust, and conspiracy associated the more primitive and ruthless...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "violence",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...others and the Willpower to resist the world's temptations. When <mark>violence<\/mark> is needful, we fight with staves and hammers, armored...",
+            "fid" : "content" } ] } ] }

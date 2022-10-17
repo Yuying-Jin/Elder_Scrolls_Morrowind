@@ -1,0 +1,32 @@
+
+  { "stem" : "herd",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "herds",
+            "weight" : "1",
+            "pos" : 402,
+            "context" : "...of the region. Ashlanders hunt for game here, and their <mark>herds<\/mark> find sparse grazing. It rains rarely, and suffers frequent...",
+            "fid" : "content" },
+          
+          { "form" : "herds",
+            "weight" : "1",
+            "pos" : 816,
+            "context" : "...dark soils of the Grazelands produce the rich grazing for Ashlander <mark>herds<\/mark> that give the region its name. The region lies in...",
+            "fid" : "content" },
+          
+          { "form" : "herds",
+            "weight" : "1",
+            "pos" : 842,
+            "context" : "...and Tel Fyr. The Ashlanders of Zainab camp move their <mark>herds<\/mark> across the plains in search of fresh grazing. There are...",
+            "fid" : "content" },
+          
+          { "form" : "herds",
+            "weight" : "1",
+            "pos" : 1096,
+            "context" : "...coast. The town of Caldera lies near Balmora. The <mark>herds<\/mark> of the Ashlanders of Urshilaku camp graze on the sparse but...",
+            "fid" : "content" } ] } ] }

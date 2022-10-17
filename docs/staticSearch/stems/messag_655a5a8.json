@@ -1,0 +1,79 @@
+
+  { "stem" : "messag",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Message",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "<mark>Message<\/mark> from Dagoth Ur" },
+          
+          { "form" : "Message",
+            "weight" : "1",
+            "pos" : 2878,
+            "context" : "<mark>Message<\/mark> from Dagoth Ur, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Message",
+            "weight" : "1",
+            "pos" : 3203,
+            "context" : "<mark>Message<\/mark> from Dagoth Ur, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Message",
+            "weight" : "1",
+            "pos" : 3257,
+            "context" : "<mark>Message<\/mark> from Dagoth Ur, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Message",
+            "weight" : "1",
+            "pos" : 2712,
+            "context" : "<mark>Message<\/mark> from Dagoth Ur, count: 2" },
+          
+          { "form" : "Message",
+            "weight" : "1",
+            "pos" : 3030,
+            "context" : "<mark>Message<\/mark> from Dagoth Ur, count: 3" },
+          
+          { "form" : "Message",
+            "weight" : "1",
+            "pos" : 3086,
+            "context" : "<mark>Message<\/mark> from Dagoth Ur, count: 1" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "messages",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...fold themselves around her until they were like stars or the <mark>messages<\/mark> of stars. Ayem took a netchiman's wife and said:...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "messages",
+            "weight" : "1",
+            "pos" : 554,
+            "context" : "...A shrine sergeant helps keep order at the shrines, carries <mark>messages<\/mark> and packages, and sometimes escorts priests and lay servants on...",
+            "fid" : "content" } ] } ] }

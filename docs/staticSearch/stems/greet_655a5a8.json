@@ -1,0 +1,14 @@
+
+  { "stem" : "greet",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greet",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...culture or not, it's wise for the buyer and seller to <mark>greet<\/mark> one another with smiles and warm salutations, like gladiators honoring...",
+            "fid" : "content" } ] } ] }

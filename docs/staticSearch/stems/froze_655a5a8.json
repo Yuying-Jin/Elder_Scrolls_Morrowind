@@ -1,0 +1,14 @@
+
+  { "stem" : "froze",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "froze",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...the heavens. When Vivec learned of Sheogorath's scheme, he <mark>froze<\/mark> the rogue moon in the sky with a single gesture and...",
+            "fid" : "content" } ] } ] }

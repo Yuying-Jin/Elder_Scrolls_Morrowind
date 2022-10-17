@@ -1,0 +1,121 @@
+
+  { "stem" : "public",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...tourists and pilgrims daily. Citizens flock to the Arena for <mark>public<\/mark> entertainments like mock battles and comic plays. Outlanders mostly confine...",
+            "fid" : "content" },
+          
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...cells, and various Great House services. There are two <mark>public<\/mark> houses: the Elven Nations and the No Name Club....",
+            "fid" : "content" },
+          
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 457,
+            "context" : "...compound on the east. The Arena is the site of <mark>public<\/mark> entertainments and combat sports. The comfortable domed Arena has seating...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...The Dissident priests say that the Temple has always maintained a <mark>public<\/mark> face [represented by the Heirographa -- the \"priestly writings\"]...",
+            "fid" : "content" },
+          
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...[ represented by the Apographa -- the \"hidden writings\"]. The <mark>public<\/mark> account portrays the actions of the Tribunal in a heroic light...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...The Dissident priests say that the Temple has always maintained a <mark>public<\/mark> face [represented by the Heirographa -- the \"priestly writings\"]...",
+            "fid" : "content" },
+          
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...[ represented by the Apographa -- the \"hidden writings\"]. The <mark>public<\/mark> account portrays the actions of the Tribunal in a heroic light...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...the most popular of them all. Vivec is also the most <mark>public<\/mark>, for he is the beloved Warrior-Poet of the...",
+            "fid" : "content" },
+          
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 350,
+            "context" : "The <mark>public<\/mark> face of Vivec is benign, sensitive, compassionate, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...share in the growth and prosperity of the Empire. Hlaalu <mark>public<\/mark> buildings—tradehouses and craft guilds, manors and council halls...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...Naga. The Gateway merchant inn is the only establishment with <mark>public<\/mark> beds. Members of the Fighters Guild, Mages Guild,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...worship is regarded as a private and practical matter, and <mark>public<\/mark> pronouncements by religious figures are not welcomed.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "public",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...the magistrates. The council laments the unfortunate disturbances of the <mark>public<\/mark> peace resulting from the increasingly aggressive competition between the Thieves Guild...",
+            "fid" : "content" } ] } ] }

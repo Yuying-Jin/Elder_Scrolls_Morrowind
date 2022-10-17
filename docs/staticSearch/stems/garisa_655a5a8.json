@@ -1,0 +1,48 @@
+
+  { "stem" : "garisa",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Garisa",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "...councilors, Brara Morvayn, Hlaren Ramoran, Athyn Sarethi, <mark>Garisa<\/mark> Llethri, Miner Arobar, and Bolvyn Venim, have manor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Garisa",
+            "weight" : "1",
+            "pos" : 6821,
+            "context" : "<mark>Garisa<\/mark> Llethri" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "garisa",
+            "weight" : "1",
+            "pos" : 6938,
+            "context" : "<mark>garisa<\/mark> llethri",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Garisa",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "Master Lord <mark>Garisa<\/mark> Llethri, by Grace of Almsivi, Honored Councilor of Redoran...",
+            "fid" : "content" } ] } ] }

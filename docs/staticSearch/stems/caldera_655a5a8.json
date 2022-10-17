@@ -1,0 +1,193 @@
+
+  { "stem" : "caldera",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 1092,
+            "context" : "...and Khuul lie on the north coast. The town of <mark>Caldera<\/mark> lies near Balmora. The herds of the Ashlanders of Urshilaku...",
+            "fid" : "content" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 1121,
+            "context" : "...City. Good roads lead north to Ald'ruhn and south to <mark>Caldera<\/mark>, Seyda Neen, and Vivec City. The Imperial Legion...",
+            "fid" : "content" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 1134,
+            "context" : " <mark>Caldera<\/mark> is a recently chartered Imperial town and mining corporation. The...",
+            "fid" : "content" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 1141,
+            "context" : "...is a recently chartered Imperial town and mining corporation. The <mark>Caldera<\/mark> Mining Company has been granted an Imperial monopoly to remove raw...",
+            "fid" : "content" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 1152,
+            "context" : "...Imperial monopoly to remove raw ebony from the rich deposits here. <mark>Caldera<\/mark> has the appearance and flavor of a Western Imperial town....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...Gan and Gnisis villages and by a circuitous western route to <mark>Caldera<\/mark>, Balmora, and points south. The road to Balmora...",
+            "fid" : "content" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 323,
+            "context" : "...curves around towards the west until it heads south again to <mark>Caldera<\/mark>. Between Ald'ruhn and Caldera are many sidepaths; watch for...",
+            "fid" : "content" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "...until it heads south again to Caldera. Between Ald'ruhn and <mark>Caldera<\/mark> are many sidepaths; watch for signposts, or you'll get...",
+            "fid" : "content" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 361,
+            "context" : "...the Mages Guild teleport you to Balmora, Vivec City, <mark>Caldera<\/mark>, and Sadrith Mora for a modest fee. Gnaar Mok...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 1361,
+            "context" : "<mark>Caldera<\/mark>" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 1393,
+            "context" : "<mark>Caldera<\/mark>, Surane Leoriane's house" },
+          
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 1402,
+            "context" : "<mark>Caldera<\/mark>, Valvius Mevureius' House" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "caldera",
+            "weight" : "1",
+            "pos" : 1530,
+            "context" : "<mark>caldera<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "caldera",
+            "weight" : "1",
+            "pos" : 1564,
+            "context" : "<mark>caldera<\/mark>, surane leoriane's house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "caldera",
+            "weight" : "1",
+            "pos" : 1573,
+            "context" : "<mark>caldera<\/mark>, valvius mevureius' house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Caldera<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "..., Moonmoth Fort, Ebonheart Imperial Chapels, Governor's Hall in <mark>Caldera<\/mark>, and Ald Velothi Outpost.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "<mark>Caldera<\/mark>, Valvius Mevureius' House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 337,
+            "context" : "...Mages Guild can teleport you to Ald'ruhn, Vivec City, <mark>Caldera<\/mark>, and Balmora for a modest fee.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "<mark>Caldera<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "<mark>Caldera<\/mark>, Surane Leoriane's house: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Caldera",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "<mark>Caldera<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,59 @@
+
+  { "stem" : "wild",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "wild",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...important crop of the Ascadian Isles, but it also grows <mark>wild<\/mark> in the Grazelands and on Azura's Coast. wickwheat is a...",
+            "fid" : "content" },
+          
+          { "form" : "wild",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...in the Grazelands and on Azura's Coast. wickwheat is a <mark>wild<\/mark> Ashland grain that grows in the Grazelands. Corkbulb grows best...",
+            "fid" : "content" },
+          
+          { "form" : "wild",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...farms and plantations in the Ascadian Isles. saltrice occasionally grows <mark>wild<\/mark> in the Grazelands and on Azura's Coast.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wild",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...routes. Casual travelers ill-equipped for the attacks of <mark>wild<\/mark> beasts and brigands should keep to the roads and travel services...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wild",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...Poppy, both black and white, can be found growing <mark>wild<\/mark> in the mountains of Hammerfell. Their succulent pods are often...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wild",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "Supposedly the Spear of Bitter Mercy used in the <mark>Wild<\/mark> Hunts could not be handled by any mortal or immortal save...",
+            "fid" : "content" } ] } ] }

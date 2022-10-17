@@ -1,0 +1,13 @@
+
+  { "stem" : "librarium",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Librarium",
+            "weight" : "1",
+            "pos" : 2,
+            "context" : "The <mark>Librarium<\/mark>" } ] } ] }

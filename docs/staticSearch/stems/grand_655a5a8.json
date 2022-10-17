@@ -1,0 +1,103 @@
+
+  { "stem" : "grand",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grand",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...renews its objection to proposals placed before Duke Dren and the <mark>Grand<\/mark> Council concerning slavery and slave trading in Vvardenfell District. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grand",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...Somutis Vunnis at Moonmoth Legion Fort, Ruccia Conician in the <mark>Grand<\/mark> Council Chambers in Ebonheart, or Lalatia Varian in the Imperial...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grand",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : "...precincts enclosing outbuildings for craftsmen and servants, dominated by a <mark>grand<\/mark> manor residence in place of a Temple shrine.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grand",
+            "weight" : "1",
+            "pos" : 738,
+            "context" : " The piercing light of the <mark>Grand<\/mark> Pharos at the mouth of the harbor of the port village...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grand",
+            "weight" : "1",
+            "pos" : 5326,
+            "context" : "<mark>Grand<\/mark>_Council" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grand",
+            "weight" : "1",
+            "pos" : 5216,
+            "context" : "<mark>grand<\/mark> council",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grand",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...secrets of Red Mountain while Nerevar went to confer with the <mark>Grand<\/mark> Council [i.e., the Tribunal], that Nerevar died at the conference...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grand",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...secrets of Red Mountain while Nerevar went to confer with the <mark>Grand<\/mark> Council [i.e., the Tribunal], that Nerevar died at the conference...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grand",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...but Nerevar's alliance survives in Morrowind's ruling political institution, the <mark>Grand<\/mark> Council.",
+            "fid" : "content" } ] } ] }

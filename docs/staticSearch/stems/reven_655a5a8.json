@@ -1,0 +1,555 @@
+
+  { "stem" : "reven",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 36,
+        "contexts" : 
+        [ 
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "Blasphemous <mark>Revenants<\/mark>" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 794,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 891,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 1022,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 1063,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2133,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2206,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2219,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2324,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2342,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2395,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2660,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2705,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3028,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3584,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3613,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3630,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3950,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3993,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4022,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4057,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4299,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4317,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4358,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4424,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4448,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4514,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4579,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5015,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5100,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5118,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5380,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5422,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5534,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5583,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 6207,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 35,
+        "contexts" : 
+        [ 
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 617,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 3" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 707,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 2" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 831,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 845,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 1965,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 2" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2032,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2040,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2161,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2172,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2227,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2505,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2547,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 2866,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3438,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3467,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3481,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3753,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3792,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3821,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 3850,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4155,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4181,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4212,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4285,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4305,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4376,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4424,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4898,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4959,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 4977,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5183,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5228,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5322,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5342,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" },
+          
+          { "form" : "Revenants",
+            "weight" : "1",
+            "pos" : 5917,
+            "context" : "Blasphemous <mark>Revenants<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "revenants",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...basic types: spirit, flesh, and fleshless. Spirit <mark>revenants<\/mark> like the ancestor ghost, wraith, and dwarven ghost,...",
+            "fid" : "content" },
+          
+          { "form" : "revenant",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...such as silver. Ancestor ghosts, the most common spirit <mark>revenant<\/mark>, are harmless, apart from the minor curses they lay...",
+            "fid" : "content" },
+          
+          { "form" : "revenants",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "Flesh <mark>revenants<\/mark>, or 'zombies' as they are often called in the West...",
+            "fid" : "content" },
+          
+          { "form" : "revenants",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "It is difficult to generalize about fleshless <mark>revenants<\/mark>, or skeletons. The agility and fighting ability of the...",
+            "fid" : "content" },
+          
+          { "form" : "revenant's",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...of the animated remains may depend on the abilities of the <mark>revenant's<\/mark> former life, and may therefore be weak or strong,...",
+            "fid" : "content" },
+          
+          { "form" : "revenant",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : ".... An exception is the bonelord, a peculiar form of <mark>revenant<\/mark> that seems to derive its powers more from its spirit energies...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "revenants",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...basic types: spirit, flesh, and fleshless. Spirit <mark>revenants<\/mark> like the ancestor ghost, wraith, and dwarven ghost,...",
+            "fid" : "content" },
+          
+          { "form" : "revenant",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...such as silver. Ancestor ghosts, the most common spirit <mark>revenant<\/mark>, are harmless, apart from the minor curses they lay...",
+            "fid" : "content" },
+          
+          { "form" : "revenants",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "Flesh <mark>revenants<\/mark>, or 'zombies' as they are often called in the West...",
+            "fid" : "content" },
+          
+          { "form" : "revenants",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "It is difficult to generalize about fleshless <mark>revenants<\/mark>, or skeletons. The agility and fighting ability of the...",
+            "fid" : "content" },
+          
+          { "form" : "revenant's",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...of the animated remains may depend on the abilities of the <mark>revenant's<\/mark> former life, and may therefore be weak or strong,...",
+            "fid" : "content" },
+          
+          { "form" : "revenant",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : ".... An exception is the bonelord, a peculiar form of <mark>revenant<\/mark> that seems to derive its powers more from its spirit energies...",
+            "fid" : "content" } ] } ] }

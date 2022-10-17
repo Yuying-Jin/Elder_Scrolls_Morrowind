@@ -1,0 +1,75 @@
+
+  { "stem" : "depend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "depends",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "It is true that advancement in Telvanni ranks <mark>depends<\/mark> on high intelligence and willpower, and that candidates proficient in...",
+            "fid" : "content" },
+          
+          { "form" : "depend",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "The truth is that House Telvanni wizard-lords <mark>depend<\/mark> on loyal, well-paid, skilled retainers for most...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "depends",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : " A lot of the game <mark>depends<\/mark> on recognizing the types of shop-keepers and not automatically...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "depend",
+            "weight" : "1",
+            "pos" : 507,
+            "context" : "...gather alms from members and friends of the faith. We <mark>depend<\/mark> on donations to fund most of our good works. Almoners...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Depends",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : " <mark>Depends<\/mark>. Is an orc is [sic] doing the counting...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "depend",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : ".... The agility and fighting ability of the animated remains may <mark>depend<\/mark> on the abilities of the revenant's former life, and may...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "depend",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : ".... The agility and fighting ability of the animated remains may <mark>depend<\/mark> on the abilities of the revenant's former life, and may...",
+            "fid" : "content" } ] } ] }

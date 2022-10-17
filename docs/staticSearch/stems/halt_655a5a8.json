@@ -1,0 +1,14 @@
+
+  { "stem" : "halt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "halt",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...salt or natron for at least one month. This will <mark>halt<\/mark> the decay of the corpse, and if the corpse is...",
+            "fid" : "content" } ] } ] }

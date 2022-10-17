@@ -1,0 +1,14 @@
+
+  { "stem" : "beacon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beacon",
+            "weight" : "1",
+            "pos" : 746,
+            "context" : "...the harbor of the port village of Seyda Neen is a <mark>beacon<\/mark> to mariners throughout the Inner Sea. Most visitors from the...",
+            "fid" : "content" } ] } ] }

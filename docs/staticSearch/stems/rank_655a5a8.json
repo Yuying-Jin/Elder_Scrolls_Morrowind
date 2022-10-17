@@ -1,0 +1,200 @@
+
+  { "stem" : "rank",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...Only the most distinguished are worthy of advancement to the higher <mark>ranks<\/mark> in the Imperial cults.",
+            "fid" : "content" },
+          
+          { "form" : "ranking",
+            "weight" : "1",
+            "pos" : 422,
+            "context" : "...drakes. Newer members pay 10 drakes, while higher-<mark>ranking<\/mark> members receive blessings free. Healing altars are found in: Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 519,
+            "context" : "...are successful at bringing in generous donations may rise in the <mark>ranks<\/mark> of Imperial Cults service. Almoners must travel in town and...",
+            "fid" : "content" },
+          
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 608,
+            "context" : "...of all Imperial cult missions. Only members of the higher <mark>ranks<\/mark> are invited to assist the Oracle, and the challenges require...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "It is true that advancement in Telvanni <mark>ranks<\/mark> depends on high intelligence and willpower, and that candidates proficient...",
+            "fid" : "content" },
+          
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : "...Enchanting - can expect to advance faster and higher in the <mark>ranks<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 351,
+            "context" : "Promotion in the <mark>ranks<\/mark> of House Telvanni, however, is very difficult for outsiders...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "...lowly man such as yourselves. By my will I entered the <mark>ranks<\/mark> of the gods. By your unquestioning devotion, you can...",
+            "fid" : "content" },
+          
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "He was also a man who entered the <mark>ranks<\/mark> of the gods. The similarities between his mortal life and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...houses. Later, after faithful service and advancement in lower <mark>ranks<\/mark>, an outlander may seek adoption into a Great House....",
+            "fid" : "content" },
+          
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...adoption into a Great House. Adoption and advancement to higher <mark>ranks<\/mark> in a Great House requires that a Great House councilor stand...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rank",
+            "weight" : "1",
+            "pos" : 414,
+            "context" : "Though the Dissident priests acknowledge that most <mark>rank<\/mark>-and-file priests honor the best traditions of the Temple,...",
+            "fid" : "content" },
+          
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 425,
+            "context" : "...of the Temple, they believe that many priests in higher <mark>ranks<\/mark> are interested more in love of authority and luxury than in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rank",
+            "weight" : "1",
+            "pos" : 414,
+            "context" : "Though the Dissident priests acknowledge that most <mark>rank<\/mark>-and-file priests honor the best traditions of the Temple,...",
+            "fid" : "content" },
+          
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 425,
+            "context" : "...of the Temple, they believe that many priests in higher <mark>ranks<\/mark> are interested more in love of authority and luxury than in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ranks",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "The <mark>Ranks<\/mark> of the Blessed",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "...knowledge is through pilgrimage. Those who would rise in the <mark>ranks<\/mark> of the faithful may retrace the steps of the Lords and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 278,
+            "context" : "...will, you may serve House Hlaalu, and advance in the <mark>ranks<\/mark>, for above all things, House Hlaalu prizes initiative and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ranking",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...eastmost canton. The mage-lord Mavon Drenim is the <mark>ranking<\/mark> Telvanni noble. The Telvanni rent the compound from the Temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ranks",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...got requirements. And if you want to advance in the <mark>ranks<\/mark>, we've got standards.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ranks",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "The <mark>Ranks<\/mark> of the Blessed Blessed are the Bonemen, for they serve...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rank",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...and make a modest donation. The Blessed of the Initiate <mark>rank<\/mark> and higher of the Temple have already made their devotions in...",
+            "fid" : "content" } ] } ] }

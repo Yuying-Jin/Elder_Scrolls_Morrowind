@@ -1,0 +1,25 @@
+
+  { "stem" : "strategi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strategy",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...your opportunities for ownership. Occasionally impulsiveness is the best buying <mark>strategy<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strategy",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "..., freshly stolen, and they began to detail out the <mark>strategy<\/mark>.",
+            "fid" : "content" } ] } ] }

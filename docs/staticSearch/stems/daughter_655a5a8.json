@@ -1,0 +1,14 @@
+
+  { "stem" : "daughter",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "daughter",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...you would never survive,\" said the old woman. \"My <mark>daughter<\/mark>, you see, has been kidnapped by the Coribael brothers...",
+            "fid" : "content" } ] } ] }

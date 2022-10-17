@@ -1,0 +1,31 @@
+
+  { "stem" : "integr",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "integral",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...but is instinctively understood and accepted by the Dunmer as an <mark>integral<\/mark> part of Vivec's divine aspect. A more complete appreciation of...",
+            "fid" : "content" },
+          
+          { "form" : "integrate",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "...\/poetic truths); Mephala is understood paradoxically to contain and <mark>integrate<\/mark> these contradictory themes. And all these subtle undercurrents and contradictions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "integration",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...of my own welfare, I passively acquiesced in my gradual <mark>integration<\/mark> into the affairs of Clan Aundae. I made no human...",
+            "fid" : "content" } ] } ] }

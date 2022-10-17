@@ -1,0 +1,14 @@
+
+  { "stem" : "contenti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Contentious",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "Lord Vivec and the <mark>Contentious<\/mark> Beasts",
+            "fid" : "content" } ] } ] }

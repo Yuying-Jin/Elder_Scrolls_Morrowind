@@ -1,0 +1,14 @@
+
+  { "stem" : "compart",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "compartments",
+            "weight" : "1",
+            "pos" : 525,
+            "context" : "...said as he poured the gold pieces into the specially designed <mark>compartments<\/mark> in his tunic's sleeves, where they held fast with no...",
+            "fid" : "content" } ] } ] }

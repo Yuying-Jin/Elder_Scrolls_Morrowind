@@ -1,0 +1,43 @@
+
+  { "stem" : "seht",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Seht",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "Then <mark>Seht<\/mark> came to the netchiman's wife and said:",
+            "fid" : "content" },
+          
+          { "form" : "Seht",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "And <mark>Seht<\/mark> then extended his hands and multitudes of homunculi came forth,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seht",
+            "weight" : "1",
+            "pos" : 7190,
+            "context" : "<mark>Seht<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seht",
+            "weight" : "1",
+            "pos" : 7305,
+            "context" : "<mark>seht<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

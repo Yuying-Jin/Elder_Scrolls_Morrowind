@@ -1,0 +1,47 @@
+
+  { "stem" : "basic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "basic",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : " Vvardenfell has nine <mark>basic<\/mark> geographic regions, each with their own distinctive plants and terrain...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "basic",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "Undead commonly occur in three <mark>basic<\/mark> types: spirit, flesh, and fleshless. Spirit revenants...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "basic",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Undead commonly occur in three <mark>basic<\/mark> types: spirit, flesh, and fleshless. Spirit revenants...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "basic",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...there used to be some pride, some skill, some <mark>basic<\/mark> creativity. It really makes those of us with a sense...",
+            "fid" : "content" } ] } ] }

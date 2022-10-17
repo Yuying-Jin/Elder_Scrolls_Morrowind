@@ -1,0 +1,25 @@
+
+  { "stem" : "couldn't",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "couldn't",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...during one of these jaunts? I don't think so. Why <mark>couldn't<\/mark> you get a nice position at the Fighters Guild right here...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "couldn't",
+            "weight" : "1",
+            "pos" : 610,
+            "context" : "...brought in for questioning already. It was a pity he <mark>couldn't<\/mark> see them undergoing interrogation. Who would break under pressure first...",
+            "fid" : "content" } ] } ] }

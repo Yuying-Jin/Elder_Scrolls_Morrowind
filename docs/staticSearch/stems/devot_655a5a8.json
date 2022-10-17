@@ -1,0 +1,31 @@
+
+  { "stem" : "devot",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "devotion",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...may be granted blessings through the miraculous sacraments of prayer and <mark>devotion<\/mark>. The three-sided shrines betoken the three-faced...",
+            "fid" : "content" },
+          
+          { "form" : "devotions",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "...Initiate rank and higher of the Temple have already made their <mark>devotions<\/mark> in service and piety, and need only pray at the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "devotion",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "...I entered the ranks of the gods. By your unquestioning <mark>devotion<\/mark>, you can share my glory.",
+            "fid" : "content" } ] } ] }

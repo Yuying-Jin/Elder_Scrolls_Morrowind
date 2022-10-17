@@ -1,0 +1,44 @@
+
+  { "stem" : "troup",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "troupe",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "\"What tricks can your <mark>troupe<\/mark> perform?\" asked the wizard to the lead acrobat, Rhunen...",
+            "fid" : "content" },
+          
+          { "form" : "troupe",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...disapprobation and a dismissive gesture toward the Redguard woman in the <mark>troupe<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "troupe",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : ".... He also had some concerns about the outlanders in our <mark>troupe<\/mark>, though it was our Khajiit tumbler Master S'Rabba who he...",
+            "fid" : "content" },
+          
+          { "form" : "troupe",
+            "weight" : "1",
+            "pos" : 410,
+            "context" : "...say that no one is faster on their feet than our <mark>troupe<\/mark>, but Master Neloth's guards were surprisingly quick. I sent...",
+            "fid" : "content" },
+          
+          { "form" : "troupe",
+            "weight" : "1",
+            "pos" : 417,
+            "context" : "...but Master Neloth's guards were surprisingly quick. I sent the <mark>troupe<\/mark> through the gate to the docks while I distracted the guards...",
+            "fid" : "content" },
+          
+          { "form" : "troupe",
+            "weight" : "1",
+            "pos" : 444,
+            "context" : "...amount of gold and time it takes to train a good <mark>troupe<\/mark>, and it seemed smarter to try to save everyone....",
+            "fid" : "content" } ] } ] }

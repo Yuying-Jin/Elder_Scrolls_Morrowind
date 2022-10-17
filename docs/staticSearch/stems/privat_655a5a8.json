@@ -1,0 +1,70 @@
+
+  { "stem" : "privat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "private",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "...by covert pickpocketing. It is forbidden to trespass upon the <mark>private<\/mark> property of another member. Break any one of these rules...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "private",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "...entranceways and modest decorated exteriors. More modest one-story <mark>private<\/mark> dwellings follow the same plan, except with less decoration....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Private",
+            "weight" : "1",
+            "pos" : 3002,
+            "context" : "Ramoran <mark>Private<\/mark> Quarters" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "private",
+            "weight" : "1",
+            "pos" : 3175,
+            "context" : "ramoran <mark>private<\/mark> quarters",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Private",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Ramoran <mark>Private<\/mark> Quarters: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "private",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "..., and bureaucratic affairs. Cult worship is regarded as a <mark>private<\/mark> and practical matter, and public pronouncements by religious figures are...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "protest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "protests",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...Dratha: Mouth Mallam Ryon Council Actions In response to repeated <mark>protests<\/mark> from Duke Dren and representative of the other Great Houses,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "protests",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...on flin [an imported fortified Imperial alcoholic beverage]. The council <mark>protests<\/mark> the continuing burdensome tariffs on the native beverages sujamma, greef...",
+            "fid" : "content" } ] } ] }

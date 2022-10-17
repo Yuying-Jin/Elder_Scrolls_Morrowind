@@ -1,0 +1,14 @@
+
+  { "stem" : "smoke",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Smokes",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "<mark>Smokes<\/mark> and shades on the biers of Red Mountain.",
+            "fid" : "content" } ] } ] }

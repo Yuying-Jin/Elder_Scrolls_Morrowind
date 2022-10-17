@@ -1,0 +1,20 @@
+
+  { "stem" : "summer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "summer",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "As spring turned into <mark>summer<\/mark> and summer into fall, Oin began to sell his herbs...",
+            "fid" : "content" },
+          
+          { "form" : "summer",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "As spring turned into summer and <mark>summer<\/mark> into fall, Oin began to sell his herbs, including...",
+            "fid" : "content" } ] } ] }

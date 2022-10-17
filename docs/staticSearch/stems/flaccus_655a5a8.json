@@ -1,0 +1,37 @@
+
+  { "stem" : "flaccus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Flaccus'",
+            "weight" : "1",
+            "pos" : 2268,
+            "context" : "Ignatius_<mark>Flaccus'<\/mark>_House" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flaccus'",
+            "weight" : "1",
+            "pos" : 2434,
+            "context" : "ignatius <mark>flaccus'<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Flaccus'",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "Ignatius <mark>Flaccus'<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

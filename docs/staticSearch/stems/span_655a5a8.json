@@ -1,0 +1,25 @@
+
+  { "stem" : "span",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "span",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...Blessed are the Masters, for they bridge the past and <mark>span<\/mark> the future.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "span",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...Blessed are the Masters, for they bridge the past and <mark>span<\/mark> the future.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,92 @@
+
+  { "stem" : "natur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nature",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...a time, giving him strength far beyond the puny power <mark>nature<\/mark> had intended. When Oin met Horath on the street of...",
+            "fid" : "content" },
+          
+          { "form" : "natural",
+            "weight" : "1",
+            "pos" : 566,
+            "context" : "...Over several weeks, he learned how to supplant his own <mark>natural<\/mark> energy with the spell's, how to view the world at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nature",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...Vivec's divine aspect. A more complete appreciation of the complex <mark>nature<\/mark> of Vivec requires an understanding of the nature of Vivec's Anticipation...",
+            "fid" : "content" },
+          
+          { "form" : "nature",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...of the complex nature of Vivec requires an understanding of the <mark>nature<\/mark> of Vivec's Anticipation, Mephala, and the darker themes represented...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "natural",
+            "weight" : "1",
+            "pos" : 446,
+            "context" : "...While I prefer to work with those who have died a <mark>natural<\/mark> death, a more expedient approach is sometimes necessary to further...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nature",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...[Rithari sought and obtained a cursed soul gem of mysterious <mark>nature<\/mark> from a deep cavern on the northern slopes of Dagoth Ur...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nature",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...is good evidence that the Tribunal have been concealing the true <mark>nature<\/mark> of the threat posed by Dagoth Ur at Red Mountain,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nature",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...is good evidence that the Tribunal have been concealing the true <mark>nature<\/mark> of the threat posed by Dagoth Ur at Red Mountain,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "natural",
+            "weight" : "1",
+            "pos" : 527,
+            "context" : "..., towards the sea, and is marked by a large <mark>natural<\/mark> arch of stone. The region is wilderness, and finding...",
+            "fid" : "content" } ] } ] }

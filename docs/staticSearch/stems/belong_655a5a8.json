@@ -1,0 +1,14 @@
+
+  { "stem" : "belong",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "belong",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "Why <mark>belong<\/mark>? Simple. Everybody needs friends.",
+            "fid" : "content" } ] } ] }

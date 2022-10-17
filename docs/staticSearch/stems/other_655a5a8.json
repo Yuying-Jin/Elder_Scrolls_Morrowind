@@ -1,0 +1,91 @@
+
+  { "stem" : "other",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...Those who follow the Tribunal must have the Personality to lead <mark>others<\/mark> and the Willpower to resist the world's temptations. When violence...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...one is, the more one bears responsibility for helping and protecting <mark>others<\/mark>. One's first duty, of course, is to one's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...The Great Market has many services and tradesmen, and many <mark>others<\/mark> are scattered through town. There are two cornerclubs: Dirty...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "weight" : "1",
+            "pos" : 903,
+            "context" : ".... The Ashlanders of Erabenimsun camp hunt game here, but few <mark>others<\/mark> venture into this region. The worst part of Molag Amur...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "..., then asked him, \"How can you pretend to prescribe for <mark>others<\/mark> the cure to all diseases, when you are unable to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...a communal judgement by the Dunmer ancestors [ including, among <mark>others<\/mark>, the Good Daedra, the prophet Veloth, and Saint...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "weight" : "1",
+            "pos" : 458,
+            "context" : "...to the back of the Gateway Inn, far from the <mark>others<\/mark>, and when I was sure they were safe, I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "others",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...a communal judgement by the Dunmer ancestors [ including, among <mark>others<\/mark>, the Good Daedra, the prophet Veloth, and Saint...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,36 @@
+
+  { "stem" : "six",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "six",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...you are offered something for ten gold pieces, try offering <mark>six<\/mark> and see where that takes you.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "six",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : " All <mark>six<\/mark> Redoran councilors, Brara Morvayn, Hlaren Ramoran, Athyn Sarethi...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "six",
+            "weight" : "1",
+            "pos" : 398,
+            "context" : "...Airen Coribael. The fight lasted seven days, and for <mark>six<\/mark> of them, Airen had the upper hand. He rained kicks...",
+            "fid" : "content" } ] } ] }

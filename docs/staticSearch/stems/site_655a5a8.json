@@ -1,0 +1,127 @@
+
+  { "stem" : "site",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "...City. Though exotic and picturesque, it is a dangerous <mark>site<\/mark>, haunted by old magics, dark cultists, and their...",
+            "fid" : "content" },
+          
+          { "form" : "sites",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "...corner of the fertile Ascadian Isles region. Two popular pilgrimage <mark>sites<\/mark> are nearby -- the Fields of Kummu and the Molag Bal's...",
+            "fid" : "content" },
+          
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : "...Ald'ruhn. The Maar Gan shrine is an important Temple pilgrimage <mark>site<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 592,
+            "context" : ".... The associated settlement is a sizable village, and the <mark>site<\/mark> of the Festival Slave Market, the largest slave market on...",
+            "fid" : "content" },
+          
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 648,
+            "context" : "...in the southeastern islands and promontories of Azura's Coast. The <mark>site<\/mark> has a nasty reputation, and several Telvanni wizards currently have...",
+            "fid" : "content" },
+          
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 666,
+            "context" : "...looting there. Legend says that Bal Fell was built on the <mark>site<\/mark> of an ancient Daedric worship center.",
+            "fid" : "content" },
+          
+          { "form" : "sites",
+            "weight" : "1",
+            "pos" : 932,
+            "context" : "...desolate Molag Amur region. Pilgrims bound for the nearby pilgrimage <mark>sites<\/mark> at Mount Assarnibibi and Mount Kand take refuge at the outpost's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...servant, one need only bring the corpse to a suitable <mark>site<\/mark> and enact the proper rituals. However, there are a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sited",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...native insects. Most guildhalls, cornerclubs, and merchants are <mark>sited<\/mark> in the southwest corner of town, convenient to West Gate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...the Telvanni compound on the east. The Arena is the <mark>site<\/mark> of public entertainments and combat sports. The comfortable domed Arena...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "...: Chimere believes that Dagon had Caecilly Island established as the <mark>site<\/mark> of the Chapel of the Innocent Quarry to personally mock and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sites",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...Almsivi, and may be found in Temples, or at <mark>sites<\/mark> of pilgrimage, or at pilgrim waysides, or in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...each of the Shrines of the Seven Graces. At each <mark>site<\/mark> the pilgrim must stand before the three-sided stone triolith...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "site",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : "...to the Buoyant Armiger garrison at Bal Ur, a pilgrimage <mark>site<\/mark> known as the \"birthplace of Molag Bal.\"",
+            "fid" : "content" } ] } ] }

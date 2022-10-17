@@ -1,0 +1,14 @@
+
+  { "stem" : "mandat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mandate",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "..., traditions dating back to the witch kings and nomadic horsemen <mark>mandate<\/mark> cremation of the dead. This is practiced almost without exception...",
+            "fid" : "content" } ] } ] }

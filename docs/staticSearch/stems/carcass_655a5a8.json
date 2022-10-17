@@ -1,0 +1,14 @@
+
+  { "stem" : "carcass",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carcass",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...9th moon........ \"It is as I feared. A <mark>carcass<\/mark> is all I have come to find. They have sealed...",
+            "fid" : "content" } ] } ] }

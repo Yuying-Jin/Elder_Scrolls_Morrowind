@@ -1,0 +1,14 @@
+
+  { "stem" : "tavern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tavern",
+            "weight" : "1",
+            "pos" : 477,
+            "context" : "...fell beneath his fingers, he softly sang an old dirty <mark>tavern<\/mark> song about the Ninety-Nine Loves of Boethiah. He...",
+            "fid" : "content" } ] } ] }

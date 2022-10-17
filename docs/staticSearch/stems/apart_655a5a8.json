@@ -1,0 +1,80 @@
+
+  { "stem" : "apart",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "apart",
+            "weight" : "1",
+            "pos" : 499,
+            "context" : "...rest of the living and many amateur practitioners have been torn <mark>apart<\/mark> by the animal servants they created. Let such stories be...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "apart",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...no human my prey, only beasts, and kept myself <mark>apart<\/mark> from the other clankin; nonetheless, I abandoned hope and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "apartments",
+            "weight" : "1",
+            "pos" : 502,
+            "context" : "...charges very reasonable rents for comfortable workshops, shops, and <mark>apartments<\/mark>, and most of Vvardenfell's crafts and light industry are housed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "apart",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...ghosts, the most common spirit revenant, are harmless, <mark>apart<\/mark> from the minor curses they lay upon their victims. Wraiths...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "apart",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...ghosts, the most common spirit revenant, are harmless, <mark>apart<\/mark> from the minor curses they lay upon their victims. Wraiths...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "apart",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "..., managed to spear a fish. The men tore it <mark>apart<\/mark> and ate it raw. As the days and weeks went...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "apart",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...tried to get to his feet, but Baranat tore him <mark>apart<\/mark>, scattering him across the valley floor in eighty-seven...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "sponsor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "sponsor",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...a Great House requires that a Great House councilor stand as <mark>sponsor<\/mark> for the candidate's character and loyalty. Finding a councilor to...",
+            "fid" : "content" },
+          
+          { "form" : "sponsor",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...for the candidate's character and loyalty. Finding a councilor to <mark>sponsor<\/mark> an outlander often involves performing a great service for the prospective...",
+            "fid" : "content" },
+          
+          { "form" : "sponsor",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...an outlander often involves performing a great service for the prospective <mark>sponsor<\/mark>.",
+            "fid" : "content" } ] } ] }

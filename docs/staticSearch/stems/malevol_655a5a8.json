@@ -1,0 +1,25 @@
+
+  { "stem" : "malevol",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "malevolent",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...rituals that bind them to this plane. All bonewalkers are <mark>malevolent<\/mark> and dangerous, but the greater bonewalkers are far worse than...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "malevolent",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...rituals that bind them to this plane. All bonewalkers are <mark>malevolent<\/mark> and dangerous, but the greater bonewalkers are far worse than...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "estat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "estate",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "When the Lady Genevrah was kidnapped from her <mark>estate<\/mark> and held for ransom, her mother sent word out that...",
+            "fid" : "content" },
+          
+          { "form" : "estate",
+            "weight" : "1",
+            "pos" : 493,
+            "context" : "...back at the old woman's court, he discovered that the <mark>estate<\/mark> that he would be inheriting was utterly dissolute by decades of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "estates",
+            "weight" : "1",
+            "pos" : 334,
+            "context" : "...the same plan, except with less decoration. Hlaalu plantation <mark>estates<\/mark> resemble Temple compounds, with walled precincts enclosing outbuildings for craftsmen...",
+            "fid" : "content" } ] } ] }

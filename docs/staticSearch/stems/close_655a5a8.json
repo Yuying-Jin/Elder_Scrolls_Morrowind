@@ -1,0 +1,80 @@
+
+  { "stem" : "close",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "close",
+            "weight" : "1",
+            "pos" : 626,
+            "context" : "...other factions of Vvardenfell? The Imperial cults have a very <mark>close<\/mark> relationship with the Imperial legions, and a friendly and supportive...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "close",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "As a result of its <mark>close<\/mark> relationship with the Imperial administration, House Hlaalu has emerged as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "close",
+            "weight" : "1",
+            "pos" : 632,
+            "context" : "...peculiar blend of Telvanni and Western architectural styles, and is <mark>close<\/mark> to Vos village.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "close",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...of silence as glass can bend light. He had Silverthorn <mark>close<\/mark> his eyes while he tapped the side of his glass,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Close",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...they move. Illusions they supply to misdirect their prey. <mark>Close<\/mark> and sure they strike with shortblade, or distant and secure...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "closed",
+            "weight" : "1",
+            "pos" : 663,
+            "context" : "...visit his friend, Kena Yakin Bael. The door was <mark>closed<\/mark> this time and he heard voices within.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "closed",
+            "weight" : "1",
+            "pos" : 832,
+            "context" : "...through his bedroom window in ribbons, catching dust. He <mark>closed<\/mark> his eyes.",
+            "fid" : "content" } ] } ] }

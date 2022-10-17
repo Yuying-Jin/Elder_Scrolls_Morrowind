@@ -1,0 +1,36 @@
+
+  { "stem" : "connect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "connect",
+            "weight" : "1",
+            "pos" : 532,
+            "context" : " Foot bridges <mark>connect<\/mark> with the mainland between the Ebonheart region and Hlaalu Compound,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "connects",
+            "weight" : "1",
+            "pos" : 790,
+            "context" : "...Bitter Coast region. A rough track along the River Odai <mark>connects<\/mark> Hla Oad with the town of Balmora.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "connect",
+            "weight" : "1",
+            "pos" : 747,
+            "context" : "...experience he knew that servants talked. If they began to <mark>connect<\/mark> his absences with thefts in other towns, it was only...",
+            "fid" : "content" } ] } ] }

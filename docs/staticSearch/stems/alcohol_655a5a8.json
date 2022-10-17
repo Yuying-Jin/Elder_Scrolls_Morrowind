@@ -1,0 +1,25 @@
+
+  { "stem" : "alcohol",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "alcoholic",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...Morrowind, imposes favorable tariffs on flin [an imported fortified Imperial <mark>alcoholic<\/mark> beverage]. The council protests the continuing burdensome tariffs on the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "alcoholic",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "..., grants relief to merchants complaining of high tariffs on imported <mark>alcoholic<\/mark> beverages.",
+            "fid" : "content" } ] } ] }

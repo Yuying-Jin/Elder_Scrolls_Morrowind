@@ -1,0 +1,37 @@
+
+  { "stem" : "darod",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daroder",
+            "weight" : "1",
+            "pos" : 1547,
+            "context" : "<mark>Daroder<\/mark>_Helni" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "daroder",
+            "weight" : "1",
+            "pos" : 1716,
+            "context" : "<mark>daroder<\/mark> helni",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daroder",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Daroder<\/mark> Helni: Visitable? yes",
+            "fid" : "acq" } ] } ] }

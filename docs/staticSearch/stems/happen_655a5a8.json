@@ -1,0 +1,31 @@
+
+  { "stem" : "happen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "happened",
+            "weight" : "1",
+            "pos" : 494,
+            "context" : "...\"Later, if you please,\" said the Ashkhan. \"What <mark>happened<\/mark> then?\"",
+            "fid" : "content" },
+          
+          { "form" : "happened",
+            "weight" : "1",
+            "pos" : 512,
+            "context" : "\"Mighty Gothren, that part of the story hasn't <mark>happened<\/mark> yet,\" said Rhunen Zebavi. \"Are you ready for us...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "happened",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : "...would never have conspired to murder Lord Nerevar, but it <mark>happened<\/mark> so long ago... who can know the truth?\"",
+            "fid" : "content" } ] } ] }

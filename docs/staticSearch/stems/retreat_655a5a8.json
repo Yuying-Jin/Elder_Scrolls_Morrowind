@@ -1,0 +1,14 @@
+
+  { "stem" : "retreat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "retreat",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...heavy packs, and to advance and maneuver, charge and <mark>retreat<\/mark> on the field of battle.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "thieveri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thievery",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "...is cherished by Khajiits who have followed the career path of <mark>thievery<\/mark>. Many Khajiits will tuck a piece of Nightshade inside their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thievery",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "..., in those troubled days, kidnappings, murders, and <mark>thievery<\/mark> were rampant, and there was a dearth of able-...",
+            "fid" : "content" } ] } ] }

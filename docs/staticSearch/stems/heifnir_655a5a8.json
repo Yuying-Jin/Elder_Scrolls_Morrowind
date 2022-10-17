@@ -1,0 +1,37 @@
+
+  { "stem" : "heifnir",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Heifnir",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "Dagon Fel, <mark>Heifnir<\/mark>: Trader: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Heifnir",
+            "weight" : "1",
+            "pos" : 1498,
+            "context" : "Dagon Fel, <mark>Heifnir<\/mark>: Trader" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heifnir",
+            "weight" : "1",
+            "pos" : 1669,
+            "context" : "dagon fel, <mark>heifnir<\/mark>: trader",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "stir",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stir",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "..., wickwheat, and Scuttle in a large bowl. Slowly <mark>stir<\/mark> in crabmeat and bittergreen. Bake covered in a hot over...",
+            "fid" : "content" },
+          
+          { "form" : "Stir",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...When the meat begins to brown, add the saltrice. <mark>Stir<\/mark> for a few moments and add the Scuttle and Kwama egg...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stirring",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...Scamp Skin and mix with Flin in large mug, slowly <mark>stirring<\/mark> with a glass rod. For a chilled drink, mix...",
+            "fid" : "content" } ] } ] }

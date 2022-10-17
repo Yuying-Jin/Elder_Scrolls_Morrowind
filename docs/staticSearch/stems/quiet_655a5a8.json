@@ -1,0 +1,72 @@
+
+  { "stem" : "quiet",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Quiet's",
+            "weight" : "1",
+            "pos" : 1699,
+            "context" : "Erna the <mark>Quiet's<\/mark> House" },
+          
+          { "form" : "Quiet",
+            "weight" : "1",
+            "pos" : 7051,
+            "context" : "Erna the <mark>Quiet<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "quiet's",
+            "weight" : "1",
+            "pos" : 1870,
+            "context" : "erna the <mark>quiet's<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "quiet",
+            "weight" : "1",
+            "pos" : 7176,
+            "context" : "erna the <mark>quiet<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quiet's",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "Erna the <mark>Quiet's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quiet",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : " A wounded Netch lay himself down in a <mark>quiet<\/mark> corner of its feeding-ground. His healthy companions came...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quietly",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "\"It's not my weapon of choice,\" said Harithoel, <mark>quietly<\/mark>, watching his prey and missing another with a splash and...",
+            "fid" : "content" } ] } ] }

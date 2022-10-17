@@ -1,0 +1,25 @@
+
+  { "stem" : "coupl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "couple",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...the adventurer who slew all those ash vampires in Ghostgate a <mark>couple<\/mark> of months back?”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "couple",
+            "weight" : "1",
+            "pos" : 689,
+            "context" : "...him to avoid bringing undue attention. They would take a <mark>couple<\/mark> flagons of greef, perhaps order a meal -- a big...",
+            "fid" : "content" } ] } ] }

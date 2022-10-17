@@ -1,0 +1,14 @@
+
+  { "stem" : "clever",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "clever",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...ordering through arcane codes and keys to confound even the most <mark>clever<\/mark> students.",
+            "fid" : "content" } ] } ] }

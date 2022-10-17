@@ -1,0 +1,228 @@
+
+  { "stem" : "enemi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "Arkay the <mark>Enemy<\/mark>" },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 1634,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 3551,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 5088,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 5446,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 5570,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 5817,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 6259,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 6393,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 8",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 1463,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1" },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 3398,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1" },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 5943,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1" },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 6007,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1" },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 6061,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 2" },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 6080,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1" },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 6179,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 1" },
+          
+          { "form" : "Enemy",
+            "weight" : "1",
+            "pos" : 6323,
+            "context" : "Arkay the <mark>Enemy<\/mark>, count: 8" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 327,
+            "context" : "...Tribunal, though we must never forget that they are our <mark>enemies<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 540,
+            "context" : "...can be difficult. Dreugh within the cave itself are fearsome <mark>enemies<\/mark>; only experienced and capable adventurers should attempt to re-...",
+            "fid" : "content" },
+          
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 584,
+            "context" : "...ALMSIVI, and a monument to Dunmer pride in overcoming its <mark>enemies<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "...shall not quail, nor turn away, but face my <mark>enemies<\/mark> and my fear.",
+            "fid" : "content" },
+          
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...harsh word, but shall speak respectfully, even of my <mark>enemies<\/mark>, for temperate words may turn aside anger.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...astonish even me. It is only proper that we should be <mark>enemies<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...dead, the more primitive Bosmer still practice cannibalism upon their <mark>enemies<\/mark>, which reduces the number of available corpses. As would...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...of Morrowind who walked the earth, defeated the Dunmer's greatest <mark>enemies<\/mark>, the Nords and the Dwarves, and achieved divine substance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...money, but they have not learned how not to make <mark>enemies<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enemies",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...thus on the Ninth Day of Mourning, many slaves and <mark>enemies<\/mark> were sacrificed and the Cup of Passage was mixed according to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enemy",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : "..., but once retrieved it can be used to put an <mark>enemy<\/mark> to sleep for a short while by passing it under his...",
+            "fid" : "content" } ] } ] }

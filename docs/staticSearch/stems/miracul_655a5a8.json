@@ -1,0 +1,36 @@
+
+  { "stem" : "miracul",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "miraculously",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "Temple doctrine claims their apotheosis was <mark>miraculously<\/mark> achieved through questing, virtue, knowledge, testing, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "miraculously",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "Temple doctrine claims their apotheosis was <mark>miraculously<\/mark> achieved through questing, virtue, knowledge, testing, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "miraculous",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...pray at the Temple's shrines may be granted blessings through the <mark>miraculous<\/mark> sacraments of prayer and devotion. The three-sided shrines...",
+            "fid" : "content" } ] } ] }

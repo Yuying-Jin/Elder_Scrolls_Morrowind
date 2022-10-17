@@ -1,0 +1,37 @@
+
+  { "stem" : "drenim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Drenim",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...Compound is the eastmost canton. The mage-lord Mavon <mark>Drenim<\/mark> is the ranking Telvanni noble. The Telvanni rent the compound...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Drenim",
+            "weight" : "1",
+            "pos" : 6531,
+            "context" : "Mavon <mark>Drenim<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "drenim",
+            "weight" : "1",
+            "pos" : 6640,
+            "context" : "mavon <mark>drenim<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

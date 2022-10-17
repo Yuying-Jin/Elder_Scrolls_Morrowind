@@ -1,0 +1,97 @@
+
+  { "stem" : "ritual",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rituals",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...bring the corpse to a suitable site and enact the proper <mark>rituals<\/mark>. However, there are a few tips that a young...",
+            "fid" : "content" },
+          
+          { "form" : "rituals",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...stiff or desiccated to be a useful servant, the proper <mark>rituals<\/mark> will imbue the mummified corpse with the strength to move itself....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rituals",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...without consent. Arkay's Law prevents those buried with the proper <mark>rituals<\/mark> from being raised to serve my children's will. As you know...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ritual",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...ghost or guardian, bonewalker or bonelord, summoned by profane <mark>ritual<\/mark> and bound by force to the corpse miner's will, how may...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ritual",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "The <mark>Ritual<\/mark> for Ending of Wrathmen From fifty Fathers Frozen in slavepast Rip...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rituals",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "While few Bosmer perform Arkay's <mark>rituals<\/mark> when burying the dead, the more primitive Bosmer still practice...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rituals",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...by the sharp protuberances of bone and metal employed in the <mark>rituals<\/mark> that bind them to this plane. All bonewalkers are malevolent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rituals",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...by the sharp protuberances of bone and metal employed in the <mark>rituals<\/mark> that bind them to this plane. All bonewalkers are malevolent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rituals",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "<mark>Rituals<\/mark> of the Hunt:",
+            "fid" : "content" } ] } ] }

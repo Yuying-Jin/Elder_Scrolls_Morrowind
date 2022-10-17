@@ -1,0 +1,32 @@
+
+  { "stem" : "address",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "address",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...High Fane, the great Temple of Vvardenfell. When you <mark>address<\/mark> the shrine, it is customary to leave behind a Potion...",
+            "fid" : "content" },
+          
+          { "form" : "address",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...northwest by road from the town of Ald'ruhn. When you <mark>address<\/mark> the shrine, it is customary to leave a potion of...",
+            "fid" : "content" },
+          
+          { "form" : "address",
+            "weight" : "1",
+            "pos" : 558,
+            "context" : "...may be bought at the Temple in Gnisis. When you <mark>address<\/mark> the shrine, it is customary to leave a portion of...",
+            "fid" : "content" },
+          
+          { "form" : "address",
+            "weight" : "1",
+            "pos" : 638,
+            "context" : "...and flees from any minions of Dagoth Ur. When you <mark>address<\/mark> the shrine, it is customary to leave a soul gem...",
+            "fid" : "content" } ] } ] }

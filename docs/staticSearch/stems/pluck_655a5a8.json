@@ -1,0 +1,14 @@
+
+  { "stem" : "pluck",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "plucked",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...Molag Amur, and Red Mountain regions. racer plumes are <mark>plucked<\/mark> from dead cliff racers. coda flowers are collected from the...",
+            "fid" : "content" } ] } ] }

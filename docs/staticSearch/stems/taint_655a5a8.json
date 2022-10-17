@@ -1,0 +1,20 @@
+
+  { "stem" : "taint",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "taint",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "...and the Temple have kept our land clean of the vampire's <mark>taint<\/mark>, but now these undead lords and their vile cattle have...",
+            "fid" : "content" },
+          
+          { "form" : "taint",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...die, and their corrupt cattle with them, and their blood <mark>taint<\/mark> must be forever erased by fire and stake.",
+            "fid" : "content" } ] } ] }

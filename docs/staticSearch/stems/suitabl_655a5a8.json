@@ -1,0 +1,42 @@
+
+  { "stem" : "suitabl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Suitable",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "...is customary to leave behind a Potion of Rising Force. <mark>Suitable<\/mark> potions may be purchased from the Temple . Homemade potions are...",
+            "fid" : "content" },
+          
+          { "form" : "Suitable",
+            "weight" : "1",
+            "pos" : 467,
+            "context" : "...Common Disease as a token of your respect for justice. <mark>Suitable<\/mark> potions may be purchased from Temple. Homemade potions are not...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "suitable",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "Finding <mark>suitable<\/mark> corpses in Black Marsh is nearly impossible due to their rapid...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "suitable",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...zombie servant, one need only bring the corpse to a <mark>suitable<\/mark> site and enact the proper rituals. However, there are...",
+            "fid" : "content" } ] } ] }

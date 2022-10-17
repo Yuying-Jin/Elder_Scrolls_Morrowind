@@ -1,0 +1,14 @@
+
+  { "stem" : "slug",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "slugging",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...daggers and shortswords. You don't want to get into a <mark>slugging<\/mark> match, so you want the marksman's weapons -- the bow...",
+            "fid" : "content" } ] } ] }

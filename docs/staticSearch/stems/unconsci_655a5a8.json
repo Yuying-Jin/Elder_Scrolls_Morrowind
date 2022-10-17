@@ -1,0 +1,25 @@
+
+  { "stem" : "unconsci",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unconscious",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...against the opposite wall. When the victim is thus rendered <mark>unconscious<\/mark>, you slash his throat while still holding him from behind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unconsciously",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "..., poet-artist. But, at the same time, <mark>unconsciously<\/mark>, they accept the notion of darker, hidden currents beneath...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,29 @@
+
+  { "stem" : "nix-hound",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "nix-hound",
+            "weight" : "1",
+            "pos" : 411,
+            "context" : "<mark>nix-hound<\/mark> meat" },
+          
+          { "form" : "Nix-hounds",
+            "weight" : "1",
+            "pos" : 6983,
+            "context" : "<mark>Nix-hounds<\/mark>" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nix-hounds",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...dashed in terror. One day they saw a pack of <mark>Nix-hounds<\/mark> ranging about, and in a desperate panic all the Guar scuttled...",
+            "fid" : "content" } ] } ] }

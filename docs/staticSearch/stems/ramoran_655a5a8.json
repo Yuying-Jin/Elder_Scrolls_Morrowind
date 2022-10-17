@@ -1,0 +1,86 @@
+
+  { "stem" : "ramoran",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Ramoran",
+            "weight" : "1",
+            "pos" : 2993,
+            "context" : "<mark>Ramoran<\/mark> Manor" },
+          
+          { "form" : "Ramoran",
+            "weight" : "1",
+            "pos" : 3001,
+            "context" : "<mark>Ramoran<\/mark> Private Quarters" },
+          
+          { "form" : "Ramoran",
+            "weight" : "1",
+            "pos" : 7059,
+            "context" : "Hlaren <mark>Ramoran<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "ramoran",
+            "weight" : "1",
+            "pos" : 3166,
+            "context" : "<mark>ramoran<\/mark> manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "ramoran",
+            "weight" : "1",
+            "pos" : 3174,
+            "context" : "<mark>ramoran<\/mark> private quarters",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "ramoran",
+            "weight" : "1",
+            "pos" : 7184,
+            "context" : "hlaren <mark>ramoran<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Ramoran",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "<mark>Ramoran<\/mark> Private Quarters: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Ramoran",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "Master Lord Hlaren <mark>Ramoran<\/mark>, by Grace of Almsivi, Honored Councilor of Redoran Council...",
+            "fid" : "content" },
+          
+          { "form" : "Ramoran",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...Council, Vvardenfell District, Lord of West Gash, of <mark>Ramoran<\/mark> Manor, Manor District, Ald'ruhn, District of Vvardenfell,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ramoran",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : " All six Redoran councilors, Brara Morvayn, Hlaren <mark>Ramoran<\/mark>, Athyn Sarethi, Garisa Llethri, Miner Arobar, and...",
+            "fid" : "content" } ] } ] }

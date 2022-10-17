@@ -1,0 +1,31 @@
+
+  { "stem" : "song",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "song",
+            "weight" : "1",
+            "pos" : 478,
+            "context" : "...beneath his fingers, he softly sang an old dirty tavern <mark>song<\/mark> about the Ninety-Nine Loves of Boethiah. He said...",
+            "fid" : "content" },
+          
+          { "form" : "song",
+            "weight" : "1",
+            "pos" : 834,
+            "context" : "The <mark>song<\/mark> returned, and Sathis heard the vault door in his study...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "songs",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...Cantatas of Vivec are gospels written in the form of epic <mark>songs<\/mark>. They trace the evolution of Vivec from a foolish mortal...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,55 @@
+
+  { "stem" : "senyndi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Senyndie",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "\"Master <mark>Senyndie<\/mark>? Ah, Mighty Gothren, she hails from the Alik'r...",
+            "fid" : "content" },
+          
+          { "form" : "Senyndie",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "..., Jereth, and I formed a pyramid to give Master <mark>Senyndie<\/mark> a boost up to the tower of Tel Naga. She...",
+            "fid" : "content" },
+          
+          { "form" : "Senyndie's",
+            "weight" : "1",
+            "pos" : 391,
+            "context" : "...these Telvanni mushrooms is practically a ladder to someone of Master <mark>Senyndie's<\/mark> skills. In a few minutes' time, she was in...",
+            "fid" : "content" },
+          
+          { "form" : "Senyndie",
+            "weight" : "1",
+            "pos" : 593,
+            "context" : "...as nice as a third rate show in Rihad,\" said <mark>Senyndie<\/mark> as they took their rooms a few hours later. \"Why...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Senyndie",
+            "weight" : "1",
+            "pos" : 7199,
+            "context" : "Master <mark>Senyndie<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "senyndie",
+            "weight" : "1",
+            "pos" : 7314,
+            "context" : "master <mark>senyndie<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

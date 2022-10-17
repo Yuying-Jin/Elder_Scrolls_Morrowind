@@ -1,0 +1,25 @@
+
+  { "stem" : "stern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stern",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...loving ancestors, they guard and counsel their followers. Like <mark>stern<\/mark> parents, they punish sin and error. Like generous relatives...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stern",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...House Districts, thanks to the vigilance of the Legions and <mark>stern<\/mark> sentences by the magistrates. The council laments the unfortunate disturbances...",
+            "fid" : "content" } ] } ] }

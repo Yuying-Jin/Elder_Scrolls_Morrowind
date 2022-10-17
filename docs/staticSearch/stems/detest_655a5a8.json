@@ -1,0 +1,14 @@
+
+  { "stem" : "detest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "detested",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "..., abandoned Dunmer Strongholds, and corrupted subterranean labyrinths of the <mark>detested<\/mark> Dwemer race? For ages the Great Houses and the Temple...",
+            "fid" : "content" } ] } ] }

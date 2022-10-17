@@ -1,0 +1,64 @@
+
+  { "stem" : "northern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "northern",
+            "weight" : "1",
+            "pos" : 446,
+            "context" : " The rugged coast and islands of <mark>northern<\/mark> and eastern Vvardenfell are called Azura's Coast. The region is...",
+            "fid" : "content" },
+          
+          { "form" : "northern",
+            "weight" : "1",
+            "pos" : 1204,
+            "context" : " Ald Velothi and Khuul are tiny fishing villages on the <mark>northern<\/mark> coast of the West Gash.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "northern",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...the Velothi, anon Chimer, before the war with the <mark>northern<\/mark> men. Ayem came first to the village of the netchimen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "northern",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...soul gem of mysterious nature from a deep cavern on the <mark>northern<\/mark> slopes of Dagoth Ur, delivering it to Molag Bal's shrine...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "northern",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...Councilor of Redoran Council, Vvardenfell District, Lord of The <mark>northern<\/mark> Ashlands, of Llethri Manor, Manor District, Ald'ruhn,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "northern",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "Baranat rode many miles through the <mark>northern<\/mark> swamps before he came to the first of the brothers' guard...",
+            "fid" : "content" } ] } ] }

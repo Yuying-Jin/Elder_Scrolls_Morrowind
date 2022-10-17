@@ -1,0 +1,87 @@
+
+  { "stem" : "voic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "voices",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...he would live forever in his home town among the happy <mark>voices<\/mark> of his friends and countrymen. Twisting the literal words of...",
+            "fid" : "content" },
+          
+          { "form" : "voices",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...and countrymen were instantly killed, though the sounds of their <mark>voices<\/mark> remained to torment Chimere's memory. Chimere was condemned to live...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "voices",
+            "weight" : "1",
+            "pos" : 666,
+            "context" : "...Bael. The door was closed this time and he heard <mark>voices<\/mark> within.",
+            "fid" : "content" },
+          
+          { "form" : "voice",
+            "weight" : "1",
+            "pos" : 692,
+            "context" : "...Kena Zombel Mokafa, or Master Vomph,\" replied a feminine <mark>voice<\/mark> that seemed familiar to Oin. \"I will have to invent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "voice",
+            "weight" : "1",
+            "pos" : 805,
+            "context" : "...opened his eyes, he thought he could still hear Imalyn's <mark>voice<\/mark> nearby, singing The Ninety-Nine Loves of Boethiah....",
+            "fid" : "content" },
+          
+          { "form" : "voice",
+            "weight" : "1",
+            "pos" : 874,
+            "context" : "...to the side, he heard Galsiah in her typical calm <mark>voice<\/mark>, \"Thank you for the lesson, Sathis.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Voice",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "The Master's <mark>Voice<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Voice",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "The Master's <mark>Voice<\/mark> You swore. To Serve. Your Lord. Commands....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "voice",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "...the ruins around him had been stilled. He opened his <mark>voice<\/mark> to speak, but there was no sound. Silverthorn took...",
+            "fid" : "content" } ] } ] }

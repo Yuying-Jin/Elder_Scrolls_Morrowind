@@ -1,0 +1,32 @@
+
+  { "stem" : "joy",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "joy",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...of the hunter and the blood of the hunted. The <mark>joy<\/mark> of the hidden and the joy of the seeker. The...",
+            "fid" : "content" },
+          
+          { "form" : "joy",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...of the hunted. The joy of the hidden and the <mark>joy<\/mark> of the seeker. The blood of the eye and the...",
+            "fid" : "content" },
+          
+          { "form" : "joy",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...of the eye and the blood of the gate. The <mark>joy<\/mark> of the living and the joy of the dead. Are...",
+            "fid" : "content" },
+          
+          { "form" : "joy",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...of the gate. The joy of the living and the <mark>joy<\/mark> of the dead. Are you one with these things?...",
+            "fid" : "content" } ] } ] }

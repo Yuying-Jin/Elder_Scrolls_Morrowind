@@ -1,0 +1,20 @@
+
+  { "stem" : "berri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "berry",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "..., combine comberry and frost salts. comberry is a bitter <mark>berry<\/mark>, used to make wines. It grows mainly in the...",
+            "fid" : "content" },
+          
+          { "form" : "berry",
+            "weight" : "1",
+            "pos" : 406,
+            "context" : "...made from comberry and sload soap. comberry is the bitter <mark>berry<\/mark> of the Ascadian Isles. sload soap is a waxy substance...",
+            "fid" : "content" } ] } ] }

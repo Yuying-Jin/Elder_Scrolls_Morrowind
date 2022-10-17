@@ -1,0 +1,14 @@
+
+  { "stem" : "muster",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mustered",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...clans as allies, and held northwest Morrowind, while Nerevar <mark>mustered<\/mark> the other Houses and nomad tribes and marched to meet the...",
+            "fid" : "content" } ] } ] }

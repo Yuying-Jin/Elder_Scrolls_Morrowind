@@ -1,0 +1,20 @@
+
+  { "stem" : "ugli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ugly",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...For each thought himself most handsome, and the other most <mark>ugly<\/mark>. Then Lord Vivec chanced by, and settled their dispute....",
+            "fid" : "content" },
+          
+          { "form" : "ugliness",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...merrily upon his way. And thus Lord Vivec proved that <mark>ugliness<\/mark> is as much in one's manner as in one's appearance....",
+            "fid" : "content" } ] } ] }

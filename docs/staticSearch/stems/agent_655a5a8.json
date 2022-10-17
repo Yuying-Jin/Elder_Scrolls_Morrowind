@@ -1,0 +1,36 @@
+
+  { "stem" : "agent",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "agent",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...and terrified, when Molag Bal, or some aspect or <mark>agent<\/mark> of that Daedra Lord, offered me a chance to cure...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "agents",
+            "weight" : "1",
+            "pos" : 763,
+            "context" : "...where they are processed by the Imperial Census and Excise Commission <mark>agents<\/mark> of the Coastguard station. The Coastguard cutters docked here control...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "agents",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...has been forced to turn to Western mercenaries for guards and <mark>agents<\/mark>.",
+            "fid" : "content" } ] } ] }

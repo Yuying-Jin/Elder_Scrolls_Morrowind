@@ -1,0 +1,36 @@
+
+  { "stem" : "effort",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effort",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...or desperate practitioners. With only a bit more time and <mark>effort<\/mark>, one may create a far more useful mummified servant....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "efforts",
+            "weight" : "1",
+            "pos" : 382,
+            "context" : "...such a ruthless atmosphere, might better employ their time and <mark>efforts<\/mark> in the Mages Guild.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effort",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...four stroke rather like playing a violin. It requires little <mark>effort<\/mark>, and while there's quite a bit of blood, it...",
+            "fid" : "content" } ] } ] }

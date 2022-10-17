@@ -1,0 +1,25 @@
+
+  { "stem" : "materi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "materials",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...are designed in the Dunmer village style, built of local <mark>materials<\/mark>, with organic curves and undecorated exteriors inspired by the landscape...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "materials",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...large settlement in the Redoran village style, built of local <mark>materials<\/mark>, with organic curves and undecorated exteriors inspired by the landscape...",
+            "fid" : "content" } ] } ] }

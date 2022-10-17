@@ -1,0 +1,14 @@
+
+  { "stem" : "rustl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rustle",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...blade and ran at Vanis, moving so fast he didn't <mark>rustle<\/mark> a leaf with his pace. In a flash, Vanis...",
+            "fid" : "content" } ] } ] }

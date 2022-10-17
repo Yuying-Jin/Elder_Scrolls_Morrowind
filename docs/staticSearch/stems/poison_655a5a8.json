@@ -1,0 +1,70 @@
+
+  { "stem" : "poison",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "poison",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "...flower. As pretty as it is, it is a deadly <mark>poison<\/mark> to most living beings and needs to be avoided by adventurers...",
+            "fid" : "content" },
+          
+          { "form" : "poisonous",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "Nightshade is reputed to be a very <mark>poisonous<\/mark> herb. However the variety found in many parts of Elsweyr...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "poison",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...common diseases, of blight diseases, and of afflictions of <mark>poison<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "poisons",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "St. Seryn grants Seryn's Shield, for resistance to <mark>poisons<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poisons",
+            "weight" : "1",
+            "pos" : 399,
+            "context" : "...and receive blessings which cure common and blight diseases, cure <mark>poisons<\/mark>, and restore damaged attributes. Non-members pay 25...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poison",
+            "weight" : "1",
+            "pos" : 422,
+            "context" : "...He learned how to shrug off the effects of frost, <mark>poison<\/mark>, fire, and charges of lightning, pulling the pain...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "poisoning",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : "...and agile Berne clan vampires prefer stealth and ambush, first <mark>poisoning<\/mark> the victim with a bite, then withdrawing to a safe...",
+            "fid" : "content" } ] } ] }

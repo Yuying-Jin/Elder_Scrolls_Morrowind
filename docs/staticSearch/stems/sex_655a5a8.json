@@ -1,0 +1,31 @@
+
+  { "stem" : "sex",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sex",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...in the West, Mephala is the demon of murder, <mark>sex<\/mark>, and secrets. All of these themes contain subtle aspects...",
+            "fid" : "content" },
+          
+          { "form" : "sex",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...do not envision Lord Vivec as a creature of murder, <mark>sex<\/mark>, and secrets. Rather, they conceive of Lord Vivec...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sex",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...the netchiman's wife with gills and milk fingers, changing her <mark>sex<\/mark> so that she might give birth to the image as an...",
+            "fid" : "content" } ] } ] }

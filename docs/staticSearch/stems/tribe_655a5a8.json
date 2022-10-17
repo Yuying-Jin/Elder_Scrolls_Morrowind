@@ -1,0 +1,105 @@
+
+  { "stem" : "tribe",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "tribes",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...and volcanic badlands, and thinly populated by the nomadic Ashlander <mark>tribes<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "tribe",
+            "weight" : "1",
+            "pos" : 430,
+            "context" : " The Ashlanders Urshilaku <mark>tribe<\/mark> has a permanent settlement at Urshilaku camp in the Ashlands region...",
+            "fid" : "content" },
+          
+          { "form" : "tribe",
+            "weight" : "1",
+            "pos" : 673,
+            "context" : " The Ashlander Ahemmusa <mark>tribe<\/mark> has a permanent settlement at Ahemmusa camp on a rocky promontory...",
+            "fid" : "content" },
+          
+          { "form" : "tribe",
+            "weight" : "1",
+            "pos" : 857,
+            "context" : " The Ashlander Zainab <mark>tribe<\/mark> has a permanent settlement at Zainab camp, near the village...",
+            "fid" : "content" },
+          
+          { "form" : "tribe",
+            "weight" : "1",
+            "pos" : 951,
+            "context" : " The Ashlander Erabenimsun <mark>tribe<\/mark> has a permanent settlement at Erabenimsun camp, an isolated hut...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tribes",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...then such a summons is blasphemy, an abomination before the <mark>Tribes<\/mark> and Temple, and a sin so great that ages of...",
+            "fid" : "Ashlander" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tribes",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...way that requires very little preparation. Khajiit of the desert <mark>tribes<\/mark> are often buried with only a small cairn of stones which...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tribes",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "The Great Houses traditions derive from ancient Dunmer clan and <mark>tribes<\/mark>, but now function as political parties. Dunmer Great House...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tribes",
+            "weight" : "1",
+            "pos" : 6085,
+            "context" : "nomad_<mark>tribes<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tribes",
+            "weight" : "1",
+            "pos" : 6177,
+            "context" : "nomad <mark>tribes<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tribes",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...northwest Morrowind, while Nerevar mustered the other Houses and nomad <mark>tribes<\/mark> and marched to meet the Dwemer-Dagoth-Westerner forces...",
+            "fid" : "content" } ] } ] }

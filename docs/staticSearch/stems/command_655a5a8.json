@@ -1,0 +1,69 @@
+
+  { "stem" : "command",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Commands",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "<mark>Commands<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "commands",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...you will have a much stronger servant who will follow your <mark>commands<\/mark> with more independence and understanding.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "commandant",
+            "weight" : "1",
+            "pos" : 270,
+            "context" : "...is an eminent Temple priest and scholar. Raesa Pullia is <mark>commandant<\/mark> of Buckmoth Fort, but Imsin the Dreamer is the chapter...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Commands",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...Master's Voice You swore. To Serve. Your Lord. <mark>Commands<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "command",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "...or more faithfully. Much that I did was at your <mark>command<\/mark>, at great cost to myself, and my honor. Yet...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "commander",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...citizens seeking enlistment in the Imperial Legion should apply to the <mark>commander<\/mark> of that garrison, General Darius.",
+            "fid" : "GeneralDarius" } ] } ] }

@@ -1,0 +1,36 @@
+
+  { "stem" : "burn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "burning",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...and Temple, and a sin so great that ages of <mark>burning<\/mark> cannot cleanse the fault. Abide not the sorcerer among you,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "burned",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...after night is toss and turn. I kept imagining you <mark>burned<\/mark> to ashes by that battlemage, and where would that leave...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "burn",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "Must flickering watchfires <mark>burn<\/mark>?",
+            "fid" : "content" } ] } ] }

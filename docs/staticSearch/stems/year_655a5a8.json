@@ -1,0 +1,142 @@
+
+  { "stem" : "year",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "Up until he was ten <mark>years<\/mark> old, Oin Parnafacasis was in an elite group of the...",
+            "fid" : "content" },
+          
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...As he tended his garden one springtide, not very many <mark>years<\/mark> ago, he heard some people talking through the thick tall...",
+            "fid" : "content" },
+          
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...heart fell. She had found another, a mere nine <mark>years<\/mark> since she had given him that look while at play....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 394,
+            "context" : "...believe the disease is incurable, a Buoyant Armiger of former <mark>years<\/mark> named Galur Rithari insisted that he was cured of vampirism....",
+            "fid" : "content" },
+          
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 410,
+            "context" : "...he later recanted, was released, and served his final <mark>years<\/mark> as a librarian in the Hall of Wisdom in Vivec....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...three grams of honest work, but Vivec in his later <mark>years<\/mark> found a better one and so gave this secret to his...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...you're buying and from whom is a talent bought only after <mark>years<\/mark> of practice. Know the specialties of certain regions and merchants...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...of Black Marsh, the deserts preserve corpses for hundreds of <mark>years<\/mark> in a way that requires very little preparation. Khajiit of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "year",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...first confirmed under the Potentate Versidue Shaie in the 321st <mark>year<\/mark> of the Second Era. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "year",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : " ...and upon that <mark>year<\/mark> of the Reign of Wulfharth and his Son's, the Magnificence...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...Ordinators and Buoyant Armigers hunted them to extinction. In recent <mark>years<\/mark>, however, vampires have either begun to sneak into Morrowind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "year",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : ".... It also chronicles significant events and council actions for the <mark>year<\/mark>.]",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...Ordinators and Buoyant Armigers hunted them to extinction. In recent <mark>years<\/mark>, however, vampires have either begun to sneak into Morrowind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "years",
+            "weight" : "1",
+            "pos" : 462,
+            "context" : "...all the means of silent assassination he had developed over the <mark>years<\/mark>.",
+            "fid" : "content" } ] } ] }

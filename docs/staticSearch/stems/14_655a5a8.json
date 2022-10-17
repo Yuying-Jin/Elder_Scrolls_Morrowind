@@ -1,0 +1,65 @@
+
+  { "stem" : "14",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 4635,
+            "context" : "Red Book of 3E 426, count: <mark>14<\/mark>" },
+          
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 5671,
+            "context" : "Progress of Truth, count: <mark>14<\/mark>" },
+          
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 5676,
+            "context" : "Redoran Cooking Secrets, count: <mark>14<\/mark>" },
+          
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 6629,
+            "context" : "Realizations of Acrobacy, count: <mark>14<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 4763,
+            "context" : "Red Book of 3E 426, count: <mark>14<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 5937,
+            "context" : "Progress of Truth, count: <mark>14<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 5942,
+            "context" : "Redoran Cooking Secrets, count: <mark>14<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "14",
+            "weight" : "1",
+            "pos" : 6726,
+            "context" : "Realizations of Acrobacy, count: <mark>14<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

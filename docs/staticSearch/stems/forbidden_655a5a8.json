@@ -1,0 +1,54 @@
+
+  { "stem" : "forbidden",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "forbidden",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...also say, \"do not harm one another.\" It is <mark>forbidden<\/mark> to attack another person of the Imperial cult, and of...",
+            "fid" : "content" },
+          
+          { "form" : "forbidden",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...another person of the Imperial cult, and of course, <mark>forbidden<\/mark> to kill another member. It is forbidden to steal from...",
+            "fid" : "content" },
+          
+          { "form" : "forbidden",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...of course, forbidden to kill another member. It is <mark>forbidden<\/mark> to steal from another member, whether by open theft or...",
+            "fid" : "content" },
+          
+          { "form" : "forbidden",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "...whether by open theft or by covert pickpocketing. It is <mark>forbidden<\/mark> to trespass upon the private property of another member. Break...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forbidden",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...Codes of Mephala and the prophecies of Veloth and even the <mark>forbidden<\/mark> teachings of Trinimac.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forbidden",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "Though <mark>forbidden<\/mark> to some, not to you.",
+            "fid" : "content" } ] } ] }

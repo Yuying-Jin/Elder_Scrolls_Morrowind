@@ -1,0 +1,37 @@
+
+  { "stem" : "percius",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Percius",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...skar. Edwinna Elbert is the Mages Guild steward, and <mark>Percius<\/mark> Mercius has recently become the Fighters Guild steward. Old Methal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Percius",
+            "weight" : "1",
+            "pos" : 6898,
+            "context" : "<mark>Percius<\/mark> Mercius" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "percius",
+            "weight" : "1",
+            "pos" : 7015,
+            "context" : "<mark>percius<\/mark> mercius",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

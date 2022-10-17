@@ -1,0 +1,31 @@
+
+  { "stem" : "valu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "value",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...take it. But do not follow money blindly. There is <mark>value<\/mark> in reputation, more than many young Hlaalu realize. This...",
+            "fid" : "content" },
+          
+          { "form" : "value",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "...in reputation, more than many young Hlaalu realize. This <mark>value<\/mark> must be carefully balanced against the more tangible coins in any...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "value",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "...enchantments and the gift of diplomatic speech are other qualities we <mark>value<\/mark> in our initiates.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "violin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "violin",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "...the throat in three or four stroke rather like playing a <mark>violin<\/mark>. It requires little effort, and while there's quite a...",
+            "fid" : "content" } ] } ] }

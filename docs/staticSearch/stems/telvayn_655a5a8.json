@@ -1,0 +1,37 @@
+
+  { "stem" : "telvayn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvayn",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "<mark>Telvayn<\/mark> Ancestral Tomb: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvayn",
+            "weight" : "1",
+            "pos" : 4035,
+            "context" : "<mark>Telvayn<\/mark> Ancestral Tomb" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "telvayn",
+            "weight" : "1",
+            "pos" : 4179,
+            "context" : "<mark>telvayn<\/mark> ancestral tomb",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "rainfal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rainfall",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...plantations. The climate is temperate and comfortable, with moderate <mark>rainfall<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "rainfall",
+            "weight" : "1",
+            "pos" : 494,
+            "context" : "...rocky terrain, a variety of plants thrive on the regular <mark>rainfall<\/mark>.",
+            "fid" : "content" } ] } ] }

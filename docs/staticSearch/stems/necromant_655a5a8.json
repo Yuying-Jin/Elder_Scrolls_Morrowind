@@ -1,0 +1,14 @@
+
+  { "stem" : "necromant",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Necromantic",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "...institute the Imperial practice of donating the corpses of criminals for <mark>Necromantic<\/mark> study as a deterrent to the bandits and pirates that still...",
+            "fid" : "content" } ] } ] }

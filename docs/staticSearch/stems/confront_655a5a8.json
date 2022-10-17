@@ -1,0 +1,47 @@
+
+  { "stem" : "confront",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confrontation",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...hidden chests, locks, and even traps. And when <mark>confrontation<\/mark> is unavoidable, it is best to fight quickly in comfortable...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confront",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...difficulty... but if no path around can be found, <mark>confront<\/mark> the obstacle directly.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confronted",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...Ashlanders, but from treachery], and that subsequently the Tribunal <mark>confronted<\/mark> a defiant Dagoth Ur within Red Mountain, then drove Dagoth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "confronted",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...Ashlanders, but from treachery], and that subsequently the Tribunal <mark>confronted<\/mark> a defiant Dagoth Ur within Red Mountain, then drove Dagoth...",
+            "fid" : "content" } ] } ] }

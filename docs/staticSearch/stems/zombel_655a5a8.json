@@ -1,0 +1,26 @@
+
+  { "stem" : "zombel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Zombel",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "\"I am Kena <mark>Zombel<\/mark> Mokafa, and I can prove that you do not exist...",
+            "fid" : "content" },
+          
+          { "form" : "Zombel",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "\"Her lady Benitah has heard of the intelligence of Kena <mark>Zombel<\/mark> Mokafa, and has said that she was mistaken. She...",
+            "fid" : "content" },
+          
+          { "form" : "Zombel",
+            "weight" : "1",
+            "pos" : 686,
+            "context" : "...in him that I had in Nimlom the Mighty, Kena <mark>Zombel<\/mark> Mokafa, or Master Vomph,\" replied a feminine voice that...",
+            "fid" : "content" } ] } ] }

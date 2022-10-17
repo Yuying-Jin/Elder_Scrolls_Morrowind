@@ -1,0 +1,36 @@
+
+  { "stem" : "pretti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pretty",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Wood is <mark>pretty<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pretty",
+            "weight" : "1",
+            "pos" : 471,
+            "context" : "...yes, as a matter of fact, I did. It's <mark>pretty<\/mark> tall. It was a simple matter, especially since I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pretty",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...the fire red fronds that protect its golden flower. As <mark>pretty<\/mark> as it is, it is a deadly poison to most living...",
+            "fid" : "content" } ] } ] }

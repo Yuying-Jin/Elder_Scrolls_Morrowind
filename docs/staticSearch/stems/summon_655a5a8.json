@@ -1,0 +1,54 @@
+
+  { "stem" : "summon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "summoning",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...ancestors, the awakening of those who never sleep, the <mark>summoning<\/mark> to service of those bound through Hearth and House to the...",
+            "fid" : "content" },
+          
+          { "form" : "summons",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "But if sorcerers bring them forth, then such a <mark>summons<\/mark> is blasphemy, an abomination before the Tribes and Temple,...",
+            "fid" : "content" },
+          
+          { "form" : "summoned",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...Kin. But ghost or guardian, bonewalker or bonelord, <mark>summoned<\/mark> by profane ritual and bound by force to the corpse miner's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Summoner",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Chimere, Master Sorcerer, <mark>Summoner<\/mark>, and Direnni retainer.",
+            "fid" : "content" },
+          
+          { "form" : "summoners",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...Chimere was perhaps the cleverest and most ambitious of the Direnni <mark>summoners<\/mark>. He dared to scheme against Lord Dagonn, and won...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "summonings",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...haunted by old magics, dark cultists, and their Daedric <mark>summonings<\/mark>, and not recommended for sightseers.",
+            "fid" : "content" } ] } ] }

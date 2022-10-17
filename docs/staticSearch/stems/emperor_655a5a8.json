@@ -1,0 +1,320 @@
+
+  { "stem" : "emperor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 33,
+        "contexts" : 
+        [ 
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "For my Gods and <mark>Emperor<\/mark>" },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 857,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 1512,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 1538,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 1779,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 4",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 1954,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 2136,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 2592,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 2815,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 2835,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 3116,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 3315,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 3337,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 4464,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 4774,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 5044,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 5233,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 24",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 5518,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 5594,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6049,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6143,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6156,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6295,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6396,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6607,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6855,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6880,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6898,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 6978,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 7483,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 7489,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 7540,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 7751,
+            "context" : "For my Gods and <mark>Emperor<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "..., Justice, Ambition, Learning, and Civility. Our <mark>Emperor<\/mark> is the Defender of the Faith, and the Empire is...",
+            "fid" : "content" },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...and comfort to all citizens in need, and serve the <mark>Emperor<\/mark> and Empire at his will.",
+            "fid" : "content" },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 647,
+            "context" : "...and supportive relationship with House Hlaalu, which strongly supports the <mark>Emperor<\/mark> and Imperial principles. Though we cannot condone the actions of...",
+            "fid" : "content" },
+          
+          { "form" : "Emperor",
+            "weight" : "1",
+            "pos" : 659,
+            "context" : "...the Thieves Guild, we praise their faithful dedication to the <mark>Emperor<\/mark> and to Imperial culture.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Emperor's",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...the home of Duke Vedam Dren, the district's ruler and <mark>Emperor's<\/mark> representative. Also located at Castle Ebonheart are the Vvardenfell District...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "emperors",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...only minor parts in Heartlanders and Imperial history. The Septim <mark>emperors<\/mark> have made it a policy to limit the influence of cult...",
+            "fid" : "content" } ] } ] }

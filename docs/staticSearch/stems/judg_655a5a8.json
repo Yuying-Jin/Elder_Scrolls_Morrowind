@@ -1,0 +1,25 @@
+
+  { "stem" : "judg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "judged",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "...of life. Life is hard, and events must be <mark>judged<\/mark>, endured, and reflected upon with due care and earnestness...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Judge's",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "Keep no secret from your <mark>Judge's<\/mark> scale.",
+            "fid" : "content" } ] } ] }

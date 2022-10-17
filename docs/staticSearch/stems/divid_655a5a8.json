@@ -1,0 +1,43 @@
+
+  { "stem" : "divid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "divide",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...look at it is that if we're rescued, we can <mark>divide<\/mark> the profits between two rather than between twelve.\"",
+            "fid" : "content" },
+          
+          { "form" : "divided",
+            "weight" : "1",
+            "pos" : 433,
+            "context" : ".... \"And S'Riizh listens. When you said that a fortune <mark>divided<\/mark> by two was more profitable than a fortune divided by twelve...",
+            "fid" : "content" },
+          
+          { "form" : "divided",
+            "weight" : "1",
+            "pos" : 437,
+            "context" : "...a fortune divided by two was more profitable than a fortune <mark>divided<\/mark> by twelve, S'Riizh listened to that too.\" S'Riizh shuffled back...",
+            "fid" : "content" },
+          
+          { "form" : "divided",
+            "weight" : "1",
+            "pos" : 449,
+            "context" : "...the tree. \"And it occurred to S'Riizh that a fortune <mark>divided<\/mark> by one was even better.\" S'Riizh pulled the spear out...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "divided",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "Later, however, disputes over religion <mark>divided<\/mark> the Council, with House Dwemer and House Dagoth on one...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,155 @@
+
+  { "stem" : "pelagiad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...where most of Vvardenfell's agriculture is found. The area includes <mark>Pelagiad<\/mark>, Suran, Vivec City, and Ald Sotha along with...",
+            "fid" : "content" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : " <mark>Pelagiad<\/mark> is a newly chartered Imperial village between Balmora and Vivec City...",
+            "fid" : "content" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : "...The village is right outside the Imperial Legion garrison at Fort <mark>Pelagiad<\/mark>. The houses and shops are built in the Western Imperial...",
+            "fid" : "content" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 352,
+            "context" : "...and shops are built in the Western Imperial style, and <mark>Pelagiad<\/mark> looks more like a village in the western Empire than a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "<mark>Pelagiad<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "Fort <mark>Pelagiad<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...in Balmora , Buckmoth Legion Fort in Ald'ruhn, and Fort <mark>Pelagiad<\/mark> in Pelagiad -- are at full complement. The Hawkmoth Legion...",
+            "fid" : "content" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "..., Buckmoth Legion Fort in Ald'ruhn, and Fort Pelagiad in <mark>Pelagiad<\/mark> -- are at full complement. The Hawkmoth Legion garrisoned at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...a warm welcome from our cult greeters: Ygfa at Fort <mark>Pelagiad<\/mark>, Syloria Siruliulus at Buckmoth Legion Fort, Somutis Vunnis at...",
+            "fid" : "content" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 347,
+            "context" : "...cult services in Buckmoth Legion Fort, Moonmoth Legion Fort, <mark>Pelagiad<\/mark> Legion Fort, Gnisis Legion Fort, Wolverine Hall in Sadrith...",
+            "fid" : "content" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 443,
+            "context" : "...Sadrith Mora; Buckmoth Legion Fort; Moonmoth Legion Fort; <mark>Pelagiad<\/mark> Legion Fort; Gnisis Legion Fort; and Imperial Chapels in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 1811,
+            "context" : "Fort <mark>Pelagiad<\/mark>" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 2938,
+            "context" : "<mark>Pelagiad<\/mark>" },
+          
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 2957,
+            "context" : "<mark>Pelagiad<\/mark>,_Mebestien_Ence:_Trader" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "pelagiad",
+            "weight" : "1",
+            "pos" : 1987,
+            "context" : "fort <mark>pelagiad<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "pelagiad",
+            "weight" : "1",
+            "pos" : 3111,
+            "context" : "<mark>pelagiad<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "pelagiad",
+            "weight" : "1",
+            "pos" : 3132,
+            "context" : "<mark>pelagiad<\/mark>, mebestien ence: trader",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "<mark>Pelagiad<\/mark>, Mebestien Ence: Trader: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pelagiad",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...on the north shore of Lake Amaya as you head towards <mark>Pelagiad<\/mark>. The shrine is between two rocks, and most easily...",
+            "fid" : "content" } ] } ] }

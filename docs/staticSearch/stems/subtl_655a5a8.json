@@ -1,0 +1,53 @@
+
+  { "stem" : "subtl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "subtle",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "..., sex, and secrets. All of these themes contain <mark>subtle<\/mark> aspects and violent ones (assassination\/genocide, courtship\/...",
+            "fid" : "content" },
+          
+          { "form" : "subtle",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "...to contain and integrate these contradictory themes. And all these <mark>subtle<\/mark> undercurrents and contradictions are present in the Dunmer concepts of Vivec...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "subtle",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...before he acts, with the understanding that many patterns are <mark>subtle<\/mark> or hidden.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "subtle",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...not only to the obvious danger, but also to the <mark>subtle<\/mark> degrees by which change may result in danger. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "subtle",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "The gaunt ghostfires loom as <mark>subtle<\/mark> shrouds,",
+            "fid" : "content" } ] } ] }

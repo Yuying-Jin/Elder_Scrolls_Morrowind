@@ -1,0 +1,43 @@
+
+  { "stem" : "anther",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "anther",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...In time, he had grown an impressive garden of willow <mark>anther<\/mark>, gold kanet, chokeweed, white bloatroot, and trama...",
+            "fid" : "willow anther" },
+          
+          { "form" : "anther",
+            "weight" : "1",
+            "pos" : 763,
+            "context" : "...fortify his personality in exchange for next season's worth of willow <mark>anther<\/mark>. Then they lived happily ever after.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anther",
+            "weight" : "1",
+            "pos" : 602,
+            "context" : "willow_<mark>anther<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anther",
+            "weight" : "1",
+            "pos" : 776,
+            "context" : "willow <mark>anther<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

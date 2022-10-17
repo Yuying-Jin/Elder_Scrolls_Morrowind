@@ -1,0 +1,20 @@
+
+  { "stem" : "clothier",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "clothier",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...are near the South Gate. Pricy but high-quality <mark>clothier<\/mark>, alchemist, and enchanter shops are under Skar as well...",
+            "fid" : "content" },
+          
+          { "form" : "clothier",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...but with smaller selections, are available from the smith, <mark>clothier<\/mark>, trader, pawnbroker, and bookseller near the entrance to...",
+            "fid" : "content" } ] } ] }

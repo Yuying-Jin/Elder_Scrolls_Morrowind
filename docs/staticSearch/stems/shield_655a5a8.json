@@ -1,0 +1,140 @@
+
+  { "stem" : "shield",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 531,
+            "context" : "...Priif,\" said Yakin. \"They say he is the greatest <mark>shield<\/mark>-blocker and pickpocket in Morrowind.\"",
+            "fid" : "content" },
+          
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 610,
+            "context" : "...with his sword. He blocked the blows effortlessly with a <mark>shield<\/mark> for ten minutes, and then revealed afterwards that he had...",
+            "fid" : "content" },
+          
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 640,
+            "context" : ".... After twenty minutes of blocking the man's blows with his <mark>shield<\/mark>, he revealed that he had pickpocketed Funcrazot Priif's purse....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "fire_<mark>shield<\/mark>_potions" },
+          
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 476,
+            "context" : "<mark>shield<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "fire <mark>shield<\/mark> potions",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 646,
+            "context" : "<mark>shield<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "...are exceptions, like the easy and affordable recipe for fire <mark>shield<\/mark>. But most such potions require at least one ingredient with...",
+            "fid" : "content" },
+          
+          { "form" : "Shield",
+            "weight" : "1",
+            "pos" : 398,
+            "context" : "Fire <mark>Shield<\/mark> potions can be made from comberry and sload soap. comberry...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Shield",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "St. Delyn grants <mark>Shield<\/mark> of St. Delyn, for resistance to blight diseases....",
+            "fid" : "content" },
+          
+          { "form" : "Shield",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "St. Seryn grants Seryn's <mark>Shield<\/mark>, for resistance to poisons.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shields",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...proficiency with long blades, axes, blunt weapons, and <mark>shields<\/mark>. Guildsmen must be able to use and maintain Heavy Armor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shields",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...or strong, or more or less capable with weapons and <mark>shields<\/mark>. Fortunately, enchanted weapons are not needed to destroy skeletons...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shield",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "..., the spear and blunt weapons. Legion troops train with <mark>shield<\/mark> and heavy armor, and so must be skilled at blocking...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shields",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...or strong, or more or less capable with weapons and <mark>shields<\/mark>. Fortunately, enchanted weapons are not needed to destroy skeletons...",
+            "fid" : "content" } ] } ] }

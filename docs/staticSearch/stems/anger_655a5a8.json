@@ -1,0 +1,25 @@
+
+  { "stem" : "anger",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anger",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...even of my enemies, for temperate words may turn aside <mark>anger<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anger",
+            "weight" : "1",
+            "pos" : 712,
+            "context" : "...every betrayed person exhibits: nervousness, doubt, bewilderment, <mark>anger<\/mark>.",
+            "fid" : "content" } ] } ] }

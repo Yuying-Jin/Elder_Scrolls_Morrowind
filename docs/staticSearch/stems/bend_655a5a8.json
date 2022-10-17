@@ -1,0 +1,20 @@
+
+  { "stem" : "bend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bend",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...of the spell. He explained what it truly meant to <mark>bend<\/mark> sound, creating a cone of silence as glass can bend...",
+            "fid" : "content" },
+          
+          { "form" : "bend",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...bend sound, creating a cone of silence as glass can <mark>bend<\/mark> light. He had Silverthorn close his eyes while he tapped...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "featheri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feathery",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : ".... They attain a height of about three feet and have <mark>feathery<\/mark> leaves; the flowers are usually bright red. In addition...",
+            "fid" : "content" } ] } ] }

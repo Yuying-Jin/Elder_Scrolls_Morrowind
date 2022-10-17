@@ -1,0 +1,53 @@
+
+  { "stem" : "membership",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Membership",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "IV. <mark>Membership<\/mark> Requirements",
+            "fid" : "content" },
+          
+          { "form" : "Membership",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "V. Applications for <mark>Membership<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "membership",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...in our good works. Thereafter, the only cost of <mark>membership<\/mark> comes when you use our health, healing, and blessing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "membership",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "..., but now function as political parties. Dunmer Great House <mark>membership<\/mark> is largely a matter of birth and marriage, but Imperial...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "membership",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "Not true. Telvanni accept all races as candidates for <mark>membership<\/mark>.",
+            "fid" : "content" } ] } ] }

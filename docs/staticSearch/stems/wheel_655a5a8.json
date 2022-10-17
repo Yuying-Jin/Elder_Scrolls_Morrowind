@@ -1,0 +1,14 @@
+
+  { "stem" : "wheel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wheel",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "Fate, monstrous and empty, the whirling <mark>wheel<\/mark> of evil.",
+            "fid" : "content" } ] } ] }

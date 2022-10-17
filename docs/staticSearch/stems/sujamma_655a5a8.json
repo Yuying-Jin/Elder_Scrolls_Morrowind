@@ -1,0 +1,37 @@
+
+  { "stem" : "sujamma",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sujamma",
+            "weight" : "1",
+            "pos" : 537,
+            "context" : "<mark>sujamma<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sujamma",
+            "weight" : "1",
+            "pos" : 711,
+            "context" : "<mark>sujamma<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sujamma",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...The council protests the continuing burdensome tariffs on the native beverages <mark>sujamma<\/mark>, greef, and shein.",
+            "fid" : "content" } ] } ] }

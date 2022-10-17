@@ -1,0 +1,59 @@
+
+  { "stem" : "extinct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "extinct",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "Vampires were believed to be <mark>extinct<\/mark> in Morrowind for centuries. Dunmer culture has a special hatred...",
+            "fid" : "content" },
+          
+          { "form" : "extinction",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...in earlier times the Ordinators and Buoyant Armigers hunted them to <mark>extinction<\/mark>. In recent years, however, vampires have either begun...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "extinct",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "Vampires were believed to be <mark>extinct<\/mark> in Morrowind for centuries. Dunmer culture has a special hatred...",
+            "fid" : "content" },
+          
+          { "form" : "extinction",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...in earlier times the Ordinators and Buoyant Armigers hunted them to <mark>extinction<\/mark>. In recent years, however, vampires have either begun...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "extinct",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...manor and council district sheltered beneath the shell of an ancient <mark>extinct<\/mark> giant crab. The large carapace encloses a central dome,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "extinct",
+            "weight" : "1",
+            "pos" : 1172,
+            "context" : "...Redoran Council Chamber are located inside the shell of an ancient <mark>extinct<\/mark> giant crab. Tracks lead north to Maar Gan and Gnisis...",
+            "fid" : "content" } ] } ] }

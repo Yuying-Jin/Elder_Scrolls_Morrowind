@@ -1,0 +1,14 @@
+
+  { "stem" : "inhospit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inhospitable",
+            "weight" : "1",
+            "pos" : 363,
+            "context" : " The Ashlands are the dry, <mark>inhospitable<\/mark> wastelands surrounding the lower slopes of Red Mountain. The Ashlands...",
+            "fid" : "content" } ] } ] }

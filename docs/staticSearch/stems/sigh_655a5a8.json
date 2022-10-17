@@ -1,0 +1,31 @@
+
+  { "stem" : "sigh",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sighed",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "“That is why I'm drinking now,” <mark>sighed<\/mark> Silverthorn. “So tell me, what is your profession?”",
+            "fid" : "content" },
+          
+          { "form" : "sighing",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...the spell, he suddenly found that all the creaking and <mark>sighing<\/mark> of the ruins around him had been stilled. He opened...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sigh",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...much ambition, so little education,\" said Lledos with a <mark>sigh<\/mark>. \"My dear friends, we aren't mugging some Nord tourist...",
+            "fid" : "content" } ] } ] }

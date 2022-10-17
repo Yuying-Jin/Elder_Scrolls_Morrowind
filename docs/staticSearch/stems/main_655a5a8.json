@@ -1,0 +1,47 @@
+
+  { "stem" : "main",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "main",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "...under the gates so they could lower the bridge into the <mark>main<\/mark> courtyard of the stronghold. Masters Tulkiande, Mearvis, Jereth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "main",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "...cut through legions before facing the master himself in the desolate <mark>main<\/mark> hall.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "main",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...all I have come to find. They have sealed the <mark>main<\/mark> gate so Papré could not escape. I am not sorrowful...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mainly",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...a bitter berry, used to make wines. It grows <mark>mainly<\/mark> in the Ascadian Isles. frost salts, by contrast,...",
+            "fid" : "content" } ] } ] }

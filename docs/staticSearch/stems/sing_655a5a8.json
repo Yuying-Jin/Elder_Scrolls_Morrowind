@@ -1,0 +1,25 @@
+
+  { "stem" : "sing",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sing",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "Three mouths <mark>sing<\/mark> Mercy, Mastery, Mystery.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "singing",
+            "weight" : "1",
+            "pos" : 807,
+            "context" : "..., he thought he could still hear Imalyn's voice nearby, <mark>singing<\/mark> The Ninety-Nine Loves of Boethiah. He lay still...",
+            "fid" : "content" } ] } ] }

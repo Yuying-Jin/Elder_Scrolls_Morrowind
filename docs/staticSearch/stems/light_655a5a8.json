@@ -1,0 +1,193 @@
+
+  { "stem" : "light",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...to get around them. You want to defend yourself. You travel <mark>light<\/mark> and fast, and want light arms like daggers and shortswords...",
+            "fid" : "content" },
+          
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...to defend yourself. You travel light and fast, and want <mark>light<\/mark> arms like daggers and shortswords. You don't want to get...",
+            "fid" : "content" },
+          
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "..., crossbow, throwing star, and dart. You want <mark>light<\/mark> armor, so you can keep moving, and moving fast...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...flowers are resistant to the conditions of high heat and bright <mark>light<\/mark>. A petal from this plant placed under an adventurer's tongue...",
+            "fid" : "content" },
+          
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 285,
+            "context" : "...swamps of Black Marsh. The fronds from this plant are <mark>light<\/mark> green and quite delicate. Picking a frond can be very...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "From the heart, the <mark>light<\/mark>; from the head, the law.",
+            "fid" : "content" },
+          
+          { "form" : "Light",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "Forge Darkness into <mark>Light<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...unavoidable, it is best to fight quickly in comfortable, <mark>light<\/mark> armors with short blades, or to fight from a distance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...for the gods, and the virtues they represent. A <mark>light<\/mark>, careless life is not worth living. Redoran settlements are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 505,
+            "context" : "...shops, and apartments, and most of Vvardenfell's crafts and <mark>light<\/mark> industry are housed in these cantons. The Abbey of St...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 737,
+            "context" : " The piercing <mark>light<\/mark> of the Grand Pharos at the mouth of the harbor of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : " How many Orcs does it take to <mark>light<\/mark> a torch?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "<mark>light<\/mark> armor" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 514,
+            "context" : "<mark>light<\/mark> armor",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...public account portrays the actions of the Tribunal in a heroic <mark>light<\/mark>, while the hidden writings reveal secrets, untruths, inconsistencies...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...public account portrays the actions of the Tribunal in a heroic <mark>light<\/mark>, while the hidden writings reveal secrets, untruths, inconsistencies...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...sound, creating a cone of silence as glass can bend <mark>light<\/mark>. He had Silverthorn close his eyes while he tapped the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Light",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...and secure they strike from afar with accurate missile fire. <mark>Light<\/mark> armor protects them from harm, and the acrobatic discipline finds...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "light",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "What dark crucible may kindle their souls to <mark>light<\/mark>?",
+            "fid" : "content" } ] } ] }

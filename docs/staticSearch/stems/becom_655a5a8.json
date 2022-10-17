@@ -1,0 +1,102 @@
+
+  { "stem" : "becom",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "become",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...all reason. Many Necromancers who practice our Arts in Valenwood <mark>become<\/mark> \"one with the trees\" themselves.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "become",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "...Thras, you may have to apply more salts if they <mark>become<\/mark> saturated. Some Necromancers remove the vital organs before or after...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "become",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...matter of birth and marriage, but Imperial colonists may also <mark>become<\/mark> retainers of a Great House, or may be adopted into...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "become",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...is the Mages Guild steward, and Percius Mercius has recently <mark>become<\/mark> the Fighters Guild steward. Old Methal Seran is an eminent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "become",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "Many admirers ask, \"Arnie, how can I <mark>become<\/mark> a flash and prosperous fellow like you?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "become",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "Smuggling and organized crime have <mark>become<\/mark> increasingly aggressive and violent in the Redoran House Districts. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "become",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...their armor to increase their abilities to skulk, hide and <mark>become<\/mark> invisible.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Become",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "Want to <mark>Become<\/mark> Part of House Telvanni?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "becoming",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "...bleeds out away from you. There is a risk here of <mark>becoming<\/mark> blood stained if you don't move the head quickly enough....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,42 @@
+
+  { "stem" : "surfac",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "surfaces",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...Hammerfell where she won renown for her skill at climbing sheer <mark>surfaces<\/mark>. You must see her at work to believe it. She...",
+            "fid" : "content" },
+          
+          { "form" : "surface",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "\"It was high, but the <mark>surface<\/mark> of these Telvanni mushrooms is practically a ladder to someone of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "surface",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...water, and they raised the netchiman's wife back to the <mark>surface<\/mark> world and set her down on the shoals of Azura's Coast...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "surface",
+            "weight" : "1",
+            "pos" : 982,
+            "context" : "...and rugged, and the crater is deep and dotted with <mark>surface<\/mark> lava. The Ghostfence, a magical barrier which blocks travel...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "obtain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "obtaining",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...with little or no preparation at all. Given the difficulty of <mark>obtaining<\/mark> corpses, this kind of inefficiency cannot be tolerated.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "obtained",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "[Rithari sought and <mark>obtained<\/mark> a cursed soul gem of mysterious nature from a deep cavern...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "obtain",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...of House Telvanni wizards often assume it would be impossible to <mark>obtain<\/mark> positions in service to House Telvanni.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "obtained",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "..., in most cases, the ingredients are common and cheaply <mark>obtained<\/mark>.",
+            "fid" : "content" } ] } ] }

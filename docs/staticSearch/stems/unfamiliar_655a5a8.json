@@ -1,0 +1,14 @@
+
+  { "stem" : "unfamiliar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unfamiliar",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...have been asked to write this guidebook for outsiders who are <mark>unfamiliar<\/mark> with the Tribunal Temple, and interested in joining.",
+            "fid" : "content" } ] } ] }

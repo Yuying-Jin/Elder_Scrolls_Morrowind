@@ -1,0 +1,26 @@
+
+  { "stem" : "congeri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Congeries",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...power enfeeble the fundaments, and curtail the flow through the <mark>Congeries<\/mark>, except when functions be warranted. And safeguard that the...",
+            "fid" : "content" },
+          
+          { "form" : "Congeries",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "..., except when functions be warranted. And safeguard that the <mark>Congeries<\/mark> shall not be abused by prideful wizards, confident in their...",
+            "fid" : "content" },
+          
+          { "form" : "Congeries",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...by their ambitions. In this, hold the ordering of the <mark>Congeries<\/mark> among the oldest and most trusted of mages, and make...",
+            "fid" : "content" } ] } ] }

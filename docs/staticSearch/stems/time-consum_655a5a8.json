@@ -1,0 +1,14 @@
+
+  { "stem" : "time-consum",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "time-consuming",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : ".... We wish we knew tricks, for it's far too <mark>time-consuming<\/mark> to have to master actual feats.\"",
+            "fid" : "content" } ] } ] }

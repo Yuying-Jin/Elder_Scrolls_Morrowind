@@ -1,0 +1,73 @@
+
+  { "stem" : "bael",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Bael",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...to sell his herbs, including some to Kena Kena Yakin <mark>Bael<\/mark>, a prominent healer in town. He had been a...",
+            "fid" : "content" },
+          
+          { "form" : "Bael",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...all the skills of the great healers, including Kena Yakin <mark>Bael<\/mark>. When Oin came to deliver the herbs that day,...",
+            "fid" : "content" },
+          
+          { "form" : "Bael",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...province. Oin went to visit his friend, Kena Yakin <mark>Bael<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Bael",
+            "weight" : "1",
+            "pos" : 495,
+            "context" : "...province. Oin went to visit his friend, Kena Yakin <mark>Bael<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Bael",
+            "weight" : "1",
+            "pos" : 661,
+            "context" : "...province. Oin went to visit his friend, Kena Yakin <mark>Bael<\/mark>. The door was closed this time and he heard voices...",
+            "fid" : "content" },
+          
+          { "form" : "Bael",
+            "weight" : "1",
+            "pos" : 674,
+            "context" : "...\"Have you heard about the remarkable Gazouf Mough?\" Kena Yakin <mark>Bael<\/mark> was asking. \"He sounds like a very promising suitor.\"...",
+            "fid" : "content" },
+          
+          { "form" : "Bael",
+            "weight" : "1",
+            "pos" : 754,
+            "context" : "...at once. A week later, he returned to Kena Yakin <mark>Bael<\/mark> and learned how to fortify his personality in exchange for next...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bael",
+            "weight" : "1",
+            "pos" : 7598,
+            "context" : "Yakin_<mark>Bael<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bael",
+            "weight" : "1",
+            "pos" : 6436,
+            "context" : "yakin <mark>bael<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

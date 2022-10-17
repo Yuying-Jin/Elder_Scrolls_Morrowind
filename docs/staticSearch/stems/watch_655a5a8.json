@@ -1,0 +1,71 @@
+
+  { "stem" : "watch",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "watched",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "Harithoel <mark>watched<\/mark> S'Riizh's futile endeavor for a little while before getting to work...",
+            "fid" : "content" },
+          
+          { "form" : "watching",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...not my weapon of choice,\" said Harithoel, quietly, <mark>watching<\/mark> his prey and missing another with a splash and a curse...",
+            "fid" : "content" },
+          
+          { "form" : "watches",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "\"S'Riizh <mark>watches<\/mark> though,\" said S'Riizh. \"You'd be surprised how much you...",
+            "fid" : "content" },
+          
+          { "form" : "watching",
+            "weight" : "1",
+            "pos" : 416,
+            "context" : ".... \"You'd be surprised how much you can learn just by <mark>watching<\/mark>. Don't forget the fifth crate over by the tree.\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "watching",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...he saw Vanis Coribael, the youngest of the brothers, <mark>watching<\/mark> the valley for intruders. Vanis was known to be faster...",
+            "fid" : "content" },
+          
+          { "form" : "watched",
+            "weight" : "1",
+            "pos" : 506,
+            "context" : "Saint Delyn the Wise <mark>watched<\/mark> the young adventurer from a cloud in the sky, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "watch",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : "...to Caldera. Between Ald'ruhn and Caldera are many sidepaths; <mark>watch<\/mark> for signposts, or you'll get lost. The silt strider...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "watchful",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "...that all they think and do is under the ever-<mark>watchful<\/mark> eye of the Tribunal and family ancestor spirits....\"",
+            "fid" : "content" } ] } ] }

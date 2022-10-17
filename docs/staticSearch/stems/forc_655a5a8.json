@@ -1,0 +1,69 @@
+
+  { "stem" : "forc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "force",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...bonewalker or bonelord, summoned by profane ritual and bound by <mark>force<\/mark> to the corpse miner's will, how may such a spirit ever...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "force",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "The most disciplined and effective military <mark>force<\/mark> in history, the Imperial Legions preserve the peace and rule...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "force",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...we will report the evil infection and return with a regimental <mark>force<\/mark> of rescue. May the Powers be with me.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forced",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "...on Redoran mercenaries for protection and security, it has been <mark>forced<\/mark> to turn to Western mercenaries for guards and agents.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Force",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "..., it is customary to leave behind a Potion of Rising <mark>Force<\/mark>. Suitable potions may be purchased from the Temple . Homemade...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forces",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...tribes and marched to meet the Dwemer-Dagoth-Westerner <mark>forces<\/mark>.",
+            "fid" : "content" } ] } ] }

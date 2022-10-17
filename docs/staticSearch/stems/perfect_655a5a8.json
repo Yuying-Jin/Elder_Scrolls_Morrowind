@@ -1,0 +1,25 @@
+
+  { "stem" : "perfect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "perfect",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "..., for in it is delivered the unmixed conflict path, <mark>perfect<\/mark> in every way. What is its number?'",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "perfect",
+            "weight" : "1",
+            "pos" : 459,
+            "context" : "...the spear out of Harithoel's skull. The trajectory had been <mark>perfect<\/mark>: it had fallen down from the branches as soon as...",
+            "fid" : "content" } ] } ] }

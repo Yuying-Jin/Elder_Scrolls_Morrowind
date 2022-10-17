@@ -1,0 +1,91 @@
+
+  { "stem" : "deriv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "derive",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "The Great Houses traditions <mark>derive<\/mark> from ancient Dunmer clan and tribes, but now function as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "derive",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...the bonelord, a peculiar form of revenant that seems to <mark>derive<\/mark> its powers more from its spirit energies than from the substance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "derive",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...ask whether Dagoth Ur's powers and the Tribunal powers might ultimately <mark>derive<\/mark> from the same source -- Red Mountain. Sources in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "derive",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...ask whether Dagoth Ur's powers and the Tribunal powers might ultimately <mark>derive<\/mark> from the same source -- Red Mountain. Sources in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "derive",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...the bonelord, a peculiar form of revenant that seems to <mark>derive<\/mark> its powers more from its spirit energies than from the substance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "derived",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "..., that Argonians can pick the plant and use the sap <mark>derived<\/mark> from its roots as an enhancement to their endurance.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "derived",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "...was a retainer of the ambitious Direnni clan. The Direnni <mark>derived<\/mark> the bulk of their power from their traffickings with Daedra,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "derived",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...the greatest of Dunmer heroes and generals. The story is <mark>derived<\/mark> from Ashlander oral tradition, and is flatly contradicted by all...",
+            "fid" : "content" } ] } ] }

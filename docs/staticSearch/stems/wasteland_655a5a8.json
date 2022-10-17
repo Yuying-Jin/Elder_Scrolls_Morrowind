@@ -1,0 +1,42 @@
+
+  { "stem" : "wasteland",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wastelands",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : " The Ashlands are the dry, inhospitable <mark>wastelands<\/mark> surrounding the lower slopes of Red Mountain. The Ashlands extend...",
+            "fid" : "content" },
+          
+          { "form" : "wasteland",
+            "weight" : "1",
+            "pos" : 876,
+            "context" : "...in the southeast of Vvardenfell, Molag Amur is an uninhabited <mark>wasteland<\/mark> of rocky hills, steep-sided ravines, lava pools...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wasteland",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...Veloth will build anew a garden of plenty in this blighted <mark>wasteland<\/mark>. Come to Red Mountain, old friend. For the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wastelands",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...large community of vampires might easily escape detection in the remote <mark>wastelands<\/mark>, or in the subterranean labyrinths of abandoned strongholds and wizard...",
+            "fid" : "content" } ] } ] }

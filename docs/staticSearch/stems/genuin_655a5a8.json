@@ -1,0 +1,37 @@
+
+  { "stem" : "genuin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "genuine",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...consensus exists among the Dissidents about whether the Nerevarine prophecies are <mark>genuine<\/mark>, all agree that the persecution of the Nerevarines is unjust...",
+            "fid" : "content" },
+          
+          { "form" : "genuine",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "...Dissident priests have come to believe that the Nerevarine prophecies are <mark>genuine<\/mark>, and have made a systematic study of prophecies recorded in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "genuine",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...consensus exists among the Dissidents about whether the Nerevarine prophecies are <mark>genuine<\/mark>, all agree that the persecution of the Nerevarines is unjust...",
+            "fid" : "content" },
+          
+          { "form" : "genuine",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "...Dissident priests have come to believe that the Nerevarine prophecies are <mark>genuine<\/mark>, and have made a systematic study of prophecies recorded in...",
+            "fid" : "content" } ] } ] }

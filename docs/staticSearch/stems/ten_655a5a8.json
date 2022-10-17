@@ -1,0 +1,31 @@
+
+  { "stem" : "ten",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ten",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "Up until he was <mark>ten<\/mark> years old, Oin Parnafacasis was in an elite group of...",
+            "fid" : "content" },
+          
+          { "form" : "ten",
+            "weight" : "1",
+            "pos" : 611,
+            "context" : "...sword. He blocked the blows effortlessly with a shield for <mark>ten<\/mark> minutes, and then revealed afterwards that he had picketpocketed the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ten",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...the shop-keeper. If you are offered something for <mark>ten<\/mark> gold pieces, try offering six and see where that takes...",
+            "fid" : "content" } ] } ] }

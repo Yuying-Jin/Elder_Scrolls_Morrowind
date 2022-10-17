@@ -1,0 +1,43 @@
+
+  { "stem" : "juliano",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Julianos",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...Arkay, Zenithar, Mara, Stendarr, Kynareth, and <mark>Julianos<\/mark>, and the Talos cult, veneration of the divine god...",
+            "fid" : "content" },
+          
+          { "form" : "Julianos",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "..., Arkay, Zenithar, Mara, Stendarr, Kynareth, <mark>Julianos<\/mark>, and Tiber Septim. We preach the Nine Virtues:...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Julianos",
+            "weight" : "1",
+            "pos" : 6749,
+            "context" : "<mark>Julianos<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "julianos",
+            "weight" : "1",
+            "pos" : 6853,
+            "context" : "<mark>julianos<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

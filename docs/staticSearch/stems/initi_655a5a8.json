@@ -1,0 +1,80 @@
+
+  { "stem" : "initi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "initiates",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...gift of diplomatic speech are other qualities we value in our <mark>initiates<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "initiative",
+            "weight" : "1",
+            "pos" : 283,
+            "context" : "...the ranks, for above all things, House Hlaalu prizes <mark>initiative<\/mark> and ambition. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Initially",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...House, or may be adopted into a Great House. <mark>Initially<\/mark> an outlander may gain status in a house as an oath...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "initiation",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...to the presence of Lord Vivec, and only at his <mark>initiation<\/mark>. Beneath the Palace of Vivec is the Puzzle Canal,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "initial",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...been done. For example, the observer must remember the <mark>initial<\/mark> position of a thing, and also the new position of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Initiate",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...shrines and make a modest donation. The Blessed of the <mark>Initiate<\/mark> rank and higher of the Temple have already made their devotions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Initially",
+            "weight" : "1",
+            "pos" : 401,
+            "context" : "...named Galur Rithari insisted that he was cured of vampirism. <mark>Initially<\/mark> imprisoned by the Temple for heresy, he later recanted,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "thousand",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thousands",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...had been asleep and dreaming that I was being sliced by <mark>thousands<\/mark> of tiny knives from my bowels inside out. I awoke before...",
+            "fid" : "content" } ] } ] }

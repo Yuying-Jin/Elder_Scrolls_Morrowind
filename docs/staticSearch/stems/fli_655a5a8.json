@@ -1,0 +1,14 @@
+
+  { "stem" : "fli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fly",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...To visit the mainland, you must either be able to <mark>fly<\/mark>, swim, or water-walk, or you must...",
+            "fid" : "content" } ] } ] }

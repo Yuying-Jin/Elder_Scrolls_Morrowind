@@ -1,0 +1,53 @@
+
+  { "stem" : "lava",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lava",
+            "weight" : "1",
+            "pos" : 883,
+            "context" : "...uninhabited wasteland of rocky hills, steep-sided ravines, <mark>lava<\/mark> pools, and barren ash pavements. Pathfinding and travel is...",
+            "fid" : "content" },
+          
+          { "form" : "lava",
+            "weight" : "1",
+            "pos" : 983,
+            "context" : "...rugged, and the crater is deep and dotted with surface <mark>lava<\/mark>. The Ghostfence, a magical barrier which blocks travel as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lava",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "What is green and hops and sizzles on <mark>lava<\/mark>?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lava",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...will provide protection from the heat and fire found in the <mark>lava<\/mark> pits and streams found around Dagoth-Ur.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lava",
+            "weight" : "1",
+            "pos" : 289,
+            "context" : "...Feryn, and so tough that he could swim in the <mark>lava<\/mark> of Dagoth Ur like it was the Padomaic Ocean. Baranat...",
+            "fid" : "content" } ] } ] }

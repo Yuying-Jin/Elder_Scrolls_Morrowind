@@ -1,0 +1,14 @@
+
+  { "stem" : "household",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "household",
+            "weight" : "1",
+            "pos" : 779,
+            "context" : "...Sathis had given himself a few hours to rest before his <mark>household<\/mark> returned. His own bed was wonderfully soft and warm compared...",
+            "fid" : "content" } ] } ] }

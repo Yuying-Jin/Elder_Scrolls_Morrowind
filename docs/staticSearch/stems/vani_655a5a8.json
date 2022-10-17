@@ -1,0 +1,67 @@
+
+  { "stem" : "vani",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Vanis",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...the first of the brothers' guard posts. There he saw <mark>Vanis<\/mark> Coribael, the youngest of the brothers, watching the valley...",
+            "fid" : "content" },
+          
+          { "form" : "Vanis",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...youngest of the brothers, watching the valley for intruders. <mark>Vanis<\/mark> was known to be faster than the wind, a warrior...",
+            "fid" : "content" },
+          
+          { "form" : "Vanis",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "Baranat dropped his blade and ran at <mark>Vanis<\/mark>, moving so fast he didn't rustle a leaf with his...",
+            "fid" : "content" },
+          
+          { "form" : "Vanis",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...rustle a leaf with his pace. In a flash, <mark>Vanis<\/mark> was dead by Baranat's hands. The adventurer continued on until...",
+            "fid" : "content" },
+          
+          { "form" : "Vanis",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...brother, Feryn, who not only was as fast as <mark>Vanis<\/mark>, but so strong, he could rip a trama shrub...",
+            "fid" : "content" },
+          
+          { "form" : "Vanis",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...stood guard. Horis, who was faster than his brother <mark>Vanis<\/mark>, stronger than his brother Feryn, and so tough that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vanis",
+            "weight" : "1",
+            "pos" : 7468,
+            "context" : "<mark>Vanis<\/mark>_Coribael" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vanis",
+            "weight" : "1",
+            "pos" : 6509,
+            "context" : "<mark>vanis<\/mark> coribael",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

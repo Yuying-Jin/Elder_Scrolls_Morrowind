@@ -1,0 +1,36 @@
+
+  { "stem" : "evid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "evidence",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "...source of their subsequent apotheosis. Also, there is good <mark>evidence<\/mark> that the Tribunal have been concealing the true nature of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "evidence",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "...source of their subsequent apotheosis. Also, there is good <mark>evidence<\/mark> that the Tribunal have been concealing the true nature of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "evidence",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...themselves to the will of a vampire, but no real <mark>evidence<\/mark> of this exists....",
+            "fid" : "content" } ] } ] }

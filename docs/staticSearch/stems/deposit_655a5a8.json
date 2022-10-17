@@ -1,0 +1,14 @@
+
+  { "stem" : "deposit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deposits",
+            "weight" : "1",
+            "pos" : 1151,
+            "context" : "...granted an Imperial monopoly to remove raw ebony from the rich <mark>deposits<\/mark> here. Caldera has the appearance and flavor of a Western Imperial...",
+            "fid" : "content" } ] } ] }

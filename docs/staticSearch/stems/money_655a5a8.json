@@ -1,0 +1,60 @@
+
+  { "stem" : "money",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "money",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...the people for their gifts and donations, but when the <mark>money<\/mark> runs dry, will the people remember? The Dres know...",
+            "fid" : "content" },
+          
+          { "form" : "money",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...will the people remember? The Dres know how to make <mark>money<\/mark>, but they have not learned how not to make enemies...",
+            "fid" : "content" },
+          
+          { "form" : "money",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...to turn a profit, take it. But do not follow <mark>money<\/mark> blindly. There is value in reputation, more than many...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "money",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "...When his mother died, and his father discovered that the <mark>money<\/mark> they had been living on was based on a thief's salary...",
+            "fid" : "content" },
+          
+          { "form" : "money",
+            "weight" : "1",
+            "pos" : 724,
+            "context" : "...to rebuff the advances of so many men interested in my <mark>money<\/mark> and the money of my late husband. The truth is...",
+            "fid" : "content" },
+          
+          { "form" : "money",
+            "weight" : "1",
+            "pos" : 725,
+            "context" : "...advances of so many men interested in my money and the <mark>money<\/mark> of my late husband. The truth is that I've never...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "money",
+            "weight" : "1",
+            "pos" : 346,
+            "context" : "...of the storm. The smugglers aboard would pay them good <mark>money<\/mark> for the moon sugar. Luckily, S'Riizh had used only...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "abbey",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Abbey",
+            "weight" : "1",
+            "pos" : 509,
+            "context" : "...crafts and light industry are housed in these cantons. The <mark>Abbey<\/mark> of St. Delyn the Wise is on the top tier...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Abbey",
+            "weight" : "1",
+            "pos" : 4080,
+            "context" : "The <mark>Abbey<\/mark> of St. Delyn the Wise" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abbey",
+            "weight" : "1",
+            "pos" : 4224,
+            "context" : "the <mark>abbey<\/mark> of st. delyn the wise",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

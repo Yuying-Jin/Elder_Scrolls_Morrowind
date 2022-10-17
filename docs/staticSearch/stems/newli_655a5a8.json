@@ -1,0 +1,25 @@
+
+  { "stem" : "newli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "newly",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "The <mark>newly<\/mark> formed Orsinium presents a unique opportunity. As you know,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "newly",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : " Pelagiad is a <mark>newly<\/mark> chartered Imperial village between Balmora and Vivec City on the western...",
+            "fid" : "content" } ] } ] }

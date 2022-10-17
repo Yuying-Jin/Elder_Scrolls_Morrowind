@@ -1,0 +1,70 @@
+
+  { "stem" : "sottild",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Sottilde's",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "<mark>Sottilde's<\/mark> Code Book" },
+          
+          { "form" : "Sottilde's",
+            "weight" : "1",
+            "pos" : 1308,
+            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Sottilde's",
+            "weight" : "1",
+            "pos" : 3703,
+            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "sottilde",
+            "weight" : "1",
+            "pos" : 7390,
+            "context" : "<mark>sottilde<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Sottilde's",
+            "weight" : "1",
+            "pos" : 7391,
+            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Sottilde's",
+            "weight" : "1",
+            "pos" : 1156,
+            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1" },
+          
+          { "form" : "Sottilde's",
+            "weight" : "1",
+            "pos" : 3551,
+            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1" },
+          
+          { "form" : "Sottilde",
+            "weight" : "1",
+            "pos" : 7277,
+            "context" : "<mark>Sottilde<\/mark>" },
+          
+          { "form" : "Sottilde's",
+            "weight" : "1",
+            "pos" : 7278,
+            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "countrymen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "countrymen",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...his home town among the happy voices of his friends and <mark>countrymen<\/mark>. Twisting the literal words of Chimere's pact, Dagon scooped...",
+            "fid" : "content" },
+          
+          { "form" : "countrymen",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...and hurled in into the void. All Chimere's friends and <mark>countrymen<\/mark> were instantly killed, though the sounds of their voices remained...",
+            "fid" : "content" } ] } ] }

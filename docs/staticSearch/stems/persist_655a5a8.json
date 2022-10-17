@@ -1,0 +1,14 @@
+
+  { "stem" : "persist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "persistent",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "For example, one of the most striking <mark>persistent<\/mark> myths associated with Vivec is the story that Vivec conspired with...",
+            "fid" : "content" } ] } ] }

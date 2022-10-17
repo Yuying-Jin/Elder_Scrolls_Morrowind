@@ -1,0 +1,44 @@
+
+  { "stem" : "capn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Capn's",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "<mark>Capn's<\/mark> Guide to the Fishy Stick" },
+          
+          { "form" : "Capn's",
+            "weight" : "1",
+            "pos" : 1115,
+            "context" : "<mark>Capn's<\/mark> Guide to the Fishy Stick, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Capn's",
+            "weight" : "1",
+            "pos" : 3799,
+            "context" : "<mark>Capn's<\/mark> Guide to the Fishy Stick, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Capn's",
+            "weight" : "1",
+            "pos" : 943,
+            "context" : "<mark>Capn's<\/mark> Guide to the Fishy Stick, count: 1" },
+          
+          { "form" : "Capn's",
+            "weight" : "1",
+            "pos" : 3647,
+            "context" : "<mark>Capn's<\/mark> Guide to the Fishy Stick, count: 1" } ] } ] }

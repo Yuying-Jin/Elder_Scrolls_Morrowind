@@ -1,0 +1,103 @@
+
+  { "stem" : "effect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "effects",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "..., the holy warriors of the Tribunal Temple report that spell <mark>effects<\/mark> known to affect the undead have no effect on ash vampires...",
+            "fid" : "content" },
+          
+          { "form" : "effect",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "...report that spell effects known to affect the undead have no <mark>effect<\/mark> on ash vampires.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "effects",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "..., the holy warriors of the Tribunal Temple report that spell <mark>effects<\/mark> known to affect the undead have no effect on ash vampires...",
+            "fid" : "content" },
+          
+          { "form" : "effect",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "...report that spell effects known to affect the undead have no <mark>effect<\/mark> on ash vampires.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effective",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "The most disciplined and <mark>effective<\/mark> military force in history, the Imperial Legions preserve the peace...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effect",
+            "weight" : "1",
+            "pos" : 542,
+            "context" : "...reeds in the other. I don't want to give the whole <mark>effect<\/mark> away, but at the end of the act, you...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effects",
+            "weight" : "1",
+            "pos" : 469,
+            "context" : "Invisibility, one of the most prized <mark>effects<\/mark> of potions, can be made only from crushed diamonds and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effects",
+            "weight" : "1",
+            "pos" : 420,
+            "context" : "...the oldest stone. He learned how to shrug off the <mark>effects<\/mark> of frost, poison, fire, and charges of lightning...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effect",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...undead. Sorceries and blessings affecting the undead reportedly have no <mark>effect<\/mark> on these creatures. No specimen has ever been examined,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "effect",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...express their concerns over the high tax rates and the injurious <mark>effect<\/mark> of high tariffs on trade.",
+            "fid" : "content" } ] } ] }

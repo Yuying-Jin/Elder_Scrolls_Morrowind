@@ -1,0 +1,25 @@
+
+  { "stem" : "ser",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ser",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : "...interest in your work, but it's like I was telling <mark>Ser<\/mark> Calissiah Vignum the other day, I said Calissah, what...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ser",
+            "weight" : "1",
+            "pos" : 620,
+            "context" : "\"Very impressive, <mark>Ser<\/mark> Priif. Now, behold the power of the remarkable Gazouf Mough...",
+            "fid" : "content" } ] } ] }

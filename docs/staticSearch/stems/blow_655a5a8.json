@@ -1,0 +1,98 @@
+
+  { "stem" : "blow",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blows",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "..., spear, and blunt weapons. You must block whatever <mark>blows<\/mark> you can, and take unblocked blows upon your heavy armor....",
+            "fid" : "content" },
+          
+          { "form" : "blows",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : ".... You must block whatever blows you can, and take unblocked <mark>blows<\/mark> upon your heavy armor. Recruit must also be proficient at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blows",
+            "weight" : "1",
+            "pos" : 608,
+            "context" : "...partner to attack him with his sword. He blocked the <mark>blows<\/mark> effortlessly with a shield for ten minutes, and then revealed...",
+            "fid" : "content" },
+          
+          { "form" : "blows",
+            "weight" : "1",
+            "pos" : 639,
+            "context" : "...with his sword. After twenty minutes of blocking the man's <mark>blows<\/mark> with his shield, he revealed that he had pickpocketed Funcrazot...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blow",
+            "weight" : "1",
+            "pos" : 363,
+            "context" : "..., drawing the string tight, and then supplying the killing <mark>blow<\/mark> or blows.\"",
+            "fid" : "content" },
+          
+          { "form" : "blows",
+            "weight" : "1",
+            "pos" : 364,
+            "context" : "...the string tight, and then supplying the killing blow or <mark>blows<\/mark>.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blows",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...by your unseemly squabbling.\" So he dealt them both mighty <mark>blows<\/mark>, shattering their skulls, and silencing their argument, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blow",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...bound me by oath to defend. It was a cruel <mark>blow<\/mark>, a bitter betrayal, to be felled by your hand...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blow",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...Malacath, this armor has the marvelous property of turning the <mark>blow<\/mark> of an oathbreaker. Chimere tricked Dagon into swearing an oath...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Blow",
+            "weight" : "1",
+            "pos" : 432,
+            "context" : "...on the seventh day, as he was preparing his Killing <mark>Blow<\/mark>, he suddenly stopped, eyes wide open. The blood...",
+            "fid" : "content" } ] } ] }

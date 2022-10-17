@@ -1,0 +1,25 @@
+
+  { "stem" : "imagin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imagining",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "...do night after night is toss and turn. I kept <mark>imagining<\/mark> you burned to ashes by that battlemage, and where would...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imagination",
+            "weight" : "1",
+            "pos" : 335,
+            "context" : ".... Nonetheless, the tale is firmly established in the Dunmer <mark>imagination<\/mark>, as if to say, \"Of course Vivec would never...",
+            "fid" : "content" } ] } ] }

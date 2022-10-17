@@ -1,0 +1,14 @@
+
+  { "stem" : "non-guild",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "non-guild",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...also rent space here. The Black Shalk Cornerclub rents beds to <mark>non-guild<\/mark> visitors.",
+            "fid" : "content" } ] } ] }

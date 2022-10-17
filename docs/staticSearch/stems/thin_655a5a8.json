@@ -1,0 +1,14 @@
+
+  { "stem" : "thin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thinly",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...desert wastes, arid grasslands, and volcanic badlands, and <mark>thinly<\/mark> populated by the nomadic Ashlander tribes.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "coin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coins",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : ".... This value must be carefully balanced against the more tangible <mark>coins<\/mark> in any deal. Theft and murder are bad for business...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coin",
+            "weight" : "1",
+            "pos" : 395,
+            "context" : "...such potions require at least one ingredient with high cost in <mark>coin<\/mark> or blood.",
+            "fid" : "content" } ] } ] }

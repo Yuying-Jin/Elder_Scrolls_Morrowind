@@ -1,0 +1,58 @@
+
+  { "stem" : "longer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "longer",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...of my own sword blade at my own face - no <mark>longer<\/mark> a blood-seeking beast of teeth and empty eyes.\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "longer",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...been corrupted by self-interest and politics, and no <mark>longer<\/mark> acts in the best interests of the Temple or its worshippers...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "longer",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...been corrupted by self-interest and politics, and no <mark>longer<\/mark> acts in the best interests of the Temple or its worshippers...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "longer",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...they are now. I just have to observe them a little <mark>longer<\/mark>. Why can't the little fechers swim in straight lines?\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "longer",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...to go? Do you laugh and cry, but no <mark>longer<\/mark> feel? Do you wear these masks? Then, perhaps,...",
+            "fid" : "content" } ] } ] }

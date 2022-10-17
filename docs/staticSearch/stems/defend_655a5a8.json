@@ -1,0 +1,47 @@
+
+  { "stem" : "defend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Defender",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...Ambition, Learning, and Civility. Our Emperor is the <mark>Defender<\/mark> of the Faith, and the Empire is the worldly working...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "defend",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...traps, and how to get around them. You want to <mark>defend<\/mark> yourself. You travel light and fast, and want light arms...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "defend",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...as I guarded the treasure you bound me by oath to <mark>defend<\/mark>. It was a cruel blow, a bitter betrayal,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "defend",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "For example, since the Telvanni vigorously <mark>defend<\/mark> the right to own slaves, and since they keep many...",
+            "fid" : "content" } ] } ] }

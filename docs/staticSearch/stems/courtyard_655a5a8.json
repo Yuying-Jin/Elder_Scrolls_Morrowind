@@ -1,0 +1,25 @@
+
+  { "stem" : "courtyard",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "courtyards",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : ".... Redoran villages are typically centered on Temple compounds and their <mark>courtyards<\/mark>, with huts and tradehouses gathered around a central plaza,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "courtyard",
+            "weight" : "1",
+            "pos" : 361,
+            "context" : "...the gates so they could lower the bridge into the main <mark>courtyard<\/mark> of the stronghold. Masters Tulkiande, Mearvis, Jereth,...",
+            "fid" : "content" } ] } ] }

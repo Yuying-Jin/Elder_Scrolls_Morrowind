@@ -1,0 +1,48 @@
+
+  { "stem" : "nordic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nordic",
+            "weight" : "1",
+            "pos" : 5591,
+            "context" : "<mark>Nordic<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nordic",
+            "weight" : "1",
+            "pos" : 5839,
+            "context" : "<mark>nordic<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nordic",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "<mark>Nordic<\/mark> hero-cults provide a strong counter-current to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nordic",
+            "weight" : "1",
+            "pos" : 415,
+            "context" : "...he parried and blocked in all the fashions of the great <mark>Nordic<\/mark> warriors; he maintained his balance, coordination, speed,...",
+            "fid" : "content" } ] } ] }

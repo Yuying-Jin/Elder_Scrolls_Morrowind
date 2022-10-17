@@ -1,0 +1,53 @@
+
+  { "stem" : "teleport",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "teleportation",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...is an island settlement, and accessible only by sea and <mark>teleportation<\/mark>. The town is large, with many craftsmen, traders...",
+            "fid" : "content" },
+          
+          { "form" : "teleport",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...Dagon Fel. Iniel at the Wolverine Hall Mages Guild can <mark>teleport<\/mark> you to Ald'ruhn, Vivec City, Caldera, and Balmora...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teleport",
+            "weight" : "1",
+            "pos" : 357,
+            "context" : "..., or Maar Gan.. Guild guides at the Mages Guild <mark>teleport<\/mark> you to Balmora, Vivec City, Caldera, and Sadrith...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teleportation",
+            "weight" : "1",
+            "pos" : 518,
+            "context" : "...is an island settlement, and accessible only by sea and <mark>teleportation<\/mark>. The town is large, with many services, but...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "teleportation",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...take flight. Since the Weir Gate has been taken, <mark>teleportation<\/mark> is not possible. Only Papré can make such a journey...",
+            "fid" : "content" } ] } ] }

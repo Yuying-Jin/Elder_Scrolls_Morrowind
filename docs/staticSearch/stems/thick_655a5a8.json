@@ -1,0 +1,36 @@
+
+  { "stem" : "thick",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "Arrowroot is a <mark>thick<\/mark>, rubbery tuber that can be found in the Province of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...trama root, racer plumes, and coda flowers. A <mark>thick<\/mark>, bitter-tasting root of the trama shrub grows in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thick",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...many years ago, he heard some people talking through the <mark>thick<\/mark> tall trama shrubs about the marriage of Sedura Indoril Pavflek Mamoona...",
+            "fid" : "content" } ] } ] }

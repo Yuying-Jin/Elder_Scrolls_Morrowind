@@ -1,0 +1,14 @@
+
+  { "stem" : "space",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "space",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : ".... Various independent tradesmen, craftsmen, and trainers also rent <mark>space<\/mark> here. The Black Shalk Cornerclub rents beds to non-guild...",
+            "fid" : "content" } ] } ] }

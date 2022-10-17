@@ -1,0 +1,188 @@
+
+  { "stem" : "record",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 2127,
+            "context" : "Hall of <mark>Records<\/mark>" },
+          
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 2218,
+            "context" : "Hlaalu <mark>Records<\/mark>" },
+          
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 4483,
+            "context" : "Vivec, Hlaalu <mark>Records<\/mark>" },
+          
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 4499,
+            "context" : "Vivec, Redoran <mark>Records<\/mark>" },
+          
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 4570,
+            "context" : "Vivec,_Hlaalu_<mark>Records<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "records",
+            "weight" : "1",
+            "pos" : 2297,
+            "context" : "hall of <mark>records<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "records",
+            "weight" : "1",
+            "pos" : 2386,
+            "context" : "hlaalu <mark>records<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "records",
+            "weight" : "1",
+            "pos" : 4652,
+            "context" : "vivec, hlaalu <mark>records<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "records",
+            "weight" : "1",
+            "pos" : 4673,
+            "context" : "vivec, redoran <mark>records<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "records",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "...-top mansion here. The tiers below contain Hlaalu treasuries, <mark>records<\/mark>, holding cells, and various Great House services. There...",
+            "fid" : "content" },
+          
+          { "form" : "records",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : ".... The administrative center includes a treasury and a hall of <mark>records<\/mark>. Slaves are housed in the lowest tiers, along with...",
+            "fid" : "content" },
+          
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 414,
+            "context" : "...Redoran administrative center there includes the Redoran Treasury, Hall of <mark>Records<\/mark>, and Holding Cells. On the lowest tier is a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "Hlaalu <mark>Records<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "Redoran <mark>Records<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "Vivec, Hlaalu <mark>Records<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "Vivec, Redoran <mark>Records<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "Vivec, Hlaalu <mark>Records<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "records",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...controls access to the only substantial collection of historical and cultural <mark>records<\/mark> in Morrowind....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "records",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...The name Arkay will be stuck [sic] from the <mark>records<\/mark>. Only I shall hold sway over life and death....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Records",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "Hlaalu <mark>Records<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recorded",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "...are genuine, and have made a systematic study of prophecies <mark>recorded<\/mark> in Temple archives.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "recorded",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "...are genuine, and have made a systematic study of prophecies <mark>recorded<\/mark> in Temple archives.",
+            "fid" : "content" } ] } ] }

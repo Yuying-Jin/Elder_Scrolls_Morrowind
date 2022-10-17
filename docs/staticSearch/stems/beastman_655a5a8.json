@@ -1,0 +1,14 @@
+
+  { "stem" : "beastman",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beastman",
+            "weight" : "1",
+            "pos" : 476,
+            "context" : "...While raising the corpse of a man, elf, or <mark>beastman<\/mark> can produce a useful servant, the corpses of animals produce...",
+            "fid" : "content" } ] } ] }

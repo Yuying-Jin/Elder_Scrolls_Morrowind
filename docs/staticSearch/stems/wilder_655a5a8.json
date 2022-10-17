@@ -1,0 +1,64 @@
+
+  { "stem" : "wilder",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wilderness",
+            "weight" : "1",
+            "pos" : 893,
+            "context" : "...pavements. Pathfinding and travel is extremely difficult in this trackless <mark>wilderness<\/mark>, and is complicated by frequent ash storms. The Ashlanders...",
+            "fid" : "content" },
+          
+          { "form" : "wilderness",
+            "weight" : "1",
+            "pos" : 1220,
+            "context" : ".... This island and its associated lesser islands are a maritime <mark>wilderness<\/mark> extending north from Vvardenfell into the Sea of Ghosts. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wildernesses",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "...wish to dispute Telvanni exploration and colonization of the wastes and <mark>wildernesses<\/mark> of Vvardenfell, they are welcome to do so, with the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wilderness",
+            "weight" : "1",
+            "pos" : 482,
+            "context" : "...prudent traveler, being often on the road and in the <mark>wilderness<\/mark>, gathering herbs and potion components. They should avoid trouble...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wilderness",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...often the only nourishment of adventurers who find themselves in the <mark>wilderness<\/mark> without rations. It is said that the black and white...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wilderness",
+            "weight" : "1",
+            "pos" : 531,
+            "context" : "...by a large natural arch of stone. The region is <mark>wilderness<\/mark>, and finding the cave mouth can be difficult. Dreugh...",
+            "fid" : "content" } ] } ] }

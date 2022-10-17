@@ -1,0 +1,14 @@
+
+  { "stem" : "loud",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "loudly",
+            "weight" : "1",
+            "pos" : 367,
+            "context" : "Imalyn laughed <mark>loudly<\/mark>, \"Can I see a demonstration sometime?\"",
+            "fid" : "content" } ] } ] }

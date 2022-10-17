@@ -1,0 +1,48 @@
+
+  { "stem" : "tear",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tear",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : "...it would explain the number of slaves that are purchased in <mark>Tear<\/mark> by Sload merchants and the rumors of Sload airships carrying corpses...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tear",
+            "weight" : "1",
+            "pos" : 3657,
+            "context" : "<mark>Tear<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tear",
+            "weight" : "1",
+            "pos" : 3813,
+            "context" : "<mark>tear<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tears",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "...help his people, Vivec was filled with despair. Vivec's <mark>tears<\/mark> weakened his ash cast. He tore the ash from his...",
+            "fid" : "content" } ] } ] }

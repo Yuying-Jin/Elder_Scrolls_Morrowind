@@ -1,0 +1,60 @@
+
+  { "stem" : "domin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "dominant",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...Imperial administration, House Hlaalu has emerged as politically and economically <mark>dominant<\/mark> among the Great Houses of Vvardenfell and Morrowind. Hlaalu welcomes...",
+            "fid" : "content" },
+          
+          { "form" : "dominated",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "..., with walled precincts enclosing outbuildings for craftsmen and servants, <mark>dominated<\/mark> by a grand manor residence in place of a Temple shrine...",
+            "fid" : "content" },
+          
+          { "form" : "dominate",
+            "weight" : "1",
+            "pos" : 397,
+            "context" : "...and the Telvanni are unwilling to allow the ambitious Hlaalu to <mark>dominate<\/mark> Vvardenfell's untapped resources by default. Telvanni architecture is dominated by...",
+            "fid" : "content" },
+          
+          { "form" : "dominated",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...to dominate Vvardenfell's untapped resources by default. Telvanni architecture is <mark>dominated<\/mark> by the wizards' tower, a fantastic organic form grown and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "dominated",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...encompasses Vvardefell [sic] Island, a great land mass <mark>dominated<\/mark> by the giant volcano Red Mountain and cut off from mainland...",
+            "fid" : "content" },
+          
+          { "form" : "dominant",
+            "weight" : "1",
+            "pos" : 966,
+            "context" : " The <mark>dominant<\/mark> feature of Vvardenfell, Red Mountain, is a vast volcano...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dominant",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...hero-cults provide a strong counter-current to the <mark>dominant<\/mark> secularism of the Empire. The Imperial Cult of Tiber Septim...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,70 @@
+
+  { "stem" : "reli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "relied",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...Red Mountain. Sources in the Apographa suggest that the Tribunal <mark>relied<\/mark> on profanely enchanted tools to achieve godhead, and that those...",
+            "fid" : "content" },
+          
+          { "form" : "rely",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "...the Temple hierarchy it is an open secret that the Ordinators <mark>rely<\/mark> on abduction, terror, torture, and secret imprisonment to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "relied",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...Red Mountain. Sources in the Apographa suggest that the Tribunal <mark>relied<\/mark> on profanely enchanted tools to achieve godhead, and that those...",
+            "fid" : "content" },
+          
+          { "form" : "rely",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "...the Temple hierarchy it is an open secret that the Ordinators <mark>rely<\/mark> on abduction, terror, torture, and secret imprisonment to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rely",
+            "weight" : "1",
+            "pos" : 510,
+            "context" : "...is an agrarian agricultural society, and its large saltrice plantations <mark>rely<\/mark> completely on slave labor for their economic viability. Always firm...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rely",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "..., swim, or water-walk, or you must <mark>rely<\/mark> on shipmasters at the docks or the guild guide at the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rely",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...S'Riizh made fire, but being lame, he had to <mark>rely<\/mark> on Harithoel for all the food.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "industri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "industry",
+            "weight" : "1",
+            "pos" : 506,
+            "context" : "..., and apartments, and most of Vvardenfell's crafts and light <mark>industry<\/mark> are housed in these cantons. The Abbey of St....",
+            "fid" : "content" } ] } ] }

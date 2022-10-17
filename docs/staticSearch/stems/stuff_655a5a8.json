@@ -1,0 +1,14 @@
+
+  { "stem" : "stuff",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stuff",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...been kidnapped by the Coribael brothers whose physical prowess is the <mark>stuff<\/mark> of legend.\"",
+            "fid" : "content" } ] } ] }

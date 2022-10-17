@@ -1,0 +1,42 @@
+
+  { "stem" : "bargain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bargaining",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...invitation. And it is a game, the game of <mark>bargaining<\/mark>, to be played seriously and, I hasten to add,...",
+            "fid" : "content" },
+          
+          { "form" : "Bargaining",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : " <mark>Bargaining<\/mark> is expected all over Tamriel, but the game can be...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bargain",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "..., but will he trade with you after that? You can't <mark>bargain<\/mark> with a dead man.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bargain",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...curse Chimere with a literal fulfillment of the terms of his <mark>bargain<\/mark> with Chimere. Rather than let his power drain into the...",
+            "fid" : "content" } ] } ] }

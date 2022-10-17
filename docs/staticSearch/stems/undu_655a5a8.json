@@ -1,0 +1,25 @@
+
+  { "stem" : "undu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undue",
+            "weight" : "1",
+            "pos" : 685,
+            "context" : "...Imalyn laughing and carrying on, Galsiah hushing him to avoid bringing <mark>undue<\/mark> attention. They would take a couple flagons of greef,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "undue",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "A minor tax revolt in Balmora was suppressed without <mark>undue<\/mark> harm to life and property. The council sent deputations to...",
+            "fid" : "content" } ] } ] }

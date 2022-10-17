@@ -1,0 +1,59 @@
+
+  { "stem" : "sanni",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sanni",
+            "weight" : "1",
+            "pos" : 3345,
+            "context" : "<mark>Sanni<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sanni",
+            "weight" : "1",
+            "pos" : 3498,
+            "context" : "<mark>sanni<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sanni",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "<mark>Sanni<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sanni",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "<mark>Sanni<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sanni",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "<mark>Sanni<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

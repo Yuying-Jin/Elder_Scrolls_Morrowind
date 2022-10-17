@@ -1,0 +1,37 @@
+
+  { "stem" : "fleshless",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fleshless",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...occur in three basic types: spirit, flesh, and <mark>fleshless<\/mark>. Spirit revenants like the ancestor ghost, wraith, and...",
+            "fid" : "content" },
+          
+          { "form" : "fleshless",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "It is difficult to generalize about <mark>fleshless<\/mark> revenants, or skeletons. The agility and fighting ability of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fleshless",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...occur in three basic types: spirit, flesh, and <mark>fleshless<\/mark>. Spirit revenants like the ancestor ghost, wraith, and...",
+            "fid" : "content" },
+          
+          { "form" : "fleshless",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "It is difficult to generalize about <mark>fleshless<\/mark> revenants, or skeletons. The agility and fighting ability of...",
+            "fid" : "content" } ] } ] }

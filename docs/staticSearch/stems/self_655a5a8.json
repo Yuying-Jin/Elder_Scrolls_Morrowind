@@ -1,0 +1,58 @@
+
+  { "stem" : "self",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "self",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "Blessed are the Bonemen, for they serve without <mark>self<\/mark> in spirit forever.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "self",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "The Pilgrim's Path The path to wisdom and <mark>self<\/mark>-knowledge is through pilgrimage. Those who would rise in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "self",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...the Blessed Blessed are the Bonemen, for they serve without <mark>self<\/mark> in spirit forever. Blessed are the Mistmen, for they...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "self",
+            "weight" : "1",
+            "pos" : 352,
+            "context" : "...and the Ordinators. The temple hierarchy has been corrupted by <mark>self<\/mark>-interest and politics, and no longer acts in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "self",
+            "weight" : "1",
+            "pos" : 352,
+            "context" : "...and the Ordinators. The temple hierarchy has been corrupted by <mark>self<\/mark>-interest and politics, and no longer acts in the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "kidnap",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "kidnapped",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "When the Lady Genevrah was <mark>kidnapped<\/mark> from her estate and held for ransom, her mother sent...",
+            "fid" : "content" },
+          
+          { "form" : "kidnappings",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...inherit the land. Unfortunately, in those troubled days, <mark>kidnappings<\/mark>, murders, and thievery were rampant, and there was...",
+            "fid" : "content" },
+          
+          { "form" : "kidnapped",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...old woman. \"My daughter, you see, has been <mark>kidnapped<\/mark> by the Coribael brothers whose physical prowess is the stuff of...",
+            "fid" : "content" } ] } ] }

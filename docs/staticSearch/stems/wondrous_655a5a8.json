@@ -1,0 +1,14 @@
+
+  { "stem" : "wondrous",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wondrous",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "What a <mark>wondrous<\/mark> love it is To bind two souls in faith, Chained...",
+            "fid" : "content" } ] } ] }

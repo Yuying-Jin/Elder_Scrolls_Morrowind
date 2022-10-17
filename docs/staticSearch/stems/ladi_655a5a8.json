@@ -1,0 +1,106 @@
+
+  { "stem" : "ladi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Lady",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "When the <mark>Lady<\/mark> Genevrah was kidnapped from her estate and held for ransom,...",
+            "fid" : "content" },
+          
+          { "form" : "lady",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "\"My <mark>lady<\/mark>,\" said Baranat. \"When I was born, I was...",
+            "fid" : "content" },
+          
+          { "form" : "Lady",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "..., the eldest and most powerful brother Airen Coribael was holding <mark>Lady<\/mark> Genevrah personally. Each of his brothers guarded a different post...",
+            "fid" : "content" },
+          
+          { "form" : "lady",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...valley -- Baranat would have to defeat each to rescue the <mark>lady<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Lady",
+            "weight" : "1",
+            "pos" : 352,
+            "context" : "...was there, guarding a squirming sack which Baranat assumed either contained <mark>Lady<\/mark> Genevrah or several large cats. The young adventurer quailed at...",
+            "fid" : "content" },
+          
+          { "form" : "Lady",
+            "weight" : "1",
+            "pos" : 469,
+            "context" : "The young adventurer ran to open the sack where <mark>Lady<\/mark> Genevrah lay. His first surprise. She had a face...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "lady's",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...Benitah and Oin, and told the young man that the <mark>lady's<\/mark> husband was not very well. Oin held back his happiness...",
+            "fid" : "content" },
+          
+          { "form" : "lady",
+            "weight" : "1",
+            "pos" : 357,
+            "context" : "\"Her <mark>lady<\/mark> Benitah has heard of the intelligence of Kena Zombel Mokafa,...",
+            "fid" : "content" },
+          
+          { "form" : "lady",
+            "weight" : "1",
+            "pos" : 496,
+            "context" : "\"Her <mark>lady<\/mark> Benitah has heard of the endurance of Master Vomph,\" he...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Lady",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "Mistress <mark>Lady<\/mark> Brara Morvayn, by Grace of Almsivi, Honored Councilor of...",
+            "fid" : "content" },
+          
+          { "form" : "Lady",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...Almsivi, Honored Councilor of Redoran Council, Vvardenfell District, <mark>Lady<\/mark> of Maar Gan, of Morvayn Manor, East Ald'ruhn,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lady's",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...; Soul of Sotha Sil, for magical power, and <mark>Lady's<\/mark> Grace, for endurance of hardships.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lady",
+            "weight" : "1",
+            "pos" : 194,
+            "context" : ".... Boethiah is the Anticipation of Almalexia, ALMSIVI's Mother and <mark>Lady<\/mark>. Mephala is the Anticipation of Vivec. According to legend...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "nudg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nudging",
+            "weight" : "1",
+            "pos" : 444,
+            "context" : "\"My name is Master Combova,\" said the fellow, <mark>nudging<\/mark> the witch next to him. \"Kena Leles, cast a ball...",
+            "fid" : "content" } ] } ] }

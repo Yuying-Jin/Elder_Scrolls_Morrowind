@@ -1,0 +1,14 @@
+
+  { "stem" : "intimid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "intimidating",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...fresh off the ferry. The Cobblers Guildhall may not sound <mark>intimidating<\/mark> but tonight, when the dues collection is housed there before...",
+            "fid" : "content" } ] } ] }

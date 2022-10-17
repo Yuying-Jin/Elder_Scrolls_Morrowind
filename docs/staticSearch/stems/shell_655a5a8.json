@@ -1,0 +1,70 @@
+
+  { "stem" : "shell",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "shells",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...curves and undecorated exteriors inspired by the landscape and by the <mark>shells<\/mark> of giant native insects. Redoran villages are typically centered on...",
+            "fid" : "content" },
+          
+          { "form" : "shell",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...exceptional, with its distinctive feature being the colossal prehistoric bug <mark>shell<\/mark> that has been adapted as the house's council house.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "shells",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...curves and undecorated exteriors inspired by the landscape and by the <mark>shells<\/mark> of giant native insects. Most guildhalls, cornerclubs, and...",
+            "fid" : "content" },
+          
+          { "form" : "shell",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...of Ald'ruhn -- a manor and council district sheltered beneath the <mark>shell<\/mark> of an ancient extinct giant crab. The large carapace encloses...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shell",
+            "weight" : "1",
+            "pos" : 1170,
+            "context" : "...large settlement. The Redoran Council Chamber are located inside the <mark>shell<\/mark> of an ancient extinct giant crab. Tracks lead north to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shell",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...the strength of the adventurer who is able to crack its <mark>shell<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shells",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...dreugh wax is a tough, waxy substance scraped from dreugh <mark>shells<\/mark>. Dreugh are powerful aquatic creatures, and hunting them for...",
+            "fid" : "content" } ] } ] }

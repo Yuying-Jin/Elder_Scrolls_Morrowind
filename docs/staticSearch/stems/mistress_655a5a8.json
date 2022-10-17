@@ -1,0 +1,94 @@
+
+  { "stem" : "mistress",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "..., Sadrith Mora, District of Vvardenfell, Province of Morrowind <mark>Mistress<\/mark> Dratha, Mage Lord of Telvanni Council, Vvardenfell District,...",
+            "fid" : "content" },
+          
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "..., The Grazelands, District of Vvardenfell, Province of Morrowind <mark>Mistress<\/mark> Therana, Mage Lord of Telvanni Council, Vvardenfell District,...",
+            "fid" : "content" },
+          
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...Mouth Arara Uvulas For Master Neloth: Mouth Raven Omayn For <mark>Mistress<\/mark> Therana: Felisa Ulessen For Mistress Dratha: Mouth Mallam Ryon...",
+            "fid" : "content" },
+          
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...: Mouth Raven Omayn For Mistress Therana: Felisa Ulessen For <mark>Mistress<\/mark> Dratha: Mouth Mallam Ryon Council Actions In response to repeated...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "<mark>Mistress<\/mark> Velanda Omani, by Grace of Almsivi, Honored Councilor of...",
+            "fid" : "content" },
+          
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "<mark>Mistress<\/mark> Nevena Ules, by Grace of Almsivi, Honored Councilor of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 604,
+            "context" : " Tel Mora is the Telvanni tower of <mark>Mistress<\/mark> Dratha, an ancient wizard of the Telvanni Council. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 6508,
+            "context" : "<mark>Mistress<\/mark> Dratha" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mistress",
+            "weight" : "1",
+            "pos" : 6617,
+            "context" : "<mark>mistress<\/mark> dratha",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mistress",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "<mark>Mistress<\/mark> Lady Brara Morvayn, by Grace of Almsivi, Honored Councilor...",
+            "fid" : "content" } ] } ] }

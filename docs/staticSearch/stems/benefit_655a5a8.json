@@ -1,0 +1,20 @@
+
+  { "stem" : "benefit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "benefits",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "What <mark>benefits<\/mark> may be gained shall be listed herein for the edification of...",
+            "fid" : "content" },
+          
+          { "form" : "benefits",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "..., and need only pray at the shrines to receive their <mark>benefits<\/mark>. And Almsivi is generous, so even the Unbeliever may...",
+            "fid" : "content" } ] } ] }

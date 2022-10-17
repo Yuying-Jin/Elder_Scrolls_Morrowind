@@ -1,0 +1,25 @@
+
+  { "stem" : "threat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "threat",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...that the Tribunal have been concealing the true nature of the <mark>threat<\/mark> posed by Dagoth Ur at Red Mountain, misleading the people...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "threat",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...that the Tribunal have been concealing the true nature of the <mark>threat<\/mark> posed by Dagoth Ur at Red Mountain, misleading the people...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,42 @@
+
+  { "stem" : "serious",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "serious",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...the two cultures. Heartlanders do not consider cult affairs as <mark>serious<\/mark> matters, where the Dunmer consider cult affairs, and in...",
+            "fid" : "content" },
+          
+          { "form" : "serious",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...and in particular, ancestral spirit veneration, to be very <mark>serious<\/mark> matters indeed.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seriously",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...a game, the game of bargaining, to be played <mark>seriously<\/mark> and, I hasten to add, politely. In Elsweyr,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seriousness",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...and to one's family and clan. Gravity is the essential <mark>seriousness<\/mark> of life. Life is hard, and events must be...",
+            "fid" : "content" } ] } ] }

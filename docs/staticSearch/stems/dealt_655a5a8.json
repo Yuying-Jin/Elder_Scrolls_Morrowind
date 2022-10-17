@@ -1,0 +1,25 @@
+
+  { "stem" : "dealt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dealt",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...diseases, Argonian tribesmen, and other difficulties that must be <mark>dealt<\/mark> with. I know of only a few Sload Necromancers who operate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dealt",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...my pleasant sojourn spoiled by your unseemly squabbling.\" So he <mark>dealt<\/mark> them both mighty blows, shattering their skulls, and silencing...",
+            "fid" : "content" } ] } ] }

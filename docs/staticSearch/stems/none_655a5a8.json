@@ -1,0 +1,25 @@
+
+  { "stem" : "none",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "none",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "To the Priests: Use your servants sparingly, let <mark>none<\/mark> be seen by the living. Let the memories of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "none",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "Speak <mark>none<\/mark> but good of the Gods.",
+            "fid" : "content" } ] } ] }

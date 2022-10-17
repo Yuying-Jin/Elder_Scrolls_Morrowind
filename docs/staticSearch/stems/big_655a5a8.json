@@ -1,0 +1,48 @@
+
+  { "stem" : "big",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Big",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...steward, and Aunius Autrus is the Imperial cult priest. <mark>Big<\/mark> Helende, the Thieves Guild Boss, makes frequent appearances at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Big",
+            "weight" : "1",
+            "pos" : 6706,
+            "context" : "<mark>Big<\/mark> Helende" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "big",
+            "weight" : "1",
+            "pos" : 6792,
+            "context" : "<mark>big<\/mark> helende",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "big",
+            "weight" : "1",
+            "pos" : 695,
+            "context" : "...couple flagons of greef, perhaps order a meal -- a <mark>big<\/mark> one -- and wait. Hours would pass, and so...",
+            "fid" : "content" } ] } ] }

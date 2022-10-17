@@ -1,0 +1,14 @@
+
+  { "stem" : "gladiat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gladiators",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...to greet one another with smiles and warm salutations, like <mark>gladiators<\/mark> honoring one another before the battle.",
+            "fid" : "content" } ] } ] }

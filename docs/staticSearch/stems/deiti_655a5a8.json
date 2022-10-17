@@ -1,0 +1,25 @@
+
+  { "stem" : "deiti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deities",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "...hero Lord Vivec, the Warrior-Poet of the three <mark>deities<\/mark> who comprise Almsivi, the divine patrons of the Tribunal Temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deities",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...gods are called the Tribunal, the triune ALMSIVI, three <mark>deities<\/mark> exemplifying Dunmeri virtues. Almalexia is Mercy, Vivec is Mastery...",
+            "fid" : "content" } ] } ] }

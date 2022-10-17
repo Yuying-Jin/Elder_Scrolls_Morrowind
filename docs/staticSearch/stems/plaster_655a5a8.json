@@ -1,0 +1,55 @@
+
+  { "stem" : "plaster",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Plaster",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...tone of the group down. Most locals at the Plot and <mark>Plaster<\/mark> cornerclub in Tel Aruhn knew enough not to listen in, but...",
+            "fid" : "content" },
+          
+          { "form" : "Plaster",
+            "weight" : "1",
+            "pos" : 537,
+            "context" : "...or unusual bulges. \"We'll meet back at the Plot and <mark>Plaster<\/mark> tomorrow morning and split up the bounty.\"",
+            "fid" : "content" },
+          
+          { "form" : "Plaster",
+            "weight" : "1",
+            "pos" : 634,
+            "context" : "...was Lledos and he was meeting them at the Plot and <mark>Plaster<\/mark>. The authorities wouldn't therefore be looking for a Dunmer named...",
+            "fid" : "content" },
+          
+          { "form" : "Plaster",
+            "weight" : "1",
+            "pos" : 675,
+            "context" : "...Both would wake up early and rush to the Plot and <mark>Plaster<\/mark>. He could see them now, Imalyn laughing and carrying on,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Plaster",
+            "weight" : "1",
+            "pos" : 2967,
+            "context" : "Plot_and_<mark>Plaster<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "plaster",
+            "weight" : "1",
+            "pos" : 3142,
+            "context" : "plot and <mark>plaster<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

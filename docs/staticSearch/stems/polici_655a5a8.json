@@ -1,0 +1,25 @@
+
+  { "stem" : "polici",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "policies",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...custom. And thus we have profited by the Empire's new <mark>policies<\/mark>, rising from obscurity as the Greatest of the Houses....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "policy",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...and Imperial history. The Septim emperors have made it a <mark>policy<\/mark> to limit the influence of cult authorities in aristocratic, military...",
+            "fid" : "content" } ] } ] }

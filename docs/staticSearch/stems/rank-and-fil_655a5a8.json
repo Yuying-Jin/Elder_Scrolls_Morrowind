@@ -1,0 +1,25 @@
+
+  { "stem" : "rank-and-fil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rank-and-file",
+            "weight" : "1",
+            "pos" : 413,
+            "context" : "Though the Dissident priests acknowledge that most <mark>rank-and-file<\/mark> priests honor the best traditions of the Temple, they believe...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rank-and-file",
+            "weight" : "1",
+            "pos" : 413,
+            "context" : "Though the Dissident priests acknowledge that most <mark>rank-and-file<\/mark> priests honor the best traditions of the Temple, they believe...",
+            "fid" : "content" } ] } ] }

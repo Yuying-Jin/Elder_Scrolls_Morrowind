@@ -1,0 +1,37 @@
+
+  { "stem" : "punammu",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Punammu",
+            "weight" : "1",
+            "pos" : 2973,
+            "context" : "<mark>Punammu<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "punammu",
+            "weight" : "1",
+            "pos" : 3148,
+            "context" : "<mark>punammu<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Punammu",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "<mark>Punammu<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

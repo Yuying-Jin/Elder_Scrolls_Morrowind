@@ -1,0 +1,59 @@
+
+  { "stem" : "endeavor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "endeavors",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...Telvanni Council will not contribute its resources or authority to such <mark>endeavors<\/mark>. The council renews its objection to proposals placed before Duke...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Endeavor",
+            "weight" : "1",
+            "pos" : 1724,
+            "context" : "Falvillo's <mark>Endeavor<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "endeavor",
+            "weight" : "1",
+            "pos" : 1895,
+            "context" : "falvillo's <mark>endeavor<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Endeavor",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "Falvillo's <mark>Endeavor<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "endeavor",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "Harithoel watched S'Riizh's futile <mark>endeavor<\/mark> for a little while before getting to work. He used...",
+            "fid" : "content" } ] } ] }

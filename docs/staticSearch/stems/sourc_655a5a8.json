@@ -1,0 +1,49 @@
+
+  { "stem" : "sourc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "source",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...powers and the Tribunal powers might ultimately derive from the same <mark>source<\/mark> -- Red Mountain. Sources in the Apographa suggest that the...",
+            "fid" : "content" },
+          
+          { "form" : "Sources",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...might ultimately derive from the same source -- Red Mountain. <mark>Sources<\/mark> in the Apographa suggest that the Tribunal relied on profanely enchanted...",
+            "fid" : "content" },
+          
+          { "form" : "source",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...Mountain raise questions about the Tribunal's conduct, and about the <mark>source<\/mark> of their subsequent apotheosis. Also, there is good evidence...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "source",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...powers and the Tribunal powers might ultimately derive from the same <mark>source<\/mark> -- Red Mountain. Sources in the Apographa suggest that the...",
+            "fid" : "content" },
+          
+          { "form" : "Sources",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...might ultimately derive from the same source -- Red Mountain. <mark>Sources<\/mark> in the Apographa suggest that the Tribunal relied on profanely enchanted...",
+            "fid" : "content" },
+          
+          { "form" : "source",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...Mountain raise questions about the Tribunal's conduct, and about the <mark>source<\/mark> of their subsequent apotheosis. Also, there is good evidence...",
+            "fid" : "content" } ] } ] }

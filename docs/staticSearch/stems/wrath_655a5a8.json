@@ -1,0 +1,14 @@
+
+  { "stem" : "wrath",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wrath",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "From glowing ashes the Poet's <mark>wrath<\/mark> shall shine.",
+            "fid" : "content" } ] } ] }

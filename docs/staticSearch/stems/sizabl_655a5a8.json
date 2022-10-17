@@ -1,0 +1,20 @@
+
+  { "stem" : "sizabl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "sizable",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "...geographic regions. The village of Maar Gan is the only <mark>sizable<\/mark> permanent Ashlands settlement; Ald'ruhn, the district seat of House...",
+            "fid" : "content" },
+          
+          { "form" : "sizable",
+            "weight" : "1",
+            "pos" : 590,
+            "context" : "...head of the Telvanni Council. The associated settlement is a <mark>sizable<\/mark> village, and the site of the Festival Slave Market,...",
+            "fid" : "content" } ] } ] }

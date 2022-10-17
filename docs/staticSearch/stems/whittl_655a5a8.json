@@ -1,0 +1,14 @@
+
+  { "stem" : "whittl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whittle",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "...before getting to work. He used his small knife to <mark>whittle<\/mark> a point on a long, straight tree branch until he...",
+            "fid" : "content" } ] } ] }

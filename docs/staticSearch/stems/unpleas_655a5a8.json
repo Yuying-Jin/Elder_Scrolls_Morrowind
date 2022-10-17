@@ -1,0 +1,36 @@
+
+  { "stem" : "unpleas",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unpleasant",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "..., and if the corpse is fresh enough to have an <mark>unpleasant<\/mark> odor, the salts will remove that as well. In...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unpleasant",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "...a modest fee. Gnaar Mok is a LONG and exceptionally <mark>unpleasant<\/mark> walk west to the coast and then south; there are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unpleasant",
+            "weight" : "1",
+            "pos" : 482,
+            "context" : "...time, he realized that she had a very, very, very <mark>unpleasant<\/mark> personality as well. Several days later, when they were...",
+            "fid" : "content" } ] } ] }

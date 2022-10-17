@@ -1,0 +1,47 @@
+
+  { "stem" : "disput",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dispute",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...members. If the Empire or other House Councils wish to <mark>dispute<\/mark> Telvanni exploration and colonization of the wastes and wildernesses of Vvardenfell...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dispute",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...Citizens who contract with the Guild of Fighters and have a <mark>dispute<\/mark> may appeal first to the Guild Steward who accepted the contract...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dispute",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...most ugly. Then Lord Vivec chanced by, and settled their <mark>dispute<\/mark>. \"No, you BOTH are the ugliest creatures alive, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "disputes",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "Later, however, <mark>disputes<\/mark> over religion divided the Council, with House Dwemer and House...",
+            "fid" : "content" } ] } ] }

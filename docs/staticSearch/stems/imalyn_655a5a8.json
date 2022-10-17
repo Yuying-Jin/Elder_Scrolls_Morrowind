@@ -1,0 +1,91 @@
+
+  { "stem" : "imalyn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "<mark>Imalyn<\/mark> sneered, slamming down his flagon of greef violently on the...",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 365,
+            "context" : "<mark>Imalyn<\/mark> laughed loudly, \"Can I see a demonstration sometime?\"",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 418,
+            "context" : "When the sun set, Lledos, Galsiah, and <mark>Imalyn<\/mark> approached the Cobblers Guildhouse on the east end of town....",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 463,
+            "context" : "<mark>Imalyn<\/mark> opened the vault in his unique and systematic method. As...",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 569,
+            "context" : "...an old f'lah fortune-teller, and headed north. <mark>Imalyn<\/mark> headed east into the park, trusting his unnatural senses to...",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 603,
+            "context" : "...On the road to Vivec, he thought of Galsiah and <mark>Imalyn<\/mark>. Perhaps they had been caught and brought in for questioning...",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 618,
+            "context" : "...them undergoing interrogation. Who would break under pressure first? <mark>Imalyn<\/mark> was certainly the tougher of the two, but Galsiah doubtless...",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 657,
+            "context" : "...forward and the sun began rising, Sathis pictured Galsiah and <mark>Imalyn<\/mark> not undergoing interrogation, but sleeping the good deep sleep of...",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 678,
+            "context" : "...to the Plot and Plaster. He could see them now, <mark>Imalyn<\/mark> laughing and carrying on, Galsiah hushing him to avoid bringing undue...",
+            "fid" : "content" },
+          
+          { "form" : "Imalyn's",
+            "weight" : "1",
+            "pos" : 804,
+            "context" : "...he opened his eyes, he thought he could still hear <mark>Imalyn's<\/mark> voice nearby, singing The Ninety-Nine Loves of Boethiah...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Imalyn",
+            "weight" : "1",
+            "pos" : 6729,
+            "context" : "<mark>Imalyn<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imalyn",
+            "weight" : "1",
+            "pos" : 6833,
+            "context" : "<mark>imalyn<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "asleep",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "asleep",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...words, except that it seemed afterward that I had been <mark>asleep<\/mark> and dreaming that I was being sliced by thousands of tiny...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "asleep",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "\"If you can catch your victim lying down <mark>asleep<\/mark> or resting, you are in an excellent position. You...",
+            "fid" : "content" } ] } ] }

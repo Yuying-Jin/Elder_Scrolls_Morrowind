@@ -1,0 +1,65 @@
+
+  { "stem" : "castl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Castle",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...Vvardenfell district, and a busy center of maritime trade. <mark>Castle<\/mark> Ebonheart is the home of Duke Vedam Dren, the district's...",
+            "fid" : "content" },
+          
+          { "form" : "Castle",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "..., the district's ruler and Emperor's representative. Also located at <mark>Castle<\/mark> Ebonheart are the Vvardenfell District Council chambers and the Hawk Moth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "castles",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...netchiman's wife into the ocean water where dreughs took her into <mark>castles<\/mark> of glass and coral. They gifted the netchiman's wife with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Castle",
+            "weight" : "1",
+            "pos" : 1420,
+            "context" : "<mark>Castle<\/mark> Ebonheart" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "castle",
+            "weight" : "1",
+            "pos" : 1591,
+            "context" : "<mark>castle<\/mark> ebonheart",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Castle",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...-- are at full complement. The Hawkmoth Legion garrisoned at <mark>Castle<\/mark> Ebonheart is an elite honor guard unit, and also at...",
+            "fid" : "content" } ] } ] }

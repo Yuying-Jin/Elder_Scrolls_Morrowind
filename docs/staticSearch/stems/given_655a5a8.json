@@ -1,0 +1,97 @@
+
+  { "stem" : "given",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...again impossible. This is another reason that care should be <mark>given<\/mark> to the skeleton's preparation. Too many young Necromancers raise every...",
+            "fid" : "content" },
+          
+          { "form" : "Given",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "...every skeleton they see with little or no preparation at all. <mark>Given<\/mark> the difficulty of obtaining corpses, this kind of inefficiency cannot...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...of the necromancer's thrall? Cruel enough is the ancestor's service <mark>given<\/mark> in love to Hearth and Kin. But ghost or guardian...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...simply buy the items they need at the price they are <mark>given<\/mark>. It's a very sad state of affairs, when the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...Cyrodiil, a few Necromancers who have served the Empire are <mark>given<\/mark> the corpses of criminals and traitors to use legally. This...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 583,
+            "context" : "...weapon, armor, and spell. New shrine sergeants are <mark>given<\/mark> the easiest tasks, but later, missions may demand higher...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "Comfort is <mark>given<\/mark>, justice is taken.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "...had found another, a mere nine years since she had <mark>given<\/mark> him that look while at play.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "given",
+            "weight" : "1",
+            "pos" : 776,
+            "context" : "...upstairs. The schedule had been tight, but Sathis had <mark>given<\/mark> himself a few hours to rest before his household returned....",
+            "fid" : "content" } ] } ] }

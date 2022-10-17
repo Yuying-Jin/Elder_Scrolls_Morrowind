@@ -1,0 +1,31 @@
+
+  { "stem" : "exhibit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "exhibits",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...phase, lasting up to 72 hours, the vampirism disease <mark>exhibits<\/mark> no symptoms, and may be cured by general spellcraft or...",
+            "fid" : "content" },
+          
+          { "form" : "exhibited",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...have reported sleep disturbances and troubling dreams. After symptoms are <mark>exhibited<\/mark>, however, the disease is incurable and irreversible....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "exhibits",
+            "weight" : "1",
+            "pos" : 708,
+            "context" : "...their moods. The chain of reactions that every betrayed person <mark>exhibits<\/mark>: nervousness, doubt, bewilderment, anger.",
+            "fid" : "content" } ] } ] }

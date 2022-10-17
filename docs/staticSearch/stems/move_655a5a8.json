@@ -1,0 +1,131 @@
+
+  { "stem" : "move",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "move",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...You want to be fast and agile. You want to <mark>move<\/mark> undetected. You want to know about security -- locks,...",
+            "fid" : "content" },
+          
+          { "form" : "moving",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...dart. You want light armor, so you can keep <mark>moving<\/mark>, and moving fast.",
+            "fid" : "content" },
+          
+          { "form" : "moving",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...want light armor, so you can keep moving, and <mark>moving<\/mark> fast.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "moves",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : ".... You must see her at work to believe it. She <mark>moves<\/mark> vertically like you and I move horizontally.\"",
+            "fid" : "content" },
+          
+          { "form" : "move",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...work to believe it. She moves vertically like you and I <mark>move<\/mark> horizontally.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Move",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...movements of the bones. These are called the Barons of <mark>Move<\/mark> Like This. Then an eighth Daedroth came, and he was...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "moves",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : "Sense the <mark>moves<\/mark> of the game, and everyone can win.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "move",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...proper rituals will imbue the mummified corpse with the strength to <mark>move<\/mark> itself. Most importantly, you will have a much stronger servant...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "move",
+            "weight" : "1",
+            "pos" : 841,
+            "context" : "...Tel Vos and Tel Fyr. The Ashlanders of Zainab camp <mark>move<\/mark> their herds across the plains in search of fresh grazing....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "moving",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...heavy armor, and so must be skilled at blocking and <mark>moving<\/mark> in heavy armor.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "move",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...and agile are the Morag Tong. Silent and unseen they <mark>move<\/mark>. Illusions they supply to misdirect their prey. Close and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "moving",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "Baranat dropped his blade and ran at Vanis, <mark>moving<\/mark> so fast he didn't rustle a leaf with his pace....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "move",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...is a risk here of becoming blood stained if you don't <mark>move<\/mark> the head quickly enough. If you're unsure, strangle the...",
+            "fid" : "content" } ] } ] }

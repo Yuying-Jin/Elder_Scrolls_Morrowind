@@ -1,0 +1,25 @@
+
+  { "stem" : "oppon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "opponents",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...faster than the wind, a warrior who could thrash his <mark>opponents<\/mark> before they even unsheathed their weapons. Baranat look a look...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "opponent's",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "..., warming to his subject. \"Sticks his dagger in his <mark>opponent's<\/mark> back. This may slay the target, but more often...",
+            "fid" : "content" } ] } ] }

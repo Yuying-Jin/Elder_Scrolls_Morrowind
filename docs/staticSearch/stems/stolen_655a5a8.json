@@ -1,0 +1,31 @@
+
+  { "stem" : "stolen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stolen",
+            "weight" : "1",
+            "pos" : 382,
+            "context" : "Galsiah brought out the map of the guildhouse, freshly <mark>stolen<\/mark>, and they began to detail out the strategy.",
+            "fid" : "content" },
+          
+          { "form" : "stolen",
+            "weight" : "1",
+            "pos" : 397,
+            "context" : "...the three had met, formulated a plan, bought or <mark>stolen<\/mark> the necessary ingredients, and were about to execute it. Not...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stolen",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...obvious signs of Necromancy such as hastily emptied graves or ash <mark>stolen<\/mark> from one of their ashpits, a careful and discrete Necromancer...",
+            "fid" : "content" } ] } ] }

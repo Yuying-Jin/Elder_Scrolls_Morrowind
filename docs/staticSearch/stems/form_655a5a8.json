@@ -1,0 +1,91 @@
+
+  { "stem" : "form",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "formed",
+            "weight" : "1",
+            "pos" : 270,
+            "context" : "The newly <mark>formed<\/mark> Orsinium presents a unique opportunity. As you know, Orc...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 409,
+            "context" : "...architecture is dominated by the wizards' tower, a fantastic organic <mark>form<\/mark> grown and sculpted from stems, caps, and root-...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "...to the Sea of Ghosts in the north, and elsewhere <mark>form<\/mark> a wide margin between the blighted Red Mountain region and other...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...destroy skeletons. An exception is the bonelord, a peculiar <mark>form<\/mark> of revenant that seems to derive its powers more from its...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "formed",
+            "weight" : "1",
+            "pos" : 367,
+            "context" : "...stronghold. Masters Tulkiande, Mearvis, Jereth, and I <mark>formed<\/mark> a pyramid to give Master Senyndie a boost up to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...destroy skeletons. An exception is the bonelord, a peculiar <mark>form<\/mark> of revenant that seems to derive its powers more from its...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forms",
+            "weight" : "1",
+            "pos" : 418,
+            "context" : "...is a waxy substance made from the immature non-sentient <mark>forms<\/mark> of the sload. sload soap is not expensive, but...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "form",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : " [The Cantatas of Vivec are gospels written in the <mark>form<\/mark> of epic songs. They trace the evolution of Vivec from...",
+            "fid" : "content" } ] } ] }

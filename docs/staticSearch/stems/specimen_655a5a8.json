@@ -1,0 +1,14 @@
+
+  { "stem" : "specimen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "specimen",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...the undead reportedly have no effect on these creatures. No <mark>specimen<\/mark> has ever been examined, and no references have ever linked...",
+            "fid" : "content" } ] } ] }

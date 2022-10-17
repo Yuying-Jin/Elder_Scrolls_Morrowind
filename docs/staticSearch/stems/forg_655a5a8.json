@@ -1,0 +1,53 @@
+
+  { "stem" : "forg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Forge",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "<mark>Forge<\/mark> a keen Faith in the crucible of suffering.",
+            "fid" : "content" },
+          
+          { "form" : "Forge",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "<mark>Forge<\/mark> Darkness into Light.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Forge",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "...Assurnabitashpi. Even Hilbongard and Dorach Gusal were lured from their <mark>Forge<\/mark>, and for a time the Fires of Anudnabia were silent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Forge",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "<mark>Forge<\/mark> a keen Faith in the crucible of suffering.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "forged",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...-- for instance, the Armor of the Savior's Hide, <mark>forged<\/mark> by Malacath -- are sufficient to protect a mortal or immortal...",
+            "fid" : "content" } ] } ] }

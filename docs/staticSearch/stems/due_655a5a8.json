@@ -1,0 +1,36 @@
+
+  { "stem" : "due",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "due",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "Finding suitable corpses in Black Marsh is nearly impossible <mark>due<\/mark> to their rapid decay. There are also diseases, Argonian...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "due",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "...events must be judged, endured, and reflected upon with <mark>due<\/mark> care and earnestness. Piety is respect for the gods,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dues",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...Cobblers Guildhall may not sound intimidating but tonight, when the <mark>dues<\/mark> collection is housed there before being sent to the bank,...",
+            "fid" : "content" } ] } ] }

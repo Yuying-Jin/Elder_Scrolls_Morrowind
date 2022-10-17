@@ -1,0 +1,14 @@
+
+  { "stem" : "citywatch",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "citywatch",
+            "weight" : "1",
+            "pos" : 578,
+            "context" : "..., trusting his unnatural senses to keep him away from the <mark>citywatch<\/mark>.",
+            "fid" : "content" } ] } ] }

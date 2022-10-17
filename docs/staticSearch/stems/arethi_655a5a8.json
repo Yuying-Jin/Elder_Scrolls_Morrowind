@@ -1,0 +1,37 @@
+
+  { "stem" : "arethi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arethi",
+            "weight" : "1",
+            "pos" : 316,
+            "context" : "...docks or the guild guide at the Mages Guild. Gals <mark>Arethi<\/mark> at the docks offers ship passage to Ebonheart, Tel Branora...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arethi",
+            "weight" : "1",
+            "pos" : 6314,
+            "context" : "Gals <mark>Arethi<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arethi",
+            "weight" : "1",
+            "pos" : 6384,
+            "context" : "gals <mark>arethi<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "beshara",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Beshara",
+            "weight" : "1",
+            "pos" : 1284,
+            "context" : "<mark>Beshara<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beshara",
+            "weight" : "1",
+            "pos" : 1449,
+            "context" : "<mark>beshara<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Beshara",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "<mark>Beshara<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

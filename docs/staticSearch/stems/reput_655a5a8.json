@@ -1,0 +1,36 @@
+
+  { "stem" : "reput",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reputation",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...But do not follow money blindly. There is value in <mark>reputation<\/mark>, more than many young Hlaalu realize. This value must...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reputation",
+            "weight" : "1",
+            "pos" : 650,
+            "context" : "...and promontories of Azura's Coast. The site has a nasty <mark>reputation<\/mark>, and several Telvanni wizards currently have competing camps of hirelings...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reputed",
+            "weight" : "1",
+            "pos" : 330,
+            "context" : "Nightshade is <mark>reputed<\/mark> to be a very poisonous herb. However the variety found...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,43 @@
+
+  { "stem" : "liah",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Liah",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...house in Gnisis but a few days later. His wife <mark>Liah<\/mark> was beside herself with worry.",
+            "fid" : "content" },
+          
+          { "form" : "Liah",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "<mark>Liah<\/mark> continued to talk, deaf to the fact that her words...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Liah",
+            "weight" : "1",
+            "pos" : 6785,
+            "context" : "<mark>Liah<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "liah",
+            "weight" : "1",
+            "pos" : 6902,
+            "context" : "<mark>liah<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "veget",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vegetation",
+            "weight" : "1",
+            "pos" : 1104,
+            "context" : "...Ashlanders of Urshilaku camp graze on the sparse but hardy highland <mark>vegetation<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vegetable",
+            "weight" : "1",
+            "pos" : 444,
+            "context" : "...and dreugh wax. Ash yam is a tough tuberous root <mark>vegetable<\/mark> common to the Ascadian Isles region. dreugh wax is a...",
+            "fid" : "content" } ] } ] }

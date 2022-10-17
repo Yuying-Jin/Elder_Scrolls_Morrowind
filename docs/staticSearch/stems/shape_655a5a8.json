@@ -1,0 +1,14 @@
+
+  { "stem" : "shape",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shape",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...lakes in Hammerfell are most inconspicuous, only its peculiar halfmoon <mark>shape<\/mark> makes it noticeable. It is very sweet and tasty....",
+            "fid" : "content" } ] } ] }

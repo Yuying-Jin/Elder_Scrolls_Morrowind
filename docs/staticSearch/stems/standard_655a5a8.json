@@ -1,0 +1,25 @@
+
+  { "stem" : "standard",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "standards",
+            "weight" : "1",
+            "pos" : 390,
+            "context" : "...coast. According to Telvanni principles, the powerful define the <mark>standards<\/mark> of virtue, and the Telvanni are unwilling to allow the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "standards",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...if you want to advance in the ranks, we've got <mark>standards<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,138 @@
+
+  { "stem" : "includ",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "includes",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "...lowlands where most of Vvardenfell's agriculture is found. The area <mark>includes<\/mark> Pelagiad, Suran, Vivec City, and Ald Sotha along...",
+            "fid" : "content" },
+          
+          { "form" : "includes",
+            "weight" : "1",
+            "pos" : 612,
+            "context" : "...an ancient wizard of the Telvanni Council. The small settlement <mark>includes<\/mark> a few craftsfolk and a tradehouse.",
+            "fid" : "content" },
+          
+          { "form" : "include",
+            "weight" : "1",
+            "pos" : 830,
+            "context" : "..., sandwiched between the Ashlands and Azura's Coast. Permanent settlements <mark>include<\/mark> Vos village and the towers of Tel Vos and Tel Fyr...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "includes",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "The help of friends <mark>includes<\/mark> information. Your friends at the Thieves Guild know where the...",
+            "fid" : "content" },
+          
+          { "form" : "includes",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...safe, and where it is not. The help of friends <mark>includes<\/mark> a place to rest, and a place to buy supplies...",
+            "fid" : "content" },
+          
+          { "form" : "includes",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...and services -- training and tools. The help of friends <mark>includes<\/mark> fixing things with the guards at a discount rate. That's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "includes",
+            "weight" : "1",
+            "pos" : 372,
+            "context" : "...tower instead of their preferred mushroom towers. The administrative center <mark>includes<\/mark> a treasury and a hall of records. Slaves are housed...",
+            "fid" : "content" },
+          
+          { "form" : "includes",
+            "weight" : "1",
+            "pos" : 410,
+            "context" : "...and next to the Arena. The Redoran administrative center there <mark>includes<\/mark> the Redoran Treasury, Hall of Records, and Holding Cells...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "including",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...summer into fall, Oin began to sell his herbs, <mark>including<\/mark> some to Kena Kena Yakin Bael, a prominent healer in...",
+            "fid" : "content" },
+          
+          { "form" : "including",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "...died, despite all the skills of the great healers, <mark>including<\/mark> Kena Yakin Bael. When Oin came to deliver the herbs...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "include",
+            "weight" : "1",
+            "pos" : 435,
+            "context" : "...out for craftsmen and commoners. Open-air markets often <mark>include<\/mark> the giant cages displaying the wares of the slave masters....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "including",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "...to the Imperial Legion and devotees of the Imperial cult, <mark>including<\/mark> an Imperial cult altar. The guildhalls of the Fighters Guild...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "including",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...ultimately conferred as a communal judgement by the Dunmer ancestors [ <mark>including<\/mark>, among others, the Good Daedra, the prophet Veloth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "including",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...ultimately conferred as a communal judgement by the Dunmer ancestors [ <mark>including<\/mark>, among others, the Good Daedra, the prophet Veloth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "include",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...do not think of their relationships as personal. Notable exceptions <mark>include<\/mark> minor charismatic sub-cults of Akatosh and Dibella. The...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,48 @@
+
+  { "stem" : "capabl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "capable",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...victims. Wraiths are similar to ghosts, but they are <mark>capable<\/mark> of inflicting wounds to the careless explorer. Dwarven ghosts are...",
+            "fid" : "content" },
+          
+          { "form" : "capable",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...may therefore be weak or strong, or more or less <mark>capable<\/mark> with weapons and shields. Fortunately, enchanted weapons are not...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "capable",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...victims. Wraiths are similar to ghosts, but they are <mark>capable<\/mark> of inflicting wounds to the careless explorer. Dwarven ghosts are...",
+            "fid" : "content" },
+          
+          { "form" : "capable",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...may therefore be weak or strong, or more or less <mark>capable<\/mark> with weapons and shields. Fortunately, enchanted weapons are not...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "capable",
+            "weight" : "1",
+            "pos" : 542,
+            "context" : "...within the cave itself are fearsome enemies; only experienced and <mark>capable<\/mark> adventurers should attempt to re-enact the epic battle with...",
+            "fid" : "content" } ] } ] }

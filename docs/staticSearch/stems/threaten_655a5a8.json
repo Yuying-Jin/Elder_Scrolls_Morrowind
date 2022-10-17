@@ -1,0 +1,25 @@
+
+  { "stem" : "threaten",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "threaten",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "...study as a deterrent to the bandits and pirates that still <mark>threaten<\/mark> the Iliac Bay.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "threaten",
+            "weight" : "1",
+            "pos" : 1038,
+            "context" : "...monstrous hosts of Dagoth Ur might emerge from Red Mountain to <mark>threaten<\/mark> the rest of Morrowind. The Ghostfence itself is a colossal...",
+            "fid" : "content" } ] } ] }

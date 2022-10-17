@@ -1,0 +1,20 @@
+
+  { "stem" : "pcjek",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Sottilde's_Code_Book",
+        "docUri" : "librarium\/Sottilde's_Code_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "PCJEK",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "TZSFHK TOY <mark>PCJEK<\/mark> NSZUVWBSR",
+            "fid" : "content" },
+          
+          { "form" : "PCJEK",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "SUGZD <mark>PCJEK<\/mark>",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "comic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "comic",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...flock to the Arena for public entertainments like mock battles and <mark>comic<\/mark> plays. Outlanders mostly confine themselves to the Foreign Canton,...",
+            "fid" : "content" } ] } ] }

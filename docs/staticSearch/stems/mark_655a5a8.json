@@ -1,0 +1,36 @@
+
+  { "stem" : "mark",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marked",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "...the coast and then south; there are no trails or <mark>marked<\/mark> routes. Casual travelers ill-equipped for the attacks of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "marked",
+            "weight" : "1",
+            "pos" : 525,
+            "context" : "...cave mouth faces south, towards the sea, and is <mark>marked<\/mark> by a large natural arch of stone. The region is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mark",
+            "weight" : "1",
+            "pos" : 323,
+            "context" : "...considered a deliberate attempt to contract the disease, and a <mark>mark<\/mark> of monstrous depravity....",
+            "fid" : "content" } ] } ] }

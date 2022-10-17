@@ -1,0 +1,37 @@
+
+  { "stem" : "moth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Moth",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...Castle Ebonheart are the Vvardenfell District Council chambers and the Hawk <mark>Moth<\/mark> Legion garrison. The officers, docks, and warehouses of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Moth",
+            "weight" : "1",
+            "pos" : 6019,
+            "context" : "Hawk <mark>Moth<\/mark> Legion garrison" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "moth",
+            "weight" : "1",
+            "pos" : 5523,
+            "context" : "hawk <mark>moth<\/mark> legion garrison",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

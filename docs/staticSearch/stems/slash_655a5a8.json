@@ -1,0 +1,26 @@
+
+  { "stem" : "slash",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "slashing",
+            "weight" : "1",
+            "pos" : 161,
+            "context" : "...with blood. Not good. Now a good throat-<mark>slashing<\/mark>, properly executed, can both slay and silence a guard...",
+            "fid" : "content" },
+          
+          { "form" : "slash",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...whose name I won't mention, swears by the strangle-and-<mark>slash<\/mark> technique. Simply put, you grab your victim's throat from...",
+            "fid" : "content" },
+          
+          { "form" : "slash",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...wall. When the victim is thus rendered unconscious, you <mark>slash<\/mark> his throat while still holding him from behind, and the...",
+            "fid" : "content" } ] } ] }

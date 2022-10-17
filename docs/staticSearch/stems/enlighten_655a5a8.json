@@ -1,0 +1,31 @@
+
+  { "stem" : "enlighten",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "enlightened",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...province of Morrowind, few citizens of the Empire have an <mark>enlightened<\/mark> view of our Art. Thus, the acquisition of corpses...",
+            "fid" : "content" },
+          
+          { "form" : "enlightened",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...are easy to find and uncover. The Khajiit show remarkably <mark>enlightened<\/mark> indifference to graves being uncovered. It is said that in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enlightened",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...trace the evolution of Vivec from a foolish mortal into an <mark>enlightened<\/mark> divine. Vivec sought out experiences that tested him in every...",
+            "fid" : "content" } ] } ] }

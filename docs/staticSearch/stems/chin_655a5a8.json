@@ -1,0 +1,20 @@
+
+  { "stem" : "chin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "chin",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...place one hand over the mouth with your thumb under the <mark>chin<\/mark>, then you use your other hand to slit the throat...",
+            "fid" : "content" },
+          
+          { "form" : "chin",
+            "weight" : "1",
+            "pos" : 864,
+            "context" : "...hand clamped over the mouth and a thumb jabbed under his <mark>chin<\/mark>. Just as his throat opened and his head was shoved...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,58 @@
+
+  { "stem" : "whose",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whose",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...Goren Andarys is the guild steward of the Morag Tong, <mark>whose<\/mark> guildhall is found in Ald'ruhn-Under-Skar.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whose",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...earth, speaks in person with priests and cultists, and <mark>whose<\/mark> daily actions are prescribed models for the daily actions of their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whose",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "Here Lord Vivec met a poor farmer <mark>whose<\/mark> guar had died. The farmer could not harvest his muck...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whose",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "..., you see, has been kidnapped by the Coribael brothers <mark>whose<\/mark> physical prowess is the stuff of legend.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whose",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "...\"A very good friend of mine, a thief in Gnisis <mark>whose<\/mark> name I won't mention, swears by the strangle-and-slash...",
+            "fid" : "content" } ] } ] }

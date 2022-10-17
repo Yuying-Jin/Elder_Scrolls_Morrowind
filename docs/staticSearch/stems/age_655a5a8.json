@@ -1,0 +1,75 @@
+
+  { "stem" : "age",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ages",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...the Tribes and Temple, and a sin so great that <mark>ages<\/mark> of burning cannot cleanse the fault. Abide not the sorcerer...",
+            "fid" : "content" },
+          
+          { "form" : "ages",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "...and corrupted subterranean labyrinths of the detested Dwemer race? For <mark>ages<\/mark> the Great Houses and the Temple have kept our land clean...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ages",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...are the Wrathmen, for they render their rage unto the <mark>ages<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "age",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : ".... Vampires vary in their substance and power according to their <mark>age<\/mark> and accumulated lore, but even the weakest vampire is immeasurably...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ages",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...are the Wrathmen, for they render their rage unto the <mark>ages<\/mark>. Blessed are the Masters, for they bridge the past...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "age",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...of the Alessian Order, which Heartlanders regard as a dark <mark>age<\/mark>, religious cults have played only minor parts in Heartlanders and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "age",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : ".... Vampires vary in their substance and power according to their <mark>age<\/mark> and accumulated lore, but even the weakest vampire is immeasurably...",
+            "fid" : "content" } ] } ] }

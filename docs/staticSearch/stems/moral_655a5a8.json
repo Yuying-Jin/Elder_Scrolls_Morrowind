@@ -1,0 +1,14 @@
+
+  { "stem" : "moral",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "moral",
+            "weight" : "1",
+            "pos" : 667,
+            "context" : " The Imperial cults have the greatest respect for the high <mark>moral<\/mark> principles of House Redoran and the Morag Tong, and honors...",
+            "fid" : "content" } ] } ] }

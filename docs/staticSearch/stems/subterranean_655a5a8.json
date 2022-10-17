@@ -1,0 +1,25 @@
+
+  { "stem" : "subterranean",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "subterranean",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...in profane Daedric shrines, abandoned Dunmer Strongholds, and corrupted <mark>subterranean<\/mark> labyrinths of the detested Dwemer race? For ages the Great...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "subterranean",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...easily escape detection in the remote wastelands, or in the <mark>subterranean<\/mark> labyrinths of abandoned strongholds and wizard towers....",
+            "fid" : "content" } ] } ] }

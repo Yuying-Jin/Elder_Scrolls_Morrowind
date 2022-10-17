@@ -1,0 +1,154 @@
+
+  { "stem" : "along",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...pilgrim's task, the Temple  has made this list of shrines <mark>along<\/mark> with directions and advice to pilgrims. The blessings of each...",
+            "fid" : "content" },
+          
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...between two rocks, and most easily noticed while traveling east <mark>along<\/mark> the road. Alof's farm nearby has a small dock on...",
+            "fid" : "content" },
+          
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...in the city of Vivec, in the Temple District, <mark>along<\/mark> the western wall of the High Fane, the great Temple...",
+            "fid" : "content" },
+          
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 595,
+            "context" : "...northeast of the Ghostgate itself. The safest route to Ghostgate is <mark>along<\/mark> the Foyada Mamaea, a volcanic ravine running from the top...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...temple on Vvardenfell. Archcanon Saryoni presides over the temple, <mark>along<\/mark> with a large staff of priests, healers, and monks...",
+            "fid" : "content" },
+          
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "...of records. Slaves are housed in the lowest tiers, <mark>along<\/mark> with cells full of monsters. There are many tradesmen,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...includes Pelagiad, Suran, Vivec City, and Ald Sotha <mark>along<\/mark> with the inland lakes and waterways of the Ascadian Isles proper...",
+            "fid" : "content" },
+          
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 787,
+            "context" : "...western Vvardenfell in the Bitter Coast region. A rough track <mark>along<\/mark> the River Odai connects Hla Oad with the town of Balmora...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...if you wish a skeletal servant instead, place the corpse <mark>along<\/mark> a coast or in a swamp or marsh. Animals are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 382,
+            "context" : "...exploit Vvardenfell's land and resources, building towers and bases all <mark>along<\/mark> the eastern coast. According to Telvanni principles, the powerful...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "..., or you'll get lost. The silt strider port is <mark>along<\/mark> the western town wall, north of West Gate. Silt...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...as 'bonewalkers' in Morrowind. Magic preserves the bonewalker's fleshy remains <mark>along<\/mark> with the bones and spirit. Bonewalkers are readily identified by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...as 'bonewalkers' in Morrowind. Magic preserves the bonewalker's fleshy remains <mark>along<\/mark> with the bones and spirit. Bonewalkers are readily identified by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "The Ginko leaves which are found <mark>along<\/mark> the banks of rivers and lakes in Hammerfell are most inconspicuous...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : ".... Crabmeat is taken from the mud crab, commonly found <mark>along<\/mark> all coasts. bread in Morrowind is usually baked from saltrice...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "along",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...Genevrah personally. Each of his brothers guarded a different post <mark>along<\/mark> the valley -- Baranat would have to defeat each to rescue...",
+            "fid" : "content" } ] } ] }

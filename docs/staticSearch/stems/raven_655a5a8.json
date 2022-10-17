@@ -1,0 +1,36 @@
+
+  { "stem" : "raven",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Raven",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...Master Aryon: Mouth Arara Uvulas For Master Neloth: Mouth <mark>Raven<\/mark> Omayn For Mistress Therana: Felisa Ulessen For Mistress Dratha:...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ravenous",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...it comes to stripping the flesh from a corpse. The <mark>ravenous<\/mark> mudcrabs of Morrowind can strip a corpse down to its bones...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Raven",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...Ulessen, Galos Mathendis, Arara Uvulas, Mallam Ryon, <mark>Raven<\/mark> Omayn, and Dalyne Arvel, Telvanni Council clerk. Councilor...",
+            "fid" : "content" } ] } ] }

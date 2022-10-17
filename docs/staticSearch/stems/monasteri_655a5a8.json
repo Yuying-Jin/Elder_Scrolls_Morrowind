@@ -1,0 +1,97 @@
+
+  { "stem" : "monasteri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Monastery",
+            "weight" : "1",
+            "pos" : 2225,
+            "context" : "Holamayan <mark>Monastery<\/mark>" },
+          
+          { "form" : "Monastery",
+            "weight" : "1",
+            "pos" : 2243,
+            "context" : "Holamayan_<mark>Monastery<\/mark>" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Monastery",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "Holamayan <mark>Monastery<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "monastery",
+            "weight" : "1",
+            "pos" : 2393,
+            "context" : "holamayan <mark>monastery<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Monastery",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "Holamayan <mark>Monastery<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Monastery",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "Holamayan <mark>Monastery<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Monastery",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : " Holamayan <mark>Monastery<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Monastery",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "Holamayan <mark>Monastery<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Monastery",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "Holamayan <mark>Monastery<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

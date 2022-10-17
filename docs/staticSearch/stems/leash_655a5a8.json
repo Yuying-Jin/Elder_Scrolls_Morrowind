@@ -1,0 +1,14 @@
+
+  { "stem" : "leash",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "leashed",
+            "weight" : "1",
+            "pos" : 598,
+            "context" : "...laconic lunch of the chokeweed shrub to which it had been <mark>leashed<\/mark>.",
+            "fid" : "content" } ] } ] }

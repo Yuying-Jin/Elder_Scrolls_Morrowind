@@ -1,0 +1,400 @@
+
+  { "stem" : "citi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...relatively hospitable west and southwest coast, centered on the ancient <mark>city<\/mark> of Vivec and the old Great House district centers at Balmora...",
+            "fid" : "content" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "...is found. The area includes Pelagiad, Suran, Vivec <mark>City<\/mark>, and Ald Sotha along with the inland lakes and waterways...",
+            "fid" : "content" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : " Vivec <mark>City<\/mark> is the largest settlement on Vvardenfell, and one of the...",
+            "fid" : "content" },
+          
+          { "form" : "cities",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "...the largest settlement on Vvardenfell, and one of the largest <mark>cities<\/mark> in the East. Each of the great cantons is the...",
+            "fid" : "content" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 291,
+            "context" : "...Ald Sotha is a splendid Daedric ruin within sight of Vivec <mark>City<\/mark>. Though exotic and picturesque, it is a dangerous site...",
+            "fid" : "content" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "...Pelagiad is a newly chartered Imperial village between Balmora and Vivec <mark>City<\/mark> on the western edge of the Ascadian Isles region. The...",
+            "fid" : "content" },
+          
+          { "form" : "\"City",
+            "weight" : "1",
+            "pos" : 637,
+            "context" : " Bal Fell is the <mark>\"City<\/mark> of Stone,\" an ancient First Era ruin in the southeastern...",
+            "fid" : "content" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 1114,
+            "context" : "...House Hlaalu, and the largest settlement on Vvardenfell after Vivec <mark>City<\/mark>. Good roads lead north to Ald'ruhn and south to Caldera...",
+            "fid" : "content" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 1125,
+            "context" : "...Ald'ruhn and south to Caldera, Seyda Neen, and Vivec <mark>City<\/mark>. The Imperial Legion garrison of Fort Moonmoth lies south of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Vivec <mark>City<\/mark>, Hlaalu Treasury: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "cities",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "...the largest settlement on Vvardenfell, and one of the largest <mark>cities<\/mark> in the East. Each of the great cantons is the...",
+            "fid" : "content" },
+          
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...cantons. But most of all, this is Lord Vivec's holy <mark>city<\/mark>. The Ministry of Truth, the Temple prison, hangs...",
+            "fid" : "content" },
+          
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : " Vivec is a <mark>city<\/mark> made up of eight cantons, each a little town in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 4363,
+            "context" : "Vivec <mark>City<\/mark>" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 4420,
+            "context" : "Vivec <mark>City<\/mark>, High Fane" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 4429,
+            "context" : "Vivec <mark>City<\/mark>, Hlaalu Treasury" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 4594,
+            "context" : "Vivec_<mark>City<\/mark>" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "...Mad Star inspired the moon to hurl itself upon Vivec's new <mark>city<\/mark>, which Sheogorath claimed was built in mockery of the heavens...",
+            "fid" : "content" },
+          
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "The Shrine of Daring is found in the <mark>city<\/mark> of Vivec, in the Temple District, along the western...",
+            "fid" : "content" },
+          
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...top steps of Vivec's Palace, the southernmost Canton of Vivec <mark>City<\/mark>. The customary donation for those in good fortune is 100...",
+            "fid" : "content" },
+          
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...Puzzle Canal, a labyrinth beneath Lord Vivec's Palace in the <mark>city<\/mark> of Vivec. The journey though the Puzzle Canal can be...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 4508,
+            "context" : "vivec <mark>city<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 4575,
+            "context" : "vivec <mark>city<\/mark>, high fane",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 4584,
+            "context" : "vivec <mark>city<\/mark>, hlaalu treasury",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "city's",
+            "weight" : "1",
+            "pos" : 549,
+            "context" : "...The only person who knew the most covert route through the <mark>city's<\/mark> sewer system, Lledos, slipped in through a duct and...",
+            "fid" : "content" },
+          
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 591,
+            "context" : ".... His guar was waiting where he left it at the <mark>city<\/mark> gates, making a laconic lunch of the chokeweed shrub to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...rural merchant is ignorant and easily fooled, or the rapacious <mark>city<\/mark> merchant is selling shoddy merchandise. Caravans, it should be...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 337,
+            "context" : "...the north, through an Imperial burial in a tomb or <mark>city<\/mark> cemetery is more common in the south. There are still...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...priests at the High Fane in the Temple Compound in Vivec <mark>City<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 465,
+            "context" : "...south of the Inner Sea and the eastern coast. The <mark>city<\/mark> of Almalexia is located in Indoril District, and the Indoril...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : "...guides at the Mages Guild teleport you to Balmora, Vivec <mark>City<\/mark>, Caldera, and Sadrith Mora for a modest fee....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "...Wolverine Hall Mages Guild can teleport you to Ald'ruhn, Vivec <mark>City<\/mark>, Caldera, and Balmora for a modest fee.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...tradition lives in the unseen and unlooked-for corners of Vivec <mark>City<\/mark> between the blood of battle and the waters of life....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "City",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "Vivec <mark>City<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "city",
+            "weight" : "1",
+            "pos" : 584,
+            "context" : "...time, Oin came upon Funcrazot in a field outside the <mark>city<\/mark>, dOing his regular exercises. Oin cast his spell and...",
+            "fid" : "content" } ] } ] }

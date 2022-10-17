@@ -1,0 +1,14 @@
+
+  { "stem" : "suspend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "suspended",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...of Vivec. The Ministry of Truth, a celestial body <mark>suspended<\/mark> by Vivec's mighty power over the Temple Compound, is the...",
+            "fid" : "content" } ] } ] }

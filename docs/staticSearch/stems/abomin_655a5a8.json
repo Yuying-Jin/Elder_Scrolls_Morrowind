@@ -1,0 +1,25 @@
+
+  { "stem" : "abomin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abomination",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...them forth, then such a summons is blasphemy, an <mark>abomination<\/mark> before the Tribes and Temple, and a sin so great...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abomination",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...if it were curable, a cured vampire would be an <mark>abomination<\/mark> to be destroyed. Since the disease is infallibly cured if...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "vulner",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vulnerable",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...is a mixed blessing. It also makes its wearer exceptionally <mark>vulnerable<\/mark> to magical attacks, so one should only wear it for...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "inherit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "inherit",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...that whoever rescued her would be allowed to marry her and <mark>inherit<\/mark> the land. Unfortunately, in those troubled days, kidnappings...",
+            "fid" : "content" },
+          
+          { "form" : "inheriting",
+            "weight" : "1",
+            "pos" : 495,
+            "context" : "...court, he discovered that the estate that he would be <mark>inheriting<\/mark> was utterly dissolute by decades of blight storms and poor crops...",
+            "fid" : "content" } ] } ] }

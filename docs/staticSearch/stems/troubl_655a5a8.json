@@ -1,0 +1,75 @@
+
+  { "stem" : "troubl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "troubled",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...marry her and inherit the land. Unfortunately, in those <mark>troubled<\/mark> days, kidnappings, murders, and thievery were rampant,...",
+            "fid" : "content" },
+          
+          { "form" : "trouble",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...the ear of the saints. If I run into any <mark>trouble<\/mark>, I'll call on them to aid my quest.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trouble",
+            "weight" : "1",
+            "pos" : 488,
+            "context" : "...wilderness, gathering herbs and potion components. They should avoid <mark>trouble<\/mark> where possible, and so need not be masters of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Troubles",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...that, by chance, I made petition to the Lord of <mark>Troubles<\/mark>, Molag Bal, at an altar deep in the caverns...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Troubles",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "Rumors flow from the House of <mark>Troubles<\/mark>.",
+            "fid" : "Daedra" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trouble",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...he yearned for a girl he had known before all his <mark>trouble<\/mark>, a sweet thing with curly locks and a joyous laugh...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "troubling",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "..., during incubation, some victims have reported sleep disturbances and <mark>troubling<\/mark> dreams. After symptoms are exhibited, however, the disease...",
+            "fid" : "content" } ] } ] }

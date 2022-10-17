@@ -1,0 +1,25 @@
+
+  { "stem" : "hardi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hardy",
+            "weight" : "1",
+            "pos" : 1102,
+            "context" : "...of the Ashlanders of Urshilaku camp graze on the sparse but <mark>hardy<\/mark> highland vegetation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hardy",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...from remains buried in consecrated ground. green lichen is a <mark>hardy<\/mark> primitive plant that grows in the Ascadian Isles and Azura's Coast...",
+            "fid" : "content" } ] } ] }

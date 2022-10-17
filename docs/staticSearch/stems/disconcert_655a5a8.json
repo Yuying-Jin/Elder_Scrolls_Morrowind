@@ -1,0 +1,14 @@
+
+  { "stem" : "disconcert",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "disconcerting",
+            "weight" : "1",
+            "pos" : 357,
+            "context" : "...Telvanni, however, is very difficult for outsiders. Most <mark>disconcerting<\/mark> for some potential candidates is House Telvanni's casual acceptance of murder...",
+            "fid" : "content" } ] } ] }

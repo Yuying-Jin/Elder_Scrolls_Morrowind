@@ -1,0 +1,14 @@
+
+  { "stem" : "career",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "career",
+            "weight" : "1",
+            "pos" : 342,
+            "context" : "...parts of Elsweyr is cherished by Khajiits who have followed the <mark>career<\/mark> path of thievery. Many Khajiits will tuck a piece of...",
+            "fid" : "content" } ] } ] }

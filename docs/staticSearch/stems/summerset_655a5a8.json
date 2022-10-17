@@ -1,0 +1,67 @@
+
+  { "stem" : "summerset",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Summerset",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "<mark>Summerset<\/mark> Isle is even worse in some ways. Some Altmer born...",
+            "fid" : "content" },
+          
+          { "form" : "Summerset",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...our Art. A Necromancer of any other race caught in <mark>Summerset<\/mark> Isle can expect the worst possible punishments.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Summerset",
+            "weight" : "1",
+            "pos" : 2346,
+            "context" : "Isle_of_<mark>Summerset<\/mark>" },
+          
+          { "form" : "Summerset",
+            "weight" : "1",
+            "pos" : 3577,
+            "context" : "<mark>Summerset<\/mark> Isle" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "summerset",
+            "weight" : "1",
+            "pos" : 2512,
+            "context" : "isle of <mark>summerset<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "summerset",
+            "weight" : "1",
+            "pos" : 3729,
+            "context" : "<mark>summerset<\/mark> isle",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Summerset",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "The Isle of <mark>Summerset<\/mark>",
+            "fid" : "content" } ] } ] }

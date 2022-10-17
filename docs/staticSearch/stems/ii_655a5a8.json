@@ -1,0 +1,68 @@
+
+  { "stem" : "ii",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "II",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "Corpse Preparation v <mark>II<\/mark>" },
+          
+          { "form" : "II",
+            "weight" : "1",
+            "pos" : 1685,
+            "context" : "Corpse Preparation v <mark>II<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "II",
+            "weight" : "1",
+            "pos" : 2712,
+            "context" : "Corpse Preparation v <mark>II<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "II",
+            "weight" : "1",
+            "pos" : 5811,
+            "context" : "Corpse Preparation v <mark>II<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "II",
+            "weight" : "1",
+            "pos" : 1514,
+            "context" : "Corpse Preparation v <mark>II<\/mark>, count: 1" },
+          
+          { "form" : "II",
+            "weight" : "1",
+            "pos" : 2554,
+            "context" : "Corpse Preparation v <mark>II<\/mark>, count: 1" },
+          
+          { "form" : "II",
+            "weight" : "1",
+            "pos" : 5569,
+            "context" : "Corpse Preparation v <mark>II<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "II",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "<mark>II<\/mark>. Authority",
+            "fid" : "content" } ] } ] }

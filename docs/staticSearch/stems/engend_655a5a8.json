@@ -1,0 +1,14 @@
+
+  { "stem" : "engend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "engendering",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...must the Magicka Fountains be damped and banked, sanctioning their <mark>engendering<\/mark> only to the reconsecration of essential arcane engines and templates,...",
+            "fid" : "content" } ] } ] }

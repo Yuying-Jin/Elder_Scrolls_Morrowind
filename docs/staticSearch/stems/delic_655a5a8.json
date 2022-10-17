@@ -1,0 +1,14 @@
+
+  { "stem" : "delic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "delicate",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : ".... The fronds from this plant are light green and quite <mark>delicate<\/mark>. Picking a frond can be very difficult, but once...",
+            "fid" : "content" } ] } ] }

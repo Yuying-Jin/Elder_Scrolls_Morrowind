@@ -1,0 +1,102 @@
+
+  { "stem" : "quest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quests",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "..., Masters, and all that is good. Perform holy <mark>quests<\/mark> and bring luster to the Temple. Never transgress against your...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quests",
+            "weight" : "1",
+            "pos" : 601,
+            "context" : " Oracle's <mark>Quests<\/mark> are the most demanding of all Imperial cult missions. Only...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quest",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...or spirit unless I might be cured, I undertook his <mark>quest<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "questing",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...the Puzzle Canal, a place of worship and testing for <mark>questing<\/mark> heroes hoping to receive Vivec's favor. Many choice treasures are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "questing",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "Temple doctrine claims their apotheosis was miraculously achieved through <mark>questing<\/mark>, virtue, knowledge, testing, and battling with Evil...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "questing",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "Temple doctrine claims their apotheosis was miraculously achieved through <mark>questing<\/mark>, virtue, knowledge, testing, and battling with Evil...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quest",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...rushed back to the Tribunal Temple where he had received his <mark>quest<\/mark>, accepted the gold and the thanks, and was back...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quest",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...first goal, and it turned out to be a fruitless <mark>quest<\/mark>. Harithoel dug deeply, but there were no springs under...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quest",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...into any trouble, I'll call on them to aid my <mark>quest<\/mark>.\"",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,221 @@
+
+  { "stem" : "end",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "Book of Rest and <mark>Endings<\/mark>" },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 2261,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 2292,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 2534,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 3536,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 4184,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 2094,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 2122,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 2368,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 3383,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" },
+          
+          { "form" : "Endings",
+            "weight" : "1",
+            "pos" : 4040,
+            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ended",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...some sarcastic comments from Master S'Rabba literally, and we all <mark>ended<\/mark> up being tortured for information about you and your troops....",
+            "fid" : "content" },
+          
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 544,
+            "context" : "...want to give the whole effect away, but at the <mark>end<\/mark> of the act, you have some very fine sheets of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ending",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "The <mark>ending<\/mark> of the words is ALMSIVI.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ending",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "The Ritual for <mark>Ending<\/mark> of Wrathmen From fifty Fathers Frozen in slavepast Rip from the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...arrangement as I'm sure the Orcs will agree. To this <mark>end<\/mark>, a delegation has been sent to Orsinium, though we...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...Art. If one of your servants comes to an unfortunate <mark>end<\/mark>, you may raise the servant again by carefully gathering as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 594,
+            "context" : "...Molag Mar. Silt strider service is available at the north <mark>end<\/mark> of the Foreign Quarter bridge, traveling from Vivec to Suran...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ended",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...Wulfharth and his Son's, the Magnificence that was Mordrin Hanin <mark>ended<\/mark> in this world. Representative of Ashalmawia, Maelkashishi and Ald...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "...over an hour for Harithoel to search the island from one <mark>end<\/mark> to the other. He turned back to S'Riizh who was were...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "End",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Harvest's <mark>End<\/mark>, 3E 172",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "Consider your <mark>end<\/mark>, mortal!",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 605,
+            "context" : "...ravine running from the top of Red Mountain southwest to its <mark>end<\/mark> just below Balmora. An old Dwemer bridge crosses the foyada...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "end",
+            "weight" : "1",
+            "pos" : 423,
+            "context" : "...Galsiah, and Imalyn approached the Cobblers Guildhouse on the east <mark>end<\/mark> of town. Galsiah used her cachous of stoneflower to mask...",
+            "fid" : "content" } ] } ] }

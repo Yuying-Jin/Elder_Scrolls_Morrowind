@@ -1,0 +1,14 @@
+
+  { "stem" : "meal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "meal",
+            "weight" : "1",
+            "pos" : 694,
+            "context" : "...would take a couple flagons of greef, perhaps order a <mark>meal<\/mark> -- a big one -- and wait. Hours would pass...",
+            "fid" : "content" } ] } ] }

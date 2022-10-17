@@ -1,0 +1,14 @@
+
+  { "stem" : "pest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pests",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...may contract with the Guild for the removal of creatures and <mark>pests<\/mark>, the delivery of goods on dangerous routes, the collection...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,154 @@
+
+  { "stem" : "fel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 1478,
+            "context" : "Dagon <mark>Fel<\/mark>" },
+          
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 1497,
+            "context" : "Dagon <mark>Fel<\/mark>, Heifnir: Trader" },
+          
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 1506,
+            "context" : "Dagon <mark>Fel<\/mark>, Sorkvild's Tower" },
+          
+          { "form" : "Fels",
+            "weight" : "1",
+            "pos" : 6575,
+            "context" : "Llevas <mark>Fels<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "fel",
+            "weight" : "1",
+            "pos" : 1649,
+            "context" : "dagon <mark>fel<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fel",
+            "weight" : "1",
+            "pos" : 1668,
+            "context" : "dagon <mark>fel<\/mark>, heifnir: trader",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fel",
+            "weight" : "1",
+            "pos" : 1677,
+            "context" : "dagon <mark>fel<\/mark>, sorkvild's tower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "fels",
+            "weight" : "1",
+            "pos" : 6673,
+            "context" : "llevas <mark>fels<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 481,
+            "context" : "...camp and the remote fishing villages of Ald Redaynia and Dagon <mark>Fel<\/mark> on the north coast. There are no roads; most...",
+            "fid" : "content" },
+          
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 1236,
+            "context" : "...uninhabited, with two small villages at Ald Redaynia and Dagon <mark>Fel<\/mark>. Only Dagon Fel is reached by ship services; all...",
+            "fid" : "content" },
+          
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 1238,
+            "context" : "...small villages at Ald Redaynia and Dagon Fel. Only Dagon <mark>Fel<\/mark> is reached by ship services; all other island-to-island...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Dagon <mark>Fel<\/mark>, Sorkvild's Tower: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Dagon <mark>Fel<\/mark>, Sorkvild's Tower: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Dagon <mark>Fel<\/mark>, Sorkvild's Tower: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "Dagon <mark>Fel<\/mark>, Heifnir: Trader: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 327,
+            "context" : "...to Ebonheart, Tel Branora, Tel Mora, or Dagon <mark>Fel<\/mark>. Iniel at the Wolverine Hall Mages Guild can teleport you...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fel",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Dagon <mark>Fel<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

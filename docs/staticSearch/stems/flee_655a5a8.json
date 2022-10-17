@@ -1,0 +1,14 @@
+
+  { "stem" : "flee",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flees",
+            "weight" : "1",
+            "pos" : 634,
+            "context" : "...as he does not stray too far from the Ghostgate and <mark>flees<\/mark> from any minions of Dagoth Ur. When you address the...",
+            "fid" : "content" } ] } ] }

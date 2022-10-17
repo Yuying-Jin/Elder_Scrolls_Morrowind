@@ -1,0 +1,14 @@
+
+  { "stem" : "duct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "duct",
+            "weight" : "1",
+            "pos" : 554,
+            "context" : "...the city's sewer system, Lledos, slipped in through a <mark>duct<\/mark> and vanished below. Galsiah threw on her shawl, muddied her...",
+            "fid" : "content" } ] } ] }

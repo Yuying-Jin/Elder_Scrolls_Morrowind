@@ -1,0 +1,104 @@
+
+  { "stem" : "write",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "writings\"",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...a public face [represented by the Heirographa -- the \"priestly <mark>writings\"<\/mark>] and a hidden face [ represented by the Apographa --...",
+            "fid" : "content" },
+          
+          { "form" : "writings\"",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...a hidden face [ represented by the Apographa -- the \"hidden <mark>writings\"<\/mark>]. The public account portrays the actions of the Tribunal in...",
+            "fid" : "content" },
+          
+          { "form" : "writings",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...of the Tribunal in a heroic light, while the hidden <mark>writings<\/mark> reveal secrets, untruths, inconsistencies, conflicting accounts and varying...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "writings\"",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...a public face [represented by the Heirographa -- the \"priestly <mark>writings\"<\/mark>] and a hidden face [ represented by the Apographa --...",
+            "fid" : "content" },
+          
+          { "form" : "writings\"",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...a hidden face [ represented by the Apographa -- the \"hidden <mark>writings\"<\/mark>]. The public account portrays the actions of the Tribunal in...",
+            "fid" : "content" },
+          
+          { "form" : "writings",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...of the Tribunal in a heroic light, while the hidden <mark>writings<\/mark> reveal secrets, untruths, inconsistencies, conflicting accounts and varying...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "write",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "I have been asked to <mark>write<\/mark> this guidebook for outsiders who are unfamiliar with the Tribunal Temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "write",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "I am a councilor of House Hlaalu and chose to <mark>write<\/mark> this short guide for those who seek to understand us or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "writing",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "[from the correspondence of Cuseius Plecia, Imperial trader, <mark>writing<\/mark> from the Vos Tradehouse in Vvardenfell District, Province of Morrowind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "write",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...and if all the seas were ink, I could not <mark>write<\/mark> enough how I shall miss her.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "writing",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "..., Nirn, and Oblivion are one,\" said Warfel, <mark>writing<\/mark> out the mathematical formula that showed it was so.",
+            "fid" : "content" } ] } ] }

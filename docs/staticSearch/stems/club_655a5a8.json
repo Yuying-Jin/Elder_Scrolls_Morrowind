@@ -1,0 +1,61 @@
+
+  { "stem" : "club",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Club",
+            "weight" : "1",
+            "pos" : 1446,
+            "context" : "Council <mark>Club<\/mark> cornerclub" },
+          
+          { "form" : "Club",
+            "weight" : "1",
+            "pos" : 5041,
+            "context" : "No Name <mark>Club<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "club",
+            "weight" : "1",
+            "pos" : 1617,
+            "context" : "council <mark>club<\/mark> cornerclub",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "club",
+            "weight" : "1",
+            "pos" : 5187,
+            "context" : "no name <mark>club<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Club",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...Ald'ruhn-Under-Skar. The Ald Skar Inn and the Council <mark>Club<\/mark> cornerclub are found to the west, near West Gate and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Club",
+            "weight" : "1",
+            "pos" : 322,
+            "context" : "...two public houses: the Elven Nations and the No Name <mark>Club<\/mark>. A variety of craftsmen and tradesmen also have shops at...",
+            "fid" : "content" } ] } ] }

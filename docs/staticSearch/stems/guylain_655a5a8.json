@@ -1,0 +1,44 @@
+
+  { "stem" : "guylain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Guylaine's",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "<mark>Guylaine's<\/mark> Architecture" },
+          
+          { "form" : "Guylaine's",
+            "weight" : "1",
+            "pos" : 911,
+            "context" : "<mark>Guylaine's<\/mark> Architecture, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Guylaine's",
+            "weight" : "1",
+            "pos" : 1298,
+            "context" : "<mark>Guylaine's<\/mark> Architecture, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Guylaine's",
+            "weight" : "1",
+            "pos" : 748,
+            "context" : "<mark>Guylaine's<\/mark> Architecture, count: 1" },
+          
+          { "form" : "Guylaine's",
+            "weight" : "1",
+            "pos" : 1150,
+            "context" : "<mark>Guylaine's<\/mark> Architecture, count: 1" } ] } ] }

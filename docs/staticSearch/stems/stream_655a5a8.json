@@ -1,0 +1,25 @@
+
+  { "stem" : "stream",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "streams",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...from the heat and fire found in the lava pits and <mark>streams<\/mark> found around Dagoth-Ur.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "streaming",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : ".... It took him some time to master it, visualizing magicka <mark>streaming<\/mark> through his body, pumping through the very fibers of his...",
+            "fid" : "content" } ] } ] }

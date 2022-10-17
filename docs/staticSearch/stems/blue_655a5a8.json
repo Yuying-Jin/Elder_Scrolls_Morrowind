@@ -1,0 +1,125 @@
+
+  { "stem" : "blue",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles" },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 2089,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 3792,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 3851,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 4062,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 4101,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 4925,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 1917,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1" },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 3640,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1" },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 3939,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1" },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 3977,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1" },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 3996,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1" },
+          
+          { "form" : "Blue",
+            "weight" : "1",
+            "pos" : 5889,
+            "context" : "The <mark>Blue<\/mark> Book of Riddles, count: 1" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "...Combova,\" said Yakin. \"They say he can stand in <mark>blue<\/mark> flames for twenty minutes.\"",
+            "fid" : "content" },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 451,
+            "context" : "...witch next to him. \"Kena Leles, cast a ball of <mark>blue<\/mark> flame for me.\" And he sat in the inferno of flame...",
+            "fid" : "content" },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "...,\" said Oin. \"Kena Leles, cast a ball of <mark>blue<\/mark> flames for me.\" Oin sat in the inferno of blue fire...",
+            "fid" : "content" },
+          
+          { "form" : "blue",
+            "weight" : "1",
+            "pos" : 475,
+            "context" : "...of blue flames for me.\" Oin sat in the inferno of <mark>blue<\/mark> fire for very nearly an hour before he left.",
+            "fid" : "content" } ] } ] }

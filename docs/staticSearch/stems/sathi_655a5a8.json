@@ -1,0 +1,73 @@
+
+  { "stem" : "sathi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Sathis",
+            "weight" : "1",
+            "pos" : 641,
+            "context" : ".... The authorities wouldn't therefore be looking for a Dunmer named <mark>Sathis<\/mark> celebrating his wealth miles and miles away in Vivec.",
+            "fid" : "content" },
+          
+          { "form" : "Sathis",
+            "weight" : "1",
+            "pos" : 654,
+            "context" : "...he prodded his mount forward and the sun began rising, <mark>Sathis<\/mark> pictured Galsiah and Imalyn not undergoing interrogation, but sleeping the...",
+            "fid" : "content" },
+          
+          { "form" : "Sathis",
+            "weight" : "1",
+            "pos" : 716,
+            "context" : "The sun was fully risen when <mark>Sathis<\/mark> reached the stables of his house on the outskirts of Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "Sathis",
+            "weight" : "1",
+            "pos" : 775,
+            "context" : "...and went upstairs. The schedule had been tight, but <mark>Sathis<\/mark> had given himself a few hours to rest before his household...",
+            "fid" : "content" },
+          
+          { "form" : "Sathis",
+            "weight" : "1",
+            "pos" : 792,
+            "context" : "<mark>Sathis<\/mark> woke up some time later from a nightmare. For a...",
+            "fid" : "content" },
+          
+          { "form" : "Sathis",
+            "weight" : "1",
+            "pos" : 836,
+            "context" : "The song returned, and <mark>Sathis<\/mark> heard the vault door in his study swing open. The...",
+            "fid" : "content" },
+          
+          { "form" : "Sathis",
+            "weight" : "1",
+            "pos" : 877,
+            "context" : "...her typical calm voice, \"Thank you for the lesson, <mark>Sathis<\/mark>.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sathis",
+            "weight" : "1",
+            "pos" : 7159,
+            "context" : "<mark>Sathis<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sathis",
+            "weight" : "1",
+            "pos" : 7284,
+            "context" : "<mark>sathis<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

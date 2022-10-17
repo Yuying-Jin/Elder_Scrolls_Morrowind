@@ -1,0 +1,37 @@
+
+  { "stem" : "observatori",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Observatory",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "Galom Daeus <mark>Observatory<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Observatory",
+            "weight" : "1",
+            "pos" : 1833,
+            "context" : "Galom Daeus <mark>Observatory<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "observatory",
+            "weight" : "1",
+            "pos" : 2009,
+            "context" : "galom daeus <mark>observatory<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

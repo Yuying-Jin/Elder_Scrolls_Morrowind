@@ -1,0 +1,25 @@
+
+  { "stem" : "sad",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sad",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...need at the price they are given. It's a very <mark>sad<\/mark> state of affairs, when the game is really open to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sad",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...even unsheathed their weapons. Baranat look a look at his <mark>sad<\/mark>, cut-rate iron blade, and prayed to the...",
+            "fid" : "content" } ] } ] }

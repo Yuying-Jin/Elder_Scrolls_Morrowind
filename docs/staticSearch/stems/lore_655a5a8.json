@@ -1,0 +1,36 @@
+
+  { "stem" : "lore",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lore",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "...in their substance and power according to their age and accumulated <mark>lore<\/mark>, but even the weakest vampire is immeasurably stronger than most...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lore",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...in their substance and power according to their age and accumulated <mark>lore<\/mark>, but even the weakest vampire is immeasurably stronger than most...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lore",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "...vampirism is peculiar to Morrowind, appearing nowhere else in Imperial <mark>lore<\/mark>. Unfortunately, scholarly inquiry upon this topic is discouraged by...",
+            "fid" : "content" } ] } ] }

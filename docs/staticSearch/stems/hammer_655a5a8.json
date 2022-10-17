@@ -1,0 +1,14 @@
+
+  { "stem" : "hammer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hammers",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : ".... When violence is needful, we fight with staves and <mark>hammers<\/mark>, armored only in our faith. We study Restoration and...",
+            "fid" : "content" } ] } ] }

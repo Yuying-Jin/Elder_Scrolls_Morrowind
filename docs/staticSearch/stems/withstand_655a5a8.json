@@ -1,0 +1,25 @@
+
+  { "stem" : "withstand",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "withstand",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...and powerful though a Telvanni wizard may be, no individual can <mark>withstand<\/mark> the march of history. The Indoril are loved by the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "withstands",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "The Thrice-Sealed House <mark>withstands<\/mark> the Storm.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "maneuv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "maneuver",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...march long distances with heavy packs, and to advance and <mark>maneuver<\/mark>, charge and retreat on the field of battle.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,48 @@
+
+  { "stem" : "ulessen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ulessen",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...Master Neloth: Mouth Raven Omayn For Mistress Therana: Felisa <mark>Ulessen<\/mark> For Mistress Dratha: Mouth Mallam Ryon Council Actions In response...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ulessen",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...Mouths are spokesmen for their councilor mage-lords) Felisa <mark>Ulessen<\/mark>, Galos Mathendis, Arara Uvulas, Mallam Ryon, Raven...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ulessen",
+            "weight" : "1",
+            "pos" : 7435,
+            "context" : "Felisa <mark>Ulessen<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ulessen",
+            "weight" : "1",
+            "pos" : 7574,
+            "context" : "felisa <mark>ulessen<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

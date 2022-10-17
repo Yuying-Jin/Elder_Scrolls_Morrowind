@@ -1,0 +1,31 @@
+
+  { "stem" : "margin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "...of Ghosts in the north, and elsewhere form a wide <mark>margin<\/mark> between the blighted Red Mountain region and other geographic regions....",
+            "fid" : "content" },
+          
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 397,
+            "context" : "..., the district seat of House Redoran, is on the <mark>margin<\/mark> of the region. Ashlanders hunt for game here, and their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "margin",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "..., the words 'Boat Ack', are seen scrawled about the <mark>margin<\/mark> in a vandalistic manner.]",
+            "fid" : "content" } ] } ] }

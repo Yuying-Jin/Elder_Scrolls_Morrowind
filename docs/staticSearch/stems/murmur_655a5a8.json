@@ -1,0 +1,14 @@
+
+  { "stem" : "murmur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "murmuring",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "Harithoel ignored S'Riizh, <mark>murmuring<\/mark>, \"The trick as I've heard it is to anticipate where...",
+            "fid" : "content" } ] } ] }

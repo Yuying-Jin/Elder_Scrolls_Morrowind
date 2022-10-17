@@ -1,0 +1,114 @@
+
+  { "stem" : "collect",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "collected",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "...precipitate from elemental frost in solution. Such residues may be <mark>collected<\/mark> from the remains of frost atronachs that have been banished from...",
+            "fid" : "content" },
+          
+          { "form" : "collected",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...plumes are plucked from dead cliff racers. coda flowers are <mark>collected<\/mark> from the primitive draggle-tail plant of the Bitter Coast...",
+            "fid" : "content" },
+          
+          { "form" : "collected",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : "...only rarely stocked by apothecaries or alchemists, and cannot be <mark>collected<\/mark> locally.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "collection",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...pests, the delivery of goods on dangerous routes, the <mark>collection<\/mark> of beasts for the arenas, and other duties defined by...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "collectively",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : ".... Thus, members of House Hlaalu may be referred to <mark>collectively<\/mark> as Yellows.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "collect",
+            "weight" : "1",
+            "pos" : 338,
+            "context" : "...entertainment we provided under torture. We weren't sure how to <mark>collect<\/mark>, but he mentioned during the course of his ravings that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "collect",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...to learn one spell. I have to kill Egroamaro, <mark>collect<\/mark> the award, and be back in Gnisis as quickly as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "collected",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "Herein are presented all manner of riddles, as <mark>collected<\/mark> by the scholars of St Rilms, to the greater glory...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "collection",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...Guildhall may not sound intimidating but tonight, when the dues <mark>collection<\/mark> is housed there before being sent to the bank, the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "collection",
+            "weight" : "1",
+            "pos" : 381,
+            "context" : "...by the Temple, which controls access to the only substantial <mark>collection<\/mark> of historical and cultural records in Morrowind....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Collectively",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "...holy country, and its gods are flesh and blood. <mark>Collectively<\/mark>, these gods are called the Tribunal, the triune ALMSIVI...",
+            "fid" : "content" } ] } ] }

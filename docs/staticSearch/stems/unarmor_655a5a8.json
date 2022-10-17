@@ -1,0 +1,14 @@
+
+  { "stem" : "unarmor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "unarmored",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...Those who swear to avoid bloodshed, to take the field <mark>unarmored<\/mark> to fight only with blunt weapons, are especially praiseworthy....",
+            "fid" : "content" } ] } ] }

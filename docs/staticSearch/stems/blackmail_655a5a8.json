@@ -1,0 +1,14 @@
+
+  { "stem" : "blackmail",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blackmail",
+            "weight" : "1",
+            "pos" : 756,
+            "context" : "...matter of time before they would go to the authorities or <mark>blackmail<\/mark> him. After all, they were human. It was best in...",
+            "fid" : "content" } ] } ] }

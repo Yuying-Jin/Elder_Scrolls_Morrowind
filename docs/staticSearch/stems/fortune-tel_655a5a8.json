@@ -1,0 +1,14 @@
+
+  { "stem" : "fortune-tel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fortune-teller",
+            "weight" : "1",
+            "pos" : 564,
+            "context" : "...her shawl, muddied her face to resemble an old f'lah <mark>fortune-teller<\/mark>, and headed north. Imalyn headed east into the park...",
+            "fid" : "content" } ] } ] }

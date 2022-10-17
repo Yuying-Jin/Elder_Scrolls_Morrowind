@@ -1,0 +1,31 @@
+
+  { "stem" : "scale",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "scaled",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "...a boost up to the tower of Tel Naga. She <mark>scaled<\/mark> it to the top --\"",
+            "fid" : "content" },
+          
+          { "form" : "scaled",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "\"She <mark>scaled<\/mark> it?\" asked Gothren, who was familiar with the tower....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "scale",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "Keep no secret from your Judge's <mark>scale<\/mark>.",
+            "fid" : "content" } ] } ] }

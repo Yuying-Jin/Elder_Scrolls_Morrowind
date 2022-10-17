@@ -1,0 +1,37 @@
+
+  { "stem" : "jobasha",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Jobasha's",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "<mark>Jobasha's<\/mark> Rare Books: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Jobasha's",
+            "weight" : "1",
+            "pos" : 2352,
+            "context" : "<mark>Jobasha's<\/mark> Rare Books" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "jobasha's",
+            "weight" : "1",
+            "pos" : 2518,
+            "context" : "<mark>jobasha's<\/mark> rare books",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

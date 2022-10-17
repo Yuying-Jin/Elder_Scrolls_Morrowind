@@ -1,0 +1,25 @@
+
+  { "stem" : "concept",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "conceptions",
+            "weight" : "1",
+            "pos" : 676,
+            "context" : "...and the Morag Tong, and honors their different but noble <mark>conceptions<\/mark> of Divine Inspiration.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "concepts",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...all these subtle undercurrents and contradictions are present in the Dunmer <mark>concepts<\/mark> of Vivec, even if they are not explicitly described and...",
+            "fid" : "content" } ] } ] }

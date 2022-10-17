@@ -1,0 +1,37 @@
+
+  { "stem" : "shein",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shein",
+            "weight" : "1",
+            "pos" : 469,
+            "context" : "<mark>shein<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shein",
+            "weight" : "1",
+            "pos" : 639,
+            "context" : "<mark>shein<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shein",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...burdensome tariffs on the native beverages sujamma, greef, and <mark>shein<\/mark>.",
+            "fid" : "content" } ] } ] }

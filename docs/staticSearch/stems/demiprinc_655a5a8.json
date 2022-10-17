@@ -1,0 +1,43 @@
+
+  { "stem" : "demiprinc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Demiprince",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...This. Then an eighth Daedroth came, and he was a <mark>Demiprince<\/mark>, called Fa-Nuit-Hen, or the Multiplier...",
+            "fid" : "content" },
+          
+          { "form" : "Demiprince",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "Then the Barons and the <mark>Demiprince<\/mark> joined together into a pillar of fighting styles terrible to behold...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Demiprince",
+            "weight" : "1",
+            "pos" : 5130,
+            "context" : "<mark>Demiprince<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "demiprince",
+            "weight" : "1",
+            "pos" : 5318,
+            "context" : "<mark>demiprince<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

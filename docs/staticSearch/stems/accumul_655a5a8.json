@@ -1,0 +1,25 @@
+
+  { "stem" : "accumul",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "accumulated",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...vary in their substance and power according to their age and <mark>accumulated<\/mark> lore, but even the weakest vampire is immeasurably stronger than...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "accumulated",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...vary in their substance and power according to their age and <mark>accumulated<\/mark> lore, but even the weakest vampire is immeasurably stronger than...",
+            "fid" : "content" } ] } ] }

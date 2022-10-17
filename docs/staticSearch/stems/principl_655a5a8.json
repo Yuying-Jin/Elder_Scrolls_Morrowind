@@ -1,0 +1,42 @@
+
+  { "stem" : "principl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "principles",
+            "weight" : "1",
+            "pos" : 649,
+            "context" : "...with House Hlaalu, which strongly supports the Emperor and Imperial <mark>principles<\/mark>. Though we cannot condone the actions of the Thieves Guild...",
+            "fid" : "content" },
+          
+          { "form" : "principles",
+            "weight" : "1",
+            "pos" : 668,
+            "context" : "...The Imperial cults have the greatest respect for the high moral <mark>principles<\/mark> of House Redoran and the Morag Tong, and honors their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "principles",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "...and bases all along the eastern coast. According to Telvanni <mark>principles<\/mark>, the powerful define the standards of virtue, and the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Principle",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : " <mark>Principle<\/mark> Districts of Ald'ruhn",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "model",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "model",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "...Saints Members of the Temple who wish to be virtuous will <mark>model<\/mark> their lives on the lives of the saints.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "models",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : " The Imperial cults look to the Nine Divines as <mark>models<\/mark> for living a good and virtuous life. Each of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "model",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...the citizen's virtue, for service in the Legion is the <mark>model<\/mark> for the duties of Imperial citizenship. Troopers are expected to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "models",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...with priests and cultists, and whose daily actions are prescribed <mark>models<\/mark> for the daily actions of their followers.",
+            "fid" : "content" } ] } ] }

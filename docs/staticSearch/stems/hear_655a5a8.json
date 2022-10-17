@@ -1,0 +1,47 @@
+
+  { "stem" : "hear",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hear",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "<mark>Hear<\/mark> me, children. Once I was a lowly man such as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hear",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : " <mark>Hear<\/mark> the words of Lord Vivec, and heed his sermons on...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hear",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...position at the Fighters Guild right here in town? I <mark>hear<\/mark> they're looking for a trainer for the Imperial Guard. I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hear",
+            "weight" : "1",
+            "pos" : 803,
+            "context" : "...after he opened his eyes, he thought he could still <mark>hear<\/mark> Imalyn's voice nearby, singing The Ninety-Nine Loves of...",
+            "fid" : "content" } ] } ] }

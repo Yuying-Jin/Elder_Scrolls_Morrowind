@@ -1,0 +1,181 @@
+
+  { "stem" : "travel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "travelers",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "..., so the designations are recognized by most local traders, <mark>travelers<\/mark>, and adventurers. These geographic regions are called: the...",
+            "fid" : "content" },
+          
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 485,
+            "context" : "...on the north coast. There are no roads; most <mark>travel<\/mark> is by boat. Despite the rocky terrain, a variety...",
+            "fid" : "content" },
+          
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 850,
+            "context" : "...fresh grazing. There are no roads or tracks, but <mark>travel<\/mark> is easy across the open plains.",
+            "fid" : "content" },
+          
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 889,
+            "context" : "..., lava pools, and barren ash pavements. Pathfinding and <mark>travel<\/mark> is extremely difficult in this trackless wilderness, and is complicated...",
+            "fid" : "content" },
+          
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 988,
+            "context" : "...surface lava. The Ghostfence, a magical barrier which blocks <mark>travel<\/mark> as well as seals in the harmful, disease-laden...",
+            "fid" : "content" },
+          
+          { "form" : "traveler",
+            "weight" : "1",
+            "pos" : 1248,
+            "context" : "...all other island-to-island transport must be provided by the <mark>traveler<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...any further than the Foreign Quarter, but now outlanders can <mark>travel<\/mark> throughout Vivec at will. The Imperial Guilds each have guildhalls and...",
+            "fid" : "content" },
+          
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...large staff of priests, healers, and monks. Pilgrims <mark>travel<\/mark> from all over Morrowind to view the High Fane and the...",
+            "fid" : "content" },
+          
+          { "form" : "travelers",
+            "weight" : "1",
+            "pos" : 586,
+            "context" : ".... Roads from the Telvanni Compound bridge are useful mostly for <mark>travelers<\/mark> to Molag Mar. Silt strider service is available at the...",
+            "fid" : "content" },
+          
+          { "form" : "traveling",
+            "weight" : "1",
+            "pos" : 598,
+            "context" : "...available at the north end of the Foreign Quarter bridge, <mark>traveling<\/mark> from Vivec to Suran, Seyda Neen, Balmora, and...",
+            "fid" : "content" },
+          
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 610,
+            "context" : "...Molag Mar. Ships from the docks at the Foreign Quarter <mark>travel<\/mark> to Ebonheart, Hla Oad, Molag Mar, and Tel...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Travelers'",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "<mark>Travelers'<\/mark> Recipes",
+            "fid" : "content" },
+          
+          { "form" : "travelers",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "Pilgrims and <mark>travelers<\/mark> will find the following inexpensive recipes of particular interest.",
+            "fid" : "content" },
+          
+          { "form" : "traveler's",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "Feather reduces the weary <mark>traveler's<\/mark> burdens and can be gained from heather and scuttle. Heather...",
+            "fid" : "content" },
+          
+          { "form" : "travelers",
+            "weight" : "1",
+            "pos" : 324,
+            "context" : "The power of Water Breathing is handy for <mark>travelers<\/mark>. A potion may be made from two or more of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Travel",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : " <mark>Travel<\/mark> and Transportation",
+            "fid" : "content" },
+          
+          { "form" : "travelers",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "...south; there are no trails or marked routes. Casual <mark>travelers<\/mark> ill-equipped for the attacks of wild beasts and brigands...",
+            "fid" : "content" },
+          
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 389,
+            "context" : "...of wild beasts and brigands should keep to the roads and <mark>travel<\/mark> services.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "traveler",
+            "weight" : "1",
+            "pos" : 479,
+            "context" : "...great. Lay healers need only the skills of the prudent <mark>traveler<\/mark>, being often on the road and in the wilderness,...",
+            "fid" : "content" },
+          
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 525,
+            "context" : "...rise in the ranks of Imperial Cults service. Almoners must <mark>travel<\/mark> in town and village, and should be skilled in persuasion...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "travel",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...how to get around them. You want to defend yourself. You <mark>travel<\/mark> light and fast, and want light arms like daggers and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "traveling",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : " \"I confess, I never associated brave actions with <mark>traveling<\/mark> acrobats,\" said Gothren.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "traveling",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...shrine is between two rocks, and most easily noticed while <mark>traveling<\/mark> east along the road. Alof's farm nearby has a small...",
+            "fid" : "content" } ] } ] }

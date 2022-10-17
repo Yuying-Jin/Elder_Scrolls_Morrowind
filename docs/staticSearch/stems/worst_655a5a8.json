@@ -1,0 +1,36 @@
+
+  { "stem" : "worst",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worst",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...of any other race caught in Summerset Isle can expect the <mark>worst<\/mark> possible punishments.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worst",
+            "weight" : "1",
+            "pos" : 906,
+            "context" : "...game here, but few others venture into this region. The <mark>worst<\/mark> part of Molag Amur, called the Great Scathes, is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worst",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...on supplies and soldiers for this holdout. I fear the <mark>worst<\/mark>.\"",
+            "fid" : "content" } ] } ] }

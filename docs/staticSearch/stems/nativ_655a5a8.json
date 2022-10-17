@@ -1,0 +1,98 @@
+
+  { "stem" : "nativ",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "native",
+            "weight" : "1",
+            "pos" : 316,
+            "context" : "In my <mark>native<\/mark> High Rock, traditions dating back to the witch kings and...",
+            "fid" : "content" },
+          
+          { "form" : "native",
+            "weight" : "1",
+            "pos" : 411,
+            "context" : "...the most famous Necromancers, but little is known of their <mark>native<\/mark> Thras. In Tamriel, Sload only practice Necromancy on other...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "native",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...exteriors inspired by the landscape and by the shells of giant <mark>native<\/mark> insects. Redoran villages are typically centered on Temple compounds and...",
+            "fid" : "content" },
+          
+          { "form" : "native",
+            "weight" : "1",
+            "pos" : 419,
+            "context" : "..., caps, and root-like holdfasts of the giant <mark>native<\/mark> mushrooms. Telvanni villages are comprised of smaller mushroom pods hollowed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "native",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...their classifications on the different types of land described by the <mark>native<\/mark> Ashlanders, so the designations are recognized by most local traders...",
+            "fid" : "content" },
+          
+          { "form" : "natives",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : ".... Outlanders mostly confine themselves to the Foreign Canton, while <mark>natives<\/mark> live, work, and shop in the Great House compounds...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "native",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...exteriors inspired by the landscape and by the shells of giant <mark>native<\/mark> insects. Most guildhalls, cornerclubs, and merchants are sited...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "natives",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : ".... Outlanders mostly confine themselves to the Foreign Canton, while <mark>natives<\/mark> live, work, and shop in the Great House compounds...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "native",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...beverage]. The council protests the continuing burdensome tariffs on the <mark>native<\/mark> beverages sujamma, greef, and shein.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "native",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "Fire Fern, a perennial herb, <mark>native<\/mark> to Morrowind. The flowers are inconspicuous and often hidden....",
+            "fid" : "content" } ] } ] }

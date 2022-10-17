@@ -1,0 +1,25 @@
+
+  { "stem" : "soldier",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soldierly",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...Legion selects candidates on the basis of superior endurance, the <mark>soldierly<\/mark> virtue, and trustworthy personality, the citizen's virtue, for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soldiers",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...numbers are feverishly great. We grow low on supplies and <mark>soldiers<\/mark> for this holdout. I fear the worst.\"",
+            "fid" : "content" } ] } ] }

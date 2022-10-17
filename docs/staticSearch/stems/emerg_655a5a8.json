@@ -1,0 +1,25 @@
+
+  { "stem" : "emerg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "emerged",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...its close relationship with the Imperial administration, House Hlaalu has <mark>emerged<\/mark> as politically and economically dominant among the Great Houses of Vvardenfell...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "emerge",
+            "weight" : "1",
+            "pos" : 1035,
+            "context" : "...only gap through which the monstrous hosts of Dagoth Ur might <mark>emerge<\/mark> from Red Mountain to threaten the rest of Morrowind. The...",
+            "fid" : "content" } ] } ] }

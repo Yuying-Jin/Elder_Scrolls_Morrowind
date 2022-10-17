@@ -1,0 +1,109 @@
+
+  { "stem" : "care",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "careful",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...graves or ash stolen from one of their ashpits, a <mark>careful<\/mark> and discrete Necromancer can thrive in Morrowind by taking slaves at...",
+            "fid" : "content" },
+          
+          { "form" : "care",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "..., though they are often in poor condition and require special <mark>care<\/mark> in preparation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "carefully",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...an unfortunate end, you may raise the servant again by <mark>carefully<\/mark> gathering as many parts as you can find, binding the...",
+            "fid" : "content" },
+          
+          { "form" : "care",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...may be weaker each time this is done, but with <mark>care<\/mark> and maintenance, one may raise zombies dozens of times....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "care",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "\"...but take <mark>care<\/mark>, lest power enfeeble the fundaments, and curtail the flow...",
+            "fid" : "content" },
+          
+          { "form" : "carefully",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : "\"The Restorals must be most <mark>carefully<\/mark> guarded, for how often have even the wise lusted to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "caring",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : ".... There she lay for seven or eight more months, <mark>caring<\/mark> for the egg-knowledge by whispering to it the Codes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "care",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...make raising them again impossible. This is another reason that <mark>care<\/mark> should be given to the skeleton's preparation. Too many young...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "carefully",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...more than many young Hlaalu realize. This value must be <mark>carefully<\/mark> balanced against the more tangible coins in any deal. Theft...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "care",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "...must be judged, endured, and reflected upon with due <mark>care<\/mark> and earnestness. Piety is respect for the gods, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cares",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...If a Wood Elf mime falls in a forest, who <mark>cares<\/mark>?",
+            "fid" : "content" } ] } ] }

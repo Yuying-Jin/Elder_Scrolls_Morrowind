@@ -1,0 +1,37 @@
+
+  { "stem" : "somnalius",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "somnalius",
+            "weight" : "1",
+            "pos" : 504,
+            "context" : "<mark>somnalius<\/mark> fern" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "somnalius",
+            "weight" : "1",
+            "pos" : 674,
+            "context" : "<mark>somnalius<\/mark> fern",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Somnalius",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "The <mark>Somnalius<\/mark> Fern can be found in the swamps of Black Marsh....",
+            "fid" : "content" } ] } ] }

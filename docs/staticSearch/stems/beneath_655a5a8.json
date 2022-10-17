@@ -1,0 +1,136 @@
+
+  { "stem" : "beneath",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Beneath",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...presence of Lord Vivec, and only at his initiation. <mark>Beneath<\/mark> the Palace of Vivec is the Puzzle Canal, a place...",
+            "fid" : "content" },
+          
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 467,
+            "context" : "...The comfortable domed Arena has seating for hundreds of spectators; <mark>beneath<\/mark> the Arena are dressing and storage rooms for entertainers and training...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Beneath",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...recited. The following is an excerpt from Lord Vivec's 'Brooding <mark>Beneath<\/mark> Red Mountain'.]",
+            "fid" : "content" },
+          
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "How long <mark>beneath<\/mark> red-reeking clouds",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "..., Molag Bal, at an altar deep in the caverns <mark>beneath<\/mark> the pilgrim's shrine. I was surprised, and thrilled,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...architectural feature of Ald'ruhn -- a manor and council district sheltered <mark>beneath<\/mark> the shell of an ancient extinct giant crab. The large...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Beneath",
+            "weight" : "1",
+            "pos" : 559,
+            "context" : "...is the Telvanni tower of Sorcerer-Lord Divayth Fyr. <mark>Beneath<\/mark> the tower is the Corprusarium, a refuge-prison where...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "..., at great cost to myself, and my honor. Yet <mark>beneath<\/mark> Red Mountain, you struck me down as I guarded the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...defiant Dagoth Ur within Red Mountain, then drove Dagoth Ur <mark>beneath<\/mark> Red Mountain when he would not yield to their will.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...defiant Dagoth Ur within Red Mountain, then drove Dagoth Ur <mark>beneath<\/mark> Red Mountain when he would not yield to their will.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 335,
+            "context" : "...found in the heart of the Puzzle Canal, a labyrinth <mark>beneath<\/mark> Lord Vivec's Palace in the city of Vivec. The journey...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 471,
+            "context" : "...in his unique and systematic method. As the tumblers fell <mark>beneath<\/mark> his fingers, he softly sang an old dirty tavern song...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beneath",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...unconsciously, they accept the notion of darker, hidden currents <mark>beneath<\/mark> Vivec's benevolent aspects.",
+            "fid" : "content" } ] } ] }

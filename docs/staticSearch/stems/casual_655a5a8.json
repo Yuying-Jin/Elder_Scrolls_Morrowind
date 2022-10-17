@@ -1,0 +1,36 @@
+
+  { "stem" : "casual",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Casual",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "...then south; there are no trails or marked routes. <mark>Casual<\/mark> travelers ill-equipped for the attacks of wild beasts and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "casual",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "Heartlanders are <mark>casual<\/mark> and tolerant in religious matters; Dunmer are passionate and extremely...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "casual",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...outsiders. Most disconcerting for some potential candidates is House Telvanni's <mark>casual<\/mark> acceptance of murder and assassination of rivals as a means to...",
+            "fid" : "content" } ] } ] }

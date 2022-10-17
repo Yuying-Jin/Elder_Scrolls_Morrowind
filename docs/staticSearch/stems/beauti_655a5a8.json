@@ -1,0 +1,37 @@
+
+  { "stem" : "beauti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "beautiful",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...prolific around the area of Utherus Swamp. It is a <mark>beautiful<\/mark> wildflower. Its name comes from the fire red fronds that...",
+            "fid" : "content" },
+          
+          { "form" : "beautiful",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...is a herb grown by many residents of Valenwood for their <mark>beautiful<\/mark> and showy flowers. They attain a height of about three...",
+            "fid" : "content" },
+          
+          { "form" : "beauty",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...the flowers are usually bright red. In addition to their <mark>beauty<\/mark>, they are said to have magical abilities to enhance the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beautiful",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...the beloved Warrior-Poet of the True People, paradoxically <mark>beautiful<\/mark> and bloody. Vivec is an artistic violence. Vivec is...",
+            "fid" : "content" } ] } ] }

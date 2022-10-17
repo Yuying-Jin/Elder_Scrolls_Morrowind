@@ -1,0 +1,14 @@
+
+  { "stem" : "citizenship",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "citizenship",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...in the Legion is the model for the duties of Imperial <mark>citizenship<\/mark>. Troopers are expected to demonstrate mastery of the long blade...",
+            "fid" : "content" } ] } ] }

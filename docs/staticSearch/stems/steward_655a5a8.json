@@ -1,0 +1,101 @@
+
+  { "stem" : "steward",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Stewards",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...for the arenas, and other duties defined by the Guild <mark>Stewards<\/mark>. ",
+            "fid" : "content" },
+          
+          { "form" : "Stewards",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : ".... Re-admittance is at the discretion of the Guild <mark>Stewards<\/mark>. ",
+            "fid" : "content" },
+          
+          { "form" : "Steward",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...Fighters and have a dispute may appeal first to the Guild <mark>Steward<\/mark> who accepted the contract and second with the authorities of each...",
+            "fid" : "content" },
+          
+          { "form" : "Steward",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "Candidates must present themselves to the <mark>Steward<\/mark> of the Guild Hall for examination and approval. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "steward",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "...Ald'ruhn-Under_skar. Edwinna Elbert is the Mages Guild <mark>steward<\/mark>, and Percius Mercius has recently become the Fighters Guild steward...",
+            "fid" : "content" },
+          
+          { "form" : "steward",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...steward, and Percius Mercius has recently become the Fighters Guild <mark>steward<\/mark>. Old Methal Seran is an eminent Temple priest and scholar...",
+            "fid" : "content" },
+          
+          { "form" : "steward",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...of Buckmoth Fort, but Imsin the Dreamer is the chapter <mark>steward<\/mark>. The Redguard Hean is priest of the Imperial cult....",
+            "fid" : "content" },
+          
+          { "form" : "steward",
+            "weight" : "1",
+            "pos" : 285,
+            "context" : "...priest of the Imperial cult. Goren Andarys is the guild <mark>steward<\/mark> of the Morag Tong, whose guildhall is found in Ald'ruhn...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "steward",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...At Wolverine Hall, Hrundi the Nord is the Fighters Guild <mark>steward<\/mark>, Procyon Nigiliusis [sic] is Mages Guild steward,...",
+            "fid" : "content" },
+          
+          { "form" : "steward",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...Guild steward, Procyon Nigiliusis [sic] is Mages Guild <mark>steward<\/mark>, and Aunius Autrus is the Imperial cult priest. Big...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Steward",
+            "weight" : "1",
+            "pos" : 6677,
+            "context" : "<mark>Steward<\/mark> of the Guild Hall" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "steward",
+            "weight" : "1",
+            "pos" : 6763,
+            "context" : "<mark>steward<\/mark> of the guild hall",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

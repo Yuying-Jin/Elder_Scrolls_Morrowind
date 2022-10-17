@@ -1,0 +1,20 @@
+
+  { "stem" : "bean",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Beans",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "<mark>Beans<\/mark>, Bloody Beans",
+            "fid" : "content" },
+          
+          { "form" : "Beans",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "Beans, Bloody <mark>Beans<\/mark>",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,195 @@
+
+  { "stem" : "daedra",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "daedra's",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "<mark>daedra's<\/mark> heart" },
+          
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 5079,
+            "context" : "<mark>Daedra<\/mark>" },
+          
+          { "form" : "daedra",
+            "weight" : "1",
+            "pos" : 5983,
+            "context" : "<mark>daedra<\/mark>" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...Direnni derived the bulk of their power from their traffickings with <mark>Daedra<\/mark>, a very profitable but risky path to success. Chimere...",
+            "fid" : "content" },
+          
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...consequences of his defiance of fate and fortune in cheating a <mark>Daedra<\/mark> Lord.",
+            "fid" : "content" },
+          
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "Created by the <mark>Daedra<\/mark> Lord Malacath, this armor has the marvelous property of turning...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Daedra's",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : " 2 Parts Blood of Traitors 1 Part <mark>Daedra's<\/mark> Heart of Daedra 1 Part mixed Bittergreen Petals, Void Salts...",
+            "fid" : "daedrasheart" },
+          
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : " 2 Parts Blood of Traitors 1 Part Daedra's Heart of <mark>Daedra<\/mark> 1 Part mixed Bittergreen Petals, Void Salts, Green Lichens...",
+            "fid" : "Daedra" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "daedra's",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "<mark>daedra's<\/mark> heart",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "daedra",
+            "weight" : "1",
+            "pos" : 5255,
+            "context" : "<mark>daedra<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...the Dunmer ancestors [ including, among others, the Good <mark>Daedra<\/mark>, the prophet Veloth, and Saint Nerevar ]. Dissident priests...",
+            "fid" : "content" },
+          
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "4. veneration of the <mark>Daedra<\/mark>, Saints, and Ancestors",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...the Dunmer ancestors [ including, among others, the Good <mark>Daedra<\/mark>, the prophet Veloth, and Saint Nerevar ]. Dissident priests...",
+            "fid" : "content" },
+          
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "4. veneration of the <mark>Daedra<\/mark>, Saints, and Ancestors",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "Seven <mark>Daedra<\/mark> came to her one night and each one gave to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...when Molag Bal, or some aspect or agent of that <mark>Daedra<\/mark> Lord, offered me a chance to cure myself of vampirism...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "daedra",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...much havoc it was causing, it seemed likely that the <mark>daedra<\/mark> prince would allow Master Neloth its use for some time to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "daedra",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...was all the whim of Boethiah or one of the other <mark>daedra<\/mark> with cruel senses of humor.",
+            "fid" : "daedra" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...Mehrunes Dagon, Vivec gave his own silver longsword to the <mark>Daedra<\/mark> Lord rather than dishonor himself by fighting an unarmed foe....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "daedra",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "...make you more cunning in battle than the most dangerous of <mark>daedra<\/mark>.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daedra",
+            "weight" : "1",
+            "pos" : 354,
+            "context" : "...this story exist, with the foe variously identified as a <mark>Daedra<\/mark> Lord, a Temple Saint, or a powerful beast creature...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "harbor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "harbors",
+            "weight" : "1",
+            "pos" : 709,
+            "context" : "...are uninhabited, with the only settlements found at the good <mark>harbors<\/mark> of Gnaar Mok, Hla Oad, and Seyda Neen....",
+            "fid" : "content" },
+          
+          { "form" : "harbor",
+            "weight" : "1",
+            "pos" : 741,
+            "context" : "...piercing light of the Grand Pharos at the mouth of the <mark>harbor<\/mark> of the port village of Seyda Neen is a beacon to...",
+            "fid" : "content" } ] } ] }

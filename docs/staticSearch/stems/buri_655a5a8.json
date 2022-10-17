@@ -1,0 +1,53 @@
+
+  { "stem" : "buri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "buried",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...very little preparation. Khajiit of the desert tribes are often <mark>buried<\/mark> with only a small cairn of stones which are easy to...",
+            "fid" : "content" },
+          
+          { "form" : "burying",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "While few Bosmer perform Arkay's rituals when <mark>burying<\/mark> the dead, the more primitive Bosmer still practice cannibalism upon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "buried",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...elves from being used without consent. Arkay's Law prevents those <mark>buried<\/mark> with the proper rituals from being raised to serve my children's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "buried",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...turned back to S'Riizh who was were he left him, half <mark>buried<\/mark> in the sand to pack his broken bones. One of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "buried",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...lichen. gravedust is spirit-affinitive dust taken from remains <mark>buried<\/mark> in consecrated ground. green lichen is a hardy primitive plant...",
+            "fid" : "content" } ] } ] }

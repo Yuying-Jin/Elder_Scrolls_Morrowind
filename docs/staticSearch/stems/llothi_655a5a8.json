@@ -1,0 +1,43 @@
+
+  { "stem" : "llothi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Llothis",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "St. <mark>Llothis<\/mark> grants The Rock of Llothis, for fortifying the will.",
+            "fid" : "content" },
+          
+          { "form" : "Llothis",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "St. Llothis grants The Rock of <mark>Llothis<\/mark>, for fortifying the will.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Llothis",
+            "weight" : "1",
+            "pos" : 7306,
+            "context" : "St.<mark>Llothis<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "llothis",
+            "weight" : "1",
+            "pos" : 7419,
+            "context" : "st.<mark>llothis<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,59 @@
+
+  { "stem" : "former",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "former",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : " \"Drawn by intimations of my <mark>former<\/mark> life, I visited my former post at Bal Ur,...",
+            "fid" : "content" },
+          
+          { "form" : "former",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...\"Drawn by intimations of my former life, I visited my <mark>former<\/mark> post at Bal Ur, hoping perhaps to atone in some...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "formerly",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...fraternity of vampire hunters is believed to be primarily composed of <mark>formerly<\/mark> afflicted vampires who have been cured of the disease. According...",
+            "fid" : "content" },
+          
+          { "form" : "former",
+            "weight" : "1",
+            "pos" : 393,
+            "context" : "...Dunmer believe the disease is incurable, a Buoyant Armiger of <mark>former<\/mark> years named Galur Rithari insisted that he was cured of vampirism...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "former",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...the animated remains may depend on the abilities of the revenant's <mark>former<\/mark> life, and may therefore be weak or strong, or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "former",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...the animated remains may depend on the abilities of the revenant's <mark>former<\/mark> life, and may therefore be weak or strong, or...",
+            "fid" : "content" } ] } ] }

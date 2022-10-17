@@ -1,0 +1,25 @@
+
+  { "stem" : "rob",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rob",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "...races that invade our shores, shall they be permitted to <mark>rob<\/mark> our tombs, to bind our kin-spirits into sorcerous...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "robbed",
+            "weight" : "1",
+            "pos" : 413,
+            "context" : "...the fates were aligned. The guildhouse was going to be <mark>robbed<\/mark>.",
+            "fid" : "content" } ] } ] }

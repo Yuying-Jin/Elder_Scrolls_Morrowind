@@ -1,0 +1,14 @@
+
+  { "stem" : "waysid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "waysides",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...Temples, or at sites of pilgrimage, or at pilgrim <mark>waysides<\/mark>, or in the tomb of the sanctified.",
+            "fid" : "content" } ] } ] }

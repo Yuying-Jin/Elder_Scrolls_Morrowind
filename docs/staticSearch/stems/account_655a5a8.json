@@ -1,0 +1,83 @@
+
+  { "stem" : "account",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "account",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...represented by the Apographa -- the \"hidden writings\"]. The public <mark>account<\/mark> portrays the actions of the Tribunal in a heroic light,...",
+            "fid" : "content" },
+          
+          { "form" : "accounts",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...the hidden writings reveal secrets, untruths, inconsistencies, conflicting <mark>accounts<\/mark> and varying interpretations which hint at darker and less heroic motives...",
+            "fid" : "content" },
+          
+          { "form" : "accounts",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...motives and actions of the Tribunes. In particular, conflicting <mark>accounts<\/mark> of the battle at Red Mountain raise questions about the Tribunal's...",
+            "fid" : "content" },
+          
+          { "form" : "accounts",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "3. Temple <mark>accounts<\/mark> of the Battle of Red Mountain",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "account",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...represented by the Apographa -- the \"hidden writings\"]. The public <mark>account<\/mark> portrays the actions of the Tribunal in a heroic light,...",
+            "fid" : "content" },
+          
+          { "form" : "accounts",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...the hidden writings reveal secrets, untruths, inconsistencies, conflicting <mark>accounts<\/mark> and varying interpretations which hint at darker and less heroic motives...",
+            "fid" : "content" },
+          
+          { "form" : "accounts",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...motives and actions of the Tribunes. In particular, conflicting <mark>accounts<\/mark> of the battle at Red Mountain raise questions about the Tribunal's...",
+            "fid" : "content" },
+          
+          { "form" : "accounts",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "3. Temple <mark>accounts<\/mark> of the Battle of Red Mountain",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "accounts",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : "The differences in religious temperament between Heartlanders and Morrowind Dunmer <mark>accounts<\/mark> in large part for consistent political and social misunderstanding between the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "account",
+            "weight" : "1",
+            "pos" : 361,
+            "context" : "...a Temple Saint, or a powerful beast creature. This <mark>account<\/mark> of the origin of vampirism is peculiar to Morrowind, appearing...",
+            "fid" : "content" } ] } ] }

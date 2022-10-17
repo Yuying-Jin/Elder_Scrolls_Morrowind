@@ -1,0 +1,14 @@
+
+  { "stem" : "extermin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "extermination",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "..., and terrible sorceries were used, resulting in the utter <mark>extermination<\/mark> of House Dwemer, House Dagoth, and their allies....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "rectangular",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rectangular",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "...council halls—are designed as simple multi-storied buildings roughly <mark>rectangular<\/mark> in plan, featuring arched entranceways and modest decorated exteriors....",
+            "fid" : "content" } ] } ] }

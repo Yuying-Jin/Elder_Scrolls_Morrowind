@@ -1,0 +1,69 @@
+
+  { "stem" : "success",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "successfully",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...with. I know of only a few Sload Necromancers who operate <mark>successfully<\/mark> in Black Marsh, and even they stay near coast....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "successful",
+            "weight" : "1",
+            "pos" : 513,
+            "context" : "...to fund most of our good works. Almoners who are <mark>successful<\/mark> at bringing in generous donations may rise in the ranks of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "success",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...have yourself be counted among the victors in the race for <mark>success<\/mark>? Then submit yourself for examination at the Balmora Council Manor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "success",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "The wake was considered a great <mark>success<\/mark> as the beverage killed a great many guests and thus Mordrin...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "success",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...the spear at the fish, but he had no more <mark>success<\/mark> than S'Riizh and his stones.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "success",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...traffickings with Daedra, a very profitable but risky path to <mark>success<\/mark>. Chimere was perhaps the cleverest and most ambitious of the...",
+            "fid" : "content" } ] } ] }

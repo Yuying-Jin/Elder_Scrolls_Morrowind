@@ -1,0 +1,14 @@
+
+  { "stem" : "retriev",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "retrieved",
+            "weight" : "1",
+            "pos" : 292,
+            "context" : ".... Picking a frond can be very difficult, but once <mark>retrieved<\/mark> it can be used to put an enemy to sleep for...",
+            "fid" : "content" } ] } ] }

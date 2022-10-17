@@ -1,0 +1,20 @@
+
+  { "stem" : "strangl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "strangle",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...don't move the head quickly enough. If you're unsure, <mark>strangle<\/mark> the victim first to avoid the blood that tends to spurt...",
+            "fid" : "content" },
+          
+          { "form" : "strangle",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : "...in Gnisis whose name I won't mention, swears by the <mark>strangle<\/mark>-and-slash technique. Simply put, you grab your victim's...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "relief",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "relief",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "An acrobatic distraction would be a welcome <mark>relief<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "relief",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...Athyn Llethan, High Councilor and Lord of Morrowind, grants <mark>relief<\/mark> to merchants complaining of high tariffs on imported alcoholic beverages....",
+            "fid" : "content" } ] } ] }

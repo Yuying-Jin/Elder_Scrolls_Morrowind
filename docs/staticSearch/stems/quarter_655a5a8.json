@@ -1,0 +1,253 @@
+
+  { "stem" : "quarter",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...map, it looks like a cross, with the Foreign <mark>Quarter<\/mark> at the top, the Temple Compound, with Vivec's Palace...",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : " The Foreign <mark>Quarter<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : " The Foreign <mark>Quarter<\/mark> is the large three-tiered canton to the north....",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...were not allowed to enter Vivec any further than the Foreign <mark>Quarter<\/mark>, but now outlanders can travel throughout Vivec at will. The...",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 403,
+            "context" : " Redoran Compound is the canton south of the Foreign <mark>Quarter<\/mark>, west of and next to the Arena. The Redoran...",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 542,
+            "context" : "...Hlaalu Compound, between the north bay region and the Foreign <mark>Quarter<\/mark>, and between the east bay region and Telvanni Compound....",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 565,
+            "context" : "...Neen and points north. Good roads lead from the Foreign <mark>Quarter<\/mark> bridge west towards Seyda Neen, north towards Suran and the...",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 596,
+            "context" : "...strider service is available at the north end of the Foreign <mark>Quarter<\/mark> bridge, traveling from Vivec to Suran, Seyda Neen,...",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 609,
+            "context" : "...and Molag Mar. Ships from the docks at the Foreign <mark>Quarter<\/mark> travel to Ebonheart, Hla Oad, Molag Mar, and...",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 629,
+            "context" : "...Oad, Sadrith Mora, Tel Branora, and the Foreign <mark>Quarter<\/mark> of Vivec. Low-fare gondolas shuttle passengers from canton...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 1783,
+            "context" : "Foreign <mark>Quarter<\/mark>" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 1788,
+            "context" : "Foreign <mark>Quarter<\/mark> of Vivec" },
+          
+          { "form" : "Quarters",
+            "weight" : "1",
+            "pos" : 3003,
+            "context" : "Ramoran Private <mark>Quarters<\/mark>" },
+          
+          { "form" : "Quarters",
+            "weight" : "1",
+            "pos" : 3247,
+            "context" : "Sadrith Mora,_Tel_Naga_General_<mark>Quarters<\/mark>" },
+          
+          { "form" : "Quarters",
+            "weight" : "1",
+            "pos" : 3306,
+            "context" : "Sadrith_Mora,_Tel_Naga_General_<mark>Quarters<\/mark>" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 4457,
+            "context" : "Vivec, Foreign <mark>Quarter<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "quarter",
+            "weight" : "1",
+            "pos" : 1952,
+            "context" : "foreign <mark>quarter<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "quarter",
+            "weight" : "1",
+            "pos" : 1959,
+            "context" : "foreign <mark>quarter<\/mark> of vivec",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "quarters",
+            "weight" : "1",
+            "pos" : 3176,
+            "context" : "ramoran private <mark>quarters<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "quarters",
+            "weight" : "1",
+            "pos" : 3433,
+            "context" : "sadrith mora, tel naga general <mark>quarters<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "quarter",
+            "weight" : "1",
+            "pos" : 4621,
+            "context" : "vivec, foreign <mark>quarter<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 359,
+            "context" : "...Fort, Wolverine Hall in Sadrith Mora, Vivec, Foreign <mark>Quarter<\/mark>, and Imperial Chapels in Ebonheart. Seek training at Wolverine...",
+            "fid" : "content" },
+          
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 432,
+            "context" : "...receive blessings free. Healing altars are found in: Vivec Foreign <mark>Quarter<\/mark>; Wolverine Hall in Sadrith Mora; Buckmoth Legion Fort;...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...Council. The chapter in Vivec is established in the Foreign <mark>Quarter<\/mark> under lease from the Tribunal Temple.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quarters",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...the Gateway Inn, and to Wolverine Hall, the Imperial <mark>quarters<\/mark> of the Legion garrison and guilds. The docks are in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...in Balmora, Ald'ruhn, Sadrith Mora, and the Foreign <mark>Quarter<\/mark> of Vivec. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quarter",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "Foreign <mark>Quarter<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quarter",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...ash salts and cover the pie crust. Bake for one <mark>quarter<\/mark> hour in a hot oven.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quarters",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "Ramoran Private <mark>Quarters<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quarters",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "Sadrith Mora, Tel Naga General <mark>Quarters<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Quarters",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "Sadrith Mora, Tel Naga General <mark>Quarters<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

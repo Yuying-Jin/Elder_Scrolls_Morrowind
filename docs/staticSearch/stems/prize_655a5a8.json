@@ -1,0 +1,42 @@
+
+  { "stem" : "prize",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "prized",
+            "weight" : "1",
+            "pos" : 358,
+            "context" : "...-lo leaf is a succulent leaf of the Grazelands, <mark>prized<\/mark> for its taste and its roborative powers. kwama cuttle is...",
+            "fid" : "content" },
+          
+          { "form" : "prized",
+            "weight" : "1",
+            "pos" : 468,
+            "context" : "Invisibility, one of the most <mark>prized<\/mark> effects of potions, can be made only from crushed diamonds...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prizes",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...in the ranks, for above all things, House Hlaalu <mark>prizes<\/mark> initiative and ambition. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prize",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...three Dunmer Great Houses with holdings on Vvardenfell. The Redoran <mark>prize<\/mark> the virtues of duty, gravity, and piety. Duty...",
+            "fid" : "content" } ] } ] }

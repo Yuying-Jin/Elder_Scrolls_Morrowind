@@ -1,0 +1,23 @@
+
+  { "stem" : "bonemen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bonemen",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "Blessed are the <mark>Bonemen<\/mark>, for they serve without self in spirit forever." } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bonemen",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "The Ranks of the Blessed Blessed are the <mark>Bonemen<\/mark>, for they serve without self in spirit forever. Blessed..." } ] } ] }

@@ -1,0 +1,75 @@
+
+  { "stem" : "everi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "every",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...tighter than a kwama's ass. You can't just stab at <mark>every<\/mark> back you encounter and expect to make it into the vaults...",
+            "fid" : "content" },
+          
+          { "form" : "every",
+            "weight" : "1",
+            "pos" : 705,
+            "context" : "...and so would their moods. The chain of reactions that <mark>every<\/mark> betrayed person exhibits: nervousness, doubt, bewilderment, anger...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "every",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...in it is delivered the unmixed conflict path, perfect in <mark>every<\/mark> way. What is its number?'",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "every",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...given to the skeleton's preparation. Too many young Necromancers raise <mark>every<\/mark> skeleton they see with little or no preparation at all. Given...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "every",
+            "weight" : "1",
+            "pos" : 578,
+            "context" : ".... In the meantime, you will be honored guests with <mark>every<\/mark> luxury the Archmagister of House Telvanni can afford.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "every",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "Almsivi in <mark>every<\/mark> hour.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "every",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...enlightened divine. Vivec sought out experiences that tested him in <mark>every<\/mark> way possible, particularly in the defense and protection of his...",
+            "fid" : "content" } ] } ] }

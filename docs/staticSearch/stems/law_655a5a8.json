@@ -1,0 +1,110 @@
+
+  { "stem" : "law",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "...Houses of Vvardenfell and Morrowind. Hlaalu welcomes Imperial culture and <mark>law<\/mark>, Imperial Legions and bureaucracy, and Imperial freedom of trade...",
+            "fid" : "content" },
+          
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 492,
+            "context" : "...preserves many traditional Dunmer customs and practices in defiance of Imperial <mark>law<\/mark>. Dres District is in the south of Morrowind, bordering...",
+            "fid" : "content" },
+          
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 524,
+            "context" : "...Always firm Temple supporters, House Dres is hostile to Imperial <mark>law<\/mark> and culture, and in particular opposed to any attempts to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Law",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...beastmen, and elves from being used without consent. Arkay's <mark>Law<\/mark> prevents those buried with the proper rituals from being raised to...",
+            "fid" : "content" },
+          
+          { "form" : "Law",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...Arkay's Blessing is flexible to those with daring, but Arkay's <mark>Law<\/mark> is unwavering.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...history, the Imperial Legions preserve the peace and rule of <mark>law<\/mark> in the Empire. At need, the legion garrisons can...",
+            "fid" : "content" },
+          
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...Vvardenfell District of Morrowind, the local forts help to insure <mark>law<\/mark> and order, providing guards to supplement the local guard units...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "Let faith be your only <mark>law<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...the heart, the light; from the head, the <mark>law<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...Great Houses, Telvanni Council reminded them that, according to ancient <mark>law<\/mark> and custom, Telvanni Council places no constraint on the ambitions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Law",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...is strongest, the dead are almost always subject to Arkay's <mark>Law<\/mark>. There are exceptions after large battles or in remote areas...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "law",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...only Great House who has embraced the irresistible tides of Imperial <mark>law<\/mark> and custom. And thus we have profited by the Empire's...",
+            "fid" : "content" } ] } ] }

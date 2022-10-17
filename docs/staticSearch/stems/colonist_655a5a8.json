@@ -1,0 +1,25 @@
+
+  { "stem" : "colonist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "colonists",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...is largely a matter of birth and marriage, but Imperial <mark>colonists<\/mark> may also become retainers of a Great House, or may...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "colonists",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...a hero-cult, and among the military, provincial <mark>colonists<\/mark>, and recently assimilated foreigners, the cult is particularly strong...",
+            "fid" : "content" } ] } ] }

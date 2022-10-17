@@ -1,0 +1,14 @@
+
+  { "stem" : "seventh",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seventh",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : "...moons rose and fell from the sky. But on the <mark>seventh<\/mark> day, as he was preparing his Killing Blow, he...",
+            "fid" : "content" } ] } ] }

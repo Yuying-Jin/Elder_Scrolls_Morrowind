@@ -1,0 +1,43 @@
+
+  { "stem" : "arrowroot",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Arrowroot",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "<mark>Arrowroot<\/mark> is a thick, rubbery tuber that can be found in...",
+            "fid" : "content" },
+          
+          { "form" : "Arrowroot",
+            "weight" : "1",
+            "pos" : 314,
+            "context" : "...above ground foliage is very meager and scrawny. But the <mark>Arrowroot<\/mark> itself can be most beneficial to the gatherer as it has...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arrowroot",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "<mark>arrowroot<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arrowroot",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "<mark>arrowroot<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

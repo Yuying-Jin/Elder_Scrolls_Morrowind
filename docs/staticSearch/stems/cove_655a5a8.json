@@ -1,0 +1,14 @@
+
+  { "stem" : "cove",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "coves",
+            "weight" : "1",
+            "pos" : 722,
+            "context" : "...Neen. Also called the Smuggler's Coast, the region's secluded <mark>coves<\/mark> and islands provide refuge for criminal trade, and the frequent...",
+            "fid" : "content" } ] } ] }

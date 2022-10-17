@@ -1,0 +1,14 @@
+
+  { "stem" : "ecstat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ecstatic",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...exceptional strength and endurance, and attacks in a state of <mark>ecstatic<\/mark> frenzy. Aundae vampires are potent spellcasters, seeking to hypnotize...",
+            "fid" : "content" } ] } ] }

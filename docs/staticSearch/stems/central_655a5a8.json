@@ -1,0 +1,83 @@
+
+  { "stem" : "central",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Central",
+            "weight" : "1",
+            "pos" : 3900,
+            "context" : "Tel Vos, <mark>Central<\/mark> Tower" },
+          
+          { "form" : "Central",
+            "weight" : "1",
+            "pos" : 3911,
+            "context" : "Tel Vos, Tel Vos <mark>Central<\/mark> Tower" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "central",
+            "weight" : "1",
+            "pos" : 4128,
+            "context" : "tel vos, <mark>central<\/mark> tower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "central",
+            "weight" : "1",
+            "pos" : 4139,
+            "context" : "tel vos, tel vos <mark>central<\/mark> tower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Central",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "Tel Vos, Tel Vos <mark>Central<\/mark> Tower: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "central",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "...and their courtyards, with huts and tradehouses gathered around a <mark>central<\/mark> plaza, as in the West Gash village of Gnisis....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "central",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...an ancient extinct giant crab. The large carapace encloses a <mark>central<\/mark> dome, from which radiate the entrances to the Redoran Council...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Central",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "Tel Vos, <mark>Central<\/mark> Tower: Visitable? yes",
+            "fid" : "acq" } ] } ] }

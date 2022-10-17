@@ -1,0 +1,183 @@
+
+  { "stem" : "magic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "magics",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : "...picturesque, it is a dangerous site, haunted by old <mark>magics<\/mark>, dark cultists, and their Daedric summonings, and not...",
+            "fid" : "content" },
+          
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 985,
+            "context" : "...deep and dotted with surface lava. The Ghostfence, a <mark>magical<\/mark> barrier which blocks travel as well as seals in the harmful...",
+            "fid" : "content" },
+          
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 1043,
+            "context" : "...the rest of Morrowind. The Ghostfence itself is a colossal <mark>magical<\/mark> artifact that completely encircles Red Mountain and prevents the Blight from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...It is said that the black and white poppies together have <mark>magical<\/mark> properties. When they are crushed and mixed with the milk...",
+            "fid" : "content" },
+          
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...In addition to their beauty, they are said to have <mark>magical<\/mark> abilities to enhance the appearance of anyone who carries or wears...",
+            "fid" : "content" },
+          
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...itself can be most beneficial to the gatherer as it has <mark>magical<\/mark> properties. The paste made from grinding the root is very...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "..., for good fortune; Soul of Sotha Sil, for <mark>magical<\/mark> power, and Lady's Grace, for endurance of hardships....",
+            "fid" : "content" },
+          
+          { "form" : "magics",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : ".... Felms grants Felms' Glory, for greater skill in restoring <mark>magics<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "St. Veloth grants Veloth's Indwelling, for <mark>magical<\/mark> power, and also grants the blessing of Almsivi Restoration,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Magic",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...in the West, are known as 'bonewalkers' in Morrowind. <mark>Magic<\/mark> preserves the bonewalker's fleshy remains along with the bones and spirit...",
+            "fid" : "content" },
+          
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "...While their spirit and substance may indeed be preserved by some <mark>magical<\/mark> process, the holy warriors of the Tribunal Temple report that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Magic",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...in the West, are known as 'bonewalkers' in Morrowind. <mark>Magic<\/mark> preserves the bonewalker's fleshy remains along with the bones and spirit...",
+            "fid" : "content" },
+          
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...While their spirit and substance may indeed be preserved by some <mark>magical<\/mark> process, the holy warriors of the Tribunal Temple report that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 399,
+            "context" : "...these corpses difficult to find. More research dedicated to the <mark>magical<\/mark> detection of corpses would be invaluable to the Necromancers of Skyrim...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magic",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "While the <mark>magic<\/mark> involved in raising a skeleton will assemble the bones in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...must cultivate a noble personality and a strong will. Respect the <mark>magical<\/mark> arts, especially the colleges of Restoration, Mysticism, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...Ur, and concealing a recent dramatic diminishing of the Tribunal's <mark>magical<\/mark> powers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...Ur, and concealing a recent dramatic diminishing of the Tribunal's <mark>magical<\/mark> powers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magical",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...mixed blessing. It also makes its wearer exceptionally vulnerable to <mark>magical<\/mark> attacks, so one should only wear it for particular occasions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "magic",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...and willpower, and that candidates proficient in the arts of <mark>magic<\/mark> -- especially Mysticism, Conjuration, Illusion, Alteration, Destruction...",
+            "fid" : "content" } ] } ] }

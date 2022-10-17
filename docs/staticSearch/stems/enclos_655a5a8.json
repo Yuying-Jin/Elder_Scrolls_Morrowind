@@ -1,0 +1,25 @@
+
+  { "stem" : "enclos",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enclosing",
+            "weight" : "1",
+            "pos" : 340,
+            "context" : ".... Hlaalu plantation estates resemble Temple compounds, with walled precincts <mark>enclosing<\/mark> outbuildings for craftsmen and servants, dominated by a grand manor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "encloses",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...shell of an ancient extinct giant crab. The large carapace <mark>encloses<\/mark> a central dome, from which radiate the entrances to the...",
+            "fid" : "content" } ] } ] }

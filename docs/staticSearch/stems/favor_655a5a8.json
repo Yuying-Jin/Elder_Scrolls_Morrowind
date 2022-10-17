@@ -1,0 +1,58 @@
+
+  { "stem" : "favor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "favor",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...chance to cure myself of vampirism, in return for a <mark>favor<\/mark>. However, with no hope for my soul or spirit...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "favor",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "...of worship and testing for questing heroes hoping to receive Vivec's <mark>favor<\/mark>. Many choice treasures are guarded by Daedric servants in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "favorable",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "...Athyn Llethan, High Councilor and Lord of Morrowind, imposes <mark>favorable<\/mark> tariffs on flin [an imported fortified Imperial alcoholic beverage]. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "favors",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...nor hide behind the mask of cautious counsel, for fortune <mark>favors<\/mark> the bold.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "favored",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "Unfortunately, the potions most <mark>favored<\/mark> by adventurers require more rare and expensive ingredients. There are...",
+            "fid" : "content" } ] } ] }

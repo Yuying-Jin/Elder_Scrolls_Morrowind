@@ -1,0 +1,47 @@
+
+  { "stem" : "stay",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stayed",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...give birth to the image as an egg. There she <mark>stayed<\/mark> for seven or eight months.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stay",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...Necromancers who operate successfully in Black Marsh, and even they <mark>stay<\/mark> near coast.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stay",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "...look for hospitality at Wolverine Hall. Telvanni kin and retainers <mark>stay<\/mark> at the Gateway, at Wolverine Hall, at a local...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stay",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...people, right? So join the Thieves Guild, and <mark>stay<\/mark> far, far away from the Camonna Tong.",
+            "fid" : "content" } ] } ] }

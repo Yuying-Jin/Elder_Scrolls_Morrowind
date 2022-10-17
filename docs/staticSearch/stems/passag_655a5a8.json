@@ -1,0 +1,36 @@
+
+  { "stem" : "passag",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "passage",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...the Mages Guild. Gals Arethi at the docks offers ship <mark>passage<\/mark> to Ebonheart, Tel Branora, Tel Mora, or Dagon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "passages",
+            "weight" : "1",
+            "pos" : 289,
+            "context" : "...treasures are guarded by Daedric servants in the Puzzle Canal's dark <mark>passages<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Passage",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "..., many slaves and enemies were sacrificed and the Cup of <mark>Passage<\/mark> was mixed according to the direction of Hanin's Formulae:",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,99 @@
+
+  { "stem" : "seat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : " Ebonheart is the <mark>seat<\/mark> of the Imperial government for Vvardenfell district, and a busy...",
+            "fid" : "content" },
+          
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 394,
+            "context" : "...the only sizable permanent Ashlands settlement; Ald'ruhn, the district <mark>seat<\/mark> of House Redoran, is on the margin of the region...",
+            "fid" : "content" },
+          
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 498,
+            "context" : " Sadrith Mora is the district <mark>seat<\/mark> of House Telvanni, and home of the Telvanni Council,...",
+            "fid" : "content" },
+          
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 534,
+            "context" : " Tel Branora is the tower and <mark>seat<\/mark> of the eccentric Telvanni wizard named Therana. The tower and...",
+            "fid" : "content" },
+          
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 1107,
+            "context" : " Balmora is the district <mark>seat<\/mark> of House Hlaalu, and the largest settlement on Vvardenfell after...",
+            "fid" : "content" },
+          
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 1160,
+            "context" : " Ald'ruhn is the district <mark>seat<\/mark> of House Redoran, and a large settlement. The Redoran...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...West Gash village of Gnisis. Ald'ruhn, the Redoran district <mark>seat<\/mark>, is exceptional, with its distinctive feature being the colossal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : " Ald'ruhn is the district <mark>seat<\/mark> of House Redoran, and one of the largest settlements on...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seat",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : " Sadrith Mora is the district <mark>seat<\/mark> of House Telvanni, and home of the Telvanni Council,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seating",
+            "weight" : "1",
+            "pos" : 464,
+            "context" : "...public entertainments and combat sports. The comfortable domed Arena has <mark>seating<\/mark> for hundreds of spectators; beneath the Arena are dressing and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seats",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "Darothil agreed and, as the two settled back in their <mark>seats<\/mark> at the cornerclub and tossed back glasses of greef, the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,231 @@
+
+  { "stem" : "person",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "persons",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : ".... But after that, one should help and protect any needy <mark>persons<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "person",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...not harm one another.\" It is forbidden to attack another <mark>person<\/mark> of the Imperial cult, and of course, forbidden to...",
+            "fid" : "content" },
+          
+          { "form" : "personal",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...and resources to serving the cult, and must strive for <mark>personal<\/mark> improvement in their attributes and skills. Only the most distinguished...",
+            "fid" : "content" },
+          
+          { "form" : "personality",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "...glorify the Nine Divines, the faithful must cultivate a noble <mark>personality<\/mark> and a strong will. Respect the magical arts, especially the...",
+            "fid" : "content" },
+          
+          { "form" : "personal",
+            "weight" : "1",
+            "pos" : 534,
+            "context" : "...skilled in persuasion and mercantile matters. Also, almoners with <mark>personal<\/mark> wealth are in a position to better serve the cult....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "personal",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...be propitiated, and do not think of their relationships as <mark>personal<\/mark>. Notable exceptions include minor charismatic sub-cults of Akatosh...",
+            "fid" : "content" },
+          
+          { "form" : "personal",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...and recently assimilated foreigners, the cult is particularly strong and <mark>personal<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "personal",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "..., are, by contrast with Imperial cults, extremely intimate and <mark>personal<\/mark>. In ancestor cults, the worshipper has a direct relationship...",
+            "fid" : "content" },
+          
+          { "form" : "person",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "...living, breathing god who walks the earth, speaks in <mark>person<\/mark> with priests and cultists, and whose daily actions are prescribed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Persons",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Table of <mark>Persons<\/mark>",
+            "fid" : "bookTables",
+            "in" : 
+            [ "ssCtx1" ] },
+          
+          { "form" : "Persons",
+            "weight" : "1",
+            "pos" : 6284,
+            "context" : " Show\/Hide <mark>Persons<\/mark> " },
+          
+          { "form" : "Persons",
+            "weight" : "1",
+            "pos" : 6285,
+            "context" : "  <mark>Persons<\/mark> Books with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                ",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "person",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...bodied adventurers for such assignments. In fact, the only <mark>person<\/mark> who answered her call was a skinny, little fellow named...",
+            "fid" : "content" },
+          
+          { "form" : "personally",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...eldest and most powerful brother Airen Coribael was holding Lady Genevrah <mark>personally<\/mark>. Each of his brothers guarded a different post along the...",
+            "fid" : "content" },
+          
+          { "form" : "personality",
+            "weight" : "1",
+            "pos" : 483,
+            "context" : "..., he realized that she had a very, very, very unpleasant <mark>personality<\/mark> as well. Several days later, when they were back...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "person",
+            "weight" : "1",
+            "pos" : 545,
+            "context" : "The group parted ways. The only <mark>person<\/mark> who knew the most covert route through the city's sewer system...",
+            "fid" : "content" },
+          
+          { "form" : "person",
+            "weight" : "1",
+            "pos" : 707,
+            "context" : "...would their moods. The chain of reactions that every betrayed <mark>person<\/mark> exhibits: nervousness, doubt, bewilderment, anger.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Personality",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "Those who follow the Tribunal must have the <mark>Personality<\/mark> to lead others and the Willpower to resist the world's temptations...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Persons",
+            "weight" : "1",
+            "pos" : 6202,
+            "context" : "...Groups Books with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           <mark>Persons<\/mark> Books with Counts Link to First Mention in Each Book                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             " } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "personality",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...basis of superior endurance, the soldierly virtue, and trustworthy <mark>personality<\/mark>, the citizen's virtue, for service in the Legion is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "personal",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "[Sharn gra-Muzgob's <mark>personal<\/mark> copy.]",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "personally",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...as the site of the Chapel of the Innocent Quarry to <mark>personally<\/mark> mock and torment Chimere. The green crystal structure was created...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "person",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...(Telvanni Councilors do not serve on their house councils in <mark>person<\/mark>. Instead, they are represented by a 'Mouth', a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "personal",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...Teacher. The poetry is simple and dramatic, lyric and <mark>personal<\/mark>, composed to be sung or recited. The following is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "personality",
+            "weight" : "1",
+            "pos" : 757,
+            "context" : "...returned to Kena Yakin Bael and learned how to fortify his <mark>personality<\/mark> in exchange for next season's worth of willow anther. Then...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Person",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "<mark>Person<\/mark> Table",
+            "fid" : "ssForm" } ] } ] }

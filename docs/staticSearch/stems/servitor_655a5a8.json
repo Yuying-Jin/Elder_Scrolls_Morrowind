@@ -1,0 +1,14 @@
+
+  { "stem" : "servitor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "servitors",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...depths of the ruins, Silverthorn was set upon by the <mark>servitors<\/mark> of Egroamaro, living and undead. With his enchanted ebony...",
+            "fid" : "content" } ] } ] }

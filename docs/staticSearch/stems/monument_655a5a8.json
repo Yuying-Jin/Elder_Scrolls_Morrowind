@@ -1,0 +1,26 @@
+
+  { "stem" : "monument",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "monument",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...triumphed over Dagoth Ur, the people wished to build a <mark>monument<\/mark> to the heroes of that war. Vivec thanked them, but...",
+            "fid" : "content" },
+          
+          { "form" : "monument",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...them, but said that it would be better to dedicate a <mark>monument<\/mark> not only to the glorious heroes, but to all people...",
+            "fid" : "content" },
+          
+          { "form" : "monument",
+            "weight" : "1",
+            "pos" : 580,
+            "context" : "...of the indomitable will and power of ALMSIVI, and a <mark>monument<\/mark> to Dunmer pride in overcoming its enemies.",
+            "fid" : "content" } ] } ] }

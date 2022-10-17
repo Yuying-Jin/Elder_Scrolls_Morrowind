@@ -1,0 +1,14 @@
+
+  { "stem" : "mercantil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mercantile",
+            "weight" : "1",
+            "pos" : 530,
+            "context" : "...town and village, and should be skilled in persuasion and <mark>mercantile<\/mark> matters. Also, almoners with personal wealth are in a...",
+            "fid" : "content" } ] } ] }

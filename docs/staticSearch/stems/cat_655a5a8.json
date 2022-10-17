@@ -1,0 +1,14 @@
+
+  { "stem" : "cat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cats",
+            "weight" : "1",
+            "pos" : 356,
+            "context" : "...sack which Baranat assumed either contained Lady Genevrah or several large <mark>cats<\/mark>. The young adventurer quailed at the prospect of doing battle...",
+            "fid" : "content" } ] } ] }

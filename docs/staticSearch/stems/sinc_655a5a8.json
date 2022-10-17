@@ -1,0 +1,99 @@
+
+  { "stem" : "sinc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "since",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "For example, <mark>since<\/mark> the Telvanni vigorously defend the right to own slaves, and...",
+            "fid" : "content" },
+          
+          { "form" : "since",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...the Telvanni vigorously defend the right to own slaves, and <mark>since<\/mark> they keep many Argonian and Khajiit as slaves, many Argonians...",
+            "fid" : "content" },
+          
+          { "form" : "since",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "And, <mark>since<\/mark> the Telvanni are ruled by wizard-lord nobles, many...",
+            "fid" : "content" },
+          
+          { "form" : "since",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "...house to hire the craftsmen and specialists they need. And <mark>since<\/mark> for political reasons House Telvanni has chosen to reduce its reliance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "since",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...appreciation she gave him was enough to make all his days <mark>since<\/mark> then worth their while.",
+            "fid" : "content" },
+          
+          { "form" : "since",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...fell. She had found another, a mere nine years <mark>since<\/mark> she had given him that look while at play.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Since",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...that vampirism is contracted from wounds received from a vampire. <mark>Since<\/mark> few victims survive vampiric attacks or feedings, the process of...",
+            "fid" : "content" },
+          
+          { "form" : "Since",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...a cured vampire would be an abomination to be destroyed. <mark>Since<\/mark> the disease is infallibly cured if treated within three days,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "since",
+            "weight" : "1",
+            "pos" : 476,
+            "context" : "...It's pretty tall. It was a simple matter, especially <mark>since<\/mark> I could land in the water. Still, it's only...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Since",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...companion. From his lair, we will take flight. <mark>Since<\/mark> the Weir Gate has been taken, teleportation is not possible...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "since",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...enchantments, and is the only building on the island erected <mark>since<\/mark> it was ripped from Tamriel and loosed in the void....",
+            "fid" : "content" } ] } ] }

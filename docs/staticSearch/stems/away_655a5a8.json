@@ -1,0 +1,115 @@
+
+  { "stem" : "away",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...turn the head to one side so the body bleeds out <mark>away<\/mark> from you. There is a risk here of becoming blood stained...",
+            "fid" : "content" },
+          
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "...there's quite a bit of blood, it all jets forward <mark>away<\/mark> from you.",
+            "fid" : "content" },
+          
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 577,
+            "context" : "...into the park, trusting his unnatural senses to keep him <mark>away<\/mark> from the citywatch.",
+            "fid" : "content" },
+          
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 646,
+            "context" : "...for a Dunmer named Sathis celebrating his wealth miles and miles <mark>away<\/mark> in Vivec.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "\"It takes <mark>away<\/mark> the pain,\" said S'Riizh. \"How far away are we?\"...",
+            "fid" : "content" },
+          
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "...\"It takes away the pain,\" said S'Riizh. \"How far <mark>away<\/mark> are we?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...by the living. Let the memories of the undead waste <mark>away<\/mark> from the people. Send missionaries to the unbound dead,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...So join the Thieves Guild, and stay far, far <mark>away<\/mark> from the Camonna Tong.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 543,
+            "context" : "...in the other. I don't want to give the whole effect <mark>away<\/mark>, but at the end of the act, you have...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "..., Lord Vivec. I shall not quail, nor turn <mark>away<\/mark>, but face my enemies and my fear.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...Gnisis as quickly as possible. My wife worries when I'm <mark>away<\/mark>.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "away",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...Gorgoth. Once when at play he had pushed a bully <mark>away<\/mark> who was trying to hurt her, and the look of appreciation...",
+            "fid" : "content" } ] } ] }

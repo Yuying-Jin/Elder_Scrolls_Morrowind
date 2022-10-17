@@ -1,0 +1,26 @@
+
+  { "stem" : "popul",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "population",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...recently open to settlement and trade, most of the island's <mark>population<\/mark> is confined to the relatively hospitable west and southwest coast,...",
+            "fid" : "content" },
+          
+          { "form" : "populated",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...wastes, arid grasslands, and volcanic badlands, and thinly <mark>populated<\/mark> by the nomadic Ashlander tribes.",
+            "fid" : "content" },
+          
+          { "form" : "populated",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...areas of Vivec and Ebonheart of the southern coast are densely <mark>populated<\/mark>; the inland Ascadian Isles are dotted with small farms and...",
+            "fid" : "content" } ] } ] }

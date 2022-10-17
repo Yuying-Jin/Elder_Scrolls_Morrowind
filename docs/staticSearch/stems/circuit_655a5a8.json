@@ -1,0 +1,14 @@
+
+  { "stem" : "circuit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "circuitous",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "...lead northwest to Maar Gan and Gnisis villages and by a <mark>circuitous<\/mark> western route to Caldera, Balmora, and points south....",
+            "fid" : "content" } ] } ] }

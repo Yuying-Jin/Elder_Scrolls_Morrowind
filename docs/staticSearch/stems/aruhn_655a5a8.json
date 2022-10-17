@@ -1,0 +1,141 @@
+
+  { "stem" : "aruhn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 3664,
+            "context" : "Tel <mark>Aruhn<\/mark>" },
+          
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 3919,
+            "context" : "Tel_<mark>Aruhn<\/mark>" },
+          
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 3926,
+            "context" : "Tel_<mark>Aruhn<\/mark>,_Maren_Uvaren:_Enchanter" },
+          
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 3936,
+            "context" : "Tel_<mark>Aruhn<\/mark>,_Tower_Entry" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "aruhn",
+            "weight" : "1",
+            "pos" : 3820,
+            "context" : "tel <mark>aruhn<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "aruhn",
+            "weight" : "1",
+            "pos" : 3838,
+            "context" : "tel <mark>aruhn<\/mark>, maren uvaren: enchanter",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "aruhn",
+            "weight" : "1",
+            "pos" : 3848,
+            "context" : "tel <mark>aruhn<\/mark>, tower entry",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...down. Most locals at the Plot and Plaster cornerclub in Tel <mark>Aruhn<\/mark> knew enough not to listen in, but she knew better than...",
+            "fid" : "content" },
+          
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...-soaked butchers running through the streets. Even in Tel <mark>Aruhn<\/mark>, that's likely to warrant suspicion.",
+            "fid" : "content" },
+          
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 791,
+            "context" : "...dreadful mattress he had to use at the canton in Tel <mark>Aruhn<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 468,
+            "context" : "...Telvanni settlements at Sadrith Mora, the wizard towers at Tel <mark>Aruhn<\/mark>, Tel Mora, and Tel Branora, and Ahemmusa camp...",
+            "fid" : "content" },
+          
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 574,
+            "context" : " Tel <mark>Aruhn<\/mark> is the Telvanni tower of Arch-Mage Gothren, Telvanni...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...Magus of Telvanni Council, Vvardenfell District, Tower of Tel <mark>Aruhn<\/mark>, East Molag Amur, District of Vvardenfell, Province of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "Tel <mark>Aruhn<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "Tel <mark>Aruhn<\/mark>, Tower Entry: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aruhn",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "Tel <mark>Aruhn<\/mark>, Maren Uvaren: Enchanter: Visitable? yes",
+            "fid" : "acq" } ] } ] }

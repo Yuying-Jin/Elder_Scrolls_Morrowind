@@ -1,0 +1,31 @@
+
+  { "stem" : "adapt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "adapted",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...distinctive feature being the colossal prehistoric bug shell that has been <mark>adapted<\/mark> as the house's council house.",
+            "fid" : "content" },
+          
+          { "form" : "adapted",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "..., the Temple, and the noble houses—but has readily <mark>adapted<\/mark> to the rapid pace of change and progress in the Imperial...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "adapt",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...fight among themselves more than against each other, and they cannot <mark>adapt<\/mark> to the ways of the Empire. Ancient and powerful though...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "sap",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sap",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...however, that Argonians can pick the plant and use the <mark>sap<\/mark> derived from its roots as an enhancement to their endurance....",
+            "fid" : "content" } ] } ] }

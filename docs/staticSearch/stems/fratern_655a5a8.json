@@ -1,0 +1,14 @@
+
+  { "stem" : "fratern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fraternity",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : "... In the West, a shadowy <mark>fraternity<\/mark> of vampire hunters is believed to be primarily composed of formerly...",
+            "fid" : "content" } ] } ] }

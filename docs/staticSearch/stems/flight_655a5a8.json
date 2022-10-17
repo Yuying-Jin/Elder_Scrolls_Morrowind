@@ -1,0 +1,14 @@
+
+  { "stem" : "flight",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "flight",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...my Dragon companion. From his lair, we will take <mark>flight<\/mark>. Since the Weir Gate has been taken, teleportation is...",
+            "fid" : "content" } ] } ] }

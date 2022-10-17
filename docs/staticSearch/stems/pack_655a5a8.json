@@ -1,0 +1,36 @@
+
+  { "stem" : "pack",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pack",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...off they dashed in terror. One day they saw a <mark>pack<\/mark> of Nix-hounds ranging about, and in a desperate panic...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "packs",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...proficient at athletics, both to march long distances with heavy <mark>packs<\/mark>, and to advance and maneuver, charge and retreat on...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pack",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...was were he left him, half buried in the sand to <mark>pack<\/mark> his broken bones. One of the crates of moon sugar...",
+            "fid" : "content" } ] } ] }

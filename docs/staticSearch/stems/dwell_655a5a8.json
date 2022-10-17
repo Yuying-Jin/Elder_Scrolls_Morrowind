@@ -1,0 +1,14 @@
+
+  { "stem" : "dwell",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dwellings",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "...and modest decorated exteriors. More modest one-story private <mark>dwellings<\/mark> follow the same plan, except with less decoration. Hlaalu...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "nonexist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nonexistant",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "...and the risk of staining one's clothes with blood is practically <mark>nonexistant<\/mark>.",
+            "fid" : "content" } ] } ] }

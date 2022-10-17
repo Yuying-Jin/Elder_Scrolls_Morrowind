@@ -1,0 +1,802 @@
+
+  { "stem" : "telvanni",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 21,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "Sadrith Mora, <mark>Telvanni<\/mark> Council House, Entry: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "Vivec, <mark>Telvanni<\/mark> Mage: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "Vivec, <mark>Telvanni<\/mark> Tower: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "Want to Become Part of House <mark>Telvanni<\/mark>?",
+            "fid" : "HouseTelvanni" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...of the rabid isolationist and outlander-hating temperament of House <mark>Telvanni<\/mark> wizards often assume it would be impossible to obtain positions in...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...it would be impossible to obtain positions in service to House <mark>Telvanni<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "For example, since the <mark>Telvanni<\/mark> vigorously defend the right to own slaves, and since they...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...Khajiit assume they would not be accepted for service with House <mark>Telvanni<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "Not true. <mark>Telvanni<\/mark> accept all races as candidates for membership.",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "And, since the <mark>Telvanni<\/mark> are ruled by wizard-lord nobles, many assume they...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 232,
+            "context" : "Not true. <mark>Telvanni<\/mark> accept candidates of modest intelligence and willpower.",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "It is true that advancement in <mark>Telvanni<\/mark> ranks depends on high intelligence and willpower, and that candidates...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "But adventurers of all races and abilities who apply to <mark>Telvanni<\/mark> Mouths at the Telvanni Council Hall in Sadrith Mora for acceptance...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...all races and abilities who apply to Telvanni Mouths at the <mark>Telvanni<\/mark> Council Hall in Sadrith Mora for acceptance in House Telvanni can...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...the Telvanni Council Hall in Sadrith Mora for acceptance in House <mark>Telvanni<\/mark> can expect a cordial welcome.",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "(<mark>Telvanni<\/mark> Councilors do not serve on their house councils in person....",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "The truth is that House <mark>Telvanni<\/mark> wizard-lords depend on loyal, well-paid,...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...-paid, skilled retainers for most services. Though House <mark>Telvanni<\/mark> does recruit from their own lower classes, they must go...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "...and specialists they need. And since for political reasons House <mark>Telvanni<\/mark> has chosen to reduce its reliance on Redoran mercenaries for protection...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "Promotion in the ranks of House <mark>Telvanni<\/mark>, however, is very difficult for outsiders. Most disconcerting...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni's",
+            "weight" : "1",
+            "pos" : 361,
+            "context" : "...for outsiders. Most disconcerting for some potential candidates is House <mark>Telvanni's<\/mark> casual acceptance of murder and assassination of rivals as a means...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 15,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : " Sadrith Mora is the district seat of House <mark>Telvanni<\/mark>, and home of the Telvanni Council, though only one...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "...the district seat of House Telvanni, and home of the <mark>Telvanni<\/mark> Council, though only one Telvanni councilor actually lives in Sadrith...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "..., and home of the Telvanni Council, though only one <mark>Telvanni<\/mark> councilor actually lives in Sadrith Mora. Sadrith Mora is an...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...traders, and trainers, but it is open only to <mark>Telvanni<\/mark> retainers; outsiders should confine themselves to the Gateway Inn,...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...small slave market. North of the Great Market is the <mark>Telvanni<\/mark> Council Hall, a large orb supported by giant mushroom stalks...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...is Tel Naga, the towering wizard-tower residence of <mark>Telvanni<\/mark> Councilor Mage-Lord Master Neloth.",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...Members of the Thieves Guild congregate at Dirty Muriel's Cornerclub. <mark>Telvanni<\/mark> Great House and Tribunal Temple services are all housed within the...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...Temple services are all housed within the Council Hall; additional <mark>Telvanni<\/mark> services are available in the Great Market district and in Tel...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "..., and Imperial cults look for hospitality at Wolverine Hall. <mark>Telvanni<\/mark> kin and retainers stay at the Gateway, at Wolverine Hall...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : " If you're not <mark>Telvanni<\/mark> or Telvanni retainers, you'll want to know Angaredhel, Prefect...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : " If you're not Telvanni or <mark>Telvanni<\/mark> retainers, you'll want to know Angaredhel, Prefect of Hospitality...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...Guild Boss, makes frequent appearances at Dirty Muriel's Cornerclub. <mark>Telvanni<\/mark> wizards and retainers visit the Council Hall to confer with the...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "...wizards and retainers visit the Council Hall to confer with the <mark>Telvanni<\/mark> Mouths (Telvanni Mouths are spokesmen for their councilor mage-...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "...visit the Council Hall to confer with the Telvanni Mouths (<mark>Telvanni<\/mark> Mouths are spokesmen for their councilor mage-lords) Felisa...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "..., Mallam Ryon, Raven Omayn, and Dalyne Arvel, <mark>Telvanni<\/mark> Council clerk. Councilor Mage-Lord Master Neloth lives in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 15,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 461,
+            "context" : "...uninhabited, except for the outpost at Molag Mar, the <mark>Telvanni<\/mark> settlements at Sadrith Mora, the wizard towers at Tel Aruhn...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 500,
+            "context" : " Sadrith Mora is the district seat of House <mark>Telvanni<\/mark>, and home of the Telvanni Council, though only one...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 502,
+            "context" : "...the district seat of House Telvanni, and home of the <mark>Telvanni<\/mark> Council, though only one Telvanni councilor actually lives in Sadrith...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 506,
+            "context" : "..., and home of the Telvanni Council, though only one <mark>Telvanni<\/mark> councilor actually lives in Sadrith Mora. Sadrith Mora is an...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 524,
+            "context" : "..., with many services, but it is open only to <mark>Telvanni<\/mark> retainers; outsiders must confine themselves to the Gateway Inn....",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 536,
+            "context" : " Tel Branora is the tower and seat of the eccentric <mark>Telvanni<\/mark> wizard named Therana. The tower and its tiny village are...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 552,
+            "context" : " Tel Fyr is the <mark>Telvanni<\/mark> tower of Sorcerer-Lord Divayth Fyr. Beneath the tower...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 575,
+            "context" : " Tel Aruhn is the <mark>Telvanni<\/mark> tower of Arch-Mage Gothren, Telvanni Sorcerer-Lord...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 581,
+            "context" : "...Aruhn is the Telvanni tower of Arch-Mage Gothren, <mark>Telvanni<\/mark> Sorcerer-Lord and head of the Telvanni Council. The...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 586,
+            "context" : "...Mage Gothren, Telvanni Sorcerer-Lord and head of the <mark>Telvanni<\/mark> Council. The associated settlement is a sizable village, and...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 602,
+            "context" : " Tel Mora is the <mark>Telvanni<\/mark> tower of Mistress Dratha, an ancient wizard of the Telvanni...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 608,
+            "context" : "...Telvanni tower of Mistress Dratha, an ancient wizard of the <mark>Telvanni<\/mark> Council. The small settlement includes a few craftsfolk and a...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 618,
+            "context" : " Tel Vos is the tower of <mark>Telvanni<\/mark> wizard and council member Master Aryon. Tel Vos is a...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 628,
+            "context" : "...member Master Aryon. Tel Vos is a peculiar blend of <mark>Telvanni<\/mark> and Western architectural styles, and is close to Vos village...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 652,
+            "context" : "...Coast. The site has a nasty reputation, and several <mark>Telvanni<\/mark> wizards currently have competing camps of hirelings and adventurers exploring and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "  Councilors of House <mark>Telvanni<\/mark>, Vvardenfell District, Imperial Era 426 Archmagister Gothren, Lord...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "..., Imperial Era 426 Archmagister Gothren, Lord High Magus of <mark>Telvanni<\/mark> Council, Vvardenfell District, Tower of Tel Aruhn, East...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...Vvardenfell, Province of Morrowind Master Aryon, Mage Lord of <mark>Telvanni<\/mark> Council, Vvardenfell District, Tower of Tel Vos, Village...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...Vvardenfell, Province of Morrowind Master Neloth, Mage Lord of <mark>Telvanni<\/mark> Council, Vvardenfell District, Tower of Tel Naga, Sadrith...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...Vvardenfell, Province of Morrowind Mistress Dratha, Mage Lord of <mark>Telvanni<\/mark> Council, Vvardenfell District, Tower of Tel Mora, The...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...Vvardenfell, Province of Morrowind Mistress Therana, Mage Lord of <mark>Telvanni<\/mark> Council, Vvardenfell District, Tower of Tel Branora, Azura's...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...District of Vvardenfell, Province of Morrowind Councilor Representatives of House <mark>Telvanni<\/mark>, Council Hall, Sadrith Mora For Archmagister Gothren: Mouth...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...from Duke Dren and representative of the other Great Houses, <mark>Telvanni<\/mark> Council reminded them that, according to ancient law and custom,...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...Council reminded them that, according to ancient law and custom, <mark>Telvanni<\/mark> Council places no constraint on the ambitions and enterprise of its...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : ".... If the Empire or other House Councils wish to dispute <mark>Telvanni<\/mark> exploration and colonization of the wastes and wildernesses of Vvardenfell,...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...welcome to do so, with the Councilors' best wishes, but <mark>Telvanni<\/mark> Council will not contribute its resources or authority to such endeavors...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...by the terms of the Treaty of the Armistice, and <mark>Telvanni<\/mark> Council will not entertain any discussion of abridgements of those rights...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 3222,
+            "context" : "Sadrith Mora, <mark>Telvanni<\/mark> Council House Chambers" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 3233,
+            "context" : "Sadrith Mora, <mark>Telvanni<\/mark> Council House, Entry" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 3325,
+            "context" : "Sadrith_Mora,_<mark>Telvanni<\/mark>_Council_House,_Entry" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 4002,
+            "context" : "<mark>Telvanni<\/mark> Council Hall" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 4016,
+            "context" : "<mark>Telvanni<\/mark> Council House" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 4025,
+            "context" : "<mark>Telvanni<\/mark> Council House Chambers" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 4534,
+            "context" : "Vivec, <mark>Telvanni<\/mark> Mage" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 4542,
+            "context" : "Vivec, <mark>Telvanni<\/mark> Tower" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 4586,
+            "context" : "Vivec,_<mark>Telvanni<\/mark>_Tower" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 5055,
+            "context" : "<mark>Telvanni<\/mark> Council" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 5758,
+            "context" : "<mark>Telvanni<\/mark>" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 5785,
+            "context" : "House <mark>Telvanni<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 3462,
+            "context" : "sadrith mora, <mark>telvanni<\/mark> council house chambers",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 3473,
+            "context" : "sadrith mora, <mark>telvanni<\/mark> council house, entry",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 4146,
+            "context" : "<mark>telvanni<\/mark> council hall",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 4160,
+            "context" : "<mark>telvanni<\/mark> council house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 4169,
+            "context" : "<mark>telvanni<\/mark> council house chambers",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 4713,
+            "context" : "vivec, <mark>telvanni<\/mark> mage",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 4721,
+            "context" : "vivec, <mark>telvanni<\/mark> tower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 5201,
+            "context" : "<mark>telvanni<\/mark> council",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 6036,
+            "context" : "<mark>telvanni<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "telvanni",
+            "weight" : "1",
+            "pos" : 6065,
+            "context" : "house <mark>telvanni<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...the bottom, the Hlaalu Compound to the west, the <mark>Telvanni<\/mark> Compound on the east, and four cantons grouped together at...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : " <mark>Telvanni<\/mark> Compound",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 347,
+            "context" : " <mark>Telvanni<\/mark> Compound is the eastmost canton. The mage-lord Mavon...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 357,
+            "context" : "...canton. The mage-lord Mavon Drenim is the ranking <mark>Telvanni<\/mark> noble. The Telvanni rent the compound from the Temple,...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 359,
+            "context" : "...-lord Mavon Drenim is the ranking Telvanni noble. The <mark>Telvanni<\/mark> rent the compound from the Temple, and have to make...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 393,
+            "context" : "...and trainers, and the Lizard's Head cornerclub provides lodgings for <mark>Telvanni<\/mark> kin and mercenaries.",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 452,
+            "context" : "...Compound lies between the Redoran compound on the west and the <mark>Telvanni<\/mark> compound on the east. The Arena is the site of...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 546,
+            "context" : "...the Foreign Quarter, and between the east bay region and <mark>Telvanni<\/mark> Compound. Good roads lead from the Hlaalu Compound bridge south...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 581,
+            "context" : "...Isles, and east towards Molag Mar. Roads from the <mark>Telvanni<\/mark> Compound bridge are useful mostly for travelers to Molag Mar....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "...five Great Houses: House Hlaalu, House Redoran, House <mark>Telvanni<\/mark>, House Indoril, and House Dres. Only three of...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...red for Redoran, yellow for Hlaalu, and brown for <mark>Telvanni<\/mark>. Thus, members of House Hlaalu may be referred to...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "The wizard-lords of House <mark>Telvanni<\/mark> have traditionally isolated themselves, pursuing wisdom and mastery in solitude....",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "...towers and bases all along the eastern coast. According to <mark>Telvanni<\/mark> principles, the powerful define the standards of virtue, and...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 392,
+            "context" : "..., the powerful define the standards of virtue, and the <mark>Telvanni<\/mark> are unwilling to allow the ambitious Hlaalu to dominate Vvardenfell's untapped...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 402,
+            "context" : "...the ambitious Hlaalu to dominate Vvardenfell's untapped resources by default. <mark>Telvanni<\/mark> architecture is dominated by the wizards' tower, a fantastic organic...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 421,
+            "context" : "...and root-like holdfasts of the giant native mushrooms. <mark>Telvanni<\/mark> villages are comprised of smaller mushroom pods hollowed out for craftsmen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : ".... For months now, he had been struggling with his fellow <mark>Telvanni<\/mark> Councilor, Master Neloth. Recently he always found himself on...",
+            "fid" : "HouseTelvanni" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "\"It was high, but the surface of these <mark>Telvanni<\/mark> mushrooms is practically a ladder to someone of Master Senyndie's skills...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 582,
+            "context" : "...will be honored guests with every luxury the Archmagister of House <mark>Telvanni<\/mark> can afford.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "..., they will find themselves indebted to us. The House <mark>Telvanni<\/mark> may know many arcane secrets, but they fight among themselves...",
+            "fid" : "content" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...the ways of the Empire. Ancient and powerful though a <mark>Telvanni<\/mark> wizard may be, no individual can withstand the march of history...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "Sadrith Mora, <mark>Telvanni<\/mark> Council House, Entry: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "Vivec, <mark>Telvanni<\/mark> Tower: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "<mark>Telvanni<\/mark> Council House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Sadrith Mora, <mark>Telvanni<\/mark> Council House Chambers: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...Wolverine Hall: Sadrith Mora Fighters Guild under lease from the <mark>Telvanni<\/mark> Council. The chapter in Vivec is established in the Foreign...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 687,
+            "context" : "...Ashlanders, and of the impious and inhumane practices of the <mark>Telvanni<\/mark>. The Imperial cult especially disapproves of the practice of slavery...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : " Once upon a time, a <mark>Telvanni<\/mark> issued forth from his tower and proclaimed to all the world...",
+            "fid" : "HouseTelvanni" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : " <mark>Telvanni<\/mark> Council House Chambers: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...of the Temple and Great Houses Hlaalu, Redoran, and <mark>Telvanni<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Telvanni",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "The Real Nerevar: A <mark>Telvanni<\/mark> retainer's informal history of Nerevar",
+            "fid" : "Telvanni" } ] } ] }

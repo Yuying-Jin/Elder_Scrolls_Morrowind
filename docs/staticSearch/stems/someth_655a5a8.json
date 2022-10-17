@@ -1,0 +1,37 @@
+
+  { "stem" : "someth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "something",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...it insults the shop-keeper. If you are offered <mark>something<\/mark> for ten gold pieces, try offering six and see where...",
+            "fid" : "content" },
+          
+          { "form" : "something",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...follow you around the shop, assuming you're going to steal <mark>something<\/mark>. Similarly, Nords, Bretons, and Cyrodiils are sometimes...",
+            "fid" : "content" },
+          
+          { "form" : "something",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : " If you see <mark>something<\/mark> you really like or need, buy it then and there...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "something",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...join the Guild. Make friends. Be a part of <mark>something<\/mark>.\"",
+            "fid" : "content" } ] } ] }

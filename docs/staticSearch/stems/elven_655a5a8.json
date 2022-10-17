@@ -1,0 +1,37 @@
+
+  { "stem" : "elven",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Elven",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...Great House services. There are two public houses: the <mark>Elven<\/mark> Nations and the No Name Club. A variety of craftsmen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Elven",
+            "weight" : "1",
+            "pos" : 5559,
+            "context" : "<mark>Elven<\/mark> Nations" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "elven",
+            "weight" : "1",
+            "pos" : 5801,
+            "context" : "<mark>elven<\/mark> nations",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

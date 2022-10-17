@@ -1,0 +1,159 @@
+
+  { "stem" : "glove",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 11,
+        "contexts" : 
+        [ 
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "The Black <mark>Glove<\/mark>" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 1081,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 1430,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 3424,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 3454,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 4091,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 4542,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 4606,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 6140,
+            "context" : "The Black <mark>Glove<\/mark>, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 6746,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 7004,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 908,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 1265,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 3297,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 3319,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 3988,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 4554,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 4596,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 5555,
+            "context" : "The Black <mark>Glove<\/mark>, count: 2" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 6645,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
+          
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 6882,
+            "context" : "The Black <mark>Glove<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Glove",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "...Then, perhaps, your oath and service may please the Black <mark>Glove<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,58 @@
+
+  { "stem" : "explain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "explain",
+            "weight" : "1",
+            "pos" : 424,
+            "context" : "...is true in Thras as well. If so, it would <mark>explain<\/mark> the number of slaves that are purchased in Tear by Sload...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "explained",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "...the old man shared his knowledge of the spell. He <mark>explained<\/mark> what it truly meant to bend sound, creating a cone...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "explaining",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...having no other prospects, the old woman sent Baranat off, <mark>explaining<\/mark> that the four brothers' camp was to the north. In...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "explain",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "\"Why don't you <mark>explain<\/mark> specifically what you'd like us to do?\" asked Galsiah calmly,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "explained",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...of Vivec, even if they are not explicitly described and <mark>explained<\/mark> in Temple doctrine.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "quit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quite",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "...Marsh. The fronds from this plant are light green and <mark>quite<\/mark> delicate. Picking a frond can be very difficult, but...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quite",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "...a violin. It requires little effort, and while there's <mark>quite<\/mark> a bit of blood, it all jets forward away from...",
+            "fid" : "content" } ] } ] }

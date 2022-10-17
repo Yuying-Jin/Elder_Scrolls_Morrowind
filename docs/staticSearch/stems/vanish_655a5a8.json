@@ -1,0 +1,14 @@
+
+  { "stem" : "vanish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vanished",
+            "weight" : "1",
+            "pos" : 555,
+            "context" : "...sewer system, Lledos, slipped in through a duct and <mark>vanished<\/mark> below. Galsiah threw on her shawl, muddied her face to...",
+            "fid" : "content" } ] } ] }

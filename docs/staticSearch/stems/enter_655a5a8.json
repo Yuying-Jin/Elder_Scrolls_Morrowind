@@ -1,0 +1,86 @@
+
+  { "stem" : "enter",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "entered",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "...was a lowly man such as yourselves. By my will I <mark>entered<\/mark> the ranks of the gods. By your unquestioning devotion,...",
+            "fid" : "content" },
+          
+          { "form" : "entered",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "He was also a man who <mark>entered<\/mark> the ranks of the gods. The similarities between his mortal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enters",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "...mindedness, who aren't alerted when a Khajiit or a Bosmer <mark>enters<\/mark> their shop. Even Khajiiti and Bosmeri shopkeepers. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "entered",
+            "weight" : "1",
+            "pos" : 369,
+            "context" : "...ambitious wizards-lords, their retainers, and clients have <mark>entered<\/mark> whole-heartedly into the competition to control and exploit Vvardenfell's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enter",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...to the north. Originally, foreigners were not allowed to <mark>enter<\/mark> Vivec any further than the Foreign Quarter, but now outlanders...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enter",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "To make your oath and <mark>enter<\/mark> our service, the worthy must seek the Grandmaster, who...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Enter",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "<mark>Enter<\/mark> the rhapsody of the God-Poet.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "entered",
+            "weight" : "1",
+            "pos" : 499,
+            "context" : "They left the guildhouse an hour after they <mark>entered<\/mark>. No alarm had been raised, the gold was gone...",
+            "fid" : "content" } ] } ] }

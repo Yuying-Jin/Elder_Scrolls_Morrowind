@@ -1,0 +1,25 @@
+
+  { "stem" : "demon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "demons",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...undead, the arrogant princes of necromancers, the ancient vampire <mark>demons<\/mark> who creep from their lairs in the West, seeking refuge...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "demon",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "As known in the West, Mephala is the <mark>demon<\/mark> of murder, sex, and secrets. All of these...",
+            "fid" : "content" } ] } ] }

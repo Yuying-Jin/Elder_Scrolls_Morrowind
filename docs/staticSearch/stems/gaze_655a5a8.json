@@ -1,0 +1,14 @@
+
+  { "stem" : "gaze",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gazed",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...my bowels inside out. I awoke before the altar, and <mark>gazed<\/mark> in the reflection of my own sword blade at my own...",
+            "fid" : "content" } ] } ] }

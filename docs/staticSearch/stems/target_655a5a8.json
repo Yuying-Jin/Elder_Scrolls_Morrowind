@@ -1,0 +1,37 @@
+
+  { "stem" : "target",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "target's",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...\"The trick as I've heard it is to anticipate where your <mark>target's<\/mark> going to go and aim your spear there, not where they...",
+            "fid" : "content" },
+          
+          { "form" : "target's",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "...\"Like you said, the trick is to anticipate where your <mark>target's<\/mark> going to go and aim your spear there.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "target",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...his dagger in his opponent's back. This may slay the <mark>target<\/mark>, but more often gives him time to scream and drenches...",
+            "fid" : "content" },
+          
+          { "form" : "targets",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...or two victims, nothing beats throwing a sack over the <mark>targets<\/mark> [sic] head, drawing the string tight, and...",
+            "fid" : "content" } ] } ] }

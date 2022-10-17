@@ -1,0 +1,59 @@
+
+  { "stem" : "featur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "feature",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "...the Redoran district seat, is exceptional, with its distinctive <mark>feature<\/mark> being the colossal prehistoric bug shell that has been adapted as...",
+            "fid" : "content" },
+          
+          { "form" : "featuring",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...as simple multi-storied buildings roughly rectangular in plan, <mark>featuring<\/mark> arched entranceways and modest decorated exteriors. More modest one-...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "features",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...geographic regions, each with their own distinctive plants and terrain <mark>features<\/mark>. Scholars have based their classifications on the different types of...",
+            "fid" : "content" },
+          
+          { "form" : "feature",
+            "weight" : "1",
+            "pos" : 967,
+            "context" : " The dominant <mark>feature<\/mark> of Vvardenfell, Red Mountain, is a vast volcano in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "feature",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : " Ald'ruhn-under-Skar is the most distinctive architectural <mark>feature<\/mark> of Ald'ruhn -- a manor and council district sheltered beneath the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "features",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "...differ greatly in their approach to prey. The Quarra bloodline <mark>features<\/mark> exceptional strength and endurance, and attacks in a state of...",
+            "fid" : "content" } ] } ] }

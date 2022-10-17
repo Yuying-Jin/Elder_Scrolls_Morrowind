@@ -1,0 +1,14 @@
+
+  { "stem" : "ate",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ate",
+            "weight" : "1",
+            "pos" : 291,
+            "context" : "...to spear a fish. The men tore it apart and <mark>ate<\/mark> it raw. As the days and weeks went by, Harithoel...",
+            "fid" : "content" } ] } ] }

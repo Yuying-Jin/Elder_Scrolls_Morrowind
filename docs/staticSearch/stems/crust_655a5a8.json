@@ -1,0 +1,26 @@
+
+  { "stem" : "crust",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "crust",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "1 pie <mark>crust<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "crust",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...Scuttle has melted, pour from the pan into the pie <mark>crust<\/mark>. Sprinkle with ash salts and cover the pie crust....",
+            "fid" : "content" },
+          
+          { "form" : "crust",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...pie crust. Sprinkle with ash salts and cover the pie <mark>crust<\/mark>. Bake for one quarter hour in a hot oven....",
+            "fid" : "content" } ] } ] }

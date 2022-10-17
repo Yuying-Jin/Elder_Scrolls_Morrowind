@@ -1,0 +1,36 @@
+
+  { "stem" : "familiar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "familiar",
+            "weight" : "1",
+            "pos" : 381,
+            "context" : "\"She scaled it?\" asked Gothren, who was <mark>familiar<\/mark> with the tower.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "familiar",
+            "weight" : "1",
+            "pos" : 694,
+            "context" : "..., or Master Vomph,\" replied a feminine voice that seemed <mark>familiar<\/mark> to Oin. \"I will have to invent a new test...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "familiar",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...King and Warrior-Poet is the one most accessible and <mark>familiar<\/mark> to Westerners. However, it is important to remember that...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "wealth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wealth",
+            "weight" : "1",
+            "pos" : 535,
+            "context" : "...in persuasion and mercantile matters. Also, almoners with personal <mark>wealth<\/mark> are in a position to better serve the cult. Those...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wealth",
+            "weight" : "1",
+            "pos" : 643,
+            "context" : "...wouldn't therefore be looking for a Dunmer named Sathis celebrating his <mark>wealth<\/mark> miles and miles away in Vivec.",
+            "fid" : "content" } ] } ] }

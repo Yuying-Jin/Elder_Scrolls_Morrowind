@@ -1,0 +1,25 @@
+
+  { "stem" : "merchandis",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "merchandise",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...easily fooled, or the rapacious city merchant is selling shoddy <mark>merchandise<\/mark>. Caravans, it should be mentioned, are always good...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "merchandise",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "\"You're sampling the <mark>merchandise<\/mark>?\" asked Harithoel angrily.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "fall",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "falls",
+            "weight" : "1",
+            "pos" : 1008,
+            "context" : "...broken only at Ghostgate. Within the Ghostfence, rain never <mark>falls<\/mark> and the sun never shines; the only weather is the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "falls",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "If a Wood Elf mime <mark>falls<\/mark> in a forest, who cares?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "falling",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "...6th moon ....... \"Alas, the Battlespire appears to be <mark>falling<\/mark> into the hands of evil. Their many attempts in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fall",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "As spring turned into summer and summer into <mark>fall<\/mark>, Oin began to sell his herbs, including some to...",
+            "fid" : "content" } ] } ] }

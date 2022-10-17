@@ -1,0 +1,125 @@
+
+  { "stem" : "strong",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...Divines, the faithful must cultivate a noble personality and a <mark>strong<\/mark> will. Respect the magical arts, especially the colleges of Restoration...",
+            "fid" : "content" },
+          
+          { "form" : "strongly",
+            "weight" : "1",
+            "pos" : 645,
+            "context" : "...have a friendly and supportive relationship with House Hlaalu, which <mark>strongly<\/mark> supports the Emperor and Imperial principles. Though we cannot condone...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "Nordic hero-cults provide a <mark>strong<\/mark> counter-current to the dominant secularism of the Empire....",
+            "fid" : "content" },
+          
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...colonists, and recently assimilated foreigners, the cult is particularly <mark>strong<\/mark> and personal.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...a fresh supply of corpses, most of them young, <mark>strong<\/mark>, and intact.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : " The Guild selects candidates who are <mark>strong<\/mark> and healthy. A candidate must have some proficiency with long...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...Fort is the Imperial legion garrison for the district. The <mark>strong<\/mark> walls and towers of this Western fortress lies a short distance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...the revenant's former life, and may therefore be weak or <mark>strong<\/mark>, or more or less capable with weapons and shields....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...the revenant's former life, and may therefore be weak or <mark>strong<\/mark>, or more or less capable with weapons and shields....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Strong",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "\"Horath the <mark>Strong<\/mark>,\" replied Yakin. \"It is said that he can lift...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...who not only was as fast as Vanis, but so <mark>strong<\/mark>, he could rip a trama shrub up by the roots...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strong",
+            "weight" : "1",
+            "pos" : 857,
+            "context" : "A <mark>strong<\/mark>, feminine hand clamped over the mouth and a thumb jabbed...",
+            "fid" : "content" } ] } ] }

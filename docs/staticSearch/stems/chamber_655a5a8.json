@@ -1,0 +1,137 @@
+
+  { "stem" : "chamber",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Chambers",
+            "weight" : "1",
+            "pos" : 3225,
+            "context" : "Sadrith Mora, Telvanni Council House <mark>Chambers<\/mark>" },
+          
+          { "form" : "Chamber",
+            "weight" : "1",
+            "pos" : 3703,
+            "context" : "Tel Branora, Therana's <mark>Chamber<\/mark>" },
+          
+          { "form" : "Chambers",
+            "weight" : "1",
+            "pos" : 4028,
+            "context" : "Telvanni Council House <mark>Chambers<\/mark>" },
+          
+          { "form" : "Chamber",
+            "weight" : "1",
+            "pos" : 5021,
+            "context" : "Redoran Council <mark>Chamber<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "chambers",
+            "weight" : "1",
+            "pos" : 3465,
+            "context" : "sadrith mora, telvanni council house <mark>chambers<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "chamber",
+            "weight" : "1",
+            "pos" : 3900,
+            "context" : "tel branora, therana's <mark>chamber<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "chambers",
+            "weight" : "1",
+            "pos" : 4172,
+            "context" : "telvanni council house <mark>chambers<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "chamber",
+            "weight" : "1",
+            "pos" : 5167,
+            "context" : "redoran council <mark>chamber<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "chambers",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : ".... Also located at Castle Ebonheart are the Vvardenfell District Council <mark>chambers<\/mark> and the Hawk Moth Legion garrison. The officers, docks...",
+            "fid" : "content" },
+          
+          { "form" : "Chamber",
+            "weight" : "1",
+            "pos" : 1167,
+            "context" : "...House Redoran, and a large settlement. The Redoran Council <mark>Chamber<\/mark> are located inside the shell of an ancient extinct giant crab...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Chambers",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Sadrith Mora, Telvanni Council House <mark>Chambers<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Chambers",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...at Moonmoth Legion Fort, Ruccia Conician in the Grand Council <mark>Chambers<\/mark> in Ebonheart, or Lalatia Varian in the Imperial Chapels at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chambers",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...dome, from which radiate the entrances to the Redoran Council <mark>chambers<\/mark>, the manors of the Redoran councilors, and shops of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Chambers",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : " Telvanni Council House <mark>Chambers<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Chamber",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "Tel Branora, Therana's <mark>Chamber<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

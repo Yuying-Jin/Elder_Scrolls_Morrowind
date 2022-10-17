@@ -1,0 +1,403 @@
+
+  { "stem" : "ashland",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 20,
+        "contexts" : 
+        [ 
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "..., and volcanic badlands, and thinly populated by the nomadic <mark>Ashlander<\/mark> tribes.",
+            "fid" : "Ashlander" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...classifications on the different types of land described by the native <mark>Ashlanders<\/mark>, so the designations are recognized by most local traders,...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...These geographic regions are called: the Ascadian Isles, the <mark>Ashlands<\/mark>, Azura's Coast, the Bitter Coast, the Grazelands,...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 360,
+            "context" : " The <mark>Ashlands<\/mark>",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 361,
+            "context" : " The <mark>Ashlands<\/mark> are the dry, inhospitable wastelands surrounding the lower slopes of...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "...inhospitable wastelands surrounding the lower slopes of Red Mountain. The <mark>Ashlands<\/mark> extend to the Sea of Ghosts in the north, and...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 390,
+            "context" : ".... The village of Maar Gan is the only sizable permanent <mark>Ashlands<\/mark> settlement; Ald'ruhn, the district seat of House Redoran,...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 399,
+            "context" : "...House Redoran, is on the margin of the region. <mark>Ashlanders<\/mark> hunt for game here, and their herds find sparse grazing....",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : " The <mark>Ashlanders<\/mark> Urshilaku tribe has a permanent settlement at Urshilaku camp in the...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 435,
+            "context" : "...Urshilaku tribe has a permanent settlement at Urshilaku camp in the <mark>Ashlands<\/mark> region north of Maar Gan village.",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 671,
+            "context" : " The <mark>Ashlander<\/mark> Ahemmusa tribe has a permanent settlement at Ahemmusa camp on a...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 815,
+            "context" : "...and dark soils of the Grazelands produce the rich grazing for <mark>Ashlander<\/mark> herds that give the region its name. The region lies...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 825,
+            "context" : "...region lies in the northeast of Vvardenfell, sandwiched between the <mark>Ashlands<\/mark> and Azura's Coast. Permanent settlements include Vos village and the...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 838,
+            "context" : "...and the towers of Tel Vos and Tel Fyr. The <mark>Ashlanders<\/mark> of Zainab camp move their herds across the plains in search...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 855,
+            "context" : " The <mark>Ashlander<\/mark> Zainab tribe has a permanent settlement at Zainab camp, near...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 898,
+            "context" : "...wilderness, and is complicated by frequent ash storms. The <mark>Ashlanders<\/mark> of Erabenimsun camp hunt game here, but few others venture into...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 916,
+            "context" : "...called the Great Scathes, is considered impassible even by the <mark>Ashlanders<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 949,
+            "context" : " The <mark>Ashlander<\/mark> Erabenimsun tribe has a permanent settlement at Erabenimsun camp, an...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 1077,
+            "context" : "...where the region is sandwiched between the Bitter Coast and the <mark>Ashlands<\/mark>. The trading village of Gnisis is north of Ald'ruhn,...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 1097,
+            "context" : "...town of Caldera lies near Balmora. The herds of the <mark>Ashlanders<\/mark> of Urshilaku camp graze on the sparse but hardy highland vegetation...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "<mark>Ashland<\/mark> Hymns" },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 832,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 901,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "ashland",
+            "weight" : "1",
+            "pos" : 1205,
+            "context" : "<mark>ashland<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "ashlands",
+            "weight" : "1",
+            "pos" : 1211,
+            "context" : "<mark>ashlands<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 2387,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 4466,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "ashlander",
+            "weight" : "1",
+            "pos" : 5002,
+            "context" : "<mark>ashlander<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "ashlanders",
+            "weight" : "1",
+            "pos" : 5035,
+            "context" : "<mark>ashlanders<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 6491,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 655,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1" },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 738,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1" },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 1035,
+            "context" : "<mark>Ashland<\/mark>" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 1041,
+            "context" : "<mark>Ashlands<\/mark>" },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 2219,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1" },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 4327,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 4879,
+            "context" : "<mark>Ashlander<\/mark>" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 4912,
+            "context" : "<mark>Ashlanders<\/mark>" },
+          
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 6408,
+            "context" : "<mark>Ashland<\/mark> Hymns, count: 1" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "<mark>Ashlander<\/mark> tradition does not place the Tribunal at Red Mountain, and...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...that the Dwemer destroyed themselves, rather than that Nerevar destroyed them. <mark>Ashlander<\/mark> tradition further holds that Nerevar left Dagoth Ur guarding the profane...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...at the conference [not of his wounds, according to the <mark>Ashlanders<\/mark>, but from treachery], and that subsequently the Tribunal confronted...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...of the elements of Fundamentalist Ancestor Worship as practiced by the <mark>Ashlanders<\/mark> and by Saint Veloth. Exactly how this would work is...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...or false insights. They have studied the mysticism of the <mark>Ashlander<\/mark> Ancestor Cults, in particular the rites of the Ashlander seers...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...the Ashlander Ancestor Cults, in particular the rites of the <mark>Ashlander<\/mark> seers and wise women, and the prophecies of the Incarnate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "<mark>Ashlander<\/mark> tradition does not place the Tribunal at Red Mountain, and...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...that the Dwemer destroyed themselves, rather than that Nerevar destroyed them. <mark>Ashlander<\/mark> tradition further holds that Nerevar left Dagoth Ur guarding the profane...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...at the conference [not of his wounds, according to the <mark>Ashlanders<\/mark>, but from treachery], and that subsequently the Tribunal confronted...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...of the elements of Fundamentalist Ancestor Worship as practiced by the <mark>Ashlanders<\/mark> and by Saint Veloth. Exactly how this would work is...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...or false insights. They have studied the mysticism of the <mark>Ashlander<\/mark> Ancestor Cults, in particular the rites of the Ashlander seers...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...the Ashlander Ancestor Cults, in particular the rites of the <mark>Ashlander<\/mark> seers and wise women, and the prophecies of the Incarnate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Ashland",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...the Grazelands and on Azura's Coast. wickwheat is a wild <mark>Ashland<\/mark> grain that grows in the Grazelands. Corkbulb grows best in...",
+            "fid" : "content" },
+          
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...bitter-tasting root of the trama shrub grows in the <mark>Ashlands<\/mark>, Molag Amur, and Red Mountain regions. racer plumes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 84,
+            "context" : ".... Most will assume the slave escaped or died in the <mark>Ashlands<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ashlanders",
+            "weight" : "1",
+            "pos" : 683,
+            "context" : " We disapprove of the primitive heathen beliefs of the <mark>Ashlanders<\/mark>, and of the impious and inhumane practices of the Telvanni...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ashlands",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...of Redoran Council, Vvardenfell District, Lord of The northern <mark>Ashlands<\/mark>, of Llethri Manor, Manor District, Ald'ruhn, District...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ashlander",
+            "weight" : "1",
+            "pos" : 323,
+            "context" : "...of Dunmer heroes and generals. The story is derived from <mark>Ashlander<\/mark> oral tradition, and is flatly contradicted by all Temple traditions...",
+            "fid" : "content" } ] } ] }

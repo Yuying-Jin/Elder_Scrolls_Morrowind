@@ -1,0 +1,59 @@
+
+  { "stem" : "daedric",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Daedric",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : " Ald Sotha is a splendid <mark>Daedric<\/mark> ruin within sight of Vivec City. Though exotic and picturesque...",
+            "fid" : "content" },
+          
+          { "form" : "Daedric",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "..., haunted by old magics, dark cultists, and their <mark>Daedric<\/mark> summonings, and not recommended for sightseers.",
+            "fid" : "content" },
+          
+          { "form" : "Daedric",
+            "weight" : "1",
+            "pos" : 668,
+            "context" : "...that Bal Fell was built on the site of an ancient <mark>Daedric<\/mark> worship center.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daedric",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...from their lairs in the West, seeking refuge in profane <mark>Daedric<\/mark> shrines, abandoned Dunmer Strongholds, and corrupted subterranean labyrinths of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daedric",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...to receive Vivec's favor. Many choice treasures are guarded by <mark>Daedric<\/mark> servants in the Puzzle Canal's dark passages.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Daedric",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...the Dremora, the most honorable and chivalrous of Mehrunes Dagon's <mark>Daedric<\/mark> servants, that they now share a bond of respect and...",
+            "fid" : "content" } ] } ] }

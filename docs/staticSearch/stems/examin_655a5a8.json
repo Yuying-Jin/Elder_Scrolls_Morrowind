@@ -1,0 +1,59 @@
+
+  { "stem" : "examin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "examine",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "\"The Test of Pattern requires the observer to <mark>examine<\/mark> and analyze for patterns before he acts, with the understanding...",
+            "fid" : "content" },
+          
+          { "form" : "examine",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "\"The Test of Evasion requires the observer to <mark>examine<\/mark> the obstacle, and compare his resources and abilities; if...",
+            "fid" : "content" },
+          
+          { "form" : "examine",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "\"The Test ofConfrontation requires the observer to <mark>examine<\/mark> the obstacle, and compare his resources and abilities; if...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "examination",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...must present themselves to the Steward of the Guild Hall for <mark>examination<\/mark> and approval. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "examination",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...victors in the race for success? Then submit yourself for <mark>examination<\/mark> at the Balmora Council Manor. If you have the skills...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "examined",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...no effect on these creatures. No specimen has ever been <mark>examined<\/mark>, and no references have ever linked these legends with the...",
+            "fid" : "content" } ] } ] }

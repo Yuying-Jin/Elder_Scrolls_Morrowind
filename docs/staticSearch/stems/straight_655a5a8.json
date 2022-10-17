@@ -1,0 +1,20 @@
+
+  { "stem" : "straight",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...his small knife to whittle a point on a long, <mark>straight<\/mark> tree branch until he had fashioned a spear. Again and...",
+            "fid" : "content" },
+          
+          { "form" : "straight",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : "...a little longer. Why can't the little fechers swim in <mark>straight<\/mark> lines?\"",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,180 @@
+
+  { "stem" : "kagrenac",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 2360,
+            "context" : "<mark>Kagrenac's<\/mark> Library" },
+          
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 2383,
+            "context" : "<mark>Kagrenac's<\/mark> Study" },
+          
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 4209,
+            "context" : "Tureynulal, <mark>Kagrenac's<\/mark> Library" },
+          
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 4222,
+            "context" : "Tureynulal,_<mark>Kagrenac's<\/mark>_Library" },
+          
+          { "form" : "Kagrenac",
+            "weight" : "1",
+            "pos" : 6753,
+            "context" : "<mark>Kagrenac<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "kagrenac's",
+            "weight" : "1",
+            "pos" : 2526,
+            "context" : "<mark>kagrenac's<\/mark> library",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "kagrenac's",
+            "weight" : "1",
+            "pos" : 2552,
+            "context" : "<mark>kagrenac's<\/mark> study",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "kagrenac's",
+            "weight" : "1",
+            "pos" : 4355,
+            "context" : "tureynulal, <mark>kagrenac's<\/mark> library",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "kagrenac",
+            "weight" : "1",
+            "pos" : 6866,
+            "context" : "<mark>kagrenac<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...devices were the ones originally created by the ungodly Dwemer sorceror <mark>Kagrenac<\/mark> to create the False Construct Numidium.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...devices were the ones originally created by the ungodly Dwemer sorceror <mark>Kagrenac<\/mark> to create the False Construct Numidium.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Kagrenac's<\/mark> Study: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "Tureynulal, <mark>Kagrenac's<\/mark> Library: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kagrenac's",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "Tureynulal, <mark>Kagrenac's<\/mark> Library: Visitable? yes",
+            "fid" : "acq" } ] } ] }

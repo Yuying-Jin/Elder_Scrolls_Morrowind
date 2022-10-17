@@ -1,0 +1,58 @@
+
+  { "stem" : "greater",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greater",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...plane. All bonewalkers are malevolent and dangerous, but the <mark>greater<\/mark> bonewalkers are far worse than the more common 'lesser' bonewalkers....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greater",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...but shall know and give thanks for my place in the <mark>greater<\/mark> world.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greater",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...plane. All bonewalkers are malevolent and dangerous, but the <mark>greater<\/mark> bonewalkers are far worse than the more common 'lesser' bonewalkers....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greater",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...as collected by the scholars of St Rilms, to the <mark>greater<\/mark> glory of the Tribunal, Almsivi!",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greater",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "St. Felms grants Felms' Glory, for <mark>greater<\/mark> skill in restoring magics.",
+            "fid" : "content" } ] } ] }

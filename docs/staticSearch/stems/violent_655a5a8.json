@@ -1,0 +1,58 @@
+
+  { "stem" : "violent",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "violent",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "Smuggling and organized crime have become increasingly aggressive and <mark>violent<\/mark> in the Redoran House Districts. The councilors blame local corruption...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "violently",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "Imalyn sneered, slamming down his flagon of greef <mark>violently<\/mark> on the rough-hewn table. \"B'vek, what do...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "violent",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...The <mark>violent<\/mark> antipathy of Morrowind culture toward necromancy ensures that vampires are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "violent",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...and secrets. All of these themes contain subtle aspects and <mark>violent<\/mark> ones (assassination\/genocide, courtship\/orgy, tact...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "violent",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...pleased to report a reduction in the incidence of theft and <mark>violent<\/mark> crime in the Hlaalu House Districts, thanks to the vigilance...",
+            "fid" : "content" } ] } ] }

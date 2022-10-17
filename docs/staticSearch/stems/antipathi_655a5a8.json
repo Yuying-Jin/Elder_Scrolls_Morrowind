@@ -1,0 +1,14 @@
+
+  { "stem" : "antipathi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "antipathy",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...The violent <mark>antipathy<\/mark> of Morrowind culture toward necromancy ensures that vampires are virtually...",
+            "fid" : "content" } ] } ] }

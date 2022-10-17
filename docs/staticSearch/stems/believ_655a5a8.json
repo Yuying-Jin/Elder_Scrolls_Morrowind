@@ -1,0 +1,132 @@
+
+  { "stem" : "believ",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : "...the Incarnate. Many among the Dissident priests have come to <mark>believe<\/mark> that the Nerevarine prophecies are genuine, and have made a...",
+            "fid" : "content" },
+          
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 363,
+            "context" : "...interests of the Temple or its worshippers. The Dissident priests <mark>believe<\/mark> the Archcanon and Ordinators speak for themselves, not for the Tribunal...",
+            "fid" : "content" },
+          
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 421,
+            "context" : "...file priests honor the best traditions of the Temple, they <mark>believe<\/mark> that many priests in higher ranks are interested more in love...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : "...the Incarnate. Many among the Dissident priests have come to <mark>believe<\/mark> that the Nerevarine prophecies are genuine, and have made a...",
+            "fid" : "content" },
+          
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 363,
+            "context" : "...interests of the Temple or its worshippers. The Dissident priests <mark>believe<\/mark> the Archcanon and Ordinators speak for themselves, not for the Tribunal...",
+            "fid" : "content" },
+          
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 421,
+            "context" : "...file priests honor the best traditions of the Temple, they <mark>believe<\/mark> that many priests in higher ranks are interested more in love...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "believed",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...In the West, a shadowy fraternity of vampire hunters is <mark>believed<\/mark> to be primarily composed of formerly afflicted vampires who have been...",
+            "fid" : "content" },
+          
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "... Though the Dunmer <mark>believe<\/mark> the disease is incurable, a Buoyant Armiger of former years...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "believes",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "The Temple <mark>believes<\/mark> that Almalexia, Vivec, and Sotha Sil were mortal guardians...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "believed",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "Vampires were <mark>believed<\/mark> to be extinct in Morrowind for centuries. Dunmer culture has...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "believe",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...climbing sheer surfaces. You must see her at work to <mark>believe<\/mark> it. She moves vertically like you and I move horizontally.\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "believed",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "Vampires were <mark>believed<\/mark> to be extinct in Morrowind for centuries. Dunmer culture has...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "believed",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...said to produce a nut which is very succulent and is <mark>believed<\/mark> to enhance the strength of the adventurer who is able to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "believes",
+            "weight" : "1",
+            "pos" : 247,
+            "context" : "The Chapel of the Innocent Quarry: Chimere <mark>believes<\/mark> that Dagon had Caecilly Island established as the site of the...",
+            "fid" : "content" } ] } ] }

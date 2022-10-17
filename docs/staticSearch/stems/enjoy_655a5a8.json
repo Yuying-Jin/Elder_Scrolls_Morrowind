@@ -1,0 +1,14 @@
+
+  { "stem" : "enjoy",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enjoying",
+            "weight" : "1",
+            "pos" : 369,
+            "context" : "...left her mouth. Silverthorn smiled and nodded his head, <mark>enjoying<\/mark> the silence. He could have killed Egroamaro without the spell...",
+            "fid" : "content" } ] } ] }

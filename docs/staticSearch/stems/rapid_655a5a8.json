@@ -1,0 +1,25 @@
+
+  { "stem" : "rapid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rapid",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...suitable corpses in Black Marsh is nearly impossible due to their <mark>rapid<\/mark> decay. There are also diseases, Argonian tribesmen, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rapid",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "..., and the noble houses—but has readily adapted to the <mark>rapid<\/mark> pace of change and progress in the Imperial provinces. Unlike...",
+            "fid" : "content" } ] } ] }

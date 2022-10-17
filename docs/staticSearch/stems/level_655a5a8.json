@@ -1,0 +1,88 @@
+
+  { "stem" : "level",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Level",
+            "weight" : "1",
+            "pos" : 1906,
+            "context" : "Ghostgate, Tower of Dawn Lower <mark>Level<\/mark>" },
+          
+          { "form" : "Level",
+            "weight" : "1",
+            "pos" : 1916,
+            "context" : "Ghostgate,_Tower_of_Dawn_Lower_<mark>Level<\/mark>" },
+          
+          { "form" : "Level",
+            "weight" : "1",
+            "pos" : 4303,
+            "context" : "Vas, Entry <mark>Level<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "level",
+            "weight" : "1",
+            "pos" : 2085,
+            "context" : "ghostgate, tower of dawn lower <mark>level<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "level",
+            "weight" : "1",
+            "pos" : 4446,
+            "context" : "vas, entry <mark>level<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Level",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "Entry <mark>Level<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "levels",
+            "weight" : "1",
+            "pos" : 591,
+            "context" : "...the easiest tasks, but later, missions may demand higher <mark>levels<\/mark> of combat proficiency. Those interested should speak to Kaye at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Level",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Ghostgate, Tower of Dawn Lower <mark>Level<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Level",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "Ghostgate, Tower of Dawn Lower <mark>Level<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

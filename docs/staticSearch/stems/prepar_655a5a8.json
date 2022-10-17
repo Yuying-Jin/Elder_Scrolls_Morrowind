@@ -1,0 +1,461 @@
+
+  { "stem" : "prepar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 32,
+        "contexts" : 
+        [ 
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "Corpse <mark>Preparation<\/mark> v II" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "Corpse <mark>Preparation<\/mark> v III" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1216,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1470,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1637,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1681,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1684,
+            "context" : "Corpse <mark>Preparation<\/mark> v II, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1688,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1841,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2369,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2708,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2711,
+            "context" : "Corpse <mark>Preparation<\/mark> v II, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2715,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2859,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2886,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 3087,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 3732,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 3815,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4255,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4258,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4427,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4933,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4959,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5488,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5744,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5810,
+            "context" : "Corpse <mark>Preparation<\/mark> v II, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5850,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5863,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 6026,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 5",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 6265,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 6709,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 29,
+        "contexts" : 
+        [ 
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1046,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1307,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 3" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1466,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1510,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1513,
+            "context" : "Corpse <mark>Preparation<\/mark> v II, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1517,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 1670,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2194,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2550,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2553,
+            "context" : "Corpse <mark>Preparation<\/mark> v II, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2557,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2698,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 3" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2717,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 2914,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 3580,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 3659,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4104,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4107,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4288,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4818,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 4841,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5280,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5501,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 2" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5568,
+            "context" : "Corpse <mark>Preparation<\/mark> v II, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5602,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5615,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 3" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 5748,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 5" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 6185,
+            "context" : "Corpse <mark>Preparation<\/mark> v III, count: 3" },
+          
+          { "form" : "Preparation",
+            "weight" : "1",
+            "pos" : 6611,
+            "context" : "Corpse <mark>Preparation<\/mark> v 1, count: 1" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "preparation",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...for hundreds of years in a way that requires very little <mark>preparation<\/mark>. Khajiit of the desert tribes are often buried with only...",
+            "fid" : "content" },
+          
+          { "form" : "preparation",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...they are often in poor condition and require special care in <mark>preparation<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "preparation",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...is another reason that care should be given to the skeleton's <mark>preparation<\/mark>. Too many young Necromancers raise every skeleton they see with...",
+            "fid" : "content" },
+          
+          { "form" : "preparation",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...young Necromancers raise every skeleton they see with little or no <mark>preparation<\/mark> at all. Given the difficulty of obtaining corpses, this kind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prepared",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "Egroamaro bowed to his adversary sardonically, and then <mark>prepared<\/mark> to unleash a fireball to incinerate him. Before he had uttered...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "preparing",
+            "weight" : "1",
+            "pos" : 430,
+            "context" : "...sky. But on the seventh day, as he was <mark>preparing<\/mark> his Killing Blow, he suddenly stopped, eyes wide open...",
+            "fid" : "content" } ] } ] }

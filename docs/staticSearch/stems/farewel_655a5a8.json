@@ -1,0 +1,14 @@
+
+  { "stem" : "farewel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Farewell",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "<mark>Farewell<\/mark> to Colovia",
+            "fid" : "content" } ] } ] }

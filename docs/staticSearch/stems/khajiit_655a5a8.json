@@ -1,0 +1,146 @@
+
+  { "stem" : "khajiit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...about the outlanders in our troupe, though it was our <mark>Khajiit<\/mark> tumbler Master S'Rabba who he was particularly suspicious of. In fact...",
+            "fid" : "content" },
+          
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...thought S'Rabba was a spy for you. Well, you know <mark>Khajiit<\/mark>. Actually, maybe you don't.\"",
+            "fid" : "content" },
+          
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...that particular comment had only enflamed. \"He wasn't used to <mark>Khajiit<\/mark> either. Or their dark sense of humor. He took...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...of years in a way that requires very little preparation. <mark>Khajiit<\/mark> of the desert tribes are often buried with only a small...",
+            "fid" : "content" },
+          
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...of stones which are easy to find and uncover. The <mark>Khajiit<\/mark> show remarkably enlightened indifference to graves being uncovered. It is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 5493,
+            "context" : "<mark>Khajiit<\/mark>" },
+          
+          { "form" : "Khajiits",
+            "weight" : "1",
+            "pos" : 5524,
+            "context" : "<mark>Khajiits<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "khajiit",
+            "weight" : "1",
+            "pos" : 5736,
+            "context" : "<mark>khajiit<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "khajiits",
+            "weight" : "1",
+            "pos" : 5767,
+            "context" : "<mark>khajiits<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Khajiits",
+            "weight" : "1",
+            "pos" : 340,
+            "context" : "...the variety found in many parts of Elsweyr is cherished by <mark>Khajiits<\/mark> who have followed the career path of thievery. Many Khajiits...",
+            "fid" : "content" },
+          
+          { "form" : "Khajiits",
+            "weight" : "1",
+            "pos" : 346,
+            "context" : "...Khajiits who have followed the career path of thievery. Many <mark>Khajiits<\/mark> will tuck a piece of Nightshade inside their armor to increase...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...to own slaves, and since they keep many Argonian and <mark>Khajiit<\/mark> as slaves, many Argonians and Khajiit assume they would not...",
+            "fid" : "content" },
+          
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...keep many Argonian and Khajiit as slaves, many Argonians and <mark>Khajiit<\/mark> assume they would not be accepted for service with House Telvanni...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...matter their open-mindedness, who aren't alerted when a <mark>Khajiit<\/mark> or a Bosmer enters their shop. Even Khajiiti and Bosmeri...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "If you drop a <mark>Khajiit<\/mark> head-first from a great height, will it land...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Khajiit",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "...He rained kicks and punches down using the arrhythmic style the <mark>Khajiit<\/mark> call Goutfang; he parried and blocked in all the fashions...",
+            "fid" : "content" } ] } ] }

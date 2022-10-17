@@ -1,0 +1,64 @@
+
+  { "stem" : "seleth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Seleth's",
+            "weight" : "1",
+            "pos" : 3847,
+            "context" : "Tel Uvirith, <mark>Seleth's<\/mark> House" },
+          
+          { "form" : "Seleth's",
+            "weight" : "1",
+            "pos" : 3975,
+            "context" : "Tel_Uvirith,_<mark>Seleth's<\/mark>_House" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seleth's",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "<mark>Seleth's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seleth's",
+            "weight" : "1",
+            "pos" : 4054,
+            "context" : "tel uvirith, <mark>seleth's<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seleth's",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "Tel Uvirith, <mark>Seleth's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seleth's",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "Tel Uvirith, <mark>Seleth's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,174 @@
+
+  { "stem" : "wall",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Wall",
+            "weight" : "1",
+            "pos" : 1271,
+            "context" : "Balmora,_South_<mark>Wall<\/mark>_Cornerclub" },
+          
+          { "form" : "Wall",
+            "weight" : "1",
+            "pos" : 1735,
+            "context" : "Fara's Hole in the <mark>Wall<\/mark>" },
+          
+          { "form" : "Wall",
+            "weight" : "1",
+            "pos" : 3545,
+            "context" : "South <mark>Wall<\/mark> Cornerclub" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "wall",
+            "weight" : "1",
+            "pos" : 1436,
+            "context" : "balmora, south <mark>wall<\/mark> cornerclub",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "wall",
+            "weight" : "1",
+            "pos" : 1906,
+            "context" : "fara's hole in the <mark>wall<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "wall",
+            "weight" : "1",
+            "pos" : 3697,
+            "context" : "south <mark>wall<\/mark> cornerclub",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "walls",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...is the Imperial legion garrison for the district. The strong <mark>walls<\/mark> and towers of this Western fortress lies a short distance to...",
+            "fid" : "content" },
+          
+          { "form" : "wall",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...lost. The silt strider port is along the western town <mark>wall<\/mark>, north of West Gate. Silt strider service goes from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wall",
+            "weight" : "1",
+            "pos" : 462,
+            "context" : "...I was sure they were safe, I jumped off the <mark>wall<\/mark> and into the water.\"",
+            "fid" : "content" },
+          
+          { "form" : "wall",
+            "weight" : "1",
+            "pos" : 465,
+            "context" : " \"You jumped off the <mark>wall<\/mark>?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walled",
+            "weight" : "1",
+            "pos" : 338,
+            "context" : "...less decoration. Hlaalu plantation estates resemble Temple compounds, with <mark>walled<\/mark> precincts enclosing outbuildings for craftsmen and servants, dominated by a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wall",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...Dirty Muriel's, for outlanders, and Fara's Hole in the <mark>Wall<\/mark> for local Dunmer. Tel Naga is Master Neloth's wizard tower...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wall",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "South <mark>Wall<\/mark> Cornerclub: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Sottilde's_Code_Book",
+        "docUri" : "librarium\/Sottilde's_Code_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wall",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "South <mark>Wall<\/mark> Cornerclub: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wall",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Balmora, South <mark>Wall<\/mark> Cornerclub: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "walls",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "Girdled round within <mark>walls<\/mark> of wit's glass",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wall",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "...of Vivec, in the Temple District, along the western <mark>wall<\/mark> of the High Fane, the great Temple of Vvardenfell....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wall",
+            "weight" : "1",
+            "pos" : 263,
+            "context" : "...and while throttling him, you batter his face against the opposite <mark>wall<\/mark>. When the victim is thus rendered unconscious, you slash...",
+            "fid" : "content" } ] } ] }

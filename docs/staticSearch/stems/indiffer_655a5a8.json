@@ -1,0 +1,25 @@
+
+  { "stem" : "indiffer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "indifference",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...easy to find and uncover. The Khajiit show remarkably enlightened <mark>indifference<\/mark> to graves being uncovered. It is said that in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "indifferent",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...Eight Divines in the most abstract terms -- as powerful but <mark>indifferent<\/mark> spirits to be propitiated, and do not think of their...",
+            "fid" : "content" } ] } ] }

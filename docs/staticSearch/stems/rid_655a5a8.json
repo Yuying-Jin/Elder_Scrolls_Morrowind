@@ -1,0 +1,14 @@
+
+  { "stem" : "rid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rid",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...said Silverthorn, with a grim expression. “I'm challenged to <mark>rid<\/mark> The Grazelands of a rogue battlemage by the name of Egroamaro...",
+            "fid" : "content" } ] } ] }

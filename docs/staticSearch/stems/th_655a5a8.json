@@ -1,0 +1,26 @@
+
+  { "stem" : "th",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "th",
+            "weight" : "1",
+            "pos" : 11,
+            "context" : "6<mark>th<\/mark> moon ....... \"Alas, the Battlespire appears to be falling into...",
+            "fid" : "content" },
+          
+          { "form" : "th",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "8<mark>th<\/mark> moon ....... \"I have presented to the few remaining Battlemages my...",
+            "fid" : "content" },
+          
+          { "form" : "th",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "9<mark>th<\/mark> moon........ \"It is as I feared. A carcass is...",
+            "fid" : "content" } ] } ] }

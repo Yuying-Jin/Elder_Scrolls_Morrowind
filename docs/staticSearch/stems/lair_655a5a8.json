@@ -1,0 +1,25 @@
+
+  { "stem" : "lair",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lairs",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...of necromancers, the ancient vampire demons who creep from their <mark>lairs<\/mark> in the West, seeking refuge in profane Daedric shrines,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lair",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...will mount Dragonne Papré, my Dragon companion. From his <mark>lair<\/mark>, we will take flight. Since the Weir Gate has...",
+            "fid" : "content" } ] } ] }

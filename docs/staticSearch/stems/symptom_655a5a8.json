@@ -1,0 +1,20 @@
+
+  { "stem" : "symptom",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "symptoms",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "...lasting up to 72 hours, the vampirism disease exhibits no <mark>symptoms<\/mark>, and may be cured by general spellcraft or cult blessings...",
+            "fid" : "content" },
+          
+          { "form" : "symptoms",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "...some victims have reported sleep disturbances and troubling dreams. After <mark>symptoms<\/mark> are exhibited, however, the disease is incurable and irreversible...",
+            "fid" : "content" } ] } ] }

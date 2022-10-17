@@ -1,0 +1,14 @@
+
+  { "stem" : "snicker",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "snickering",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...deep shaft, and he began to cast stones upon them, <mark>snickering<\/mark> as they skittered and scattered, until one of the scribs...",
+            "fid" : "content" } ] } ] }

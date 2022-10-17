@@ -1,0 +1,96 @@
+
+  { "stem" : "wood",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "No-h's Picture Book of <mark>Wood<\/mark>" },
+          
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 804,
+            "context" : "No-h's Picture Book of <mark>Wood<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 1900,
+            "context" : "No-h's Picture Book of <mark>Wood<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "wood",
+            "weight" : "1",
+            "pos" : 5479,
+            "context" : "<mark>wood<\/mark> elves",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 627,
+            "context" : "No-h's Picture Book of <mark>Wood<\/mark>, count: 1" },
+          
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 1729,
+            "context" : "No-h's Picture Book of <mark>Wood<\/mark>, count: 1" },
+          
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 5271,
+            "context" : "<mark>Wood<\/mark> Elves" } ] },
+      
+      { "docId" : "librarium_No'hs_Picture_Book_of_Wood",
+        "docUri" : "librarium\/No'hs_Picture_Book_of_Wood.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "<mark>Wood<\/mark> is pretty",
+            "fid" : "content" },
+          
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "<mark>Wood<\/mark> is nice",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wood",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "If a <mark>Wood<\/mark> Elf mime falls in a forest, who cares?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wood",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "...trees which grow deep in the forests of Skyrim. The <mark>wood<\/mark> from these trees is as hard as the metal for which...",
+            "fid" : "content" } ] } ] }

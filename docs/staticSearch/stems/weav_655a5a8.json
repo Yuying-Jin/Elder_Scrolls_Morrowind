@@ -1,0 +1,14 @@
+
+  { "stem" : "weav",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weaving",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "..., but Harithoel was able to construct a crude shelter, <mark>weaving<\/mark> the sand weeds. As night fell on the small island...",
+            "fid" : "content" } ] } ] }

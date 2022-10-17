@@ -1,0 +1,20 @@
+
+  { "stem" : "decor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "decorated",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...buildings roughly rectangular in plan, featuring arched entranceways and modest <mark>decorated<\/mark> exteriors. More modest one-story private dwellings follow the...",
+            "fid" : "content" },
+          
+          { "form" : "decoration",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "...story private dwellings follow the same plan, except with less <mark>decoration<\/mark>. Hlaalu plantation estates resemble Temple compounds, with walled precincts...",
+            "fid" : "content" } ] } ] }

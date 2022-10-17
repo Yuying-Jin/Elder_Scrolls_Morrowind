@@ -1,0 +1,14 @@
+
+  { "stem" : "class",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "classes",
+            "weight" : "1",
+            "pos" : 323,
+            "context" : "...services. Though House Telvanni does recruit from their own lower <mark>classes<\/mark>, they must go outside their house to hire the craftsmen...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "cuff",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "cuffs",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "...side of their knives to keep blood from getting on their <mark>cuffs<\/mark>. It's impractical for this sort of assignment, but when...",
+            "fid" : "content" } ] } ] }

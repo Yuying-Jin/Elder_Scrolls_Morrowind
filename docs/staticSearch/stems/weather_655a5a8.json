@@ -1,0 +1,31 @@
+
+  { "stem" : "weather",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "weather",
+            "weight" : "1",
+            "pos" : 995,
+            "context" : "...as well as seals in the harmful, disease-laden <mark>weather<\/mark> called 'blight,' rings the volcano's outer slopes, and is...",
+            "fid" : "content" },
+          
+          { "form" : "weather",
+            "weight" : "1",
+            "pos" : 1012,
+            "context" : "...rain never falls and the sun never shines; the only <mark>weather<\/mark> is the red and deadly ash-blight.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weather",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "In Skyrim, the cold <mark>weather<\/mark> and isolated terrain allow a few Necromancers to operate freely....",
+            "fid" : "content" } ] } ] }

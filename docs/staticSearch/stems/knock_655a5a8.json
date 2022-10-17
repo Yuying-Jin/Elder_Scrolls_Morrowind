@@ -1,0 +1,14 @@
+
+  { "stem" : "knock",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knocking",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "Baranat rushed at Feryn, <mark>knocking<\/mark> the giant through a boulder which turned to dust on impact...",
+            "fid" : "content" } ] } ] }

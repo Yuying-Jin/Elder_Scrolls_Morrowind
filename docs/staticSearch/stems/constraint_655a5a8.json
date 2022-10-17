@@ -1,0 +1,14 @@
+
+  { "stem" : "constraint",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "constraint",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...according to ancient law and custom, Telvanni Council places no <mark>constraint<\/mark> on the ambitions and enterprise of its individual members. If...",
+            "fid" : "content" } ] } ] }

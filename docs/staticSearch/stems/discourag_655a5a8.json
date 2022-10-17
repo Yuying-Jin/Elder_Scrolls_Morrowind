@@ -1,0 +1,36 @@
+
+  { "stem" : "discourag",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "discourage",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "...on abduction, terror, torture, and secret imprisonment to <mark>discourage<\/mark> heresy and dissent. The Dissident priests feel the Ordinators are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "discourage",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "...on abduction, terror, torture, and secret imprisonment to <mark>discourage<\/mark> heresy and dissent. The Dissident priests feel the Ordinators are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "discouraged",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "...Imperial lore. Unfortunately, scholarly inquiry upon this topic is <mark>discouraged<\/mark> by the Temple, which controls access to the only substantial...",
+            "fid" : "content" } ] } ] }

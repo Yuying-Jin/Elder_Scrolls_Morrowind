@@ -1,0 +1,14 @@
+
+  { "stem" : "reaction",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reactions",
+            "weight" : "1",
+            "pos" : 704,
+            "context" : "...pass, and so would their moods. The chain of <mark>reactions<\/mark> that every betrayed person exhibits: nervousness, doubt, bewilderment...",
+            "fid" : "content" } ] } ] }

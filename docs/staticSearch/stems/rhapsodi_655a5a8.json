@@ -1,0 +1,14 @@
+
+  { "stem" : "rhapsodi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rhapsody",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "Enter the <mark>rhapsody<\/mark> of the God-Poet.",
+            "fid" : "content" } ] } ] }

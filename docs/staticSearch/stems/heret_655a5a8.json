@@ -1,0 +1,14 @@
+
+  { "stem" : "heret",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heretics",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...Compound, is the headquarters of the Temple Ordinators, and <mark>heretics<\/mark> are imprisoned and re-educated there. The Hall of Wisdom...",
+            "fid" : "content" } ] } ] }

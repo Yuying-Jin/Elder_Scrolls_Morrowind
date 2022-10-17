@@ -1,0 +1,393 @@
+
+  { "stem" : "st",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 14,
+        "contexts" : 
+        [ 
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 1412,
+            "context" : "Canton of <mark>St<\/mark>. Olms" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 4081,
+            "context" : "The Abbey of <mark>St<\/mark>. Delyn the Wise" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 4523,
+            "context" : "Vivec, <mark>St<\/mark>. Olms Yngling Manor" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7284,
+            "context" : "<mark>St<\/mark>.Aralor" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7291,
+            "context" : "<mark>St<\/mark>.Delyn" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7298,
+            "context" : "<mark>St<\/mark>.Felms" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7305,
+            "context" : "<mark>St<\/mark>.Llothis" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7312,
+            "context" : "<mark>St<\/mark>.Meris" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7319,
+            "context" : "<mark>St<\/mark>.Nerevar" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7326,
+            "context" : "<mark>St<\/mark>.Olms" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7333,
+            "context" : "<mark>St<\/mark>.Rilms" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7340,
+            "context" : "<mark>St<\/mark>.Roris" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7347,
+            "context" : "<mark>St<\/mark>.Seryn" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 7354,
+            "context" : "<mark>St<\/mark>.Veloth" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 14,
+        "contexts" : 
+        [ 
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 1583,
+            "context" : "canton of <mark>st<\/mark>. olms",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 4225,
+            "context" : "the abbey of <mark>st<\/mark>. delyn the wise",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 4702,
+            "context" : "vivec, <mark>st<\/mark>. olms yngling manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7397,
+            "context" : "<mark>st<\/mark>.aralor",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7404,
+            "context" : "<mark>st<\/mark>.delyn",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7411,
+            "context" : "<mark>st<\/mark>.felms",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7418,
+            "context" : "<mark>st<\/mark>.llothis",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7425,
+            "context" : "<mark>st<\/mark>.meris",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7432,
+            "context" : "<mark>st<\/mark>.nerevar",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7439,
+            "context" : "<mark>st<\/mark>.olms",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7446,
+            "context" : "<mark>st<\/mark>.rilms",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7453,
+            "context" : "<mark>st<\/mark>.roris",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7460,
+            "context" : "<mark>st<\/mark>.seryn",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 7467,
+            "context" : "<mark>st<\/mark>.veloth",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "<mark>St<\/mark>. Aralor grants Aralor's Intervention, for fortifying character.",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "<mark>St<\/mark>. Delyn grants Shield of St. Delyn, for resistance...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "St. Delyn grants Shield of <mark>St<\/mark>. Delyn, for resistance to blight diseases.",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "<mark>St<\/mark>. Felms grants Felms' Glory, for greater skill in restoring...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "<mark>St<\/mark>. Llothis grants The Rock of Llothis, for fortifying the...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "<mark>St<\/mark>. Meris grants Meris' Warding, for resistance to corprus disease...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "<mark>St<\/mark>. Nerevar grants Spirit of Nerevar, forfortifying the body's vigor...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "<mark>St<\/mark>. Olms grants Olms' Benediction, for resistance to common disease...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 229,
+            "context" : "<mark>St<\/mark>. Rilms grants Rilm's Grace, for endurance of hardships....",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "<mark>St<\/mark>. Roris grants Roris' Bloom, for fortifying the body's health...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 244,
+            "context" : "<mark>St<\/mark>. Seryn grants Seryn's Shield, for resistance to poisons....",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "<mark>St<\/mark>. Veloth grants Veloth's Indwelling, for magical power, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 11,
+        "contexts" : 
+        [ 
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...of the cross -- Redoran Compound northwest, Arena northeast, <mark>St<\/mark>. Delyn's Canton southwest, and St. Olms Canton southeast...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "..., Arena northeast, St. Delyn's Canton southwest, and <mark>St<\/mark>. Olms Canton southeast.",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 340,
+            "context" : "...retainers prefer to maintain their residences in the less-formal <mark>St<\/mark>. Delyn and St. Olms cantons.",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 342,
+            "context" : "...their residences in the less-formal St. Delyn and <mark>St<\/mark>. Olms cantons.",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 479,
+            "context" : " <mark>St<\/mark>. Delyn and St. Olms Residential Cantons",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 481,
+            "context" : " St. Delyn and <mark>St<\/mark>. Olms Residential Cantons",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 485,
+            "context" : " <mark>St<\/mark>. Delyn Canton and St. Olms Canton are residence cantons...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 488,
+            "context" : " St. Delyn Canton and <mark>St<\/mark>. Olms Canton are residence cantons for commoners and paupers....",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 510,
+            "context" : "...light industry are housed in these cantons. The Abbey of <mark>St<\/mark>. Delyn the Wise is on the top tier of St...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 515,
+            "context" : "...St. Delyn the Wise is on the top tier of <mark>St<\/mark>. Delyn, and Hlaalu Councilor Yngling Half-Troll has...",
+            "fid" : "content" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 527,
+            "context" : "...Yngling Half-Troll has a top-tier manor on <mark>St<\/mark>. Olms.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "Vivec, <mark>St<\/mark>. Olms Yngling Manor: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...Vvardenfell District, Free Trader, Yngling Manor, Canton of <mark>St<\/mark>. Olms, Vivec, District of Vvardenfell, Province of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "st",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...was first confirmed under the Potentate Versidue Shaie in the 321<mark>st<\/mark> year of the Second Era. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...all manner of riddles, as collected by the scholars of <mark>St<\/mark> Rilms, to the greater glory of the Tribunal, Almsivi...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "St",
+            "weight" : "1",
+            "pos" : 734,
+            "context" : "...until that afternoon when his servants returned from the feast of <mark>St<\/mark> Rilms in Gnisis. They were good people, and he...",
+            "fid" : "content" } ] } ] }

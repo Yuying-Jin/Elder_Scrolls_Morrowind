@@ -1,0 +1,143 @@
+
+  { "stem" : "skill",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "skills",
+            "weight" : "1",
+            "pos" : 289,
+            "context" : "..., and must strive for personal improvement in their attributes and <mark>skills<\/mark>. Only the most distinguished are worthy of advancement to the...",
+            "fid" : "content" },
+          
+          { "form" : "skills",
+            "weight" : "1",
+            "pos" : 477,
+            "context" : "...the spiritual rewards are great. Lay healers need only the <mark>skills<\/mark> of the prudent traveler, being often on the road and...",
+            "fid" : "content" },
+          
+          { "form" : "skilled",
+            "weight" : "1",
+            "pos" : 528,
+            "context" : "...Almoners must travel in town and village, and should be <mark>skilled<\/mark> in persuasion and mercantile matters. Also, almoners with personal...",
+            "fid" : "content" },
+          
+          { "form" : "skill",
+            "weight" : "1",
+            "pos" : 614,
+            "context" : "...invited to assist the Oracle, and the challenges require the <mark>skill<\/mark> and courage found only in heroes of legend.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "skill",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...the Alik'r Desert of Hammerfell where she won renown for her <mark>skill<\/mark> at climbing sheer surfaces. You must see her at work...",
+            "fid" : "content" },
+          
+          { "form" : "skills",
+            "weight" : "1",
+            "pos" : 392,
+            "context" : "...Telvanni mushrooms is practically a ladder to someone of Master Senyndie's <mark>skills<\/mark>. In a few minutes' time, she was in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "skill",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "Oin eventually learned to make a living at the only <mark>skill<\/mark> he seemed to be well-suited for: gardening. In...",
+            "fid" : "content" },
+          
+          { "form" : "skills",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...Indoril Pavflek Mamoona fell ill and died, despite all the <mark>skills<\/mark> of the great healers, including Kena Yakin Bael. When...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skills",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...examination at the Balmora Council Manor. If you have the <mark>skills<\/mark>, you will be welcome. And if you have the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skilled",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "...train with shield and heavy armor, and so must be <mark>skilled<\/mark> at blocking and moving in heavy armor.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skills",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : ".... “But in my youth, I used to teach the <mark>skills<\/mark> of Illusion at the University of Gwylim.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skilled",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...wizard-lords depend on loyal, well-paid, <mark>skilled<\/mark> retainers for most services. Though House Telvanni does recruit from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skill",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "St. Felms grants Felms' Glory, for greater <mark>skill<\/mark> in restoring magics.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skill",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "...shall not be abused by prideful wizards, confident in their <mark>skill<\/mark> and blinded by their ambitions. In this, hold the ordering...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "skill",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...never was, but there used to be some pride, some <mark>skill<\/mark>, some basic creativity. It really makes those of us...",
+            "fid" : "content" } ] } ] }

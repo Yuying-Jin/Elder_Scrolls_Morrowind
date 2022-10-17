@@ -1,0 +1,14 @@
+
+  { "stem" : "bleed",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bleeds",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...and quickly turn the head to one side so the body <mark>bleeds<\/mark> out away from you. There is a risk here of becoming...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "bright",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bright",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...and flowers are resistant to the conditions of high heat and <mark>bright<\/mark> light. A petal from this plant placed under an adventurer's...",
+            "fid" : "content" },
+          
+          { "form" : "bright",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...three feet and have feathery leaves; the flowers are usually <mark>bright<\/mark> red. In addition to their beauty, they are said...",
+            "fid" : "content" } ] } ] }

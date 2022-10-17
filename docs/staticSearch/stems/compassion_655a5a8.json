@@ -1,0 +1,14 @@
+
+  { "stem" : "compassion",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "compassionate",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "The public face of Vivec is benign, sensitive, <mark>compassionate<\/mark>, and protective of his followers. At the same time...",
+            "fid" : "content" } ] } ] }

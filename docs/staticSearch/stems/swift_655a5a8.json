@@ -1,0 +1,36 @@
+
+  { "stem" : "swift",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swiftly",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...the Empire. At need, the legion garrisons can be <mark>swiftly<\/mark> mobilized to protect against invasions or internal disorders, but in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Swift",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "<mark>Swift<\/mark> and agile are the Morag Tong. Silent and unseen they...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "swift",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...spellcasters, seeking to hypnotize victims before feeding, while the <mark>swift<\/mark> and agile Berne clan vampires prefer stealth and ambush, first...",
+            "fid" : "content" } ] } ] }

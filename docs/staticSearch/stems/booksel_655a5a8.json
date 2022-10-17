@@ -1,0 +1,142 @@
+
+  { "stem" : "booksel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 897,
+            "context" : "Ald'ruhn,_Codus_Callonus:_<mark>Bookseller<\/mark>" },
+          
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 1245,
+            "context" : "Balmora,_Dorisa Darvel:_<mark>Bookseller<\/mark>" },
+          
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 1254,
+            "context" : "Balmora,_Dorisa_Darvel:_<mark>Bookseller<\/mark>" },
+          
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 3502,
+            "context" : "Simine Fralinie: <mark>Bookseller<\/mark>" },
+          
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 4516,
+            "context" : "Vivec, Simine Fralinie: <mark>Bookseller<\/mark>" },
+          
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 4579,
+            "context" : "Vivec,_Simine_Fralinie:_<mark>Bookseller<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "bookseller",
+            "weight" : "1",
+            "pos" : 1052,
+            "context" : "ald'ruhn, codus callonus: <mark>bookseller<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "bookseller",
+            "weight" : "1",
+            "pos" : 1396,
+            "context" : "balmora, dorisa darvel: <mark>bookseller<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "bookseller",
+            "weight" : "1",
+            "pos" : 3655,
+            "context" : "simine fralinie: <mark>bookseller<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "bookseller",
+            "weight" : "1",
+            "pos" : 4690,
+            "context" : "vivec, simine fralinie: <mark>bookseller<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Ald'ruhn, Codus Callonus: <mark>Bookseller<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Balmora, Dorisa Darvel: <mark>Bookseller<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Vivec, Simine Fralinie: <mark>Bookseller<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Balmora, Dorisa Darvel: <mark>Bookseller<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bookseller",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...from the smith, clothier, trader, pawnbroker, and <mark>bookseller<\/mark> near the entrance to Ald'ruhn-Under-Skar. The Ald Skar...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Simine Fralinie: <mark>Bookseller<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bookseller",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "Vivec, Simine Fralinie: <mark>Bookseller<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

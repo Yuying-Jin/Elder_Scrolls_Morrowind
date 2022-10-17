@@ -1,0 +1,119 @@
+
+  { "stem" : "boethiah",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Boethiah's",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "<mark>Boethiah's<\/mark> Pillow Book" },
+          
+          { "form" : "Boethiah's",
+            "weight" : "1",
+            "pos" : 872,
+            "context" : "<mark>Boethiah's<\/mark> Pillow Book, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Boethiah's",
+            "weight" : "1",
+            "pos" : 1144,
+            "context" : "<mark>Boethiah's<\/mark> Pillow Book, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "boethiah",
+            "weight" : "1",
+            "pos" : 6473,
+            "context" : "<mark>boethiah<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Boethiah's",
+            "weight" : "1",
+            "pos" : 688,
+            "context" : "<mark>Boethiah's<\/mark> Pillow Book, count: 1" },
+          
+          { "form" : "Boethiah's",
+            "weight" : "1",
+            "pos" : 976,
+            "context" : "<mark>Boethiah's<\/mark> Pillow Book, count: 1" },
+          
+          { "form" : "Boethiah",
+            "weight" : "1",
+            "pos" : 6390,
+            "context" : "<mark>Boethiah<\/mark>" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Boethiah",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...known to the West as the sinister daedrai Lords Azura, <mark>Boethiah<\/mark>, and Mephala. In Temple theology, however, Azura...",
+            "fid" : "content" },
+          
+          { "form" : "Boethiah",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...of Sotha Sil, the Mage-Lord of ALMSIVI. <mark>Boethiah<\/mark> is the Anticipation of Almalexia, ALMSIVI's Mother and Lady....",
+            "fid" : "content" },
+          
+          { "form" : "Boethiah",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...a new people and founded a new land. And while <mark>Boethiah<\/mark>, the so-called Prince of Plots, provided the revolutionary...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Boethiah",
+            "weight" : "1",
+            "pos" : 483,
+            "context" : "...old dirty tavern song about the Ninety-Nine Loves of <mark>Boethiah<\/mark>. He said it helped him focus and organize difficult combinations...",
+            "fid" : "content" },
+          
+          { "form" : "Boethiah",
+            "weight" : "1",
+            "pos" : 812,
+            "context" : "...Imalyn's voice nearby, singing The Ninety-Nine Loves of <mark>Boethiah<\/mark>. He lay still in his bed, waiting, but...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Boethiah",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "...village of the netchimen, and her shadow was that of <mark>Boethiah<\/mark>, who was the Prince of Plots, and things unknown...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Boethiah",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...Harithoel. They decided that it was all the whim of <mark>Boethiah<\/mark> or one of the other daedra with cruel senses of humor...",
+            "fid" : "content" } ] } ] }

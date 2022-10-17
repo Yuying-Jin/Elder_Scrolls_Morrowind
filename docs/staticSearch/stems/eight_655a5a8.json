@@ -1,0 +1,42 @@
+
+  { "stem" : "eight",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "eight",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...image as an egg. There she stayed for seven or <mark>eight<\/mark> months.",
+            "fid" : "content" },
+          
+          { "form" : "eight",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...shoals of Azura's Coast. There she lay for seven or <mark>eight<\/mark> more months, caring for the egg-knowledge by whispering...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eight",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : " Vivec is a city made up of <mark>eight<\/mark> cantons, each a little town in itself. On a map...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Eight",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...foremost social and economic organizations. We typically think of the <mark>Eight<\/mark> Divines in the most abstract terms -- as powerful but indifferent...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,47 @@
+
+  { "stem" : "illus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "illusions",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...All the realizations of acrobacy we perform are real with no <mark>illusions<\/mark>. We wish we knew tricks, for it's far too...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Illusion",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "...in my youth, I used to teach the skills of <mark>Illusion<\/mark> at the University of Gwylim.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Illusion",
+            "weight" : "1",
+            "pos" : 253,
+            "context" : "...in the arts of magic -- especially Mysticism, Conjuration, <mark>Illusion<\/mark>, Alteration, Destruction and Enchanting - can expect to advance...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Illusions",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...are the Morag Tong. Silent and unseen they move. <mark>Illusions<\/mark> they supply to misdirect their prey. Close and sure they...",
+            "fid" : "content" } ] } ] }

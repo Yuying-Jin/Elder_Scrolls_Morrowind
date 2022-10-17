@@ -1,0 +1,26 @@
+
+  { "stem" : "afternoon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "afternoon",
+            "weight" : "1",
+            "pos" : 730,
+            "context" : "...of the stalls were empty. It wouldn't be until that <mark>afternoon<\/mark> when his servants returned from the feast of St Rilms in...",
+            "fid" : "content" },
+          
+          { "form" : "Afternoon",
+            "weight" : "1",
+            "pos" : 824,
+            "context" : "...except the usual creaks and groans of his old house. <mark>Afternoon<\/mark> sunlight came through his bedroom window in ribbons, catching dust...",
+            "fid" : "content" },
+          
+          { "form" : "afternoon",
+            "weight" : "1",
+            "pos" : 850,
+            "context" : "...and he opened his eyes. Only a little of the <mark>afternoon<\/mark> sunlight could pierce the inside of the burlap sack.",
+            "fid" : "content" } ] } ] }

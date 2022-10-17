@@ -1,0 +1,36 @@
+
+  { "stem" : "practition",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "practitioners",
+            "weight" : "1",
+            "pos" : 497,
+            "context" : "...its master from the rest of the living and many amateur <mark>practitioners<\/mark> have been torn apart by the animal servants they created....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "practitioners",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...mere zombie is a method best left to lazy or desperate <mark>practitioners<\/mark>. With only a bit more time and effort, one...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "practitioners",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...leather straps that bind the bones together more tightly. Some <mark>practitioners<\/mark> also drive metal spikes are between the joints, which is...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,189 @@
+
+  { "stem" : "librari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 2119,
+            "context" : "Hall of Justice Secret <mark>Library<\/mark>" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 2361,
+            "context" : "Kagrenac's <mark>Library<\/mark>" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 4210,
+            "context" : "Tureynulal, Kagrenac's <mark>Library<\/mark>" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 4223,
+            "context" : "Tureynulal,_Kagrenac's_<mark>Library<\/mark>" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 4467,
+            "context" : "Vivec, Hall of Justice Secret <mark>Library<\/mark>" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 4490,
+            "context" : "Vivec, <mark>Library<\/mark> of Vivec" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 4562,
+            "context" : "Vivec,_Hall_of_Justice_Secret_<mark>Library<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "library",
+            "weight" : "1",
+            "pos" : 2289,
+            "context" : "hall of justice secret <mark>library<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "library",
+            "weight" : "1",
+            "pos" : 2527,
+            "context" : "kagrenac's <mark>library<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "library",
+            "weight" : "1",
+            "pos" : 4356,
+            "context" : "tureynulal, kagrenac's <mark>library<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "library",
+            "weight" : "1",
+            "pos" : 4631,
+            "context" : "vivec, hall of justice secret <mark>library<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "library",
+            "weight" : "1",
+            "pos" : 4664,
+            "context" : "vivec, <mark>library<\/mark> of vivec",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "Tureynulal, Kagrenac's <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "Vivec, Hall of Justice Secret <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "Vivec, <mark>Library<\/mark> of Vivec: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Hall of Justice Secret <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Kagrenac's <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "Tureynulal, Kagrenac's <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "Vivec, Hall of Justice Secret <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "Kagrenac's <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "Kagrenac's <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Kagrenac's <mark>Library<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Library",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "Kagrenac's <mark>Library<\/mark>: Visitable? ",
+            "fid" : "acq" } ] } ] }

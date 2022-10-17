@@ -1,0 +1,118 @@
+
+  { "stem" : "brother",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 11,
+        "contexts" : 
+        [ 
+          { "form" : "brothers",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...daughter, you see, has been kidnapped by the Coribael <mark>brothers<\/mark> whose physical prowess is the stuff of legend.\"",
+            "fid" : "content" },
+          
+          { "form" : "brothers'",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "..., the old woman sent Baranat off, explaining that the four <mark>brothers'<\/mark> camp was to the north. In the center of the...",
+            "fid" : "content" },
+          
+          { "form" : "brother",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...the center of the camp, the eldest and most powerful <mark>brother<\/mark> Airen Coribael was holding Lady Genevrah personally. Each of his...",
+            "fid" : "content" },
+          
+          { "form" : "brothers",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...Airen Coribael was holding Lady Genevrah personally. Each of his <mark>brothers<\/mark> guarded a different post along the valley -- Baranat would have...",
+            "fid" : "content" },
+          
+          { "form" : "brothers'",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...the northern swamps before he came to the first of the <mark>brothers'<\/mark> guard posts. There he saw Vanis Coribael, the youngest...",
+            "fid" : "content" },
+          
+          { "form" : "brothers",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : ".... There he saw Vanis Coribael, the youngest of the <mark>brothers<\/mark>, watching the valley for intruders. Vanis was known to...",
+            "fid" : "content" },
+          
+          { "form" : "brother",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "...The adventurer continued on until he reached the second youngest Coribael <mark>brother<\/mark>, Feryn, who not only was as fast as Vanis...",
+            "fid" : "content" },
+          
+          { "form" : "brother",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...post was a raging river, where the second eldest Coribael <mark>brother<\/mark>, Horis, stood guard. Horis, who was faster...",
+            "fid" : "content" },
+          
+          { "form" : "brother",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "..., stood guard. Horis, who was faster than his <mark>brother<\/mark> Vanis, stronger than his brother Feryn, and so tough...",
+            "fid" : "content" },
+          
+          { "form" : "brother",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "...who was faster than his brother Vanis, stronger than his <mark>brother<\/mark> Feryn, and so tough that he could swim in the...",
+            "fid" : "content" },
+          
+          { "form" : "brothers",
+            "weight" : "1",
+            "pos" : 369,
+            "context" : "..., strongest, sturdiest, and most accomplished fighter of the <mark>brothers<\/mark>. He prayed to the saints for help.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "brother",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...Three in One. In you is an egg of my <mark>brother<\/mark>-sister, who possesses invisible knowledge of words and swords...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "brothers",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...and bring luster to the Temple. Never transgress against your <mark>brothers<\/mark> or sisters, and never dishonor your house or your ancestors...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "brothers",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : " Once we were friends and <mark>brothers<\/mark>, Lord Nerevar, in peace and in war. No...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "brother",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "Refuse neither <mark>brother<\/mark> nor ghost.",
+            "fid" : "content" } ] } ] }

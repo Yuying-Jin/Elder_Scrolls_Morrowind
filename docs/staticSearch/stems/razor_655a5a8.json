@@ -1,0 +1,61 @@
+
+  { "stem" : "razor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Razor",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...the contemptible Neloth. Inspired by their master's weapon, Mehrunes' <mark>Razor<\/mark>&gt;, Neloth's normally cowardly troops had been nigh invincible....",
+            "fid" : "mehrunesrazor" },
+          
+          { "form" : "razor",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "...his ravings that he had a very valuable bauble. A <mark>razor<\/mark> of some kind.\"",
+            "fid" : "content" },
+          
+          { "form" : "Razor",
+            "weight" : "1",
+            "pos" : 347,
+            "context" : " \"Mehrunes' <mark>Razor<\/mark>,\" he gasped. \"What -- what did you do?\"",
+            "fid" : "content" },
+          
+          { "form" : "razor",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : "...few minutes' time, she was in the room with the <mark>razor<\/mark> in hand. In a few more minutes, she was...",
+            "fid" : "content" },
+          
+          { "form" : "Razor",
+            "weight" : "1",
+            "pos" : 505,
+            "context" : "\"And when did Master Neloth get Mehrunes' <mark>Razor<\/mark>&gt; back from you?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "razor",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "mehrunes' <mark>razor<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "razor",
+            "weight" : "1",
+            "pos" : 543,
+            "context" : "mehrunes' <mark>razor<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

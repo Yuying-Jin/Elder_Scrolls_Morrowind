@@ -1,0 +1,98 @@
+
+  { "stem" : "hunt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Hunt",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "Rituals of the <mark>Hunt<\/mark>:",
+            "fid" : "content" },
+          
+          { "form" : "Hunts",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "Supposedly the Spear of Bitter Mercy used in the Wild <mark>Hunts<\/mark> could not be handled by any mortal or immortal save the...",
+            "fid" : "content" },
+          
+          { "form" : "Hunt",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...by any mortal or immortal save the ones sanctified to the <mark>Hunt<\/mark> and bound by its strictures. However, Chimere has determined...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hunt",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : "...Redoran, is on the margin of the region. Ashlanders <mark>hunt<\/mark> for game here, and their herds find sparse grazing. It...",
+            "fid" : "content" },
+          
+          { "form" : "hunt",
+            "weight" : "1",
+            "pos" : 901,
+            "context" : "...complicated by frequent ash storms. The Ashlanders of Erabenimsun camp <mark>hunt<\/mark> game here, but few others venture into this region. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hunted",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...vampires, and in earlier times the Ordinators and Buoyant Armigers <mark>hunted<\/mark> them to extinction. In recent years, however, vampires...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hunted",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "...vampires, and in earlier times the Ordinators and Buoyant Armigers <mark>hunted<\/mark> them to extinction. In recent years, however, vampires...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hunting",
+            "weight" : "1",
+            "pos" : 461,
+            "context" : "...from dreugh shells. Dreugh are powerful aquatic creatures, and <mark>hunting<\/mark> them for their hides and wax is a dangerous occupation....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hunted",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "The blood of the hunter and the blood of the <mark>hunted<\/mark>. The joy of the hidden and the joy of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hunting",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...The Temple does not acknowledge the existence of Western vampire <mark>hunting<\/mark> orders. Nonetheless, interviews with Temple officials persuade me that...",
+            "fid" : "content" } ] } ] }

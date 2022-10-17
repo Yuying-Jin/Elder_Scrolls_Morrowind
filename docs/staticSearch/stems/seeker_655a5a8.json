@@ -1,0 +1,36 @@
+
+  { "stem" : "seeker",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Seekers",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : " <mark>Seekers<\/mark> who wish to advance in the service of the Nine must...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seeker",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : ".... The joy of the hidden and the joy of the <mark>seeker<\/mark>. The blood of the eye and the blood of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "seekers",
+            "weight" : "1",
+            "pos" : 285,
+            "context" : "...to the disease for fear that it may encourage depraved thrill <mark>seekers<\/mark> from deliberately infecting themselves.",
+            "fid" : "content" } ] } ] }

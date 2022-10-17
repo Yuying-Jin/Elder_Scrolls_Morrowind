@@ -1,0 +1,36 @@
+
+  { "stem" : "break",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Break",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...forbidden to trespass upon the private property of another member. <mark>Break<\/mark> any one of these rules, and be expelled from the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "break",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...had experience torturing the slave races and know how easily they <mark>break<\/mark>.\" ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "break",
+            "weight" : "1",
+            "pos" : 615,
+            "context" : "...a pity he couldn't see them undergoing interrogation. Who would <mark>break<\/mark> under pressure first? Imalyn was certainly the tougher of the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,121 @@
+
+  { "stem" : "true",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "Not <mark>true<\/mark>. Telvanni accept all races as candidates for membership.",
+            "fid" : "content" },
+          
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "Not <mark>true<\/mark>. Telvanni accept candidates of modest intelligence and willpower.",
+            "fid" : "content" },
+          
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "It is <mark>true<\/mark> that advancement in Telvanni ranks depends on high intelligence and willpower...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...Senchal, one may purchase anything one desires. This is <mark>true<\/mark> if you desire fresh corpses.",
+            "fid" : "content" },
+          
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 420,
+            "context" : "...Necromancy on other races. It is uncertain whether this is <mark>true<\/mark> in Thras as well. If so, it would explain the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...there is good evidence that the Tribunal have been concealing the <mark>true<\/mark> nature of the threat posed by Dagoth Ur at Red Mountain...",
+            "fid" : "content" },
+          
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : "...religious experience. The Dissidents have not resolved the issue of <mark>true<\/mark> or false insights. They have studied the mysticism of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...there is good evidence that the Tribunal have been concealing the <mark>true<\/mark> nature of the threat posed by Dagoth Ur at Red Mountain...",
+            "fid" : "content" },
+          
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : "...religious experience. The Dissidents have not resolved the issue of <mark>true<\/mark> or false insights. They have studied the mysticism of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "True",
+            "weight" : "1",
+            "pos" : 733,
+            "context" : "...inspirations, the Temple falsely insists that theirs is the One <mark>True<\/mark> Faith, and that the Imperial cults worship false gods....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "True",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...an incantation invoked upon Dagon's \"Protonymic\" (i.e., Incantory [sic] <mark>True<\/mark> Name). Unfortunately, like many of Malacath's gifts, the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "true",
+            "weight" : "1",
+            "pos" : 701,
+            "context" : "...a new test for suitors, while I search for my <mark>true<\/mark> love.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "True",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "..., for he is the beloved Warrior-Poet of the <mark>True<\/mark> People, paradoxically beautiful and bloody. Vivec is an artistic...",
+            "fid" : "content" } ] } ] }

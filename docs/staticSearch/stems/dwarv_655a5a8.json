@@ -1,0 +1,37 @@
+
+  { "stem" : "dwarv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dwarves",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "..., defeated the Dunmer's greatest enemies, the Nords and the <mark>Dwarves<\/mark>, and achieved divine substance through superhuman discipline and virtue and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dwarves",
+            "weight" : "1",
+            "pos" : 5214,
+            "context" : "<mark>Dwarves<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dwarves",
+            "weight" : "1",
+            "pos" : 5411,
+            "context" : "<mark>dwarves<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

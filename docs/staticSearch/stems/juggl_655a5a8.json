@@ -1,0 +1,20 @@
+
+  { "stem" : "juggl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "juggles",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "\"Master Jereth will dazzle you as he <mark>juggles<\/mark> fifteen flaming globes while hopping across broken glass. Master Tulkiande...",
+            "fid" : "content" },
+          
+          { "form" : "juggles",
+            "weight" : "1",
+            "pos" : 532,
+            "context" : "...of acrobacy when Master Mearvis takes a simple ebony blade and <mark>juggles<\/mark> it in one hand and a handful of marshmerrow reeds in...",
+            "fid" : "content" } ] } ] }

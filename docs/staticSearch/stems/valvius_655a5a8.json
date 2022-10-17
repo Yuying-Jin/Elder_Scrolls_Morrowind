@@ -1,0 +1,37 @@
+
+  { "stem" : "valvius",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Valvius",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "Caldera, <mark>Valvius<\/mark> Mevureius' House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Valvius",
+            "weight" : "1",
+            "pos" : 1403,
+            "context" : "Caldera, <mark>Valvius<\/mark> Mevureius' House" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "valvius",
+            "weight" : "1",
+            "pos" : 1574,
+            "context" : "caldera, <mark>valvius<\/mark> mevureius' house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

@@ -1,0 +1,48 @@
+
+  { "stem" : "dragon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dragon's",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "<mark>dragon's<\/mark>-tongue" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dragon's",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "<mark>dragon's<\/mark> tongue",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dragon's",
+            "weight" : "1",
+            "pos" : 141,
+            "context" : "<mark>Dragon's<\/mark>-Tongue, common name for a fern like herb found...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dragon",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...the Battlespire, where I will mount Dragonne Papré, my <mark>Dragon<\/mark> companion. From his lair, we will take flight....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,36 @@
+
+  { "stem" : "earnest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "earnest",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "All those who are <mark>earnest<\/mark>, and who are willing to submit to the wisdom of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "earnest",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : " The Imperial cult accepts all citizens of good character and <mark>earnest<\/mark> faith. We ask only a one-time pledge of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "earnestness",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...judged, endured, and reflected upon with due care and <mark>earnestness<\/mark>. Piety is respect for the gods, and the virtues...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,49 @@
+
+  { "stem" : "racer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "racer",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...from any two of the following ingredients: trama root, <mark>racer<\/mark> plumes, and coda flowers. A thick, bitter-...",
+            "fid" : "content" },
+          
+          { "form" : "racer",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...the Ashlands, Molag Amur, and Red Mountain regions. <mark>racer<\/mark> plumes are plucked from dead cliff racers. coda flowers are...",
+            "fid" : "content" },
+          
+          { "form" : "racers",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "...Red Mountain regions. racer plumes are plucked from dead cliff <mark>racers<\/mark>. coda flowers are collected from the primitive draggle-tail...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "racer",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : "<mark>racer<\/mark>_plumes" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "racer",
+            "weight" : "1",
+            "pos" : 598,
+            "context" : "<mark>racer<\/mark> plumes",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

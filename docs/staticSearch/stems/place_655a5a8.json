@@ -1,0 +1,192 @@
+
+  { "stem" : "place",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "places",
+            "weight" : "1",
+            "pos" : 153,
+            "context" : "...them that, according to ancient law and custom, Telvanni Council <mark>places<\/mark> no constraint on the ambitions and enterprise of its individual members...",
+            "fid" : "content" },
+          
+          { "form" : "placed",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...to such endeavors. The council renews its objection to proposals <mark>placed<\/mark> before Duke Dren and the Grand Council concerning slavery and slave...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...measure, to boiling, the kagouti will calmly stand in <mark>place<\/mark> until he is boiled. Thus we see that we must...",
+            "fid" : "content" },
+          
+          { "form" : "placed",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...helped himself to a share of the fodder which had been <mark>placed<\/mark> there for his use; so that the poor Netch died...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "...and where it is not. The help of friends includes a <mark>place<\/mark> to rest, and a place to buy supplies and services...",
+            "fid" : "content" },
+          
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...help of friends includes a place to rest, and a <mark>place<\/mark> to buy supplies and services -- training and tools. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...or resting, you are in an excellent position. You <mark>place<\/mark> one hand over the mouth with your thumb under the chin...",
+            "fid" : "content" },
+          
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "...which requires less grappling than my friend's variation, is to <mark>place<\/mark> one hand over the victim's mouth, and then saw through...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "places",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : ".... Caravans, it should be mentioned, are always good <mark>places<\/mark> to go to buy or trade. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...advanced, or if you wish a skeletal servant instead, <mark>place<\/mark> the corpse along a coast or in a swamp or marsh...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "places",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...by prayer at the shrines found in temples, and in <mark>places<\/mark> of pilgrimage, and in the tombs of our ancestors....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "placed",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "\"I <mark>placed<\/mark> the gem within the basin before the altar, and instantly...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : "...craftsmen and servants, dominated by a grand manor residence in <mark>place<\/mark> of a Temple shrine.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...Beneath the Palace of Vivec is the Puzzle Canal, a <mark>place<\/mark> of worship and testing for questing heroes hoping to receive Vivec's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "Ashlander tradition does not <mark>place<\/mark> the Tribunal at Red Mountain, and holds that the Dwemer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "Ashlander tradition does not <mark>place<\/mark> the Tribunal at Red Mountain, and holds that the Dwemer...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...in vanity, but shall know and give thanks for my <mark>place<\/mark> in the greater world.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "placed",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...high heat and bright light. A petal from this plant <mark>placed<\/mark> under an adventurer's tongue will provide protection from the heat and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "place",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...Do you have your friends and your finery, but no <mark>place<\/mark> to go? Do you laugh and cry, but no...",
+            "fid" : "content" } ] } ] }

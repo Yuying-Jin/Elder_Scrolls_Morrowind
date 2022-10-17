@@ -1,0 +1,36 @@
+
+  { "stem" : "whisper",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whispering",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...eight more months, caring for the egg-knowledge by <mark>whispering<\/mark> to it the Codes of Mephala and the prophecies of Veloth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whispered",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...sway over life and death. Only one name shall be <mark>whispered<\/mark> in fear. The name of your lord and master....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whispered",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "...together From first kiss to last breath, First and last <mark>whispered<\/mark> in love.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "blame",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blame",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "...aggressive and violent in the Redoran House Districts. The councilors <mark>blame<\/mark> local corruption, weakened enforcement, and aggressive competition between the...",
+            "fid" : "content" } ] } ] }

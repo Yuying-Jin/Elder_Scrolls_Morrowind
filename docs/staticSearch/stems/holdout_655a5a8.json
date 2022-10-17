@@ -1,0 +1,14 @@
+
+  { "stem" : "holdout",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "holdout",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...great. We grow low on supplies and soldiers for this <mark>holdout<\/mark>. I fear the worst.\"",
+            "fid" : "content" } ] } ] }

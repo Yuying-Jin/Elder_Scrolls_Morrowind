@@ -1,0 +1,14 @@
+
+  { "stem" : "attent",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attention",
+            "weight" : "1",
+            "pos" : 686,
+            "context" : "...laughing and carrying on, Galsiah hushing him to avoid bringing undue <mark>attention<\/mark>. They would take a couple flagons of greef, perhaps...",
+            "fid" : "content" } ] } ] }

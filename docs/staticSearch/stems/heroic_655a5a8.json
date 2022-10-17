@@ -1,0 +1,37 @@
+
+  { "stem" : "heroic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "heroic",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...The public account portrays the actions of the Tribunal in a <mark>heroic<\/mark> light, while the hidden writings reveal secrets, untruths,...",
+            "fid" : "content" },
+          
+          { "form" : "heroic",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...conflicting accounts and varying interpretations which hint at darker and less <mark>heroic<\/mark> motives and actions of the Tribunes. In particular, conflicting...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "heroic",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...The public account portrays the actions of the Tribunal in a <mark>heroic<\/mark> light, while the hidden writings reveal secrets, untruths,...",
+            "fid" : "content" },
+          
+          { "form" : "heroic",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...conflicting accounts and varying interpretations which hint at darker and less <mark>heroic<\/mark> motives and actions of the Tribunes. In particular, conflicting...",
+            "fid" : "content" } ] } ] }

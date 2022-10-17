@@ -1,0 +1,36 @@
+
+  { "stem" : "insist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "insists",
+            "weight" : "1",
+            "pos" : 731,
+            "context" : "...of the Temple pantheon as worthy inspirations, the Temple falsely <mark>insists<\/mark> that theirs is the One True Faith, and that the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "insist",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...myself, or my people, or my gods, and shall <mark>insist<\/mark> upon them, and my ancient rights.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "insisted",
+            "weight" : "1",
+            "pos" : 398,
+            "context" : "...incurable, a Buoyant Armiger of former years named Galur Rithari <mark>insisted<\/mark> that he was cured of vampirism. Initially imprisoned by the...",
+            "fid" : "content" } ] } ] }

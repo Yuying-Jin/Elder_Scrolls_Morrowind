@@ -1,0 +1,14 @@
+
+  { "stem" : "olga",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Olga's",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "<mark>Olga's<\/mark> Smickett",
+            "fid" : "content" } ] } ] }

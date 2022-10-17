@@ -1,0 +1,44 @@
+
+  { "stem" : "21",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "21",
+            "weight" : "1",
+            "pos" : 5974,
+            "context" : ", count: <mark>21<\/mark>" },
+          
+          { "form" : "21",
+            "weight" : "1",
+            "pos" : 7551,
+            "context" : "The Pilgrim's Path, count: <mark>21<\/mark>" },
+          
+          { "form" : "21",
+            "weight" : "1",
+            "pos" : 7558,
+            "context" : "Vivec and Mephala, count: <mark>21<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "21",
+            "weight" : "1",
+            "pos" : 7700,
+            "context" : "The Pilgrim's Path, count: <mark>21<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "21",
+            "weight" : "1",
+            "pos" : 7707,
+            "context" : "Vivec and Mephala, count: <mark>21<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

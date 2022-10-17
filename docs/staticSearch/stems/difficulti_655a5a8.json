@@ -1,0 +1,48 @@
+
+  { "stem" : "difficulti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "difficulties",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : ".... There are also diseases, Argonian tribesmen, and other <mark>difficulties<\/mark> that must be dealt with. I know of only a few...",
+            "fid" : "content" },
+          
+          { "form" : "difficulties",
+            "weight" : "1",
+            "pos" : 437,
+            "context" : "These <mark>difficulties<\/mark> lead many Necromancers to create their own corpses. While I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "difficulty",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...obstacle is too difficult, seek for a path around the <mark>difficulty<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "difficulty",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...obstacle is too difficult, look for a path around the <mark>difficulty<\/mark>... but if no path around can be found, confront...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "difficulty",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...they see with little or no preparation at all. Given the <mark>difficulty<\/mark> of obtaining corpses, this kind of inefficiency cannot be tolerated...",
+            "fid" : "content" } ] } ] }

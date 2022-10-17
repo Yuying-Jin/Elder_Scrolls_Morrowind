@@ -1,0 +1,14 @@
+
+  { "stem" : "unlik",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Unlike",
+            "weight" : "1",
+            "pos" : 278,
+            "context" : "...rapid pace of change and progress in the Imperial provinces. <mark>Unlike<\/mark> the other Great Houses, which are largely hostile to non...",
+            "fid" : "content" } ] } ] }

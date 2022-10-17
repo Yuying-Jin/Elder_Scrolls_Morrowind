@@ -1,0 +1,14 @@
+
+  { "stem" : "lit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lit",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "Dimly <mark>lit<\/mark> by the spirits of the dead.",
+            "fid" : "content" } ] } ] }

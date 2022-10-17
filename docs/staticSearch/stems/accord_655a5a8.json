@@ -1,0 +1,113 @@
+
+  { "stem" : "accord",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "according",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...of the other Great Houses, Telvanni Council reminded them that, <mark>according<\/mark> to ancient law and custom, Telvanni Council places no constraint...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "according",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "..., they share their bounty among the greatest and least, <mark>according<\/mark> to their needs.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "According",
+            "weight" : "1",
+            "pos" : 385,
+            "context" : "..., building towers and bases all along the eastern coast. <mark>According<\/mark> to Telvanni principles, the powerful define the standards of virtue...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "according",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...and enemies were sacrificed and the Cup of Passage was mixed <mark>according<\/mark> to the direction of Hanin's Formulae:",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "according",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...have been awakened. Vampires vary in their substance and power <mark>according<\/mark> to their age and accumulated lore, but even the weakest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "according",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...that Nerevar died at the conference [not of his wounds, <mark>according<\/mark> to the Ashlanders, but from treachery], and that subsequently...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "according",
+            "weight" : "1",
+            "pos" : 221,
+            "context" : "...that Nerevar died at the conference [not of his wounds, <mark>according<\/mark> to the Ashlanders, but from treachery], and that subsequently...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "according",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...have been awakened. Vampires vary in their substance and power <mark>according<\/mark> to their age and accumulated lore, but even the weakest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "According",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "...formerly afflicted vampires who have been cured of the disease. <mark>According<\/mark> to legend, the vampire Hunters refuse to reveal the cure...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "According",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...Mother and Lady. Mephala is the Anticipation of Vivec. <mark>According<\/mark> to legend, under the guidance of these three daedrai Lords...",
+            "fid" : "content" } ] } ] }

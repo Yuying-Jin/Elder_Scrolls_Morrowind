@@ -1,0 +1,25 @@
+
+  { "stem" : "herein",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Herein",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "<mark>Herein<\/mark> are presented all manner of riddles, as collected by the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "herein",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : "What benefits may be gained shall be listed <mark>herein<\/mark> for the edification of the worshipper and pilgrim.",
+            "fid" : "content" } ] } ] }

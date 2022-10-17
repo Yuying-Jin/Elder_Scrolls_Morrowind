@@ -1,0 +1,48 @@
+
+  { "stem" : "motiv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "motives",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...accounts and varying interpretations which hint at darker and less heroic <mark>motives<\/mark> and actions of the Tribunes. In particular, conflicting accounts...",
+            "fid" : "content" },
+          
+          { "form" : "motivated",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...agree that the persecution of the Nerevarines is unjust and politically <mark>motivated<\/mark>. The Dissident priests do not reject mysticism, revelation,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "motives",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...accounts and varying interpretations which hint at darker and less heroic <mark>motives<\/mark> and actions of the Tribunes. In particular, conflicting accounts...",
+            "fid" : "content" },
+          
+          { "form" : "motivated",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...agree that the persecution of the Nerevarines is unjust and politically <mark>motivated<\/mark>. The Dissident priests do not reject mysticism, revelation,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "motivations",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...and the darker themes represented by this daedrai Lord's modes and <mark>motivations<\/mark>.",
+            "fid" : "content" } ] } ] }

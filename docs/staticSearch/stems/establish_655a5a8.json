@@ -1,0 +1,65 @@
+
+  { "stem" : "establish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "established",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : " The Guild of Fighters was <mark>established<\/mark> under the section 4 of the \"Guilds Act,\" and this...",
+            "fid" : "content" },
+          
+          { "form" : "established",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "Chapters are <mark>established<\/mark> in Guild-owned, free-standing guildhalls in the...",
+            "fid" : "content" },
+          
+          { "form" : "established",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "...of Ald'ruhn and Balmora. The chapter in Sadright Mora is <mark>established<\/mark> in Wolverine Hall: Sadrith Mora Fighters Guild under lease from...",
+            "fid" : "content" },
+          
+          { "form" : "established",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...lease from the Telvanni Council. The chapter in Vivec is <mark>established<\/mark> in the Foreign Quarter under lease from the Tribunal Temple....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "establishment",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...in Tel Naga. The Gateway merchant inn is the only <mark>establishment<\/mark> with public beds. Members of the Fighters Guild, Mages...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "established",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...the Innocent Quarry: Chimere believes that Dagon had Caecilly Island <mark>established<\/mark> as the site of the Chapel of the Innocent Quarry to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "established",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...by all Temple traditions. Nonetheless, the tale is firmly <mark>established<\/mark> in the Dunmer imagination, as if to say, \"Of...",
+            "fid" : "content" } ] } ] }

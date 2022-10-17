@@ -1,0 +1,36 @@
+
+  { "stem" : "wind",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wind",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "In the great <mark>wind<\/mark> of progress, tradition cannot stand.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Wind",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "<mark>Wind<\/mark> and Rain",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wind",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...for intruders. Vanis was known to be faster than the <mark>wind<\/mark>, a warrior who could thrash his opponents before they even...",
+            "fid" : "content" } ] } ] }

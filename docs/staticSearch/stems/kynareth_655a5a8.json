@@ -1,0 +1,43 @@
+
+  { "stem" : "kynareth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Kynareth",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "..., Dibella, Arkay, Zenithar, Mara, Stendarr, <mark>Kynareth<\/mark>, and Julianos, and the Talos cult, veneration of...",
+            "fid" : "content" },
+          
+          { "form" : "Kynareth",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "..., Dibella, Arkay, Zenithar, Mara, Stendarr, <mark>Kynareth<\/mark>, Julianos, and Tiber Septim. We preach the Nine...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Kynareth",
+            "weight" : "1",
+            "pos" : 6781,
+            "context" : "<mark>Kynareth<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kynareth",
+            "weight" : "1",
+            "pos" : 6896,
+            "context" : "<mark>kynareth<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

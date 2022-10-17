@@ -1,0 +1,36 @@
+
+  { "stem" : "doubt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "doubt",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...you for your pride, Lord Vivec. I shall not <mark>doubt<\/mark> myself, or my people, or my gods, and shall...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Doubtful",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "<mark>Doubtful<\/mark>, but having no other prospects, the old woman sent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "doubt",
+            "weight" : "1",
+            "pos" : 710,
+            "context" : "...chain of reactions that every betrayed person exhibits: nervousness, <mark>doubt<\/mark>, bewilderment, anger.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "aedra",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aedra",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...The cults combine the worship of the Nine Divines, the <mark>Aedra<\/mark> Akatosh, Dibella, Arkay, Zenithar, Mara, Stendarr...",
+            "fid" : "AedraAkatosh" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aedra",
+            "weight" : "1",
+            "pos" : 6236,
+            "context" : "<mark>Aedra<\/mark> Akatosh" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aedra",
+            "weight" : "1",
+            "pos" : 6292,
+            "context" : "<mark>aedra<\/mark> akatosh",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

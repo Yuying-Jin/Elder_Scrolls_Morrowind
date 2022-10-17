@@ -1,0 +1,54 @@
+
+  { "stem" : "religi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "religious",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...Alessian Order, which Heartlanders regard as a dark age, <mark>religious<\/mark> cults have played only minor parts in Heartlanders and Imperial history...",
+            "fid" : "content" },
+          
+          { "form" : "religious",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...as a private and practical matter, and public pronouncements by <mark>religious<\/mark> figures are not welcomed.",
+            "fid" : "content" },
+          
+          { "form" : "religious",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "The differences in <mark>religious<\/mark> temperament between Heartlanders and Morrowind Dunmer accounts in large part for...",
+            "fid" : "content" },
+          
+          { "form" : "religious",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "Heartlanders are casual and tolerant in <mark>religious<\/mark> matters; Dunmer are passionate and extremely intolerant. Heartlanders do...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "religious",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...reject mysticism, revelation, or prophecy as part of the <mark>religious<\/mark> experience. The Dissidents have not resolved the issue of true...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "religious",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...reject mysticism, revelation, or prophecy as part of the <mark>religious<\/mark> experience. The Dissidents have not resolved the issue of true...",
+            "fid" : "content" } ] } ] }

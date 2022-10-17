@@ -1,0 +1,14 @@
+
+  { "stem" : "morn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "morning",
+            "weight" : "1",
+            "pos" : 539,
+            "context" : "...bulges. \"We'll meet back at the Plot and Plaster tomorrow <mark>morning<\/mark> and split up the bounty.\"",
+            "fid" : "content" } ] } ] }

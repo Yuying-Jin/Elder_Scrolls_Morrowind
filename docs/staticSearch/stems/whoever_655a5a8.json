@@ -1,0 +1,14 @@
+
+  { "stem" : "whoever",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "whoever",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...and held for ransom, her mother sent word out that <mark>whoever<\/mark> rescued her would be allowed to marry her and inherit the...",
+            "fid" : "content" } ] } ] }

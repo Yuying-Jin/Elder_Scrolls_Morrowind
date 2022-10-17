@@ -1,0 +1,70 @@
+
+  { "stem" : "throughout",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "throughout",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "The word went out quickly <mark>throughout<\/mark> Morrowind: the most intelligent man alive was in the province...",
+            "fid" : "content" },
+          
+          { "form" : "throughout",
+            "weight" : "1",
+            "pos" : 483,
+            "context" : "The word went out quickly <mark>throughout<\/mark> Morrowind: the toughest man alive was in the province....",
+            "fid" : "content" },
+          
+          { "form" : "throughout",
+            "weight" : "1",
+            "pos" : 649,
+            "context" : "The word went out quickly <mark>throughout<\/mark> Morrowind: the most agile man alive was in the province...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Capns_Guide_to_the_Fishy_Stick",
+        "docUri" : "librarium\/Capns_Guide_to_the_Fishy_Stick.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throughout",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "This book is supposedly the definitive reference to fishy sticks <mark>throughout<\/mark> Tamriel, but the pages are so smeared with fishy stick...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throughout",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...and services for all these gods at Imperial shrines in settlements <mark>throughout<\/mark> Vvardenfell.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throughout",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : "...further than the Foreign Quarter, but now outlanders can travel <mark>throughout<\/mark> Vivec at will. The Imperial Guilds each have guildhalls and complete...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throughout",
+            "weight" : "1",
+            "pos" : 748,
+            "context" : "...the port village of Seyda Neen is a beacon to mariners <mark>throughout<\/mark> the Inner Sea. Most visitors from the Empire make landfall...",
+            "fid" : "content" } ] } ] }

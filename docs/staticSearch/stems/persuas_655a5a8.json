@@ -1,0 +1,25 @@
+
+  { "stem" : "persuas",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "persuasion",
+            "weight" : "1",
+            "pos" : 529,
+            "context" : "...travel in town and village, and should be skilled in <mark>persuasion<\/mark> and mercantile matters. Also, almoners with personal wealth are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "persuasion",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...would help him. The ring gave its wearer great powers of <mark>persuasion<\/mark>; for safety, it was enchanted to instantly kill anyone...",
+            "fid" : "content" } ] } ] }

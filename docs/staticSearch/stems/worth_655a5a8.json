@@ -1,0 +1,49 @@
+
+  { "stem" : "worth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "worth",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...gave him was enough to make all his days since then <mark>worth<\/mark> their while.",
+            "fid" : "content" },
+          
+          { "form" : "worth",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...Yakin. \"But in return, I want your next season's <mark>worth<\/mark> of trama root, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "worth",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...Yakin. \"But in return, I want your next season's <mark>worth<\/mark> of chokeweed, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "worth",
+            "weight" : "1",
+            "pos" : 550,
+            "context" : "...Yakin. \"But in return, I want your next season's <mark>worth<\/mark> of gold kanet, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "worth",
+            "weight" : "1",
+            "pos" : 761,
+            "context" : "...learned how to fortify his personality in exchange for next season's <mark>worth<\/mark> of willow anther. Then they lived happily ever after.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "worth",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...virtues they represent. A light, careless life is not <mark>worth<\/mark> living. Redoran settlements are designed in the Dunmer village style...",
+            "fid" : "content" } ] } ] }

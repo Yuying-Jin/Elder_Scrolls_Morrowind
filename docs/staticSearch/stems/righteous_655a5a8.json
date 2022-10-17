@@ -1,0 +1,25 @@
+
+  { "stem" : "righteous",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "righteous",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "Only a <mark>righteous<\/mark> Dunmer, bound by blood to hearth and kin, bound...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "righteous",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...the New Temple, and an aspect of the blessed and <mark>righteous<\/mark> ALMSIVI.",
+            "fid" : "content" } ] } ] }

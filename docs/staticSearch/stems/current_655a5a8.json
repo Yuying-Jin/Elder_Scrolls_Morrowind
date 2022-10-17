@@ -1,0 +1,58 @@
+
+  { "stem" : "current",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "currently",
+            "weight" : "1",
+            "pos" : 654,
+            "context" : "...The site has a nasty reputation, and several Telvanni wizards <mark>currently<\/mark> have competing camps of hirelings and adventurers exploring and looting there....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "currently",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : "...The frontier installation, Fort Darius in Gnisis village, is <mark>currently<\/mark> the only under-strength garrison on Vvardenfell. Qualified citizens seeking...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "current",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...Council of Vvardenfell District for 3E 426. It lists the <mark>current<\/mark> members of the council and their residences. It also chronicles...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "current",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "Nordic hero-cults provide a strong counter-<mark>current<\/mark> to the dominant secularism of the Empire. The Imperial Cult...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "currents",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "..., unconsciously, they accept the notion of darker, hidden <mark>currents<\/mark> beneath Vivec's benevolent aspects.",
+            "fid" : "content" } ] } ] }

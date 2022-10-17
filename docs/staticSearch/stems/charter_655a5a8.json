@@ -1,0 +1,228 @@
+
+  { "stem" : "charter",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 15,
+        "contexts" : 
+        [ 
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 895,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 994,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 1282,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 1372,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 3323,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4511,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4597,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4784,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4875,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4889,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 5205,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 5512,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 6768,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 7345,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 14,
+        "contexts" : 
+        [ 
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 711,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 810,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 1113,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 1203,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 3152,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4366,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4442,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4667,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4747,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 2" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 4796,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 5059,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 5304,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 4" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 6682,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1" },
+          
+          { "form" : "Charter",
+            "weight" : "1",
+            "pos" : 7230,
+            "context" : "Fighter's Guild <mark>Charter<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "chartered",
+            "weight" : "1",
+            "pos" : 327,
+            "context" : " Pelagiad is a newly <mark>chartered<\/mark> Imperial village between Balmora and Vivec City on the western edge...",
+            "fid" : "content" },
+          
+          { "form" : "chartered",
+            "weight" : "1",
+            "pos" : 1136,
+            "context" : " Caldera is a recently <mark>chartered<\/mark> Imperial town and mining corporation. The Caldera Mining Company has...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "charter",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...under the section 4 of the \"Guilds Act,\" and this <mark>charter<\/mark> was first confirmed under the Potentate Versidue Shaie in the 321...",
+            "fid" : "content" } ] } ] }

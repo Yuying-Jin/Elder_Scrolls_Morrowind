@@ -1,0 +1,14 @@
+
+  { "stem" : "encircl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "encircles",
+            "weight" : "1",
+            "pos" : 1046,
+            "context" : ".... The Ghostfence itself is a colossal magical artifact that completely <mark>encircles<\/mark> Red Mountain and prevents the Blight from spilling its corruption across...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "fog",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fog",
+            "weight" : "1",
+            "pos" : 730,
+            "context" : "...provide refuge for criminal trade, and the frequent rain and <mark>fog<\/mark> hides small boats from Excise cutters.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,73 @@
+
+  { "stem" : "egroamaro",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Egroamaro",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...rid The Grazelands of a rogue battlemage by the name of <mark>Egroamaro<\/mark>.”",
+            "fid" : "content" },
+          
+          { "form" : "Egroamaro",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...perhaps Darkness which would allow you to sneak up on old <mark>Egroamaro<\/mark>.”",
+            "fid" : "content" },
+          
+          { "form" : "Egroamaro",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...have time to learn one spell. I have to kill <mark>Egroamaro<\/mark>, collect the award, and be back in Gnisis as...",
+            "fid" : "content" },
+          
+          { "form" : "Egroamaro's",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : "...old teacher and set off on his way. Indoranyon, <mark>Egroamaro's<\/mark> stronghold, was not far from Sadrith Mora, and he...",
+            "fid" : "content" },
+          
+          { "form" : "Egroamaro",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...the ruins, Silverthorn was set upon by the servitors of <mark>Egroamaro<\/mark>, living and undead. With his enchanted ebony blade,...",
+            "fid" : "content" },
+          
+          { "form" : "Egroamaro",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "<mark>Egroamaro<\/mark> bowed to his adversary sardonically, and then prepared to unleash...",
+            "fid" : "content" },
+          
+          { "form" : "Egroamaro",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "...his head, enjoying the silence. He could have killed <mark>Egroamaro<\/mark> without the spell, he considered, but he could not...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Egroamaro",
+            "weight" : "1",
+            "pos" : 6537,
+            "context" : "<mark>Egroamaro<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "egroamaro",
+            "weight" : "1",
+            "pos" : 6646,
+            "context" : "<mark>egroamaro<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

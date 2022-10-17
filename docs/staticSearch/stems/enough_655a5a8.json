@@ -1,0 +1,97 @@
+
+  { "stem" : "enough",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...locals at the Plot and Plaster cornerclub in Tel Aruhn knew <mark>enough<\/mark> not to listen in, but she knew better than to take...",
+            "fid" : "content" },
+          
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "...of becoming blood stained if you don't move the head quickly <mark>enough<\/mark>. If you're unsure, strangle the victim first to avoid...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 189,
+            "context" : "...dead, the ceaseless weeping of the necromancer's thrall? Cruel <mark>enough<\/mark> is the ancestor's service given in love to Hearth and Kin...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "...decay of the corpse, and if the corpse is fresh <mark>enough<\/mark> to have an unpleasant odor, the salts will remove that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 354,
+            "context" : "\"Masters Harakostil and Thelegorm compressed themselves low <mark>enough<\/mark> to squirm under the gates so they could lower the bridge...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : "...battlemage, and where would that leave me? Do we have <mark>enough<\/mark> gold that I could support myself if you, Saint Seryn let...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...if all the seas were ink, I could not write <mark>enough<\/mark> how I shall miss her.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : ".... The Hide of the Savior turned Dagon's titanic fury long <mark>enough<\/mark> for Chimere to deliver his own attack -- an incantation invoked...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enough",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...hurt her, and the look of appreciation she gave him was <mark>enough<\/mark> to make all his days since then worth their while.",
+            "fid" : "content" } ] } ] }

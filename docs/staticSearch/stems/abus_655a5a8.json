@@ -1,0 +1,14 @@
+
+  { "stem" : "abus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abused",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "...be warranted. And safeguard that the Congeries shall not be <mark>abused<\/mark> by prideful wizards, confident in their skill and blinded by...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,54 @@
+
+  { "stem" : "white",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "The Poppy, both black and <mark>white<\/mark>, can be found growing wild in the mountains of Hammerfell...",
+            "fid" : "content" },
+          
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...wilderness without rations. It is said that the black and <mark>white<\/mark> poppies together have magical properties. When they are crushed and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 581,
+            "context" : "<mark>white<\/mark>_bloatroot" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 755,
+            "context" : "<mark>white<\/mark> bloatroot",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "white",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...impressive garden of willow anther, gold kanet, chokeweed, <mark>white<\/mark> bloatroot, and trama shrubs. He had also grown himself...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "lowest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "lowest",
+            "weight" : "1",
+            "pos" : 378,
+            "context" : "...and a hall of records. Slaves are housed in the <mark>lowest<\/mark> tiers, along with cells full of monsters. There are...",
+            "fid" : "content" },
+          
+          { "form" : "lowest",
+            "weight" : "1",
+            "pos" : 417,
+            "context" : "..., Hall of Records, and Holding Cells. On the <mark>lowest<\/mark> tier is a Redoran shrine and ancestral vaults. Two noble...",
+            "fid" : "content" } ] } ] }

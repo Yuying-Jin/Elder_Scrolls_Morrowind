@@ -1,0 +1,54 @@
+
+  { "stem" : "port",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "port",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...corner of town, convenient to West Gate and the strider <mark>port<\/mark>, while the Temple is located on high ground to the...",
+            "fid" : "content" },
+          
+          { "form" : "port",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "...to the west, near West Gate and the silt strider <mark>port<\/mark>. The Rat in the Pot cornerclub is in south Ald'ruhn...",
+            "fid" : "content" },
+          
+          { "form" : "port",
+            "weight" : "1",
+            "pos" : 335,
+            "context" : "...for signposts, or you'll get lost. The silt strider <mark>port<\/mark> is along the western town wall, north of West Gate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "port",
+            "weight" : "1",
+            "pos" : 742,
+            "context" : "...the Grand Pharos at the mouth of the harbor of the <mark>port<\/mark> village of Seyda Neen is a beacon to mariners throughout the...",
+            "fid" : "content" },
+          
+          { "form" : "port",
+            "weight" : "1",
+            "pos" : 755,
+            "context" : "...Sea. Most visitors from the Empire make landfall at the <mark>port<\/mark> of Seyda Neen, where they are processed by the Imperial...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "port",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...to graves being uncovered. It is said that in the <mark>port<\/mark> of Senchal, one may purchase anything one desires. This...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "spi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "spies",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...outlanders in my court,\" said the Ashkhan. \"Many are <mark>spies<\/mark>.\"",
+            "fid" : "content" },
+          
+          { "form" : "spy",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...fact, the irony is that he thought S'Rabba was a <mark>spy<\/mark> for you. Well, you know Khajiit. Actually, maybe...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,115 @@
+
+  { "stem" : "citizen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "citizens",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...employment to free-swords and mercenaries and contracts to local <mark>citizens<\/mark>. Citizens may contract with the Guild for the removal of...",
+            "fid" : "content" },
+          
+          { "form" : "Citizens",
+            "weight" : "1",
+            "pos" : 55,
+            "context" : "...free-swords and mercenaries and contracts to local citizens. <mark>Citizens<\/mark> may contract with the Guild for the removal of creatures and...",
+            "fid" : "content" },
+          
+          { "form" : "Citizens",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : " <mark>Citizens<\/mark> who contract with the Guild of Fighters and have a dispute...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "citizens",
+            "weight" : "1",
+            "pos" : 106,
+            "context" : "...the Divine Plan. We pledge aid and comfort to all <mark>citizens<\/mark> in need, and serve the Emperor and Empire at his...",
+            "fid" : "content" },
+          
+          { "form" : "citizens",
+            "weight" : "1",
+            "pos" : 201,
+            "context" : " The Imperial cult accepts all <mark>citizens<\/mark> of good character and earnest faith. We ask only a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "citizens",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...is currently the only under-strength garrison on Vvardenfell. Qualified <mark>citizens<\/mark> seeking enlistment in the Imperial Legion should apply to the commander...",
+            "fid" : "content" },
+          
+          { "form" : "citizen's",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...endurance, the soldierly virtue, and trustworthy personality, the <mark>citizen's<\/mark> virtue, for service in the Legion is the model for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "citizens",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "...Necromancy are only illegal in the province of Morrowind, few <mark>citizens<\/mark> of the Empire have an enlightened view of our Art....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Citizens",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...Vivec are visited by hundreds of tourists and pilgrims daily. <mark>Citizens<\/mark> flock to the Arena for public entertainments like mock battles and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Citizens",
+            "weight" : "1",
+            "pos" : 263,
+            "context" : "...Vivec are visited by hundreds of tourists and pilgrims daily. <mark>Citizens<\/mark> flock to the Arena for entertainments and war games. Outlanders...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Citizens",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "\"...I have noted that Heartlanders like myself, and assimilated Imperial <mark>Citizens<\/mark> of other races, tend to impersonal and formal relationships with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "citizens",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "..., Caecilly Island was cast into the void, all its <mark>citizens<\/mark> were horribly slain, and Chimere was condemned to live forever...",
+            "fid" : "content" } ] } ] }

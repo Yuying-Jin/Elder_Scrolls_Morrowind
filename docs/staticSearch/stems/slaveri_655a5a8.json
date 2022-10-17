@@ -1,0 +1,64 @@
+
+  { "stem" : "slaveri",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "slavery",
+            "weight" : "1",
+            "pos" : 693,
+            "context" : "...Telvanni. The Imperial cult especially disapproves of the practice of <mark>slavery<\/mark>, and looks forward to the day when slavery is illegal...",
+            "fid" : "content" },
+          
+          { "form" : "slavery",
+            "weight" : "1",
+            "pos" : 697,
+            "context" : "...practice of slavery, and looks forward to the day when <mark>slavery<\/mark> is illegal in all Imperial provinces. The Imperial cult also...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "slavery",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...our tombs, to bind our kin-spirits into sorcerous <mark>slavery<\/mark>, to steal the lives of our dead as well as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "slavery",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "...to proposals placed before Duke Dren and the Grand Council concerning <mark>slavery<\/mark> and slave trading in Vvardenfell District. The right to own...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "slavery",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...its practice impossible were it not for the fortunate institution of <mark>slavery<\/mark>. While the Temple will investigate obvious signs of Necromancy such...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "slavery",
+            "weight" : "1",
+            "pos" : 531,
+            "context" : "...in particular opposed to any attempts to limit the institution of <mark>slavery<\/mark>.",
+            "fid" : "content" } ] } ] }

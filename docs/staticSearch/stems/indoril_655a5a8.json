@@ -1,0 +1,155 @@
+
+  { "stem" : "indoril",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "...: House Hlaalu, House Redoran, House Telvanni, House <mark>Indoril<\/mark>, and House Dres. Only three of these Houses have...",
+            "fid" : "content" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 443,
+            "context" : "House <mark>Indoril<\/mark> and House Dres are the two Great Houses without holdings or...",
+            "fid" : "content" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 453,
+            "context" : "...the two Great Houses without holdings or interest in Vvardenfell. <mark>Indoril<\/mark> District occupies the heartland of Morrowind, comprising the lands south...",
+            "fid" : "content" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 468,
+            "context" : "...the eastern coast. The city of Almalexia is located in <mark>Indoril<\/mark> District, and the Indoril are orthodox and conservative supporters of...",
+            "fid" : "content" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "...city of Almalexia is located in Indoril District, and the <mark>Indoril<\/mark> are orthodox and conservative supporters of the Temple and Temple authority...",
+            "fid" : "content" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 478,
+            "context" : "...and conservative supporters of the Temple and Temple authority. House <mark>Indoril<\/mark> is openly hostile to Imperial culture and religion, and preserves...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 2331,
+            "context" : "<mark>Indoril<\/mark>" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 5474,
+            "context" : "<mark>Indoril<\/mark>" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 6955,
+            "context" : "<mark>Indoril<\/mark> Nerevar" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 7181,
+            "context" : "Sedura_<mark>Indoril<\/mark>_Pavflek_Mamoona" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "indoril",
+            "weight" : "1",
+            "pos" : 2497,
+            "context" : "<mark>indoril<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "indoril",
+            "weight" : "1",
+            "pos" : 5717,
+            "context" : "<mark>indoril<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "indoril",
+            "weight" : "1",
+            "pos" : 6960,
+            "context" : "sedura <mark>indoril<\/mark> pavflek mamoona",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "indoril",
+            "weight" : "1",
+            "pos" : 7088,
+            "context" : "<mark>indoril<\/mark> nerevar",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...through the thick tall trama shrubs about the marriage of Sedura <mark>Indoril<\/mark> Pavflek Mamoona, one of the wealthiest and most respected nobles...",
+            "fid" : "content" },
+          
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "Not long afterwards, Sedura <mark>Indoril<\/mark> Pavflek Mamoona fell ill and died, despite all the skills...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "'Go to the land of the <mark>Indoril<\/mark> in three months' time, for that is when war comes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "...be, no individual can withstand the march of history. The <mark>Indoril<\/mark> are loved by the people for their gifts and donations,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indoril",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : " Lord Nerevar <mark>Indoril<\/mark>, Hail Resdaynia My Lord, Friend, and Companion " } ] } ] }

@@ -1,0 +1,65 @@
+
+  { "stem" : "search",
+    "instances" : 
+    [ 
+      { "docId" : "search",
+        "docUri" : "search.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Search",
+            "weight" : "1",
+            "pos" : 4,
+            "context" : " This page requires JavaScript.<mark>Search<\/mark>ClearSearch                          ",
+            "fid" : "ssDoSearch" },
+          
+          { "form" : "Search",
+            "weight" : "1",
+            "pos" : 5,
+            "context" : "  <mark>Search<\/mark> only in         ",
+            "fid" : "ssForm" },
+          
+          { "form" : "Search",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : " This page requires JavaScript.SearchClear<mark>Search<\/mark>                          ",
+            "fid" : "ssDoSearch2" },
+          
+          { "form" : "Searching",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "<mark>Searching<\/mark>...",
+            "fid" : "ssSearching" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "search",
+            "weight" : "1",
+            "pos" : 845,
+            "context" : "...Ashlanders of Zainab camp move their herds across the plains in <mark>search<\/mark> of fresh grazing. There are no roads or tracks,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "search",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "It took a little over an hour for Harithoel to <mark>search<\/mark> the island from one end to the other. He turned back...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "search",
+            "weight" : "1",
+            "pos" : 700,
+            "context" : "...have to invent a new test for suitors, while I <mark>search<\/mark> for my true love.\"",
+            "fid" : "content" } ] } ] }

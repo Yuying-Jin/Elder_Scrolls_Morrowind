@@ -1,0 +1,14 @@
+
+  { "stem" : "loom",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "loom",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "The gaunt ghostfires <mark>loom<\/mark> as subtle shrouds,",
+            "fid" : "content" } ] } ] }

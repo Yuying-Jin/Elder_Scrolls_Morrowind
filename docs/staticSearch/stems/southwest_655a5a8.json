@@ -1,0 +1,53 @@
+
+  { "stem" : "southwest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "southwest",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...of Ghosts, on the west by Skyrim, on the <mark>southwest<\/mark> by Cyrodiil (also known as the Imperial Province), and...",
+            "fid" : "content" },
+          
+          { "form" : "southwest",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...the island's population is confined to the relatively hospitable west and <mark>southwest<\/mark> coast, centered on the ancient city of Vivec and the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "southwest",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...Most guildhalls, cornerclubs, and merchants are sited in the <mark>southwest<\/mark> corner of town, convenient to West Gate and the strider...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "southwest",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...Redoran Compound northwest, Arena northeast, St. Delyn's Canton <mark>southwest<\/mark>, and St. Olms Canton southeast.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "southwest",
+            "weight" : "1",
+            "pos" : 604,
+            "context" : "..., a volcanic ravine running from the top of Red Mountain <mark>southwest<\/mark> to its end just below Balmora. An old Dwemer bridge...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "profess",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "profession",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...drinking now,” sighed Silverthorn. “So tell me, what is your <mark>profession<\/mark>?”",
+            "fid" : "content" } ] } ] }

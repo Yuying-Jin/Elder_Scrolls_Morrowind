@@ -1,0 +1,14 @@
+
+  { "stem" : "align",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aligned",
+            "weight" : "1",
+            "pos" : 410,
+            "context" : "...stupidity were driving the other two, but the fates were <mark>aligned<\/mark>. The guildhouse was going to be robbed.",
+            "fid" : "content" } ] } ] }

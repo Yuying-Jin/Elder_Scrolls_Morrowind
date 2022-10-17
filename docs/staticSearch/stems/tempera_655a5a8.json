@@ -1,0 +1,25 @@
+
+  { "stem" : "tempera",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "temperament",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "The differences in religious <mark>temperament<\/mark> between Heartlanders and Morrowind Dunmer accounts in large part for consistent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "temperament",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "Outsiders learning of the rabid isolationist and outlander-hating <mark>temperament<\/mark> of House Telvanni wizards often assume it would be impossible to...",
+            "fid" : "content" } ] } ] }

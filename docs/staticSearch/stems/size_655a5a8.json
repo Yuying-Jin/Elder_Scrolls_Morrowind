@@ -1,0 +1,25 @@
+
+  { "stem" : "size",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "size",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...in the East. Each of the great cantons is the <mark>size<\/mark> of a complete town. The High Fane and the palace...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "size",
+            "weight" : "1",
+            "pos" : 251,
+            "context" : "...in the East. Each of the great cantons is the <mark>size<\/mark> of a complete town. The High Fane and the palace...",
+            "fid" : "content" } ] } ] }

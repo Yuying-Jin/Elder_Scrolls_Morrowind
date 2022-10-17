@@ -1,0 +1,14 @@
+
+  { "stem" : "miracl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "miracle",
+            "weight" : "1",
+            "pos" : 377,
+            "context" : "...\"You can walk!\" he said, laughing. \"It's a <mark>miracle<\/mark>!\"",
+            "fid" : "content" } ] } ] }

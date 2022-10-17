@@ -1,0 +1,42 @@
+
+  { "stem" : "usual",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "usually",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "..., commonly found along all coasts. bread in Morrowind is <mark>usually<\/mark> baked from saltrice flour. Kwama eggs are harvested from egg...",
+            "fid" : "content" },
+          
+          { "form" : "usually",
+            "weight" : "1",
+            "pos" : 488,
+            "context" : "...on the other hand, are very rare and expensive and <mark>usually<\/mark> must be purchased from fine alchemists.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "usually",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...about three feet and have feathery leaves; the flowers are <mark>usually<\/mark> bright red. In addition to their beauty, they are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "usual",
+            "weight" : "1",
+            "pos" : 819,
+            "context" : "...bed, waiting, but there was no sound except the <mark>usual<\/mark> creaks and groans of his old house. Afternoon sunlight came...",
+            "fid" : "content" } ] } ] }

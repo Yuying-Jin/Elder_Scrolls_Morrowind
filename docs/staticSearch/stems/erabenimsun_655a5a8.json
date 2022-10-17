@@ -1,0 +1,49 @@
+
+  { "stem" : "erabenimsun",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Erabenimsun",
+            "weight" : "1",
+            "pos" : 899,
+            "context" : "...and is complicated by frequent ash storms. The Ashlanders of <mark>Erabenimsun<\/mark> camp hunt game here, but few others venture into this region...",
+            "fid" : "content" },
+          
+          { "form" : "Erabenimsun",
+            "weight" : "1",
+            "pos" : 950,
+            "context" : " The Ashlander <mark>Erabenimsun<\/mark> tribe has a permanent settlement at Erabenimsun camp, an isolated...",
+            "fid" : "content" },
+          
+          { "form" : "Erabenimsun",
+            "weight" : "1",
+            "pos" : 954,
+            "context" : " The Ashlander Erabenimsun tribe has a permanent settlement at <mark>Erabenimsun<\/mark> camp, an isolated hut settlement in the middle of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Erabenimsun",
+            "weight" : "1",
+            "pos" : 1691,
+            "context" : "<mark>Erabenimsun<\/mark> camp" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "erabenimsun",
+            "weight" : "1",
+            "pos" : 1862,
+            "context" : "<mark>erabenimsun<\/mark> camp",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

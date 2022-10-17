@@ -1,0 +1,36 @@
+
+  { "stem" : "guidanc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "guidance",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...them to your will. Look to my children in Cyrodiil for <mark>guidance<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "guidance",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...people, and has been for generation upon generation. With <mark>guidance<\/mark> and counsel of Almalexia, Vivec, and Sotha Sil,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "guidance",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...the Anticipation of Vivec. According to legend, under the <mark>guidance<\/mark> of these three daedrai Lords, a discontented throng of Altmer...",
+            "fid" : "content" } ] } ] }

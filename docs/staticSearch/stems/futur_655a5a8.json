@@ -1,0 +1,25 @@
+
+  { "stem" : "futur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "future",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...the Masters, for they bridge the past and span the <mark>future<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "future",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...the Masters, for they bridge the past and span the <mark>future<\/mark>.",
+            "fid" : "content" } ] } ] }

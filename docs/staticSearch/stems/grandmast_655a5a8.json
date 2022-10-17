@@ -1,0 +1,37 @@
+
+  { "stem" : "grandmast",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grandmaster",
+            "weight" : "1",
+            "pos" : 6643,
+            "context" : "<mark>Grandmaster<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "grandmaster",
+            "weight" : "1",
+            "pos" : 6744,
+            "context" : "<mark>grandmaster<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Grandmaster",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...oath and enter our service, the worthy must seek the <mark>Grandmaster<\/mark>, who by tradition lives in the unseen and unlooked-for...",
+            "fid" : "content" } ] } ] }

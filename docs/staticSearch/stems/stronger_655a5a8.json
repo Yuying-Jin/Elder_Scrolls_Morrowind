@@ -1,0 +1,64 @@
+
+  { "stem" : "stronger",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stronger",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "..., and smiled upon him, \"Baranat, I will make you <mark>stronger<\/mark> than a hundred warriors.\"",
+            "fid" : "content" },
+          
+          { "form" : "stronger",
+            "weight" : "1",
+            "pos" : 283,
+            "context" : ".... Horis, who was faster than his brother Vanis, <mark>stronger<\/mark> than his brother Feryn, and so tough that he could...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stronger",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...to move itself. Most importantly, you will have a much <mark>stronger<\/mark> servant who will follow your commands with more independence and understanding...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stronger",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...our doctrines is -- help and protect one another. The <mark>stronger<\/mark> one is, the wealthier one is, the more one bears responsibility...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stronger",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "...and accumulated lore, but even the weakest vampire is immeasurably <mark>stronger<\/mark> than most other undead. Note: Ash vampires are not...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stronger",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...and accumulated lore, but even the weakest vampire is immeasurably <mark>stronger<\/mark> than most other undead. Note: Ash vampires are not...",
+            "fid" : "content" } ] } ] }

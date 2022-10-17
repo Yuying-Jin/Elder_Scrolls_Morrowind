@@ -1,0 +1,83 @@
+
+  { "stem" : "indari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Indarys",
+            "weight" : "1",
+            "pos" : 2299,
+            "context" : "<mark>Indarys<\/mark> Manor, Manor Services" },
+          
+          { "form" : "Indarys",
+            "weight" : "1",
+            "pos" : 2308,
+            "context" : "<mark>Indarys<\/mark>_Manor" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "indarys",
+            "weight" : "1",
+            "pos" : 2465,
+            "context" : "<mark>indarys<\/mark> manor",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "indarys",
+            "weight" : "1",
+            "pos" : 2483,
+            "context" : "<mark>indarys<\/mark> manor, manor services",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indarys",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "<mark>Indarys<\/mark> Manor, Manor Services: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indarys",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "<mark>Indarys<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indarys",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "<mark>Indarys<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Indarys",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "<mark>Indarys<\/mark> Manor: Visitable? yes",
+            "fid" : "acq" } ] } ] }

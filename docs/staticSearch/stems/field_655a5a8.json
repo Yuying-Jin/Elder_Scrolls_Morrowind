@@ -1,0 +1,143 @@
+
+  { "stem" : "field",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Fields",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "<mark>Fields<\/mark> of Kummu: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Fields",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "The <mark>Fields<\/mark> of Kummu: Shrine of Humility",
+            "fid" : "content" },
+          
+          { "form" : "fields",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...the Lord Vivec removed his fine clothes and toiled in the <mark>fields<\/mark> like a beast of burden until the crop was harvested....",
+            "fid" : "content" },
+          
+          { "form" : "Fields",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...burden until the crop was harvested. It is at the <mark>Fields<\/mark> of Kummu we go to pray for the same humility Lord...",
+            "fid" : "content" },
+          
+          { "form" : "Fields",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "The <mark>Fields<\/mark> of Kummu are west of Suran on the north shore of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fields",
+            "weight" : "1",
+            "pos" : 1749,
+            "context" : "<mark>Fields<\/mark> of Kummu" },
+          
+          { "form" : "Fields",
+            "weight" : "1",
+            "pos" : 1756,
+            "context" : "<mark>Fields<\/mark>_of_Kummu" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "field",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : ".... Those who swear to avoid bloodshed, to take the <mark>field<\/mark> unarmored to fight only with blunt weapons, are especially praiseworthy...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "field",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "The Redoran may surpass us on the <mark>field<\/mark> of battle, but when the dust clears, they will...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fields",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...Isles region. Two popular pilgrimage sites are nearby -- the <mark>Fields<\/mark> of Kummu and the Molag Bal's Shrine.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fields",
+            "weight" : "1",
+            "pos" : 1920,
+            "context" : "<mark>fields<\/mark> of kummu",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "field",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...and to advance and maneuver, charge and retreat on the <mark>field<\/mark> of battle.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "field",
+            "weight" : "1",
+            "pos" : 566,
+            "context" : "...but I must leave now to meet Master Neloth on the <mark>field<\/mark>. I will soon return for a victory celebration, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fields",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "Gather no seed in the <mark>fields<\/mark> of Hell.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "field",
+            "weight" : "1",
+            "pos" : 582,
+            "context" : "...sees. In time, Oin came upon Funcrazot in a <mark>field<\/mark> outside the city, dOing his regular exercises. Oin cast...",
+            "fid" : "content" } ] } ] }

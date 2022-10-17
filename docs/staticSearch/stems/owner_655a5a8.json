@@ -1,0 +1,14 @@
+
+  { "stem" : "owner",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "owner",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : ".... In Elsweyr, it is common for the shop-<mark>owner<\/mark> to offer the prospective buyer tea or sweetmeats and engage in...",
+            "fid" : "content" } ] } ] }

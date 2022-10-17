@@ -1,0 +1,20 @@
+
+  { "stem" : "ran",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ran",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "Baranat dropped his blade and <mark>ran<\/mark> at Vanis, moving so fast he didn't rustle a leaf...",
+            "fid" : "content" },
+          
+          { "form" : "ran",
+            "weight" : "1",
+            "pos" : 466,
+            "context" : "The young adventurer <mark>ran<\/mark> to open the sack where Lady Genevrah lay. His first...",
+            "fid" : "content" } ] } ] }

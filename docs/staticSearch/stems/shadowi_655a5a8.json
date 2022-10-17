@@ -1,0 +1,25 @@
+
+  { "stem" : "shadowi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shadowy",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "... In the West, a <mark>shadowy<\/mark> fraternity of vampire hunters is believed to be primarily composed of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "shadowy",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...methods needed to bring about this transformation, Mephala was the <mark>shadowy<\/mark> implementer of those methods.",
+            "fid" : "content" } ] } ] }

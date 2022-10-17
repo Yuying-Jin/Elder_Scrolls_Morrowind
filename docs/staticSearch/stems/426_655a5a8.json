@@ -1,0 +1,717 @@
+
+  { "stem" : "426",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 53,
+        "contexts" : 
+        [ 
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "Brown Book of 3E <mark>426<\/mark>" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "Red Book of 3E <mark>426<\/mark>" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 401,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 441,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 642,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 714,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 885,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 9",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1150,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1183,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1265,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1331,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1413,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1497,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1587,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1628,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1751,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 2632,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 2842,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 7",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 2943,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 3066,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 3170,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 3179,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 3245,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 3762,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4376,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4615,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4708,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4761,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 14",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4766,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 11",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4850,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4903,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5076,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5161,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5626,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5630,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5662,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 5",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5703,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5985,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 15",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6160,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6409,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6469,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6530,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6926,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6934,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6945,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7037,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7142,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7190,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7264,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7528,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7569,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7649,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 50,
+        "contexts" : 
+        [ 
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 472,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 540,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 701,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 9" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 974,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1005,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1091,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1138,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1230,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1334,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1416,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1457,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 1582,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 2457,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 2673,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 7" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 2774,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 2893,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 2997,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 3006,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 3074,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 3606,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4233,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 2" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4451,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4529,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4633,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 14" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4638,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 11" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4720,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4768,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 4941,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5015,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5355,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5359,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5406,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 5" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5457,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5702,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 15" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 5859,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6334,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6386,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6422,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6668,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6809,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6817,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6825,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 6909,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7010,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7062,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7136,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7430,
+            "context" : "Yellow Book of 3E <mark>426<\/mark>, count: 1" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 7509,
+            "context" : "Red Book of 3E <mark>426<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...the affairs of the Redoran Council of Vvardenfell District for 3E <mark>426<\/mark>. It lists the current members of the council and their...",
+            "fid" : "content" },
+          
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "Councilors of House Redoran, Vvardenfell District, Imperial Era <mark>426<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "  Councilors of House Telvanni, Vvardenfell District, Imperial Era <mark>426<\/mark> Archmagister Gothren, Lord High Magus of Telvanni Council, Vvardenfell...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "426",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "Councilors of House Hlaalu, Vvardenfell District, Imperial Era <mark>426<\/mark>",
+            "fid" : "content" } ] } ] }

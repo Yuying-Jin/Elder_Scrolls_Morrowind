@@ -1,0 +1,31 @@
+
+  { "stem" : "afterward",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "afterwards",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "Not long <mark>afterwards<\/mark>, Sedura Indoril Pavflek Mamoona fell ill and died, despite...",
+            "fid" : "content" },
+          
+          { "form" : "afterwards",
+            "weight" : "1",
+            "pos" : 614,
+            "context" : "...effortlessly with a shield for ten minutes, and then revealed <mark>afterwards<\/mark> that he had picketpocketed the young man's purse.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "afterward",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...that I cannot express in words, except that it seemed <mark>afterward<\/mark> that I had been asleep and dreaming that I was being...",
+            "fid" : "content" } ] } ] }

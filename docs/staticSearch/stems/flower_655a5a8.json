@@ -1,0 +1,120 @@
+
+  { "stem" : "flower",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...Fern, a perennial herb, native to Morrowind. The <mark>flowers<\/mark> are inconspicuous and often hidden. The glossy, evergreen foliage...",
+            "fid" : "content" },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...inconspicuous and often hidden. The glossy, evergreen foliage and <mark>flowers<\/mark> are resistant to the conditions of high heat and bright light...",
+            "fid" : "content" },
+          
+          { "form" : "flower",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...name comes from the fire red fronds that protect its golden <mark>flower<\/mark>. As pretty as it is, it is a deadly poison...",
+            "fid" : "content" },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...grown by many residents of Valenwood for their beautiful and showy <mark>flowers<\/mark>. They attain a height of about three feet and have...",
+            "fid" : "content" },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...height of about three feet and have feathery leaves; the <mark>flowers<\/mark> are usually bright red. In addition to their beauty,...",
+            "fid" : "content" },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 217,
+            "context" : "...the appearance of anyone who carries or wears one of the <mark>flowers<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 267,
+            "context" : "...Ascadian Isles, known for its small, pinkish-purple <mark>flowers<\/mark>. Scuttle, Vvardenfell's favorite local dish, is similar to...",
+            "fid" : "content" },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 289,
+            "context" : "...following ingredients: trama root, racer plumes, and coda <mark>flowers<\/mark>. A thick, bitter-tasting root of the trama...",
+            "fid" : "content" },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : ".... racer plumes are plucked from dead cliff racers. coda <mark>flowers<\/mark> are collected from the primitive draggle-tail plant of the...",
+            "fid" : "content" },
+          
+          { "form" : "flowering",
+            "weight" : "1",
+            "pos" : 478,
+            "context" : "...from crushed diamonds and bittergreen petals. Bittergreen is a red <mark>flowering<\/mark> plant growing in the Red Mountain region. diamonds, on...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "coda_<mark>flowers<\/mark>" },
+          
+          { "form" : "Flowers",
+            "weight" : "1",
+            "pos" : 1763,
+            "context" : "<mark>Flowers<\/mark> of Gold" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "coda <mark>flowers<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "flowers",
+            "weight" : "1",
+            "pos" : 1932,
+            "context" : "<mark>flowers<\/mark> of gold",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Flowers",
+            "weight" : "1",
+            "pos" : 436,
+            "context" : "...are many tradesmen, craftsmen, and trainers, and the <mark>Flowers<\/mark> of Gold cornerclub provides lodgings for Redoran kin and retainers....",
+            "fid" : "content" } ] } ] }

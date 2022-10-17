@@ -1,0 +1,75 @@
+
+  { "stem" : "present",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "presentation",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "This explicit <mark>presentation<\/mark> of Vivec the Guardian God-King and Warrior-Poet...",
+            "fid" : "content" },
+          
+          { "form" : "present",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...contradictory themes. And all these subtle undercurrents and contradictions are <mark>present<\/mark> in the Dunmer concepts of Vivec, even if they are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "presents",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "The newly formed Orsinium <mark>presents<\/mark> a unique opportunity. As you know, Orc corpses are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "present",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...you are sure that all or nearly all the bones are <mark>present<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "present",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "Candidates must <mark>present<\/mark> themselves to the Steward of the Guild Hall for examination and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "presented",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "8th moon ....... \"I have <mark>presented<\/mark> to the few remaining Battlemages my last hope plan. I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "presented",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "Herein are <mark>presented<\/mark> all manner of riddles, as collected by the scholars of...",
+            "fid" : "content" } ] } ] }

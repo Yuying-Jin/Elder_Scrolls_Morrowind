@@ -1,0 +1,64 @@
+
+  { "stem" : "plan",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "plan",
+            "weight" : "1",
+            "pos" : 314,
+            "context" : "...—are designed as simple multi-storied buildings roughly rectangular in <mark>plan<\/mark>, featuring arched entranceways and modest decorated exteriors. More modest...",
+            "fid" : "content" },
+          
+          { "form" : "plan",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : ".... More modest one-story private dwellings follow the same <mark>plan<\/mark>, except with less decoration. Hlaalu plantation estates resemble Temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Plan",
+            "weight" : "1",
+            "pos" : 102,
+            "context" : "..., and the Empire is the worldly working of the Divine <mark>Plan<\/mark>. We pledge aid and comfort to all citizens in need...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "planned",
+            "weight" : "1",
+            "pos" : 465,
+            "context" : "...soon as the crate was removed, just as he had <mark>planned<\/mark>. \"Like you said, the trick is to anticipate where...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "plan",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...\"I have presented to the few remaining Battlemages my last hope <mark>plan<\/mark>. I will fight my way to the bowells of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "plan",
+            "weight" : "1",
+            "pos" : 395,
+            "context" : "...than a day, the three had met, formulated a <mark>plan<\/mark>, bought or stolen the necessary ingredients, and were about...",
+            "fid" : "content" } ] } ] }

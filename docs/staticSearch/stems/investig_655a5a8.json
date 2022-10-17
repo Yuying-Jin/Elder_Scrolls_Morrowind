@@ -1,0 +1,14 @@
+
+  { "stem" : "investig",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "investigate",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "...for the fortunate institution of slavery. While the Temple will <mark>investigate<\/mark> obvious signs of Necromancy such as hastily emptied graves or ash...",
+            "fid" : "content" } ] } ] }

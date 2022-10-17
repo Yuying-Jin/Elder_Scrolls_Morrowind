@@ -1,0 +1,86 @@
+
+  { "stem" : "much",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "much",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "S'Riizh was too battered to be of <mark>much<\/mark> help, but Harithoel was able to construct a crude shelter...",
+            "fid" : "content" },
+          
+          { "form" : "much",
+            "weight" : "1",
+            "pos" : 414,
+            "context" : "...\"S'Riizh watches though,\" said S'Riizh. \"You'd be surprised how <mark>much<\/mark> you can learn just by watching. Don't forget the fifth...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Much",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...the quality of the goods, even if they deserve it. <mark>Much<\/mark> better to admire the quality of workmanship, but comment that,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "much",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...strength to move itself. Most importantly, you will have a <mark>much<\/mark> stronger servant who will follow your commands with more independence and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "much",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...way. And thus Lord Vivec proved that ugliness is as <mark>much<\/mark> in one's manner as in one's appearance.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Much",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...No houseman ever served you better, or more faithfully. <mark>Much<\/mark> that I did was at your command, at great cost...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "much",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...pray that Mehrunes Dagon would reclaim his artifact. Considering how <mark>much<\/mark> havoc it was causing, it seemed likely that the daedra...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "much",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "\"So <mark>much<\/mark> ambition, so little education,\" said Lledos with a sigh...",
+            "fid" : "content" } ] } ] }

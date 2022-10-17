@@ -1,0 +1,59 @@
+
+  { "stem" : "actual",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "actual",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...for it's far too time-consuming to have to master <mark>actual<\/mark> feats.\"",
+            "fid" : "content" },
+          
+          { "form" : "Actually",
+            "weight" : "1",
+            "pos" : 243,
+            "context" : "...was a spy for you. Well, you know Khajiit. <mark>Actually<\/mark>, maybe you don't.\"",
+            "fid" : "content" },
+          
+          { "form" : "Actually",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...understanding that we would never set foot in Sadrith Mora again. <mark>Actually<\/mark>, not all of us were let go. Master S'Rabba...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "actually",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...Altmer born into the most respected noble and scholarly families are <mark>actually<\/mark> allowed to study the dead in the open. Their research...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "actually",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...home of the Telvanni Council, though only one Telvanni councilor <mark>actually<\/mark> lives in Sadrith Mora. Sadrith Mora is an island settlement...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "actually",
+            "weight" : "1",
+            "pos" : 508,
+            "context" : "...home of the Telvanni Council, though only one Telvanni councilor <mark>actually<\/mark> lives in Sadrith Mora. Sadrith Mora is an island settlement...",
+            "fid" : "content" } ] } ] }

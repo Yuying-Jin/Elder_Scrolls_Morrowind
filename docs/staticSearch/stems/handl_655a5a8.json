@@ -1,0 +1,25 @@
+
+  { "stem" : "handl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "handled",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...of Bitter Mercy used in the Wild Hunts could not be <mark>handled<\/mark> by any mortal or immortal save the ones sanctified to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "handling",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...that the Dunmer of Morrowind are experienced and knowledgeable in the <mark>handling<\/mark> of these menaces. On the other hand, they freely...",
+            "fid" : "content" } ] } ] }

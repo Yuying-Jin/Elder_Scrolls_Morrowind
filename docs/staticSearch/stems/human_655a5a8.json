@@ -1,0 +1,25 @@
+
+  { "stem" : "human",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "human",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...integration into the affairs of Clan Aundae. I made no <mark>human<\/mark> my prey, only beasts, and kept myself apart from...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "human",
+            "weight" : "1",
+            "pos" : 757,
+            "context" : "...go to the authorities or blackmail him. After all, they were <mark>human<\/mark>. It was best in the long run to give them...",
+            "fid" : "content" } ] } ] }

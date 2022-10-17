@@ -1,0 +1,14 @@
+
+  { "stem" : "stamina",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stamina",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...Aloe plant, the potion has the ability to increase one's <mark>stamina<\/mark> for a short while.",
+            "fid" : "content" } ] } ] }

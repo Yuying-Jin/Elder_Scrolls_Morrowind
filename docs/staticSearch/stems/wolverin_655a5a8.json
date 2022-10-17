@@ -1,0 +1,120 @@
+
+  { "stem" : "wolverin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...outsiders should confine themselves to the Gateway Inn, and to <mark>Wolverine<\/mark> Hall, the Imperial quarters of the Legion garrison and guilds...",
+            "fid" : "content" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...the Fighters Guild, Mages Guild, and Imperial cult at <mark>Wolverine<\/mark> Hall. Members of the Thieves Guild congregate at Dirty Muriel's...",
+            "fid" : "content" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "..., Mages Guild, and Imperial cults look for hospitality at <mark>Wolverine<\/mark> Hall. Telvanni kin and retainers stay at the Gateway,...",
+            "fid" : "content" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : ".... Telvanni kin and retainers stay at the Gateway, at <mark>Wolverine<\/mark> Hall, at a local cornerclub, or at Tel Naga...",
+            "fid" : "content" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "...Gateway merchant inn, and Ery, Gateway's publican. At <mark>Wolverine<\/mark> Hall, Hrundi the Nord is the Fighters Guild steward,...",
+            "fid" : "content" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "..., Tel Mora, or Dagon Fel. Iniel at the <mark>Wolverine<\/mark> Hall Mages Guild can teleport you to Ald'ruhn, Vivec City...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "...Legion Fort, Pelagiad Legion Fort, Gnisis Legion Fort, <mark>Wolverine<\/mark> Hall in Sadrith Mora, Vivec, Foreign Quarter, and...",
+            "fid" : "content" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 365,
+            "context" : "...Quarter, and Imperial Chapels in Ebonheart. Seek training at <mark>Wolverine<\/mark> Hall, Buckmoth Fort, Moonmoth Fort, Ebonheart Imperial Chapels...",
+            "fid" : "content" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 433,
+            "context" : "...free. Healing altars are found in: Vivec Foreign Quarter; <mark>Wolverine<\/mark> Hall in Sadrith Mora; Buckmoth Legion Fort; Moonmoth Legion...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "<mark>Wolverine<\/mark> Hall: Sadrith Mora Fighters Guild: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "...and Balmora. The chapter in Sadright Mora is established in <mark>Wolverine<\/mark> Hall: Sadrith Mora Fighters Guild under lease from the Telvanni...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 4731,
+            "context" : "<mark>Wolverine<\/mark> Hall" },
+          
+          { "form" : "Wolverine",
+            "weight" : "1",
+            "pos" : 4739,
+            "context" : "<mark>Wolverine<\/mark> Hall: Sadright Mora Fighters Guild" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wolverine",
+            "weight" : "1",
+            "pos" : 4859,
+            "context" : "<mark>wolverine<\/mark> hall",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "wolverine",
+            "weight" : "1",
+            "pos" : 4867,
+            "context" : "<mark>wolverine<\/mark> hall: sadright mora fighters guild",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

@@ -1,0 +1,92 @@
+
+  { "stem" : "gather",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "gather",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : " Lay healers <mark>gather<\/mark> ingredients for health and healing potions, and minister to the...",
+            "fid" : "content" },
+          
+          { "form" : "gathering",
+            "weight" : "1",
+            "pos" : 483,
+            "context" : "..., being often on the road and in the wilderness, <mark>gathering<\/mark> herbs and potion components. They should avoid trouble where possible...",
+            "fid" : "content" },
+          
+          { "form" : "gather",
+            "weight" : "1",
+            "pos" : 502,
+            "context" : " Almoners <mark>gather<\/mark> alms from members and friends of the faith. We depend...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gathering",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...unfortunate end, you may raise the servant again by carefully <mark>gathering<\/mark> as many parts as you can find, binding the bones...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gathered",
+            "weight" : "1",
+            "pos" : 209,
+            "context" : "...on Temple compounds and their courtyards, with huts and tradehouses <mark>gathered<\/mark> around a central plaza, as in the West Gash village...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gathered",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "...this world. Representative of Ashalmawia, Maelkashishi and Ald Sotha <mark>gathered<\/mark> in a great host at the vastness of Assurnabitashpi. Even...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gather",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...not too steady, though,\" said S'Riizh. \"Would you <mark>gather<\/mark> up the crates?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gatherer",
+            "weight" : "1",
+            "pos" : 316,
+            "context" : ".... But the Arrowroot itself can be most beneficial to the <mark>gatherer<\/mark> as it has magical properties. The paste made from grinding...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Gather",
+            "weight" : "1",
+            "pos" : 176,
+            "context" : "<mark>Gather<\/mark> no seed in the fields of Hell.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,236 @@
+
+  { "stem" : "game",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "The Buying <mark>Game<\/mark>" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 4967,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5148,
+            "context" : "The Buying <mark>Game<\/mark>, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5154,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5245,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5713,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5741,
+            "context" : "The Buying <mark>Game<\/mark>, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5847,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 6842,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 7070,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 7537,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 7615,
+            "context" : "The Buying <mark>Game<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 11,
+        "contexts" : 
+        [ 
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 4849,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 4995,
+            "context" : " The Buying <mark>Game<\/mark>, count: 2" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5001,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5071,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5470,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5498,
+            "context" : " The Buying <mark>Game<\/mark>, count: 2" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 5599,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 6738,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 7400,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 7478,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" },
+          
+          { "form" : "Game",
+            "weight" : "1",
+            "pos" : 7631,
+            "context" : " The Buying <mark>Game<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : ".... It's a very sad state of affairs, when the <mark>game<\/mark> is really open to all, you don't need an invitation....",
+            "fid" : "content" },
+          
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...all, you don't need an invitation. And it is a <mark>game<\/mark>, the game of bargaining, to be played seriously and,...",
+            "fid" : "content" },
+          
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...need an invitation. And it is a game, the <mark>game<\/mark> of bargaining, to be played seriously and, I hasten to...",
+            "fid" : "content" },
+          
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : " Bargaining is expected all over Tamriel, but the <mark>game<\/mark> can be broken if one's offer is so preposterously low that...",
+            "fid" : "content" },
+          
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 148,
+            "context" : " A lot of the <mark>game<\/mark> depends on recognizing the types of shop-keepers and not...",
+            "fid" : "content" },
+          
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "Sense the moves of the <mark>game<\/mark>, and everyone can win.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "games",
+            "weight" : "1",
+            "pos" : 268,
+            "context" : "...daily. Citizens flock to the Arena for entertainments and war <mark>games<\/mark>. Outlanders mostly confine themselves to the Foreign Canton, while...",
+            "fid" : "content" },
+          
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 401,
+            "context" : "...is on the margin of the region. Ashlanders hunt for <mark>game<\/mark> here, and their herds find sparse grazing. It rains rarely...",
+            "fid" : "content" },
+          
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 902,
+            "context" : "...by frequent ash storms. The Ashlanders of Erabenimsun camp hunt <mark>game<\/mark> here, but few others venture into this region. The worst...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "game",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...back.' What d'you prefer? We challenge 'em to a <mark>game<\/mark> of chits?\"",
+            "fid" : "content" } ] } ] }

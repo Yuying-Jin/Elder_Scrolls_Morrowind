@@ -1,0 +1,80 @@
+
+  { "stem" : "rule",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rules",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "III. <mark>Rules<\/mark> and Procedures",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rules",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...private property of another member. Break any one of these <mark>rules<\/mark>, and be expelled from the cult.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruled",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "In modern times Morrowind is <mark>ruled<\/mark> by five Great Houses: House Hlaalu, House Redoran,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rule",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...force in history, the Imperial Legions preserve the peace and <mark>rule<\/mark> of law in the Empire. At need, the legion...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruled",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : "And, since the Telvanni are <mark>ruled<\/mark> by wizard-lord nobles, many assume they accept only...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rules",
+            "weight" : "1",
+            "pos" : 165,
+            "context" : "Oh, how rarely wisdom <mark>rules<\/mark> our hearts!",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruling",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...and his ring lost, but Nerevar's alliance survives in Morrowind's <mark>ruling<\/mark> political institution, the Grand Council.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "status",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "status",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...adopted into a Great House. Initially an outlander may gain <mark>status<\/mark> in a house as an oath-bonded hireling, pledging...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "distract",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "distraction",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "An acrobatic <mark>distraction<\/mark> would be a welcome relief.",
+            "fid" : "content" },
+          
+          { "form" : "distracted",
+            "weight" : "1",
+            "pos" : 420,
+            "context" : "...sent the troupe through the gate to the docks while I <mark>distracted<\/mark> the guards.\"",
+            "fid" : "content" } ] } ] }

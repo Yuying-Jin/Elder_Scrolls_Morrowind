@@ -1,0 +1,14 @@
+
+  { "stem" : "stealth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stealth",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...feeding, while the swift and agile Berne clan vampires prefer <mark>stealth<\/mark> and ambush, first poisoning the victim with a bite,...",
+            "fid" : "content" } ] } ] }

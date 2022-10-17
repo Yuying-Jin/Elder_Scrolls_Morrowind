@@ -1,0 +1,43 @@
+
+  { "stem" : "redaynia",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Redaynia",
+            "weight" : "1",
+            "pos" : 479,
+            "context" : "..., and Ahemmusa camp and the remote fishing villages of Ald <mark>Redaynia<\/mark> and Dagon Fel on the north coast. There are no...",
+            "fid" : "content" },
+          
+          { "form" : "Redaynia",
+            "weight" : "1",
+            "pos" : 1234,
+            "context" : "...largely hostile and uninhabited, with two small villages at Ald <mark>Redaynia<\/mark> and Dagon Fel. Only Dagon Fel is reached by ship...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Redaynia",
+            "weight" : "1",
+            "pos" : 646,
+            "context" : "Ald <mark>Redaynia<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "redaynia",
+            "weight" : "1",
+            "pos" : 823,
+            "context" : "ald <mark>redaynia<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

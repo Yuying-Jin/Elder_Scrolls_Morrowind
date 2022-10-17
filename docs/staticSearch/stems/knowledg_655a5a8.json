@@ -1,0 +1,86 @@
+
+  { "stem" : "knowledg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "knowledge",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...an egg of my brother-sister, who possesses invisible <mark>knowledge<\/mark> of words and swords, which you shall nurture until the...",
+            "fid" : "content" },
+          
+          { "form" : "knowledge",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...seven or eight more months, caring for the egg-<mark>knowledge<\/mark> by whispering to it the Codes of Mephala and the prophecies...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knowledge",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "The Pilgrim's Path The path to wisdom and self-<mark>knowledge<\/mark> is through pilgrimage. Those who would rise in the ranks...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Knowledge",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "...to fight only with blunt weapons, are especially praiseworthy. <mark>Knowledge<\/mark> of enchantments and the gift of diplomatic speech are other qualities...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knowledge",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...claims their apotheosis was miraculously achieved through questing, virtue, <mark>knowledge<\/mark>, testing, and battling with Evil; Temple doctrine claims...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knowledge",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...claims their apotheosis was miraculously achieved through questing, virtue, <mark>knowledge<\/mark>, testing, and battling with Evil; Temple doctrine claims...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knowledge",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...tossed back glasses of greef, the old man shared his <mark>knowledge<\/mark> of the spell. He explained what it truly meant to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knowledgeable",
+            "weight" : "1",
+            "pos" : 115,
+            "context" : "...officials persuade me that the Dunmer of Morrowind are experienced and <mark>knowledgeable<\/mark> in the handling of these menaces. On the other hand...",
+            "fid" : "content" } ] } ] }

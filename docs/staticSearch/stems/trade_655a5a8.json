@@ -1,0 +1,122 @@
+
+  { "stem" : "trade",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : " Only recently open to settlement and <mark>trade<\/mark>, most of the island's population is confined to the relatively...",
+            "fid" : "content" },
+          
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...government for Vvardenfell district, and a busy center of maritime <mark>trade<\/mark>. Castle Ebonheart is the home of Duke Vedam Dren,...",
+            "fid" : "content" },
+          
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 727,
+            "context" : "..., the region's secluded coves and islands provide refuge for criminal <mark>trade<\/mark>, and the frequent rain and fog hides small boats from...",
+            "fid" : "content" },
+          
+          { "form" : "trading",
+            "weight" : "1",
+            "pos" : 1078,
+            "context" : "...is sandwiched between the Bitter Coast and the Ashlands. The <mark>trading<\/mark> village of Gnisis is north of Ald'ruhn, and the fishing...",
+            "fid" : "content" },
+          
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 1187,
+            "context" : " Gnisis is a small mining and <mark>trade<\/mark> village astride the silt strider caravan route between the northwest West...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "trading",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...before Duke Dren and the Grand Council concerning slavery and slave <mark>trading<\/mark> in Vvardenfell District. The right to own and trade slaves...",
+            "fid" : "content" },
+          
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...slave trading in Vvardenfell District. The right to own and <mark>trade<\/mark> slaves is guaranteed by the terms of the Treaty of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...business. You can steal from someone, but will he <mark>trade<\/mark> with you after that? You can't bargain with a dead man...",
+            "fid" : "content" },
+          
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...to speak quickly and convincingly. You must be able to <mark>trade<\/mark> with the best of merchants and make a profit. You...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : " We're just like any other <mark>trade<\/mark> guild. We've got requirements. And if you want to...",
+            "fid" : "content" },
+          
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...And where are their friends? At the local cornerclub or <mark>trade<\/mark> house. In Vvardenfell, look for friends in Balmora,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...mentioned, are always good places to go to buy or <mark>trade<\/mark>. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...law, Imperial Legions and bureaucracy, and Imperial freedom of <mark>trade<\/mark> and religion. Hlaalu still honors the old Dunmer ways—the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trade",
+            "weight" : "1",
+            "pos" : 239,
+            "context" : "...high tax rates and the injurious effect of high tariffs on <mark>trade<\/mark>.",
+            "fid" : "content" } ] } ] }

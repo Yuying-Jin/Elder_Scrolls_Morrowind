@@ -1,0 +1,66 @@
+
+  { "stem" : "septim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Septim",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...cults of Akatosh and Dibella. The Imperial Cult of Tiber <mark>Septim<\/mark> also has a significant charismatic sub-cult.",
+            "fid" : "content" },
+          
+          { "form" : "Septim",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...played only minor parts in Heartlanders and Imperial history. The <mark>Septim<\/mark> emperors have made it a policy to limit the influence of...",
+            "fid" : "content" },
+          
+          { "form" : "Septim",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...dominant secularism of the Empire. The Imperial Cult of Tiber <mark>Septim<\/mark> is just such a hero-cult, and among the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Septim",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...Talos cult, veneration of the divine god-hero Tiber <mark>Septim<\/mark>, founder and patron of the Empire. Imperial cult priests...",
+            "fid" : "content" },
+          
+          { "form" : "Septim",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "..., Mara, Stendarr, Kynareth, Julianos, and Tiber <mark>Septim<\/mark>. We preach the Nine Virtues: Humility, Inspiration,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Septim",
+            "weight" : "1",
+            "pos" : 7206,
+            "context" : "Tiber <mark>Septim<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "septim",
+            "weight" : "1",
+            "pos" : 7321,
+            "context" : "tiber <mark>septim<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

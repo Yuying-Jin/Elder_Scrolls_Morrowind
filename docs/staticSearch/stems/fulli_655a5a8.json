@@ -1,0 +1,36 @@
+
+  { "stem" : "fulli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fully",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : " \"You're like Master Neloth then,\" said Rhunen Zebavi quickly, <mark>fully<\/mark> aware of Gothren's growing rage, which that particular comment had...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fully",
+            "weight" : "1",
+            "pos" : 93,
+            "context" : "...the Scuttle and Kwama egg. When the Kwama egg is <mark>fully<\/mark> cooked and the Scuttle has melted, pour from the pan...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fully",
+            "weight" : "1",
+            "pos" : 714,
+            "context" : "The sun was <mark>fully<\/mark> risen when Sathis reached the stables of his house on the...",
+            "fid" : "content" } ] } ] }

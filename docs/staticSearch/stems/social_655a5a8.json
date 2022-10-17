@@ -1,0 +1,20 @@
+
+  { "stem" : "social",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "social",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...and spirits. For us, cults are first and foremost <mark>social<\/mark> and economic organizations. We typically think of the Eight Divines...",
+            "fid" : "content" },
+          
+          { "form" : "social",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...and Morrowind Dunmer accounts in large part for consistent political and <mark>social<\/mark> misunderstanding between the two cultures. Heartlanders do not consider cult...",
+            "fid" : "content" } ] } ] }

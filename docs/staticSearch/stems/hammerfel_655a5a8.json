@@ -1,0 +1,71 @@
+
+  { "stem" : "hammerfel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Hammerfell",
+            "weight" : "1",
+            "pos" : 230,
+            "context" : "In <mark>Hammerfell<\/mark>, where worship of Arkay is strongest, the dead are...",
+            "fid" : "content" },
+          
+          { "form" : "Hammerfell",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...the dangerous terrain and creatures in the deserts and mountains of <mark>Hammerfell<\/mark> makes the acquisition of corpses possible, though they are often...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Hammerfell",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...white, can be found growing wild in the mountains of <mark>Hammerfell<\/mark>. Their succulent pods are often the only nourishment of adventurers...",
+            "fid" : "content" },
+          
+          { "form" : "Hammerfell",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...which are found along the banks of rivers and lakes in <mark>Hammerfell<\/mark> are most inconspicuous, only its peculiar halfmoon shape makes it...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hammerfell",
+            "weight" : "1",
+            "pos" : 2140,
+            "context" : "<mark>Hammerfell<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hammerfell",
+            "weight" : "1",
+            "pos" : 2310,
+            "context" : "<mark>hammerfell<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Hammerfell",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "..., Mighty Gothren, she hails from the Alik'r Desert of <mark>Hammerfell<\/mark> where she won renown for her skill at climbing sheer surfaces...",
+            "fid" : "content" } ] } ] }

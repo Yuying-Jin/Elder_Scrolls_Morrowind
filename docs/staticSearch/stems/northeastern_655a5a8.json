@@ -1,0 +1,20 @@
+
+  { "stem" : "northeastern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "northeastern",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : " Suran is an agricultural village in the <mark>northeastern<\/mark> corner of the fertile Ascadian Isles region. Two popular pilgrimage...",
+            "fid" : "content" },
+          
+          { "form" : "northeastern",
+            "weight" : "1",
+            "pos" : 680,
+            "context" : "...permanent settlement at Ahemmusa camp on a rocky promontory at the <mark>northeastern<\/mark> tip of the Vvardenfell mainland in the Azura's Coast region....",
+            "fid" : "content" } ] } ] }

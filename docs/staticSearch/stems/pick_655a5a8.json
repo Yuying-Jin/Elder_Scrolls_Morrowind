@@ -1,0 +1,31 @@
+
+  { "stem" : "pick",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "pick",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...adventurers. It is said, however, that Argonians can <mark>pick<\/mark> the plant and use the sap derived from its roots as...",
+            "fid" : "content" },
+          
+          { "form" : "Picking",
+            "weight" : "1",
+            "pos" : 289,
+            "context" : "...fronds from this plant are light green and quite delicate. <mark>Picking<\/mark> a frond can be very difficult, but once retrieved it...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "picking",
+            "weight" : "1",
+            "pos" : 392,
+            "context" : "Harithoel, overjoyed at rescue at long last, began <mark>picking<\/mark> up the crates and stacking them. \"I wish you had told...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "twelve-night",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Twelve-Night",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "The <mark>Twelve-Night<\/mark> Drunk",
+            "fid" : "content" } ] } ] }

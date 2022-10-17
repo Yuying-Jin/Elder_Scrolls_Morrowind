@@ -1,0 +1,14 @@
+
+  { "stem" : "aquat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aquatic",
+            "weight" : "1",
+            "pos" : 459,
+            "context" : "..., waxy substance scraped from dreugh shells. Dreugh are powerful <mark>aquatic<\/mark> creatures, and hunting them for their hides and wax is...",
+            "fid" : "content" } ] } ] }

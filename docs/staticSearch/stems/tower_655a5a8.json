@@ -1,0 +1,647 @@
+
+  { "stem" : "tower",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 20,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 1508,
+            "context" : "Dagon Fel, Sorkvild's <mark>Tower<\/mark>" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 1903,
+            "context" : "Ghostgate, <mark>Tower<\/mark> of Dawn Lower Level" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 1913,
+            "context" : "Ghostgate,_<mark>Tower<\/mark>_of_Dawn_Lower_Level" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 2170,
+            "context" : "Hanud <mark>Tower<\/mark>" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3712,
+            "context" : "Tel Branora, Upper <mark>Tower<\/mark>" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3779,
+            "context" : "Tel Mora, Lower <mark>Tower<\/mark>" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3789,
+            "context" : "Tel Mora, Tel Mora <mark>Tower<\/mark> Services" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3798,
+            "context" : "Tel Mora, <mark>Tower<\/mark> Services" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3863,
+            "context" : "Tel Uvirith, Tel Uvirith <mark>Tower<\/mark> Upper" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3872,
+            "context" : "Tel Uvirith, <mark>Tower<\/mark> Lower" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3901,
+            "context" : "Tel Vos, Central <mark>Tower<\/mark>" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3912,
+            "context" : "Tel Vos, Tel Vos Central <mark>Tower<\/mark>" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3937,
+            "context" : "Tel_Aruhn,_<mark>Tower<\/mark>_Entry" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3985,
+            "context" : "Tel_Uvirith,_<mark>Tower<\/mark>_Lower" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 3994,
+            "context" : "Tel_Uvirith,_<mark>Tower<\/mark>_Upper" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 4114,
+            "context" : "<mark>Tower<\/mark> of Tel Fyr, Hall of Fyr" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 4124,
+            "context" : "<mark>Tower<\/mark>_of_Tel_Fyr" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 4137,
+            "context" : "<mark>Tower<\/mark>_of_Tel_Fyr,_Hall_of_Fyr" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 4543,
+            "context" : "Vivec, Telvanni <mark>Tower<\/mark>" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 4587,
+            "context" : "Vivec,_Telvanni_<mark>Tower<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 16,
+        "contexts" : 
+        [ 
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 1679,
+            "context" : "dagon fel, sorkvild's <mark>tower<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 2082,
+            "context" : "ghostgate, <mark>tower<\/mark> of dawn lower level",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 2340,
+            "context" : "hanud <mark>tower<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 3849,
+            "context" : "tel aruhn, <mark>tower<\/mark> entry",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 3909,
+            "context" : "tel branora, upper <mark>tower<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 3980,
+            "context" : "tel mora, lower <mark>tower<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 3990,
+            "context" : "tel mora, tel mora <mark>tower<\/mark> services",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 3999,
+            "context" : "tel mora, <mark>tower<\/mark> services",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 4076,
+            "context" : "tel uvirith, tel uvirith <mark>tower<\/mark> upper",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 4085,
+            "context" : "tel uvirith, <mark>tower<\/mark> lower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 4099,
+            "context" : "tel uvirith, <mark>tower<\/mark> upper",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 4129,
+            "context" : "tel vos, central <mark>tower<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 4140,
+            "context" : "tel vos, tel vos central <mark>tower<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 4265,
+            "context" : "<mark>tower<\/mark> of tel fyr",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 4278,
+            "context" : "<mark>tower<\/mark> of tel fyr, hall of fyr",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 4722,
+            "context" : "vivec, telvanni <mark>tower<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 10,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Tel Uvirith, Tel Uvirith <mark>Tower<\/mark> Upper: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "towers",
+            "weight" : "1",
+            "pos" : 466,
+            "context" : "...Mar, the Telvanni settlements at Sadrith Mora, the wizard <mark>towers<\/mark> at Tel Aruhn, Tel Mora, and Tel Branora,...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 533,
+            "context" : " Tel Branora is the <mark>tower<\/mark> and seat of the eccentric Telvanni wizard named Therana. The...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 540,
+            "context" : "...and seat of the eccentric Telvanni wizard named Therana. The <mark>tower<\/mark> and its tiny village are located on a rocky promontory at...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 553,
+            "context" : " Tel Fyr is the Telvanni <mark>tower<\/mark> of Sorcerer-Lord Divayth Fyr. Beneath the tower is...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 560,
+            "context" : "...Telvanni tower of Sorcerer-Lord Divayth Fyr. Beneath the <mark>tower<\/mark> is the Corprusarium, a refuge-prison where the deranged...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 576,
+            "context" : " Tel Aruhn is the Telvanni <mark>tower<\/mark> of Arch-Mage Gothren, Telvanni Sorcerer-Lord and...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 603,
+            "context" : " Tel Mora is the Telvanni <mark>tower<\/mark> of Mistress Dratha, an ancient wizard of the Telvanni Council...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 617,
+            "context" : " Tel Vos is the <mark>tower<\/mark> of Telvanni wizard and council member Master Aryon. Tel Vos...",
+            "fid" : "content" },
+          
+          { "form" : "towers",
+            "weight" : "1",
+            "pos" : 833,
+            "context" : "...and Azura's Coast. Permanent settlements include Vos village and the <mark>towers<\/mark> of Tel Vos and Tel Fyr. The Ashlanders of Zainab...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "Ghostgate, <mark>Tower<\/mark> of Dawn Lower Level: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "Tel Branora, Upper <mark>Tower<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "Tel Mora, Lower <mark>Tower<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "Tel Mora, <mark>Tower<\/mark> Services: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "Tel Uvirith, <mark>Tower<\/mark> Lower: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "Tel Vos, Central <mark>Tower<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "Vivec, Telvanni <mark>Tower<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "..., Lord High Magus of Telvanni Council, Vvardenfell District, <mark>Tower<\/mark> of Tel Aruhn, East Molag Amur, District of Vvardenfell...",
+            "fid" : "content" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...Aryon, Mage Lord of Telvanni Council, Vvardenfell District, <mark>Tower<\/mark> of Tel Vos, Village of Vos, The Grazelands,...",
+            "fid" : "content" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...Neloth, Mage Lord of Telvanni Council, Vvardenfell District, <mark>Tower<\/mark> of Tel Naga, Sadrith Mora, District of Vvardenfell,...",
+            "fid" : "content" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...Dratha, Mage Lord of Telvanni Council, Vvardenfell District, <mark>Tower<\/mark> of Tel Mora, The Grazelands, District of Vvardenfell,...",
+            "fid" : "content" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...Therana, Mage Lord of Telvanni Council, Vvardenfell District, <mark>Tower<\/mark> of Tel Branora, Azura's Coast, District of Vvardenfell,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "towering",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...the east of the Great Market is Tel Naga, the <mark>towering<\/mark> wizard-tower residence of Telvanni Councilor Mage-Lord Master...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "...the Great Market is Tel Naga, the towering wizard-<mark>tower<\/mark> residence of Telvanni Councilor Mage-Lord Master Neloth.",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...Wall for local Dunmer. Tel Naga is Master Neloth's wizard <mark>tower<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...-Lord Master Neloth lives in Tel Naga, the wizard <mark>tower<\/mark> in the center of town.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 373,
+            "context" : "...a pyramid to give Master Senyndie a boost up to the <mark>tower<\/mark> of Tel Naga. She scaled it to the top --\"...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 382,
+            "context" : "...\"She scaled it?\" asked Gothren, who was familiar with the <mark>tower<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : "...In a few more minutes, she was back down the <mark>tower<\/mark> and we were running for the Gateway Inn. Now, with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Blue_Book_of_Riddles",
+        "docUri" : "librarium\/The_Blue_Book_of_Riddles.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Tel Uvirith, <mark>Tower<\/mark> Upper: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "Tel Aruhn, <mark>Tower<\/mark> Entry: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "Ghostgate, <mark>Tower<\/mark> of Dawn Lower Level: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "<mark>Tower<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "Tel Mora <mark>Tower<\/mark> Services: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "Tel Vos, Tel Vos Central <mark>Tower<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "<mark>Tower<\/mark> of Tel Fyr, Hall of Fyr: Visitable? yes...",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "towers",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "...competition to control and exploit Vvardenfell's land and resources, building <mark>towers<\/mark> and bases all along the eastern coast. According to Telvanni...",
+            "fid" : "content" },
+          
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 406,
+            "context" : "...resources by default. Telvanni architecture is dominated by the wizards' <mark>tower<\/mark>, a fantastic organic form grown and sculpted from stems,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 365,
+            "context" : "...the Temple, and have to make do with a Velothi <mark>tower<\/mark> instead of their preferred mushroom towers. The administrative center includes...",
+            "fid" : "content" },
+          
+          { "form" : "towers",
+            "weight" : "1",
+            "pos" : 369,
+            "context" : "...make do with a Velothi tower instead of their preferred mushroom <mark>towers<\/mark>. The administrative center includes a treasury and a hall of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "<mark>Tower<\/mark> of Tel Fyr, Hall of Fyr: Visitable? yes...",
+            "fid" : "acq" },
+          
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "Vivec, Telvanni <mark>Tower<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Dagon Fel, Sorkvild's <mark>Tower<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Dagon Fel, Sorkvild's <mark>Tower<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Dagon Fel, Sorkvild's <mark>Tower<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "towers",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...Imperial legion garrison for the district. The strong walls and <mark>towers<\/mark> of this Western fortress lies a short distance to the south...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tower",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "...Once upon a time, a Telvanni issued forth from his <mark>tower<\/mark> and proclaimed to all the world that he was a mighty...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "Tel Uvirith, <mark>Tower<\/mark> Lower: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 45,
+            "context" : "<mark>Tower<\/mark> of Tel Fyr: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tower",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "<mark>Tower<\/mark> of Tel Fyr: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "towers",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "..., or in the subterranean labyrinths of abandoned strongholds and wizard <mark>towers<\/mark>....",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "100",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "100",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "...City. The customary donation for those in good fortune is <mark>100<\/mark> gold.",
+            "fid" : "content" } ] } ] }

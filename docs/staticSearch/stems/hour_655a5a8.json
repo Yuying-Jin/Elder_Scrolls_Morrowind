@@ -1,0 +1,144 @@
+
+  { "stem" : "hour",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "hours",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : "The last several <mark>hours<\/mark> had been a whirlwind to all. In less than a day...",
+            "fid" : "content" },
+          
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 498,
+            "context" : "They left the guildhouse an <mark>hour<\/mark> after they entered. No alarm had been raised, the...",
+            "fid" : "content" },
+          
+          { "form" : "Hours",
+            "weight" : "1",
+            "pos" : 698,
+            "context" : "...order a meal -- a big one -- and wait. <mark>Hours<\/mark> would pass, and so would their moods. The chain...",
+            "fid" : "content" },
+          
+          { "form" : "hours",
+            "weight" : "1",
+            "pos" : 777,
+            "context" : "...had been tight, but Sathis had given himself a few <mark>hours<\/mark> to rest before his household returned. His own bed was...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "...bittergreen. Bake covered in a hot over for one half <mark>hour<\/mark> to one hour (when a knife comes out clean).",
+            "fid" : "content" },
+          
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 48,
+            "context" : "...covered in a hot over for one half hour to one <mark>hour<\/mark> (when a knife comes out clean).",
+            "fid" : "content" },
+          
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...salts and cover the pie crust. Bake for one quarter <mark>hour<\/mark> in a hot oven.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "It took a little over an <mark>hour<\/mark> for Harithoel to search the island from one end to the...",
+            "fid" : "content" },
+          
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "After an <mark>hour<\/mark> of flailing about, Harithoel, by luck, managed to spear...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hours",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "Count only the happy <mark>hours<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "Almsivi in every <mark>hour<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hours",
+            "weight" : "1",
+            "pos" : 596,
+            "context" : "...Rihad,\" said Senyndie as they took their rooms a few <mark>hours<\/mark> later. \"Why do we bother with these backwoods performances?\"...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hours",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "The adventurer, after a few <mark>hours<\/mark> of instruction, paid the old teacher and set off on...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hour",
+            "weight" : "1",
+            "pos" : 478,
+            "context" : "...sat in the inferno of blue fire for very nearly an <mark>hour<\/mark> before he left.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hours",
+            "weight" : "1",
+            "pos" : 326,
+            "context" : "..., and two plunged into the rushing river. For twelve <mark>hours<\/mark>, they wrestled one another under the water, until Horis...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hours",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...During the incubation phase, lasting up to 72 <mark>hours<\/mark>, the vampirism disease exhibits no symptoms, and may be...",
+            "fid" : "content" } ] } ] }

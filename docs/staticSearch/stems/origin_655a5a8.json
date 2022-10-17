@@ -1,0 +1,47 @@
+
+  { "stem" : "origin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Originally",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...is the large three-tiered canton to the north. <mark>Originally<\/mark>, foreigners were not allowed to enter Vivec any further than...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "originally",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...achieve godhead, and that those unholy devices were the ones <mark>originally<\/mark> created by the ungodly Dwemer sorceror Kagrenac to create the False...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "originally",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...achieve godhead, and that those unholy devices were the ones <mark>originally<\/mark> created by the ungodly Dwemer sorceror Kagrenac to create the False...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "origin",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "..., or a powerful beast creature. This account of the <mark>origin<\/mark> of vampirism is peculiar to Morrowind, appearing nowhere else in...",
+            "fid" : "content" } ] } ] }

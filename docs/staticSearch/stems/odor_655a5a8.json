@@ -1,0 +1,14 @@
+
+  { "stem" : "odor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "odor",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...and if the corpse is fresh enough to have an unpleasant <mark>odor<\/mark>, the salts will remove that as well. In a...",
+            "fid" : "content" } ] } ] }

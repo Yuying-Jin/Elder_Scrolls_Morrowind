@@ -1,0 +1,84 @@
+
+  { "stem" : "heartland",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Heartlanders",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "\"...I have noted that <mark>Heartlanders<\/mark> like myself, and assimilated Imperial Citizens of other races, tend...",
+            "fid" : "content" },
+          
+          { "form" : "Heartlanders",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "With the exception of the Alessian Order, which <mark>Heartlanders<\/mark> regard as a dark age, religious cults have played only...",
+            "fid" : "content" },
+          
+          { "form" : "Heartlanders",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...dark age, religious cults have played only minor parts in <mark>Heartlanders<\/mark> and Imperial history. The Septim emperors have made it a...",
+            "fid" : "content" },
+          
+          { "form" : "Heartlanders",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "The differences in religious temperament between <mark>Heartlanders<\/mark> and Morrowind Dunmer accounts in large part for consistent political and...",
+            "fid" : "content" },
+          
+          { "form" : "Heartlanders",
+            "weight" : "1",
+            "pos" : 270,
+            "context" : "...for consistent political and social misunderstanding between the two cultures. <mark>Heartlanders<\/mark> do not consider cult affairs as serious matters, where the...",
+            "fid" : "content" },
+          
+          { "form" : "Heartlanders",
+            "weight" : "1",
+            "pos" : 287,
+            "context" : "<mark>Heartlanders<\/mark> are casual and tolerant in religious matters; Dunmer are passionate...",
+            "fid" : "content" },
+          
+          { "form" : "Heartlanders",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "...in religious matters; Dunmer are passionate and extremely intolerant. <mark>Heartlanders<\/mark> do not speak with their gods, and do not think...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heartland",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...without holdings or interest in Vvardenfell. Indoril District occupies the <mark>heartland<\/mark> of Morrowind, comprising the lands south of the Inner Sea...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Heartlanders",
+            "weight" : "1",
+            "pos" : 5395,
+            "context" : "<mark>Heartlanders<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "heartlanders",
+            "weight" : "1",
+            "pos" : 5638,
+            "context" : "<mark>heartlanders<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

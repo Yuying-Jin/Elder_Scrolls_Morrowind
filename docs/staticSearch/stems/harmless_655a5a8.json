@@ -1,0 +1,25 @@
+
+  { "stem" : "harmless",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "harmless",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : ".... Ancestor ghosts, the most common spirit revenant, are <mark>harmless<\/mark>, apart from the minor curses they lay upon their victims...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "harmless",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : ".... Ancestor ghosts, the most common spirit revenant, are <mark>harmless<\/mark>, apart from the minor curses they lay upon their victims...",
+            "fid" : "content" } ] } ] }

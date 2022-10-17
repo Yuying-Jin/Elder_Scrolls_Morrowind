@@ -1,0 +1,115 @@
+
+  { "stem" : "polit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "politely",
+            "weight" : "1",
+            "pos" : 40,
+            "context" : "..., to be played seriously and, I hasten to add, <mark>politely<\/mark>. In Elsweyr, it is common for the shop-...",
+            "fid" : "content" },
+          
+          { "form" : "polite",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...to offer the prospective buyer tea or sweetmeats and engage in <mark>polite<\/mark> conversation before commencing the business. This eminently civilized tradition has...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "political",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...from ancient Dunmer clan and tribes, but now function as <mark>political<\/mark> parties. Dunmer Great House membership is largely a matter of...",
+            "fid" : "content" },
+          
+          { "form" : "politically",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...relationship with the Imperial administration, House Hlaalu has emerged as <mark>politically<\/mark> and economically dominant among the Great Houses of Vvardenfell and Morrowind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "politically",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "...all agree that the persecution of the Nerevarines is unjust and <mark>politically<\/mark> motivated. The Dissident priests do not reject mysticism, revelation...",
+            "fid" : "content" },
+          
+          { "form" : "politics",
+            "weight" : "1",
+            "pos" : 354,
+            "context" : "...The temple hierarchy has been corrupted by self-interest and <mark>politics<\/mark>, and no longer acts in the best interests of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "politically",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "...all agree that the persecution of the Nerevarines is unjust and <mark>politically<\/mark> motivated. The Dissident priests do not reject mysticism, revelation...",
+            "fid" : "content" },
+          
+          { "form" : "politics",
+            "weight" : "1",
+            "pos" : 354,
+            "context" : "...The temple hierarchy has been corrupted by self-interest and <mark>politics<\/mark>, and no longer acts in the best interests of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "political",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...between Heartlanders and Morrowind Dunmer accounts in large part for consistent <mark>political<\/mark> and social misunderstanding between the two cultures. Heartlanders do not...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "polite",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...was not yet legendary, and it was best to be <mark>polite<\/mark>. “And you are?”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "political",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "...hire the craftsmen and specialists they need. And since for <mark>political<\/mark> reasons House Telvanni has chosen to reduce its reliance on Redoran...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "political",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...his ring lost, but Nerevar's alliance survives in Morrowind's ruling <mark>political<\/mark> institution, the Grand Council.",
+            "fid" : "content" } ] } ] }

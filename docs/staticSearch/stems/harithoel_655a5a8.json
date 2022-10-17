@@ -1,0 +1,127 @@
+
+  { "stem" : "harithoel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 16,
+        "contexts" : 
+        [ 
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "It took a little over an hour for <mark>Harithoel<\/mark> to search the island from one end to the other. He...",
+            "fid" : "Harithoel" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "\"You're sampling the merchandise?\" asked <mark>Harithoel<\/mark> angrily.",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...\"We didn't make it as far as the mainland,\" said <mark>Harithoel<\/mark>. \"I can't see the coastline at all. But that's not...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 96,
+            "context" : "...S'Riizh was too battered to be of much help, but <mark>Harithoel<\/mark> was able to construct a crude shelter, weaving the sand...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...one of the royal Houses, everyone except for S'Riizh and <mark>Harithoel<\/mark>. They decided that it was all the whim of Boethiah...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "..., and it turned out to be a fruitless quest. <mark>Harithoel<\/mark> dug deeply, but there were no springs under the island...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 212,
+            "context" : "<mark>Harithoel<\/mark> watched S'Riizh's futile endeavor for a little while before getting to...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "\"It's not my weapon of choice,\" said <mark>Harithoel<\/mark>, quietly, watching his prey and missing another with a...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "<mark>Harithoel<\/mark> ignored S'Riizh, murmuring, \"The trick as I've heard it...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 283,
+            "context" : "After an hour of flailing about, <mark>Harithoel<\/mark>, by luck, managed to spear a fish. The...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 296,
+            "context" : "...ate it raw. As the days and weeks went by, <mark>Harithoel<\/mark> got better and better until he was able to strike quickly...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "...fire, but being lame, he had to rely on <mark>Harithoel<\/mark> for all the food.",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 363,
+            "context" : "...saved, they were going to be rich, just as <mark>Harithoel<\/mark> had said.",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 365,
+            "context" : "<mark>Harithoel<\/mark> excitedly started to help S'Riizh to his feet, but the...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "<mark>Harithoel<\/mark>, overjoyed at rescue at long last, began picking up...",
+            "fid" : "content" },
+          
+          { "form" : "Harithoel's",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...one was even better.\" S'Riizh pulled the spear out of <mark>Harithoel's<\/mark> skull. The trajectory had been perfect: it had fallen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Harithoel",
+            "weight" : "1",
+            "pos" : 6693,
+            "context" : "<mark>Harithoel<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "harithoel",
+            "weight" : "1",
+            "pos" : 6779,
+            "context" : "<mark>harithoel<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

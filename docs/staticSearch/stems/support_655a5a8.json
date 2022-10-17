@@ -1,0 +1,87 @@
+
+  { "stem" : "support",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "supportive",
+            "weight" : "1",
+            "pos" : 631,
+            "context" : "...close relationship with the Imperial legions, and a friendly and <mark>supportive<\/mark> relationship with the Imperial Guilds -- especially the Fighters and Mages...",
+            "fid" : "content" },
+          
+          { "form" : "supportive",
+            "weight" : "1",
+            "pos" : 641,
+            "context" : "...Fighters and Mages Guilds. We also have a friendly and <mark>supportive<\/mark> relationship with House Hlaalu, which strongly supports the Emperor and...",
+            "fid" : "content" },
+          
+          { "form" : "supports",
+            "weight" : "1",
+            "pos" : 646,
+            "context" : "...a friendly and supportive relationship with House Hlaalu, which strongly <mark>supports<\/mark> the Emperor and Imperial principles. Though we cannot condone the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "supporters",
+            "weight" : "1",
+            "pos" : 473,
+            "context" : "...in Indoril District, and the Indoril are orthodox and conservative <mark>supporters<\/mark> of the Temple and Temple authority. House Indoril is openly...",
+            "fid" : "content" },
+          
+          { "form" : "supporters",
+            "weight" : "1",
+            "pos" : 519,
+            "context" : "...on slave labor for their economic viability. Always firm Temple <mark>supporters<\/mark>, House Dres is hostile to Imperial law and culture,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "support",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...order, skeletons may be strengthened considerably by the addition of <mark>support<\/mark> on their joints. The most common are leather straps that...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "supported",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...Great Market is the Telvanni Council Hall, a large orb <mark>supported<\/mark> by giant mushroom stalks. To the east of the Great...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "supports",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...across broken glass. Master Tulkiande will astound you as she <mark>supports<\/mark> her body with one finger while rotating hoops in ornate patterns...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "support",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...that leave me? Do we have enough gold that I could <mark>support<\/mark> myself if you, Saint Seryn let it not be so, were...",
+            "fid" : "content" } ] } ] }

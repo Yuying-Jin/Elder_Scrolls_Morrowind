@@ -1,0 +1,53 @@
+
+  { "stem" : "cours",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "course",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...for helping and protecting others. One's first duty, of <mark>course<\/mark>, is to one's fellow members of the Imperial Cult....",
+            "fid" : "content" },
+          
+          { "form" : "course",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "...to attack another person of the Imperial cult, and of <mark>course<\/mark>, forbidden to kill another member. It is forbidden to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "course",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...sometimes treated coolly by merchants in the Summurset Isles. Of <mark>course<\/mark>, I don't know any shopkeepers anywhere, no matter their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "course",
+            "weight" : "1",
+            "pos" : 340,
+            "context" : "...weren't sure how to collect, but he mentioned during the <mark>course<\/mark> of his ravings that he had a very valuable bauble....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "course",
+            "weight" : "1",
+            "pos" : 337,
+            "context" : "...in the Dunmer imagination, as if to say, \"Of <mark>course<\/mark> Vivec would never have conspired to murder Lord Nerevar, but...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,96 @@
+
+  { "stem" : "orethi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Orethi's",
+            "weight" : "1",
+            "pos" : 878,
+            "context" : "Ald'ruhn,_Aryni_<mark>Orethi's<\/mark>_House" },
+          
+          { "form" : "Orethi's",
+            "weight" : "1",
+            "pos" : 991,
+            "context" : "Aryni <mark>Orethi's<\/mark> House" },
+          
+          { "form" : "Orethi",
+            "weight" : "1",
+            "pos" : 2897,
+            "context" : "<mark>Orethi<\/mark> Ancestral Tomb" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "orethi's",
+            "weight" : "1",
+            "pos" : 1033,
+            "context" : "ald'ruhn, aryni <mark>orethi's<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "orethi's",
+            "weight" : "1",
+            "pos" : 1163,
+            "context" : "aryni <mark>orethi's<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "orethi",
+            "weight" : "1",
+            "pos" : 3070,
+            "context" : "<mark>orethi<\/mark> ancestral tomb",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Orethi",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "<mark>Orethi<\/mark> Ancestral Tomb: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Orethi",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : " <mark>Orethi<\/mark> Ancestral Tomb: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Orethi's",
+            "weight" : "1",
+            "pos" : 10,
+            "context" : "Aryni <mark>Orethi's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Orethi's",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Ald'ruhn, Aryni <mark>Orethi's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

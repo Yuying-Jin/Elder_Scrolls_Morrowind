@@ -1,0 +1,14 @@
+
+  { "stem" : "articl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Articles",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "<mark>Articles<\/mark> of Faith",
+            "fid" : "content" } ] } ] }

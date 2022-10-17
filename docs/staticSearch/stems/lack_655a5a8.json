@@ -1,0 +1,14 @@
+
+  { "stem" : "lack",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lack",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...\"The problem with thieves today,\" said Lledos, \"Is the <mark>lack<\/mark> of technique. I know there's no honor among thieves,...",
+            "fid" : "content" } ] } ] }

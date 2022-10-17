@@ -1,0 +1,37 @@
+
+  { "stem" : "arni",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arnie",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "Many admirers ask, \"<mark>Arnie<\/mark>, how can I become a flash and prosperous fellow like...",
+            "fid" : ">ArnietheScrib" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arnie",
+            "weight" : "1",
+            "pos" : 7165,
+            "context" : "&gt;<mark>Arnie<\/mark> the Scrib" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arnie",
+            "weight" : "1",
+            "pos" : 7290,
+            "context" : "&gt;<mark>arnie<\/mark> the scrib",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

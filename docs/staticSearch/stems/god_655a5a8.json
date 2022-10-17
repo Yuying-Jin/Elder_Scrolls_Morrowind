@@ -1,0 +1,435 @@
+
+  { "stem" : "god",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 34,
+        "contexts" : 
+        [ 
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "For my <mark>Gods<\/mark> and Emperor" },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 856,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 1511,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 1537,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 1778,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 4",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 1953,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 2135,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 2591,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 2814,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 2834,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 3115,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 3314,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 3336,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 4463,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 4773,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 5043,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 5232,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 24",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 5517,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 5568,
+            "context" : "<mark>gods<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 5593,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6048,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6142,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6155,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6294,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6395,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6606,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6854,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6879,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6897,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 6977,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 7482,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 7488,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 7539,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 7750,
+            "context" : "For my <mark>Gods<\/mark> and Emperor, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...other races, tend to impersonal and formal relationships with their <mark>gods<\/mark> and spirits. For us, cults are first and foremost...",
+            "fid" : "content" },
+          
+          { "form" : "god",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...with the Tribunal is a relationship with a living, breathing <mark>god<\/mark> who walks the earth, speaks in person with priests and...",
+            "fid" : "content" },
+          
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...passionate and extremely intolerant. Heartlanders do not speak with their <mark>gods<\/mark>, and do not think of their actions as under constant...",
+            "fid" : "content" },
+          
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 304,
+            "context" : "...of their actions as under constant review and judgement by their <mark>gods<\/mark>; the Dunmer feel that all they think and do is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "Morrowind is holy country, and its <mark>gods<\/mark> are flesh and blood. Collectively, these gods are called...",
+            "fid" : "content" },
+          
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...and its gods are flesh and blood. Collectively, these <mark>gods<\/mark> are called the Tribunal, the triune ALMSIVI, three deities...",
+            "fid" : "content" },
+          
+          { "form" : "god",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...hell. He is part of the holy Tribunal, a <mark>god<\/mark> of the New Temple, and an aspect of the blessed...",
+            "fid" : "content" },
+          
+          { "form" : "God",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "This explicit presentation of Vivec the Guardian <mark>God<\/mark>-King and Warrior-Poet is the one most accessible...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "god",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "...Julianos, and the Talos cult, veneration of the divine <mark>god<\/mark>-hero Tiber Septim, founder and patron of the Empire...",
+            "fid" : "content" },
+          
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : ".... Imperial cult priests provide worship and services for all these <mark>gods<\/mark> at Imperial shrines in settlements throughout Vvardenfell.",
+            "fid" : "content" },
+          
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 739,
+            "context" : "...One True Faith, and that the Imperial cults worship false <mark>gods<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "...as yourselves. By my will I entered the ranks of the <mark>gods<\/mark>. By your unquestioning devotion, you can share my glory...",
+            "fid" : "gods" },
+          
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...He was also a man who entered the ranks of the <mark>gods<\/mark>. The similarities between his mortal life and my own astonish...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Gods",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "Speak none but good of the <mark>Gods<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "God",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "Enter the rhapsody of the <mark>God<\/mark>-Poet.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...with due care and earnestness. Piety is respect for the <mark>gods<\/mark>, and the virtues they represent. A light, careless...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "god",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...Temple. The Palace of Vivec is the abode of the <mark>god<\/mark>-hero Lord Vivec, the Warrior-Poet of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 6059,
+            "context" : "<mark>gods<\/mark>" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gods",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "...I shall not doubt myself, or my people, or my <mark>gods<\/mark>, and shall insist upon them, and my ancient rights....",
+            "fid" : "content" } ] } ] }

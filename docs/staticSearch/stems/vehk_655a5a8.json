@@ -1,0 +1,20 @@
+
+  { "stem" : "vehk",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "VEHK",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...and a seven-syllable spell, AYEM AE SEHTI AE <mark>VEHK<\/mark>, which you will repeat to it until mystery comes.'...",
+            "fid" : "content" },
+          
+          { "form" : "Vehk",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "'Look, little <mark>Vehk<\/mark>, and find the face behind the splendor of my bladed...",
+            "fid" : "content" } ] } ] }

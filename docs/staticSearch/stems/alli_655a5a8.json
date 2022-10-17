@@ -1,0 +1,31 @@
+
+  { "stem" : "alli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "allies",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...the other. Dwemer and Dagoth invited Orc and Nord clans as <mark>allies<\/mark>, and held northwest Morrowind, while Nerevar mustered the other...",
+            "fid" : "content" },
+          
+          { "form" : "allies",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...utter extermination of House Dwemer, House Dagoth, and their <mark>allies<\/mark>. Nerevar was killed in the battle, and his ring...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "allies",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...in a swamp or marsh. Animals are the Necromancer's greatest <mark>allies<\/mark> when it comes to stripping the flesh from a corpse....",
+            "fid" : "content" } ] } ] }

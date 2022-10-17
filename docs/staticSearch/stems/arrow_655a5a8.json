@@ -1,0 +1,37 @@
+
+  { "stem" : "arrow",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Arrow",
+            "weight" : "1",
+            "pos" : 984,
+            "context" : "<mark>Arrow<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arrow",
+            "weight" : "1",
+            "pos" : 1156,
+            "context" : "<mark>arrow<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arrow",
+            "weight" : "1",
+            "pos" : 328,
+            "context" : "...tasty and can improve the user's accuracy with a bow and <mark>arrow<\/mark>.",
+            "fid" : "content" } ] } ] }

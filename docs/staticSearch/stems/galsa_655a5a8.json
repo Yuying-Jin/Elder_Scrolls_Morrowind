@@ -1,0 +1,37 @@
+
+  { "stem" : "galsa",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Galsa",
+            "weight" : "1",
+            "pos" : 1837,
+            "context" : "<mark>Galsa<\/mark> Gindu's House" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "galsa",
+            "weight" : "1",
+            "pos" : 2016,
+            "context" : "<mark>galsa<\/mark> gindu's house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Galsa",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "<mark>Galsa<\/mark> Gindu's House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

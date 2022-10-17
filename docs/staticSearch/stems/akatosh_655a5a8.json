@@ -1,0 +1,91 @@
+
+  { "stem" : "akatosh",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Akatosh",
+            "weight" : "1",
+            "pos" : 638,
+            "context" : "<mark>Akatosh<\/mark>" },
+          
+          { "form" : "Akatosh",
+            "weight" : "1",
+            "pos" : 6229,
+            "context" : "<mark>Akatosh<\/mark>" },
+          
+          { "form" : "Akatosh",
+            "weight" : "1",
+            "pos" : 6237,
+            "context" : "Aedra <mark>Akatosh<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "akatosh",
+            "weight" : "1",
+            "pos" : 815,
+            "context" : "<mark>akatosh<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "akatosh",
+            "weight" : "1",
+            "pos" : 6293,
+            "context" : "aedra <mark>akatosh<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "akatosh",
+            "weight" : "1",
+            "pos" : 6299,
+            "context" : "<mark>akatosh<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Akatosh",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "...cults combine the worship of the Nine Divines, the Aedra <mark>Akatosh<\/mark>, Dibella, Arkay, Zenithar, Mara, Stendarr,...",
+            "fid" : "AedraAkatosh" },
+          
+          { "form" : "Akatosh",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...simple. We acknowledge the divinity of the Nine Divines: <mark>Akatosh<\/mark>, Dibella, Arkay, Zenithar, Mara, Stendarr,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Akatosh",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...personal. Notable exceptions include minor charismatic sub-cults of <mark>Akatosh<\/mark> and Dibella. The Imperial Cult of Tiber Septim also has...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Akatosh",
+            "weight" : "1",
+            "pos" : 314,
+            "context" : "...\"I am Kena Warfel Tomasin, and I can prove that <mark>Akatosh<\/mark>, Nirn, and Oblivion are one,\" said Warfel,...",
+            "fid" : "content" } ] } ] }

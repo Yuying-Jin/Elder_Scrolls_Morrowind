@@ -1,0 +1,14 @@
+
+  { "stem" : "thrice-s",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Thrice-Sealed",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "The <mark>Thrice-Sealed<\/mark> House withstands the Storm.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "loyalti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "loyalty",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...a house as an oath-bonded hireling, pledging exclusive <mark>loyalty<\/mark> to a single house and forsaking ambitions with all other houses...",
+            "fid" : "content" },
+          
+          { "form" : "loyalty",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...Great House councilor stand as sponsor for the candidate's character and <mark>loyalty<\/mark>. Finding a councilor to sponsor an outlander often involves performing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "loyalty",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...linger, held to the hearth and tomb by blood and <mark>loyalty<\/mark>. And if they come unbidden, from love of kin...",
+            "fid" : "content" } ] } ] }

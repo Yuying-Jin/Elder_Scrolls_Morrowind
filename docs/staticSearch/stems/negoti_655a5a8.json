@@ -1,0 +1,14 @@
+
+  { "stem" : "negoti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "negotiations",
+            "weight" : "1",
+            "pos" : 315,
+            "context" : "...have not yet heard any word on the state of these <mark>negotiations<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,50 @@
+
+  { "stem" : "throat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "throat",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "...the attacker with blood. Not good. Now a good <mark>throat<\/mark>-slashing, properly executed, can both slay and silence...",
+            "fid" : "content" },
+          
+          { "form" : "throat",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "...chin, then you use your other hand to slit the <mark>throat<\/mark>, and quickly turn the head to one side so the...",
+            "fid" : "content" },
+          
+          { "form" : "throat",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...-and-slash technique. Simply put, you grab your victim's <mark>throat<\/mark> from behind and while throttling him, you batter his face against...",
+            "fid" : "content" },
+          
+          { "form" : "throat",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...When the victim is thus rendered unconscious, you slash his <mark>throat<\/mark> while still holding him from behind, and the risk of...",
+            "fid" : "content" },
+          
+          { "form" : "throat",
+            "weight" : "1",
+            "pos" : 293,
+            "context" : "...hand over the victim's mouth, and then saw through the <mark>throat<\/mark> in three or four stroke rather like playing a violin....",
+            "fid" : "content" },
+          
+          { "form" : "throats",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "...reason when one knows one is going to be slitting some <mark>throats<\/mark> not to take some precautions and bring some extra equipment....",
+            "fid" : "content" },
+          
+          { "form" : "throat",
+            "weight" : "1",
+            "pos" : 865,
+            "context" : "...and a thumb jabbed under his chin. Just as his <mark>throat<\/mark> opened and his head was shoved to the side, he...",
+            "fid" : "content" } ] } ] }

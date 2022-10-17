@@ -1,0 +1,82 @@
+
+  { "stem" : "it",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "it's",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...with no illusions. We wish we knew tricks, for <mark>it's<\/mark> far too time-consuming to have to master actual feats...",
+            "fid" : "content" },
+          
+          { "form" : "It's",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "..., yes, as a matter of fact, I did. <mark>It's<\/mark> pretty tall. It was a simple matter, especially since...",
+            "fid" : "content" },
+          
+          { "form" : "it's",
+            "weight" : "1",
+            "pos" : 481,
+            "context" : "...especially since I could land in the water. Still, <mark>it's<\/mark> only a matter of rolling and twisting the body like so....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "It's",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...the items they need at the price they are given. <mark>It's<\/mark> a very sad state of affairs, when the game is...",
+            "fid" : "content" },
+          
+          { "form" : "it's",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "...Whether this particular custom is part of the culture or not, <mark>it's<\/mark> wise for the buyer and seller to greet one another with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "\"It's",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "<mark>\"It's<\/mark> not my weapon of choice,\" said Harithoel, quietly,...",
+            "fid" : "content" },
+          
+          { "form" : "\"It's",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "\"You can walk!\" he said, laughing. <mark>\"It's<\/mark> a miracle!\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "it's",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : "...I took more of an interest in your work, but <mark>it's<\/mark> like I was telling Ser Calissiah Vignum the other day,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "It's",
+            "weight" : "1",
+            "pos" : 342,
+            "context" : "...their knives to keep blood from getting on their cuffs. <mark>It's<\/mark> impractical for this sort of assignment, but when you're only...",
+            "fid" : "content" } ] } ] }

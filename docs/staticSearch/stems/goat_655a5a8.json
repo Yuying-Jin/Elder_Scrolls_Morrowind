@@ -1,0 +1,14 @@
+
+  { "stem" : "goat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "goat",
+            "weight" : "1",
+            "pos" : 94,
+            "context" : "...crushed and mixed with the milk of the agile footed mountain <mark>goat<\/mark>, a potion that allows the user to glide safely above...",
+            "fid" : "content" } ] } ] }

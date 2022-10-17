@@ -1,0 +1,25 @@
+
+  { "stem" : "door",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "door",
+            "weight" : "1",
+            "pos" : 662,
+            "context" : "...went to visit his friend, Kena Yakin Bael. The <mark>door<\/mark> was closed this time and he heard voices within.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "door",
+            "weight" : "1",
+            "pos" : 839,
+            "context" : "The song returned, and Sathis heard the vault <mark>door<\/mark> in his study swing open. The smell of stoneflower filled...",
+            "fid" : "content" } ] } ] }

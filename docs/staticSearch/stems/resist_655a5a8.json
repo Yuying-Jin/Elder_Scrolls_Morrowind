@@ -1,0 +1,76 @@
+
+  { "stem" : "resist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "resistance",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...St. Delyn grants Shield of St. Delyn, for <mark>resistance<\/mark> to blight diseases.",
+            "fid" : "content" },
+          
+          { "form" : "resistance",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "St. Meris grants Meris' Warding, for <mark>resistance<\/mark> to corprus disease.",
+            "fid" : "content" },
+          
+          { "form" : "resistance",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "St. Olms grants Olms' Benediction, for <mark>resistance<\/mark> to common disease.",
+            "fid" : "content" },
+          
+          { "form" : "resistance",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "St. Seryn grants Seryn's Shield, for <mark>resistance<\/mark> to poisons.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "resist",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...-keeper compliments your taste, smile, but try to <mark>resist<\/mark> the flattery.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "resist",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...must have the Personality to lead others and the Willpower to <mark>resist<\/mark> the world's temptations. When violence is needful, we fight...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "resistant",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...often hidden. The glossy, evergreen foliage and flowers are <mark>resistant<\/mark> to the conditions of high heat and bright light. A...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "resistance",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...void. Chimere miscalculated, however, not realizing that Dagon's <mark>resistance<\/mark> could slow the draining of his power, even if it...",
+            "fid" : "content" } ] } ] }

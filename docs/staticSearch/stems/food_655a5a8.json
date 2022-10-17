@@ -1,0 +1,20 @@
+
+  { "stem" : "food",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "food",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...island. He had read somewhere that fish not only were <mark>food<\/mark>, but there was always a little fresh water within them....",
+            "fid" : "content" },
+          
+          { "form" : "food",
+            "weight" : "1",
+            "pos" : 319,
+            "context" : "...lame, he had to rely on Harithoel for all the <mark>food<\/mark>.",
+            "fid" : "content" } ] } ] }

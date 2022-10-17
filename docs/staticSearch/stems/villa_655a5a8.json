@@ -1,0 +1,37 @@
+
+  { "stem" : "villa",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Villa",
+            "weight" : "1",
+            "pos" : 1579,
+            "context" : "Dren Plantation, Dren's <mark>Villa<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "villa",
+            "weight" : "1",
+            "pos" : 1748,
+            "context" : "dren plantation, dren's <mark>villa<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Villa",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Dren Plantation, Dren's <mark>Villa<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

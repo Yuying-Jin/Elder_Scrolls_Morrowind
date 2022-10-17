@@ -1,0 +1,31 @@
+
+  { "stem" : "bear",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bearing",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "Those shrines <mark>bearing<\/mark> the images of Vivec, Almalexia, and Sotha Sil also...",
+            "fid" : "content" },
+          
+          { "form" : "bearing",
+            "weight" : "1",
+            "pos" : 164,
+            "context" : "Those shrines <mark>bearing<\/mark> the images of the saints may also grant the particular blessings...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bears",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "...The stronger one is, the wealthier one is, the more one <mark>bears<\/mark> responsibility for helping and protecting others. One's first duty,...",
+            "fid" : "content" } ] } ] }

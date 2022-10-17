@@ -1,0 +1,43 @@
+
+  { "stem" : "mamoona",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Mamoona",
+            "weight" : "1",
+            "pos" : 147,
+            "context" : "...thick tall trama shrubs about the marriage of Sedura Indoril Pavflek <mark>Mamoona<\/mark>, one of the wealthiest and most respected nobles in Gnisis...",
+            "fid" : "content" },
+          
+          { "form" : "Mamoona",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "Not long afterwards, Sedura Indoril Pavflek <mark>Mamoona<\/mark> fell ill and died, despite all the skills of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Mamoona",
+            "weight" : "1",
+            "pos" : 7183,
+            "context" : "Sedura_Indoril_Pavflek_<mark>Mamoona<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mamoona",
+            "weight" : "1",
+            "pos" : 6962,
+            "context" : "sedura indoril pavflek <mark>mamoona<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

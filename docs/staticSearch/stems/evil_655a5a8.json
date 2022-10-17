@@ -1,0 +1,53 @@
+
+  { "stem" : "evil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "evil",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "..., the Battlespire appears to be falling into the hands of <mark>evil<\/mark>. Their many attempts in the past have failed, until...",
+            "fid" : "content" },
+          
+          { "form" : "evil",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...journey to the Imperial Palace. There, we will report the <mark>evil<\/mark> infection and return with a regimental force of rescue. May...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Evil",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...questing, virtue, knowledge, testing, and battling with <mark>Evil<\/mark>; Temple doctrine claims their divine powers and immortality are ultimately...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Evil",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...questing, virtue, knowledge, testing, and battling with <mark>Evil<\/mark>; Temple doctrine claims their divine powers and immortality are ultimately...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "evil",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "Fate, monstrous and empty, the whirling wheel of <mark>evil<\/mark>.",
+            "fid" : "content" } ] } ] }

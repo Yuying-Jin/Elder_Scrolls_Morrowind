@@ -1,0 +1,25 @@
+
+  { "stem" : "ill-equip",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ill-equipped",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "...; there are no trails or marked routes. Casual travelers <mark>ill-equipped<\/mark> for the attacks of wild beasts and brigands should keep to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ill-equipped",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...very different kind of society, one that he had been <mark>ill-equipped<\/mark> to deal with. They were poor.",
+            "fid" : "content" } ] } ] }

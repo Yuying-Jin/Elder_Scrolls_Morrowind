@@ -1,0 +1,36 @@
+
+  { "stem" : "distinct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "distinctive",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "..., the Redoran district seat, is exceptional, with its <mark>distinctive<\/mark> feature being the colossal prehistoric bug shell that has been adapted...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "distinctive",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : " Ald'ruhn-under-Skar is the most <mark>distinctive<\/mark> architectural feature of Ald'ruhn -- a manor and council district sheltered...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "distinctive",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...Vvardenfell has nine basic geographic regions, each with their own <mark>distinctive<\/mark> plants and terrain features. Scholars have based their classifications on...",
+            "fid" : "content" } ] } ] }

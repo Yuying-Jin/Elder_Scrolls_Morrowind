@@ -1,0 +1,14 @@
+
+  { "stem" : "marin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mariners",
+            "weight" : "1",
+            "pos" : 747,
+            "context" : "...of the port village of Seyda Neen is a beacon to <mark>mariners<\/mark> throughout the Inner Sea. Most visitors from the Empire make...",
+            "fid" : "content" } ] } ] }

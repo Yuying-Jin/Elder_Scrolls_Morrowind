@@ -1,0 +1,77 @@
+
+  { "stem" : "next",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...,\" replied Yakin. \"But in return, I want your <mark>next<\/mark> season's worth of trama root, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 402,
+            "context" : "...,\" replied Yakin. \"But in return, I want your <mark>next<\/mark> season's worth of chokeweed, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "Oin agreed, and for the <mark>next<\/mark> several weeks, he learned the spell to make his endurance...",
+            "fid" : "content" },
+          
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 446,
+            "context" : "...is Master Combova,\" said the fellow, nudging the witch <mark>next<\/mark> to him. \"Kena Leles, cast a ball of blue flame...",
+            "fid" : "content" },
+          
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 548,
+            "context" : "...,\" replied Yakin. \"But in return, I want your <mark>next<\/mark> season's worth of gold kanet, all to myself.\"",
+            "fid" : "content" },
+          
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 759,
+            "context" : "...Bael and learned how to fortify his personality in exchange for <mark>next<\/mark> season's worth of willow anther. Then they lived happily ever...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "The <mark>next<\/mark> step is to wrap the servant in cloth or linen....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 405,
+            "context" : "...the canton south of the Foreign Quarter, west of and <mark>next<\/mark> to the Arena. The Redoran administrative center there includes the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "next",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...guests and thus Mordrin Hanin was supplied with companions in the <mark>next<\/mark> world.",
+            "fid" : "content" } ] } ] }

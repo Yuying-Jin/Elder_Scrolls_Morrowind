@@ -1,0 +1,139 @@
+
+  { "stem" : "thank",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Thank",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "<mark>Thank<\/mark> you for your valor, Lord Vivec. I shall not...",
+            "fid" : "content" },
+          
+          { "form" : "Thank",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "<mark>Thank<\/mark> you for your daring, Lord Vivec. I shall not...",
+            "fid" : "content" },
+          
+          { "form" : "Thank",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "<mark>Thank<\/mark> you for your justice, Lord Vivec. I shall be...",
+            "fid" : "content" },
+          
+          { "form" : "Thank",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "<mark>Thank<\/mark> you for your courtesy, Lord Vivec. I shall speak...",
+            "fid" : "content" },
+          
+          { "form" : "Thank",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "<mark>Thank<\/mark> you for your pride, Lord Vivec. I shall not...",
+            "fid" : "content" },
+          
+          { "form" : "Thank",
+            "weight" : "1",
+            "pos" : 160,
+            "context" : "<mark>Thank<\/mark> you for your generosity, Lord Vivec. I shall neither...",
+            "fid" : "content" },
+          
+          { "form" : "Thank",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "<mark>Thank<\/mark> you for your humility, Lord Vivec. I shall neither...",
+            "fid" : "content" },
+          
+          { "form" : "thanks",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...strut nor preen in vanity, but shall know and give <mark>thanks<\/mark> for my place in the greater world.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "thanked",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "...build a monument to the heroes of that war. Vivec <mark>thanked<\/mark> them, but said that it would be better to dedicate a...",
+            "fid" : "content" },
+          
+          { "form" : "thanks",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : ".... It became the custom to make offerings here, either in <mark>thanks<\/mark> of our good fortune, or for those less fortunate....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thanks",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...and the Ministry of Truth, and to offer prayer and <mark>thanks<\/mark> before the Palace of Vivec. The Ministry of Truth,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Thankfully",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...bonewalkers are far worse than the more common 'lesser' bonewalkers. <mark>Thankfully<\/mark>, normal weapons harm bonewalkers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Thankfully",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...bonewalkers are far worse than the more common 'lesser' bonewalkers. <mark>Thankfully<\/mark>, normal weapons harm bonewalkers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thanks",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...he had received his quest, accepted the gold and the <mark>thanks<\/mark>, and was back in his house in Gnisis but a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "\"Thank",
+            "weight" : "1",
+            "pos" : 875,
+            "context" : "...side, he heard Galsiah in her typical calm voice, <mark>\"Thank<\/mark> you for the lesson, Sathis.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thanks",
+            "weight" : "1",
+            "pos" : 193,
+            "context" : "...of theft and violent crime in the Hlaalu House Districts, <mark>thanks<\/mark> to the vigilance of the Legions and stern sentences by the...",
+            "fid" : "content" } ] } ] }

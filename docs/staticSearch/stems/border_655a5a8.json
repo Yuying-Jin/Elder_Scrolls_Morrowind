@@ -1,0 +1,14 @@
+
+  { "stem" : "border",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bordering",
+            "weight" : "1",
+            "pos" : 497,
+            "context" : "...law. Dres District is in the south of Morrowind, <mark>bordering<\/mark> the swamps and marshes of Black Marsh. House Dres is...",
+            "fid" : "content" } ] } ] }

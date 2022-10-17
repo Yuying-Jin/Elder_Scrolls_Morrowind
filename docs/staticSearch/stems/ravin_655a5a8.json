@@ -1,0 +1,25 @@
+
+  { "stem" : "ravin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ravines",
+            "weight" : "1",
+            "pos" : 882,
+            "context" : "...is an uninhabited wasteland of rocky hills, steep-sided <mark>ravines<\/mark>, lava pools, and barren ash pavements. Pathfinding and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ravine",
+            "weight" : "1",
+            "pos" : 599,
+            "context" : "...route to Ghostgate is along the Foyada Mamaea, a volcanic <mark>ravine<\/mark> running from the top of Red Mountain southwest to its end...",
+            "fid" : "content" } ] } ] }

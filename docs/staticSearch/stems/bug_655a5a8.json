@@ -1,0 +1,14 @@
+
+  { "stem" : "bug",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bug",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "...is exceptional, with its distinctive feature being the colossal prehistoric <mark>bug<\/mark> shell that has been adapted as the house's council house....",
+            "fid" : "content" } ] } ] }

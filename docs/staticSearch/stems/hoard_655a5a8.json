@@ -1,0 +1,14 @@
+
+  { "stem" : "hoard",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hoard",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...you for your generosity, Lord Vivec. I shall neither <mark>hoard<\/mark> nor steal, nor encumber myself with profitless treasures, but...",
+            "fid" : "content" } ] } ] }

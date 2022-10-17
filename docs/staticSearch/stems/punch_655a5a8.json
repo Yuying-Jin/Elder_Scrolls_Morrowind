@@ -1,0 +1,14 @@
+
+  { "stem" : "punch",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "punches",
+            "weight" : "1",
+            "pos" : 404,
+            "context" : "...them, Airen had the upper hand. He rained kicks and <mark>punches<\/mark> down using the arrhythmic style the Khajiit call Goutfang; he...",
+            "fid" : "content" } ] } ] }

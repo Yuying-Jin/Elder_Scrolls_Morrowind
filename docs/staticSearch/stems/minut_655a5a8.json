@@ -1,0 +1,60 @@
+
+  { "stem" : "minut",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "minutes",
+            "weight" : "1",
+            "pos" : 388,
+            "context" : ".... \"They say he can stand in blue flames for twenty <mark>minutes<\/mark>.\"",
+            "fid" : "content" },
+          
+          { "form" : "minutes",
+            "weight" : "1",
+            "pos" : 457,
+            "context" : "...me.\" And he sat in the inferno of flame for twenty <mark>minutes<\/mark> before he left.",
+            "fid" : "content" },
+          
+          { "form" : "minutes",
+            "weight" : "1",
+            "pos" : 612,
+            "context" : ".... He blocked the blows effortlessly with a shield for ten <mark>minutes<\/mark>, and then revealed afterwards that he had picketpocketed the young...",
+            "fid" : "content" },
+          
+          { "form" : "minutes",
+            "weight" : "1",
+            "pos" : 636,
+            "context" : "...sparring partner to attack him with his sword. After twenty <mark>minutes<\/mark> of blocking the man's blows with his shield, he revealed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "minutes'",
+            "weight" : "1",
+            "pos" : 393,
+            "context" : "...ladder to someone of Master Senyndie's skills. In a few <mark>minutes'<\/mark> time, she was in the room with the razor in...",
+            "fid" : "content" },
+          
+          { "form" : "minutes",
+            "weight" : "1",
+            "pos" : 398,
+            "context" : "...room with the razor in hand. In a few more <mark>minutes<\/mark>, she was back down the tower and we were running...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "minutes",
+            "weight" : "1",
+            "pos" : 427,
+            "context" : "...the shore and saw that the boat was only a few <mark>minutes<\/mark> from landing. \"And S'Riizh listens. When you said that...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "crimin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "criminals",
+            "weight" : "1",
+            "pos" : 37,
+            "context" : "...Necromancers who have served the Empire are given the corpses of <mark>criminals<\/mark> and traitors to use legally. This provides those who have...",
+            "fid" : "content" },
+          
+          { "form" : "criminals",
+            "weight" : "1",
+            "pos" : 363,
+            "context" : "...Daggerfall may institute the Imperial practice of donating the corpses of <mark>criminals<\/mark> for Necromantic study as a deterrent to the bandits and pirates...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "criminal",
+            "weight" : "1",
+            "pos" : 726,
+            "context" : "...Coast, the region's secluded coves and islands provide refuge for <mark>criminal<\/mark> trade, and the frequent rain and fog hides small boats...",
+            "fid" : "content" } ] } ] }

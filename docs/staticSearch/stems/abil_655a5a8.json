@@ -1,0 +1,121 @@
+
+  { "stem" : "abil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "abilities",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...addition to their beauty, they are said to have magical <mark>abilities<\/mark> to enhance the appearance of anyone who carries or wears one...",
+            "fid" : "content" },
+          
+          { "form" : "ability",
+            "weight" : "1",
+            "pos" : 272,
+            "context" : "...the pulp of the Aloe plant, the potion has the <mark>ability<\/mark> to increase one's stamina for a short while.",
+            "fid" : "content" },
+          
+          { "form" : "abilities",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "...tuck a piece of Nightshade inside their armor to increase their <mark>abilities<\/mark> to skulk, hide and become invisible.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "abilities",
+            "weight" : "1",
+            "pos" : 70,
+            "context" : "...observer to examine the obstacle, and compare his resources and <mark>abilities<\/mark>; if the obstacle is too difficult, seek for a...",
+            "fid" : "content" },
+          
+          { "form" : "abilities",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...observer to examine the obstacle, and compare his resources and <mark>abilities<\/mark>; if the obstacle is too difficult, look for a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ability",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...about fleshless revenants, or skeletons. The agility and fighting <mark>ability<\/mark> of the animated remains may depend on the abilities of the...",
+            "fid" : "content" },
+          
+          { "form" : "abilities",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...and fighting ability of the animated remains may depend on the <mark>abilities<\/mark> of the revenant's former life, and may therefore be weak...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ability",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...about fleshless revenants, or skeletons. The agility and fighting <mark>ability<\/mark> of the animated remains may depend on the abilities of the...",
+            "fid" : "content" },
+          
+          { "form" : "abilities",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...and fighting ability of the animated remains may depend on the <mark>abilities<\/mark> of the revenant's former life, and may therefore be weak...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ability",
+            "weight" : "1",
+            "pos" : 464,
+            "context" : "...animals, such experiments rarely produce interesting results. The servant's <mark>ability<\/mark> to follow directions seems to be related to the subject's intelligence...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ability",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...Ur at Red Mountain, misleading the people about the Tribunal's <mark>ability<\/mark> to protect Morrowind from Dagoth Ur, and concealing a recent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ability",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...Ur at Red Mountain, misleading the people about the Tribunal's <mark>ability<\/mark> to protect Morrowind from Dagoth Ur, and concealing a recent...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abilities",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "But adventurers of all races and <mark>abilities<\/mark> who apply to Telvanni Mouths at the Telvanni Council Hall in...",
+            "fid" : "content" } ] } ] }

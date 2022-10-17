@@ -1,0 +1,25 @@
+
+  { "stem" : "protuber",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "protuberances",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...bones and spirit. Bonewalkers are readily identified by the sharp <mark>protuberances<\/mark> of bone and metal employed in the rituals that bind them...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "protuberances",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...bones and spirit. Bonewalkers are readily identified by the sharp <mark>protuberances<\/mark> of bone and metal employed in the rituals that bind them...",
+            "fid" : "content" } ] } ] }

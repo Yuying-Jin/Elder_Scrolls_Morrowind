@@ -1,0 +1,36 @@
+
+  { "stem" : "sought",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sought",
+            "weight" : "1",
+            "pos" : 279,
+            "context" : ".... As you know, Orc corpses are among the most <mark>sought<\/mark> after for the durability of their skin and the strength of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sought",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "[Rithari <mark>sought<\/mark> and obtained a cursed soul gem of mysterious nature from a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sought",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...Vivec from a foolish mortal into an enlightened divine. Vivec <mark>sought<\/mark> out experiences that tested him in every way possible, particularly...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,36 @@
+
+  { "stem" : "therefor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "therefore",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...on the abilities of the revenant's former life, and may <mark>therefore<\/mark> be weak or strong, or more or less capable with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "therefore",
+            "weight" : "1",
+            "pos" : 129,
+            "context" : "...on the abilities of the revenant's former life, and may <mark>therefore<\/mark> be weak or strong, or more or less capable with...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "therefore",
+            "weight" : "1",
+            "pos" : 637,
+            "context" : "...meeting them at the Plot and Plaster. The authorities wouldn't <mark>therefore<\/mark> be looking for a Dunmer named Sathis celebrating his wealth miles...",
+            "fid" : "content" } ] } ] }

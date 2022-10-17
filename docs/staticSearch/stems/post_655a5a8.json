@@ -1,0 +1,59 @@
+
+  { "stem" : "post",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "post",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...Lady Genevrah personally. Each of his brothers guarded a different <mark>post<\/mark> along the valley -- Baranat would have to defeat each to...",
+            "fid" : "content" },
+          
+          { "form" : "posts",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...swamps before he came to the first of the brothers' guard <mark>posts<\/mark>. There he saw Vanis Coribael, the youngest of the...",
+            "fid" : "content" },
+          
+          { "form" : "post",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...the valley floor in eighty-seven pieces. Beyond Feryn's <mark>post<\/mark> was a raging river, where the second eldest Coribael brother...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "post",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...use legally. This provides those who have acquired such a <mark>post<\/mark> with a fresh supply of corpses, most of them young...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "post",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...by intimations of my former life, I visited my former <mark>post<\/mark> at Bal Ur, hoping perhaps to atone in some for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "posted",
+            "weight" : "1",
+            "pos" : 420,
+            "context" : "...that previous to his imprisonment for heresy, Rithari had been <mark>posted<\/mark> to the Buoyant Armiger garrison at Bal Ur, a pilgrimage...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "bulli",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bully",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "...Benitah Gorgoth. Once when at play he had pushed a <mark>bully<\/mark> away who was trying to hurt her, and the look of...",
+            "fid" : "content" },
+          
+          { "form" : "bullies",
+            "weight" : "1",
+            "pos" : 739,
+            "context" : "...was a little girl, and so brave fighting off the <mark>bullies<\/mark>. His name was Oin Parnafacasis.\"",
+            "fid" : "content" } ] } ] }

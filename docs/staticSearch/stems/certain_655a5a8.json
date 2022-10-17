@@ -1,0 +1,86 @@
+
+  { "stem" : "certain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "certain",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "...bought only after years of practice. Know the specialties of <mark>certain<\/mark> regions and merchants before you even step foot in a shop...",
+            "fid" : "content" },
+          
+          { "form" : "certain",
+            "weight" : "1",
+            "pos" : 200,
+            "context" : "...I hail from, for example, Argonians are viewed with a <mark>certain<\/mark> amount of suspicion. Don't be surprised or insulted if the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "certain",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...gave to the egg new motions that could be achieved by <mark>certain<\/mark> movements of the bones. These are called the Barons of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "certain",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...traditionally isolated themselves, pursuing wisdom and mastery in solitude. But <mark>certain<\/mark> ambitious wizards-lords, their retainers, and clients have...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "certainly",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...excited. “Can you teach the spell Silence? I can <mark>certainly<\/mark> pay you.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "certain",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : "...power is great, it is not unlimited, and that <mark>certain<\/mark> enchanted items -- for instance, the Armor of the Savior's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "certainly",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "\"You are <mark>certainly<\/mark> brave, but I fear you would never survive,\" said...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "certainly",
+            "weight" : "1",
+            "pos" : 619,
+            "context" : "...interrogation. Who would break under pressure first? Imalyn was <mark>certainly<\/mark> the tougher of the two, but Galsiah doubtless had hidden...",
+            "fid" : "content" } ] } ] }

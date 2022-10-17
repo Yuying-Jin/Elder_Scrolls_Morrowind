@@ -1,0 +1,517 @@
+
+  { "stem" : "baranat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 27,
+        "contexts" : 
+        [ 
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "The Prayers of <mark>Baranat<\/mark>" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 736,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 1084,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 1708,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 3016,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 3094,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 3150,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 3566,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5290,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5357,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5564,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5753,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5841,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5958,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6319,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "baranat",
+            "weight" : "1",
+            "pos" : 6451,
+            "context" : "<mark>baranat<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6453,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 26",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6512,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6519,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 5",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6601,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6702,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 4",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6731,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7134,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7231,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7369,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7628,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7702,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 26,
+        "contexts" : 
+        [ 
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 562,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 872,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 1543,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 2842,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 2921,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 2975,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 3413,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5507,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5593,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5689,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 5991,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6001,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6055,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 2" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6225,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 5" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6249,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6368,
+            "context" : "<mark>Baranat<\/mark>" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6370,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 26" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6494,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6604,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 4" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 6634,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7002,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7099,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7264,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7471,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7484,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 7553,
+            "context" : "The Prayers of <mark>Baranat<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 26,
+        "contexts" : 
+        [ 
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...who answered her call was a skinny, little fellow named <mark>Baranat<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 79,
+            "context" : "\"My lady,\" said <mark>Baranat<\/mark>. \"When I was born, I was blessed by Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "..., but having no other prospects, the old woman sent <mark>Baranat<\/mark> off, explaining that the four brothers' camp was to the north...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "...of his brothers guarded a different post along the valley -- <mark>Baranat<\/mark> would have to defeat each to rescue the lady.",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "<mark>Baranat<\/mark> rode many miles through the northern swamps before he came to...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...could thrash his opponents before they even unsheathed their weapons. <mark>Baranat<\/mark> look a look at his sad, cut-rate iron...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "Saint Veloth the Pilgrim appeared before <mark>Baranat<\/mark> in shining robes, and smiled upon him, \"Baranat, put...",
+            "fid" : "content" },
+          
+          { "form" : "\"Baranat",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...appeared before Baranat in shining robes, and smiled upon him, <mark>\"Baranat<\/mark>, put down your blade and I will make you swifter...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 184,
+            "context" : "<mark>Baranat<\/mark> dropped his blade and ran at Vanis, moving so fast...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat's",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...his pace. In a flash, Vanis was dead by <mark>Baranat's<\/mark> hands. The adventurer continued on until he reached the second...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...a trama shrub up by the roots with two fingers. <mark>Baranat<\/mark> hid himself and trembled as he looked at the giant Feryn...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "Saint Nerevar the Captain appeared before <mark>Baranat<\/mark> in golden armor, and smiled upon him, \"Baranat, I...",
+            "fid" : "content" },
+          
+          { "form" : "\"Baranat",
+            "weight" : "1",
+            "pos" : 238,
+            "context" : "...appeared before Baranat in golden armor, and smiled upon him, <mark>\"Baranat<\/mark>, I will make you stronger than a hundred warriors.\"...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 243,
+            "context" : "<mark>Baranat<\/mark> rushed at Feryn, knocking the giant through a boulder which...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...impact. Feryn tried to get to his feet, but <mark>Baranat<\/mark> tore him apart, scattering him across the valley floor in...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 295,
+            "context" : "...lava of Dagoth Ur like it was the Padomaic Ocean. <mark>Baranat<\/mark> thought of his own tolerance for pain, which was minimal...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 307,
+            "context" : "Saint Roris the Martyr appeared before <mark>Baranat<\/mark> with flesh like sparkling gems, and smiled on him, \"Baranat...",
+            "fid" : "content" },
+          
+          { "form" : "\"Baranat",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "...Baranat with flesh like sparkling gems, and smiled on him, <mark>\"Baranat<\/mark>, I will make you unyielding as the heart of Oblivion...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 318,
+            "context" : "<mark>Baranat<\/mark> rushed at Horis, and two plunged into the rushing river...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 336,
+            "context" : "...until Horis could hold his breath no more and drowned. <mark>Baranat<\/mark> pulled himself out of the river and continued down the valley...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : ".... Airen Coribael himself was there, guarding a squirming sack which <mark>Baranat<\/mark> assumed either contained Lady Genevrah or several large cats. The...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "Saint Olms the Just appeared before <mark>Baranat<\/mark> in a burst of flame, and smiled on him, \"Baranat...",
+            "fid" : "content" },
+          
+          { "form" : "\"Baranat",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "...Baranat in a burst of flame, and smiled on him, <mark>\"Baranat<\/mark>, I will make you more cunning in battle than the...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "<mark>Baranat<\/mark> walked calmly into the camp and began battle with Airen Coribael...",
+            "fid" : "content" },
+          
+          { "form" : "Baranat",
+            "weight" : "1",
+            "pos" : 450,
+            "context" : "...no escape. With three quick flashes of his hand, <mark>Baranat<\/mark> completed the Cycle of Blood, the old Redguard fighting style...",
+            "fid" : "content" },
+          
+          { "form" : "\"Baranat",
+            "weight" : "1",
+            "pos" : 512,
+            "context" : "...from a cloud in the sky, and smiled on him, <mark>\"Baranat<\/mark>, before you fight, find out what you're fighting for.\"...",
+            "fid" : "content" } ] } ] }

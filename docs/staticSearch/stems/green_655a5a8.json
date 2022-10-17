@@ -1,0 +1,133 @@
+
+  { "stem" : "green",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "<mark>green<\/mark> lichen" },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "<mark>green<\/mark> lichens" },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "<mark>green<\/mark>_lichen" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "To cure common diseases, combine gravedust and <mark>green<\/mark> lichen. gravedust is spirit-affinitive dust taken from remains...",
+            "fid" : "content" },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 191,
+            "context" : "...-affinitive dust taken from remains buried in consecrated ground. <mark>green<\/mark> lichen is a hardy primitive plant that grows in the Ascadian...",
+            "fid" : "content" },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 345,
+            "context" : ".... luminous russula is a squat, mottled-brown-and-<mark>green<\/mark> toadstool mushroom of the Bitter Coast region. hackle-lo...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 447,
+            "context" : "<mark>green<\/mark> lichen",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 454,
+            "context" : "<mark>green<\/mark> lichens",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : " The Ascadian Isles is a region of lush, <mark>green<\/mark>, well-watered southern lowlands where most of Vvardenfell's agriculture...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Green",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "...of Daedra 1 Part mixed Bittergreen Petals, Void Salts, <mark>Green<\/mark> Lichens and Bonemeal 1 Part Moonsugar 5 Parts Flin",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "What is <mark>green<\/mark> and hops and sizzles on lava?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...of Black Marsh. The fronds from this plant are light <mark>green<\/mark> and quite delicate. Picking a frond can be very difficult...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "green",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...the Innocent Quarry to personally mock and torment Chimere. The <mark>green<\/mark> crystal structure was created by enchantments, and is the only...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Green",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "<mark>Green<\/mark> and Gracious Land",
+            "fid" : "content" } ] } ] }

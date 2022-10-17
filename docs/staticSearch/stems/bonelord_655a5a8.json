@@ -1,0 +1,84 @@
+
+  { "stem" : "bonelord",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bonelord",
+            "weight" : "1",
+            "pos" : 156,
+            "context" : "...are not needed to destroy skeletons. An exception is the <mark>bonelord<\/mark>, a peculiar form of revenant that seems to derive its...",
+            "fid" : "content" },
+          
+          { "form" : "Bonelords",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "...spirit energies than from the substance of its skeletal remains. <mark>Bonelords<\/mark> are very powerful, and very dangerous. Normal weapons do...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Bonelord",
+            "weight" : "1",
+            "pos" : 4957,
+            "context" : "<mark>Bonelord<\/mark>" },
+          
+          { "form" : "Bonelords",
+            "weight" : "1",
+            "pos" : 4963,
+            "context" : "<mark>Bonelords<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bonelord",
+            "weight" : "1",
+            "pos" : 5098,
+            "context" : "<mark>bonelord<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "bonelords",
+            "weight" : "1",
+            "pos" : 5104,
+            "context" : "<mark>bonelords<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bonelord",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...are not needed to destroy skeletons. An exception is the <mark>bonelord<\/mark>, a peculiar form of revenant that seems to derive its...",
+            "fid" : "content" },
+          
+          { "form" : "Bonelords",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...spirit energies than from the substance of its skeletal remains. <mark>Bonelords<\/mark> are very powerful, and very dangerous. Normal weapons do...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bonelord",
+            "weight" : "1",
+            "pos" : 199,
+            "context" : "...Hearth and Kin. But ghost or guardian, bonewalker or <mark>bonelord<\/mark>, summoned by profane ritual and bound by force to the...",
+            "fid" : "content" } ] } ] }

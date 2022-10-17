@@ -1,0 +1,37 @@
+
+  { "stem" : "hierarchi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hierarchy",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...the authority of the Archcanon and the Ordinators. The temple <mark>hierarchy<\/mark> has been corrupted by self-interest and politics, and...",
+            "fid" : "content" },
+          
+          { "form" : "hierarchy",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "Within the Temple <mark>hierarchy<\/mark> it is an open secret that the Ordinators rely on abduction...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "hierarchy",
+            "weight" : "1",
+            "pos" : 349,
+            "context" : "...the authority of the Archcanon and the Ordinators. The temple <mark>hierarchy<\/mark> has been corrupted by self-interest and politics, and...",
+            "fid" : "content" },
+          
+          { "form" : "hierarchy",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "Within the Temple <mark>hierarchy<\/mark> it is an open secret that the Ordinators rely on abduction...",
+            "fid" : "content" } ] } ] }

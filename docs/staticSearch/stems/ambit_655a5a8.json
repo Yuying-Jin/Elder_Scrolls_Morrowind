@@ -1,0 +1,91 @@
+
+  { "stem" : "ambit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ambitions",
+            "weight" : "1",
+            "pos" : 155,
+            "context" : "...law and custom, Telvanni Council places no constraint on the <mark>ambitions<\/mark> and enterprise of its individual members. If the Empire or...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Ambition",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "..., Inspiration, Piety, Work, Compassion, Justice, <mark>Ambition<\/mark>, Learning, and Civility. Our Emperor is the Defender...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ambition",
+            "weight" : "1",
+            "pos" : 284,
+            "context" : "..., for above all things, House Hlaalu prizes initiative and <mark>ambition<\/mark>. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ambitions",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "...hireling, pledging exclusive loyalty to a single house and forsaking <mark>ambitions<\/mark> with all other houses. Later, after faithful service and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ambition",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...outlanders. They want them all dead. So, unless your <mark>ambition<\/mark> is to be dead, you don't want to join them....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ambition",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "...was condemned to live forever among the ruins of his greatest <mark>ambition<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ambitions",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...prideful wizards, confident in their skill and blinded by their <mark>ambitions<\/mark>. In this, hold the ordering of the Congeries among the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ambition",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "\"So much <mark>ambition<\/mark>, so little education,\" said Lledos with a sigh....",
+            "fid" : "content" } ] } ] }

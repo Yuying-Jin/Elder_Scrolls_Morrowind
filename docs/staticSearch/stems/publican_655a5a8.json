@@ -1,0 +1,14 @@
+
+  { "stem" : "publican",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "publican",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...Hospitality at the Gateway merchant inn, and Ery, Gateway's <mark>publican<\/mark>. At Wolverine Hall, Hrundi the Nord is the Fighters...",
+            "fid" : "content" } ] } ] }

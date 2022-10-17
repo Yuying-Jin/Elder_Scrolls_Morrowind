@@ -1,0 +1,14 @@
+
+  { "stem" : "trackless",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trackless",
+            "weight" : "1",
+            "pos" : 892,
+            "context" : "...ash pavements. Pathfinding and travel is extremely difficult in this <mark>trackless<\/mark> wilderness, and is complicated by frequent ash storms. The...",
+            "fid" : "content" } ] } ] }

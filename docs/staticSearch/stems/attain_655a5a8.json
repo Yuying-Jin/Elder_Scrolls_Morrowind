@@ -1,0 +1,25 @@
+
+  { "stem" : "attain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attain",
+            "weight" : "1",
+            "pos" : 196,
+            "context" : "...residents of Valenwood for their beautiful and showy flowers. They <mark>attain<\/mark> a height of about three feet and have feathery leaves;...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attained",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...life, his humility, and his unconquerable spirit, he <mark>attained<\/mark> the Wisdom of the Seven Graces. The Cantatas relate many...",
+            "fid" : "content" } ] } ] }

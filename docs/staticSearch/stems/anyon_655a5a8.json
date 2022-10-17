@@ -1,0 +1,25 @@
+
+  { "stem" : "anyon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anyone",
+            "weight" : "1",
+            "pos" : 213,
+            "context" : "...are said to have magical abilities to enhance the appearance of <mark>anyone<\/mark> who carries or wears one of the flowers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "anyone",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "...persuasion; for safety, it was enchanted to instantly kill <mark>anyone<\/mark> who wore it except Nerevar. The ring was called Moon...",
+            "fid" : "content" } ] } ] }

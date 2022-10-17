@@ -1,0 +1,20 @@
+
+  { "stem" : "transform",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "transformed",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...of these three daedrai Lords, a discontented throng of Altmer <mark>transformed<\/mark> themselves into a new people and founded a new land....",
+            "fid" : "content" },
+          
+          { "form" : "transformation",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "...Plots, provided the revolutionary methods needed to bring about this <mark>transformation<\/mark>, Mephala was the shadowy implementer of those methods.",
+            "fid" : "content" } ] } ] }

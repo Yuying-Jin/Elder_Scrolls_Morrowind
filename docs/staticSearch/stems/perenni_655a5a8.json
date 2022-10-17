@@ -1,0 +1,14 @@
+
+  { "stem" : "perenni",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "perennial",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "Fire Fern, a <mark>perennial<\/mark> herb, native to Morrowind. The flowers are inconspicuous and...",
+            "fid" : "content" } ] } ] }

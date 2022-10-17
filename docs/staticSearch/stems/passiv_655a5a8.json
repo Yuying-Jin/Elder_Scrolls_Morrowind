@@ -1,0 +1,14 @@
+
+  { "stem" : "passiv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "passively",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...my corruption, and despairing of my own welfare, I <mark>passively<\/mark> acquiesced in my gradual integration into the affairs of Clan Aundae...",
+            "fid" : "content" } ] } ] }

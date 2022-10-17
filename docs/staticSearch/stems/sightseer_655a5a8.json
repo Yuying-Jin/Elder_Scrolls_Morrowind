@@ -1,0 +1,14 @@
+
+  { "stem" : "sightseer",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sightseers",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "...cultists, and their Daedric summonings, and not recommended for <mark>sightseers<\/mark>.",
+            "fid" : "content" } ] } ] }

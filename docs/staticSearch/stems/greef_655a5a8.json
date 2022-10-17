@@ -1,0 +1,77 @@
+
+  { "stem" : "greef",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "greef",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "Imalyn sneered, slamming down his flagon of <mark>greef<\/mark> violently on the rough-hewn table. \"B'vek, what...",
+            "fid" : "content" },
+          
+          { "form" : "greef",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "\"The common thief,\" said Lledos, pouring himself more <mark>greef<\/mark>, warming to his subject. \"Sticks his dagger in his...",
+            "fid" : "content" },
+          
+          { "form" : "greef",
+            "weight" : "1",
+            "pos" : 691,
+            "context" : "...bringing undue attention. They would take a couple flagons of <mark>greef<\/mark>, perhaps order a meal -- a big one -- and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "greef",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...I'm Erer Darothil,” he said, raising a glass of <mark>greef<\/mark>. “I hail from the region of Ghostgate which is how...",
+            "fid" : "greef" },
+          
+          { "form" : "greef",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...in their seats at the cornerclub and tossed back glasses of <mark>greef<\/mark>, the old man shared his knowledge of the spell....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greef",
+            "weight" : "1",
+            "pos" : 255,
+            "context" : "<mark>greef<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greef",
+            "weight" : "1",
+            "pos" : 436,
+            "context" : "<mark>greef<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "greef",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...protests the continuing burdensome tariffs on the native beverages sujamma, <mark>greef<\/mark>, and shein.",
+            "fid" : "content" } ] } ] }

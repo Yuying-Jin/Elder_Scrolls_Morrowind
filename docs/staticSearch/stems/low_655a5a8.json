@@ -1,0 +1,58 @@
+
+  { "stem" : "low",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "low",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...the game can be broken if one's offer is so preposterously <mark>low<\/mark> that it insults the shop-keeper. If you are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Low",
+            "weight" : "1",
+            "pos" : 632,
+            "context" : "..., Tel Branora, and the Foreign Quarter of Vivec. <mark>Low<\/mark>-fare gondolas shuttle passengers from canton to canton via Vivec's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "low",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "\"Masters Harakostil and Thelegorm compressed themselves <mark>low<\/mark> enough to squirm under the gates so they could lower the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "low",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...weaponry, but their numbers are feverishly great. We grow <mark>low<\/mark> on supplies and soldiers for this holdout. I fear the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "low",
+            "weight" : "1",
+            "pos" : 257,
+            "context" : "...can be gained from heather and scuttle. Heather is a <mark>low<\/mark> evergreen shrub of the Ascadian Isles, known for its small...",
+            "fid" : "content" } ] } ] }

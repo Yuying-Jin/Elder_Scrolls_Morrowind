@@ -1,0 +1,369 @@
+
+  { "stem" : "legioni",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 28,
+        "contexts" : 
+        [ 
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "Ordo <mark>Legionis<\/mark>" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 478,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 3",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 525,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 648,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 691,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 919,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1302,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1515,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1597,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1795,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1970,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1989,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2151,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2198,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2350,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2818,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2890,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 3119,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 4780,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5494,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5668,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5699,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5790,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 6",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5797,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5992,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 6078,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 6565,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 27,
+        "contexts" : 
+        [ 
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 305,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 3" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 478,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 521,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 756,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1154,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1350,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1426,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1635,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1799,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1813,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 1990,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2023,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2180,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2651,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2721,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 2944,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 4650,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 3" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5290,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5412,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5460,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5541,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 6" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5548,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 3" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5709,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 5798,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 1" },
+          
+          { "form" : "Legionis",
+            "weight" : "1",
+            "pos" : 6458,
+            "context" : "Ordo <mark>Legionis<\/mark>, count: 2" } ] } ] }

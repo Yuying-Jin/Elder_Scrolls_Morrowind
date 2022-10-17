@@ -1,0 +1,89 @@
+
+  { "stem" : "art",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Arts",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "While the <mark>Arts<\/mark> of Necromancy are only illegal in the province of Morrowind,...",
+            "fid" : "content" },
+          
+          { "form" : "Art",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...few citizens of the Empire have an enlightened view of our <mark>Art<\/mark>. Thus, the acquisition of corpses on which to experiment...",
+            "fid" : "content" },
+          
+          { "form" : "Arts",
+            "weight" : "1",
+            "pos" : 187,
+            "context" : "...that goes beyond all reason. Many Necromancers who practice our <mark>Arts<\/mark> in Valenwood become \"one with the trees\" themselves.",
+            "fid" : "content" },
+          
+          { "form" : "Art",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "...lives even further rather than the more practical uses of our <mark>Art<\/mark>. A Necromancer of any other race caught in Summerset Isle...",
+            "fid" : "content" },
+          
+          { "form" : "Art",
+            "weight" : "1",
+            "pos" : 291,
+            "context" : "...listen to reason, we could offer the services of our <mark>Art<\/mark> in defense of his young nation in exchange for disposing of...",
+            "fid" : "content" },
+          
+          { "form" : "Art",
+            "weight" : "1",
+            "pos" : 453,
+            "context" : "...expedient approach is sometimes necessary to further the study of the <mark>Art<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Arts",
+            "weight" : "1",
+            "pos" : 454,
+            "context" : "While the <mark>Arts<\/mark> of Necromancy can be practiced on animals, such experiments rarely...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "arts",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : "...cultivate a noble personality and a strong will. Respect the magical <mark>arts<\/mark>, especially the colleges of Restoration, Mysticism, and Conjuration...",
+            "fid" : "content" },
+          
+          { "form" : "arts",
+            "weight" : "1",
+            "pos" : 492,
+            "context" : "...where possible, and so need not be masters of the <mark>arts<\/mark> of war. Those interested should speak to Synnolian Tunifus at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Art",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...they have been dismembered by those who do not appreciate our <mark>Art<\/mark>. If one of your servants comes to an unfortunate end...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arts",
+            "weight" : "1",
+            "pos" : 248,
+            "context" : "...high intelligence and willpower, and that candidates proficient in the <mark>arts<\/mark> of magic -- especially Mysticism, Conjuration, Illusion, Alteration...",
+            "fid" : "content" } ] } ] }

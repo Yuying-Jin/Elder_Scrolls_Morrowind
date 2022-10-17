@@ -1,0 +1,14 @@
+
+  { "stem" : "debt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "debt",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "..., his blessings of insight and good fortune, and his <mark>debt<\/mark> to his partners, Almalexia the Lover and Sotha Sil the...",
+            "fid" : "content" } ] } ] }

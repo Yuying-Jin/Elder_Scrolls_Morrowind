@@ -1,0 +1,14 @@
+
+  { "stem" : "phase",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "phase",
+            "weight" : "1",
+            "pos" : 231,
+            "context" : "...During the incubation <mark>phase<\/mark>, lasting up to 72 hours, the vampirism disease exhibits...",
+            "fid" : "content" } ] } ] }

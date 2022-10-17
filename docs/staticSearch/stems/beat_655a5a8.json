@@ -1,0 +1,25 @@
+
+  { "stem" : "beat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Beat",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "<mark>Beat<\/mark> eggs, wickwheat, and Scuttle in a large bowl....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beats",
+            "weight" : "1",
+            "pos" : 352,
+            "context" : "...but when you're only anticipating one or two victims, nothing <mark>beats<\/mark> throwing a sack over the targets [sic] head,...",
+            "fid" : "content" } ] } ] }

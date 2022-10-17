@@ -1,0 +1,58 @@
+
+  { "stem" : "attempt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attempt",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...bones, the results can be frustrating. One should only <mark>attempt<\/mark> to raise skeletons when you are sure that all or nearly...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attempts",
+            "weight" : "1",
+            "pos" : 528,
+            "context" : "...Imperial law and culture, and in particular opposed to any <mark>attempts<\/mark> to limit the institution of slavery.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attempts",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "...to be falling into the hands of evil. Their many <mark>attempts<\/mark> in the past have failed, until now. Dagon seems to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attempt",
+            "weight" : "1",
+            "pos" : 544,
+            "context" : "...itself are fearsome enemies; only experienced and capable adventurers should <mark>attempt<\/mark> to re-enact the epic battle with the Dreugh in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "attempt",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...after an encounter with a vampire would be considered a deliberate <mark>attempt<\/mark> to contract the disease, and a mark of monstrous depravity...",
+            "fid" : "content" } ] } ] }

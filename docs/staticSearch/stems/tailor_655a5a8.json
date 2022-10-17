@@ -1,0 +1,14 @@
+
+  { "stem" : "tailor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tailors",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...best families of Gnisis. They went to the very best <mark>tailors<\/mark>, shared the same tutors, played in the same exclusive...",
+            "fid" : "content" } ] } ] }

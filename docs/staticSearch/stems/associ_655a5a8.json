@@ -1,0 +1,48 @@
+
+  { "stem" : "associ",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "associated",
+            "weight" : "1",
+            "pos" : 588,
+            "context" : "...Sorcerer-Lord and head of the Telvanni Council. The <mark>associated<\/mark> settlement is a sizable village, and the site of the...",
+            "fid" : "content" },
+          
+          { "form" : "associated",
+            "weight" : "1",
+            "pos" : 1216,
+            "context" : "...of Sheogorad lies north of Vvardenfell. This island and its <mark>associated<\/mark> lesser islands are a maritime wilderness extending north from Vvardenfell into...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "associated",
+            "weight" : "1",
+            "pos" : 303,
+            "context" : "For example, one of the most striking persistent myths <mark>associated<\/mark> with Vivec is the story that Vivec conspired with his co...",
+            "fid" : "content" },
+          
+          { "form" : "associated",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "..., the darker components of violence, lust, and conspiracy <mark>associated<\/mark> the more primitive and ruthless impulses of the Anticipations.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "associated",
+            "weight" : "1",
+            "pos" : 424,
+            "context" : " \"I confess, I never <mark>associated<\/mark> brave actions with traveling acrobats,\" said Gothren.",
+            "fid" : "content" } ] } ] }

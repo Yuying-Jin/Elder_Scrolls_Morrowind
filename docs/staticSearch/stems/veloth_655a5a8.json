@@ -1,0 +1,134 @@
+
+  { "stem" : "veloth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 7355,
+            "context" : "St.<mark>Veloth<\/mark>" },
+          
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 7482,
+            "context" : "<mark>Veloth<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "veloth",
+            "weight" : "1",
+            "pos" : 7468,
+            "context" : "st.<mark>veloth<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "veloth",
+            "weight" : "1",
+            "pos" : 7619,
+            "context" : "<mark>veloth<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...including, among others, the Good Daedra, the prophet <mark>Veloth<\/mark>, and Saint Nerevar ]. Dissident priests ask whether Dagoth Ur's...",
+            "fid" : "Veloth" },
+          
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...Fundamentalist Ancestor Worship as practiced by the Ashlanders and by Saint <mark>Veloth<\/mark>. Exactly how this would work is debated inconclusively within the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...including, among others, the Good Daedra, the prophet <mark>Veloth<\/mark>, and Saint Nerevar ]. Dissident priests ask whether Dagoth Ur's...",
+            "fid" : "Veloth" },
+          
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 266,
+            "context" : "...Fundamentalist Ancestor Worship as practiced by the Ashlanders and by Saint <mark>Veloth<\/mark>. Exactly how this would work is debated inconclusively within the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 252,
+            "context" : "St. <mark>Veloth<\/mark> grants Veloth's Indwelling, for magical power, and also grants...",
+            "fid" : "content" },
+          
+          { "form" : "Veloth's",
+            "weight" : "1",
+            "pos" : 254,
+            "context" : "St. Veloth grants <mark>Veloth's<\/mark> Indwelling, for magical power, and also grants the blessing...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...whispering to it the Codes of Mephala and the prophecies of <mark>Veloth<\/mark> and even the forbidden teachings of Trinimac.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 1086,
+            "context" : "...is north of Ald'ruhn, and the fishing villages of Ald <mark>Veloth<\/mark> and Khuul lie on the north coast. The town of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...clean of false friends and greedy thieves, the children of <mark>Veloth<\/mark> will build anew a garden of plenty in this blighted wasteland...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Veloth",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "Saint <mark>Veloth<\/mark> the Pilgrim appeared before Baranat in shining robes, and smiled...",
+            "fid" : "content" } ] } ] }

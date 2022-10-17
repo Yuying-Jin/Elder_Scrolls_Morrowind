@@ -1,0 +1,139 @@
+
+  { "stem" : "general",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "General",
+            "weight" : "1",
+            "pos" : 3246,
+            "context" : "Sadrith Mora,_Tel_Naga_<mark>General<\/mark>_Quarters" },
+          
+          { "form" : "General",
+            "weight" : "1",
+            "pos" : 3305,
+            "context" : "Sadrith_Mora,_Tel_Naga_<mark>General<\/mark>_Quarters" },
+          
+          { "form" : "General",
+            "weight" : "1",
+            "pos" : 6455,
+            "context" : "<mark>General<\/mark> Darius" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "generally",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...explorer. Dwarven ghosts are more dangerous still, but they <mark>generally<\/mark> appear only in Dwarven ruins.",
+            "fid" : "content" },
+          
+          { "form" : "generalize",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "It is difficult to <mark>generalize<\/mark> about fleshless revenants, or skeletons. The agility and fighting...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "general",
+            "weight" : "1",
+            "pos" : 3432,
+            "context" : "sadrith mora, tel naga <mark>general<\/mark> quarters",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "general",
+            "weight" : "1",
+            "pos" : 6562,
+            "context" : "<mark>general<\/mark> darius",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "generally",
+            "weight" : "1",
+            "pos" : 65,
+            "context" : "...explorer. Dwarven ghosts are more dangerous still, but they <mark>generally<\/mark> appear only in Dwarven ruins.",
+            "fid" : "content" },
+          
+          { "form" : "generalize",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "It is difficult to <mark>generalize<\/mark> about fleshless revenants, or skeletons. The agility and fighting...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "General",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "Sadrith Mora, Tel Naga <mark>General<\/mark> Quarters: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "general",
+            "weight" : "1",
+            "pos" : 241,
+            "context" : "...vampirism disease exhibits no symptoms, and may be cured by <mark>general<\/mark> spellcraft or cult blessings. However, during incubation, some...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "General",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...Imperial Legion should apply to the commander of that garrison, <mark>General<\/mark> Darius.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "General",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "Sadrith Mora, Tel Naga <mark>General<\/mark> Quarters: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "generally",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : "...some extra equipment. The best neck-hackers I know <mark>generally<\/mark> carry a bit of wadded cloth on the aft-side...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "generals",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "...murder of Lord Nerevar, the greatest of Dunmer heroes and <mark>generals<\/mark>. The story is derived from Ashlander oral tradition, and...",
+            "fid" : "content" } ] } ] }

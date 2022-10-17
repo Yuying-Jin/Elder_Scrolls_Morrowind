@@ -1,0 +1,14 @@
+
+  { "stem" : "knight",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "knight",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "As a trooper or <mark>knight<\/mark>, you must master the long blade, spear, and...",
+            "fid" : "content" } ] } ] }

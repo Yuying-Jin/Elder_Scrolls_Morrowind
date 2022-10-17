@@ -1,0 +1,79 @@
+
+  { "stem" : "frost",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 206,
+            "context" : "To restore magicka for spellcasting, combine comberry and <mark>frost<\/mark> salts. comberry is a bitter berry, used to make...",
+            "fid" : "content" },
+          
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...make wines. It grows mainly in the Ascadian Isles. <mark>frost<\/mark> salts, by contrast, are rare and expensive. These...",
+            "fid" : "content" },
+          
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...are rare and expensive. These crystalline compounds precipitate from elemental <mark>frost<\/mark> in solution. Such residues may be collected from the remains...",
+            "fid" : "content" },
+          
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 233,
+            "context" : "...solution. Such residues may be collected from the remains of <mark>frost<\/mark> atronachs that have been banished from the mortal plane.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 226,
+            "context" : "<mark>frost<\/mark>_salts" },
+          
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 6011,
+            "context" : "<mark>frost<\/mark>_atronachs" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 407,
+            "context" : "<mark>frost<\/mark> salts",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 5052,
+            "context" : "<mark>frost<\/mark> atronachs",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "frost",
+            "weight" : "1",
+            "pos" : 421,
+            "context" : "...stone. He learned how to shrug off the effects of <mark>frost<\/mark>, poison, fire, and charges of lightning, pulling...",
+            "fid" : "content" } ] } ] }

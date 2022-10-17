@@ -1,0 +1,14 @@
+
+  { "stem" : "enfeebl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enfeeble",
+            "weight" : "1",
+            "pos" : 47,
+            "context" : "\"...but take care, lest power <mark>enfeeble<\/mark> the fundaments, and curtail the flow through the Congeries,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,153 @@
+
+  { "stem" : "kwama",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "<mark>kwama<\/mark> egg" },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 325,
+            "context" : "<mark>kwama<\/mark>_cuttle" },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 333,
+            "context" : "large <mark>kwama<\/mark> egg" },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 497,
+            "context" : "small_<mark>kwama<\/mark>_egg" },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 6065,
+            "context" : "<mark>kwama<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 490,
+            "context" : "<mark>kwama<\/mark> cuttle",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 497,
+            "context" : "<mark>kwama<\/mark> egg",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 506,
+            "context" : "large <mark>kwama<\/mark> egg",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 667,
+            "context" : "small <mark>kwama<\/mark> egg",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 5774,
+            "context" : "<mark>kwama<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...more of the following: crab meat, bread, small <mark>kwama<\/mark> egg, and chokeweed. Crabmeat is taken from the mud...",
+            "fid" : "content" },
+          
+          { "form" : "Kwama",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : ".... bread in Morrowind is usually baked from saltrice flour. <mark>Kwama<\/mark> eggs are harvested from egg mines, and sold everywhere in...",
+            "fid" : "content" },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 337,
+            "context" : "...ingredients: luminous russula, hackle-lo leaf, and <mark>kwama<\/mark> cuttle. luminous russula is a squat, mottled-brown...",
+            "fid" : "content" },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...Grazelands, prized for its taste and its roborative powers. <mark>kwama<\/mark> cuttle is a tough, waxy substance that comes from sacs...",
+            "fid" : "content" },
+          
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 370,
+            "context" : "..., waxy substance that comes from sacs in the mouths of <mark>kwama<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "kwama",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "1 large <mark>kwama<\/mark> egg",
+            "fid" : "content" },
+          
+          { "form" : "Kwama",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "1 small <mark>Kwama<\/mark> egg",
+            "fid" : "content" },
+          
+          { "form" : "Kwama",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : ".... Stir for a few moments and add the Scuttle and <mark>Kwama<\/mark> egg. When the Kwama egg is fully cooked and the...",
+            "fid" : "content" },
+          
+          { "form" : "Kwama",
+            "weight" : "1",
+            "pos" : 91,
+            "context" : "...moments and add the Scuttle and Kwama egg. When the <mark>Kwama<\/mark> egg is fully cooked and the Scuttle has melted, pour...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kwama's",
+            "weight" : "1",
+            "pos" : 99,
+            "context" : "...the bank, the security's going to be tighter than a <mark>kwama's<\/mark> ass. You can't just stab at every back you encounter...",
+            "fid" : "content" } ] } ] }

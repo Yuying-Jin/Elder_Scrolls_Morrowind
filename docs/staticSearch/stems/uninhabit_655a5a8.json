@@ -1,0 +1,32 @@
+
+  { "stem" : "uninhabit",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "uninhabited",
+            "weight" : "1",
+            "pos" : 456,
+            "context" : "...Coast. The region is rocky, infertile, and largely <mark>uninhabited<\/mark>, except for the outpost at Molag Mar, the Telvanni...",
+            "fid" : "content" },
+          
+          { "form" : "uninhabited",
+            "weight" : "1",
+            "pos" : 705,
+            "context" : ".... The salt marshes and humid swamps of this region are <mark>uninhabited<\/mark>, with the only settlements found at the good harbors of...",
+            "fid" : "content" },
+          
+          { "form" : "uninhabited",
+            "weight" : "1",
+            "pos" : 875,
+            "context" : "...inland in the southeast of Vvardenfell, Molag Amur is an <mark>uninhabited<\/mark> wasteland of rocky hills, steep-sided ravines, lava...",
+            "fid" : "content" },
+          
+          { "form" : "uninhabited",
+            "weight" : "1",
+            "pos" : 1229,
+            "context" : "...the Sea of Ghosts. The region is largely hostile and <mark>uninhabited<\/mark>, with two small villages at Ald Redaynia and Dagon Fel...",
+            "fid" : "content" } ] } ] }

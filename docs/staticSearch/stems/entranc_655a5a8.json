@@ -1,0 +1,73 @@
+
+  { "stem" : "entranc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Entrance",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "Ald'ruhn, Redoran Council <mark>Entrance<\/mark>: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "entrances",
+            "weight" : "1",
+            "pos" : 107,
+            "context" : "...large carapace encloses a central dome, from which radiate the <mark>entrances<\/mark> to the Redoran Council chambers, the manors of the Redoran...",
+            "fid" : "content" },
+          
+          { "form" : "entrance",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "..., clothier, trader, pawnbroker, and bookseller near the <mark>entrance<\/mark> to Ald'ruhn-Under-Skar. The Ald Skar Inn and the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Entrance",
+            "weight" : "1",
+            "pos" : 861,
+            "context" : "Ald'ruhn, Redoran Council <mark>Entrance<\/mark>" },
+          
+          { "form" : "Entrance",
+            "weight" : "1",
+            "pos" : 3071,
+            "context" : "Redoran Council <mark>Entrance<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "entrance",
+            "weight" : "1",
+            "pos" : 1093,
+            "context" : "ald'ruhn, redoran council <mark>entrance<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "entrance",
+            "weight" : "1",
+            "pos" : 3242,
+            "context" : "redoran council <mark>entrance<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Entrance",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "Redoran Council <mark>Entrance<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

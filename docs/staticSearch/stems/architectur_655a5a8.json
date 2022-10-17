@@ -1,0 +1,77 @@
+
+  { "stem" : "architectur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Architecture",
+            "weight" : "1",
+            "pos" : 73,
+            "context" : "Guylaine's <mark>Architecture<\/mark>" },
+          
+          { "form" : "Architecture",
+            "weight" : "1",
+            "pos" : 912,
+            "context" : "Guylaine's <mark>Architecture<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Architecture",
+            "weight" : "1",
+            "pos" : 1299,
+            "context" : "Guylaine's <mark>Architecture<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Architecture",
+            "weight" : "1",
+            "pos" : 749,
+            "context" : "Guylaine's <mark>Architecture<\/mark>, count: 1" },
+          
+          { "form" : "Architecture",
+            "weight" : "1",
+            "pos" : 1151,
+            "context" : "Guylaine's <mark>Architecture<\/mark>, count: 1" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "architecture",
+            "weight" : "1",
+            "pos" : 403,
+            "context" : "...ambitious Hlaalu to dominate Vvardenfell's untapped resources by default. Telvanni <mark>architecture<\/mark> is dominated by the wizards' tower, a fantastic organic form...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "architectural",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : " Ald'ruhn-under-Skar is the most distinctive <mark>architectural<\/mark> feature of Ald'ruhn -- a manor and council district sheltered beneath...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "architectural",
+            "weight" : "1",
+            "pos" : 630,
+            "context" : ".... Tel Vos is a peculiar blend of Telvanni and Western <mark>architectural<\/mark> styles, and is close to Vos village.",
+            "fid" : "content" } ] } ] }

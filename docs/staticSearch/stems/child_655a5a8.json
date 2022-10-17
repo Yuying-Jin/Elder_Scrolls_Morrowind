@@ -1,0 +1,14 @@
+
+  { "stem" : "child",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "child",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "No <mark>child<\/mark> has a sinner's heart.",
+            "fid" : "content" } ] } ] }

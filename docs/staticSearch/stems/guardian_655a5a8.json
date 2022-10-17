@@ -1,0 +1,65 @@
+
+  { "stem" : "guardian",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Guardian",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "This explicit presentation of Vivec the <mark>Guardian<\/mark> God-King and Warrior-Poet is the one most...",
+            "fid" : "content" },
+          
+          { "form" : "guardian",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...Rather, they conceive of Lord Vivec as benevolent king, <mark>guardian<\/mark> warrior, poet-artist. But, at the same time...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "guardian",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...given in love to Hearth and Kin. But ghost or <mark>guardian<\/mark>, bonewalker or bonelord, summoned by profane ritual and bound...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "guardians",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...believes that Almalexia, Vivec, and Sotha Sil were mortal <mark>guardians<\/mark> of Morrowind who walked the earth, defeated the Dunmer's greatest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Guardian",
+            "weight" : "1",
+            "pos" : 5340,
+            "context" : "Ancestory <mark>Guardian<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "guardian",
+            "weight" : "1",
+            "pos" : 5581,
+            "context" : "ancestory <mark>guardian<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

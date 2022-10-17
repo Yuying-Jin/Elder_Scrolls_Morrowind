@@ -1,0 +1,126 @@
+
+  { "stem" : "new",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "New",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...is part of the holy Tribunal, a god of the <mark>New<\/mark> Temple, and an aspect of the blessed and righteous ALMSIVI...",
+            "fid" : "content" },
+          
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...Lords, a discontented throng of Altmer transformed themselves into a <mark>new<\/mark> people and founded a new land. And while Boethiah,...",
+            "fid" : "content" },
+          
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 211,
+            "context" : "...of Altmer transformed themselves into a new people and founded a <mark>new<\/mark> land. And while Boethiah, the so-called Prince of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "...the past have failed, until now. Dagon seems to have <mark>new<\/mark> minions at his side this time. These new horrors are...",
+            "fid" : "content" },
+          
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...to have new minions at his side this time. These <mark>new<\/mark> horrors are not at all too powerful beyond our magicks and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...all her counselors. They are trying to find her a <mark>new<\/mark> husband, and she has made it clear that she will...",
+            "fid" : "content" },
+          
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 697,
+            "context" : "...seemed familiar to Oin. \"I will have to invent a <mark>new<\/mark> test for suitors, while I search for my true love...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...to her one night and each one gave to the egg <mark>new<\/mark> motions that could be achieved by certain movements of the bones...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "New",
+            "weight" : "1",
+            "pos" : 580,
+            "context" : "...serve the Nine with weapon, armor, and spell. <mark>New<\/mark> shrine sergeants are given the easiest tasks, but later,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 103,
+            "context" : "...and custom. And thus we have profited by the Empire's <mark>new<\/mark> policies, rising from obscurity as the Greatest of the Houses...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...remember the initial position of a thing, and also the <mark>new<\/mark> position of that thing.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...saltrice comes from southeastern Morrowind, but there are also some <mark>new<\/mark> and prospering farms and plantations in the Ascadian Isles. saltrice...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "new",
+            "weight" : "1",
+            "pos" : 167,
+            "context" : "...The Mad Star inspired the moon to hurl itself upon Vivec's <mark>new<\/mark> city, which Sheogorath claimed was built in mockery of the...",
+            "fid" : "content" } ] } ] }

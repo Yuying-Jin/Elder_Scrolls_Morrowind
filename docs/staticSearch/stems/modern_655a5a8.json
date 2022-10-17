@@ -1,0 +1,25 @@
+
+  { "stem" : "modern",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "modern",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "...or join us. House Hlaalu is the most open and <mark>modern<\/mark> of the Great Houses. We are the only Great House...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "modern",
+            "weight" : "1",
+            "pos" : 6,
+            "context" : "In <mark>modern<\/mark> times Morrowind is ruled by five Great Houses: House Hlaalu...",
+            "fid" : "content" } ] } ] }

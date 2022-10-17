@@ -1,0 +1,20 @@
+
+  { "stem" : "toughest",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "toughest",
+            "weight" : "1",
+            "pos" : 485,
+            "context" : "The word went out quickly throughout Morrowind: the <mark>toughest<\/mark> man alive was in the province. Oin went to visit...",
+            "fid" : "content" },
+          
+          { "form" : "toughest",
+            "weight" : "1",
+            "pos" : 708,
+            "context" : "...\"You don't wish to marry the strongest, most intelligent, <mark>toughest<\/mark>, most agile suitors?\" asked the old Healer.",
+            "fid" : "content" } ] } ] }

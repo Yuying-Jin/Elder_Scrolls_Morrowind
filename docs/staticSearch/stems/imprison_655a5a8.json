@@ -1,0 +1,53 @@
+
+  { "stem" : "imprison",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "imprisoned",
+            "weight" : "1",
+            "pos" : 402,
+            "context" : "...Galur Rithari insisted that he was cured of vampirism. Initially <mark>imprisoned<\/mark> by the Temple for heresy, he later recanted, was...",
+            "fid" : "content" },
+          
+          { "form" : "imprisonment",
+            "weight" : "1",
+            "pos" : 417,
+            "context" : "...Wisdom in Vivec. It is interesting that previous to his <mark>imprisonment<\/mark> for heresy, Rithari had been posted to the Buoyant Armiger...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imprisoned",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...is the headquarters of the Temple Ordinators, and heretics are <mark>imprisoned<\/mark> and re-educated there. The Hall of Wisdom and Hall...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imprisonment",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...Ordinators rely on abduction, terror, torture, and secret <mark>imprisonment<\/mark> to discourage heresy and dissent. The Dissident priests feel the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "imprisonment",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...Ordinators rely on abduction, terror, torture, and secret <mark>imprisonment<\/mark> to discourage heresy and dissent. The Dissident priests feel the...",
+            "fid" : "content" } ] } ] }

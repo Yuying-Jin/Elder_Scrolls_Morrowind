@@ -1,0 +1,143 @@
+
+  { "stem" : "local",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...small, pinkish-purple flowers. Scuttle, Vvardenfell's favorite <mark>local<\/mark> dish, is similar to cheese and made from the flesh...",
+            "fid" : "content" },
+          
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "..., is similar to cheese and made from the flesh of <mark>local<\/mark> beetles.",
+            "fid" : "content" },
+          
+          { "form" : "locally",
+            "weight" : "1",
+            "pos" : 429,
+            "context" : "...rarely stocked by apothecaries or alchemists, and cannot be collected <mark>locally<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 169,
+            "context" : "...stay at the Gateway, at Wolverine Hall, at a <mark>local<\/mark> cornerclub, or at Tel Naga. The Great Market has...",
+            "fid" : "content" },
+          
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 190,
+            "context" : "..., for outlanders, and Fara's Hole in the Wall for <mark>local<\/mark> Dunmer. Tel Naga is Master Neloth's wizard tower.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 210,
+            "context" : "...like being a fighter. You don't just go to the <mark>local<\/mark> guild Hall. The Thieves Guild doesn't have Guild Halls....",
+            "fid" : "content" },
+          
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 222,
+            "context" : "...their friends are. And where are their friends? At the <mark>local<\/mark> cornerclub or trade house. In Vvardenfell, look for friends...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 57,
+            "context" : "...internal disorders, but in Vvardenfell District of Morrowind, the <mark>local<\/mark> forts help to insure law and order, providing guards to...",
+            "fid" : "content" },
+          
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...to insure law and order, providing guards to supplement the <mark>local<\/mark> guard units of the Temple and Great Houses Hlaalu, Redoran...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...provides employment to free-swords and mercenaries and contracts to <mark>local<\/mark> citizens. Citizens may contract with the Guild for the removal...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...settlements are designed in the Dunmer village style, built of <mark>local<\/mark> materials, with organic curves and undecorated exteriors inspired by the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...a large settlement in the Redoran village style, built of <mark>local<\/mark> materials, with organic curves and undecorated exteriors inspired by the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...the native Ashlanders, so the designations are recognized by most <mark>local<\/mark> traders, travelers, and adventurers. These geographic regions are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "local",
+            "weight" : "1",
+            "pos" : 242,
+            "context" : "...and violent in the Redoran House Districts. The councilors blame <mark>local<\/mark> corruption, weakened enforcement, and aggressive competition between the Thieves...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "locals",
+            "weight" : "1",
+            "pos" : 122,
+            "context" : "..., trying to keep the tone of the group down. Most <mark>locals<\/mark> at the Plot and Plaster cornerclub in Tel Aruhn knew enough...",
+            "fid" : "content" } ] } ] }

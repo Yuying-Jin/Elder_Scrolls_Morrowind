@@ -1,0 +1,20 @@
+
+  { "stem" : "ninety-nin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Ninety-Nine",
+            "weight" : "1",
+            "pos" : 479,
+            "context" : "..., he softly sang an old dirty tavern song about the <mark>Ninety-Nine<\/mark> Loves of Boethiah. He said it helped him focus and...",
+            "fid" : "content" },
+          
+          { "form" : "Ninety-Nine",
+            "weight" : "1",
+            "pos" : 808,
+            "context" : "...thought he could still hear Imalyn's voice nearby, singing The <mark>Ninety-Nine<\/mark> Loves of Boethiah. He lay still in his bed,...",
+            "fid" : "content" } ] } ] }

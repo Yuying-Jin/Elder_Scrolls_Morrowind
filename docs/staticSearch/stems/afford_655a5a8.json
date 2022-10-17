@@ -1,0 +1,36 @@
+
+  { "stem" : "afford",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "afford",
+            "weight" : "1",
+            "pos" : 136,
+            "context" : "...of workmanship, but comment that, regretfully, you simply cannot <mark>afford<\/mark> such a price. When the shop-keeper compliments your...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "afford",
+            "weight" : "1",
+            "pos" : 583,
+            "context" : "...honored guests with every luxury the Archmagister of House Telvanni can <mark>afford<\/mark>.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "affordable",
+            "weight" : "1",
+            "pos" : 384,
+            "context" : "...expensive ingredients. There are exceptions, like the easy and <mark>affordable<\/mark> recipe for fire shield. But most such potions require at...",
+            "fid" : "content" } ] } ] }

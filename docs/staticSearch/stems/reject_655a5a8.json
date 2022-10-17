@@ -1,0 +1,37 @@
+
+  { "stem" : "reject",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "reject",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...is unjust and politically motivated. The Dissident priests do not <mark>reject<\/mark> mysticism, revelation, or prophecy as part of the religious...",
+            "fid" : "content" },
+          
+          { "form" : "reject",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "The Dissident priests <mark>reject<\/mark> the authority of the Archcanon and the Ordinators. The temple...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "reject",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : "...is unjust and politically motivated. The Dissident priests do not <mark>reject<\/mark> mysticism, revelation, or prophecy as part of the religious...",
+            "fid" : "content" },
+          
+          { "form" : "reject",
+            "weight" : "1",
+            "pos" : 344,
+            "context" : "The Dissident priests <mark>reject<\/mark> the authority of the Archcanon and the Ordinators. The temple...",
+            "fid" : "content" } ] } ] }

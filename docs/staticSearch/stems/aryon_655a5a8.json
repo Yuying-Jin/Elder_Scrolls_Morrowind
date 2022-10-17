@@ -1,0 +1,54 @@
+
+  { "stem" : "aryon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Aryon",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...Molag Amur, District of Vvardenfell, Province of Morrowind Master <mark>Aryon<\/mark>, Mage Lord of Telvanni Council, Vvardenfell District, Tower...",
+            "fid" : "content" },
+          
+          { "form" : "Aryon",
+            "weight" : "1",
+            "pos" : 116,
+            "context" : "...For Archmagister Gothren: Mouth Mallam Ryon, Mage For Master <mark>Aryon<\/mark>: Mouth Arara Uvulas For Master Neloth: Mouth Raven Omayn...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aryon",
+            "weight" : "1",
+            "pos" : 623,
+            "context" : "...Vos is the tower of Telvanni wizard and council member Master <mark>Aryon<\/mark>. Tel Vos is a peculiar blend of Telvanni and Western...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Aryon",
+            "weight" : "1",
+            "pos" : 6351,
+            "context" : "<mark>Aryon<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "aryon",
+            "weight" : "1",
+            "pos" : 6423,
+            "context" : "<mark>aryon<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

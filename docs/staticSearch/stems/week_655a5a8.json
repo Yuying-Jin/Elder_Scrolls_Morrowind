@@ -1,0 +1,70 @@
+
+  { "stem" : "week",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "weeks",
+            "weight" : "1",
+            "pos" : 410,
+            "context" : "Oin agreed, and for the next several <mark>weeks<\/mark>, he learned the spell to make his endurance like that...",
+            "fid" : "content" },
+          
+          { "form" : "weeks",
+            "weight" : "1",
+            "pos" : 563,
+            "context" : "...spell that would fire his impulses with magicka. Over several <mark>weeks<\/mark>, he learned how to supplant his own natural energy with...",
+            "fid" : "content" },
+          
+          { "form" : "week",
+            "weight" : "1",
+            "pos" : 749,
+            "context" : "...was reunited with Benitah. They were married at once. A <mark>week<\/mark> later, he returned to Kena Yakin Bael and learned how...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weeks",
+            "weight" : "1",
+            "pos" : 276,
+            "context" : "...I was wrong, and when I returned to the shop <mark>weeks<\/mark> later, the item I wanted was gone. Better to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weeks",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...in other provinces can do the same in a matter of <mark>weeks<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "weeks",
+            "weight" : "1",
+            "pos" : 294,
+            "context" : "...it apart and ate it raw. As the days and <mark>weeks<\/mark> went by, Harithoel got better and better until he was able...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "week",
+            "weight" : "1",
+            "pos" : 762,
+            "context" : "...It was best in the long run to give them a <mark>week<\/mark> off with pay whenever he was out of town on business...",
+            "fid" : "content" } ] } ] }

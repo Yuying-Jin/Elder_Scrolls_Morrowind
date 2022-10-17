@@ -1,0 +1,42 @@
+
+  { "stem" : "bed",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 781,
+            "context" : "...few hours to rest before his household returned. His own <mark>bed<\/mark> was wonderfully soft and warm compared to the dreadful mattress he...",
+            "fid" : "content" },
+          
+          { "form" : "bed",
+            "weight" : "1",
+            "pos" : 815,
+            "context" : "...-Nine Loves of Boethiah. He lay still in his <mark>bed<\/mark>, waiting, but there was no sound except the usual...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beds",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : ".... The Gateway merchant inn is the only establishment with public <mark>beds<\/mark>. Members of the Fighters Guild, Mages Guild, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "beds",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...and trainers also rent space here. The Black Shalk Cornerclub rents <mark>beds<\/mark> to non-guild visitors.",
+            "fid" : "content" } ] } ] }

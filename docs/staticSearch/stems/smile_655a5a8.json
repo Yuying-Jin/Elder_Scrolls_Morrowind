@@ -1,0 +1,89 @@
+
+  { "stem" : "smile",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "...Veloth the Pilgrim appeared before Baranat in shining robes, and <mark>smiled<\/mark> upon him, \"Baranat, put down your blade and I will...",
+            "fid" : "content" },
+          
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...Nerevar the Captain appeared before Baranat in golden armor, and <mark>smiled<\/mark> upon him, \"Baranat, I will make you stronger than a...",
+            "fid" : "content" },
+          
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 312,
+            "context" : "...Martyr appeared before Baranat with flesh like sparkling gems, and <mark>smiled<\/mark> on him, \"Baranat, I will make you unyielding as the...",
+            "fid" : "content" },
+          
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "...Just appeared before Baranat in a burst of flame, and <mark>smiled<\/mark> on him, \"Baranat, I will make you more cunning in...",
+            "fid" : "content" },
+          
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 511,
+            "context" : "...the young adventurer from a cloud in the sky, and <mark>smiled<\/mark> on him, \"Baranat, before you fight, find out what...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "smiles",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...wise for the buyer and seller to greet one another with <mark>smiles<\/mark> and warm salutations, like gladiators honoring one another before the...",
+            "fid" : "content" },
+          
+          { "form" : "smile",
+            "weight" : "1",
+            "pos" : 143,
+            "context" : "...price. When the shop-keeper compliments your taste, <mark>smile<\/mark>, but try to resist the flattery.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "smile",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...you perform?\" asked Gothren with what almost looked like a <mark>smile<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 434,
+            "context" : "\"It wasn't bravery, it was economics,\" <mark>smiled<\/mark> Rhunen Zebavi. \"I considered the amount of gold and time...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "smile",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "“That I am,” said Oristian Silverthorn with a weary <mark>smile<\/mark> for his admirer. He knew that his name was not...",
+            "fid" : "content" },
+          
+          { "form" : "smiled",
+            "weight" : "1",
+            "pos" : 366,
+            "context" : "...her words were dead before they left her mouth. Silverthorn <mark>smiled<\/mark> and nodded his head, enjoying the silence. He could...",
+            "fid" : "content" } ] } ] }

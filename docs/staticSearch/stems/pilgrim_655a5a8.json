@@ -1,0 +1,697 @@
+
+  { "stem" : "pilgrim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 41,
+        "contexts" : 
+        [ 
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "The <mark>Pilgrim's<\/mark> Path" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 313,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 366,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 462,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 570,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 684,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 946,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1326,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1444,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1922,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1979,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2002,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2044,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2050,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 5",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2122,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 5",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2359,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2571,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2584,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3012,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3121,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3156,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3213,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3648,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3757,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 4196,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 4483,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 4800,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5286,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5335,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5353,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5431,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "pilgrims",
+            "weight" : "1",
+            "pos" : 5926,
+            "context" : "<mark>pilgrims<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6130,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6184,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6352,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6544,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6891,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6971,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 7102,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 7593,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 3",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 7697,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 21",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 40,
+        "contexts" : 
+        [ 
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 185,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 399,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 514,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 735,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1133,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1279,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1758,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1819,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1826,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1865,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1871,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 5" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 1949,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 5" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2200,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2402,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2415,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2838,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2946,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 2988,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 3" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3052,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3495,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 3601,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 4052,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 4321,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 4656,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5092,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5143,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5161,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5224,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5844,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 5882,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 3" },
+          
+          { "form" : "pilgrims",
+            "weight" : "1",
+            "pos" : 6103,
+            "context" : "<mark>pilgrims<\/mark>" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6282,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6450,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 3" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6776,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6875,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 2" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 6940,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 1" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 7105,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 4" },
+          
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 7548,
+            "context" : "The <mark>Pilgrim's<\/mark> Path, count: 21" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "pilgrim",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "The <mark>pilgrim<\/mark> must visit each of the Shrines of the Seven Graces....",
+            "fid" : "content" },
+          
+          { "form" : "pilgrim",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "...the Shrines of the Seven Graces. At each site the <mark>pilgrim<\/mark> must stand before the three-sided stone triolith and read...",
+            "fid" : "content" },
+          
+          { "form" : "pilgrim's",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...sided stone triolith and read the inscription. To ease the <mark>pilgrim's<\/mark> task, the Temple  has made this list of shrines along...",
+            "fid" : "content" },
+          
+          { "form" : "pilgrims",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...made this list of shrines along with directions and advice to <mark>pilgrims<\/mark>. The blessings of each shrine last at least a half...",
+            "fid" : "content" },
+          
+          { "form" : "pilgrims",
+            "weight" : "1",
+            "pos" : 348,
+            "context" : "...Puzzle Canal can be confusing and it is suggested that common <mark>pilgrims<\/mark> carry a scroll of ALMSIVI Intervention in case they get lost...",
+            "fid" : "content" },
+          
+          { "form" : "pilgrims",
+            "weight" : "1",
+            "pos" : 371,
+            "context" : "...spoken to with courtesy. After Krazzt accepts the sword, <mark>pilgrims<\/mark> must read the inscription on the triolith.",
+            "fid" : "content" },
+          
+          { "form" : "pilgrim",
+            "weight" : "1",
+            "pos" : 615,
+            "context" : "...old Dwemer bridge crosses the foyada near Fort Moonmoth. A <mark>pilgrim<\/mark> may follow the Foyada Mamaea all the way to Ghostgate....",
+            "fid" : "content" },
+          
+          { "form" : "pilgrim",
+            "weight" : "1",
+            "pos" : 628,
+            "context" : "...inside the Ghostfence is dangerous, but even the most timid <mark>pilgrim<\/mark> should be safe, so long as he does not stray...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "pilgrims",
+            "weight" : "1",
+            "pos" : 32,
+            "context" : "...the palace of Vivec are visited by hundreds of tourists and <mark>pilgrims<\/mark> daily. Citizens flock to the Arena for public entertainments like...",
+            "fid" : "content" },
+          
+          { "form" : "Pilgrims",
+            "weight" : "1",
+            "pos" : 198,
+            "context" : "...a large staff of priests, healers, and monks. <mark>Pilgrims<\/mark> travel from all over Morrowind to view the High Fane and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "pilgrims",
+            "weight" : "1",
+            "pos" : 261,
+            "context" : "...the palace of Vivec are visited by hundreds of tourists and <mark>pilgrims<\/mark> daily. Citizens flock to the Arena for entertainments and war...",
+            "fid" : "content" },
+          
+          { "form" : "Pilgrims",
+            "weight" : "1",
+            "pos" : 928,
+            "context" : "...on the southeastern edge of the desolate Molag Amur region. <mark>Pilgrims<\/mark> bound for the nearby pilgrimage sites at Mount Assarnibibi and Mount...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "pilgrim",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...in Temples, or at sites of pilgrimage, or at <mark>pilgrim<\/mark> waysides, or in the tomb of the sanctified.",
+            "fid" : "content" },
+          
+          { "form" : "pilgrim",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "...shall be listed herein for the edification of the worshipper and <mark>pilgrim<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pilgrim's",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "The <mark>Pilgrim's<\/mark> Path The path to wisdom and self-knowledge is through...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pilgrim's",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...Bal, at an altar deep in the caverns beneath the <mark>pilgrim's<\/mark> shrine. I was surprised, and thrilled, and terrified...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pilgrims",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "<mark>Pilgrims<\/mark> and travelers will find the following inexpensive recipes of particular interest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pilgrim",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "<mark>Pilgrim<\/mark> on the Road",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Pilgrim",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "Saint Veloth the <mark>Pilgrim<\/mark> appeared before Baranat in shining robes, and smiled upon him,...",
+            "fid" : "content" } ] } ] }

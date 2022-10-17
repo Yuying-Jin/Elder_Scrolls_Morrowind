@@ -1,0 +1,26 @@
+
+  { "stem" : "frond",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "fronds",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...a beautiful wildflower. Its name comes from the fire red <mark>fronds<\/mark> that protect its golden flower. As pretty as it is,...",
+            "fid" : "content" },
+          
+          { "form" : "fronds",
+            "weight" : "1",
+            "pos" : 283,
+            "context" : "...can be found in the swamps of Black Marsh. The <mark>fronds<\/mark> from this plant are light green and quite delicate. Picking...",
+            "fid" : "content" },
+          
+          { "form" : "frond",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...this plant are light green and quite delicate. Picking a <mark>frond<\/mark> can be very difficult, but once retrieved it can be...",
+            "fid" : "content" } ] } ] }

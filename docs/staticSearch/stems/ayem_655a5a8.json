@@ -1,0 +1,32 @@
+
+  { "stem" : "ayem",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Ayem",
+            "weight" : "1",
+            "pos" : 24,
+            "context" : "...anon Chimer, before the war with the northern men. <mark>Ayem<\/mark> came first to the village of the netchimen, and her...",
+            "fid" : "content" },
+          
+          { "form" : "Ayem",
+            "weight" : "1",
+            "pos" : 43,
+            "context" : "...until they were like stars or the messages of stars. <mark>Ayem<\/mark> took a netchiman's wife and said:",
+            "fid" : "content" },
+          
+          { "form" : "AYEM",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...you is an image and a seven-syllable spell, <mark>AYEM<\/mark> AE SEHTI AE VEHK, which you will repeat to it...",
+            "fid" : "content" },
+          
+          { "form" : "Ayem",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "Then <mark>Ayem<\/mark> threw the netchiman's wife into the ocean water where dreughs took...",
+            "fid" : "content" } ] } ] }

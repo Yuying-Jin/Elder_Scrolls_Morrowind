@@ -1,0 +1,14 @@
+
+  { "stem" : "classic",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "classic",
+            "weight" : "1",
+            "pos" : 280,
+            "context" : "\"The <mark>classic<\/mark> technique, which requires less grappling than my friend's variation,...",
+            "fid" : "content" } ] } ] }

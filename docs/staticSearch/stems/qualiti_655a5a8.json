@@ -1,0 +1,42 @@
+
+  { "stem" : "qualiti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "quality",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...look like you're very interested, but do not mock the <mark>quality<\/mark> of the goods, even if they deserve it. Much better...",
+            "fid" : "content" },
+          
+          { "form" : "quality",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "..., even if they deserve it. Much better to admire the <mark>quality<\/mark> of workmanship, but comment that, regretfully, you simply cannot...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "qualities",
+            "weight" : "1",
+            "pos" : 331,
+            "context" : "...Knowledge of enchantments and the gift of diplomatic speech are other <mark>qualities<\/mark> we value in our initiates.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "quality",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "...Guild are near the South Gate. Pricy but high-<mark>quality<\/mark> clothier, alchemist, and enchanter shops are under Skar as...",
+            "fid" : "content" } ] } ] }

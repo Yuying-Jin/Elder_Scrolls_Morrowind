@@ -1,0 +1,31 @@
+
+  { "stem" : "highland",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "highlands",
+            "weight" : "1",
+            "pos" : 1059,
+            "context" : " The western <mark>highlands<\/mark> of Vvardefell are called the West Gash. The region extends...",
+            "fid" : "content" },
+          
+          { "form" : "highland",
+            "weight" : "1",
+            "pos" : 1103,
+            "context" : "...the Ashlanders of Urshilaku camp graze on the sparse but hardy <mark>highland<\/mark> vegetation.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "highlands",
+            "weight" : "1",
+            "pos" : 171,
+            "context" : "...gestation. chokeweed is a tough shrub growing in the rocky <mark>highlands<\/mark> of the West Gash.",
+            "fid" : "content" } ] } ] }

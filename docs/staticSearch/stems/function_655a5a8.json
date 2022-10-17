@@ -1,0 +1,25 @@
+
+  { "stem" : "function",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "function",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "...traditions derive from ancient Dunmer clan and tribes, but now <mark>function<\/mark> as political parties. Dunmer Great House membership is largely a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "functions",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "..., and curtail the flow through the Congeries, except when <mark>functions<\/mark> be warranted. And safeguard that the Congeries shall not be...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,31 @@
+
+  { "stem" : "rumor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rumors",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "...Betony and the lawless times that followed. There are even <mark>rumors<\/mark> that King Gothryd of Daggerfall may institute the Imperial practice of...",
+            "fid" : "content" },
+          
+          { "form" : "rumors",
+            "weight" : "1",
+            "pos" : 431,
+            "context" : "...slaves that are purchased in Tear by Sload merchants and the <mark>rumors<\/mark> of Sload airships carrying corpses from Senchal.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Rumors",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "<mark>Rumors<\/mark> flow from the House of Troubles.",
+            "fid" : "content" } ] } ] }

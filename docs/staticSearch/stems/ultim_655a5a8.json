@@ -1,0 +1,37 @@
+
+  { "stem" : "ultim",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ultimately",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...Evil; Temple doctrine claims their divine powers and immortality are <mark>ultimately<\/mark> conferred as a communal judgement by the Dunmer ancestors [ including...",
+            "fid" : "content" },
+          
+          { "form" : "ultimately",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...priests ask whether Dagoth Ur's powers and the Tribunal powers might <mark>ultimately<\/mark> derive from the same source -- Red Mountain. Sources in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "ultimately",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...Evil; Temple doctrine claims their divine powers and immortality are <mark>ultimately<\/mark> conferred as a communal judgement by the Dunmer ancestors [ including...",
+            "fid" : "content" },
+          
+          { "form" : "ultimately",
+            "weight" : "1",
+            "pos" : 69,
+            "context" : "...priests ask whether Dagoth Ur's powers and the Tribunal powers might <mark>ultimately<\/mark> derive from the same source -- Red Mountain. Sources in...",
+            "fid" : "content" } ] } ] }

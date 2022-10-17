@@ -1,0 +1,14 @@
+
+  { "stem" : "edif",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "edification",
+            "weight" : "1",
+            "pos" : 119,
+            "context" : "...What benefits may be gained shall be listed herein for the <mark>edification<\/mark> of the worshipper and pilgrim.",
+            "fid" : "content" } ] } ] }

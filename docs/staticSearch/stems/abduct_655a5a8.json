@@ -1,0 +1,25 @@
+
+  { "stem" : "abduct",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abduction",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "...hierarchy it is an open secret that the Ordinators rely on <mark>abduction<\/mark>, terror, torture, and secret imprisonment to discourage heresy...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "abduction",
+            "weight" : "1",
+            "pos" : 380,
+            "context" : "...hierarchy it is an open secret that the Ordinators rely on <mark>abduction<\/mark>, terror, torture, and secret imprisonment to discourage heresy...",
+            "fid" : "content" } ] } ] }

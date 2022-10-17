@@ -1,0 +1,47 @@
+
+  { "stem" : "diminish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diminishing",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...protect Morrowind from Dagoth Ur, and concealing a recent dramatic <mark>diminishing<\/mark> of the Tribunal's magical powers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diminishing",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "...protect Morrowind from Dagoth Ur, and concealing a recent dramatic <mark>diminishing<\/mark> of the Tribunal's magical powers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diminish",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "Death does not <mark>diminish<\/mark>; the ghost gilds with glory.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "diminish",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "Death does not <mark>diminish<\/mark>; the ghost gilds with glory.",
+            "fid" : "content" } ] } ] }

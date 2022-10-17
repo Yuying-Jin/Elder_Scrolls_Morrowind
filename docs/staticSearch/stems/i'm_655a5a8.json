@@ -1,0 +1,218 @@
+
+  { "stem" : "i'm",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 12,
+        "contexts" : 
+        [ 
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 1791,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 1915,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 2521,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 3575,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 4473,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 4622,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 5456,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 5481,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 5749,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 5878,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 3",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 6688,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 11,
+        "contexts" : 
+        [ 
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 1631,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 1744,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 2355,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 3422,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 4334,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 4458,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 5257,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 5273,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 5509,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 5630,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 3" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 6590,
+            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "“My name would have no meaning to you, but <mark>I'm<\/mark> Erer Darothil,” he said, raising a glass of greef...",
+            "fid" : "content" },
+          
+          { "form" : "“I'm",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "“Yes,” said Silverthorn, with a grim expression. <mark>“I'm<\/mark> challenged to rid The Grazelands of a rogue battlemage by the...",
+            "fid" : "content" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "“That is why <mark>I'm<\/mark> drinking now,” sighed Silverthorn. “So tell me, what is your...",
+            "fid" : "content" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...in Gnisis as quickly as possible. My wife worries when <mark>I'm<\/mark> away.”",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "<mark>I'm<\/mark> Glad I'm Not No Orc",
+            "fid" : "content" },
+          
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 62,
+            "context" : "I'm Glad <mark>I'm<\/mark> Not No Orc",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "I'm",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...disposing of the Orcish dead. A mutually beneficial arrangement as <mark>I'm<\/mark> sure the Orcs will agree. To this end, a...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "hunter",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "hunters",
+            "weight" : "1",
+            "pos" : 263,
+            "context" : "... In the West, a shadowy fraternity of vampire <mark>hunters<\/mark> is believed to be primarily composed of formerly afflicted vampires who...",
+            "fid" : "content" },
+          
+          { "form" : "Hunters",
+            "weight" : "1",
+            "pos" : 275,
+            "context" : "...cured of the disease. According to legend, the vampire <mark>Hunters<\/mark> refuse to reveal the cure to the disease for fear that...",
+            "fid" : "content" },
+          
+          { "form" : "Hunters",
+            "weight" : "1",
+            "pos" : 292,
+            "context" : "In the East, the Western tradition of vampire <mark>Hunters<\/mark> is unknown. Vampirism is known to be incurable, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hunter",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "The blood of the <mark>hunter<\/mark> and the blood of the hunted. The joy of the...",
+            "fid" : "content" } ] } ] }

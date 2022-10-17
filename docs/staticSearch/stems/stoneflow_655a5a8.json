@@ -1,0 +1,43 @@
+
+  { "stem" : "stoneflow",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stoneflower",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : "...the east end of town. Galsiah used her cachous of <mark>stoneflower<\/mark> to mask their scent from the guard wolves as the three...",
+            "fid" : "stoneflower" },
+          
+          { "form" : "stoneflower",
+            "weight" : "1",
+            "pos" : 844,
+            "context" : "...vault door in his study swing open. The smell of <mark>stoneflower<\/mark> filled his nose and he opened his eyes. Only a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stoneflower",
+            "weight" : "1",
+            "pos" : 531,
+            "context" : "<mark>stoneflower<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stoneflower",
+            "weight" : "1",
+            "pos" : 705,
+            "context" : "<mark>stoneflower<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "dog",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dogs",
+            "weight" : "1",
+            "pos" : 485,
+            "context" : "...a useful servant, the corpses of animals produce mere guard <mark>dogs<\/mark> at best. Often a raised animal is unable to distinguish...",
+            "fid" : "content" } ] } ] }

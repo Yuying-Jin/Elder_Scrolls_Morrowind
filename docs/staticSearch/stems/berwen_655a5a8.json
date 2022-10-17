@@ -1,0 +1,37 @@
+
+  { "stem" : "berwen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Berwen",
+            "weight" : "1",
+            "pos" : 3769,
+            "context" : "Tel Mora, <mark>Berwen<\/mark>: Trader" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "berwen",
+            "weight" : "1",
+            "pos" : 3970,
+            "context" : "tel mora, <mark>berwen<\/mark>: trader",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Berwen",
+            "weight" : "1",
+            "pos" : 58,
+            "context" : "Tel Mora, <mark>Berwen<\/mark>: Trader: Visitable? yes",
+            "fid" : "acq" } ] } ] }

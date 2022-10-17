@@ -1,0 +1,25 @@
+
+  { "stem" : "refin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "refined",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...only be harmed by weapons that are enchanted or made of <mark>refined<\/mark> substances such as silver. Ancestor ghosts, the most common...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "refined",
+            "weight" : "1",
+            "pos" : 38,
+            "context" : "...only be harmed by weapons that are enchanted or made of <mark>refined<\/mark> substances such as silver. Ancestor ghosts, the most common...",
+            "fid" : "content" } ] } ] }

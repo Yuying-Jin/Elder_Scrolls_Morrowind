@@ -1,0 +1,64 @@
+
+  { "stem" : "insid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "inside",
+            "weight" : "1",
+            "pos" : 508,
+            "context" : "The Shrine of Valor is <mark>inside<\/mark> the Koal Cave, a cavern on the seacoast west of...",
+            "fid" : "content" },
+          
+          { "form" : "inside",
+            "weight" : "1",
+            "pos" : 623,
+            "context" : "...the Foyada Mamaea all the way to Ghostgate. Any journey <mark>inside<\/mark> the Ghostfence is dangerous, but even the most timid pilgrim...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inside",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...was being sliced by thousands of tiny knives from my bowels <mark>inside<\/mark> out. I awoke before the altar, and gazed in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inside",
+            "weight" : "1",
+            "pos" : 1169,
+            "context" : "...and a large settlement. The Redoran Council Chamber are located <mark>inside<\/mark> the shell of an ancient extinct giant crab. Tracks lead...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inside",
+            "weight" : "1",
+            "pos" : 350,
+            "context" : "...of thievery. Many Khajiits will tuck a piece of Nightshade <mark>inside<\/mark> their armor to increase their abilities to skulk, hide and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "inside",
+            "weight" : "1",
+            "pos" : 854,
+            "context" : ".... Only a little of the afternoon sunlight could pierce the <mark>inside<\/mark> of the burlap sack.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "judici",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "judicial",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...Wisdom and Hall of Justice contain the executive, administrative, <mark>judicial<\/mark>, and martial operations of the Tribunal Temple. The Palace...",
+            "fid" : "content" } ] } ] }

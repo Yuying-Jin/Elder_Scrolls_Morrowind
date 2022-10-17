@@ -1,0 +1,53 @@
+
+  { "stem" : "omavel",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Omavel's",
+            "weight" : "1",
+            "pos" : 3838,
+            "context" : "Tel Uvirith, <mark>Omavel's<\/mark> House" },
+          
+          { "form" : "Omavel's",
+            "weight" : "1",
+            "pos" : 3965,
+            "context" : "Tel_Uvirith,_<mark>Omavel's<\/mark>_House" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "omavel's",
+            "weight" : "1",
+            "pos" : 4039,
+            "context" : "tel uvirith, <mark>omavel's<\/mark> house",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Omavel's",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "Tel Uvirith, <mark>Omavel's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Omavel's",
+            "weight" : "1",
+            "pos" : 15,
+            "context" : "Tel Uvirith, <mark>Omavel's<\/mark> House: Visitable? yes",
+            "fid" : "acq" } ] } ] }

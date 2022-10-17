@@ -1,0 +1,36 @@
+
+  { "stem" : "blend",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blend",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "Blessed are the Mistmen, for they <mark>blend<\/mark> in the glory of the transcendent spirit.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blend",
+            "weight" : "1",
+            "pos" : 627,
+            "context" : "...and council member Master Aryon. Tel Vos is a peculiar <mark>blend<\/mark> of Telvanni and Western architectural styles, and is close to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blend",
+            "weight" : "1",
+            "pos" : 53,
+            "context" : "...in spirit forever. Blessed are the Mistmen, for they <mark>blend<\/mark> in the glory of the transcendent spirit. Blessed are the...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "nervous",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nervousness",
+            "weight" : "1",
+            "pos" : 709,
+            "context" : ".... The chain of reactions that every betrayed person exhibits: <mark>nervousness<\/mark>, doubt, bewilderment, anger.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "mud",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mud",
+            "weight" : "1",
+            "pos" : 6071,
+            "context" : "<mark>mud<\/mark>_crab" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mud",
+            "weight" : "1",
+            "pos" : 5223,
+            "context" : "<mark>mud<\/mark> crab",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mud",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...kwama egg, and chokeweed. Crabmeat is taken from the <mark>mud<\/mark> crab, commonly found along all coasts. bread in Morrowind...",
+            "fid" : "mud_crab" } ] } ] }

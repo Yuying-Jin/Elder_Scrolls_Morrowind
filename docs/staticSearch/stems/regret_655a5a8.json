@@ -1,0 +1,14 @@
+
+  { "stem" : "regret",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "regretfully",
+            "weight" : "1",
+            "pos" : 133,
+            "context" : "...better to admire the quality of workmanship, but comment that, <mark>regretfully<\/mark>, you simply cannot afford such a price. When the...",
+            "fid" : "content" } ] } ] }

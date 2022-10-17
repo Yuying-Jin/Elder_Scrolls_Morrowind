@@ -1,0 +1,59 @@
+
+  { "stem" : "sorkvild",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sorkvild's",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Dagon Fel, <mark>Sorkvild's<\/mark> Tower: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sorkvild's",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Dagon Fel, <mark>Sorkvild's<\/mark> Tower: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sorkvild's",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Dagon Fel, <mark>Sorkvild's<\/mark> Tower: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Sorkvild's",
+            "weight" : "1",
+            "pos" : 1507,
+            "context" : "Dagon Fel, <mark>Sorkvild's<\/mark> Tower" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "sorkvild's",
+            "weight" : "1",
+            "pos" : 1678,
+            "context" : "dagon fel, <mark>sorkvild's<\/mark> tower",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

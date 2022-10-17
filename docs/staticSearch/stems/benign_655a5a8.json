@@ -1,0 +1,14 @@
+
+  { "stem" : "benign",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "benign",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "The public face of Vivec is <mark>benign<\/mark>, sensitive, compassionate, and protective of his followers....",
+            "fid" : "content" } ] } ] }

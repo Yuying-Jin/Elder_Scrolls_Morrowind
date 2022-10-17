@@ -1,0 +1,201 @@
+
+  { "stem" : "enchant",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "enchanters",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "In that time, House Dwemer were great <mark>enchanters<\/mark>, so Nerevar went in secret to a Dwemer smith and...",
+            "fid" : "content" },
+          
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "...went in secret to a Dwemer smith and asked for an <mark>enchanted<\/mark> ring that would help him. The ring gave its wearer great...",
+            "fid" : "content" },
+          
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "...wearer great powers of persuasion; for safety, it was <mark>enchanted<\/mark> to instantly kill anyone who wore it except Nerevar. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...dwarven ghost, can only be harmed by weapons that are <mark>enchanted<\/mark> or made of refined substances such as silver. Ancestor ghosts...",
+            "fid" : "content" },
+          
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...more or less capable with weapons and shields. Fortunately, <mark>enchanted<\/mark> weapons are not needed to destroy skeletons. An exception is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Enchanter",
+            "weight" : "1",
+            "pos" : 852,
+            "context" : "Ald'ruhn, Llether Vari: <mark>Enchanter<\/mark>" },
+          
+          { "form" : "Enchanter",
+            "weight" : "1",
+            "pos" : 3929,
+            "context" : "Tel_Aruhn,_Maren_Uvaren:_<mark>Enchanter<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "enchanter",
+            "weight" : "1",
+            "pos" : 1070,
+            "context" : "ald'ruhn, llether vari: <mark>enchanter<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "enchanter",
+            "weight" : "1",
+            "pos" : 3841,
+            "context" : "tel aruhn, maren uvaren: <mark>enchanter<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "...dwarven ghost, can only be harmed by weapons that are <mark>enchanted<\/mark> or made of refined substances such as silver. Ancestor ghosts...",
+            "fid" : "content" },
+          
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 137,
+            "context" : "...more or less capable with weapons and shields. Fortunately, <mark>enchanted<\/mark> weapons are not needed to destroy skeletons. An exception is...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "enchantments",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...and torment Chimere. The green crystal structure was created by <mark>enchantments<\/mark>, and is the only building on the island erected since...",
+            "fid" : "content" },
+          
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 300,
+            "context" : "...is great, it is not unlimited, and that certain <mark>enchanted<\/mark> items -- for instance, the Armor of the Savior's Hide...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enchantments",
+            "weight" : "1",
+            "pos" : 327,
+            "context" : "...only with blunt weapons, are especially praiseworthy. Knowledge of <mark>enchantments<\/mark> and the gift of diplomatic speech are other qualities we value...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Enchanter",
+            "weight" : "1",
+            "pos" : 9,
+            "context" : "Ald'ruhn, Llether Vari: <mark>Enchanter<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enchanter",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : ".... Pricy but high-quality clothier, alchemist, and <mark>enchanter<\/mark> shops are under Skar as well. Commodities at reasonable prices...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...Sources in the Apographa suggest that the Tribunal relied on profanely <mark>enchanted<\/mark> tools to achieve godhead, and that those unholy devices were...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...Sources in the Apographa suggest that the Tribunal relied on profanely <mark>enchanted<\/mark> tools to achieve godhead, and that those unholy devices were...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "enchanted",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "...the servitors of Egroamaro, living and undead. With his <mark>enchanted<\/mark> ebony blade, he cut through legions before facing the master...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Enchanting",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "...especially Mysticism, Conjuration, Illusion, Alteration, Destruction and <mark>Enchanting<\/mark> - can expect to advance faster and higher in the ranks...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Enchanter",
+            "weight" : "1",
+            "pos" : 28,
+            "context" : "Tel Aruhn, Maren Uvaren: <mark>Enchanter<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

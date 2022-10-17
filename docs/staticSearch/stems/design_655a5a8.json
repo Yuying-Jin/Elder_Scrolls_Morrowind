@@ -1,0 +1,42 @@
+
+  { "stem" : "design",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "designed",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "..., careless life is not worth living. Redoran settlements are <mark>designed<\/mark> in the Dunmer village style, built of local materials,...",
+            "fid" : "content" },
+          
+          { "form" : "designed",
+            "weight" : "1",
+            "pos" : 306,
+            "context" : "...—tradehouses and craft guilds, manors and council halls—are <mark>designed<\/mark> as simple multi-storied buildings roughly rectangular in plan,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "designations",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...types of land described by the native Ashlanders, so the <mark>designations<\/mark> are recognized by most local traders, travelers, and adventurers...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "designed",
+            "weight" : "1",
+            "pos" : 524,
+            "context" : "...Lledos said as he poured the gold pieces into the specially <mark>designed<\/mark> compartments in his tunic's sleeves, where they held fast with...",
+            "fid" : "content" } ] } ] }

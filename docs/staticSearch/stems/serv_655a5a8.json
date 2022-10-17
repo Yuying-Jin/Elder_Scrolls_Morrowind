@@ -1,0 +1,217 @@
+
+  { "stem" : "serv",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...pledge aid and comfort to all citizens in need, and <mark>serve<\/mark> the Emperor and Empire at his will.",
+            "fid" : "content" },
+          
+          { "form" : "serving",
+            "weight" : "1",
+            "pos" : 282,
+            "context" : "...the service of the Nine must dedicate time and resources to <mark>serving<\/mark> the cult, and must strive for personal improvement in their...",
+            "fid" : "content" },
+          
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 297,
+            "context" : " To <mark>serve<\/mark> and glorify the Nine Divines, the faithful must cultivate a...",
+            "fid" : "content" },
+          
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 538,
+            "context" : "..., almoners with personal wealth are in a position to better <mark>serve<\/mark> the cult. Those interested should speak to Iulus Truptor at...",
+            "fid" : "content" },
+          
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 575,
+            "context" : "...free-spirited adventurers. Shrine sergeants are called upon to <mark>serve<\/mark> the Nine with weapon, armor, and spell. New...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Book_of_Life_and_Service",
+        "docUri" : "librarium\/Book_of_Life_and_Service.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 42,
+            "context" : "Blessed are the Bonemen, for they <mark>serve<\/mark> without self in spirit forever.",
+            "fid" : "content" },
+          
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "We <mark>serve<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Serve",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "To <mark>Serve<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : "...Ranks of the Blessed Blessed are the Bonemen, for they <mark>serve<\/mark> without self in spirit forever. Blessed are the Mistmen,...",
+            "fid" : "content" },
+          
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 76,
+            "context" : "...Oath We die. We pray. To live. We <mark>serve<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Serve",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "The Master's Voice You swore. To <mark>Serve<\/mark>. Your Lord. Commands.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "serving",
+            "weight" : "1",
+            "pos" : 117,
+            "context" : "Learn by <mark>serving<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 168,
+            "context" : "Blessed are we who <mark>serve<\/mark> Almsivi.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "serves",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...Thus the moon now stands guard over the palace, and <mark>serves<\/mark> as a citadel for the Temple 's Ordinators.",
+            "fid" : "content" },
+          
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 503,
+            "context" : "...Man and his children would give up their tough hides to <mark>serve<\/mark> as armor for the Dunmer.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "...prevents those buried with the proper rituals from being raised to <mark>serve<\/mark> my children's will. As you know, my children, Arkay's...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "served",
+            "weight" : "1",
+            "pos" : 33,
+            "context" : "In Cyrodiil, a few Necromancers who have <mark>served<\/mark> the Empire are given the corpses of criminals and traitors to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Serve",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "...sisters, and never dishonor your house or your ancestors. <mark>Serve<\/mark> and protect the poor and weak, and honor your elders...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...be welcome. And if you have the will, you may <mark>serve<\/mark> House Hlaalu, and advance in the ranks, for above...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "serves",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "...have guildhalls and complete services here, and an Imperial cult shrine <mark>serves<\/mark> the spiritual needs of the Imperial faithful. Various independent tradesmen...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Hanins_wake",
+        "docUri" : "librarium\/Hanins_wake.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "served",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...Ice and shake vigorously. Strain through Winged Twilight membrane and <mark>served<\/mark> in gem encrusted goblet. ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "served",
+            "weight" : "1",
+            "pos" : 22,
+            "context" : "...Nerevar, in peace and in war. No houseman ever <mark>served<\/mark> you better, or more faithfully. Much that I did...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "serve",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "(Telvanni Councilors do not <mark>serve<\/mark> on their house councils in person. Instead, they are...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "served",
+            "weight" : "1",
+            "pos" : 408,
+            "context" : "...for heresy, he later recanted, was released, and <mark>served<\/mark> his final years as a librarian in the Hall of Wisdom...",
+            "fid" : "content" } ] } ] }

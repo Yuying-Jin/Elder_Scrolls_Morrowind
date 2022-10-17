@@ -1,0 +1,54 @@
+
+  { "stem" : "dibella",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Dibella",
+            "weight" : "1",
+            "pos" : 34,
+            "context" : "...the worship of the Nine Divines, the Aedra Akatosh, <mark>Dibella<\/mark>, Arkay, Zenithar, Mara, Stendarr, Kynareth,...",
+            "fid" : "content" },
+          
+          { "form" : "Dibella",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...We acknowledge the divinity of the Nine Divines: Akatosh, <mark>Dibella<\/mark>, Arkay, Zenithar, Mara, Stendarr, Kynareth,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dibella",
+            "weight" : "1",
+            "pos" : 6498,
+            "context" : "<mark>Dibella<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dibella",
+            "weight" : "1",
+            "pos" : 6605,
+            "context" : "<mark>dibella<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dibella",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...Notable exceptions include minor charismatic sub-cults of Akatosh and <mark>Dibella<\/mark>. The Imperial Cult of Tiber Septim also has a significant...",
+            "fid" : "content" } ] } ] }

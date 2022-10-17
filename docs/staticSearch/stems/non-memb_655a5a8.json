@@ -1,0 +1,20 @@
+
+  { "stem" : "non-memb",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Non-members",
+            "weight" : "1",
+            "pos" : 403,
+            "context" : "...blight diseases, cure poisons, and restore damaged attributes. <mark>Non-members<\/mark> pay 25 drakes. Non-members pay 25 drakes....",
+            "fid" : "content" },
+          
+          { "form" : "Non-members",
+            "weight" : "1",
+            "pos" : 409,
+            "context" : "...restore damaged attributes. Non-members pay 25 drakes. <mark>Non-members<\/mark> pay 25 drakes. Newer members pay 10 drakes, while...",
+            "fid" : "content" } ] } ] }

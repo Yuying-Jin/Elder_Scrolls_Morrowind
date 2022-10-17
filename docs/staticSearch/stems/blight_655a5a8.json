@@ -1,0 +1,110 @@
+
+  { "stem" : "blight",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "blighted",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "...the north, and elsewhere form a wide margin between the <mark>blighted<\/mark> Red Mountain region and other geographic regions. The village of...",
+            "fid" : "content" },
+          
+          { "form" : "'blight",
+            "weight" : "1",
+            "pos" : 997,
+            "context" : "...as seals in the harmful, disease-laden weather called <mark>'blight<\/mark>,' rings the volcano's outer slopes, and is broken only...",
+            "fid" : "content" },
+          
+          { "form" : "blight",
+            "weight" : "1",
+            "pos" : 1017,
+            "context" : "...; the only weather is the red and deadly ash-<mark>blight<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "Blight",
+            "weight" : "1",
+            "pos" : 1050,
+            "context" : "...colossal magical artifact that completely encircles Red Mountain and prevents the <mark>Blight<\/mark> from spilling its corruption across the rest of Vvardenfell.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blight",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "All shrines grant cures of common diseases, of <mark>blight<\/mark> diseases, and of afflictions of poison.",
+            "fid" : "content" },
+          
+          { "form" : "blight",
+            "weight" : "1",
+            "pos" : 188,
+            "context" : "...Delyn grants Shield of St. Delyn, for resistance to <mark>blight<\/mark> diseases.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "blight",
+            "weight" : "1",
+            "pos" : 400,
+            "context" : "...it, Vivec led refugees here as they fled the ash and <mark>blight<\/mark>. Weary, they rested here a while. When Vivec awoke...",
+            "fid" : "content" },
+          
+          { "form" : "blight",
+            "weight" : "1",
+            "pos" : 435,
+            "context" : "...breathed life into their lungs, and cured them of the <mark>blight<\/mark>. This is Vivec's heroism -- his tender heart provides strength...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blight",
+            "weight" : "1",
+            "pos" : 396,
+            "context" : "...Imperial cult healing altars and receive blessings which cure common and <mark>blight<\/mark> diseases, cure poisons, and restore damaged attributes. Non...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blighted",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...of Veloth will build anew a garden of plenty in this <mark>blighted<\/mark> wasteland. Come to Red Mountain, old friend. For...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blight",
+            "weight" : "1",
+            "pos" : 208,
+            "context" : "...not far from Sadrith Mora, and he soon saw the <mark>blight<\/mark> and ruin that was the battlemage's calling card. Delving into...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "blight",
+            "weight" : "1",
+            "pos" : 499,
+            "context" : "...that he would be inheriting was utterly dissolute by decades of <mark>blight<\/mark> storms and poor crops.",
+            "fid" : "content" } ] } ] }

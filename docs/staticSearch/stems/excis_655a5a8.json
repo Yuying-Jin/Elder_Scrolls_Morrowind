@@ -1,0 +1,20 @@
+
+  { "stem" : "excis",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Excise",
+            "weight" : "1",
+            "pos" : 734,
+            "context" : "..., and the frequent rain and fog hides small boats from <mark>Excise<\/mark> cutters.",
+            "fid" : "content" },
+          
+          { "form" : "Excise",
+            "weight" : "1",
+            "pos" : 761,
+            "context" : "...Neen, where they are processed by the Imperial Census and <mark>Excise<\/mark> Commission agents of the Coastguard station. The Coastguard cutters docked...",
+            "fid" : "content" } ] } ] }

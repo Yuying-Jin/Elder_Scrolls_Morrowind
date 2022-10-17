@@ -1,0 +1,14 @@
+
+  { "stem" : "discount",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "discount",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...help of friends includes fixing things with the guards at a <mark>discount<\/mark> rate. That's where the 'honor among thieves' part comes in....",
+            "fid" : "content" } ] } ] }

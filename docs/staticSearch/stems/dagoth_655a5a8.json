@@ -1,0 +1,306 @@
+
+  { "stem" : "dagoth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 1526,
+            "context" : "<mark>Dagoth<\/mark> Ur" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 1532,
+            "context" : "<mark>Dagoth<\/mark>-Ur" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 1540,
+            "context" : "<mark>Dagoth<\/mark>_Ur" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 2713,
+            "context" : "Message from <mark>Dagoth<\/mark> Ur, count: 2" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 3031,
+            "context" : "Message from <mark>Dagoth<\/mark> Ur, count: 3" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 3087,
+            "context" : "Message from <mark>Dagoth<\/mark> Ur, count: 1" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 5117,
+            "context" : "<mark>Dagoth<\/mark>" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 6448,
+            "context" : "<mark>Dagoth<\/mark>_Ur" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 7442,
+            "context" : "<mark>Dagoth<\/mark> Ur" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 7,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "Message from <mark>Dagoth<\/mark> Ur" },
+          
+          { "form" : "dagoth",
+            "weight" : "1",
+            "pos" : 1697,
+            "context" : "<mark>dagoth<\/mark> ur",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 2879,
+            "context" : "Message from <mark>Dagoth<\/mark> Ur, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 3204,
+            "context" : "Message from <mark>Dagoth<\/mark> Ur, count: 3",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 3258,
+            "context" : "Message from <mark>Dagoth<\/mark> Ur, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "dagoth",
+            "weight" : "1",
+            "pos" : 5312,
+            "context" : "<mark>dagoth<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "dagoth",
+            "weight" : "1",
+            "pos" : 7581,
+            "context" : "<mark>dagoth<\/mark> ur",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...prophet Veloth, and Saint Nerevar ]. Dissident priests ask whether <mark>Dagoth<\/mark> Ur's powers and the Tribunal powers might ultimately derive from the...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...have been concealing the true nature of the threat posed by <mark>Dagoth<\/mark> Ur at Red Mountain, misleading the people about the Tribunal's...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...misleading the people about the Tribunal's ability to protect Morrowind from <mark>Dagoth<\/mark> Ur, and concealing a recent dramatic diminishing of the Tribunal's...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...that Nerevar destroyed them. Ashlander tradition further holds that Nerevar left <mark>Dagoth<\/mark> Ur guarding the profane secrets of Red Mountain while Nerevar went...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...from treachery], and that subsequently the Tribunal confronted a defiant <mark>Dagoth<\/mark> Ur within Red Mountain, then drove Dagoth Ur beneath Red...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...confronted a defiant Dagoth Ur within Red Mountain, then drove <mark>Dagoth<\/mark> Ur beneath Red Mountain when he would not yield to their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 6,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 63,
+            "context" : "...prophet Veloth, and Saint Nerevar ]. Dissident priests ask whether <mark>Dagoth<\/mark> Ur's powers and the Tribunal powers might ultimately derive from the...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...have been concealing the true nature of the threat posed by <mark>Dagoth<\/mark> Ur at Red Mountain, misleading the people about the Tribunal's...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "...misleading the people about the Tribunal's ability to protect Morrowind from <mark>Dagoth<\/mark> Ur, and concealing a recent dramatic diminishing of the Tribunal's...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...that Nerevar destroyed them. Ashlander tradition further holds that Nerevar left <mark>Dagoth<\/mark> Ur guarding the profane secrets of Red Mountain while Nerevar went...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "...from treachery], and that subsequently the Tribunal confronted a defiant <mark>Dagoth<\/mark> Ur within Red Mountain, then drove Dagoth Ur beneath Red...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 234,
+            "context" : "...confronted a defiant Dagoth Ur within Red Mountain, then drove <mark>Dagoth<\/mark> Ur beneath Red Mountain when he would not yield to their...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...over religion divided the Council, with House Dwemer and House <mark>Dagoth<\/mark> on one side and all the other Houses on the other....",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...side and all the other Houses on the other. Dwemer and <mark>Dagoth<\/mark> invited Orc and Nord clans as allies, and held northwest...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...Houses and nomad tribes and marched to meet the Dwemer-<mark>Dagoth<\/mark>-Westerner forces.",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "..., resulting in the utter extermination of House Dwemer, House <mark>Dagoth<\/mark>, and their allies. Nerevar was killed in the battle...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 246,
+            "context" : "Long after Lord Nerevar and the Tribunal triumphed over <mark>Dagoth<\/mark> Ur, the people wished to build a monument to the...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 387,
+            "context" : "...is Vivec's Ash Mask. In the Days of Fire when <mark>Dagoth<\/mark> Ur first crept back into Red Mountain and awakened it, Vivec...",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 636,
+            "context" : "...too far from the Ghostgate and flees from any minions of <mark>Dagoth<\/mark> Ur. When you address the shrine, it is customary...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 123,
+            "context" : "...ever, your respectful servant and loyal friend, Lord Voryn <mark>Dagoth<\/mark>, Dagoth Ur ",
+            "fid" : "content" },
+          
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 124,
+            "context" : "...your respectful servant and loyal friend, Lord Voryn Dagoth, <mark>Dagoth<\/mark> Ur ",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...mysterious nature from a deep cavern on the northern slopes of <mark>Dagoth<\/mark> Ur, delivering it to Molag Bal's shrine in Bal Ur...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 1032,
+            "context" : "...sits astride the only gap through which the monstrous hosts of <mark>Dagoth<\/mark> Ur might emerge from Red Mountain to threaten the rest of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 138,
+            "context" : "...and fire found in the lava pits and streams found around <mark>Dagoth<\/mark>-Ur.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dagoth",
+            "weight" : "1",
+            "pos" : 290,
+            "context" : "...and so tough that he could swim in the lava of <mark>Dagoth<\/mark> Ur like it was the Padomaic Ocean. Baranat thought of...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "beg",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "beg",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...that will fortify my own strength,\" said Oin. \"I <mark>beg<\/mark> you to teach it to me now.\"",
+            "fid" : "content" },
+          
+          { "form" : "beg",
+            "weight" : "1",
+            "pos" : 395,
+            "context" : "...that will fortify my own endurance,\" said Oin. \"I <mark>beg<\/mark> you to teach it to me now.\"",
+            "fid" : "content" },
+          
+          { "form" : "beg",
+            "weight" : "1",
+            "pos" : 541,
+            "context" : "...that will fortify my own agility,\" said Oin. \"I <mark>beg<\/mark> you to teach it to me now.\"",
+            "fid" : "content" } ] } ] }

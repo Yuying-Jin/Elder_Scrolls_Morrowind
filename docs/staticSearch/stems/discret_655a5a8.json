@@ -1,0 +1,25 @@
+
+  { "stem" : "discret",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "discrete",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...ash stolen from one of their ashpits, a careful and <mark>discrete<\/mark> Necromancer can thrive in Morrowind by taking slaves at a modest...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fighters_Guild_Charter",
+        "docUri" : "librarium\/Fighters_Guild_Charter.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "discretion",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...expelled from the Guild. Re-admittance is at the <mark>discretion<\/mark> of the Guild Stewards. ",
+            "fid" : "content" } ] } ] }

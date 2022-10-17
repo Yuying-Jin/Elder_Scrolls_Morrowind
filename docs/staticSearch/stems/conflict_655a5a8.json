@@ -1,0 +1,48 @@
+
+  { "stem" : "conflict",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "conflicting",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...while the hidden writings reveal secrets, untruths, inconsistencies, <mark>conflicting<\/mark> accounts and varying interpretations which hint at darker and less heroic...",
+            "fid" : "content" },
+          
+          { "form" : "conflicting",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...heroic motives and actions of the Tribunes. In particular, <mark>conflicting<\/mark> accounts of the battle at Red Mountain raise questions about the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "conflicting",
+            "weight" : "1",
+            "pos" : 130,
+            "context" : "...while the hidden writings reveal secrets, untruths, inconsistencies, <mark>conflicting<\/mark> accounts and varying interpretations which hint at darker and less heroic...",
+            "fid" : "content" },
+          
+          { "form" : "conflicting",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...heroic motives and actions of the Tribunes. In particular, <mark>conflicting<\/mark> accounts of the battle at Red Mountain raise questions about the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "conflict",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...my bladed carriage, for in it is delivered the unmixed <mark>conflict<\/mark> path, perfect in every way. What is its number...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "procyon",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Procyon",
+            "weight" : "1",
+            "pos" : 223,
+            "context" : "...Hall, Hrundi the Nord is the Fighters Guild steward, <mark>Procyon<\/mark> Nigiliusis [sic] is Mages Guild steward, and Aunius...",
+            "fid" : "content" } ] } ] }

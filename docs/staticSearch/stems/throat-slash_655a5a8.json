@@ -1,0 +1,14 @@
+
+  { "stem" : "throat-slash",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "throat-slashing",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...the attacker with blood. Not good. Now a good <mark>throat-slashing<\/mark>, properly executed, can both slay and silence a guard...",
+            "fid" : "content" } ] } ] }

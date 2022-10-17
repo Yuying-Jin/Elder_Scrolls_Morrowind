@@ -1,0 +1,26 @@
+
+  { "stem" : "guldris",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Guldrise",
+            "weight" : "1",
+            "pos" : 6656,
+            "context" : "<mark>Guldrise<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "guldrise",
+            "weight" : "1",
+            "pos" : 6757,
+            "context" : "<mark>guldrise<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

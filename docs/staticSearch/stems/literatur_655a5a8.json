@@ -1,0 +1,20 @@
+
+  { "stem" : "literatur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "literature",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...Vivec is an artistic violence. Vivec is represented in Temple <mark>literature<\/mark> and liturgy as one of the divine kings of Morrowind....",
+            "fid" : "content" },
+          
+          { "form" : "literature",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...This darker side of Vivec does not appear in the popular <mark>literature<\/mark> and liturgy, but is instinctively understood and accepted by the...",
+            "fid" : "content" } ] } ] }

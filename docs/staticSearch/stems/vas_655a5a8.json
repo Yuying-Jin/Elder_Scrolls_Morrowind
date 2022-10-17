@@ -1,0 +1,83 @@
+
+  { "stem" : "vas",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Vas",
+            "weight" : "1",
+            "pos" : 4279,
+            "context" : "<mark>Vas<\/mark>" },
+          
+          { "form" : "Vas",
+            "weight" : "1",
+            "pos" : 4301,
+            "context" : "<mark>Vas<\/mark>, Entry Level" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "vas",
+            "weight" : "1",
+            "pos" : 4422,
+            "context" : "<mark>vas<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "vas",
+            "weight" : "1",
+            "pos" : 4444,
+            "context" : "<mark>vas<\/mark>, entry level",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vas",
+            "weight" : "1",
+            "pos" : 89,
+            "context" : "<mark>Vas<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vas",
+            "weight" : "1",
+            "pos" : 13,
+            "context" : "<mark>Vas<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vas",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "<mark>Vas<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vas",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "<mark>Vas<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] } ] }

@@ -1,0 +1,94 @@
+
+  { "stem" : "vari",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Vari",
+            "weight" : "1",
+            "pos" : 851,
+            "context" : "Ald'ruhn, Llether <mark>Vari<\/mark>: Enchanter" },
+          
+          { "form" : "Vari",
+            "weight" : "1",
+            "pos" : 7476,
+            "context" : "Llether <mark>Vari<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "vari",
+            "weight" : "1",
+            "pos" : 1069,
+            "context" : "ald'ruhn, llether <mark>vari<\/mark>: enchanter",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "vari",
+            "weight" : "1",
+            "pos" : 7613,
+            "context" : "llether <mark>vari<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Vari",
+            "weight" : "1",
+            "pos" : 8,
+            "context" : "Ald'ruhn, Llether <mark>Vari<\/mark>: Enchanter: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vary",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "..., or long-dormant ones have been awakened. Vampires <mark>vary<\/mark> in their substance and power according to their age and accumulated...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "varying",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...writings reveal secrets, untruths, inconsistencies, conflicting accounts and <mark>varying<\/mark> interpretations which hint at darker and less heroic motives and actions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "varying",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...writings reveal secrets, untruths, inconsistencies, conflicting accounts and <mark>varying<\/mark> interpretations which hint at darker and less heroic motives and actions...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "vary",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "..., or long-dormant ones have been awakened. Vampires <mark>vary<\/mark> in their substance and power according to their age and accumulated...",
+            "fid" : "content" } ] } ] }

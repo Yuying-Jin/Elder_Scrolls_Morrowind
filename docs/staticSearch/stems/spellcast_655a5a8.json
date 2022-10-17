@@ -1,0 +1,25 @@
+
+  { "stem" : "spellcast",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spellcasting",
+            "weight" : "1",
+            "pos" : 203,
+            "context" : "To restore magicka for <mark>spellcasting<\/mark>, combine comberry and frost salts. comberry is a bitter...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spellcasters",
+            "weight" : "1",
+            "pos" : 180,
+            "context" : "...in a state of ecstatic frenzy. Aundae vampires are potent <mark>spellcasters<\/mark>, seeking to hypnotize victims before feeding, while the swift...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,26 @@
+
+  { "stem" : "mummifi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "mummified",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...time and effort, one may create a far more useful <mark>mummified<\/mark> servant.",
+            "fid" : "content" },
+          
+          { "form" : "mummified",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "The first step to creating a <mark>mummified<\/mark> servant is to soak the decaying corpse in a bath of...",
+            "fid" : "content" },
+          
+          { "form" : "mummified",
+            "weight" : "1",
+            "pos" : 204,
+            "context" : "...be a useful servant, the proper rituals will imbue the <mark>mummified<\/mark> corpse with the strength to move itself. Most importantly, you...",
+            "fid" : "content" } ] } ] }

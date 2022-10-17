@@ -1,0 +1,70 @@
+
+  { "stem" : "isol",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "isolated",
+            "weight" : "1",
+            "pos" : 415,
+            "context" : " Maar Gan is a small <mark>isolated<\/mark> village in a remote region north of Ald'ruhn. The Maar...",
+            "fid" : "content" },
+          
+          { "form" : "isolated",
+            "weight" : "1",
+            "pos" : 777,
+            "context" : " Hla Oad is a tiny <mark>isolated<\/mark> fishing village on western Vvardenfell in the Bitter Coast region....",
+            "fid" : "content" },
+          
+          { "form" : "isolated",
+            "weight" : "1",
+            "pos" : 956,
+            "context" : "...Erabenimsun tribe has a permanent settlement at Erabenimsun camp, an <mark>isolated<\/mark> hut settlement in the middle of the desolate Molag Amur region...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "isolated",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "In Skyrim, the cold weather and <mark>isolated<\/mark> terrain allow a few Necromancers to operate freely. Alas,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "isolated",
+            "weight" : "1",
+            "pos" : 465,
+            "context" : "..., and minister to the sick and hurt in poor and <mark>isolated<\/mark> communities. It is difficult and sometimes dangerous work, but...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "isolated",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "\"Outnumbered and <mark>isolated<\/mark>, I yielded to my foe. The creature dressed like...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "isolated",
+            "weight" : "1",
+            "pos" : 357,
+            "context" : "The wizard-lords of House Telvanni have traditionally <mark>isolated<\/mark> themselves, pursuing wisdom and mastery in solitude. But certain ambitious...",
+            "fid" : "content" } ] } ] }

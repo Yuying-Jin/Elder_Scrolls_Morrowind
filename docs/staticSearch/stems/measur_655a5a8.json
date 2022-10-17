@@ -1,0 +1,31 @@
+
+  { "stem" : "measur",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "measure",
+            "weight" : "1",
+            "pos" : 151,
+            "context" : "...a pool, and a wizard slowly raises the temperature, <mark>measure<\/mark> by measure, to boiling, the kagouti will calmly stand...",
+            "fid" : "content" },
+          
+          { "form" : "measure",
+            "weight" : "1",
+            "pos" : 152,
+            "context" : "..., and a wizard slowly raises the temperature, measure by <mark>measure<\/mark>, to boiling, the kagouti will calmly stand in place...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "measure",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "“I do nothing,” said Darothil with some <mark>measure<\/mark> of pride. “But in my youth, I used to...",
+            "fid" : "content" } ] } ] }

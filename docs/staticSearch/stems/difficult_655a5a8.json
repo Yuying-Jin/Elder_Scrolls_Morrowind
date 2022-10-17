@@ -1,0 +1,137 @@
+
+  { "stem" : "difficult",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 30,
+            "context" : "..., the acquisition of corpses on which to experiment is often <mark>difficult<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 395,
+            "context" : "...While the cold is preservative, the snow makes these corpses <mark>difficult<\/mark> to find. More research dedicated to the magical detection of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 467,
+            "context" : "...sick and hurt in poor and isolated communities. It is <mark>difficult<\/mark> and sometimes dangerous work, but the spiritual rewards are great...",
+            "fid" : "content" },
+          
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 717,
+            "context" : " Historically, our relationship with the Tribunal Temple is <mark>difficult<\/mark> and unfriendly. Though the Imperial cults acknowledges the lords and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...compare his resources and abilities; if the obstacle is too <mark>difficult<\/mark>, seek for a path around the difficulty.",
+            "fid" : "content" },
+          
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 87,
+            "context" : "...compare his resources and abilities; if the obstacle is too <mark>difficult<\/mark>, look for a path around the difficulty... but if...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 291,
+            "context" : "...green and quite delicate. Picking a frond can be very <mark>difficult<\/mark>, but once retrieved it can be used to put an...",
+            "fid" : "content" },
+          
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...found in the Province of Valenwood. The plant is very <mark>difficult<\/mark> to find as its above ground foliage is very meager and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 891,
+            "context" : "..., and barren ash pavements. Pathfinding and travel is extremely <mark>difficult<\/mark> in this trackless wilderness, and is complicated by frequent ash...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "It is <mark>difficult<\/mark> to generalize about fleshless revenants, or skeletons. The agility...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "It is <mark>difficult<\/mark> to generalize about fleshless revenants, or skeletons. The agility...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...in the ranks of House Telvanni, however, is very <mark>difficult<\/mark> for outsiders. Most disconcerting for some potential candidates is House...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 535,
+            "context" : "...region is wilderness, and finding the cave mouth can be <mark>difficult<\/mark>. Dreugh within the cave itself are fearsome enemies; only...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "difficult",
+            "weight" : "1",
+            "pos" : 488,
+            "context" : "...of Boethiah. He said it helped him focus and organize <mark>difficult<\/mark> combinations. Within seconds, the vault was open and the...",
+            "fid" : "content" } ] } ] }

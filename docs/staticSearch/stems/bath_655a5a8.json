@@ -1,0 +1,14 @@
+
+  { "stem" : "bath",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bath",
+            "weight" : "1",
+            "pos" : 145,
+            "context" : "...a mummified servant is to soak the decaying corpse in a <mark>bath<\/mark> of salt or natron for at least one month. This...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "talo",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Talos",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...Mara, Stendarr, Kynareth, and Julianos, and the <mark>Talos<\/mark> cult, veneration of the divine god-hero Tiber Septim...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Talos",
+            "weight" : "1",
+            "pos" : 7372,
+            "context" : "<mark>Talos<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "talos",
+            "weight" : "1",
+            "pos" : 7487,
+            "context" : "<mark>talos<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "nod",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nodded",
+            "weight" : "1",
+            "pos" : 367,
+            "context" : "...were dead before they left her mouth. Silverthorn smiled and <mark>nodded<\/mark> his head, enjoying the silence. He could have killed...",
+            "fid" : "content" } ] } ] }

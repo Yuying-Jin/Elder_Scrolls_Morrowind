@@ -1,0 +1,14 @@
+
+  { "stem" : "spawn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "spawned",
+            "weight" : "1",
+            "pos" : 339,
+            "context" : "...other crimes, Molag Bal, the Father of Monsters, <mark>spawned<\/mark> the first vampire upon the corpse of a defeated foe....",
+            "fid" : "content" } ] } ] }

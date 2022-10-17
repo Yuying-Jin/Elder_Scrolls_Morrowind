@@ -1,0 +1,43 @@
+
+  { "stem" : "orsinium",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Orsinium",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "The newly formed <mark>Orsinium<\/mark> presents a unique opportunity. As you know, Orc corpses...",
+            "fid" : "content" },
+          
+          { "form" : "Orsinium",
+            "weight" : "1",
+            "pos" : 309,
+            "context" : ".... To this end, a delegation has been sent to <mark>Orsinium<\/mark>, though we have not yet heard any word on the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Orsinium",
+            "weight" : "1",
+            "pos" : 2912,
+            "context" : "<mark>Orsinium<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "orsinium",
+            "weight" : "1",
+            "pos" : 3085,
+            "context" : "<mark>orsinium<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "specialist",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "specialists",
+            "weight" : "1",
+            "pos" : 330,
+            "context" : "...they must go outside their house to hire the craftsmen and <mark>specialists<\/mark> they need. And since for political reasons House Telvanni has...",
+            "fid" : "content" } ] } ] }

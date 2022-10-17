@@ -1,0 +1,76 @@
+
+  { "stem" : "pleas",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "please",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...these virtues? Then, perhaps, your oath and service may <mark>please<\/mark> the Morag Tong.",
+            "fid" : "content" },
+          
+          { "form" : "please",
+            "weight" : "1",
+            "pos" : 100,
+            "context" : "...these masks? Then, perhaps, your oath and service may <mark>please<\/mark> the Black Glove.",
+            "fid" : "content" },
+          
+          { "form" : "please",
+            "weight" : "1",
+            "pos" : 125,
+            "context" : "...these things? Then, perhaps, your oath and service may <mark>please<\/mark> Mephala.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
+        "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "\"Please",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "...head up in agony, cried out to Sotha Sil: <mark>\"Please<\/mark>, please, have mercy, little boy, for what...",
+            "fid" : "content" },
+          
+          { "form" : "please",
+            "weight" : "1",
+            "pos" : 51,
+            "context" : "...in agony, cried out to Sotha Sil: \"Please, <mark>please<\/mark>, have mercy, little boy, for what is sport...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "please",
+            "weight" : "1",
+            "pos" : 491,
+            "context" : "\"Later, if you <mark>please<\/mark>,\" said the Ashkhan. \"What happened then?\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "please",
+            "weight" : "1",
+            "pos" : 225,
+            "context" : "...said, \"If you are still in communication with Benitah, <mark>please<\/mark> give her my sympathies.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pleased",
+            "weight" : "1",
+            "pos" : 183,
+            "context" : "The council is <mark>pleased<\/mark> to report a reduction in the incidence of theft and violent...",
+            "fid" : "content" } ] } ] }

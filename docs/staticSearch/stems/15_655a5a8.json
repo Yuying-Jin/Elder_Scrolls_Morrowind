@@ -1,0 +1,65 @@
+
+  { "stem" : "15",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "15",
+            "weight" : "1",
+            "pos" : 5704,
+            "context" : "Red Book of 3E 426, count: <mark>15<\/mark>" },
+          
+          { "form" : "15",
+            "weight" : "1",
+            "pos" : 5762,
+            "context" : "Guide to Vvardenfell, count: <mark>15<\/mark>" },
+          
+          { "form" : "15",
+            "weight" : "1",
+            "pos" : 5813,
+            "context" : "Progress of Truth, count: <mark>15<\/mark>" },
+          
+          { "form" : "15",
+            "weight" : "1",
+            "pos" : 5818,
+            "context" : "Redoran Cooking Secrets, count: <mark>15<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "15",
+            "weight" : "1",
+            "pos" : 5987,
+            "context" : "Red Book of 3E 426, count: <mark>15<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "15",
+            "weight" : "1",
+            "pos" : 6040,
+            "context" : "Guide to Vvardenfell, count: <mark>15<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "15",
+            "weight" : "1",
+            "pos" : 6093,
+            "context" : "Progress of Truth, count: <mark>15<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "15",
+            "weight" : "1",
+            "pos" : 6098,
+            "context" : "Redoran Cooking Secrets, count: <mark>15<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

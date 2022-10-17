@@ -1,0 +1,36 @@
+
+  { "stem" : "equip",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "equipped",
+            "weight" : "1",
+            "pos" : 382,
+            "context" : "...are no trails or marked routes. Casual travelers ill-<mark>equipped<\/mark> for the attacks of wild beasts and brigands should keep to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "equipped",
+            "weight" : "1",
+            "pos" : 59,
+            "context" : "...kind of society, one that he had been ill-<mark>equipped<\/mark> to deal with. They were poor.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "equipment",
+            "weight" : "1",
+            "pos" : 323,
+            "context" : "...some throats not to take some precautions and bring some extra <mark>equipment<\/mark>. The best neck-hackers I know generally carry a...",
+            "fid" : "content" } ] } ] }

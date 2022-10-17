@@ -1,0 +1,58 @@
+
+  { "stem" : "similar",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "similarities",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...a man who entered the ranks of the gods. The <mark>similarities<\/mark> between his mortal life and my own astonish even me. It...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Similarly",
+            "weight" : "1",
+            "pos" : 215,
+            "context" : "...around the shop, assuming you're going to steal something. <mark>Similarly<\/mark>, Nords, Bretons, and Cyrodiils are sometimes treated coolly...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "similar",
+            "weight" : "1",
+            "pos" : 67,
+            "context" : "...the minor curses they lay upon their victims. Wraiths are <mark>similar<\/mark> to ghosts, but they are capable of inflicting wounds to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "similar",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...the minor curses they lay upon their victims. Wraiths are <mark>similar<\/mark> to ghosts, but they are capable of inflicting wounds to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "similar",
+            "weight" : "1",
+            "pos" : 273,
+            "context" : "...purple flowers. Scuttle, Vvardenfell's favorite local dish, is <mark>similar<\/mark> to cheese and made from the flesh of local beetles....",
+            "fid" : "content" } ] } ] }

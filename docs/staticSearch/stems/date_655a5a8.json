@@ -1,0 +1,25 @@
+
+  { "stem" : "date",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dating",
+            "weight" : "1",
+            "pos" : 320,
+            "context" : "In my native High Rock, traditions <mark>dating<\/mark> back to the witch kings and nomadic horsemen mandate cremation of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "date",
+            "weight" : "1",
+            "pos" : 113,
+            "context" : "...tight bindings. One may always loosen them at a later <mark>date<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "librarian",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "librarian",
+            "weight" : "1",
+            "pos" : 411,
+            "context" : "..., was released, and served his final years as a <mark>librarian<\/mark> in the Hall of Wisdom in Vivec. It is interesting...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "paid",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "paid",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "The adventurer, after a few hours of instruction, <mark>paid<\/mark> the old teacher and set off on his way. Indoranyon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "paid",
+            "weight" : "1",
+            "pos" : 314,
+            "context" : "...House Telvanni wizard-lords depend on loyal, well-<mark>paid<\/mark>, skilled retainers for most services. Though House Telvanni does...",
+            "fid" : "content" } ] } ] }

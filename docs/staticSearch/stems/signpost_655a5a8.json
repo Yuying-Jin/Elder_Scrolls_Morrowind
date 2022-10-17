@@ -1,0 +1,14 @@
+
+  { "stem" : "signpost",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "signposts",
+            "weight" : "1",
+            "pos" : 329,
+            "context" : ".... Between Ald'ruhn and Caldera are many sidepaths; watch for <mark>signposts<\/mark>, or you'll get lost. The silt strider port is...",
+            "fid" : "content" } ] } ] }

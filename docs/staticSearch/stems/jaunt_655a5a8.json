@@ -1,0 +1,14 @@
+
+  { "stem" : "jaunt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "jaunts",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...let it not be so, were killed during one of these <mark>jaunts<\/mark>? I don't think so. Why couldn't you get a nice...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,37 @@
+
+  { "stem" : "maren",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Maren",
+            "weight" : "1",
+            "pos" : 3927,
+            "context" : "Tel_Aruhn,_<mark>Maren<\/mark>_Uvaren:_Enchanter" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "maren",
+            "weight" : "1",
+            "pos" : 3839,
+            "context" : "tel aruhn, <mark>maren<\/mark> uvaren: enchanter",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Maren",
+            "weight" : "1",
+            "pos" : 26,
+            "context" : "Tel Aruhn, <mark>Maren<\/mark> Uvaren: Enchanter: Visitable? yes",
+            "fid" : "acq" } ] } ] }

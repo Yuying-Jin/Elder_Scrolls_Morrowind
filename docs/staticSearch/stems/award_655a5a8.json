@@ -1,0 +1,14 @@
+
+  { "stem" : "award",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "award",
+            "weight" : "1",
+            "pos" : 144,
+            "context" : "...one spell. I have to kill Egroamaro, collect the <mark>award<\/mark>, and be back in Gnisis as quickly as possible....",
+            "fid" : "content" } ] } ] }

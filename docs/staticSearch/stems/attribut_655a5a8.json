@@ -1,0 +1,37 @@
+
+  { "stem" : "attribut",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "attributes",
+            "weight" : "1",
+            "pos" : 288,
+            "context" : "...the cult, and must strive for personal improvement in their <mark>attributes<\/mark> and skills. Only the most distinguished are worthy of advancement...",
+            "fid" : "content" },
+          
+          { "form" : "attributes",
+            "weight" : "1",
+            "pos" : 402,
+            "context" : "...common and blight diseases, cure poisons, and restore damaged <mark>attributes<\/mark>. Non-members pay 25 drakes. Non-members...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "attributes",
+            "weight" : "1",
+            "pos" : 146,
+            "context" : "...may grant the blessing of Almsivi Restoration, which restores damaged <mark>attributes<\/mark>, and the three blessings of Almsivi: Vivec's Mystery,...",
+            "fid" : "content" },
+          
+          { "form" : "attributes",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...also grants the blessing of Almsivi Restoration, which restores damaged <mark>attributes<\/mark>.",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,36 @@
+
+  { "stem" : "ruler",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "ruler",
+            "weight" : "1",
+            "pos" : 216,
+            "context" : "...Ebonheart is the home of Duke Vedam Dren, the district's <mark>ruler<\/mark> and Emperor's representative. Also located at Castle Ebonheart are the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rulers",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "...our long dream, coming forth to free Morrowind of foreign <mark>rulers<\/mark> and divine pretenders. When the land is swept clean of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "rulers",
+            "weight" : "1",
+            "pos" : 310,
+            "context" : "...Vivec is the story that Vivec conspired with his co-<mark>rulers<\/mark> Almalexia and Sotha Sil in the murder of Lord Nerevar,...",
+            "fid" : "content" } ] } ] }

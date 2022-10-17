@@ -1,0 +1,25 @@
+
+  { "stem" : "thrive",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thrive",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...one of their ashpits, a careful and discrete Necromancer can <mark>thrive<\/mark> in Morrowind by taking slaves at a modest rate. Most...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "thrive",
+            "weight" : "1",
+            "pos" : 492,
+            "context" : "...boat. Despite the rocky terrain, a variety of plants <mark>thrive<\/mark> on the regular rainfall.",
+            "fid" : "content" } ] } ] }

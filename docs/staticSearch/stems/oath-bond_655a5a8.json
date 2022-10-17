@@ -1,0 +1,14 @@
+
+  { "stem" : "oath-bond",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oath-bonded",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "...Initially an outlander may gain status in a house as an <mark>oath-bonded<\/mark> hireling, pledging exclusive loyalty to a single house and forsaking...",
+            "fid" : "content" } ] } ] }

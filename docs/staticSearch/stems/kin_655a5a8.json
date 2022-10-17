@@ -1,0 +1,60 @@
+
+  { "stem" : "kin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "kin",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "...loyalty. And if they come unbidden, from love of <mark>kin<\/mark> or faith to duty, it is not unholy. It...",
+            "fid" : "content" },
+          
+          { "form" : "Kin",
+            "weight" : "1",
+            "pos" : 195,
+            "context" : "...enough is the ancestor's service given in love to Hearth and <mark>Kin<\/mark>. But ghost or guardian, bonewalker or bonelord, summoned...",
+            "fid" : "content" },
+          
+          { "form" : "kin",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...Only a righteous Dunmer, bound by blood to hearth and <mark>kin<\/mark>, bound by oath and service to the Temple, can...",
+            "fid" : "content" },
+          
+          { "form" : "kin",
+            "weight" : "1",
+            "pos" : 245,
+            "context" : "...they be permitted to rob our tombs, to bind our <mark>kin<\/mark>-spirits into sorcerous slavery, to steal the lives of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "kin",
+            "weight" : "1",
+            "pos" : 394,
+            "context" : "...trainers, and the Lizard's Head cornerclub provides lodgings for Telvanni <mark>kin<\/mark> and mercenaries.",
+            "fid" : "content" },
+          
+          { "form" : "kin",
+            "weight" : "1",
+            "pos" : 442,
+            "context" : "..., and the Flowers of Gold cornerclub provides lodgings for Redoran <mark>kin<\/mark> and retainers.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Sadrith_Mora",
+        "docUri" : "librarium\/Guide_to_Sadrith_Mora.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "kin",
+            "weight" : "1",
+            "pos" : 163,
+            "context" : "...and Imperial cults look for hospitality at Wolverine Hall. Telvanni <mark>kin<\/mark> and retainers stay at the Gateway, at Wolverine Hall,...",
+            "fid" : "content" } ] } ] }

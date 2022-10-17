@@ -1,0 +1,149 @@
+
+  { "stem" : "often",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "...Thus, the acquisition of corpses on which to experiment is <mark>often<\/mark> difficult.",
+            "fid" : "content" },
+          
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...requires very little preparation. Khajiit of the desert tribes are <mark>often<\/mark> buried with only a small cairn of stones which are easy...",
+            "fid" : "content" },
+          
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...Hammerfell makes the acquisition of corpses possible, though they are <mark>often<\/mark> in poor condition and require special care in preparation.",
+            "fid" : "content" },
+          
+          { "form" : "Often",
+            "weight" : "1",
+            "pos" : 487,
+            "context" : "...the corpses of animals produce mere guard dogs at best. <mark>Often<\/mark> a raised animal is unable to distinguish its master from the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "...best methods of binding and reinforcing the skeletal servant. Amateurs <mark>often<\/mark> make the mistake of binding the bones too tightly, limiting...",
+            "fid" : "content" },
+          
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "...While most undead can be raised again and again, skeletons are <mark>often<\/mark> damaged in ways that make raising them again impossible. This...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...character and loyalty. Finding a councilor to sponsor an outlander <mark>often<\/mark> involves performing a great service for the prospective sponsor.",
+            "fid" : "content" },
+          
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 434,
+            "context" : "...hollowed out for craftsmen and commoners. Open-air markets <mark>often<\/mark> include the giant cages displaying the wares of the slave masters...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 74,
+            "context" : "...wild in the mountains of Hammerfell. Their succulent pods are <mark>often<\/mark> the only nourishment of adventurers who find themselves in the wilderness...",
+            "fid" : "content" },
+          
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...herb, native to Morrowind. The flowers are inconspicuous and <mark>often<\/mark> hidden. The glossy, evergreen foliage and flowers are resistant...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 480,
+            "context" : "...healers need only the skills of the prudent traveler, being <mark>often<\/mark> on the road and in the wilderness, gathering herbs and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 85,
+            "context" : "Flesh revenants, or 'zombies' as they are <mark>often<\/mark> called in the West, are known as 'bonewalkers' in Morrowind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "Flesh revenants, or 'zombies' as they are <mark>often<\/mark> called in the West, are known as 'bonewalkers' in Morrowind...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "...rabid isolationist and outlander-hating temperament of House Telvanni wizards <mark>often<\/mark> assume it would be impossible to obtain positions in service to...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "\"The Restorals must be most carefully guarded, for how <mark>often<\/mark> have even the wise lusted to overreach their bodies and souls...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "often",
+            "weight" : "1",
+            "pos" : 150,
+            "context" : "...opponent's back. This may slay the target, but more <mark>often<\/mark> gives him time to scream and drenches the attacker with blood...",
+            "fid" : "content" } ] } ] }

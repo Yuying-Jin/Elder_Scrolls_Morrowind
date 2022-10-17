@@ -1,0 +1,58 @@
+
+  { "stem" : "lost",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lost",
+            "weight" : "1",
+            "pos" : 332,
+            "context" : "...are many sidepaths; watch for signposts, or you'll get <mark>lost<\/mark>. The silt strider port is along the western town wall...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lost",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...eternally reunited with Dragonne Papré. Hope for the living is <mark>lost<\/mark>. My name is Samar Starlover. Tell my sister I...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lost",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...and sold everywhere in Morrowind; the smaller eggs retain properties <mark>lost<\/mark> in later states of gestation. chokeweed is a tough shrub...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lost",
+            "weight" : "1",
+            "pos" : 355,
+            "context" : "...pilgrims carry a scroll of ALMSIVI Intervention in case they get <mark>lost<\/mark>. The Dremora Krazzt is found in the center of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "lost",
+            "weight" : "1",
+            "pos" : 118,
+            "context" : ".... Nerevar was killed in the battle, and his ring <mark>lost<\/mark>, but Nerevar's alliance survives in Morrowind's ruling political institution,...",
+            "fid" : "content" } ] } ] }

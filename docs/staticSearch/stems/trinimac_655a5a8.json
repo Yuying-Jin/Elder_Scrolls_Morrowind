@@ -1,0 +1,37 @@
+
+  { "stem" : "trinimac",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Trinimac",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...and the prophecies of Veloth and even the forbidden teachings of <mark>Trinimac<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Trinimac",
+            "weight" : "1",
+            "pos" : 7389,
+            "context" : "<mark>Trinimac<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "trinimac",
+            "weight" : "1",
+            "pos" : 7512,
+            "context" : "<mark>trinimac<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] } ] }

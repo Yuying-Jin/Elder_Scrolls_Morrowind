@@ -1,0 +1,31 @@
+
+  { "stem" : "subject",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "subject",
+            "weight" : "1",
+            "pos" : 237,
+            "context" : "...worship of Arkay is strongest, the dead are almost always <mark>subject<\/mark> to Arkay's Law. There are exceptions after large battles or...",
+            "fid" : "content" },
+          
+          { "form" : "subject's",
+            "weight" : "1",
+            "pos" : 469,
+            "context" : "...servant's ability to follow directions seems to be related to the <mark>subject's<\/mark> intelligence in life. While raising the corpse of a man...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "subject",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "...said Lledos, pouring himself more greef, warming to his <mark>subject<\/mark>. \"Sticks his dagger in his opponent's back. This may...",
+            "fid" : "content" } ] } ] }

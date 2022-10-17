@@ -1,0 +1,14 @@
+
+  { "stem" : "brigand",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "brigands",
+            "weight" : "1",
+            "pos" : 386,
+            "context" : "...travelers ill-equipped for the attacks of wild beasts and <mark>brigands<\/mark> should keep to the roads and travel services.",
+            "fid" : "content" } ] } ] }

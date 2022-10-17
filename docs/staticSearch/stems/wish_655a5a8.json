@@ -1,0 +1,120 @@
+
+  { "stem" : "wish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 162,
+            "context" : "...its individual members. If the Empire or other House Councils <mark>wish<\/mark> to dispute Telvanni exploration and colonization of the wastes and wildernesses...",
+            "fid" : "content" },
+          
+          { "form" : "wishes",
+            "weight" : "1",
+            "pos" : 173,
+            "context" : "..., they are welcome to do so, with the Councilors' best <mark>wishes<\/mark>, but Telvanni Council will not contribute its resources or authority...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 21,
+            "context" : "...upon them. If their decay is advanced, or if you <mark>wish<\/mark> a skeletal servant instead, place the corpse along a coast...",
+            "fid" : "content" },
+          
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : " If you <mark>wish<\/mark> to create a zombie servant, one need only bring the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : " Those who <mark>wish<\/mark> to join the Imperial cult in Vvardenfell will find a warm...",
+            "fid" : "content" },
+          
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : " Seekers who <mark>wish<\/mark> to advance in the service of the Nine must dedicate time...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "...together With never a false word, Weal and woe, <mark>wish<\/mark> and real, Woven each together From first kiss to last...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 228,
+            "context" : "Lives of the Saints Members of the Temple who <mark>wish<\/mark> to be virtuous will model their lives on the lives of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...of acrobacy we perform are real with no illusions. We <mark>wish<\/mark> we knew tricks, for it's far too time-consuming...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 395,
+            "context" : "...last, began picking up the crates and stacking them. \"I <mark>wish<\/mark> you had told me that you could walk though, mate...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wish",
+            "weight" : "1",
+            "pos" : 704,
+            "context" : "\"You don't <mark>wish<\/mark> to marry the strongest, most intelligent, toughest, most...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "wished",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "...Nerevar and the Tribunal triumphed over Dagoth Ur, the people <mark>wished<\/mark> to build a monument to the heroes of that war....",
+            "fid" : "content" } ] } ] }

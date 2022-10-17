@@ -1,0 +1,115 @@
+
+  { "stem" : "fell",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Fell",
+            "weight" : "1",
+            "pos" : 636,
+            "context" : " Bal <mark>Fell<\/mark> is the \"City of Stone,\" an ancient First Era ruin...",
+            "fid" : "content" },
+          
+          { "form" : "Fell",
+            "weight" : "1",
+            "pos" : 664,
+            "context" : "...hirelings and adventurers exploring and looting there. Legend says that Bal <mark>Fell<\/mark> was built on the site of an ancient Daedric worship center...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "fell",
+            "weight" : "1",
+            "pos" : 157,
+            "context" : "...nobles in Gnisis, and Serjo Benitah Gorgoth. His heart <mark>fell<\/mark>. She had found another, a mere nine years since...",
+            "fid" : "content" },
+          
+          { "form" : "fell",
+            "weight" : "1",
+            "pos" : 205,
+            "context" : "Not long afterwards, Sedura Indoril Pavflek Mamoona <mark>fell<\/mark> ill and died, despite all the skills of the great...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fell",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "...war comes. I return now to haunt the warriors who <mark>fell<\/mark> and still wonder why. But first I show you this.'",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Fell",
+            "weight" : "1",
+            "pos" : 1080,
+            "context" : "Bal <mark>Fell<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fell",
+            "weight" : "1",
+            "pos" : 1248,
+            "context" : "bal <mark>fell<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "felled",
+            "weight" : "1",
+            "pos" : 44,
+            "context" : "...was a cruel blow, a bitter betrayal, to be <mark>felled<\/mark> by your hand.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fell",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...a crude shelter, weaving the sand weeds. As night <mark>fell<\/mark> on the small island, the two men discussed the smuggling...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fell",
+            "weight" : "1",
+            "pos" : 426,
+            "context" : "...strength, timing, and tactics as the moons rose and <mark>fell<\/mark> from the sky. But on the seventh day, as...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "fell",
+            "weight" : "1",
+            "pos" : 470,
+            "context" : "...vault in his unique and systematic method. As the tumblers <mark>fell<\/mark> beneath his fingers, he softly sang an old dirty tavern...",
+            "fid" : "content" } ] } ] }

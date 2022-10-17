@@ -1,0 +1,37 @@
+
+  { "stem" : "bloatroot",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bloatroot",
+            "weight" : "1",
+            "pos" : 582,
+            "context" : "white_<mark>bloatroot<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bloatroot",
+            "weight" : "1",
+            "pos" : 756,
+            "context" : "white <mark>bloatroot<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bloatroot",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "...garden of willow anther, gold kanet, chokeweed, white <mark>bloatroot<\/mark>, and trama shrubs. He had also grown himself into...",
+            "fid" : "content" } ] } ] }

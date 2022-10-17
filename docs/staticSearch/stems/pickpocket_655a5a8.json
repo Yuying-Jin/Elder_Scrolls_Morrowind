@@ -1,0 +1,31 @@
+
+  { "stem" : "pickpocket",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "pickpocket",
+            "weight" : "1",
+            "pos" : 533,
+            "context" : ".... \"They say he is the greatest shield-blocker and <mark>pickpocket<\/mark> in Morrowind.\"",
+            "fid" : "content" },
+          
+          { "form" : "pickpocketed",
+            "weight" : "1",
+            "pos" : 642,
+            "context" : "...man's blows with his shield, he revealed that he had <mark>pickpocketed<\/mark> Funcrazot Priif's purse.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pickpocketing",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...from another member, whether by open theft or by covert <mark>pickpocketing<\/mark>. It is forbidden to trespass upon the private property of...",
+            "fid" : "content" } ] } ] }

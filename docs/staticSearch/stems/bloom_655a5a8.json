@@ -1,0 +1,14 @@
+
+  { "stem" : "bloom",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bloom",
+            "weight" : "1",
+            "pos" : 240,
+            "context" : "St. Roris grants Roris' <mark>Bloom<\/mark>, for fortifying the body's health.",
+            "fid" : "content" } ] } ] }

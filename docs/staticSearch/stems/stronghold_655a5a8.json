@@ -1,0 +1,86 @@
+
+  { "stem" : "stronghold",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stronghold",
+            "weight" : "1",
+            "pos" : 921,
+            "context" : " The outpost at Molag Mar is a fortified <mark>stronghold<\/mark> on the southeastern edge of the desolate Molag Amur region....",
+            "fid" : "content" },
+          
+          { "form" : "stronghold",
+            "weight" : "1",
+            "pos" : 948,
+            "context" : "...the garrison of Redoran and Buoyant Armiger crusaders stationed at the <mark>stronghold<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Strongholds",
+            "weight" : "1",
+            "pos" : 286,
+            "context" : "...West, seeking refuge in profane Daedric shrines, abandoned Dunmer <mark>Strongholds<\/mark>, and corrupted subterranean labyrinths of the detested Dwemer race?...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stronghold",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...they could lower the bridge into the main courtyard of the <mark>stronghold<\/mark>. Masters Tulkiande, Mearvis, Jereth, and I formed...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stronghold",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...teacher and set off on his way. Indoranyon, Egroamaro's <mark>stronghold<\/mark>, was not far from Sadrith Mora, and he soon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stronghold",
+            "weight" : "1",
+            "pos" : 515,
+            "context" : "...Cave, a cavern on the seacoast west of the ancient <mark>stronghold<\/mark> Berandas and south of Gnisis. The cave mouth faces south...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Real_Nerevar",
+        "docUri" : "librarium\/The_Real_Nerevar.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "stronghold",
+            "weight" : "1",
+            "pos" : 98,
+            "context" : "The armies met at Red Mountain, a Dwemer <mark>stronghold<\/mark>. The Dwemer were defeated, with great slaughter, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "strongholds",
+            "weight" : "1",
+            "pos" : 134,
+            "context" : "...the remote wastelands, or in the subterranean labyrinths of abandoned <mark>strongholds<\/mark> and wizard towers....",
+            "fid" : "content" } ] } ] }

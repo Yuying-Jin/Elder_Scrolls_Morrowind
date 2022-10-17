@@ -1,0 +1,20 @@
+
+  { "stem" : "pact",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "pact",
+            "weight" : "1",
+            "pos" : 61,
+            "context" : "..., Dagon struck out against the mortal who tricked him. Chimere's <mark>pact<\/mark> assured that he would live forever in his home town among...",
+            "fid" : "content" },
+          
+          { "form" : "pact",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "...his friends and countrymen. Twisting the literal words of Chimere's <mark>pact<\/mark>, Dagon scooped up tiny Caecilly Island (a small island off...",
+            "fid" : "content" } ] } ] }

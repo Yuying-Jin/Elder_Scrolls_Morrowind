@@ -1,0 +1,14 @@
+
+  { "stem" : "basin",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "basin",
+            "weight" : "1",
+            "pos" : 139,
+            "context" : "\"I placed the gem within the <mark>basin<\/mark> before the altar, and instantly experienced a blinding of pain...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "tier-top",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "tier-top",
+            "weight" : "1",
+            "pos" : 301,
+            "context" : "...westmost canton. The Hlaalu Councilor Crassius Curio has a splendid <mark>tier-top<\/mark> mansion here. The tiers below contain Hlaalu treasuries, records,...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "pirat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_I",
+        "docUri" : "librarium\/Corpse_Preparation_v_I.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pirates",
+            "weight" : "1",
+            "pos" : 368,
+            "context" : "...criminals for Necromantic study as a deterrent to the bandits and <mark>pirates<\/mark> that still threaten the Iliac Bay.",
+            "fid" : "content" } ] } ] }

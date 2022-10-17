@@ -1,0 +1,14 @@
+
+  { "stem" : "hacker",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "hackers",
+            "weight" : "1",
+            "pos" : 327,
+            "context" : "...precautions and bring some extra equipment. The best neck-<mark>hackers<\/mark> I know generally carry a bit of wadded cloth on the...",
+            "fid" : "content" } ] } ] }

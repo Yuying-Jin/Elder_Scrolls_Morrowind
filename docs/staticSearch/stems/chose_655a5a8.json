@@ -1,0 +1,14 @@
+
+  { "stem" : "chose",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chose",
+            "weight" : "1",
+            "pos" : 77,
+            "context" : "I am a councilor of House Hlaalu and <mark>chose<\/mark> to write this short guide for those who seek to understand...",
+            "fid" : "content" } ] } ] }

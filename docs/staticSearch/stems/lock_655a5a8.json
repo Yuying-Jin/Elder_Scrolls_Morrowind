@@ -1,0 +1,47 @@
+
+  { "stem" : "lock",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Book_of_Rest_and_Endings",
+        "docUri" : "librarium\/Book_of_Rest_and_Endings.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Lock",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "...Frozen in slavepast Rip from the wraithloom Sunder the lifeweave &gt;<mark>Lock<\/mark> tight in earthgrip Hold firm in gravefast",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "locks",
+            "weight" : "1",
+            "pos" : 236,
+            "context" : "...protect your own property by securing it with hidden chests, <mark>locks<\/mark>, and even traps. And when confrontation is unavoidable,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Honor_Among_Thieves",
+        "docUri" : "librarium\/Honor_Among_Thieves.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "locks",
+            "weight" : "1",
+            "pos" : 64,
+            "context" : "...to move undetected. You want to know about security -- <mark>locks<\/mark>, traps, and how to get around them. You want...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "locks",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...known before all his trouble, a sweet thing with curly <mark>locks<\/mark> and a joyous laugh named Benitah Gorgoth. Once when at...",
+            "fid" : "content" } ] } ] }

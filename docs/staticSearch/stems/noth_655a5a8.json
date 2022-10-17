@@ -1,0 +1,36 @@
+
+  { "stem" : "noth",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nothing",
+            "weight" : "1",
+            "pos" : 95,
+            "context" : "“I do <mark>nothing<\/mark>,” said Darothil with some measure of pride. “But in...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Nothing",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : "<mark>Nothing<\/mark> could be further from the truth.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "nothing",
+            "weight" : "1",
+            "pos" : 351,
+            "context" : "..., but when you're only anticipating one or two victims, <mark>nothing<\/mark> beats throwing a sack over the targets [sic] head...",
+            "fid" : "content" } ] } ] }

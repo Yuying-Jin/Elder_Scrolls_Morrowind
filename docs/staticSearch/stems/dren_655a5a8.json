@@ -1,0 +1,156 @@
+
+  { "stem" : "dren",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 1562,
+            "context" : "<mark>Dren<\/mark> Plantation" },
+          
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 1576,
+            "context" : "<mark>Dren<\/mark> Plantation, Dren's Villa" },
+          
+          { "form" : "Dren's",
+            "weight" : "1",
+            "pos" : 1578,
+            "context" : "Dren Plantation, <mark>Dren's<\/mark> Villa" },
+          
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 1586,
+            "context" : "<mark>Dren<\/mark>_Plantation,_Helvi's_Shack" },
+          
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 6524,
+            "context" : "Duke Vedam <mark>Dren<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 5,
+        "contexts" : 
+        [ 
+          { "form" : "dren",
+            "weight" : "1",
+            "pos" : 1731,
+            "context" : "<mark>dren<\/mark> plantation",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "dren",
+            "weight" : "1",
+            "pos" : 1745,
+            "context" : "<mark>dren<\/mark> plantation, dren's villa",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "dren's",
+            "weight" : "1",
+            "pos" : 1747,
+            "context" : "dren plantation, <mark>dren's<\/mark> villa",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "dren",
+            "weight" : "1",
+            "pos" : 1755,
+            "context" : "<mark>dren<\/mark> plantation, helvi's shack",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "dren",
+            "weight" : "1",
+            "pos" : 6633,
+            "context" : "duke vedam <mark>dren<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 140,
+            "context" : "...Mallam Ryon Council Actions In response to repeated protests from Duke <mark>Dren<\/mark> and representative of the other Great Houses, Telvanni Council reminded...",
+            "fid" : "content" },
+          
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 186,
+            "context" : ".... The council renews its objection to proposals placed before Duke <mark>Dren<\/mark> and the Grand Council concerning slavery and slave trading in Vvardenfell...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 12,
+            "context" : "<mark>Dren<\/mark> Plantation, Dren's Villa: Visitable? yes",
+            "fid" : "acq" },
+          
+          { "form" : "Dren's",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "Dren Plantation, <mark>Dren's<\/mark> Villa: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "...maritime trade. Castle Ebonheart is the home of Duke Vedam <mark>Dren<\/mark>, the district's ruler and Emperor's representative. Also located at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 16,
+            "context" : "<mark>Dren<\/mark> Plantation: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 20,
+            "context" : "<mark>Dren<\/mark> Plantation: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Dren",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "<mark>Dren<\/mark> Plantation, Helvi's Shack: Visitable? yes",
+            "fid" : "acq" } ] } ] }

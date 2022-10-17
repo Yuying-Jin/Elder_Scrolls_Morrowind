@@ -1,0 +1,36 @@
+
+  { "stem" : "crush",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crushed",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "'For I have <mark>crushed<\/mark> a world with my left hand,' he will say,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crushed",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...and white poppies together have magical properties. When they are <mark>crushed<\/mark> and mixed with the milk of the agile footed mountain goat...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "crushed",
+            "weight" : "1",
+            "pos" : 472,
+            "context" : "...most prized effects of potions, can be made only from <mark>crushed<\/mark> diamonds and bittergreen petals. Bittergreen is a red flowering plant...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,55 @@
+
+  { "stem" : "direnni",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "Direnni",
+            "weight" : "1",
+            "pos" : 19,
+            "context" : "Chimere, Master Sorcerer, Summoner, and <mark>Direnni<\/mark> retainer.",
+            "fid" : "Direnni" },
+          
+          { "form" : "Direnni",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "Chimere Graegyn was a retainer of the ambitious <mark>Direnni<\/mark> clan. The Direnni derived the bulk of their power from...",
+            "fid" : "content" },
+          
+          { "form" : "Direnni",
+            "weight" : "1",
+            "pos" : 27,
+            "context" : "...Graegyn was a retainer of the ambitious Direnni clan. The <mark>Direnni<\/mark> derived the bulk of their power from their traffickings with Daedra...",
+            "fid" : "content" },
+          
+          { "form" : "Direnni",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : ".... Chimere was perhaps the cleverest and most ambitious of the <mark>Direnni<\/mark> summoners. He dared to scheme against Lord Dagonn, and...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Direnni",
+            "weight" : "1",
+            "pos" : 5138,
+            "context" : "<mark>Direnni<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "direnni",
+            "weight" : "1",
+            "pos" : 5326,
+            "context" : "<mark>direnni<\/mark>",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] } ] } ] }

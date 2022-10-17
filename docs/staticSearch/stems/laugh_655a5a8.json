@@ -1,0 +1,59 @@
+
+  { "stem" : "laugh",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "laughed",
+            "weight" : "1",
+            "pos" : 256,
+            "context" : "S'Riizh <mark>laughed<\/mark>: \"Do you want a rock?\"",
+            "fid" : "content" },
+          
+          { "form" : "laughing",
+            "weight" : "1",
+            "pos" : 375,
+            "context" : "\"You can walk!\" he said, <mark>laughing<\/mark>. \"It's a miracle!\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "laughed",
+            "weight" : "1",
+            "pos" : 366,
+            "context" : "Imalyn <mark>laughed<\/mark> loudly, \"Can I see a demonstration sometime?\"",
+            "fid" : "content" },
+          
+          { "form" : "laughing",
+            "weight" : "1",
+            "pos" : 679,
+            "context" : "...the Plot and Plaster. He could see them now, Imalyn <mark>laughing<\/mark> and carrying on, Galsiah hushing him to avoid bringing undue attention...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "laugh",
+            "weight" : "1",
+            "pos" : 90,
+            "context" : "...your finery, but no place to go? Do you <mark>laugh<\/mark> and cry, but no longer feel? Do you wear...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "laugh",
+            "weight" : "1",
+            "pos" : 111,
+            "context" : "...trouble, a sweet thing with curly locks and a joyous <mark>laugh<\/mark> named Benitah Gorgoth. Once when at play he had pushed...",
+            "fid" : "content" } ] } ] }

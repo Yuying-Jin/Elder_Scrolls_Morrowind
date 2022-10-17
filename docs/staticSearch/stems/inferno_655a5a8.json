@@ -1,0 +1,20 @@
+
+  { "stem" : "inferno",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "inferno",
+            "weight" : "1",
+            "pos" : 454,
+            "context" : "...ball of blue flame for me.\" And he sat in the <mark>inferno<\/mark> of flame for twenty minutes before he left.",
+            "fid" : "content" },
+          
+          { "form" : "inferno",
+            "weight" : "1",
+            "pos" : 474,
+            "context" : "...a ball of blue flames for me.\" Oin sat in the <mark>inferno<\/mark> of blue fire for very nearly an hour before he left...",
+            "fid" : "content" } ] } ] }

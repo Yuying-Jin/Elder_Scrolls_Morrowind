@@ -1,0 +1,137 @@
+
+  { "stem" : "better",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 128,
+            "context" : "...quality of the goods, even if they deserve it. Much <mark>better<\/mark> to admire the quality of workmanship, but comment that, regretfully...",
+            "fid" : "content" },
+          
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 269,
+            "context" : "...in the region, perhaps at a larger town at a <mark>better<\/mark> price. Too late, I discovered I was wrong,...",
+            "fid" : "content" },
+          
+          { "form" : "Better",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "...shop weeks later, the item I wanted was gone. <mark>Better<\/mark> to get a great purchase at a decent price and discover...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 298,
+            "context" : "...raw. As the days and weeks went by, Harithoel got <mark>better<\/mark> and better until he was able to strike quickly and with...",
+            "fid" : "content" },
+          
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 299,
+            "context" : "...As the days and weeks went by, Harithoel got better and <mark>better<\/mark> until he was able to strike quickly and with great accuracy...",
+            "fid" : "content" },
+          
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 452,
+            "context" : "...occurred to S'Riizh that a fortune divided by one was even <mark>better<\/mark>.\" S'Riizh pulled the spear out of Harithoel's skull. The...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
+        "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 259,
+            "context" : "...honest work, but Vivec in his later years found a <mark>better<\/mark> one and so gave this secret to his people.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 537,
+            "context" : "...Also, almoners with personal wealth are in a position to <mark>better<\/mark> serve the cult. Those interested should speak to Iulus Truptor...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 23,
+            "context" : "...in peace and in war. No houseman ever served you <mark>better<\/mark>, or more faithfully. Much that I did was at...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Better",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "<mark>Better<\/mark> to suffer a wrong than to do one.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 379,
+            "context" : "...those uncomfortable about competing in such a ruthless atmosphere, might <mark>better<\/mark> employ their time and efforts in the Mages Guild.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Better",
+            "weight" : "1",
+            "pos" : 149,
+            "context" : "<mark>Better<\/mark> to suffer a wrong than to do one.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 258,
+            "context" : "...war. Vivec thanked them, but said that it would be <mark>better<\/mark> to dedicate a monument not only to the glorious heroes,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "better",
+            "weight" : "1",
+            "pos" : 132,
+            "context" : "...Tel Aruhn knew enough not to listen in, but she knew <mark>better<\/mark> than to take any chances.",
+            "fid" : "content" } ] } ] }

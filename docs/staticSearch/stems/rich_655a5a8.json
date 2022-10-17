@@ -1,0 +1,37 @@
+
+  { "stem" : "rich",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rich",
+            "weight" : "1",
+            "pos" : 813,
+            "context" : "...The regular rain and dark soils of the Grazelands produce the <mark>rich<\/mark> grazing for Ashlander herds that give the region its name....",
+            "fid" : "content" },
+          
+          { "form" : "rich",
+            "weight" : "1",
+            "pos" : 1150,
+            "context" : "...been granted an Imperial monopoly to remove raw ebony from the <mark>rich<\/mark> deposits here. Caldera has the appearance and flavor of a Western...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "rich",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "\"So we'll either be <mark>rich<\/mark> or dead,\" said S'Riizh. \"That's a comfort.\"",
+            "fid" : "content" },
+          
+          { "form" : "rich",
+            "weight" : "1",
+            "pos" : 362,
+            "context" : "...only going to be saved, they were going to be <mark>rich<\/mark>, just as Harithoel had said.",
+            "fid" : "content" } ] } ] }

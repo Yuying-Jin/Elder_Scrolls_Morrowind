@@ -1,0 +1,25 @@
+
+  { "stem" : "will",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "willing",
+            "weight" : "1",
+            "pos" : 39,
+            "context" : "All those who are earnest, and who are <mark>willing<\/mark> to submit to the wisdom of Blessed Almsivi, Triune Grace...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "willingly",
+            "weight" : "1",
+            "pos" : 224,
+            "context" : "...disease is little understood. Some have suggested that victims may <mark>willingly<\/mark> submit themselves to the will of a vampire, but no...",
+            "fid" : "content" } ] } ] }

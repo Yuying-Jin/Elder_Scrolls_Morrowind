@@ -1,0 +1,25 @@
+
+  { "stem" : "covert",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "covert",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...steal from another member, whether by open theft or by <mark>covert<\/mark> pickpocketing. It is forbidden to trespass upon the private property...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "covert",
+            "weight" : "1",
+            "pos" : 547,
+            "context" : "...group parted ways. The only person who knew the most <mark>covert<\/mark> route through the city's sewer system, Lledos, slipped in...",
+            "fid" : "content" } ] } ] }

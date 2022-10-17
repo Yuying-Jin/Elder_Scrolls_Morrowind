@@ -1,0 +1,14 @@
+
+  { "stem" : "birthplac",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "\"birthplace",
+            "weight" : "1",
+            "pos" : 429,
+            "context" : "...garrison at Bal Ur, a pilgrimage site known as the <mark>\"birthplace<\/mark> of Molag Bal.\"",
+            "fid" : "content" } ] } ] }

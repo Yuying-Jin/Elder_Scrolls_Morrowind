@@ -1,0 +1,14 @@
+
+  { "stem" : "squat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "squat",
+            "weight" : "1",
+            "pos" : 341,
+            "context" : "...lo leaf, and kwama cuttle. luminous russula is a <mark>squat<\/mark>, mottled-brown-and-green toadstool mushroom of the Bitter...",
+            "fid" : "content" } ] } ] }

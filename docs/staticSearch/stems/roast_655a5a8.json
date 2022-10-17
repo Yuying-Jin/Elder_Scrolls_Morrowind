@@ -1,0 +1,14 @@
+
+  { "stem" : "roast",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "roasting",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "How black my heart, <mark>roasting<\/mark> fiercely?",
+            "fid" : "content" } ] } ] }

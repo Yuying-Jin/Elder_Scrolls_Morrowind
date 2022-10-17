@@ -1,0 +1,20 @@
+
+  { "stem" : "25",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_For_my_Gods_and_Emperor",
+        "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "25",
+            "weight" : "1",
+            "pos" : 407,
+            "context" : "...poisons, and restore damaged attributes. Non-members pay <mark>25<\/mark> drakes. Non-members pay 25 drakes. Newer members...",
+            "fid" : "content" },
+          
+          { "form" : "25",
+            "weight" : "1",
+            "pos" : 413,
+            "context" : "...Non-members pay 25 drakes. Non-members pay <mark>25<\/mark> drakes. Newer members pay 10 drakes, while higher-...",
+            "fid" : "content" } ] } ] }

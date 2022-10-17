@@ -1,0 +1,14 @@
+
+  { "stem" : "pinkish",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "pinkish",
+            "weight" : "1",
+            "pos" : 265,
+            "context" : "...shrub of the Ascadian Isles, known for its small, <mark>pinkish<\/mark>-purple flowers. Scuttle, Vvardenfell's favorite local dish,...",
+            "fid" : "content" } ] } ] }

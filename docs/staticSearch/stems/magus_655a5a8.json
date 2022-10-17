@@ -1,0 +1,14 @@
+
+  { "stem" : "magus",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Brown_Book_of_3E_426",
+        "docUri" : "librarium\/Brown_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Magus",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "...Vvardenfell District, Imperial Era 426 Archmagister Gothren, Lord High <mark>Magus<\/mark> of Telvanni Council, Vvardenfell District, Tower of Tel Aruhn...",
+            "fid" : "content" } ] } ] }

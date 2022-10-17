@@ -1,0 +1,25 @@
+
+  { "stem" : "presenc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "presence",
+            "weight" : "1",
+            "pos" : 262,
+            "context" : "...Tribunal Temple. Only the most devout are admitted to the <mark>presence<\/mark> of Lord Vivec, and only at his initiation. Beneath...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "presence",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "Walk always in the <mark>presence<\/mark> of your Lords.",
+            "fid" : "content" } ] } ] }

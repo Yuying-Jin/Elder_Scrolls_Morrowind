@@ -1,0 +1,20 @@
+
+  { "stem" : "stain",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "stained",
+            "weight" : "1",
+            "pos" : 218,
+            "context" : "...away from you. There is a risk here of becoming blood <mark>stained<\/mark> if you don't move the head quickly enough. If you're...",
+            "fid" : "content" },
+          
+          { "form" : "staining",
+            "weight" : "1",
+            "pos" : 274,
+            "context" : "...while still holding him from behind, and the risk of <mark>staining<\/mark> one's clothes with blood is practically nonexistant.",
+            "fid" : "content" } ] } ] }

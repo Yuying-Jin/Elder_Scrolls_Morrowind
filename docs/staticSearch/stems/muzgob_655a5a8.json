@@ -1,0 +1,37 @@
+
+  { "stem" : "muzgob",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Muzgob",
+            "weight" : "1",
+            "pos" : 7619,
+            "context" : "Sharn gra-<mark>Muzgob<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "muzgob",
+            "weight" : "1",
+            "pos" : 7059,
+            "context" : "sharn gra <mark>muzgob<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Muzgob's",
+            "weight" : "1",
+            "pos" : 14,
+            "context" : "[Sharn gra-<mark>Muzgob's<\/mark> personal copy.]",
+            "fid" : "Sharngra-Muzgob" } ] } ] }

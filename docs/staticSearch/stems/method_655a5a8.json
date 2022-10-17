@@ -1,0 +1,53 @@
+
+  { "stem" : "method",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "methods",
+            "weight" : "1",
+            "pos" : 220,
+            "context" : "..., the so-called Prince of Plots, provided the revolutionary <mark>methods<\/mark> needed to bring about this transformation, Mephala was the shadowy...",
+            "fid" : "content" },
+          
+          { "form" : "methods",
+            "weight" : "1",
+            "pos" : 227,
+            "context" : "...about this transformation, Mephala was the shadowy implementer of those <mark>methods<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "method",
+            "weight" : "1",
+            "pos" : 121,
+            "context" : "However, creating a mere zombie is a <mark>method<\/mark> best left to lazy or desperate practitioners. With only a...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "methods",
+            "weight" : "1",
+            "pos" : 80,
+            "context" : "...strengthen a skeleton significantly. Only practice will reveal the best <mark>methods<\/mark> of binding and reinforcing the skeletal servant. Amateurs often make...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "method",
+            "weight" : "1",
+            "pos" : 468,
+            "context" : "Imalyn opened the vault in his unique and systematic <mark>method<\/mark>. As the tumblers fell beneath his fingers, he softly...",
+            "fid" : "content" } ] } ] }

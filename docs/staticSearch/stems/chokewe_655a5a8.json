@@ -1,0 +1,71 @@
+
+  { "stem" : "chokewe",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "chokeweed",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "...: crab meat, bread, small kwama egg, and <mark>chokeweed<\/mark>. Crabmeat is taken from the mud crab, commonly found...",
+            "fid" : "content" },
+          
+          { "form" : "chokeweed",
+            "weight" : "1",
+            "pos" : 166,
+            "context" : "...smaller eggs retain properties lost in later states of gestation. <mark>chokeweed<\/mark> is a tough shrub growing in the rocky highlands of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "chokeweed",
+            "weight" : "1",
+            "pos" : 81,
+            "context" : "...grown an impressive garden of willow anther, gold kanet, <mark>chokeweed<\/mark>, white bloatroot, and trama shrubs. He had also...",
+            "fid" : "content" },
+          
+          { "form" : "chokeweed",
+            "weight" : "1",
+            "pos" : 405,
+            "context" : "...\"But in return, I want your next season's worth of <mark>chokeweed<\/mark>, all to myself.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chokeweed",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "<mark>chokeweed<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chokeweed",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "<mark>chokeweed<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "chokeweed",
+            "weight" : "1",
+            "pos" : 596,
+            "context" : "...at the city gates, making a laconic lunch of the <mark>chokeweed<\/mark> shrub to which it had been leashed.",
+            "fid" : "content" } ] } ] }

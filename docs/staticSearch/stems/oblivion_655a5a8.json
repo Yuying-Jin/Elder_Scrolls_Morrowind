@@ -1,0 +1,70 @@
+
+  { "stem" : "oblivion",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Oblivion",
+            "weight" : "1",
+            "pos" : 2833,
+            "context" : "<mark>Oblivion<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "oblivion",
+            "weight" : "1",
+            "pos" : 3002,
+            "context" : "<mark>oblivion<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Oblivion",
+            "weight" : "1",
+            "pos" : 52,
+            "context" : "...won. When his trick succeeded, Dagon was cast into <mark>Oblivion<\/mark>. However, in the instant of his betrayal, Dagon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Oblivion",
+            "weight" : "1",
+            "pos" : 316,
+            "context" : "..., and I can prove that Akatosh, Nirn, and <mark>Oblivion<\/mark> are one,\" said Warfel, writing out the mathematical formula...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Oblivion",
+            "weight" : "1",
+            "pos" : 159,
+            "context" : "...tricked the moon Baar Dau into forsaking its appointed path through <mark>Oblivion<\/mark>. The Mad Star inspired the moon to hurl itself upon...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Oblivion",
+            "weight" : "1",
+            "pos" : 317,
+            "context" : "...\"Baranat, I will make you unyielding as the heart of <mark>Oblivion<\/mark>.\"",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,20 @@
+
+  { "stem" : "jet",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "jets",
+            "weight" : "1",
+            "pos" : 235,
+            "context" : "...avoid the blood that tends to spurt out in three foot <mark>jets<\/mark> when someone is stabbed while alive.",
+            "fid" : "content" },
+          
+          { "form" : "jets",
+            "weight" : "1",
+            "pos" : 308,
+            "context" : "...and while there's quite a bit of blood, it all <mark>jets<\/mark> forward away from you.",
+            "fid" : "content" } ] } ] }

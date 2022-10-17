@@ -1,0 +1,36 @@
+
+  { "stem" : "deal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deal",
+            "weight" : "1",
+            "pos" : 192,
+            "context" : "...must be carefully balanced against the more tangible coins in any <mark>deal<\/mark>. Theft and murder are bad for business. You can...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "dealing",
+            "weight" : "1",
+            "pos" : 114,
+            "context" : ".... I shall be neither cruel nor arbitrary, for fair <mark>dealing<\/mark> earns the love, trust, and respect of our people...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "deal",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...society, one that he had been ill-equipped to <mark>deal<\/mark> with. They were poor.",
+            "fid" : "content" } ] } ] }

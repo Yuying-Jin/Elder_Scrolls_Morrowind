@@ -1,0 +1,14 @@
+
+  { "stem" : "mobil",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_ordo_legionis",
+        "docUri" : "librarium\/ordo_legionis.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "mobilized",
+            "weight" : "1",
+            "pos" : 49,
+            "context" : "...Empire. At need, the legion garrisons can be swiftly <mark>mobilized<\/mark> to protect against invasions or internal disorders, but in Vvardenfell...",
+            "fid" : "content" } ] } ] }

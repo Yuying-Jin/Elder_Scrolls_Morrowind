@@ -1,0 +1,75 @@
+
+  { "stem" : "reveal",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "revealed",
+            "weight" : "1",
+            "pos" : 613,
+            "context" : "...blows effortlessly with a shield for ten minutes, and then <mark>revealed<\/mark> afterwards that he had picketpocketed the young man's purse.",
+            "fid" : "content" },
+          
+          { "form" : "revealed",
+            "weight" : "1",
+            "pos" : 641,
+            "context" : "...minutes of blocking the man's blows with his shield, he <mark>revealed<\/mark> that he had pickpocketed Funcrazot Priif's purse.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Reveal",
+            "weight" : "1",
+            "pos" : 83,
+            "context" : "To the Scholars: Humiliate the priests of Arkay. <mark>Reveal<\/mark> the primitive burial customs to be mere superstition. Befriend kings...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Corpse_Preparation_v_ll",
+        "docUri" : "librarium\/Corpse_Preparation_v_ll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reveal",
+            "weight" : "1",
+            "pos" : 78,
+            "context" : "...an amateur can strengthen a skeleton significantly. Only practice will <mark>reveal<\/mark> the best methods of binding and reinforcing the skeletal servant....",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_progress_of_Truth",
+        "docUri" : "librarium\/progress_of_Truth.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reveal",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...the Tribunal in a heroic light, while the hidden writings <mark>reveal<\/mark> secrets, untruths, inconsistencies, conflicting accounts and varying interpretations...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Redoran",
+        "docUri" : "librarium\/Redoran.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reveal",
+            "weight" : "1",
+            "pos" : 126,
+            "context" : "...the Tribunal in a heroic light, while the hidden writings <mark>reveal<\/mark> secrets, untruths, inconsistencies, conflicting accounts and varying interpretations...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "reveal",
+            "weight" : "1",
+            "pos" : 277,
+            "context" : "...disease. According to legend, the vampire Hunters refuse to <mark>reveal<\/mark> the cure to the disease for fear that it may encourage...",
+            "fid" : "content" } ] } ] }

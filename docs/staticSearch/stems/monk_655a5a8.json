@@ -1,0 +1,14 @@
+
+  { "stem" : "monk",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "monks",
+            "weight" : "1",
+            "pos" : 197,
+            "context" : "...along with a large staff of priests, healers, and <mark>monks<\/mark>. Pilgrims travel from all over Morrowind to view the High...",
+            "fid" : "content" } ] } ] }

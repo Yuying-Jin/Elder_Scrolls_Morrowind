@@ -1,0 +1,36 @@
+
+  { "stem" : "disturb",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "disturbances",
+            "weight" : "1",
+            "pos" : 264,
+            "context" : "...damage and loss of life. The council warned that such <mark>disturbances<\/mark> might spread to Ald'ruhn if the heavy burden of Imperial taxes...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "disturbances",
+            "weight" : "1",
+            "pos" : 250,
+            "context" : ".... However, during incubation, some victims have reported sleep <mark>disturbances<\/mark> and troubling dreams. After symptoms are exhibited, however,...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Yellow_Book_of_3E_426",
+        "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "disturbances",
+            "weight" : "1",
+            "pos" : 202,
+            "context" : "...stern sentences by the magistrates. The council laments the unfortunate <mark>disturbances<\/mark> of the public peace resulting from the increasingly aggressive competition between...",
+            "fid" : "content" } ] } ] }

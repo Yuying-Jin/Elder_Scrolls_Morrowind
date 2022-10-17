@@ -1,0 +1,25 @@
+
+  { "stem" : "bloodi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Balladeer's_Fakebook",
+        "docUri" : "librarium\/The_Balladeer's_Fakebook.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Bloody",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "Beans, <mark>Bloody<\/mark> Beans",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bloody",
+            "weight" : "1",
+            "pos" : 60,
+            "context" : "...Warrior-Poet of the True People, paradoxically beautiful and <mark>bloody<\/mark>. Vivec is an artistic violence. Vivec is represented in...",
+            "fid" : "content" } ] } ] }

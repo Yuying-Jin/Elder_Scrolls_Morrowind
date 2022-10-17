@@ -1,0 +1,143 @@
+
+  { "stem" : "tureynul",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 4169,
+            "context" : "<mark>Tureynulal<\/mark>" },
+          
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 4208,
+            "context" : "<mark>Tureynulal<\/mark>, Kagrenac's Library" },
+          
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 4221,
+            "context" : "<mark>Tureynulal<\/mark>,_Kagrenac's_Library" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "tureynulal",
+            "weight" : "1",
+            "pos" : 4315,
+            "context" : "<mark>tureynulal<\/mark>",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "tureynulal",
+            "weight" : "1",
+            "pos" : 4354,
+            "context" : "<mark>tureynulal<\/mark>, kagrenac's library",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_Blasphemous_Revenants",
+        "docUri" : "librarium\/Blasphemous_Revenants.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 17,
+            "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_life_n_service_EX",
+        "docUri" : "librarium\/life_n_service_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 18,
+            "context" : "<mark>Tureynulal<\/mark>: Visitable? ",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 68,
+            "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_special_Flora_of_Tamriel",
+        "docUri" : "librarium\/special_Flora_of_Tamriel.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 104,
+            "context" : "<mark>Tureynulal<\/mark>, Kagrenac's Library: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 50,
+            "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 66,
+            "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
+            "fid" : "acq" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Tureynulal",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "<mark>Tureynulal<\/mark>, Kagrenac's Library: Visitable? yes",
+            "fid" : "acq" } ] } ] }

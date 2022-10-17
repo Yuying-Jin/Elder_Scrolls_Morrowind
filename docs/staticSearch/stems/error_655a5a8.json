@@ -1,0 +1,14 @@
+
+  { "stem" : "error",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Fellowship_of_the_Temple",
+        "docUri" : "librarium\/Fellowship_of_the_Temple.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "error",
+            "weight" : "1",
+            "pos" : 170,
+            "context" : "...their followers. Like stern parents, they punish sin and <mark>error<\/mark>. Like generous relatives, they share their bounty among the...",
+            "fid" : "content" } ] } ] }

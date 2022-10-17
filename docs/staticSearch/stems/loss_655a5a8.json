@@ -1,0 +1,14 @@
+
+  { "stem" : "loss",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "loss",
+            "weight" : "1",
+            "pos" : 260,
+            "context" : "...revolt in Balmora was put down after significant property damage and <mark>loss<\/mark> of life. The council warned that such disturbances might spread...",
+            "fid" : "content" } ] } ] }

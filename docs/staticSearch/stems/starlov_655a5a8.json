@@ -1,0 +1,133 @@
+
+  { "stem" : "starlov",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 9,
+        "contexts" : 
+        [ 
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 127,
+            "context" : "<mark>Starlover's<\/mark> Log" },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 2444,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 2",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 2451,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 4841,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 5081,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1",
+            "fid" : "group",
+            "in" : 
+            [ "ssCtx4" ] },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 6541,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 7148,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 5",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "starlover",
+            "weight" : "1",
+            "pos" : 7475,
+            "context" : "samar <mark>starlover<\/mark>",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 7476,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1",
+            "fid" : "persons",
+            "in" : 
+            [ "ssCtx5" ] } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 8,
+        "contexts" : 
+        [ 
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 2278,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 2" },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 2285,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1" },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 4711,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1" },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 4946,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1" },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 6436,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1" },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 7023,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 5" },
+          
+          { "form" : "Starlover",
+            "weight" : "1",
+            "pos" : 7362,
+            "context" : "Samar <mark>Starlover<\/mark>" },
+          
+          { "form" : "Starlover's",
+            "weight" : "1",
+            "pos" : 7363,
+            "context" : "<mark>Starlover's<\/mark> Log, count: 1" } ] },
+      
+      { "docId" : "librarium_starlovers_log",
+        "docUri" : "librarium\/starlovers_log.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Starlover",
+            "weight" : "1",
+            "pos" : 108,
+            "context" : "...Hope for the living is lost. My name is Samar <mark>Starlover<\/mark>. Tell my sister I am dead, and if all...",
+            "fid" : "content" } ] } ] }

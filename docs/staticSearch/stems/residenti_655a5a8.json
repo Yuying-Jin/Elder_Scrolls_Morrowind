@@ -1,0 +1,42 @@
+
+  { "stem" : "residenti",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Guide_to_Vivec",
+        "docUri" : "librarium\/Guide_to_Vivec.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "residential",
+            "weight" : "1",
+            "pos" : 56,
+            "context" : "..., work, and shop in the Great House compounds and <mark>residential<\/mark> cantons. But most of all, this is Lord Vivec's holy...",
+            "fid" : "content" },
+          
+          { "form" : "Residential",
+            "weight" : "1",
+            "pos" : 483,
+            "context" : " St. Delyn and St. Olms <mark>Residential<\/mark> Cantons",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Aldruhn",
+        "docUri" : "librarium\/Guide_to_Aldruhn.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "residential",
+            "weight" : "1",
+            "pos" : 82,
+            "context" : "...on high ground to the east, and surrounded by a <mark>residential<\/mark> section.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guide_to_Vvardenfell",
+        "docUri" : "librarium\/Guide_to_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "residential",
+            "weight" : "1",
+            "pos" : 281,
+            "context" : "..., work, and shop in the Great House compounds and <mark>residential<\/mark> cantons.",
+            "fid" : "content" } ] } ] }

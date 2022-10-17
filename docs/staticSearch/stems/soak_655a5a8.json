@@ -1,0 +1,25 @@
+
+  { "stem" : "soak",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soak",
+            "weight" : "1",
+            "pos" : 142,
+            "context" : "The first step to creating a mummified servant is to <mark>soak<\/mark> the decaying corpse in a bath of salt or natron for...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soaked",
+            "weight" : "1",
+            "pos" : 179,
+            "context" : "..., we don't want people seeing a bunch of blood-<mark>soaked<\/mark> butchers running through the streets. Even in Tel Aruhn,...",
+            "fid" : "content" } ] } ] }

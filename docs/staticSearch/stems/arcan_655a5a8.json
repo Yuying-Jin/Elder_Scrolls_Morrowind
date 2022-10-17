@@ -1,0 +1,31 @@
+
+  { "stem" : "arcan",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "arcane",
+            "weight" : "1",
+            "pos" : 75,
+            "context" : "...most trusted of mages, and make secure this ordering through <mark>arcane<\/mark> codes and keys to confound even the most clever students....",
+            "fid" : "content" },
+          
+          { "form" : "arcane",
+            "weight" : "1",
+            "pos" : 105,
+            "context" : "...banked, sanctioning their engendering only to the reconsecration of essential <mark>arcane<\/mark> engines and templates, and then only by common assent of...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "arcane",
+            "weight" : "1",
+            "pos" : 131,
+            "context" : "...themselves indebted to us. The House Telvanni may know many <mark>arcane<\/mark> secrets, but they fight among themselves more than against each...",
+            "fid" : "content" } ] } ] }

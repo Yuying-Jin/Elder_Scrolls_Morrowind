@@ -1,0 +1,14 @@
+
+  { "stem" : "job",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "job",
+            "weight" : "1",
+            "pos" : 376,
+            "context" : "...\"Very soon,\" said Lledos. \"If Galsiah has done her <mark>job<\/mark>.\"",
+            "fid" : "content" } ] } ] }

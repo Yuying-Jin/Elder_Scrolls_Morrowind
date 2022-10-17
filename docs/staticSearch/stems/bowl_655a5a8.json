@@ -1,0 +1,14 @@
+
+  { "stem" : "bowl",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Redoran_cooking_secrets",
+        "docUri" : "librarium\/Redoran_cooking_secrets.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "bowl",
+            "weight" : "1",
+            "pos" : 36,
+            "context" : "Beat eggs, wickwheat, and Scuttle in a large <mark>bowl<\/mark>. Slowly stir in crabmeat and bittergreen. Bake covered in...",
+            "fid" : "content" } ] } ] }

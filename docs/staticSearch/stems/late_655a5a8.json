@@ -1,0 +1,25 @@
+
+  { "stem" : "late",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_buyn_game_EX",
+        "docUri" : "librarium\/buyn_game_EX.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "late",
+            "weight" : "1",
+            "pos" : 271,
+            "context" : "...perhaps at a larger town at a better price. Too <mark>late<\/mark>, I discovered I was wrong, and when I returned...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "late",
+            "weight" : "1",
+            "pos" : 726,
+            "context" : "...many men interested in my money and the money of my <mark>late<\/mark> husband. The truth is that I've never forgotten the young...",
+            "fid" : "content" } ] } ] }

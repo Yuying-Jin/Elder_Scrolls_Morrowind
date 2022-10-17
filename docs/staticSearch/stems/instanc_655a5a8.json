@@ -1,0 +1,25 @@
+
+  { "stem" : "instanc",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Corpse_Preparation_v_lll",
+        "docUri" : "librarium\/Corpse_Preparation_v_lll.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "instance",
+            "weight" : "1",
+            "pos" : 72,
+            "context" : "...tips that a young Necromancer might want to know. For <mark>instance<\/mark>, a decayed servant may be raised many times, even...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Tal_Marog_Kers_Researches",
+        "docUri" : "librarium\/Tal_Marog_Kers_Researches.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "instance",
+            "weight" : "1",
+            "pos" : 302,
+            "context" : "...is not unlimited, and that certain enchanted items -- for <mark>instance<\/mark>, the Armor of the Savior's Hide, forged by Malacath...",
+            "fid" : "content" } ] } ] }

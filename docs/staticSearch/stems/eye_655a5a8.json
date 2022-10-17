@@ -1,0 +1,109 @@
+
+  { "stem" : "eye",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 3,
+        "contexts" : 
+        [ 
+          { "form" : "eyes",
+            "weight" : "1",
+            "pos" : 799,
+            "context" : "...from a nightmare. For a second after he opened his <mark>eyes<\/mark>, he thought he could still hear Imalyn's voice nearby,...",
+            "fid" : "content" },
+          
+          { "form" : "eyes",
+            "weight" : "1",
+            "pos" : 833,
+            "context" : "...bedroom window in ribbons, catching dust. He closed his <mark>eyes<\/mark>.",
+            "fid" : "content" },
+          
+          { "form" : "eyes",
+            "weight" : "1",
+            "pos" : 848,
+            "context" : "...The smell of stoneflower filled his nose and he opened his <mark>eyes<\/mark>. Only a little of the afternoon sunlight could pierce the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_the_book_of_dawn_n_dusk",
+        "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "eye",
+            "weight" : "1",
+            "pos" : 135,
+            "context" : "Engrave upon thy <mark>eye<\/mark> the image of injustice.",
+            "fid" : "content" },
+          
+          { "form" : "Eyes",
+            "weight" : "1",
+            "pos" : 214,
+            "context" : "Three Hands, three Hearts, three <mark>Eyes<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eyes",
+            "weight" : "1",
+            "pos" : 174,
+            "context" : "...no longer a blood-seeking beast of teeth and empty <mark>eyes<\/mark>.\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Reflections_on_Cult_Worship",
+        "docUri" : "librarium\/Reflections_on_Cult_Worship.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eye",
+            "weight" : "1",
+            "pos" : 311,
+            "context" : "...all they think and do is under the ever-watchful <mark>eye<\/mark> of the Tribunal and family ancestor spirits....\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Saryonis_Sermons_Manuscript",
+        "docUri" : "librarium\/Saryonis_Sermons_Manuscript.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eye",
+            "weight" : "1",
+            "pos" : 35,
+            "context" : "Engrave upon thy <mark>eye<\/mark> the image of injustice.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_silence",
+        "docUri" : "librarium\/silence.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eyes",
+            "weight" : "1",
+            "pos" : 182,
+            "context" : "...as glass can bend light. He had Silverthorn close his <mark>eyes<\/mark> while he tapped the side of his glass, making him...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eye",
+            "weight" : "1",
+            "pos" : 112,
+            "context" : "...and the joy of the seeker. The blood of the <mark>eye<\/mark> and the blood of the gate. The joy of the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Prayers_of_Baranat",
+        "docUri" : "librarium\/The_Prayers_of_Baranat.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "eyes",
+            "weight" : "1",
+            "pos" : 435,
+            "context" : "...he was preparing his Killing Blow, he suddenly stopped, <mark>eyes<\/mark> wide open. The blood drained from his face, and...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,25 @@
+
+  { "stem" : "felt",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "felt",
+            "weight" : "1",
+            "pos" : 207,
+            "context" : "\"Oh, well, Master Neloth <mark>felt<\/mark> similiarly [sic] that --\"",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "felt",
+            "weight" : "1",
+            "pos" : 172,
+            "context" : "...springs under the island, just sand and rock. S'Riizh <mark>felt<\/mark> panic seizing his soul, until he saw the small,...",
+            "fid" : "content" } ] } ] }

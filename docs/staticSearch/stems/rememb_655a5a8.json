@@ -1,0 +1,58 @@
+
+  { "stem" : "rememb",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Grasping_Fortune",
+        "docUri" : "librarium\/Grasping_Fortune.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remember",
+            "weight" : "1",
+            "pos" : 158,
+            "context" : "..., but when the money runs dry, will the people <mark>remember<\/mark>? The Dres know how to make money, but they...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Guylaines_Archetecture",
+        "docUri" : "librarium\/Guylaines_Archetecture.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remember",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "...thing has been done. For example, the observer must <mark>remember<\/mark> the initial position of a thing, and also the new...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowind_msg_Dagoth_Ur",
+        "docUri" : "librarium\/morrowind_msg_Dagoth_Ur.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remembering",
+            "weight" : "1",
+            "pos" : 46,
+            "context" : " But, <mark>remembering<\/mark> our old friendship, I would forgive you, and raise you...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remember",
+            "weight" : "1",
+            "pos" : 219,
+            "context" : " \"Two days ago, yes. I <mark>remember<\/mark> that he said there have been strained relations between you two...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vivec_and_Mephala",
+        "docUri" : "librarium\/Vivec_and_Mephala.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "remember",
+            "weight" : "1",
+            "pos" : 110,
+            "context" : "...and familiar to Westerners. However, it is important to <mark>remember<\/mark> that Vivec is also known to the Dunmer as the transcendent...",
+            "fid" : "content" } ] } ] }

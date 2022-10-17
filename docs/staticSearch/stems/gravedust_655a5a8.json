@@ -1,0 +1,43 @@
+
+  { "stem" : "gravedust",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_The_Alchemists_Formulary",
+        "docUri" : "librarium\/The_Alchemists_Formulary.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "gravedust",
+            "weight" : "1",
+            "pos" : 178,
+            "context" : "To cure common diseases, combine <mark>gravedust<\/mark> and green lichen. gravedust is spirit-affinitive dust taken...",
+            "fid" : "content" },
+          
+          { "form" : "gravedust",
+            "weight" : "1",
+            "pos" : 181,
+            "context" : "...To cure common diseases, combine gravedust and green lichen. <mark>gravedust<\/mark> is spirit-affinitive dust taken from remains buried in consecrated...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gravedust",
+            "weight" : "1",
+            "pos" : 249,
+            "context" : "<mark>gravedust<\/mark>" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "gravedust",
+            "weight" : "1",
+            "pos" : 430,
+            "context" : "<mark>gravedust<\/mark>",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] } ] }

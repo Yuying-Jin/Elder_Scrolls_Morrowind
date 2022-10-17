@@ -1,0 +1,14 @@
+
+  { "stem" : "prod",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "prodded",
+            "weight" : "1",
+            "pos" : 648,
+            "context" : "As he <mark>prodded<\/mark> his mount forward and the sun began rising, Sathis pictured...",
+            "fid" : "content" } ] } ] }

@@ -1,0 +1,14 @@
+
+  { "stem" : "risen",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Unnamed_Book",
+        "docUri" : "librarium\/Unnamed_Book.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "risen",
+            "weight" : "1",
+            "pos" : 715,
+            "context" : "The sun was fully <mark>risen<\/mark> when Sathis reached the stables of his house on the outskirts...",
+            "fid" : "content" } ] } ] }

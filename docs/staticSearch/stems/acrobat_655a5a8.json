@@ -1,0 +1,71 @@
+
+  { "stem" : "acrobat",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Realizations_of_Acrobacy",
+        "docUri" : "librarium\/Realizations_of_Acrobacy.html",
+        "score" : 4,
+        "contexts" : 
+        [ 
+          { "form" : "acrobats",
+            "weight" : "1",
+            "pos" : 29,
+            "context" : "Master Gothren agreed to see the <mark>acrobats<\/mark> because he needed entertaining. For months now, he had been...",
+            "fid" : "content" },
+          
+          { "form" : "acrobatic",
+            "weight" : "1",
+            "pos" : 86,
+            "context" : "An <mark>acrobatic<\/mark> distraction would be a welcome relief.",
+            "fid" : "content" },
+          
+          { "form" : "acrobat",
+            "weight" : "1",
+            "pos" : 97,
+            "context" : "...can your troupe perform?\" asked the wizard to the lead <mark>acrobat<\/mark>, Rhunen Zebavi.",
+            "fid" : "content" },
+          
+          { "form" : "acrobats",
+            "weight" : "1",
+            "pos" : 428,
+            "context" : " \"I confess, I never associated brave actions with traveling <mark>acrobats<\/mark>,\" said Gothren.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Four_Suitors_of_Benitah",
+        "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "acrobat",
+            "weight" : "1",
+            "pos" : 517,
+            "context" : "...to marry, but a man of agility, a nimble <mark>acrobat<\/mark>. The greatest in all Morrowind.\"",
+            "fid" : "content" },
+          
+          { "form" : "acrobat",
+            "weight" : "1",
+            "pos" : 591,
+            "context" : "...his regular exercises. Oin cast his spell and approached the <mark>acrobat<\/mark>.",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_im_my_own_grandpa",
+        "docUri" : "librarium\/im_my_own_grandpa.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Acrobat",
+            "weight" : "1",
+            "pos" : 41,
+            "context" : "an Orc <mark>Acrobat<\/mark>",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Black_Glove",
+        "docUri" : "librarium\/The_Black_Glove.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "acrobatic",
+            "weight" : "1",
+            "pos" : 71,
+            "context" : "...fire. Light armor protects them from harm, and the <mark>acrobatic<\/mark> discipline finds for them the unseen and unlooked-for path....",
+            "fid" : "content" } ] } ] }

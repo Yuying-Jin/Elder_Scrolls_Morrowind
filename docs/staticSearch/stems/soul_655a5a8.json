@@ -1,0 +1,120 @@
+
+  { "stem" : "soul",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Galur_Rithari_Papers",
+        "docUri" : "librarium\/Galur_Rithari_Papers.html",
+        "score" : 2,
+        "contexts" : 
+        [ 
+          { "form" : "soul",
+            "weight" : "1",
+            "pos" : 109,
+            "context" : "...for a favor. However, with no hope for my <mark>soul<\/mark> or spirit unless I might be cured, I undertook his...",
+            "fid" : "content" },
+          
+          { "form" : "soul",
+            "weight" : "1",
+            "pos" : 120,
+            "context" : "[Rithari sought and obtained a cursed <mark>soul<\/mark> gem of mysterious nature from a deep cavern on the northern...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Arkay_the_Enemy",
+        "docUri" : "librarium\/Arkay_the_Enemy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "souls",
+            "weight" : "1",
+            "pos" : 54,
+            "context" : "Arkay's Blessing prevents the <mark>souls<\/mark> of men, beastmen, and elves from being used without...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Ashland_Hymns",
+        "docUri" : "librarium\/Ashland_Hymns.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "souls",
+            "weight" : "1",
+            "pos" : 25,
+            "context" : "What a wondrous love it is To bind two <mark>souls<\/mark> in faith, Chained completely together With never a false word...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soul",
+            "weight" : "1",
+            "pos" : 512,
+            "context" : "<mark>soul<\/mark>_gem" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soul",
+            "weight" : "1",
+            "pos" : 682,
+            "context" : "<mark>soul<\/mark> gem",
+            "fid" : "items",
+            "in" : 
+            [ "ssCtx2" ] } ] },
+      
+      { "docId" : "librarium_smugglers_island",
+        "docUri" : "librarium\/smugglers_island.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soul",
+            "weight" : "1",
+            "pos" : 175,
+            "context" : "..., just sand and rock. S'Riizh felt panic seizing his <mark>soul<\/mark>, until he saw the small, quick, golden fish...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Cantatas_of_Vivec",
+        "docUri" : "librarium\/The_Cantatas_of_Vivec.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "souls",
+            "weight" : "1",
+            "pos" : 177,
+            "context" : "What dark crucible may kindle their <mark>souls<\/mark> to light?",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Consolations_of_Prayer",
+        "docUri" : "librarium\/The_Consolations_of_Prayer.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Soul",
+            "weight" : "1",
+            "pos" : 154,
+            "context" : "...blessings of Almsivi: Vivec's Mystery, for good fortune; <mark>Soul<\/mark> of Sotha Sil, for magical power, and Lady's Grace...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Pilgrim's_Path",
+        "docUri" : "librarium\/The_Pilgrim's_Path.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "soul",
+            "weight" : "1",
+            "pos" : 642,
+            "context" : "...you address the shrine, it is customary to leave a <mark>soul<\/mark> gem in remembrance of our ancestors who were bound to the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_The_Vagaries_of_Magicka",
+        "docUri" : "librarium\/The_Vagaries_of_Magicka.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "souls",
+            "weight" : "1",
+            "pos" : 92,
+            "context" : "...often have even the wise lusted to overreach their bodies and <mark>souls<\/mark> with vitality and mana. And also must the Magicka Fountains...",
+            "fid" : "content" } ] } ] }

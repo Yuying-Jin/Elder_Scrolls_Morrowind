@@ -1,0 +1,14 @@
+
+  { "stem" : "warn",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Red_Book_of_3E_426",
+        "docUri" : "librarium\/Red_Book_of_3E_426.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "warned",
+            "weight" : "1",
+            "pos" : 263,
+            "context" : "...after significant property damage and loss of life. The council <mark>warned<\/mark> that such disturbances might spread to Ald'ruhn if the heavy burden...",
+            "fid" : "content" } ] } ] }

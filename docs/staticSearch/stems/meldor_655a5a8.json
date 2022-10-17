@@ -1,0 +1,37 @@
+
+  { "stem" : "meldor",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_morrowindTables%20-%20Copy",
+        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Meldor",
+            "weight" : "1",
+            "pos" : 1235,
+            "context" : "Balmora, <mark>Meldor<\/mark>: Armorer" } ] },
+      
+      { "docId" : "librarium_morrowindTables",
+        "docUri" : "librarium\/morrowindTables.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "meldor",
+            "weight" : "1",
+            "pos" : 1418,
+            "context" : "balmora, <mark>meldor<\/mark>: armorer",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] } ] },
+      
+      { "docId" : "librarium_The_Affairs_of_Wizards",
+        "docUri" : "librarium\/The_Affairs_of_Wizards.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "Meldor",
+            "weight" : "1",
+            "pos" : 7,
+            "context" : "Balmora, <mark>Meldor<\/mark>: Armorer: Visitable? yes",
+            "fid" : "acq" } ] } ] }

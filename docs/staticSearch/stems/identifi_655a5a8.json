@@ -1,0 +1,47 @@
+
+  { "stem" : "identifi",
+    "instances" : 
+    [ 
+      { "docId" : "librarium_Great_Houses_of_Morrowind",
+        "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "identify",
+            "weight" : "1",
+            "pos" : 31,
+            "context" : "...have interests in Vvardenfell. The three Great Houses on Vvardenfell <mark>identify<\/mark> themselves by their traditional colors: red for Redoran, yellow...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_legions_of_the_dead",
+        "docUri" : "librarium\/legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "identified",
+            "weight" : "1",
+            "pos" : 101,
+            "context" : "...remains along with the bones and spirit. Bonewalkers are readily <mark>identified<\/mark> by the sharp protuberances of bone and metal employed in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Sharn's_legions_of_the_dead",
+        "docUri" : "librarium\/Sharn's_legions_of_the_dead.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "identified",
+            "weight" : "1",
+            "pos" : 88,
+            "context" : "...remains along with the bones and spirit. Bonewalkers are readily <mark>identified<\/mark> by the sharp protuberances of bone and metal employed in the...",
+            "fid" : "content" } ] },
+      
+      { "docId" : "librarium_Vampires_of_Vvardenfell",
+        "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
+        "score" : 1,
+        "contexts" : 
+        [ 
+          { "form" : "identified",
+            "weight" : "1",
+            "pos" : 353,
+            "context" : "...different versions of this story exist, with the foe variously <mark>identified<\/mark> as a Daedra Lord, a Temple Saint, or a...",
+            "fid" : "content" } ] } ] }
