@@ -2,16 +2,6 @@
   { "stem" : "goutfang",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Goutfang",
-            "weight" : "1",
-            "pos" : 6632,
-            "context" : "<mark>Goutfang<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "goutfang",
             "weight" : "1",
-            "pos" : 6729,
+            "pos" : 6724,
             "context" : "<mark>goutfang<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Goutfang",
             "weight" : "1",
-            "pos" : 410,
+            "pos" : 405,
             "context" : "...kicks and punches down using the arrhythmic style the Khajiit call <mark>Goutfang<\/mark>; he parried and blocked in all the fashions of the...",
             "fid" : "content" } ] } ] }

@@ -9,12 +9,12 @@
         [ 
           { "form" : "Boethiah's",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "<mark>Boethiah's<\/mark> Pillow Book" },
           
           { "form" : "Boethiah's",
             "weight" : "1",
-            "pos" : 872,
+            "pos" : 867,
             "context" : "<mark>Boethiah's<\/mark> Pillow Book, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Boethiah's",
             "weight" : "1",
-            "pos" : 1144,
+            "pos" : 1139,
             "context" : "<mark>Boethiah's<\/mark> Pillow Book, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,31 +30,11 @@
           
           { "form" : "boethiah",
             "weight" : "1",
-            "pos" : 6473,
+            "pos" : 6468,
             "context" : "<mark>boethiah<\/mark>",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Boethiah's",
-            "weight" : "1",
-            "pos" : 688,
-            "context" : "<mark>Boethiah's<\/mark> Pillow Book, count: 1" },
-          
-          { "form" : "Boethiah's",
-            "weight" : "1",
-            "pos" : 976,
-            "context" : "<mark>Boethiah's<\/mark> Pillow Book, count: 1" },
-          
-          { "form" : "Boethiah",
-            "weight" : "1",
-            "pos" : 6390,
-            "context" : "<mark>Boethiah<\/mark>" } ] },
       
       { "docId" : "librarium_Vivec_and_Mephala",
         "docUri" : "librarium\/Vivec_and_Mephala.html",
@@ -63,19 +43,19 @@
         [ 
           { "form" : "Boethiah",
             "weight" : "1",
-            "pos" : 176,
+            "pos" : 171,
             "context" : "...known to the West as the sinister daedrai Lords Azura, <mark>Boethiah<\/mark>, and Mephala. In Temple theology, however, Azura...",
             "fid" : "content" },
           
           { "form" : "Boethiah",
             "weight" : "1",
-            "pos" : 189,
+            "pos" : 184,
             "context" : "...of Sotha Sil, the Mage-Lord of ALMSIVI. <mark>Boethiah<\/mark> is the Anticipation of Almalexia, ALMSIVI's Mother and Lady....",
             "fid" : "content" },
           
           { "form" : "Boethiah",
             "weight" : "1",
-            "pos" : 213,
+            "pos" : 208,
             "context" : "...a new people and founded a new land. And while <mark>Boethiah<\/mark>, the so-called Prince of Plots, provided the revolutionary...",
             "fid" : "content" } ] },
       
@@ -86,13 +66,13 @@
         [ 
           { "form" : "Boethiah",
             "weight" : "1",
-            "pos" : 483,
+            "pos" : 478,
             "context" : "...old dirty tavern song about the Ninety-Nine Loves of <mark>Boethiah<\/mark>. He said it helped him focus and organize difficult combinations...",
             "fid" : "content" },
           
           { "form" : "Boethiah",
             "weight" : "1",
-            "pos" : 812,
+            "pos" : 807,
             "context" : "...Imalyn's voice nearby, singing The Ninety-Nine Loves of <mark>Boethiah<\/mark>. He lay still in his bed, waiting, but...",
             "fid" : "content" } ] },
       
@@ -103,7 +83,7 @@
         [ 
           { "form" : "Boethiah",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "...village of the netchimen, and her shadow was that of <mark>Boethiah<\/mark>, who was the Prince of Plots, and things unknown...",
             "fid" : "content" } ] },
       
@@ -114,6 +94,6 @@
         [ 
           { "form" : "Boethiah",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "...Harithoel. They decided that it was all the whim of <mark>Boethiah<\/mark> or one of the other daedra with cruel senses of humor...",
             "fid" : "content" } ] } ] }

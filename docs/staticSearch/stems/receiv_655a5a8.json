@@ -9,13 +9,13 @@
         [ 
           { "form" : "receive",
             "weight" : "1",
-            "pos" : 392,
+            "pos" : 387,
             "context" : "...altars. You may pray at Imperial cult healing altars and <mark>receive<\/mark> blessings which cure common and blight diseases, cure poisons,...",
             "fid" : "content" },
           
           { "form" : "receive",
             "weight" : "1",
-            "pos" : 424,
+            "pos" : 419,
             "context" : "...Newer members pay 10 drakes, while higher-ranking members <mark>receive<\/mark> blessings free. Healing altars are found in: Vivec Foreign Quarter...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "receive",
             "weight" : "1",
-            "pos" : 287,
+            "pos" : 282,
             "context" : "...and piety, and need only pray at the shrines to <mark>receive<\/mark> their benefits. And Almsivi is generous, so even the...",
             "fid" : "content" },
           
           { "form" : "receive",
             "weight" : "1",
-            "pos" : 294,
+            "pos" : 289,
             "context" : ".... And Almsivi is generous, so even the Unbeliever may <mark>receive<\/mark> a blessing if he prays, if he proves his respect...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "receive",
             "weight" : "1",
-            "pos" : 277,
+            "pos" : 272,
             "context" : "...a place of worship and testing for questing heroes hoping to <mark>receive<\/mark> Vivec's favor. Many choice treasures are guarded by Daedric servants...",
             "fid" : "content" } ] },
       
@@ -54,7 +54,7 @@
         [ 
           { "form" : "received",
             "weight" : "1",
-            "pos" : 273,
+            "pos" : 268,
             "context" : "...The adventurer rushed back to the Tribunal Temple where he had <mark>received<\/mark> his quest, accepted the gold and the thanks, and...",
             "fid" : "content" } ] },
       
@@ -65,7 +65,7 @@
         [ 
           { "form" : "receiving",
             "weight" : "1",
-            "pos" : 296,
+            "pos" : 291,
             "context" : "...at the Council Hall, acting on his patron's behalf, <mark>receiving<\/mark> messengers from their patrons and casting their patron's votes in Council...",
             "fid" : "content" } ] },
       
@@ -76,6 +76,6 @@
         [ 
           { "form" : "received",
             "weight" : "1",
-            "pos" : 208,
+            "pos" : 203,
             "context" : "...It is supposed that vampirism is contracted from wounds <mark>received<\/mark> from a vampire. Since few victims survive vampiric attacks or...",
             "fid" : "content" } ] } ] }

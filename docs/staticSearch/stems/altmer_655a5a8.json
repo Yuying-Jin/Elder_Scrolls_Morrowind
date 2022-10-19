@@ -9,19 +9,9 @@
         [ 
           { "form" : "Altmer",
             "weight" : "1",
-            "pos" : 197,
+            "pos" : 192,
             "context" : "Summerset Isle is even worse in some ways. Some <mark>Altmer<\/mark> born into the most respected noble and scholarly families are actually...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Altmer",
-            "weight" : "1",
-            "pos" : 4813,
-            "context" : "<mark>Altmer<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "altmer",
             "weight" : "1",
-            "pos" : 4931,
+            "pos" : 4926,
             "context" : "<mark>altmer<\/mark>",
             "fid" : "group",
             "in" : 
@@ -43,6 +33,6 @@
         [ 
           { "form" : "Altmer",
             "weight" : "1",
-            "pos" : 206,
+            "pos" : 201,
             "context" : "...guidance of these three daedrai Lords, a discontented throng of <mark>Altmer<\/mark> transformed themselves into a new people and founded a new land...",
             "fid" : "content" } ] } ] }

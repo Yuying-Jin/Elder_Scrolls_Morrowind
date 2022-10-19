@@ -9,7 +9,7 @@
         [ 
           { "form" : "employment",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : " The Guild of Fighters provides <mark>employment<\/mark> to free-swords and mercenaries and contracts to local citizens...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "employed",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 101,
             "context" : "...are readily identified by the sharp protuberances of bone and metal <mark>employed<\/mark> in the rituals that bind them to this plane. All...",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "employed",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...are readily identified by the sharp protuberances of bone and metal <mark>employed<\/mark> in the rituals that bind them to this plane. All...",
             "fid" : "content" } ] },
       
@@ -42,6 +42,6 @@
         [ 
           { "form" : "employ",
             "weight" : "1",
-            "pos" : 380,
+            "pos" : 375,
             "context" : "...uncomfortable about competing in such a ruthless atmosphere, might better <mark>employ<\/mark> their time and efforts in the Mages Guild.",
             "fid" : "content" } ] } ] }

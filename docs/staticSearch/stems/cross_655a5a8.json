@@ -9,13 +9,13 @@
         [ 
           { "form" : "cross",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "...town in itself. On a map, it looks like a <mark>cross<\/mark>, with the Foreign Quarter at the top, the Temple...",
             "fid" : "content" },
           
           { "form" : "cross",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 110,
             "context" : "..., and four cantons grouped together at the center of the <mark>cross<\/mark> -- Redoran Compound northwest, Arena northeast, St. Delyn's...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "cross",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "Why did the Dark Elf <mark>cross<\/mark> the road?",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "crosses",
             "weight" : "1",
-            "pos" : 610,
+            "pos" : 605,
             "context" : "...to its end just below Balmora. An old Dwemer bridge <mark>crosses<\/mark> the foyada near Fort Moonmoth. A pilgrim may follow the...",
             "fid" : "content" } ] } ] }

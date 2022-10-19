@@ -2,16 +2,6 @@
   { "stem" : "flaccus",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Flaccus'",
-            "weight" : "1",
-            "pos" : 2268,
-            "context" : "Ignatius_<mark>Flaccus'<\/mark>_House" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "flaccus'",
             "weight" : "1",
-            "pos" : 2434,
+            "pos" : 2429,
             "context" : "ignatius <mark>flaccus'<\/mark> house",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Flaccus'",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "Ignatius <mark>Flaccus'<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] } ] }

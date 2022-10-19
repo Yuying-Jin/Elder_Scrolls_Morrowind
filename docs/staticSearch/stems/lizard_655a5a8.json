@@ -9,19 +9,9 @@
         [ 
           { "form" : "Lizard's",
             "weight" : "1",
-            "pos" : 388,
+            "pos" : 383,
             "context" : "...are many tradesmen, craftsmen, and trainers, and the <mark>Lizard's<\/mark> Head cornerclub provides lodgings for Telvanni kin and mercenaries.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Lizard's",
-            "weight" : "1",
-            "pos" : 4786,
-            "context" : "the <mark>Lizard's<\/mark> Head" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "lizard's",
             "weight" : "1",
-            "pos" : 4233,
+            "pos" : 4228,
             "context" : "the <mark>lizard's<\/mark> head",
             "fid" : "loc",
             "in" : 

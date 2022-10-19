@@ -9,7 +9,7 @@
         [ 
           { "form" : "drop",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 43,
             "context" : "If you <mark>drop<\/mark> a Khajiit head-first from a great height, will...",
             "fid" : "content" } ] },
       
@@ -20,6 +20,6 @@
         [ 
           { "form" : "dropped",
             "weight" : "1",
-            "pos" : 185,
+            "pos" : 180,
             "context" : "Baranat <mark>dropped<\/mark> his blade and ran at Vanis, moving so fast he...",
             "fid" : "content" } ] } ] }

@@ -2,16 +2,6 @@
   { "stem" : "kimeth",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Kimeth",
-            "weight" : "1",
-            "pos" : 6770,
-            "context" : "Ganpheril <mark>Kimeth<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "kimeth",
             "weight" : "1",
-            "pos" : 6885,
+            "pos" : 6880,
             "context" : "ganpheril <mark>kimeth<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Kimeth",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "by Ganpheril <mark>Kimeth<\/mark>",
             "fid" : "GanpherilKimeth" } ] } ] }

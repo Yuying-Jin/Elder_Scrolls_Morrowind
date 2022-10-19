@@ -2,101 +2,6 @@
   { "stem" : "manor",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 18,
-        "contexts" : 
-        [ 
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 970,
-            "context" : "Arobar <mark>Manor<\/mark> Bedrooms" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 1331,
-            "context" : "Bolvyn <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 1454,
-            "context" : "Curio <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 2300,
-            "context" : "Indarys <mark>Manor<\/mark>, Manor Services" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 2301,
-            "context" : "Indarys Manor, <mark>Manor<\/mark> Services" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 2309,
-            "context" : "Indarys_<mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 2432,
-            "context" : "Llethri <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 2771,
-            "context" : "Morvayn <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 2890,
-            "context" : "Omani <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 2994,
-            "context" : "Ramoran <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 3093,
-            "context" : "Rethan <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 3101,
-            "context" : "Rethan <mark>Manor<\/mark>, Gols' House" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 3110,
-            "context" : "Rethan_<mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 3630,
-            "context" : "Suran, Oran <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 4230,
-            "context" : "Ules <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 4448,
-            "context" : "Vivec, Curio <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 4526,
-            "context" : "Vivec, St. Olms Yngling <mark>Manor<\/mark>" },
-          
-          { "form" : "Manor",
-            "weight" : "1",
-            "pos" : 4765,
-            "context" : "Yngling <mark>Manor<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 17,
@@ -104,7 +9,7 @@
         [ 
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 1142,
+            "pos" : 1137,
             "context" : "arobar <mark>manor<\/mark> bedrooms",
             "fid" : "loc",
             "in" : 
@@ -112,7 +17,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 1494,
+            "pos" : 1489,
             "context" : "bolvyn <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -120,7 +25,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 1625,
+            "pos" : 1620,
             "context" : "curio <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -128,7 +33,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 2466,
+            "pos" : 2461,
             "context" : "indarys <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -136,7 +41,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 2484,
+            "pos" : 2479,
             "context" : "indarys <mark>manor<\/mark>, manor services",
             "fid" : "loc",
             "in" : 
@@ -144,7 +49,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 2485,
+            "pos" : 2480,
             "context" : "indarys manor, <mark>manor<\/mark> services",
             "fid" : "loc",
             "in" : 
@@ -152,7 +57,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 2603,
+            "pos" : 2598,
             "context" : "llethri <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -160,7 +65,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 2940,
+            "pos" : 2935,
             "context" : "morvayn <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -168,7 +73,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 3063,
+            "pos" : 3058,
             "context" : "omani <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -176,7 +81,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 3167,
+            "pos" : 3162,
             "context" : "ramoran <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -184,7 +89,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 3264,
+            "pos" : 3259,
             "context" : "rethan <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -192,7 +97,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 3283,
+            "pos" : 3278,
             "context" : "rethan <mark>manor<\/mark>, gols' house",
             "fid" : "loc",
             "in" : 
@@ -200,7 +105,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 3782,
+            "pos" : 3777,
             "context" : "suran, oran <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -208,7 +113,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 4373,
+            "pos" : 4368,
             "context" : "ules <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -216,7 +121,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 4612,
+            "pos" : 4607,
             "context" : "vivec, curio <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -224,7 +129,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 4705,
+            "pos" : 4700,
             "context" : "vivec, st. olms yngling <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -232,7 +137,7 @@
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 4900,
+            "pos" : 4895,
             "context" : "yngling <mark>manor<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -245,73 +150,73 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : " Arobar <mark>Manor<\/mark> Bedrooms: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "...of Redoran Council, Vvardenfell District, Lord Ald'ruhn of Bolvyn <mark>Manor<\/mark>, Manor District, Ald'ruhn, District of Vvardenfell, Province...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "...Council, Vvardenfell District, Lord Ald'ruhn of Bolvyn Manor, <mark>Manor<\/mark> District, Ald'ruhn, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "..., Vvardenfell District, Lord of North Gash, of Arobar <mark>Manor<\/mark>, Manor District, Ald'ruhn, District of Vvardenfell, Province...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 98,
+            "pos" : 93,
             "context" : "...District, Lord of North Gash, of Arobar Manor, <mark>Manor<\/mark> District, Ald'ruhn, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "..., Vvardenfell District, Lord of West Gash, of Ramoran <mark>Manor<\/mark>, Manor District, Ald'ruhn, District of Vvardenfell, Province...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 117,
             "context" : "...District, Lord of West Gash, of Ramoran Manor, <mark>Manor<\/mark> District, Ald'ruhn, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "..., Vvardenfell District, Lady of Maar Gan, of Morvayn <mark>Manor<\/mark>, East Ald'ruhn, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 163,
             "context" : "..., Vvardenfell District, Lord of South Gash, of Sarethi <mark>Manor<\/mark>, Manor District, Ald'ruhn, District of Vvardenfell, Province...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 169,
+            "pos" : 164,
             "context" : "...District, Lord of South Gash, of Sarethi Manor, <mark>Manor<\/mark> District, Ald'ruhn, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 192,
+            "pos" : 187,
             "context" : "...Vvardenfell District, Lord of The northern Ashlands, of Llethri <mark>Manor<\/mark>, Manor District, Ald'ruhn, District of Vvardenfell, Province...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : "..., Lord of The northern Ashlands, of Llethri Manor, <mark>Manor<\/mark> District, Ald'ruhn, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" } ] },
       
@@ -322,49 +227,49 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "Balmora, Hlaalu Council <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "Omani <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "Ules <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : "Vivec, Curio <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "Vivec, St. Olms Yngling <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "...of Hlaalu Council, Vvardenfell District, Free Trader, Curio <mark>Manor<\/mark>, Hlaalu Compound, Vivec, District of Vvardenfell, Province...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 129,
+            "pos" : 124,
             "context" : "...of Hlaalu Council, Vvardenfell District, Free Trader, Yngling <mark>Manor<\/mark>, Canton of St. Olms, Vivec, District of...",
             "fid" : "content" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "...of Hlaalu Council, Vvardenfell District, Free Trader, Ules <mark>Manor<\/mark>, Suran, Ascadian Isles, Bal Ur, District of...",
             "fid" : "content" } ] },
       
@@ -375,31 +280,31 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "Indarys <mark>Manor<\/mark>, Manor Services: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Indarys Manor, <mark>Manor<\/mark> Services: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 40,
             "context" : "Rethan <mark>Manor<\/mark>, Gols' House: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 47,
             "context" : "Suran, Oran <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 270,
+            "pos" : 265,
             "context" : "...success? Then submit yourself for examination at the Balmora Council <mark>Manor<\/mark>. If you have the skills, you will be welcome...",
             "fid" : "content" } ] },
       
@@ -410,25 +315,25 @@
         [ 
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...Skar is the most distinctive architectural feature of Ald'ruhn -- a <mark>manor<\/mark> and council district sheltered beneath the shell of an ancient extinct...",
             "fid" : "content" },
           
           { "form" : "manors",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...which radiate the entrances to the Redoran Council chambers, the <mark>manors<\/mark> of the Redoran councilors, and shops of a few upscale...",
             "fid" : "content" },
           
           { "form" : "Manors",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : " House Redoran services are in the Council House and Councilor's <mark>Manors<\/mark> of Ald'ruhn-Under-Skar. The Ald'ruhn Temple on the east...",
             "fid" : "content" },
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 244,
+            "pos" : 239,
             "context" : "...Garisa Llethri, Miner Arobar, and Bolvyn Venim, have <mark>manor<\/mark> residences in Ald'ruhn-Under_skar. Edwinna Elbert is the...",
             "fid" : "content" } ] },
       
@@ -439,13 +344,13 @@
         [ 
           { "form" : "manors",
             "weight" : "1",
-            "pos" : 303,
+            "pos" : 298,
             "context" : "...Empire. Hlaalu public buildings—tradehouses and craft guilds, <mark>manors<\/mark> and council halls—are designed as simple multi-storied buildings...",
             "fid" : "content" },
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 346,
+            "pos" : 341,
             "context" : "...enclosing outbuildings for craftsmen and servants, dominated by a grand <mark>manor<\/mark> residence in place of a Temple shrine.",
             "fid" : "content" } ] },
       
@@ -456,13 +361,13 @@
         [ 
           { "form" : "manors",
             "weight" : "1",
-            "pos" : 431,
+            "pos" : 426,
             "context" : "..., the Savens and the Dralors, have top-tier <mark>manors<\/mark>. There are many tradesmen, craftsmen, and trainers,...",
             "fid" : "content" },
           
           { "form" : "manor",
             "weight" : "1",
-            "pos" : 526,
+            "pos" : 521,
             "context" : "...Hlaalu Councilor Yngling Half-Troll has a top-tier <mark>manor<\/mark> on St. Olms.",
             "fid" : "content" } ] },
       
@@ -473,13 +378,13 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "Indarys <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "Rethan <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -490,13 +395,13 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "Indarys <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "Rethan <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -507,7 +412,7 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Arobar <mark>Manor<\/mark> Bedrooms: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -518,7 +423,7 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Llethri <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -529,7 +434,7 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "Rethan <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -540,6 +445,6 @@
         [ 
           { "form" : "Manor",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "Indarys <mark>Manor<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

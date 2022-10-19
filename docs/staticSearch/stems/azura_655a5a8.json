@@ -9,65 +9,45 @@
         [ 
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 136,
+            "pos" : 131,
             "context" : "...regions are called: the Ascadian Isles, the Ashlands, <mark>Azura's<\/mark> Coast, the Bitter Coast, the Grazelands, Molag Amur...",
             "fid" : "content" },
           
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 441,
+            "pos" : 436,
             "context" : " <mark>Azura's<\/mark> Coast",
             "fid" : "content" },
           
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 450,
+            "pos" : 445,
             "context" : "...rugged coast and islands of northern and eastern Vvardenfell are called <mark>Azura's<\/mark> Coast. The region is rocky, infertile, and largely...",
             "fid" : "content" },
           
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 548,
+            "pos" : 543,
             "context" : "...are located on a rocky promontory at the southeasternmost tip of <mark>Azura's<\/mark> Coast.",
             "fid" : "content" },
           
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 646,
+            "pos" : 641,
             "context" : "...ancient First Era ruin in the southeastern islands and promontories of <mark>Azura's<\/mark> Coast. The site has a nasty reputation, and several...",
             "fid" : "content" },
           
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 684,
+            "pos" : 679,
             "context" : "...promontory at the northeastern tip of the Vvardenfell mainland in the <mark>Azura's<\/mark> Coast region.",
             "fid" : "content" },
           
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 826,
+            "pos" : 821,
             "context" : "...in the northeast of Vvardenfell, sandwiched between the Ashlands and <mark>Azura's<\/mark> Coast. Permanent settlements include Vos village and the towers of...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Azura's",
-            "weight" : "1",
-            "pos" : 1058,
-            "context" : "<mark>Azura's<\/mark> Coast" },
-          
-          { "form" : "Azura's",
-            "weight" : "1",
-            "pos" : 1072,
-            "context" : "<mark>Azura's<\/mark>_Coast" },
-          
-          { "form" : "Azura",
-            "weight" : "1",
-            "pos" : 6357,
-            "context" : "<mark>Azura<\/mark>" } ] },
       
       { "docId" : "librarium_The_Alchemists_Formulary",
         "docUri" : "librarium\/The_Alchemists_Formulary.html",
@@ -76,19 +56,19 @@
         [ 
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "..., but it also grows wild in the Grazelands and on <mark>Azura's<\/mark> Coast. wickwheat is a wild Ashland grain that grows in...",
             "fid" : "content" },
           
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 115,
             "context" : "...Isles. saltrice occasionally grows wild in the Grazelands and on <mark>Azura's<\/mark> Coast.",
             "fid" : "content" },
           
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 199,
+            "pos" : 194,
             "context" : "...a hardy primitive plant that grows in the Ascadian Isles and <mark>Azura's<\/mark> Coast.",
             "fid" : "content" } ] },
       
@@ -99,7 +79,7 @@
         [ 
           { "form" : "azura's",
             "weight" : "1",
-            "pos" : 1228,
+            "pos" : 1223,
             "context" : "<mark>azura's<\/mark> coast",
             "fid" : "loc",
             "in" : 
@@ -107,7 +87,7 @@
           
           { "form" : "azura",
             "weight" : "1",
-            "pos" : 6429,
+            "pos" : 6424,
             "context" : "<mark>azura<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -120,13 +100,13 @@
         [ 
           { "form" : "Azura",
             "weight" : "1",
-            "pos" : 175,
+            "pos" : 170,
             "context" : "...Anticipations are known to the West as the sinister daedrai Lords <mark>Azura<\/mark>, Boethiah, and Mephala. In Temple theology, however...",
             "fid" : "content" },
           
           { "form" : "Azura",
             "weight" : "1",
-            "pos" : 181,
+            "pos" : 176,
             "context" : "...Boethiah, and Mephala. In Temple theology, however, <mark>Azura<\/mark> is the Anticipation of Sotha Sil, the Mage-Lord...",
             "fid" : "content" } ] },
       
@@ -137,7 +117,7 @@
         [ 
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 136,
+            "pos" : 131,
             "context" : "...the surface world and set her down on the shoals of <mark>Azura's<\/mark> Coast. There she lay for seven or eight more months...",
             "fid" : "content" } ] },
       
@@ -148,6 +128,6 @@
         [ 
           { "form" : "Azura's",
             "weight" : "1",
-            "pos" : 95,
+            "pos" : 90,
             "context" : "...Telvanni Council, Vvardenfell District, Tower of Tel Branora, <mark>Azura's<\/mark> Coast, District of Vvardenfell, Province of Morrowind Councilor Representatives...",
             "fid" : "content" } ] } ] }

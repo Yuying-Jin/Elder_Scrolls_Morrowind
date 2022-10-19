@@ -2,26 +2,6 @@
   { "stem" : "level",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Level",
-            "weight" : "1",
-            "pos" : 1906,
-            "context" : "Ghostgate, Tower of Dawn Lower <mark>Level<\/mark>" },
-          
-          { "form" : "Level",
-            "weight" : "1",
-            "pos" : 1916,
-            "context" : "Ghostgate,_Tower_of_Dawn_Lower_<mark>Level<\/mark>" },
-          
-          { "form" : "Level",
-            "weight" : "1",
-            "pos" : 4303,
-            "context" : "Vas, Entry <mark>Level<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "level",
             "weight" : "1",
-            "pos" : 2085,
+            "pos" : 2080,
             "context" : "ghostgate, tower of dawn lower <mark>level<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "level",
             "weight" : "1",
-            "pos" : 4446,
+            "pos" : 4441,
             "context" : "vas, entry <mark>level<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -50,7 +30,7 @@
         [ 
           { "form" : "Level",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "Entry <mark>Level<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -61,7 +41,7 @@
         [ 
           { "form" : "levels",
             "weight" : "1",
-            "pos" : 591,
+            "pos" : 586,
             "context" : "...the easiest tasks, but later, missions may demand higher <mark>levels<\/mark> of combat proficiency. Those interested should speak to Kaye at...",
             "fid" : "content" } ] },
       
@@ -72,7 +52,7 @@
         [ 
           { "form" : "Level",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "Ghostgate, Tower of Dawn Lower <mark>Level<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -83,6 +63,6 @@
         [ 
           { "form" : "Level",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "Ghostgate, Tower of Dawn Lower <mark>Level<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "wizard-lord",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "And, since the Telvanni are ruled by <mark>wizard-lord<\/mark> nobles, many assume they accept only candidates of the highest...",
             "fid" : "content" },
           
           { "form" : "wizard-lords",
             "weight" : "1",
-            "pos" : 307,
+            "pos" : 302,
             "context" : "The truth is that House Telvanni <mark>wizard-lords<\/mark> depend on loyal, well-paid, skilled retainers for...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "wizard-lords",
             "weight" : "1",
-            "pos" : 351,
+            "pos" : 346,
             "context" : "The <mark>wizard-lords<\/mark> of House Telvanni have traditionally isolated themselves, pursuing wisdom and mastery...",
             "fid" : "content" } ] } ] }

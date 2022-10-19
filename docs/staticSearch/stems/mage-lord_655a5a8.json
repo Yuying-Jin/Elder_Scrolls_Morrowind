@@ -9,19 +9,19 @@
         [ 
           { "form" : "Mage-Lord",
             "weight" : "1",
-            "pos" : 102,
+            "pos" : 97,
             "context" : "...Naga, the towering wizard-tower residence of Telvanni Councilor <mark>Mage-Lord<\/mark> Master Neloth.",
             "fid" : "content" },
           
           { "form" : "mage-lords",
             "weight" : "1",
-            "pos" : 258,
+            "pos" : 253,
             "context" : "...the Telvanni Mouths (Telvanni Mouths are spokesmen for their councilor <mark>mage-lords<\/mark>) Felisa Ulessen, Galos Mathendis, Arara Uvulas, Mallam...",
             "fid" : "content" },
           
           { "form" : "Mage-Lord",
             "weight" : "1",
-            "pos" : 277,
+            "pos" : 272,
             "context" : "...Omayn, and Dalyne Arvel, Telvanni Council clerk. Councilor <mark>Mage-Lord<\/mark> Master Neloth lives in Tel Naga, the wizard tower in...",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "mage-lord",
             "weight" : "1",
-            "pos" : 351,
+            "pos" : 346,
             "context" : " Telvanni Compound is the eastmost canton. The <mark>mage-lord<\/mark> Mavon Drenim is the ranking Telvanni noble. The Telvanni rent...",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "Mage-Lord",
             "weight" : "1",
-            "pos" : 185,
+            "pos" : 180,
             "context" : "...however, Azura is the Anticipation of Sotha Sil, the <mark>Mage-Lord<\/mark> of ALMSIVI. Boethiah is the Anticipation of Almalexia, ALMSIVI's...",
             "fid" : "content" } ] } ] }

@@ -9,19 +9,19 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "...if the obstacle is too difficult, seek for a path <mark>around<\/mark> the difficulty.",
             "fid" : "content" },
           
           { "form" : "around",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...if the obstacle is too difficult, look for a path <mark>around<\/mark> the difficulty... but if no path around can be found...",
             "fid" : "content" },
           
           { "form" : "around",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...for a path around the difficulty... but if no path <mark>around<\/mark> can be found, confront the obstacle directly.\"",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 136,
+            "pos" : 131,
             "context" : "...heat and fire found in the lava pits and streams found <mark>around<\/mark> Dagoth-Ur.",
             "fid" : "content" },
           
           { "form" : "around",
             "weight" : "1",
-            "pos" : 153,
+            "pos" : 148,
             "context" : "...like herb found in Black Marsh. It is especially prolific <mark>around<\/mark> the area of Utherus Swamp. It is a beautiful wildflower...",
             "fid" : "content" } ] },
       
@@ -49,7 +49,7 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "...of Plots, and things unknown and known would fold themselves <mark>around<\/mark> her until they were like stars or the messages of stars...",
             "fid" : "content" } ] },
       
@@ -60,7 +60,7 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 208,
+            "pos" : 203,
             "context" : ".... Don't be surprised or insulted if the shopkeepers follow you <mark>around<\/mark> the shop, assuming you're going to steal something. Similarly...",
             "fid" : "content" } ] },
       
@@ -71,7 +71,7 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 210,
+            "pos" : 205,
             "context" : "...Temple compounds and their courtyards, with huts and tradehouses gathered <mark>around<\/mark> a central plaza, as in the West Gash village of...",
             "fid" : "content" } ] },
       
@@ -82,7 +82,7 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 318,
+            "pos" : 313,
             "context" : "...Balmora swings northwest to avoid the barren wastes, and curves <mark>around<\/mark> towards the west until it heads south again to Caldera....",
             "fid" : "content" } ] },
       
@@ -93,7 +93,7 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : "...about security -- locks, traps, and how to get <mark>around<\/mark> them. You want to defend yourself. You travel light and fast...",
             "fid" : "content" } ] },
       
@@ -104,7 +104,7 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 453,
+            "pos" : 448,
             "context" : "...save everyone. In any case, I lured the guards <mark>around<\/mark> to the back of the Gateway Inn, far from the...",
             "fid" : "content" } ] },
       
@@ -115,6 +115,6 @@
         [ 
           { "form" : "around",
             "weight" : "1",
-            "pos" : 250,
+            "pos" : 245,
             "context" : "...suddenly found that all the creaking and sighing of the ruins <mark>around<\/mark> him had been stilled. He opened his voice to speak...",
             "fid" : "content" } ] } ] }

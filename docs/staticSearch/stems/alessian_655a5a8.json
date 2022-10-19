@@ -2,16 +2,6 @@
   { "stem" : "alessian",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Alessian",
-            "weight" : "1",
-            "pos" : 5635,
-            "context" : "<mark>Alessian<\/mark> Order" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "alessian",
             "weight" : "1",
-            "pos" : 5883,
+            "pos" : 5878,
             "context" : "<mark>alessian<\/mark> order",
             "fid" : "group",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Alessian",
             "weight" : "1",
-            "pos" : 144,
+            "pos" : 139,
             "context" : "With the exception of the <mark>Alessian<\/mark> Order, which Heartlanders regard as a dark age, religious...",
             "fid" : "content" } ] } ] }

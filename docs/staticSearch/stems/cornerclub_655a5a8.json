@@ -9,52 +9,27 @@
         [ 
           { "form" : "Cornerclub",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 120,
             "context" : "...Hall. Members of the Thieves Guild congregate at Dirty Muriel's <mark>Cornerclub<\/mark>. Telvanni Great House and Tribunal Temple services are all housed...",
             "fid" : "content" },
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 170,
+            "pos" : 165,
             "context" : "...at the Gateway, at Wolverine Hall, at a local <mark>cornerclub<\/mark>, or at Tel Naga. The Great Market has many...",
             "fid" : "content" },
           
           { "form" : "cornerclubs",
             "weight" : "1",
-            "pos" : 183,
+            "pos" : 178,
             "context" : "...and many others are scattered through town. There are two <mark>cornerclubs<\/mark>: Dirty Muriel's, for outlanders, and Fara's Hole in...",
             "fid" : "content" },
           
           { "form" : "Cornerclub",
             "weight" : "1",
-            "pos" : 244,
+            "pos" : 239,
             "context" : "...the Thieves Guild Boss, makes frequent appearances at Dirty Muriel's <mark>Cornerclub<\/mark>. Telvanni wizards and retainers visit the Council Hall to confer...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Cornerclub",
-            "weight" : "1",
-            "pos" : 1272,
-            "context" : "Balmora,_South_Wall_<mark>Cornerclub<\/mark>" },
-          
-          { "form" : "Cornerclub",
-            "weight" : "1",
-            "pos" : 1324,
-            "context" : "Black Shalk <mark>Cornerclub<\/mark>" },
-          
-          { "form" : "cornerclub",
-            "weight" : "1",
-            "pos" : 1447,
-            "context" : "Council Club <mark>cornerclub<\/mark>" },
-          
-          { "form" : "Cornerclub",
-            "weight" : "1",
-            "pos" : 3546,
-            "context" : "South Wall <mark>Cornerclub<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -63,7 +38,7 @@
         [ 
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 1437,
+            "pos" : 1432,
             "context" : "balmora, south wall <mark>cornerclub<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -71,7 +46,7 @@
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 1487,
+            "pos" : 1482,
             "context" : "black shalk <mark>cornerclub<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -79,7 +54,7 @@
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 1618,
+            "pos" : 1613,
             "context" : "council club <mark>cornerclub<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -87,7 +62,7 @@
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 3698,
+            "pos" : 3693,
             "context" : "south wall <mark>cornerclub<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -100,19 +75,19 @@
         [ 
           { "form" : "cornerclubs",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "...by the shells of giant native insects. Most guildhalls, <mark>cornerclubs<\/mark>, and merchants are sited in the southwest corner of town...",
             "fid" : "content" },
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 211,
+            "pos" : 206,
             "context" : "...-Under-Skar. The Ald Skar Inn and the Council Club <mark>cornerclub<\/mark> are found to the west, near West Gate and the...",
             "fid" : "content" },
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 222,
+            "pos" : 217,
             "context" : "...and the silt strider port. The Rat in the Pot <mark>cornerclub<\/mark> is in south Ald'ruhn, near the guildhalls.",
             "fid" : "content" } ] },
       
@@ -123,19 +98,19 @@
         [ 
           { "form" : "Cornerclub",
             "weight" : "1",
-            "pos" : 173,
+            "pos" : 168,
             "context" : "...craftsmen, and trainers also rent space here. The Black Shalk <mark>Cornerclub<\/mark> rents beds to non-guild visitors.",
             "fid" : "content" },
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 390,
+            "pos" : 385,
             "context" : "...tradesmen, craftsmen, and trainers, and the Lizard's Head <mark>cornerclub<\/mark> provides lodgings for Telvanni kin and mercenaries.",
             "fid" : "content" },
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 438,
+            "pos" : 433,
             "context" : "..., craftsmen, and trainers, and the Flowers of Gold <mark>cornerclub<\/mark> provides lodgings for Redoran kin and retainers.",
             "fid" : "content" } ] },
       
@@ -146,13 +121,13 @@
         [ 
           { "form" : "Cornerclub",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "South Wall <mark>Cornerclub<\/mark>: Visitable? ",
             "fid" : "acq" },
           
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 223,
+            "pos" : 218,
             "context" : "...friends are. And where are their friends? At the local <mark>cornerclub<\/mark> or trade house. In Vvardenfell, look for friends in...",
             "fid" : "content" } ] },
       
@@ -163,7 +138,7 @@
         [ 
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "...and, as the two settled back in their seats at the <mark>cornerclub<\/mark> and tossed back glasses of greef, the old man shared...",
             "fid" : "content" } ] },
       
@@ -174,7 +149,7 @@
         [ 
           { "form" : "Cornerclub",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "South Wall <mark>Cornerclub<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -185,7 +160,7 @@
         [ 
           { "form" : "Cornerclub",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "Balmora, South Wall <mark>Cornerclub<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -196,6 +171,6 @@
         [ 
           { "form" : "cornerclub",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 120,
             "context" : "...of the group down. Most locals at the Plot and Plaster <mark>cornerclub<\/mark> in Tel Aruhn knew enough not to listen in, but she...",
             "fid" : "content" } ] } ] }

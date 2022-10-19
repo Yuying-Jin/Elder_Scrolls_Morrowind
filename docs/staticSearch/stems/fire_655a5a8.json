@@ -9,19 +9,19 @@
         [ 
           { "form" : "Fire",
             "weight" : "1",
-            "pos" : 102,
+            "pos" : 97,
             "context" : "<mark>Fire<\/mark> Fern, a perennial herb, native to Morrowind. The...",
             "fid" : "content" },
           
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : "...under an adventurer's tongue will provide protection from the heat and <mark>fire<\/mark> found in the lava pits and streams found around Dagoth-...",
             "fid" : "content" },
           
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 161,
+            "pos" : 156,
             "context" : "...It is a beautiful wildflower. Its name comes from the <mark>fire<\/mark> red fronds that protect its golden flower. As pretty as...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 423,
+            "pos" : 418,
             "context" : "...how to shrug off the effects of frost, poison, <mark>fire<\/mark>, and charges of lightning, pulling the pain into a...",
             "fid" : "content" },
           
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 476,
+            "pos" : 471,
             "context" : "...blue flames for me.\" Oin sat in the inferno of blue <mark>fire<\/mark> for very nearly an hour before he left.",
             "fid" : "content" },
           
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 559,
+            "pos" : 554,
             "context" : "...Oin agreed, and Yakin taught him the spell that would <mark>fire<\/mark> his impulses with magicka. Over several weeks, he learned...",
             "fid" : "content" } ] },
       
@@ -55,30 +55,15 @@
         [ 
           { "form" : "Fires",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "...were lured from their Forge, and for a time the <mark>Fires<\/mark> of Anudnabia were silent. ",
             "fid" : "content" },
           
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "...Blood, Heart, Moonsugar in Large Ebony Alembic. Heat <mark>fire<\/mark> fed by Bones of Traitors. Condense vapors into a large...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "fire",
-            "weight" : "1",
-            "pos" : 198,
-            "context" : "<mark>fire<\/mark> fern" },
-          
-          { "form" : "fire",
-            "weight" : "1",
-            "pos" : 206,
-            "context" : "<mark>fire<\/mark>_shield_potions" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -87,7 +72,7 @@
         [ 
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 379,
+            "pos" : 374,
             "context" : "<mark>fire<\/mark> fern",
             "fid" : "items",
             "in" : 
@@ -95,7 +80,7 @@
           
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 387,
+            "pos" : 382,
             "context" : "<mark>fire<\/mark> shield potions",
             "fid" : "items",
             "in" : 
@@ -108,13 +93,13 @@
         [ 
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 315,
+            "pos" : 310,
             "context" : "...or by plunging at one at his feet. S'Riizh made <mark>fire<\/mark>, but being lame, he had to rely on Harithoel...",
             "fid" : "content" },
           
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 331,
+            "pos" : 326,
             "context" : "...saw a boat on the horizon. They set a large <mark>fire<\/mark>, and the crew saw them. As it approached, they...",
             "fid" : "content" } ] },
       
@@ -125,13 +110,13 @@
         [ 
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 386,
+            "pos" : 381,
             "context" : "...There are exceptions, like the easy and affordable recipe for <mark>fire<\/mark> shield. But most such potions require at least one ingredient...",
             "fid" : "content" },
           
           { "form" : "Fire",
             "weight" : "1",
-            "pos" : 397,
+            "pos" : 392,
             "context" : "<mark>Fire<\/mark> Shield potions can be made from comberry and sload soap....",
             "fid" : "content" } ] },
       
@@ -142,7 +127,7 @@
         [ 
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 316,
+            "pos" : 311,
             "context" : "...with them, and their blood taint must be forever erased by <mark>fire<\/mark> and stake.",
             "fid" : "content" } ] },
       
@@ -153,7 +138,7 @@
         [ 
           { "form" : "fire",
             "weight" : "1",
-            "pos" : 66,
+            "pos" : 61,
             "context" : "...or distant and secure they strike from afar with accurate missile <mark>fire<\/mark>. Light armor protects them from harm, and the acrobatic...",
             "fid" : "content" } ] },
       
@@ -164,6 +149,6 @@
         [ 
           { "form" : "Fire",
             "weight" : "1",
-            "pos" : 386,
+            "pos" : 381,
             "context" : "...the altar is Vivec's Ash Mask. In the Days of <mark>Fire<\/mark> when Dagoth Ur first crept back into Red Mountain and awakened...",
             "fid" : "content" } ] } ] }

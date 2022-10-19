@@ -9,19 +9,9 @@
         [ 
           { "form" : "Assarnibibi",
             "weight" : "1",
-            "pos" : 934,
+            "pos" : 929,
             "context" : "...region. Pilgrims bound for the nearby pilgrimage sites at Mount <mark>Assarnibibi<\/mark> and Mount Kand take refuge at the outpost's hostels, comforted...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Assarnibibi",
-            "weight" : "1",
-            "pos" : 2779,
-            "context" : "Mount <mark>Assarnibibi<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "assarnibibi",
             "weight" : "1",
-            "pos" : 2948,
+            "pos" : 2943,
             "context" : "mount <mark>assarnibibi<\/mark>",
             "fid" : "loc",
             "in" : 

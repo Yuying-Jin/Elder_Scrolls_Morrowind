@@ -9,13 +9,13 @@
         [ 
           { "form" : "purchase",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "...is said that in the port of Senchal, one may <mark>purchase<\/mark> anything one desires. This is true if you desire fresh...",
             "fid" : "content" },
           
           { "form" : "purchased",
             "weight" : "1",
-            "pos" : 427,
+            "pos" : 422,
             "context" : "...If so, it would explain the number of slaves that are <mark>purchased<\/mark> in Tear by Sload merchants and the rumors of Sload airships...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "purchased",
             "weight" : "1",
-            "pos" : 233,
+            "pos" : 228,
             "context" : "...behind a Potion of Rising Force. Suitable potions may be <mark>purchased<\/mark> from the Temple . Homemade potions are not acceptable.",
             "fid" : "content" },
           
           { "form" : "purchased",
             "weight" : "1",
-            "pos" : 470,
+            "pos" : 465,
             "context" : "...token of your respect for justice. Suitable potions may be <mark>purchased<\/mark> from Temple. Homemade potions are not acceptable.",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "purchase",
             "weight" : "1",
-            "pos" : 284,
+            "pos" : 279,
             "context" : "...item I wanted was gone. Better to get a great <mark>purchase<\/mark> at a decent price and discover it again at a worse...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "purchased",
             "weight" : "1",
-            "pos" : 490,
+            "pos" : 485,
             "context" : "...hand, are very rare and expensive and usually must be <mark>purchased<\/mark> from fine alchemists.",
             "fid" : "content" } ] } ] }

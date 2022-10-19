@@ -2,16 +2,6 @@
   { "stem" : "resdaynia",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Resdaynia",
-            "weight" : "1",
-            "pos" : 3085,
-            "context" : "<mark>Resdaynia<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "resdaynia",
             "weight" : "1",
-            "pos" : 3256,
+            "pos" : 3251,
             "context" : "<mark>resdaynia<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Resdaynia",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : " Lord Nerevar Indoril, Hail <mark>Resdaynia<\/mark> My Lord, Friend, and Companion ",
             "fid" : "Resdaynia" } ] } ] }

@@ -2,16 +2,6 @@
   { "stem" : "sanni",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Sanni",
-            "weight" : "1",
-            "pos" : 3345,
-            "context" : "<mark>Sanni<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "sanni",
             "weight" : "1",
-            "pos" : 3498,
+            "pos" : 3493,
             "context" : "<mark>sanni<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,7 +22,7 @@
         [ 
           { "form" : "Sanni",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 40,
             "context" : "<mark>Sanni<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -43,7 +33,7 @@
         [ 
           { "form" : "Sanni",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "<mark>Sanni<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "Sanni",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "<mark>Sanni<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

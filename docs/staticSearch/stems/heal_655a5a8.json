@@ -9,31 +9,31 @@
         [ 
           { "form" : "healing",
             "weight" : "1",
-            "pos" : 223,
+            "pos" : 218,
             "context" : "...only cost of membership comes when you use our health, <mark>healing<\/mark>, and blessing shrines -- modest fees which help us spread...",
             "fid" : "content" },
           
           { "form" : "healing",
             "weight" : "1",
-            "pos" : 384,
+            "pos" : 379,
             "context" : " Many Imperial cult locations have <mark>healing<\/mark> altars. You may pray at Imperial cult healing altars and...",
             "fid" : "content" },
           
           { "form" : "healing",
             "weight" : "1",
-            "pos" : 390,
+            "pos" : 385,
             "context" : "...locations have healing altars. You may pray at Imperial cult <mark>healing<\/mark> altars and receive blessings which cure common and blight diseases,...",
             "fid" : "content" },
           
           { "form" : "Healing",
             "weight" : "1",
-            "pos" : 427,
+            "pos" : 422,
             "context" : "...drakes, while higher-ranking members receive blessings free. <mark>Healing<\/mark> altars are found in: Vivec Foreign Quarter; Wolverine Hall in...",
             "fid" : "content" },
           
           { "form" : "healing",
             "weight" : "1",
-            "pos" : 459,
+            "pos" : 454,
             "context" : " Lay healers gather ingredients for health and <mark>healing<\/mark> potions, and minister to the sick and hurt in poor...",
             "fid" : "content" } ] },
       
@@ -44,6 +44,6 @@
         [ 
           { "form" : "heal",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "...only in our faith. We study Restoration and Alchemy to <mark>heal<\/mark> the people, and Mysticism to learn more of the divine...",
             "fid" : "content" } ] } ] }

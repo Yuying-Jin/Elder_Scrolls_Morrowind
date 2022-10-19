@@ -2,31 +2,6 @@
   { "stem" : "elv",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Elves",
-            "weight" : "1",
-            "pos" : 5124,
-            "context" : "Dark_<mark>Elves<\/mark>" },
-          
-          { "form" : "Elves",
-            "weight" : "1",
-            "pos" : 5248,
-            "context" : "Dark <mark>Elves<\/mark>" },
-          
-          { "form" : "Elves",
-            "weight" : "1",
-            "pos" : 5272,
-            "context" : "Wood <mark>Elves<\/mark>" },
-          
-          { "form" : "elves",
-            "weight" : "1",
-            "pos" : 6005,
-            "context" : "<mark>elves<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -34,7 +9,7 @@
         [ 
           { "form" : "elves",
             "weight" : "1",
-            "pos" : 5444,
+            "pos" : 5439,
             "context" : "<mark>elves<\/mark>",
             "fid" : "group",
             "in" : 
@@ -42,7 +17,7 @@
           
           { "form" : "elves",
             "weight" : "1",
-            "pos" : 5451,
+            "pos" : 5446,
             "context" : "dark <mark>elves<\/mark>",
             "fid" : "group",
             "in" : 
@@ -50,7 +25,7 @@
           
           { "form" : "elves",
             "weight" : "1",
-            "pos" : 5480,
+            "pos" : 5475,
             "context" : "wood <mark>elves<\/mark>",
             "fid" : "group",
             "in" : 
@@ -63,6 +38,6 @@
         [ 
           { "form" : "elves",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "...Arkay's Blessing prevents the souls of men, beastmen, and <mark>elves<\/mark> from being used without consent. Arkay's Law prevents those buried...",
             "fid" : "content" } ] } ] }

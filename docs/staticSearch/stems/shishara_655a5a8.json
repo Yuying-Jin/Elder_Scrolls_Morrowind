@@ -9,19 +9,9 @@
         [ 
           { "form" : "Shishara",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "<mark>Shishara<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Shishara",
-            "weight" : "1",
-            "pos" : 3458,
-            "context" : "<mark>Shishara<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "shishara",
             "weight" : "1",
-            "pos" : 3611,
+            "pos" : 3606,
             "context" : "<mark>shishara<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -43,7 +33,7 @@
         [ 
           { "form" : "Shishara",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "<mark>Shishara<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "Shishara",
             "weight" : "1",
-            "pos" : 66,
+            "pos" : 61,
             "context" : "<mark>Shishara<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

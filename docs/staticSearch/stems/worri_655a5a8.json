@@ -9,19 +9,19 @@
         [ 
           { "form" : "worries",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "...be back in Gnisis as quickly as possible. My wife <mark>worries<\/mark> when I'm away.”",
             "fid" : "content" },
           
           { "form" : "worry",
             "weight" : "1",
-            "pos" : 286,
+            "pos" : 281,
             "context" : "...few days later. His wife Liah was beside herself with <mark>worry<\/mark>.",
             "fid" : "content" },
           
           { "form" : "worrying",
             "weight" : "1",
-            "pos" : 338,
+            "pos" : 333,
             "context" : "...one moment to think of me, stuck here all by myself, <mark>worrying<\/mark> about you. I suppose you'd like it if I took more...",
             "fid" : "content" } ] },
       
@@ -32,6 +32,6 @@
         [ 
           { "form" : "worry",
             "weight" : "1",
-            "pos" : 194,
+            "pos" : 189,
             "context" : "...properly, will offer some protection as well. Do not <mark>worry<\/mark> if the corpse seems too stiff or desiccated to be a...",
             "fid" : "content" } ] } ] }

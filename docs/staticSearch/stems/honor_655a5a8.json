@@ -9,12 +9,12 @@
         [ 
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "<mark>Honor<\/mark> Among Thieves" },
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 252,
+            "pos" : 247,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 304,
+            "pos" : 299,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 326,
+            "pos" : 321,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 333,
+            "pos" : 328,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 516,
+            "pos" : 511,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 653,
+            "pos" : 648,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 720,
+            "pos" : 715,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 897,
+            "pos" : 892,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 2",
             "fid" : "loc",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 1284,
+            "pos" : 1279,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 2",
             "fid" : "loc",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 1961,
+            "pos" : 1956,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 3342,
+            "pos" : 3337,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -102,7 +102,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 3656,
+            "pos" : 3651,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -110,7 +110,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 3699,
+            "pos" : 3694,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 2",
             "fid" : "loc",
             "in" : 
@@ -118,7 +118,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 4245,
+            "pos" : 4240,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -126,7 +126,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 4469,
+            "pos" : 4464,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -134,7 +134,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 4789,
+            "pos" : 4784,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -142,7 +142,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 5619,
+            "pos" : 5614,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 10",
             "fid" : "group",
             "in" : 
@@ -150,7 +150,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 5918,
+            "pos" : 5913,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "group",
             "in" : 
@@ -158,7 +158,7 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 6151,
+            "pos" : 6146,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 4",
             "fid" : "group",
             "in" : 
@@ -166,116 +166,11 @@
           
           { "form" : "Honor",
             "weight" : "1",
-            "pos" : 7292,
+            "pos" : 7287,
             "context" : "<mark>Honor<\/mark> Among Thieves, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 20,
-        "contexts" : 
-        [ 
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 70,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 122,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 144,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 151,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 343,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 483,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 546,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 713,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 2" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 1115,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 2" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 1790,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 3171,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 3503,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 3547,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 2" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 4094,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 4330,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 4672,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 5348,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 10" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 5853,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 4" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 6095,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" },
-          
-          { "form" : "Honor",
-            "weight" : "1",
-            "pos" : 7167,
-            "context" : "<mark>Honor<\/mark> Among Thieves, count: 1" } ] },
       
       { "docId" : "librarium_Red_Book_of_3E_426",
         "docUri" : "librarium\/Red_Book_of_3E_426.html",
@@ -284,31 +179,31 @@
         [ 
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "Master Lord Miner Arobar, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Redoran Council, Vvardenfell District, Lord of North...",
             "fid" : "content" },
           
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "Master Lord Hlaren Ramoran, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Redoran Council, Vvardenfell District, Lord of West...",
             "fid" : "content" },
           
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 130,
             "context" : "Mistress Lady Brara Morvayn, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Redoran Council, Vvardenfell District, Lady of Maar...",
             "fid" : "content" },
           
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 158,
+            "pos" : 153,
             "context" : "Master Lord Athyn Sarethi, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Redoran Council, Vvardenfell District, Lord of South...",
             "fid" : "content" },
           
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 182,
+            "pos" : 177,
             "context" : "Master Lord Garisa Llethri, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Redoran Council, Vvardenfell District, Lord of The...",
             "fid" : "content" } ] },
       
@@ -319,31 +214,31 @@
         [ 
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "Mistress Velanda Omani, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Hlaalu Council, Vvardenfell District, Free Trader,...",
             "fid" : "content" },
           
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "Master Dram Bero, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Hlaalu Council, Vvardenfell District, Free Trader,...",
             "fid" : "content" },
           
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "Master Crassius Curio, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Hlaalu Council, Vvardenfell District, Free Trader,...",
             "fid" : "content" },
           
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 115,
             "context" : "...Master Yngling Half-Troll , by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Hlaalu Council, Vvardenfell District, Free Trader,...",
             "fid" : "content" },
           
           { "form" : "Honored",
             "weight" : "1",
-            "pos" : 143,
+            "pos" : 138,
             "context" : "Mistress Nevena Ules, by Grace of Almsivi, <mark>Honored<\/mark> Councilor of Hlaalu Council, Vvardenfell District, Free Trader,...",
             "fid" : "content" } ] },
       
@@ -354,13 +249,13 @@
         [ 
           { "form" : "honor",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "..., gravity, and piety. Duty is to one's own <mark>honor<\/mark>, and to one's family and clan. Gravity is the...",
             "fid" : "content" },
           
           { "form" : "honors",
             "weight" : "1",
-            "pos" : 262,
+            "pos" : 257,
             "context" : "..., and Imperial freedom of trade and religion. Hlaalu still <mark>honors<\/mark> the old Dunmer ways—the ancestors, the Temple, and...",
             "fid" : "content" } ] },
       
@@ -371,13 +266,13 @@
         [ 
           { "form" : "honor",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "...at your command, at great cost to myself, and my <mark>honor<\/mark>. Yet beneath Red Mountain, you struck me down as...",
             "fid" : "content" },
           
           { "form" : "honor",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...to Red Mountain, old friend. For the fellowship and <mark>honor<\/mark> that once we shared, I would grant you counsel and...",
             "fid" : "content" } ] },
       
@@ -388,7 +283,7 @@
         [ 
           { "form" : "honoring",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...greet one another with smiles and warm salutations, like gladiators <mark>honoring<\/mark> one another before the battle.",
             "fid" : "content" } ] },
       
@@ -399,7 +294,7 @@
         [ 
           { "form" : "honor",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "...ancestors. Serve and protect the poor and weak, and <mark>honor<\/mark> your elders and clan.",
             "fid" : "content" } ] },
       
@@ -410,7 +305,7 @@
         [ 
           { "form" : "honors",
             "weight" : "1",
-            "pos" : 673,
+            "pos" : 668,
             "context" : "...moral principles of House Redoran and the Morag Tong, and <mark>honors<\/mark> their different but noble conceptions of Divine Inspiration.",
             "fid" : "content" } ] },
       
@@ -421,7 +316,7 @@
         [ 
           { "form" : "honorable",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : "...The creature dressed like a gentleman, and I hoped for <mark>honorable<\/mark> treatment. Instead, I found myself a feast for a...",
             "fid" : "content" } ] },
       
@@ -432,7 +327,7 @@
         [ 
           { "form" : "'honor",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 130,
             "context" : "...with the guards at a discount rate. That's where the <mark>'honor<\/mark> among thieves' part comes in. Friends stick together, and help...",
             "fid" : "content" } ] },
       
@@ -443,7 +338,7 @@
         [ 
           { "form" : "honor",
             "weight" : "1",
-            "pos" : 102,
+            "pos" : 97,
             "context" : ".... The Hawkmoth Legion garrisoned at Castle Ebonheart is an elite <mark>honor<\/mark> guard unit, and also at full complement. The frontier...",
             "fid" : "content" } ] },
       
@@ -454,7 +349,7 @@
         [ 
           { "form" : "honor",
             "weight" : "1",
-            "pos" : 417,
+            "pos" : 412,
             "context" : "...Though the Dissident priests acknowledge that most rank-and-file priests <mark>honor<\/mark> the best traditions of the Temple, they believe that many...",
             "fid" : "content" } ] },
       
@@ -465,7 +360,7 @@
         [ 
           { "form" : "honored",
             "weight" : "1",
-            "pos" : 576,
+            "pos" : 571,
             "context" : "...realizations of acrobacy. In the meantime, you will be <mark>honored<\/mark> guests with every luxury the Archmagister of House Telvanni can afford...",
             "fid" : "content" } ] },
       
@@ -476,7 +371,7 @@
         [ 
           { "form" : "honor",
             "weight" : "1",
-            "pos" : 417,
+            "pos" : 412,
             "context" : "...Though the Dissident priests acknowledge that most rank-and-file priests <mark>honor<\/mark> the best traditions of the Temple, they believe that many...",
             "fid" : "content" } ] },
       
@@ -487,7 +382,7 @@
         [ 
           { "form" : "honorable",
             "weight" : "1",
-            "pos" : 311,
+            "pos" : 306,
             "context" : "...unarmed foe. This so impressed the Dremora, the most <mark>honorable<\/mark> and chivalrous of Mehrunes Dagon's Daedric servants, that they now...",
             "fid" : "content" } ] },
       
@@ -498,6 +393,6 @@
         [ 
           { "form" : "honor",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "..., \"Is the lack of technique. I know there's no <mark>honor<\/mark> among thieves, and there never was, but there used to...",
             "fid" : "content" } ] } ] }

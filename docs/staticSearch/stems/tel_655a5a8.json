@@ -2,201 +2,6 @@
   { "stem" : "tel",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 38,
-        "contexts" : 
-        [ 
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3211,
-            "context" : "Sadrith Mora, <mark>Tel<\/mark> Naga Great Hall" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3244,
-            "context" : "Sadrith Mora,_<mark>Tel<\/mark>_Naga_General_Quarters" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3303,
-            "context" : "Sadrith_Mora,_<mark>Tel<\/mark>_Naga_General_Quarters" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3314,
-            "context" : "Sadrith_Mora,_<mark>Tel<\/mark>_Naga_Great_Hall" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3663,
-            "context" : "<mark>Tel<\/mark> Aruhn" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3676,
-            "context" : "<mark>Tel<\/mark> Branora" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3700,
-            "context" : "<mark>Tel<\/mark> Branora, Therana's Chamber" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3709,
-            "context" : "<mark>Tel<\/mark> Branora, Upper Tower" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3718,
-            "context" : "<mark>Tel<\/mark> Fyr" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3731,
-            "context" : "<mark>Tel<\/mark> Fyr, Hall of Fyr" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3743,
-            "context" : "<mark>Tel<\/mark> Mora" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3767,
-            "context" : "<mark>Tel<\/mark> Mora, Berwen: Trader" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3776,
-            "context" : "<mark>Tel<\/mark> Mora, Lower Tower" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3785,
-            "context" : "<mark>Tel<\/mark> Mora, Tel Mora Tower Services" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3787,
-            "context" : "Tel Mora, <mark>Tel<\/mark> Mora Tower Services" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3796,
-            "context" : "<mark>Tel<\/mark> Mora, Tower Services" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3805,
-            "context" : "<mark>Tel<\/mark> Naga" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3818,
-            "context" : "<mark>Tel<\/mark> Uvirith" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3836,
-            "context" : "<mark>Tel<\/mark> Uvirith, Omavel's House" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3845,
-            "context" : "<mark>Tel<\/mark> Uvirith, Seleth's House" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3859,
-            "context" : "<mark>Tel<\/mark> Uvirith, Tel Uvirith Tower Upper" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3861,
-            "context" : "Tel Uvirith, <mark>Tel<\/mark> Uvirith Tower Upper" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3870,
-            "context" : "<mark>Tel<\/mark> Uvirith, Tower Lower" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3879,
-            "context" : "<mark>Tel<\/mark> Vos" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3898,
-            "context" : "<mark>Tel<\/mark> Vos, Central Tower" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3907,
-            "context" : "<mark>Tel<\/mark> Vos, Tel Vos Central Tower" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3909,
-            "context" : "Tel Vos, <mark>Tel<\/mark> Vos Central Tower" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3918,
-            "context" : "<mark>Tel<\/mark>_Aruhn" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3925,
-            "context" : "<mark>Tel<\/mark>_Aruhn,_Maren_Uvaren:_Enchanter" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3935,
-            "context" : "<mark>Tel<\/mark>_Aruhn,_Tower_Entry" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3945,
-            "context" : "<mark>Tel<\/mark>_Branora" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3963,
-            "context" : "<mark>Tel<\/mark>_Uvirith,_Omavel's_House" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3973,
-            "context" : "<mark>Tel<\/mark>_Uvirith,_Seleth's_House" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3983,
-            "context" : "<mark>Tel<\/mark>_Uvirith,_Tower_Lower" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 3992,
-            "context" : "<mark>Tel<\/mark>_Uvirith,_Tower_Upper" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 4115,
-            "context" : "Tower of <mark>Tel<\/mark> Fyr, Hall of Fyr" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 4125,
-            "context" : "Tower_of_<mark>Tel<\/mark>_Fyr" },
-          
-          { "form" : "Tel",
-            "weight" : "1",
-            "pos" : 4138,
-            "context" : "Tower_of_<mark>Tel<\/mark>_Fyr,_Hall_of_Fyr" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 30,
@@ -204,7 +9,7 @@
         [ 
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3430,
+            "pos" : 3425,
             "context" : "sadrith mora, <mark>tel<\/mark> naga general quarters",
             "fid" : "loc",
             "in" : 
@@ -212,7 +17,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3446,
+            "pos" : 3441,
             "context" : "sadrith mora, <mark>tel<\/mark> naga great hall",
             "fid" : "loc",
             "in" : 
@@ -220,7 +25,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3819,
+            "pos" : 3814,
             "context" : "<mark>tel<\/mark> aruhn",
             "fid" : "loc",
             "in" : 
@@ -228,7 +33,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3837,
+            "pos" : 3832,
             "context" : "<mark>tel<\/mark> aruhn, maren uvaren: enchanter",
             "fid" : "loc",
             "in" : 
@@ -236,7 +41,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3847,
+            "pos" : 3842,
             "context" : "<mark>tel<\/mark> aruhn, tower entry",
             "fid" : "loc",
             "in" : 
@@ -244,7 +49,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3857,
+            "pos" : 3852,
             "context" : "<mark>tel<\/mark> branora",
             "fid" : "loc",
             "in" : 
@@ -252,7 +57,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3897,
+            "pos" : 3892,
             "context" : "<mark>tel<\/mark> branora, therana's chamber",
             "fid" : "loc",
             "in" : 
@@ -260,7 +65,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3906,
+            "pos" : 3901,
             "context" : "<mark>tel<\/mark> branora, upper tower",
             "fid" : "loc",
             "in" : 
@@ -268,7 +73,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3915,
+            "pos" : 3910,
             "context" : "<mark>tel<\/mark> fyr",
             "fid" : "loc",
             "in" : 
@@ -276,7 +81,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3928,
+            "pos" : 3923,
             "context" : "<mark>tel<\/mark> fyr, hall of fyr",
             "fid" : "loc",
             "in" : 
@@ -284,7 +89,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3944,
+            "pos" : 3939,
             "context" : "<mark>tel<\/mark> mora",
             "fid" : "loc",
             "in" : 
@@ -292,7 +97,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3968,
+            "pos" : 3963,
             "context" : "<mark>tel<\/mark> mora, berwen: trader",
             "fid" : "loc",
             "in" : 
@@ -300,7 +105,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3977,
+            "pos" : 3972,
             "context" : "<mark>tel<\/mark> mora, lower tower",
             "fid" : "loc",
             "in" : 
@@ -308,7 +113,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3986,
+            "pos" : 3981,
             "context" : "<mark>tel<\/mark> mora, tel mora tower services",
             "fid" : "loc",
             "in" : 
@@ -316,7 +121,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3988,
+            "pos" : 3983,
             "context" : "tel mora, <mark>tel<\/mark> mora tower services",
             "fid" : "loc",
             "in" : 
@@ -324,7 +129,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 3997,
+            "pos" : 3992,
             "context" : "<mark>tel<\/mark> mora, tower services",
             "fid" : "loc",
             "in" : 
@@ -332,7 +137,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4006,
+            "pos" : 4001,
             "context" : "<mark>tel<\/mark> naga",
             "fid" : "loc",
             "in" : 
@@ -340,7 +145,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4019,
+            "pos" : 4014,
             "context" : "<mark>tel<\/mark> uvirith",
             "fid" : "loc",
             "in" : 
@@ -348,7 +153,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4037,
+            "pos" : 4032,
             "context" : "<mark>tel<\/mark> uvirith, omavel's house",
             "fid" : "loc",
             "in" : 
@@ -356,7 +161,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4052,
+            "pos" : 4047,
             "context" : "<mark>tel<\/mark> uvirith, seleth's house",
             "fid" : "loc",
             "in" : 
@@ -364,7 +169,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4072,
+            "pos" : 4067,
             "context" : "<mark>tel<\/mark> uvirith, tel uvirith tower upper",
             "fid" : "loc",
             "in" : 
@@ -372,7 +177,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4074,
+            "pos" : 4069,
             "context" : "tel uvirith, <mark>tel<\/mark> uvirith tower upper",
             "fid" : "loc",
             "in" : 
@@ -380,7 +185,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4083,
+            "pos" : 4078,
             "context" : "<mark>tel<\/mark> uvirith, tower lower",
             "fid" : "loc",
             "in" : 
@@ -388,7 +193,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4097,
+            "pos" : 4092,
             "context" : "<mark>tel<\/mark> uvirith, tower upper",
             "fid" : "loc",
             "in" : 
@@ -396,7 +201,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4107,
+            "pos" : 4102,
             "context" : "<mark>tel<\/mark> vos",
             "fid" : "loc",
             "in" : 
@@ -404,7 +209,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4126,
+            "pos" : 4121,
             "context" : "<mark>tel<\/mark> vos, central tower",
             "fid" : "loc",
             "in" : 
@@ -412,7 +217,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4135,
+            "pos" : 4130,
             "context" : "<mark>tel<\/mark> vos, tel vos central tower",
             "fid" : "loc",
             "in" : 
@@ -420,7 +225,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4137,
+            "pos" : 4132,
             "context" : "tel vos, <mark>tel<\/mark> vos central tower",
             "fid" : "loc",
             "in" : 
@@ -428,7 +233,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4266,
+            "pos" : 4261,
             "context" : "tower of <mark>tel<\/mark> fyr",
             "fid" : "loc",
             "in" : 
@@ -436,7 +241,7 @@
           
           { "form" : "tel",
             "weight" : "1",
-            "pos" : 4279,
+            "pos" : 4274,
             "context" : "tower of <mark>tel<\/mark> fyr, hall of fyr",
             "fid" : "loc",
             "in" : 
@@ -449,79 +254,79 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "<mark>Tel<\/mark> Uvirith, Tel Uvirith Tower Upper: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 16,
+            "pos" : 11,
             "context" : "Tel Uvirith, <mark>Tel<\/mark> Uvirith Tower Upper: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 467,
+            "pos" : 462,
             "context" : "...the Telvanni settlements at Sadrith Mora, the wizard towers at <mark>Tel<\/mark> Aruhn, Tel Mora, and Tel Branora, and Ahemmusa...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 469,
+            "pos" : 464,
             "context" : "...at Sadrith Mora, the wizard towers at Tel Aruhn, <mark>Tel<\/mark> Mora, and Tel Branora, and Ahemmusa camp and the...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 471,
+            "pos" : 466,
             "context" : "...the wizard towers at Tel Aruhn, Tel Mora, and <mark>Tel<\/mark> Branora, and Ahemmusa camp and the remote fishing villages of...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 531,
+            "pos" : 526,
             "context" : " <mark>Tel<\/mark> Branora is the tower and seat of the eccentric Telvanni wizard...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 550,
+            "pos" : 545,
             "context" : " <mark>Tel<\/mark> Fyr is the Telvanni tower of Sorcerer-Lord Divayth Fyr...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 573,
+            "pos" : 568,
             "context" : " <mark>Tel<\/mark> Aruhn is the Telvanni tower of Arch-Mage Gothren,...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 600,
+            "pos" : 595,
             "context" : " <mark>Tel<\/mark> Mora is the Telvanni tower of Mistress Dratha, an ancient...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 615,
+            "pos" : 610,
             "context" : " <mark>Tel<\/mark> Vos is the tower of Telvanni wizard and council member Master...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 624,
+            "pos" : 619,
             "context" : "...the tower of Telvanni wizard and council member Master Aryon. <mark>Tel<\/mark> Vos is a peculiar blend of Telvanni and Western architectural styles...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 834,
+            "pos" : 829,
             "context" : "...Coast. Permanent settlements include Vos village and the towers of <mark>Tel<\/mark> Vos and Tel Fyr. The Ashlanders of Zainab camp move...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 836,
+            "pos" : 831,
             "context" : "...settlements include Vos village and the towers of Tel Vos and <mark>Tel<\/mark> Fyr. The Ashlanders of Zainab camp move their herds across...",
             "fid" : "content" } ] },
       
@@ -532,67 +337,67 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Sadrith Mora, <mark>Tel<\/mark> Naga Great Hall: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 44,
+            "pos" : 39,
             "context" : "<mark>Tel<\/mark> Branora, Upper Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "<mark>Tel<\/mark> Branora, Therana's Chamber: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "<mark>Tel<\/mark> Mora, Berwen: Trader: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "<mark>Tel<\/mark> Mora, Lower Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "<mark>Tel<\/mark> Mora, Tower Services: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "<mark>Tel<\/mark> Uvirith, Omavel's House: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "<mark>Tel<\/mark> Uvirith, Seleth's House: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "<mark>Tel<\/mark> Uvirith, Tower Lower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "<mark>Tel<\/mark> Vos, Central Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 98,
+            "pos" : 93,
             "context" : "<mark>Tel<\/mark> Fyr, Hall of Fyr: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -603,43 +408,43 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...mushroom stalks. To the east of the Great Market is <mark>Tel<\/mark> Naga, the towering wizard-tower residence of Telvanni Councilor...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 143,
+            "pos" : 138,
             "context" : "...Telvanni services are available in the Great Market district and in <mark>Tel<\/mark> Naga. The Gateway merchant inn is the only establishment with...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 171,
+            "pos" : 166,
             "context" : "...at Wolverine Hall, at a local cornerclub, or at <mark>Tel<\/mark> Naga. The Great Market has many services and tradesmen,...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 192,
+            "pos" : 187,
             "context" : "..., and Fara's Hole in the Wall for local Dunmer. <mark>Tel<\/mark> Naga is Master Neloth's wizard tower.",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 283,
+            "pos" : 278,
             "context" : "...Council clerk. Councilor Mage-Lord Master Neloth lives in <mark>Tel<\/mark> Naga, the wizard tower in the center of town....",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 322,
+            "pos" : 317,
             "context" : "...Gals Arethi at the docks offers ship passage to Ebonheart, <mark>Tel<\/mark> Branora, Tel Mora, or Dagon Fel. Iniel at...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 324,
+            "pos" : 319,
             "context" : "...the docks offers ship passage to Ebonheart, Tel Branora, <mark>Tel<\/mark> Mora, or Dagon Fel. Iniel at the Wolverine Hall...",
             "fid" : "content" } ] },
       
@@ -650,31 +455,31 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "...High Magus of Telvanni Council, Vvardenfell District, Tower of <mark>Tel<\/mark> Aruhn, East Molag Amur, District of Vvardenfell, Province...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "...Mage Lord of Telvanni Council, Vvardenfell District, Tower of <mark>Tel<\/mark> Vos, Village of Vos, The Grazelands, District of...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "...Mage Lord of Telvanni Council, Vvardenfell District, Tower of <mark>Tel<\/mark> Naga, Sadrith Mora, District of Vvardenfell, Province of...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "...Mage Lord of Telvanni Council, Vvardenfell District, Tower of <mark>Tel<\/mark> Mora, The Grazelands, District of Vvardenfell, Province of...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...Mage Lord of Telvanni Council, Vvardenfell District, Tower of <mark>Tel<\/mark> Branora, Azura's Coast, District of Vvardenfell, Province of...",
             "fid" : "content" } ] },
       
@@ -685,19 +490,19 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "<mark>Tel<\/mark> Mora: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "<mark>Tel<\/mark> Mora Tower Services: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "<mark>Tel<\/mark> Uvirith: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -708,19 +513,19 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "<mark>Tel<\/mark> Vos, Tel Vos Central Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "Tel Vos, <mark>Tel<\/mark> Vos Central Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "Tower of <mark>Tel<\/mark> Fyr, Hall of Fyr: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -731,19 +536,19 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Tel<\/mark> Uvirith, Tower Upper: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Tel<\/mark> Uvirith, Seleth's House: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "<mark>Tel<\/mark> Aruhn, Tower Entry: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -754,19 +559,19 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "...group down. Most locals at the Plot and Plaster cornerclub in <mark>Tel<\/mark> Aruhn knew enough not to listen in, but she knew better...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 184,
+            "pos" : 179,
             "context" : "...blood-soaked butchers running through the streets. Even in <mark>Tel<\/mark> Aruhn, that's likely to warrant suspicion.",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 790,
+            "pos" : 785,
             "context" : "...the dreadful mattress he had to use at the canton in <mark>Tel<\/mark> Aruhn.",
             "fid" : "content" } ] },
       
@@ -777,13 +582,13 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 616,
+            "pos" : 611,
             "context" : "...travel to Ebonheart, Hla Oad, Molag Mar, and <mark>Tel<\/mark> Branora. Ships from nearby Ebonheart sail to Hla Oad,...",
             "fid" : "content" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 626,
+            "pos" : 621,
             "context" : "...from nearby Ebonheart sail to Hla Oad, Sadrith Mora, <mark>Tel<\/mark> Branora, and the Foreign Quarter of Vivec. Low-...",
             "fid" : "content" } ] },
       
@@ -794,13 +599,13 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "<mark>Tel<\/mark> Mora: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "<mark>Tel<\/mark> Vos: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -811,13 +616,13 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "<mark>Tel<\/mark> Aruhn: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "<mark>Tel<\/mark> Vos: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -828,13 +633,13 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "Sadrith Mora, <mark>Tel<\/mark> Naga Great Hall: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "<mark>Tel<\/mark> Uvirith, Tower Lower: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -845,13 +650,13 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "<mark>Tel<\/mark> Branora: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "Tower of <mark>Tel<\/mark> Fyr: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -862,13 +667,13 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "<mark>Tel<\/mark> Branora: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "Tower of <mark>Tel<\/mark> Fyr: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -879,13 +684,13 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "<mark>Tel<\/mark> Aruhn, Maren Uvaren: Enchanter: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "Tower of <mark>Tel<\/mark> Fyr, Hall of Fyr: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -896,7 +701,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "<mark>Tel<\/mark> Branora: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -907,7 +712,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Tel<\/mark> Fyr: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -918,7 +723,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Tel<\/mark> Uvirith: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -929,7 +734,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 374,
+            "pos" : 369,
             "context" : "...to give Master Senyndie a boost up to the tower of <mark>Tel<\/mark> Naga. She scaled it to the top --\"",
             "fid" : "content" } ] },
       
@@ -940,7 +745,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Tel<\/mark> Uvirith: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -951,7 +756,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Tel<\/mark> Fyr, Hall of Fyr: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -962,7 +767,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "Sadrith Mora, <mark>Tel<\/mark> Naga General Quarters: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -973,7 +778,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "<mark>Tel<\/mark> Branora: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -984,7 +789,7 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "<mark>Tel<\/mark> Uvirith, Omavel's House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -995,6 +800,6 @@
         [ 
           { "form" : "Tel",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "Sadrith Mora, <mark>Tel<\/mark> Naga General Quarters: Visitable? yes",
             "fid" : "acq" } ] } ] }

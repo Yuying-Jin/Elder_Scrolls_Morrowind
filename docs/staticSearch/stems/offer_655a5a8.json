@@ -9,25 +9,25 @@
         [ 
           { "form" : "offer",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "...Elsweyr, it is common for the shop-owner to <mark>offer<\/mark> the prospective buyer tea or sweetmeats and engage in polite conversation...",
             "fid" : "content" },
           
           { "form" : "offer",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "...over Tamriel, but the game can be broken if one's <mark>offer<\/mark> is so preposterously low that it insults the shop-keeper...",
             "fid" : "content" },
           
           { "form" : "offered",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "...that it insults the shop-keeper. If you are <mark>offered<\/mark> something for ten gold pieces, try offering six and see...",
             "fid" : "content" },
           
           { "form" : "offering",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : "...If you are offered something for ten gold pieces, try <mark>offering<\/mark> six and see where that takes you.",
             "fid" : "content" } ] },
       
@@ -38,7 +38,7 @@
         [ 
           { "form" : "offer",
             "weight" : "1",
-            "pos" : 289,
+            "pos" : 284,
             "context" : ".... If King Gortwog will listen to reason, we could <mark>offer<\/mark> the services of our Art in defense of his young nation...",
             "fid" : "content" } ] },
       
@@ -49,7 +49,7 @@
         [ 
           { "form" : "offer",
             "weight" : "1",
-            "pos" : 191,
+            "pos" : 186,
             "context" : "...preserve the body against decay and, if done properly, will <mark>offer<\/mark> some protection as well. Do not worry if the corpse...",
             "fid" : "content" } ] },
       
@@ -60,7 +60,7 @@
         [ 
           { "form" : "offered",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "..., or some aspect or agent of that Daedra Lord, <mark>offered<\/mark> me a chance to cure myself of vampirism, in return...",
             "fid" : "content" } ] },
       
@@ -71,7 +71,7 @@
         [ 
           { "form" : "offers",
             "weight" : "1",
-            "pos" : 161,
+            "pos" : 156,
             "context" : "...side of town provides service for Temple worshipers. Buckmoth Fort <mark>offers<\/mark> services to the Imperial Legion and devotees of the Imperial cult...",
             "fid" : "content" } ] },
       
@@ -82,7 +82,7 @@
         [ 
           { "form" : "offers",
             "weight" : "1",
-            "pos" : 318,
+            "pos" : 313,
             "context" : "...guide at the Mages Guild. Gals Arethi at the docks <mark>offers<\/mark> ship passage to Ebonheart, Tel Branora, Tel Mora,...",
             "fid" : "content" } ] },
       
@@ -93,7 +93,7 @@
         [ 
           { "form" : "offer",
             "weight" : "1",
-            "pos" : 206,
+            "pos" : 201,
             "context" : "...the High Fane and the Ministry of Truth, and to <mark>offer<\/mark> prayer and thanks before the Palace of Vivec. The Ministry...",
             "fid" : "content" } ] },
       
@@ -104,6 +104,6 @@
         [ 
           { "form" : "offerings",
             "weight" : "1",
-            "pos" : 272,
+            "pos" : 267,
             "context" : "...died in the war. It became the custom to make <mark>offerings<\/mark> here, either in thanks of our good fortune, or for...",
             "fid" : "content" } ] } ] }

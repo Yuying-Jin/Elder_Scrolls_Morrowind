@@ -9,12 +9,12 @@
         [ 
           { "form" : "Stick",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>" },
           
           { "form" : "Stick",
             "weight" : "1",
-            "pos" : 1118,
+            "pos" : 1113,
             "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Stick",
             "weight" : "1",
-            "pos" : 3802,
+            "pos" : 3797,
             "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -35,30 +35,15 @@
         [ 
           { "form" : "sticks",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "This book is supposedly the definitive reference to fishy <mark>sticks<\/mark> throughout Tamriel, but the pages are so smeared with fishy...",
             "fid" : "content" },
           
           { "form" : "stick",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "...throughout Tamriel, but the pages are so smeared with fishy <mark>stick<\/mark> sauce it is impossible to read any of them.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Stick",
-            "weight" : "1",
-            "pos" : 946,
-            "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>, count: 1" },
-          
-          { "form" : "Stick",
-            "weight" : "1",
-            "pos" : 3650,
-            "context" : "Capn's Guide to the Fishy <mark>Stick<\/mark>, count: 1" } ] },
       
       { "docId" : "librarium_Honor_Among_Thieves",
         "docUri" : "librarium\/Honor_Among_Thieves.html",
@@ -67,7 +52,7 @@
         [ 
           { "form" : "stick",
             "weight" : "1",
-            "pos" : 141,
+            "pos" : 136,
             "context" : ".... That's where the 'honor among thieves' part comes in. Friends <mark>stick<\/mark> together, and help each other.",
             "fid" : "content" } ] },
       
@@ -78,6 +63,6 @@
         [ 
           { "form" : "\"Sticks",
             "weight" : "1",
-            "pos" : 143,
+            "pos" : 138,
             "context" : "..., pouring himself more greef, warming to his subject. <mark>\"Sticks<\/mark> his dagger in his opponent's back. This may slay the...",
             "fid" : "content" } ] } ] }

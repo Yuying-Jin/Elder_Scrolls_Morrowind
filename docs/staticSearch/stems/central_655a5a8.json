@@ -2,21 +2,6 @@
   { "stem" : "central",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Central",
-            "weight" : "1",
-            "pos" : 3900,
-            "context" : "Tel Vos, <mark>Central<\/mark> Tower" },
-          
-          { "form" : "Central",
-            "weight" : "1",
-            "pos" : 3911,
-            "context" : "Tel Vos, Tel Vos <mark>Central<\/mark> Tower" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "central",
             "weight" : "1",
-            "pos" : 4128,
+            "pos" : 4123,
             "context" : "tel vos, <mark>central<\/mark> tower",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "central",
             "weight" : "1",
-            "pos" : 4139,
+            "pos" : 4134,
             "context" : "tel vos, tel vos <mark>central<\/mark> tower",
             "fid" : "loc",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "Central",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 54,
             "context" : "Tel Vos, Tel Vos <mark>Central<\/mark> Tower: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -56,7 +41,7 @@
         [ 
           { "form" : "central",
             "weight" : "1",
-            "pos" : 211,
+            "pos" : 206,
             "context" : "...and their courtyards, with huts and tradehouses gathered around a <mark>central<\/mark> plaza, as in the West Gash village of Gnisis....",
             "fid" : "content" } ] },
       
@@ -67,7 +52,7 @@
         [ 
           { "form" : "central",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "...an ancient extinct giant crab. The large carapace encloses a <mark>central<\/mark> dome, from which radiate the entrances to the Redoran Council...",
             "fid" : "content" } ] },
       
@@ -78,6 +63,6 @@
         [ 
           { "form" : "Central",
             "weight" : "1",
-            "pos" : 94,
+            "pos" : 89,
             "context" : "Tel Vos, <mark>Central<\/mark> Tower: Visitable? yes",
             "fid" : "acq" } ] } ] }

@@ -9,19 +9,9 @@
         [ 
           { "form" : "beastmen",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "Arkay's Blessing prevents the souls of men, <mark>beastmen<\/mark>, and elves from being used without consent. Arkay's Law...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "beastmen",
-            "weight" : "1",
-            "pos" : 5941,
-            "context" : "<mark>beastmen<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "beastmen",
             "weight" : "1",
-            "pos" : 5086,
+            "pos" : 5081,
             "context" : "<mark>beastmen<\/mark>",
             "fid" : "group",
             "in" : 

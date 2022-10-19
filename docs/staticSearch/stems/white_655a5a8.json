@@ -9,25 +9,15 @@
         [ 
           { "form" : "white",
             "weight" : "1",
-            "pos" : 66,
+            "pos" : 61,
             "context" : "The Poppy, both black and <mark>white<\/mark>, can be found growing wild in the mountains of Hammerfell...",
             "fid" : "content" },
           
           { "form" : "white",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "...wilderness without rations. It is said that the black and <mark>white<\/mark> poppies together have magical properties. When they are crushed and...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "white",
-            "weight" : "1",
-            "pos" : 581,
-            "context" : "<mark>white<\/mark>_bloatroot" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "white",
             "weight" : "1",
-            "pos" : 755,
+            "pos" : 750,
             "context" : "<mark>white<\/mark> bloatroot",
             "fid" : "items",
             "in" : 
@@ -49,6 +39,6 @@
         [ 
           { "form" : "white",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "...impressive garden of willow anther, gold kanet, chokeweed, <mark>white<\/mark> bloatroot, and trama shrubs. He had also grown himself...",
             "fid" : "content" } ] } ] }

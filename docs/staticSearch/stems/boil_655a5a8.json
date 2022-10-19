@@ -9,24 +9,24 @@
         [ 
           { "form" : "Boiled",
             "weight" : "1",
-            "pos" : 133,
+            "pos" : 128,
             "context" : " The <mark>Boiled<\/mark> kagouti",
             "fid" : "content" },
           
           { "form" : "boiling",
             "weight" : "1",
-            "pos" : 138,
+            "pos" : 133,
             "context" : " It is said that if a kagouti steps into a <mark>boiling<\/mark> pool, he will leap out immediately to avoid harm....",
             "fid" : "content" },
           
           { "form" : "boiling",
             "weight" : "1",
-            "pos" : 153,
+            "pos" : 148,
             "context" : "...wizard slowly raises the temperature, measure by measure, to <mark>boiling<\/mark>, the kagouti will calmly stand in place until he is...",
             "fid" : "content" },
           
           { "form" : "boiled",
             "weight" : "1",
-            "pos" : 158,
+            "pos" : 153,
             "context" : "..., the kagouti will calmly stand in place until he is <mark>boiled<\/mark>. Thus we see that we must be alert not only...",
             "fid" : "content" } ] } ] }

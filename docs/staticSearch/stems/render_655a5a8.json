@@ -9,7 +9,7 @@
         [ 
           { "form" : "render",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "Blessed are the Wrathmen, for they <mark>render<\/mark> their rage unto the ages.",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "render",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 54,
             "context" : "...the transcendent spirit. Blessed are the Wrathmen, for they <mark>render<\/mark> their rage unto the ages. Blessed are the Masters,...",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "rendered",
             "weight" : "1",
-            "pos" : 266,
+            "pos" : 261,
             "context" : "...face against the opposite wall. When the victim is thus <mark>rendered<\/mark> unconscious, you slash his throat while still holding him from...",
             "fid" : "content" } ] } ] }

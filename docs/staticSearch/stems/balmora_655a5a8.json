@@ -2,71 +2,6 @@
   { "stem" : "balmora",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 12,
-        "contexts" : 
-        [ 
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1104,
-            "context" : "<mark>Balmora<\/mark>" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1198,
-            "context" : "<mark>Balmora<\/mark> Fighters Guild" },
-          
-          { "form" : "Balmora's",
-            "weight" : "1",
-            "pos" : 1207,
-            "context" : "<mark>Balmora's<\/mark> Mages Guild" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1216,
-            "context" : "<mark>Balmora<\/mark>, Balmora Temple" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1217,
-            "context" : "Balmora, <mark>Balmora<\/mark> Temple" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1224,
-            "context" : "<mark>Balmora<\/mark>, Hlaalu Council Mano" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1234,
-            "context" : "<mark>Balmora<\/mark>, Meldor: Armorer" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1242,
-            "context" : "<mark>Balmora<\/mark>,_Dorisa Darvel:_Bookseller" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1251,
-            "context" : "<mark>Balmora<\/mark>,_Dorisa_Darvel:_Bookseller" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1260,
-            "context" : "<mark>Balmora<\/mark>,_Morag_Tong_Guild" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 1269,
-            "context" : "<mark>Balmora<\/mark>,_South_Wall_Cornerclub" },
-          
-          { "form" : "Balmora",
-            "weight" : "1",
-            "pos" : 4938,
-            "context" : "<mark>Balmora<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 11,
@@ -74,7 +9,7 @@
         [ 
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1273,
+            "pos" : 1268,
             "context" : "<mark>balmora<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -82,7 +17,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1367,
+            "pos" : 1362,
             "context" : "<mark>balmora<\/mark> fighters guild",
             "fid" : "loc",
             "in" : 
@@ -90,7 +25,7 @@
           
           { "form" : "balmora's",
             "weight" : "1",
-            "pos" : 1376,
+            "pos" : 1371,
             "context" : "<mark>balmora's<\/mark> mages guild",
             "fid" : "loc",
             "in" : 
@@ -98,7 +33,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1385,
+            "pos" : 1380,
             "context" : "<mark>balmora<\/mark>, balmora temple",
             "fid" : "loc",
             "in" : 
@@ -106,7 +41,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1386,
+            "pos" : 1381,
             "context" : "balmora, <mark>balmora<\/mark> temple",
             "fid" : "loc",
             "in" : 
@@ -114,7 +49,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1393,
+            "pos" : 1388,
             "context" : "<mark>balmora<\/mark>, dorisa darvel: bookseller",
             "fid" : "loc",
             "in" : 
@@ -122,7 +57,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1407,
+            "pos" : 1402,
             "context" : "<mark>balmora<\/mark>, hlaalu council mano",
             "fid" : "loc",
             "in" : 
@@ -130,7 +65,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1417,
+            "pos" : 1412,
             "context" : "<mark>balmora<\/mark>, meldor: armorer",
             "fid" : "loc",
             "in" : 
@@ -138,7 +73,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1425,
+            "pos" : 1420,
             "context" : "<mark>balmora<\/mark>, morag tong guild",
             "fid" : "loc",
             "in" : 
@@ -146,7 +81,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 1434,
+            "pos" : 1429,
             "context" : "<mark>balmora<\/mark>, south wall cornerclub",
             "fid" : "loc",
             "in" : 
@@ -154,7 +89,7 @@
           
           { "form" : "balmora",
             "weight" : "1",
-            "pos" : 5073,
+            "pos" : 5068,
             "context" : "<mark>balmora<\/mark>",
             "fid" : "group",
             "in" : 
@@ -167,49 +102,49 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "...city of Vivec and the old Great House district centers at <mark>Balmora<\/mark>, Ald'ruhn, and Sadrith Mora. The rest of the...",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 330,
+            "pos" : 325,
             "context" : " Pelagiad is a newly chartered Imperial village between <mark>Balmora<\/mark> and Vivec City on the western edge of the Ascadian Isles...",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 794,
+            "pos" : 789,
             "context" : "...along the River Odai connects Hla Oad with the town of <mark>Balmora<\/mark>.",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 1072,
+            "pos" : 1067,
             "context" : "...of Ghosts on the northwest coast to the inland town of <mark>Balmora<\/mark>, where the region is sandwiched between the Bitter Coast and...",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 1095,
+            "pos" : 1090,
             "context" : "...on the north coast. The town of Caldera lies near <mark>Balmora<\/mark>. The herds of the Ashlanders of Urshilaku camp graze on...",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 1105,
+            "pos" : 1100,
             "context" : " <mark>Balmora<\/mark> is the district seat of House Hlaalu, and the largest...",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 1133,
+            "pos" : 1128,
             "context" : ".... The Imperial Legion garrison of Fort Moonmoth lies south of <mark>Balmora<\/mark>.",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 1183,
+            "pos" : 1178,
             "context" : "...lead north to Maar Gan and Gnisis villages and south to <mark>Balmora<\/mark>.",
             "fid" : "content" } ] },
       
@@ -220,25 +155,25 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 307,
+            "pos" : 302,
             "context" : "...Gnisis villages and by a circuitous western route to Caldera, <mark>Balmora<\/mark>, and points south. The road to Balmora swings northwest...",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 311,
+            "pos" : 306,
             "context" : "...Caldera, Balmora, and points south. The road to <mark>Balmora<\/mark> swings northwest to avoid the barren wastes, and curves around...",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 348,
+            "pos" : 343,
             "context" : "...of West Gate. Silt strider service goes from Ald'ruhn to <mark>Balmora<\/mark>, Gnisis, Khuul, or Maar Gan.. Guild guides...",
             "fid" : "content" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 358,
+            "pos" : 353,
             "context" : "...Gan.. Guild guides at the Mages Guild teleport you to <mark>Balmora<\/mark>, Vivec City, Caldera, and Sadrith Mora for a...",
             "fid" : "content" } ] },
       
@@ -249,19 +184,19 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "<mark>Balmora<\/mark>, Balmora Temple: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "Balmora, <mark>Balmora<\/mark> Temple: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 115,
             "context" : "...Temple should speak to priests at the temples in Ald'ruhn, <mark>Balmora<\/mark>, Molag Mar, and Ghostgate, or with priests at...",
             "fid" : "content" } ] },
       
@@ -272,19 +207,19 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "<mark>Balmora<\/mark> Fighters Guild: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 179,
+            "pos" : 174,
             "context" : "..., free-standing guildhalls in the towns of Ald'ruhn and <mark>Balmora<\/mark>. The chapter in Sadright Mora is established in Wolverine Hall...",
             "fid" : "content" } ] },
       
@@ -295,13 +230,13 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -312,13 +247,13 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "<mark>Balmora<\/mark>: Visitable? ",
             "fid" : "acq" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 229,
+            "pos" : 224,
             "context" : "...or trade house. In Vvardenfell, look for friends in <mark>Balmora<\/mark>, Ald'ruhn, Sadrith Mora, and the Foreign Quarter of...",
             "fid" : "content" } ] },
       
@@ -329,13 +264,13 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Balmora<\/mark>, Hlaalu Council Manor: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 219,
+            "pos" : 214,
             "context" : "A minor tax revolt in <mark>Balmora<\/mark> was suppressed without undue harm to life and property. The...",
             "fid" : "content" } ] },
       
@@ -346,7 +281,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 268,
+            "pos" : 263,
             "context" : "...race for success? Then submit yourself for examination at the <mark>Balmora<\/mark> Council Manor. If you have the skills, you will...",
             "fid" : "content" } ] },
       
@@ -357,7 +292,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 338,
+            "pos" : 333,
             "context" : "...teleport you to Ald'ruhn, Vivec City, Caldera, and <mark>Balmora<\/mark> for a modest fee.",
             "fid" : "content" } ] },
       
@@ -368,7 +303,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 603,
+            "pos" : 598,
             "context" : "...bridge, traveling from Vivec to Suran, Seyda Neen, <mark>Balmora<\/mark>, and Molag Mar. Ships from the docks at the...",
             "fid" : "content" } ] },
       
@@ -379,7 +314,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -390,7 +325,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "...District. The three town garrisons -- Moonmoth Legion Fort in <mark>Balmora<\/mark> , Buckmoth Legion Fort in Ald'ruhn, and Fort Pelagiad in...",
             "fid" : "content" } ] },
       
@@ -401,7 +336,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 255,
+            "pos" : 250,
             "context" : "An unfortunate tax revolt in <mark>Balmora<\/mark> was put down after significant property damage and loss of life...",
             "fid" : "content" } ] },
       
@@ -412,7 +347,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -423,7 +358,7 @@
         [ 
           { "form" : "Balmora's",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Balmora's<\/mark> Mages Guild: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -434,7 +369,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "<mark>Balmora<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -445,7 +380,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -456,7 +391,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Balmora<\/mark>, Meldor: Armorer: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -467,7 +402,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Balmora<\/mark>, South Wall Cornerclub: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -478,7 +413,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Balmora<\/mark>, Morag Tong Guild: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -489,7 +424,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -500,7 +435,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -511,7 +446,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "<mark>Balmora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -522,7 +457,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 606,
+            "pos" : 601,
             "context" : "...the top of Red Mountain southwest to its end just below <mark>Balmora<\/mark>. An old Dwemer bridge crosses the foyada near Fort Moonmoth...",
             "fid" : "content" } ] },
       
@@ -533,7 +468,7 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Balmora<\/mark>, Dorisa Darvel: Bookseller: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -544,6 +479,6 @@
         [ 
           { "form" : "Balmora",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "<mark>Balmora<\/mark>, Dorisa Darvel: Bookseller: Visitable? yes",
             "fid" : "acq" } ] } ] }

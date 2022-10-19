@@ -9,13 +9,13 @@
         [ 
           { "form" : "pickpocket",
             "weight" : "1",
-            "pos" : 533,
+            "pos" : 528,
             "context" : ".... \"They say he is the greatest shield-blocker and <mark>pickpocket<\/mark> in Morrowind.\"",
             "fid" : "content" },
           
           { "form" : "pickpocketed",
             "weight" : "1",
-            "pos" : 642,
+            "pos" : 637,
             "context" : "...man's blows with his shield, he revealed that he had <mark>pickpocketed<\/mark> Funcrazot Priif's purse.",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "pickpocketing",
             "weight" : "1",
-            "pos" : 182,
+            "pos" : 177,
             "context" : "...from another member, whether by open theft or by covert <mark>pickpocketing<\/mark>. It is forbidden to trespass upon the private property of...",
             "fid" : "content" } ] } ] }

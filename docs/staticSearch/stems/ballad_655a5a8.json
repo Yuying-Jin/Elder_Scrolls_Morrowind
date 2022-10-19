@@ -9,12 +9,12 @@
         [ 
           { "form" : "Balladeer's",
             "weight" : "1",
-            "pos" : 137,
+            "pos" : 132,
             "context" : "The <mark>Balladeer's<\/mark> Fakebook" },
           
           { "form" : "Balladeer's",
             "weight" : "1",
-            "pos" : 1438,
+            "pos" : 1433,
             "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Balladeer's",
             "weight" : "1",
-            "pos" : 1611,
+            "pos" : 1606,
             "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Balladeer's",
             "weight" : "1",
-            "pos" : 2513,
+            "pos" : 2508,
             "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Balladeer's",
             "weight" : "1",
-            "pos" : 5681,
+            "pos" : 5676,
             "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
             "fid" : "group",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Balladeer's",
             "weight" : "1",
-            "pos" : 5865,
+            "pos" : 5860,
             "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
             "fid" : "group",
             "in" : 
@@ -54,43 +54,8 @@
           
           { "form" : "Balladeer's",
             "weight" : "1",
-            "pos" : 7204,
+            "pos" : 7199,
             "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1",
             "fid" : "persons",
             "in" : 
-            [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 6,
-        "contexts" : 
-        [ 
-          { "form" : "Balladeer's",
-            "weight" : "1",
-            "pos" : 1273,
-            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
-          
-          { "form" : "Balladeer's",
-            "weight" : "1",
-            "pos" : 1440,
-            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
-          
-          { "form" : "Balladeer's",
-            "weight" : "1",
-            "pos" : 2347,
-            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
-          
-          { "form" : "Balladeer's",
-            "weight" : "1",
-            "pos" : 5438,
-            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
-          
-          { "form" : "Balladeer's",
-            "weight" : "1",
-            "pos" : 5617,
-            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" },
-          
-          { "form" : "Balladeer's",
-            "weight" : "1",
-            "pos" : 6217,
-            "context" : "The <mark>Balladeer's<\/mark> Fakebook, count: 1" } ] } ] }
+            [ "ssCtx5" ] } ] } ] }

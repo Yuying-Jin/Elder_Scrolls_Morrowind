@@ -9,19 +9,19 @@
         [ 
           { "form" : "Orcs",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : " How many <mark>Orcs<\/mark> does it take to light a torch?",
             "fid" : "content" },
           
           { "form" : "orc",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : " Depends. Is an <mark>orc<\/mark> is [sic] doing the counting?",
             "fid" : "content" },
           
           { "form" : "Orc",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "an <mark>Orc<\/mark> Acrobat",
             "fid" : "content" } ] },
       
@@ -32,30 +32,15 @@
         [ 
           { "form" : "Orc",
             "weight" : "1",
-            "pos" : 276,
+            "pos" : 271,
             "context" : "...formed Orsinium presents a unique opportunity. As you know, <mark>Orc<\/mark> corpses are among the most sought after for the durability of...",
             "fid" : "content" },
           
           { "form" : "Orcs",
             "weight" : "1",
-            "pos" : 304,
+            "pos" : 299,
             "context" : "...Orcish dead. A mutually beneficial arrangement as I'm sure the <mark>Orcs<\/mark> will agree. To this end, a delegation has been...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Orc",
-            "weight" : "1",
-            "pos" : 5613,
-            "context" : "<mark>Orc<\/mark>" },
-          
-          { "form" : "Orcs",
-            "weight" : "1",
-            "pos" : 5629,
-            "context" : "<mark>Orcs<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -64,7 +49,7 @@
         [ 
           { "form" : "orc",
             "weight" : "1",
-            "pos" : 5861,
+            "pos" : 5856,
             "context" : "<mark>orc<\/mark>",
             "fid" : "group",
             "in" : 
@@ -72,7 +57,7 @@
           
           { "form" : "orcs",
             "weight" : "1",
-            "pos" : 5877,
+            "pos" : 5872,
             "context" : "<mark>orcs<\/mark>",
             "fid" : "group",
             "in" : 
@@ -85,7 +70,7 @@
         [ 
           { "form" : "Orc",
             "weight" : "1",
-            "pos" : 63,
+            "pos" : 58,
             "context" : "I'm Glad I'm Not No <mark>Orc<\/mark>",
             "fid" : "content" } ] },
       
@@ -96,6 +81,6 @@
         [ 
           { "form" : "Orc",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "...all the other Houses on the other. Dwemer and Dagoth invited <mark>Orc<\/mark> and Nord clans as allies, and held northwest Morrowind,...",
             "fid" : "content" } ] } ] }

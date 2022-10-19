@@ -9,36 +9,21 @@
         [ 
           { "form" : "Fern",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "Fire <mark>Fern<\/mark>, a perennial herb, native to Morrowind. The flowers...",
             "fid" : "content" },
           
           { "form" : "fern",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "Dragon's-Tongue, common name for a <mark>fern<\/mark> like herb found in Black Marsh. It is especially prolific...",
             "fid" : "content" },
           
           { "form" : "Fern",
             "weight" : "1",
-            "pos" : 278,
+            "pos" : 273,
             "context" : "The Somnalius <mark>Fern<\/mark> can be found in the swamps of Black Marsh. The...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "fern",
-            "weight" : "1",
-            "pos" : 199,
-            "context" : "fire <mark>fern<\/mark>" },
-          
-          { "form" : "fern",
-            "weight" : "1",
-            "pos" : 505,
-            "context" : "somnalius <mark>fern<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "fern",
             "weight" : "1",
-            "pos" : 380,
+            "pos" : 375,
             "context" : "fire <mark>fern<\/mark>",
             "fid" : "items",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "fern",
             "weight" : "1",
-            "pos" : 675,
+            "pos" : 670,
             "context" : "somnalius <mark>fern<\/mark>",
             "fid" : "items",
             "in" : 

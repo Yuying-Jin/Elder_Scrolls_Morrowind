@@ -9,31 +9,31 @@
         [ 
           { "form" : "heart",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "No child has a sinner's <mark>heart<\/mark>.",
             "fid" : "content" },
           
           { "form" : "heart",
             "weight" : "1",
-            "pos" : 118,
+            "pos" : 113,
             "context" : "From the <mark>heart<\/mark>, the light; from the head, the law....",
             "fid" : "content" },
           
           { "form" : "hearts",
             "weight" : "1",
-            "pos" : 166,
+            "pos" : 161,
             "context" : "Oh, how rarely wisdom rules our <mark>hearts<\/mark>!",
             "fid" : "content" },
           
           { "form" : "Hearts",
             "weight" : "1",
-            "pos" : 212,
+            "pos" : 207,
             "context" : "Three Hands, three <mark>Hearts<\/mark>, three Eyes.",
             "fid" : "content" },
           
           { "form" : "heart",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "How black my <mark>heart<\/mark>, roasting fiercely?",
             "fid" : "content" } ] },
       
@@ -44,13 +44,13 @@
         [ 
           { "form" : "Heart",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : " 2 Parts Blood of Traitors 1 Part Daedra's <mark>Heart<\/mark> of Daedra 1 Part mixed Bittergreen Petals, Void Salts,...",
             "fid" : "daedrasheart" },
           
           { "form" : "Heart",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : " Combine Blood, <mark>Heart<\/mark>, Moonsugar in Large Ebony Alembic. Heat fire fed by...",
             "fid" : "content" } ] },
       
@@ -61,13 +61,13 @@
         [ 
           { "form" : "heart",
             "weight" : "1",
-            "pos" : 331,
+            "pos" : 326,
             "context" : "The Shrine of Courtesy is found in the <mark>heart<\/mark> of the Puzzle Canal, a labyrinth beneath Lord Vivec's Palace...",
             "fid" : "content" },
           
           { "form" : "heart",
             "weight" : "1",
-            "pos" : 439,
+            "pos" : 434,
             "context" : "...of the blight. This is Vivec's heroism -- his tender <mark>heart<\/mark> provides strength when his might fails.",
             "fid" : "content" } ] },
       
@@ -78,19 +78,9 @@
         [ 
           { "form" : "heartedly",
             "weight" : "1",
-            "pos" : 372,
+            "pos" : 367,
             "context" : "...lords, their retainers, and clients have entered whole-<mark>heartedly<\/mark> into the competition to control and exploit Vvardenfell's land and resources...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "heart",
-            "weight" : "1",
-            "pos" : 137,
-            "context" : "daedra's <mark>heart<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -99,7 +89,7 @@
         [ 
           { "form" : "heart",
             "weight" : "1",
-            "pos" : 319,
+            "pos" : 314,
             "context" : "daedra's <mark>heart<\/mark>",
             "fid" : "items",
             "in" : 
@@ -112,7 +102,7 @@
         [ 
           { "form" : "heart",
             "weight" : "1",
-            "pos" : 156,
+            "pos" : 151,
             "context" : "...respected nobles in Gnisis, and Serjo Benitah Gorgoth. His <mark>heart<\/mark> fell. She had found another, a mere nine years...",
             "fid" : "content" } ] },
       
@@ -123,6 +113,6 @@
         [ 
           { "form" : "heart",
             "weight" : "1",
-            "pos" : 316,
+            "pos" : 311,
             "context" : "...on him, \"Baranat, I will make you unyielding as the <mark>heart<\/mark> of Oblivion.\"",
             "fid" : "content" } ] } ] }

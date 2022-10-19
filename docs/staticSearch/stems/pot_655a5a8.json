@@ -9,7 +9,7 @@
         [ 
           { "form" : "Pot",
             "weight" : "1",
-            "pos" : 221,
+            "pos" : 216,
             "context" : "...Gate and the silt strider port. The Rat in the <mark>Pot<\/mark> cornerclub is in south Ald'ruhn, near the guildhalls.",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "Pot",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "The Rat in the <mark>Pot<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Pot",
-            "weight" : "1",
-            "pos" : 4090,
-            "context" : "The Rat in the <mark>Pot<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "pot",
             "weight" : "1",
-            "pos" : 4241,
+            "pos" : 4236,
             "context" : "the rat in the <mark>pot<\/mark>",
             "fid" : "loc",
             "in" : 

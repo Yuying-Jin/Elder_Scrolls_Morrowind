@@ -2,26 +2,6 @@
   { "stem" : "fralini",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Fralinie",
-            "weight" : "1",
-            "pos" : 3501,
-            "context" : "Simine <mark>Fralinie<\/mark>: Bookseller" },
-          
-          { "form" : "Fralinie",
-            "weight" : "1",
-            "pos" : 4515,
-            "context" : "Vivec, Simine <mark>Fralinie<\/mark>: Bookseller" },
-          
-          { "form" : "Fralinie",
-            "weight" : "1",
-            "pos" : 4578,
-            "context" : "Vivec,_Simine_<mark>Fralinie<\/mark>:_Bookseller" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "fralinie",
             "weight" : "1",
-            "pos" : 3654,
+            "pos" : 3649,
             "context" : "simine <mark>fralinie<\/mark>: bookseller",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "fralinie",
             "weight" : "1",
-            "pos" : 4689,
+            "pos" : 4684,
             "context" : "vivec, simine <mark>fralinie<\/mark>: bookseller",
             "fid" : "loc",
             "in" : 
@@ -50,7 +30,7 @@
         [ 
           { "form" : "Fralinie",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "Simine <mark>Fralinie<\/mark>: Bookseller: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -61,7 +41,7 @@
         [ 
           { "form" : "Fralinie",
             "weight" : "1",
-            "pos" : 138,
+            "pos" : 133,
             "context" : "Vivec, Simine <mark>Fralinie<\/mark>: Bookseller: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -72,6 +52,6 @@
         [ 
           { "form" : "Fralinie",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Vivec, Simine <mark>Fralinie<\/mark>: Bookseller: Visitable? yes",
             "fid" : "acq" } ] } ] }

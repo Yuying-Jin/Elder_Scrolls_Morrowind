@@ -2,36 +2,6 @@
   { "stem" : "lower",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 5,
-        "contexts" : 
-        [ 
-          { "form" : "Lower",
-            "weight" : "1",
-            "pos" : 1905,
-            "context" : "Ghostgate, Tower of Dawn <mark>Lower<\/mark> Level" },
-          
-          { "form" : "Lower",
-            "weight" : "1",
-            "pos" : 1915,
-            "context" : "Ghostgate,_Tower_of_Dawn_<mark>Lower<\/mark>_Level" },
-          
-          { "form" : "Lower",
-            "weight" : "1",
-            "pos" : 3778,
-            "context" : "Tel Mora, <mark>Lower<\/mark> Tower" },
-          
-          { "form" : "Lower",
-            "weight" : "1",
-            "pos" : 3873,
-            "context" : "Tel Uvirith, Tower <mark>Lower<\/mark>" },
-          
-          { "form" : "Lower",
-            "weight" : "1",
-            "pos" : 3986,
-            "context" : "Tel_Uvirith,_Tower_<mark>Lower<\/mark>" } ] },
-      
       { "docId" : "librarium_The_Affairs_of_Wizards",
         "docUri" : "librarium\/The_Affairs_of_Wizards.html",
         "score" : 4,
@@ -39,25 +9,25 @@
         [ 
           { "form" : "Lower",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "Ghostgate, Tower of Dawn <mark>Lower<\/mark> Level: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Lower",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "Tel Mora, <mark>Lower<\/mark> Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Lower",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "Tel Uvirith, Tower <mark>Lower<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "lower",
             "weight" : "1",
-            "pos" : 322,
+            "pos" : 317,
             "context" : "...most services. Though House Telvanni does recruit from their own <mark>lower<\/mark> classes, they must go outside their house to hire the...",
             "fid" : "content" } ] },
       
@@ -68,7 +38,7 @@
         [ 
           { "form" : "lower",
             "weight" : "1",
-            "pos" : 2084,
+            "pos" : 2079,
             "context" : "ghostgate, tower of dawn <mark>lower<\/mark> level",
             "fid" : "loc",
             "in" : 
@@ -76,7 +46,7 @@
           
           { "form" : "lower",
             "weight" : "1",
-            "pos" : 3979,
+            "pos" : 3974,
             "context" : "tel mora, <mark>lower<\/mark> tower",
             "fid" : "loc",
             "in" : 
@@ -84,7 +54,7 @@
           
           { "form" : "lower",
             "weight" : "1",
-            "pos" : 4086,
+            "pos" : 4081,
             "context" : "tel uvirith, tower <mark>lower<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -97,7 +67,7 @@
         [ 
           { "form" : "lower",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "...other houses. Later, after faithful service and advancement in <mark>lower<\/mark> ranks, an outlander may seek adoption into a Great House...",
             "fid" : "content" } ] },
       
@@ -108,7 +78,7 @@
         [ 
           { "form" : "lower",
             "weight" : "1",
-            "pos" : 366,
+            "pos" : 361,
             "context" : " The Ashlands are the dry, inhospitable wastelands surrounding the <mark>lower<\/mark> slopes of Red Mountain. The Ashlands extend to the Sea...",
             "fid" : "content" } ] },
       
@@ -119,7 +89,7 @@
         [ 
           { "form" : "lower",
             "weight" : "1",
-            "pos" : 358,
+            "pos" : 353,
             "context" : "...themselves low enough to squirm under the gates so they could <mark>lower<\/mark> the bridge into the main courtyard of the stronghold. Masters...",
             "fid" : "content" } ] },
       
@@ -130,7 +100,7 @@
         [ 
           { "form" : "Lower",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 31,
             "context" : "Tel Uvirith, Tower <mark>Lower<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -141,6 +111,6 @@
         [ 
           { "form" : "Lower",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "Ghostgate, Tower of Dawn <mark>Lower<\/mark> Level: Visitable? yes",
             "fid" : "acq" } ] } ] }

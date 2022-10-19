@@ -9,19 +9,9 @@
         [ 
           { "form" : "Gals",
             "weight" : "1",
-            "pos" : 315,
+            "pos" : 310,
             "context" : "...the docks or the guild guide at the Mages Guild. <mark>Gals<\/mark> Arethi at the docks offers ship passage to Ebonheart, Tel...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Gals",
-            "weight" : "1",
-            "pos" : 6313,
-            "context" : "<mark>Gals<\/mark> Arethi" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "gals",
             "weight" : "1",
-            "pos" : 6383,
+            "pos" : 6378,
             "context" : "<mark>gals<\/mark> arethi",
             "fid" : "persons",
             "in" : 

@@ -2,16 +2,6 @@
   { "stem" : "colovia",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Colovia",
-            "weight" : "1",
-            "pos" : 1439,
-            "context" : "<mark>Colovia<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "colovia",
             "weight" : "1",
-            "pos" : 1610,
+            "pos" : 1605,
             "context" : "<mark>colovia<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Colovia",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "Farewell to <mark>Colovia<\/mark>",
             "fid" : "content" } ] } ] }

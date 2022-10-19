@@ -9,19 +9,19 @@
         [ 
           { "form" : "produce",
             "weight" : "1",
-            "pos" : 460,
+            "pos" : 455,
             "context" : "...of Necromancy can be practiced on animals, such experiments rarely <mark>produce<\/mark> interesting results. The servant's ability to follow directions seems to...",
             "fid" : "content" },
           
           { "form" : "produce",
             "weight" : "1",
-            "pos" : 477,
+            "pos" : 472,
             "context" : "...the corpse of a man, elf, or beastman can <mark>produce<\/mark> a useful servant, the corpses of animals produce mere guard...",
             "fid" : "content" },
           
           { "form" : "produce",
             "weight" : "1",
-            "pos" : 482,
+            "pos" : 477,
             "context" : "...beastman can produce a useful servant, the corpses of animals <mark>produce<\/mark> mere guard dogs at best. Often a raised animal is...",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "produce",
             "weight" : "1",
-            "pos" : 812,
+            "pos" : 807,
             "context" : " The regular rain and dark soils of the Grazelands <mark>produce<\/mark> the rich grazing for Ashlander herds that give the region its...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "produce",
             "weight" : "1",
-            "pos" : 239,
+            "pos" : 234,
             "context" : "...named. The very rare black ironwood tree is said to <mark>produce<\/mark> a nut which is very succulent and is believed to enhance...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "produced",
             "weight" : "1",
-            "pos" : 280,
+            "pos" : 275,
             "context" : "Levitation can be <mark>produced<\/mark> from any two of the following ingredients: trama root,...",
             "fid" : "content" } ] } ] }

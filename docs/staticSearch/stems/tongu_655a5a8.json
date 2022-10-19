@@ -9,25 +9,15 @@
         [ 
           { "form" : "tongue",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "...light. A petal from this plant placed under an adventurer's <mark>tongue<\/mark> will provide protection from the heat and fire found in the...",
             "fid" : "content" },
           
           { "form" : "Tongue",
             "weight" : "1",
-            "pos" : 142,
+            "pos" : 137,
             "context" : "Dragon's-<mark>Tongue<\/mark>, common name for a fern like herb found in Black...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "tongue",
-            "weight" : "1",
-            "pos" : 173,
-            "context" : "dragon's-<mark>tongue<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "tongue",
             "weight" : "1",
-            "pos" : 354,
+            "pos" : 349,
             "context" : "dragon's <mark>tongue<\/mark>",
             "fid" : "items",
             "in" : 

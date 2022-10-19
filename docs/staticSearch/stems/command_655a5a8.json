@@ -9,7 +9,7 @@
         [ 
           { "form" : "Commands",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "<mark>Commands<\/mark>.",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "commands",
             "weight" : "1",
-            "pos" : 213,
+            "pos" : 208,
             "context" : "...you will have a much stronger servant who will follow your <mark>commands<\/mark> with more independence and understanding.",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "commandant",
             "weight" : "1",
-            "pos" : 270,
+            "pos" : 265,
             "context" : "...is an eminent Temple priest and scholar. Raesa Pullia is <mark>commandant<\/mark> of Buckmoth Fort, but Imsin the Dreamer is the chapter...",
             "fid" : "content" } ] },
       
@@ -42,7 +42,7 @@
         [ 
           { "form" : "Commands",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "...Master's Voice You swore. To Serve. Your Lord. <mark>Commands<\/mark>.",
             "fid" : "content" } ] },
       
@@ -53,7 +53,7 @@
         [ 
           { "form" : "command",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "...or more faithfully. Much that I did was at your <mark>command<\/mark>, at great cost to myself, and my honor. Yet...",
             "fid" : "content" } ] },
       
@@ -64,6 +64,6 @@
         [ 
           { "form" : "commander",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "...citizens seeking enlistment in the Imperial Legion should apply to the <mark>commander<\/mark> of that garrison, General Darius.",
             "fid" : "GeneralDarius" } ] } ] }

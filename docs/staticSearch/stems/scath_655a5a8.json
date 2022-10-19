@@ -9,19 +9,9 @@
         [ 
           { "form" : "Scathes",
             "weight" : "1",
-            "pos" : 912,
+            "pos" : 907,
             "context" : ".... The worst part of Molag Amur, called the Great <mark>Scathes<\/mark>, is considered impassible even by the Ashlanders.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Scathes",
-            "weight" : "1",
-            "pos" : 2080,
-            "context" : "Great <mark>Scathes<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "scathes",
             "weight" : "1",
-            "pos" : 2247,
+            "pos" : 2242,
             "context" : "great <mark>scathes<\/mark>",
             "fid" : "loc",
             "in" : 

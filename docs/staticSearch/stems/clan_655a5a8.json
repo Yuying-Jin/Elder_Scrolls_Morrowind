@@ -9,13 +9,13 @@
         [ 
           { "form" : "clan",
             "weight" : "1",
-            "pos" : 142,
+            "pos" : 137,
             "context" : "...those bound through Hearth and House to the protection of the <mark>clan<\/mark>.",
             "fid" : "content" },
           
           { "form" : "clan",
             "weight" : "1",
-            "pos" : 218,
+            "pos" : 213,
             "context" : "...may it ever find its way back to its blood and <mark>clan<\/mark>?",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "clan",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "The Great Houses traditions derive from ancient Dunmer <mark>clan<\/mark> and tribes, but now function as political parties. Dunmer...",
             "fid" : "content" },
           
           { "form" : "clan",
             "weight" : "1",
-            "pos" : 155,
+            "pos" : 150,
             "context" : "...is to one's own honor, and to one's family and <mark>clan<\/mark>. Gravity is the essential seriousness of life. Life is...",
             "fid" : "content" } ] },
       
@@ -43,13 +43,13 @@
         [ 
           { "form" : "clans",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "...Moon-and-Star, and it helped Nerevar unite the various <mark>clans<\/mark> into the First Council.",
             "fid" : "content" },
           
           { "form" : "clans",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : "...Houses on the other. Dwemer and Dagoth invited Orc and Nord <mark>clans<\/mark> as allies, and held northwest Morrowind, while Nerevar mustered...",
             "fid" : "content" } ] },
       
@@ -60,13 +60,13 @@
         [ 
           { "form" : "clans",
             "weight" : "1",
-            "pos" : 156,
+            "pos" : 151,
             "context" : "...and no references have ever linked these legends with the known <mark>clans<\/mark> of Tamrielic vampires....",
             "fid" : "content" },
           
           { "form" : "clan",
             "weight" : "1",
-            "pos" : 188,
+            "pos" : 183,
             "context" : "...hypnotize victims before feeding, while the swift and agile Berne <mark>clan<\/mark> vampires prefer stealth and ambush, first poisoning the victim with...",
             "fid" : "content" } ] },
       
@@ -77,7 +77,7 @@
         [ 
           { "form" : "clan",
             "weight" : "1",
-            "pos" : 209,
+            "pos" : 204,
             "context" : "...protect the poor and weak, and honor your elders and <mark>clan<\/mark>.",
             "fid" : "content" } ] },
       
@@ -88,19 +88,9 @@
         [ 
           { "form" : "Clan",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "...I passively acquiesced in my gradual integration into the affairs of <mark>Clan<\/mark> Aundae. I made no human my prey, only beasts...",
             "fid" : "ClanAundae" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Clan",
-            "weight" : "1",
-            "pos" : 4933,
-            "context" : "<mark>Clan<\/mark> Aundae" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -109,7 +99,7 @@
         [ 
           { "form" : "clan",
             "weight" : "1",
-            "pos" : 5059,
+            "pos" : 5054,
             "context" : "<mark>clan<\/mark> aundae",
             "fid" : "group",
             "in" : 
@@ -122,6 +112,6 @@
         [ 
           { "form" : "clan",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Chimere Graegyn was a retainer of the ambitious Direnni <mark>clan<\/mark>. The Direnni derived the bulk of their power from their...",
             "fid" : "content" } ] } ] }

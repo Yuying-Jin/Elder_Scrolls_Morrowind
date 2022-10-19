@@ -9,40 +9,30 @@
         [ 
           { "form" : "Ald'ruhn-under-Skar",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "...on Vvardenfell. The three principal districts are Ald'ruhn town, <mark>Ald'ruhn-under-Skar<\/mark>, and Buckmoth Fort.",
             "fid" : "content" },
           
           { "form" : "Ald'ruhn-under-Skar",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : " <mark>Ald'ruhn-under-Skar<\/mark> is the most distinctive architectural feature of Ald'ruhn -- a manor...",
             "fid" : "content" },
           
           { "form" : "Ald'ruhn-Under-Skar",
             "weight" : "1",
-            "pos" : 147,
+            "pos" : 142,
             "context" : "...Redoran services are in the Council House and Councilor's Manors of <mark>Ald'ruhn-Under-Skar<\/mark>. The Ald'ruhn Temple on the east side of town provides...",
             "fid" : "content" },
           
           { "form" : "Ald'ruhn-Under-Skar",
             "weight" : "1",
-            "pos" : 203,
+            "pos" : 198,
             "context" : "..., trader, pawnbroker, and bookseller near the entrance to <mark>Ald'ruhn-Under-Skar<\/mark>. The Ald Skar Inn and the Council Club cornerclub are...",
             "fid" : "content" },
           
           { "form" : "Ald'ruhn-Under-Skar",
             "weight" : "1",
-            "pos" : 291,
+            "pos" : 286,
             "context" : "...steward of the Morag Tong, whose guildhall is found in <mark>Ald'ruhn-Under-Skar<\/mark>.",
-            "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ald'ruhn-Under-Skar",
-            "weight" : "1",
-            "pos" : 912,
-            "context" : "<mark>Ald'ruhn-Under-Skar<\/mark>" } ] } ] }
+            "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "information",
             "weight" : "1",
-            "pos" : 284,
+            "pos" : 279,
             "context" : "...S'Rabba literally, and we all ended up being tortured for <mark>information<\/mark> about you and your troops. You probably haven't had the...",
             "fid" : "content" },
           
           { "form" : "information",
             "weight" : "1",
-            "pos" : 290,
+            "pos" : 285,
             "context" : ".... You probably haven't had the experience of being tortured for <mark>information<\/mark> you don't have, have you? I wouldn't recommend it. Eventually,...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "information",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : "The help of friends includes <mark>information<\/mark>. Your friends at the Thieves Guild know where the action...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "informal",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "The Real Nerevar: A Telvanni retainer's <mark>informal<\/mark> history of Nerevar",
             "fid" : "content" } ] } ] }

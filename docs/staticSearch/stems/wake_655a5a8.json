@@ -9,12 +9,12 @@
         [ 
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "Hanin's <mark>Wake<\/mark>" },
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 188,
+            "pos" : 183,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 247,
+            "pos" : 242,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 321,
+            "pos" : 316,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 397,
+            "pos" : 392,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 457,
+            "pos" : 452,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 565,
+            "pos" : 560,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 628,
+            "pos" : 623,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 751,
+            "pos" : 746,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 848,
+            "pos" : 843,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 1131,
+            "pos" : 1126,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 1158,
+            "pos" : 1153,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -102,7 +102,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 1195,
+            "pos" : 1190,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -110,7 +110,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 1224,
+            "pos" : 1219,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -118,7 +118,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 2688,
+            "pos" : 2683,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -126,7 +126,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 2750,
+            "pos" : 2745,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -134,7 +134,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 3107,
+            "pos" : 3102,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -142,7 +142,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 3684,
+            "pos" : 3679,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -150,7 +150,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 5277,
+            "pos" : 5272,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -158,7 +158,7 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 7561,
+            "pos" : 7556,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -166,116 +166,11 @@
           
           { "form" : "Wake",
             "weight" : "1",
-            "pos" : 7738,
+            "pos" : 7733,
             "context" : "Hanin's <mark>Wake<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 20,
-        "contexts" : 
-        [ 
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 10,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 65,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 139,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 2" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 216,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 2" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 276,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 394,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 2" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 458,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 577,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 671,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 959,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 986,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 1025,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 1054,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 2519,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 2581,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 2934,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 3532,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 5101,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 7422,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" },
-          
-          { "form" : "Wake",
-            "weight" : "1",
-            "pos" : 7593,
-            "context" : "Hanin's <mark>Wake<\/mark>, count: 1" } ] },
       
       { "docId" : "librarium_Hanins_wake",
         "docUri" : "librarium\/Hanins_wake.html",
@@ -284,7 +179,7 @@
         [ 
           { "form" : "wake",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "The <mark>wake<\/mark> was considered a great success as the beverage killed a great...",
             "fid" : "content" } ] },
       
@@ -295,7 +190,7 @@
         [ 
           { "form" : "wake",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "...House was not dead, but only sleeping. Now we <mark>wake<\/mark> from our long dream, coming forth to free Morrowind of...",
             "fid" : "content" } ] },
       
@@ -306,7 +201,7 @@
         [ 
           { "form" : "wake",
             "weight" : "1",
-            "pos" : 172,
+            "pos" : 167,
             "context" : "But when shall they <mark>wake<\/mark>?",
             "fid" : "content" } ] },
       
@@ -317,6 +212,6 @@
         [ 
           { "form" : "wake",
             "weight" : "1",
-            "pos" : 671,
+            "pos" : 666,
             "context" : "...they would spend their share of the gold. Both would <mark>wake<\/mark> up early and rush to the Plot and Plaster. He...",
             "fid" : "content" } ] } ] }

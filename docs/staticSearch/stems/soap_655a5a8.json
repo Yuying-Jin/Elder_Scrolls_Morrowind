@@ -9,31 +9,21 @@
         [ 
           { "form" : "soap",
             "weight" : "1",
-            "pos" : 403,
+            "pos" : 398,
             "context" : "Fire Shield potions can be made from comberry and sload <mark>soap<\/mark>. comberry is the bitter berry of the Ascadian Isles....",
             "fid" : "content" },
           
           { "form" : "soap",
             "weight" : "1",
-            "pos" : 410,
+            "pos" : 405,
             "context" : "...comberry is the bitter berry of the Ascadian Isles. sload <mark>soap<\/mark> is a waxy substance made from the immature non-sentient...",
             "fid" : "content" },
           
           { "form" : "soap",
             "weight" : "1",
-            "pos" : 421,
+            "pos" : 416,
             "context" : "...the immature non-sentient forms of the sload. sload <mark>soap<\/mark> is not expensive, but is only rarely stocked by apothecaries...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "soap",
-            "weight" : "1",
-            "pos" : 490,
-            "context" : "sload_<mark>soap<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -42,7 +32,7 @@
         [ 
           { "form" : "soap",
             "weight" : "1",
-            "pos" : 660,
+            "pos" : 655,
             "context" : "sload <mark>soap<\/mark>",
             "fid" : "items",
             "in" : 

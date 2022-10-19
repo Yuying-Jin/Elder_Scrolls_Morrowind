@@ -9,7 +9,7 @@
         [ 
           { "form" : "supposedly",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "This book is <mark>supposedly<\/mark> the definitive reference to fishy sticks throughout Tamriel, but the...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "suppose",
             "weight" : "1",
-            "pos" : 339,
+            "pos" : 334,
             "context" : "...of me, stuck here all by myself, worrying about you. I <mark>suppose<\/mark> you'd like it if I took more of an interest in...",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "supposed",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "...boat, laden with five crates of moon sugar, was <mark>supposed<\/mark> to meet another, the Sanchariot, off the coast of...",
             "fid" : "content" } ] },
       
@@ -42,7 +42,7 @@
         [ 
           { "form" : "Supposedly",
             "weight" : "1",
-            "pos" : 274,
+            "pos" : 269,
             "context" : "<mark>Supposedly<\/mark> the Spear of Bitter Mercy used in the Wild Hunts could...",
             "fid" : "content" } ] },
       
@@ -53,6 +53,6 @@
         [ 
           { "form" : "supposed",
             "weight" : "1",
-            "pos" : 204,
+            "pos" : 199,
             "context" : "...It is <mark>supposed<\/mark> that vampirism is contracted from wounds received from a vampire....",
             "fid" : "content" } ] } ] }

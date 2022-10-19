@@ -2,31 +2,6 @@
   { "stem" : "chamber",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Chambers",
-            "weight" : "1",
-            "pos" : 3225,
-            "context" : "Sadrith Mora, Telvanni Council House <mark>Chambers<\/mark>" },
-          
-          { "form" : "Chamber",
-            "weight" : "1",
-            "pos" : 3703,
-            "context" : "Tel Branora, Therana's <mark>Chamber<\/mark>" },
-          
-          { "form" : "Chambers",
-            "weight" : "1",
-            "pos" : 4028,
-            "context" : "Telvanni Council House <mark>Chambers<\/mark>" },
-          
-          { "form" : "Chamber",
-            "weight" : "1",
-            "pos" : 5021,
-            "context" : "Redoran Council <mark>Chamber<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 4,
@@ -34,7 +9,7 @@
         [ 
           { "form" : "chambers",
             "weight" : "1",
-            "pos" : 3465,
+            "pos" : 3460,
             "context" : "sadrith mora, telvanni council house <mark>chambers<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -42,7 +17,7 @@
           
           { "form" : "chamber",
             "weight" : "1",
-            "pos" : 3900,
+            "pos" : 3895,
             "context" : "tel branora, therana's <mark>chamber<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -50,7 +25,7 @@
           
           { "form" : "chambers",
             "weight" : "1",
-            "pos" : 4172,
+            "pos" : 4167,
             "context" : "telvanni council house <mark>chambers<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -58,7 +33,7 @@
           
           { "form" : "chamber",
             "weight" : "1",
-            "pos" : 5167,
+            "pos" : 5162,
             "context" : "redoran council <mark>chamber<\/mark>",
             "fid" : "group",
             "in" : 
@@ -71,13 +46,13 @@
         [ 
           { "form" : "chambers",
             "weight" : "1",
-            "pos" : 226,
+            "pos" : 221,
             "context" : ".... Also located at Castle Ebonheart are the Vvardenfell District Council <mark>chambers<\/mark> and the Hawk Moth Legion garrison. The officers, docks...",
             "fid" : "content" },
           
           { "form" : "Chamber",
             "weight" : "1",
-            "pos" : 1167,
+            "pos" : 1162,
             "context" : "...House Redoran, and a large settlement. The Redoran Council <mark>Chamber<\/mark> are located inside the shell of an ancient extinct giant crab...",
             "fid" : "content" } ] },
       
@@ -88,7 +63,7 @@
         [ 
           { "form" : "Chambers",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "Sadrith Mora, Telvanni Council House <mark>Chambers<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -99,7 +74,7 @@
         [ 
           { "form" : "Chambers",
             "weight" : "1",
-            "pos" : 262,
+            "pos" : 257,
             "context" : "...at Moonmoth Legion Fort, Ruccia Conician in the Grand Council <mark>Chambers<\/mark> in Ebonheart, or Lalatia Varian in the Imperial Chapels at...",
             "fid" : "content" } ] },
       
@@ -110,7 +85,7 @@
         [ 
           { "form" : "chambers",
             "weight" : "1",
-            "pos" : 110,
+            "pos" : 105,
             "context" : "...dome, from which radiate the entrances to the Redoran Council <mark>chambers<\/mark>, the manors of the Redoran councilors, and shops of...",
             "fid" : "content" } ] },
       
@@ -121,7 +96,7 @@
         [ 
           { "form" : "Chambers",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : " Telvanni Council House <mark>Chambers<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -132,6 +107,6 @@
         [ 
           { "form" : "Chamber",
             "weight" : "1",
-            "pos" : 53,
+            "pos" : 48,
             "context" : "Tel Branora, Therana's <mark>Chamber<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

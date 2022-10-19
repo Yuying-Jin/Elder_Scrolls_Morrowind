@@ -9,19 +9,19 @@
         [ 
           { "form" : "Marsh",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "Finding suitable corpses in Black <mark>Marsh<\/mark> is nearly impossible due to their rapid decay. There are...",
             "fid" : "content" },
           
           { "form" : "Marsh",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "...of only a few Sload Necromancers who operate successfully in Black <mark>Marsh<\/mark>, and even they stay near coast.",
             "fid" : "content" },
           
           { "form" : "Marsh",
             "weight" : "1",
-            "pos" : 118,
+            "pos" : 113,
             "context" : "...Elsweyr pose some of the same problems as those of Black <mark>Marsh<\/mark>, the deserts preserve corpses for hundreds of years in a...",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "marshes",
             "weight" : "1",
-            "pos" : 499,
+            "pos" : 494,
             "context" : "...is in the south of Morrowind, bordering the swamps and <mark>marshes<\/mark> of Black Marsh. House Dres is an agrarian agricultural society...",
             "fid" : "content" },
           
           { "form" : "Marsh",
             "weight" : "1",
-            "pos" : 501,
+            "pos" : 496,
             "context" : "...south of Morrowind, bordering the swamps and marshes of Black <mark>Marsh<\/mark>. House Dres is an agrarian agricultural society, and its...",
             "fid" : "content" } ] },
       
@@ -49,13 +49,13 @@
         [ 
           { "form" : "Marsh",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "...as the Imperial Province), and on the south by Black <mark>Marsh<\/mark> (also known as Argonia). Vvardenfell District encompasses Vvardefell [...",
             "fid" : "content" },
           
           { "form" : "marshes",
             "weight" : "1",
-            "pos" : 701,
+            "pos" : 696,
             "context" : "...to Gnaar Mok is called the Bitter Coast. The salt <mark>marshes<\/mark> and humid swamps of this region are uninhabited, with the...",
             "fid" : "content" } ] },
       
@@ -66,13 +66,13 @@
         [ 
           { "form" : "Marsh",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "..., common name for a fern like herb found in Black <mark>Marsh<\/mark>. It is especially prolific around the area of Utherus Swamp...",
             "fid" : "content" },
           
           { "form" : "Marsh",
             "weight" : "1",
-            "pos" : 282,
+            "pos" : 277,
             "context" : "...The Somnalius Fern can be found in the swamps of Black <mark>Marsh<\/mark>. The fronds from this plant are light green and quite...",
             "fid" : "content" } ] },
       
@@ -83,19 +83,9 @@
         [ 
           { "form" : "marsh",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "...place the corpse along a coast or in a swamp or <mark>marsh<\/mark>. Animals are the Necromancer's greatest allies when it comes to...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Marsh",
-            "weight" : "1",
-            "pos" : 1305,
-            "context" : "Black <mark>Marsh<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -104,7 +94,7 @@
         [ 
           { "form" : "marsh",
             "weight" : "1",
-            "pos" : 1468,
+            "pos" : 1463,
             "context" : "black <mark>marsh<\/mark>",
             "fid" : "loc",
             "in" : 

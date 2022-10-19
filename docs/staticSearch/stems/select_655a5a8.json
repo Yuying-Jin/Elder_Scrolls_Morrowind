@@ -9,7 +9,7 @@
         [ 
           { "form" : "selects",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : " The Guild <mark>selects<\/mark> candidates who are strong and healthy. A candidate must have...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "selections",
             "weight" : "1",
-            "pos" : 194,
+            "pos" : 189,
             "context" : "...as well. Commodities at reasonable prices, but with smaller <mark>selections<\/mark>, are available from the smith, clothier, trader,...",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "selects",
             "weight" : "1",
-            "pos" : 131,
+            "pos" : 126,
             "context" : "The Legion <mark>selects<\/mark> candidates on the basis of superior endurance, the soldierly virtue...",
             "fid" : "content" } ] } ] }

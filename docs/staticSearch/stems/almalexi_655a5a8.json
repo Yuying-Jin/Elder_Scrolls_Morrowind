@@ -2,16 +2,6 @@
   { "stem" : "almalexi",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Almalexial",
-            "weight" : "1",
-            "pos" : 6264,
-            "context" : "<mark>Almalexial<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "almalexial",
             "weight" : "1",
-            "pos" : 6329,
+            "pos" : 6324,
             "context" : "<mark>almalexial<\/mark>",
             "fid" : "persons",
             "in" : 

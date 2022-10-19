@@ -9,12 +9,12 @@
         [ 
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "<mark>Progress<\/mark> of Truth" },
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 2892,
+            "pos" : 2887,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 2965,
+            "pos" : 2960,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 3196,
+            "pos" : 3191,
             "context" : "<mark>Progress<\/mark> of Truth, count: 8",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 4024,
+            "pos" : 4019,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 4476,
+            "pos" : 4471,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 4943,
+            "pos" : 4938,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "group",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 5007,
+            "pos" : 5002,
             "context" : "<mark>Progress<\/mark> of Truth, count: 4",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 5036,
+            "pos" : 5031,
             "context" : "<mark>Progress<\/mark> of Truth, count: 2",
             "fid" : "group",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 5264,
+            "pos" : 5259,
             "context" : "<mark>Progress<\/mark> of Truth, count: 2",
             "fid" : "group",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 5386,
+            "pos" : 5381,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "group",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 5424,
+            "pos" : 5419,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "group",
             "in" : 
@@ -102,7 +102,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 5892,
+            "pos" : 5887,
             "context" : "<mark>Progress<\/mark> of Truth, count: 6",
             "fid" : "group",
             "in" : 
@@ -110,7 +110,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 5934,
+            "pos" : 5929,
             "context" : "<mark>Progress<\/mark> of Truth, count: 14",
             "fid" : "group",
             "in" : 
@@ -118,7 +118,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 6001,
+            "pos" : 5996,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "group",
             "in" : 
@@ -126,7 +126,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 6090,
+            "pos" : 6085,
             "context" : "<mark>Progress<\/mark> of Truth, count: 15",
             "fid" : "group",
             "in" : 
@@ -134,7 +134,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 6372,
+            "pos" : 6367,
             "context" : "<mark>Progress<\/mark> of Truth, count: 3",
             "fid" : "persons",
             "in" : 
@@ -142,7 +142,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 6867,
+            "pos" : 6862,
             "context" : "<mark>Progress<\/mark> of Truth, count: 1",
             "fid" : "persons",
             "in" : 
@@ -150,7 +150,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 7090,
+            "pos" : 7085,
             "context" : "<mark>Progress<\/mark> of Truth, count: 5",
             "fid" : "persons",
             "in" : 
@@ -158,7 +158,7 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 7586,
+            "pos" : 7581,
             "context" : "<mark>Progress<\/mark> of Truth, count: 6",
             "fid" : "persons",
             "in" : 
@@ -166,116 +166,11 @@
           
           { "form" : "Progress",
             "weight" : "1",
-            "pos" : 7620,
+            "pos" : 7615,
             "context" : "<mark>Progress<\/mark> of Truth, count: 2",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 20,
-        "contexts" : 
-        [ 
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 2723,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 2799,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 3023,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 8" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 3823,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 4337,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 4825,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 4884,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 4" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 4913,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 2" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 5081,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 2" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 5189,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 5230,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 5644,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 6" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 5668,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 14" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 5735,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 5810,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 15" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 6302,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 3" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 6754,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 1" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 6957,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 5" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 7447,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 6" },
-          
-          { "form" : "Progress",
-            "weight" : "1",
-            "pos" : 7486,
-            "context" : "<mark>Progress<\/mark> of Truth, count: 2" } ] },
       
       { "docId" : "librarium_Grasping_Fortune",
         "docUri" : "librarium\/Grasping_Fortune.html",
@@ -284,7 +179,7 @@
         [ 
           { "form" : "progress",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "In the great wind of <mark>progress<\/mark>, tradition cannot stand.",
             "fid" : "content" } ] },
       
@@ -295,7 +190,7 @@
         [ 
           { "form" : "progress",
             "weight" : "1",
-            "pos" : 275,
+            "pos" : 270,
             "context" : "...—but has readily adapted to the rapid pace of change and <mark>progress<\/mark> in the Imperial provinces. Unlike the other Great Houses,...",
             "fid" : "content" } ] },
       
@@ -306,6 +201,6 @@
         [ 
           { "form" : "progressively",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 101,
             "context" : "...memory. Chimere was condemned to live forever, to grow <mark>progressively<\/mark> old and crippled with arthritis, and to contemplate the tragic...",
             "fid" : "content" } ] } ] }

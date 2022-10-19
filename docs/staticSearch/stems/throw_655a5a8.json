@@ -9,19 +9,9 @@
         [ 
           { "form" : "throwing",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "...you want the marksman's weapons -- the bow, crossbow, <mark>throwing<\/mark> star, and dart. You want light armor, so...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "throwing",
-            "weight" : "1",
-            "pos" : 544,
-            "context" : "<mark>throwing<\/mark> star" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "throwing",
             "weight" : "1",
-            "pos" : 718,
+            "pos" : 713,
             "context" : "<mark>throwing<\/mark> star",
             "fid" : "items",
             "in" : 
@@ -43,7 +33,7 @@
         [ 
           { "form" : "throwing",
             "weight" : "1",
-            "pos" : 308,
+            "pos" : 303,
             "context" : "...and with great accuracy. He could hit a fish by <mark>throwing<\/mark> the spear or by plunging at one at his feet....",
             "fid" : "content" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "throwing",
             "weight" : "1",
-            "pos" : 353,
+            "pos" : 348,
             "context" : "...when you're only anticipating one or two victims, nothing beats <mark>throwing<\/mark> a sack over the targets [sic] head, drawing...",
             "fid" : "content" } ] } ] }

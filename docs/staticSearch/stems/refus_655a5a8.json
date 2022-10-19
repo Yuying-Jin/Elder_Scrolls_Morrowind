@@ -9,7 +9,7 @@
         [ 
           { "form" : "Refuse",
             "weight" : "1",
-            "pos" : 222,
+            "pos" : 217,
             "context" : "<mark>Refuse<\/mark> neither brother nor ghost.",
             "fid" : "content" } ] },
       
@@ -20,6 +20,6 @@
         [ 
           { "form" : "refuse",
             "weight" : "1",
-            "pos" : 276,
+            "pos" : 271,
             "context" : "...of the disease. According to legend, the vampire Hunters <mark>refuse<\/mark> to reveal the cure to the disease for fear that it...",
             "fid" : "content" } ] } ] }

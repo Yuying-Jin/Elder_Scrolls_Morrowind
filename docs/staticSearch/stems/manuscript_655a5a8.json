@@ -9,12 +9,12 @@
         [ 
           { "form" : "Manuscript",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : "Saryonis Sermons <mark>Manuscript<\/mark>" },
           
           { "form" : "Manuscript",
             "weight" : "1",
-            "pos" : 2614,
+            "pos" : 2609,
             "context" : "Saryonis Sermons <mark>Manuscript<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Manuscript",
             "weight" : "1",
-            "pos" : 3605,
+            "pos" : 3600,
             "context" : "Saryonis Sermons <mark>Manuscript<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,28 +30,8 @@
           
           { "form" : "Manuscript",
             "weight" : "1",
-            "pos" : 7685,
+            "pos" : 7680,
             "context" : "Saryonis Sermons <mark>Manuscript<\/mark>, count: 8",
             "fid" : "persons",
             "in" : 
-            [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Manuscript",
-            "weight" : "1",
-            "pos" : 2443,
-            "context" : "Saryonis Sermons <mark>Manuscript<\/mark>, count: 1" },
-          
-          { "form" : "Manuscript",
-            "weight" : "1",
-            "pos" : 3452,
-            "context" : "Saryonis Sermons <mark>Manuscript<\/mark>, count: 1" },
-          
-          { "form" : "Manuscript",
-            "weight" : "1",
-            "pos" : 7536,
-            "context" : "Saryonis Sermons <mark>Manuscript<\/mark>, count: 8" } ] } ] }
+            [ "ssCtx5" ] } ] } ] }

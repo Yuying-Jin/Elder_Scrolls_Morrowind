@@ -9,25 +9,15 @@
         [ 
           { "form" : "Stendarr",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "...Aedra Akatosh, Dibella, Arkay, Zenithar, Mara, <mark>Stendarr<\/mark>, Kynareth, and Julianos, and the Talos cult,...",
             "fid" : "content" },
           
           { "form" : "Stendarr",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "...: Akatosh, Dibella, Arkay, Zenithar, Mara, <mark>Stendarr<\/mark>, Kynareth, Julianos, and Tiber Septim. We preach...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Stendarr",
-            "weight" : "1",
-            "pos" : 7368,
-            "context" : "<mark>Stendarr<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "stendarr",
             "weight" : "1",
-            "pos" : 7481,
+            "pos" : 7476,
             "context" : "<mark>stendarr<\/mark>",
             "fid" : "persons",
             "in" : 

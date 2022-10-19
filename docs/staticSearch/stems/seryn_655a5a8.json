@@ -2,21 +2,6 @@
   { "stem" : "seryn",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Seryn",
-            "weight" : "1",
-            "pos" : 7221,
-            "context" : "Saint <mark>Seryn<\/mark>" },
-          
-          { "form" : "Seryn",
-            "weight" : "1",
-            "pos" : 7348,
-            "context" : "St.<mark>Seryn<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "seryn",
             "weight" : "1",
-            "pos" : 7336,
+            "pos" : 7331,
             "context" : "saint <mark>seryn<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "seryn",
             "weight" : "1",
-            "pos" : 7461,
+            "pos" : 7456,
             "context" : "st.<mark>seryn<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -45,13 +30,13 @@
         [ 
           { "form" : "Seryn",
             "weight" : "1",
-            "pos" : 245,
+            "pos" : 240,
             "context" : "St. <mark>Seryn<\/mark> grants Seryn's Shield, for resistance to poisons.",
             "fid" : "content" },
           
           { "form" : "Seryn's",
             "weight" : "1",
-            "pos" : 247,
+            "pos" : 242,
             "context" : "St. Seryn grants <mark>Seryn's<\/mark> Shield, for resistance to poisons.",
             "fid" : "content" } ] },
       
@@ -62,6 +47,6 @@
         [ 
           { "form" : "Seryn",
             "weight" : "1",
-            "pos" : 304,
+            "pos" : 299,
             "context" : "...have enough gold that I could support myself if you, Saint <mark>Seryn<\/mark> let it not be so, were killed during one of these...",
             "fid" : "content" } ] } ] }

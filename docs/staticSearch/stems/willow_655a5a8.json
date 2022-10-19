@@ -9,25 +9,15 @@
         [ 
           { "form" : "willow",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : ".... In time, he had grown an impressive garden of <mark>willow<\/mark> anther, gold kanet, chokeweed, white bloatroot, and...",
             "fid" : "willow anther" },
           
           { "form" : "willow",
             "weight" : "1",
-            "pos" : 762,
+            "pos" : 757,
             "context" : "...to fortify his personality in exchange for next season's worth of <mark>willow<\/mark> anther. Then they lived happily ever after.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "willow",
-            "weight" : "1",
-            "pos" : 601,
-            "context" : "<mark>willow<\/mark>_anther" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "willow",
             "weight" : "1",
-            "pos" : 775,
+            "pos" : 770,
             "context" : "<mark>willow<\/mark> anther",
             "fid" : "items",
             "in" : 

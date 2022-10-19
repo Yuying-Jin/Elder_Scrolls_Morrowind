@@ -9,19 +9,9 @@
         [ 
           { "form" : "Valvius",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "Caldera, <mark>Valvius<\/mark> Mevureius' House: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Valvius",
-            "weight" : "1",
-            "pos" : 1403,
-            "context" : "Caldera, <mark>Valvius<\/mark> Mevureius' House" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "valvius",
             "weight" : "1",
-            "pos" : 1574,
+            "pos" : 1569,
             "context" : "caldera, <mark>valvius<\/mark> mevureius' house",
             "fid" : "loc",
             "in" : 

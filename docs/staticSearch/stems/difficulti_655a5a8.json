@@ -9,13 +9,13 @@
         [ 
           { "form" : "difficulties",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 94,
             "context" : ".... There are also diseases, Argonian tribesmen, and other <mark>difficulties<\/mark> that must be dealt with. I know of only a few...",
             "fid" : "content" },
           
           { "form" : "difficulties",
             "weight" : "1",
-            "pos" : 437,
+            "pos" : 432,
             "context" : "These <mark>difficulties<\/mark> lead many Necromancers to create their own corpses. While I...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "difficulty",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : "...obstacle is too difficult, seek for a path around the <mark>difficulty<\/mark>.",
             "fid" : "content" },
           
           { "form" : "difficulty",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...obstacle is too difficult, look for a path around the <mark>difficulty<\/mark>... but if no path around can be found, confront...",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "difficulty",
             "weight" : "1",
-            "pos" : 142,
+            "pos" : 137,
             "context" : "...they see with little or no preparation at all. Given the <mark>difficulty<\/mark> of obtaining corpses, this kind of inefficiency cannot be tolerated...",
             "fid" : "content" } ] } ] }

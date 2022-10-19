@@ -9,55 +9,55 @@
         [ 
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "In Cyrodiil, a few <mark>Necromancers<\/mark> who have served the Empire are given the corpses of criminals...",
             "fid" : "content" },
           
           { "form" : "Necromancer",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "...stolen from one of their ashpits, a careful and discrete <mark>Necromancer<\/mark> can thrive in Morrowind by taking slaves at a modest rate...",
             "fid" : "content" },
           
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "...must be dealt with. I know of only a few Sload <mark>Necromancers<\/mark> who operate successfully in Black Marsh, and even they stay...",
             "fid" : "content" },
           
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 185,
+            "pos" : 180,
             "context" : "...an intolerance of Necromancy that goes beyond all reason. Many <mark>Necromancers<\/mark> who practice our Arts in Valenwood become \"one with the trees\"...",
             "fid" : "content" },
           
           { "form" : "Necromancer",
             "weight" : "1",
-            "pos" : 221,
+            "pos" : 216,
             "context" : "...rather than the more practical uses of our Art. A <mark>Necromancer<\/mark> of any other race caught in Summerset Isle can expect the...",
             "fid" : "content" },
           
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 379,
+            "pos" : 374,
             "context" : "...Skyrim, the cold weather and isolated terrain allow a few <mark>Necromancers<\/mark> to operate freely. Alas, the availability of corpses is...",
             "fid" : "content" },
           
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 404,
+            "pos" : 399,
             "context" : "...to the magical detection of corpses would be invaluable to the <mark>Necromancers<\/mark> of Skyrim.",
             "fid" : "content" },
           
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 408,
+            "pos" : 403,
             "context" : "The Sload are the most famous <mark>Necromancers<\/mark>, but little is known of their native Thras. In...",
             "fid" : "content" },
           
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 440,
+            "pos" : 435,
             "context" : "These difficulties lead many <mark>Necromancers<\/mark> to create their own corpses. While I prefer to work...",
             "fid" : "content" } ] },
       
@@ -68,19 +68,19 @@
         [ 
           { "form" : "necromancer's",
             "weight" : "1",
-            "pos" : 186,
+            "pos" : 181,
             "context" : "...the shame of the dead, the ceaseless weeping of the <mark>necromancer's<\/mark> thrall? Cruel enough is the ancestor's service given in love...",
             "fid" : "content" },
           
           { "form" : "necromancers",
             "weight" : "1",
-            "pos" : 258,
+            "pos" : 253,
             "context" : "...No, I say, no, and no, three times more. Such <mark>necromancers<\/mark> must die, and their profane magicks must die with them....",
             "fid" : "content" },
           
           { "form" : "necromancers",
             "weight" : "1",
-            "pos" : 272,
+            "pos" : 267,
             "context" : "...the hidden hosts of the undead, the arrogant princes of <mark>necromancers<\/mark>, the ancient vampire demons who creep from their lairs in...",
             "fid" : "content" } ] },
       
@@ -91,36 +91,21 @@
         [ 
           { "form" : "Necromancer's",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "...coast or in a swamp or marsh. Animals are the <mark>Necromancer's<\/mark> greatest allies when it comes to stripping the flesh from a...",
             "fid" : "content" },
           
           { "form" : "Necromancer",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : ".... However, there are a few tips that a young <mark>Necromancer<\/mark> might want to know. For instance, a decayed servant...",
             "fid" : "content" },
           
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 171,
+            "pos" : 166,
             "context" : "...have to apply more salts if they become saturated. Some <mark>Necromancers<\/mark> remove the vital organs before or after this process, but...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Necromancer",
-            "weight" : "1",
-            "pos" : 5566,
-            "context" : "<mark>Necromancer<\/mark>" },
-          
-          { "form" : "necromancers",
-            "weight" : "1",
-            "pos" : 6078,
-            "context" : "<mark>necromancers<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -129,7 +114,7 @@
         [ 
           { "form" : "necromancer",
             "weight" : "1",
-            "pos" : 5808,
+            "pos" : 5803,
             "context" : "<mark>necromancer<\/mark>",
             "fid" : "group",
             "in" : 
@@ -137,7 +122,7 @@
           
           { "form" : "necromancers",
             "weight" : "1",
-            "pos" : 5815,
+            "pos" : 5810,
             "context" : "<mark>necromancers<\/mark>",
             "fid" : "group",
             "in" : 
@@ -150,7 +135,7 @@
         [ 
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "Most <mark>Necromancers<\/mark> are fools and weaklings. Fodder for the witchhunters. But...",
             "fid" : "content" } ] },
       
@@ -161,6 +146,6 @@
         [ 
           { "form" : "Necromancers",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : "...should be given to the skeleton's preparation. Too many young <mark>Necromancers<\/mark> raise every skeleton they see with little or no preparation at...",
             "fid" : "Necromancer" } ] } ] }

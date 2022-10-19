@@ -9,13 +9,13 @@
         [ 
           { "form" : "standing",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "...out immediately to avoid harm. But if the kagouti is <mark>standing<\/mark> in a pool, and a wizard slowly raises the temperature...",
             "fid" : "content" },
           
           { "form" : "stand",
             "weight" : "1",
-            "pos" : 156,
+            "pos" : 151,
             "context" : "...measure by measure, to boiling, the kagouti will calmly <mark>stand<\/mark> in place until he is boiled. Thus we see that...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "stand",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "...of the Seven Graces. At each site the pilgrim must <mark>stand<\/mark> before the three-sided stone triolith and read the inscription...",
             "fid" : "content" },
           
           { "form" : "stands",
             "weight" : "1",
-            "pos" : 200,
+            "pos" : 195,
             "context" : "...the Tribunal and all its works. Thus the moon now <mark>stands<\/mark> guard over the palace, and serves as a citadel for...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "stand",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : ".... In the days to come, few will dare to <mark>stand<\/mark> against your might. But one obstacle remains. His name...",
             "fid" : "content" } ] },
       
@@ -54,7 +54,7 @@
         [ 
           { "form" : "standing",
             "weight" : "1",
-            "pos" : 175,
+            "pos" : 170,
             "context" : "Chapters are established in Guild-owned, free-<mark>standing<\/mark> guildhalls in the towns of Ald'ruhn and Balmora. The chapter...",
             "fid" : "content" } ] },
       
@@ -65,7 +65,7 @@
         [ 
           { "form" : "stand",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : "In the great wind of progress, tradition cannot <mark>stand<\/mark>.",
             "fid" : "content" } ] },
       
@@ -76,19 +76,9 @@
         [ 
           { "form" : "stand",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "...ranks in a Great House requires that a Great House councilor <mark>stand<\/mark> as sponsor for the candidate's character and loyalty. Finding a...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Stands",
-            "weight" : "1",
-            "pos" : 7015,
-            "context" : "Only-He-<mark>Stands<\/mark>-There" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -97,7 +87,7 @@
         [ 
           { "form" : "stands",
             "weight" : "1",
-            "pos" : 7499,
+            "pos" : 7494,
             "context" : "only he <mark>stands<\/mark> there",
             "fid" : "persons",
             "in" : 
@@ -110,7 +100,7 @@
         [ 
           { "form" : "stand",
             "weight" : "1",
-            "pos" : 239,
+            "pos" : 234,
             "context" : "If Vivec is for us, who can <mark>stand<\/mark> against us?",
             "fid" : "content" } ] },
       
@@ -121,7 +111,7 @@
         [ 
           { "form" : "stand",
             "weight" : "1",
-            "pos" : 384,
+            "pos" : 379,
             "context" : "..., Master Combova,\" said Yakin. \"They say he can <mark>stand<\/mark> in blue flames for twenty minutes.\"",
             "fid" : "content" } ] },
       
@@ -132,6 +122,6 @@
         [ 
           { "form" : "stands",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : ".... He guards the sacred Velothi subcontinent of Vvardenfell, and <mark>stands<\/mark> guard over Red Mountain, the gate to hell. He...",
             "fid" : "content" } ] } ] }

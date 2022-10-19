@@ -9,13 +9,13 @@
         [ 
           { "form" : "criminals",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "...Necromancers who have served the Empire are given the corpses of <mark>criminals<\/mark> and traitors to use legally. This provides those who have...",
             "fid" : "content" },
           
           { "form" : "criminals",
             "weight" : "1",
-            "pos" : 363,
+            "pos" : 358,
             "context" : "...Daggerfall may institute the Imperial practice of donating the corpses of <mark>criminals<\/mark> for Necromantic study as a deterrent to the bandits and pirates...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "criminal",
             "weight" : "1",
-            "pos" : 726,
+            "pos" : 721,
             "context" : "...Coast, the region's secluded coves and islands provide refuge for <mark>criminal<\/mark> trade, and the frequent rain and fog hides small boats...",
             "fid" : "content" } ] } ] }

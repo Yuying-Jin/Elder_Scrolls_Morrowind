@@ -9,48 +9,33 @@
         [ 
           { "form" : "Guar",
             "weight" : "1",
-            "pos" : 209,
+            "pos" : 204,
             "context" : "The <mark>Guar<\/mark> and the Mudcrabs",
             "fid" : "content" },
           
           { "form" : "Guar",
             "weight" : "1",
-            "pos" : 211,
+            "pos" : 206,
             "context" : "The <mark>Guar<\/mark> were so tormented by the other creatures they did not know...",
             "fid" : "content" },
           
           { "form" : "Guar",
             "weight" : "1",
-            "pos" : 233,
+            "pos" : 228,
             "context" : "...-hounds ranging about, and in a desperate panic all the <mark>Guar<\/mark> scuttled off towards the sea, determined to drown themselves rather...",
             "fid" : "content" },
           
           { "form" : "Guar",
             "weight" : "1",
-            "pos" : 252,
+            "pos" : 247,
             "context" : "...Mudcrabs, frightened in their turn by the approach of the <mark>Guar<\/mark>, scuttled off, and threw themselves into the water. 'Truly...",
             "fid" : "content" },
           
           { "form" : "Guar",
             "weight" : "1",
-            "pos" : 259,
+            "pos" : 254,
             "context" : "...themselves into the water. 'Truly,' said one of the <mark>Guar<\/mark>, “things are not so bad as they seem. For...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "guar",
-            "weight" : "1",
-            "pos" : 287,
-            "context" : "<mark>guar<\/mark>" },
-          
-          { "form" : "Guar",
-            "weight" : "1",
-            "pos" : 6649,
-            "context" : "<mark>Guar<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -59,7 +44,7 @@
         [ 
           { "form" : "guar",
             "weight" : "1",
-            "pos" : 461,
+            "pos" : 456,
             "context" : "<mark>guar<\/mark>",
             "fid" : "items",
             "in" : 
@@ -67,7 +52,7 @@
           
           { "form" : "guar",
             "weight" : "1",
-            "pos" : 6750,
+            "pos" : 6745,
             "context" : "<mark>guar<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -80,13 +65,13 @@
         [ 
           { "form" : "guar",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : "Here Lord Vivec met a poor farmer whose <mark>guar<\/mark> had died. The farmer could not harvest his muck without...",
             "fid" : "guar" },
           
           { "form" : "guar",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "...died. The farmer could not harvest his muck without his <mark>guar<\/mark>, and he could not provide for his family or his...",
             "fid" : "content" } ] },
       
@@ -97,12 +82,12 @@
         [ 
           { "form" : "guar",
             "weight" : "1",
-            "pos" : 588,
+            "pos" : 583,
             "context" : "...as he sloshed through the labyrinthine tunnels of sludge. His <mark>guar<\/mark> was waiting where he left it at the city gates,...",
             "fid" : "content" },
           
           { "form" : "guar",
             "weight" : "1",
-            "pos" : 723,
+            "pos" : 718,
             "context" : "...house on the outskirts of Vivec. He reigned in his <mark>guar<\/mark> and filled its feed. The rest of the stalls were...",
             "fid" : "content" } ] } ] }

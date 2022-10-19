@@ -9,25 +9,25 @@
         [ 
           { "form" : "flames",
             "weight" : "1",
-            "pos" : 386,
+            "pos" : 381,
             "context" : "...,\" said Yakin. \"They say he can stand in blue <mark>flames<\/mark> for twenty minutes.\"",
             "fid" : "content" },
           
           { "form" : "flame",
             "weight" : "1",
-            "pos" : 452,
+            "pos" : 447,
             "context" : "...next to him. \"Kena Leles, cast a ball of blue <mark>flame<\/mark> for me.\" And he sat in the inferno of flame for...",
             "fid" : "content" },
           
           { "form" : "flame",
             "weight" : "1",
-            "pos" : 455,
+            "pos" : 450,
             "context" : "...blue flame for me.\" And he sat in the inferno of <mark>flame<\/mark> for twenty minutes before he left.",
             "fid" : "content" },
           
           { "form" : "flames",
             "weight" : "1",
-            "pos" : 471,
+            "pos" : 466,
             "context" : "...said Oin. \"Kena Leles, cast a ball of blue <mark>flames<\/mark> for me.\" Oin sat in the inferno of blue fire for...",
             "fid" : "content" } ] },
       
@@ -38,7 +38,7 @@
         [ 
           { "form" : "flaming",
             "weight" : "1",
-            "pos" : 136,
+            "pos" : 131,
             "context" : "\"Master Jereth will dazzle you as he juggles fifteen <mark>flaming<\/mark> globes while hopping across broken glass. Master Tulkiande will astound...",
             "fid" : "content" } ] },
       
@@ -49,7 +49,7 @@
         [ 
           { "form" : "flame",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "Cook the mixed meat in a pan over an open <mark>flame<\/mark>. When the meat begins to brown, add the saltrice...",
             "fid" : "content" } ] },
       
@@ -60,6 +60,6 @@
         [ 
           { "form" : "flame",
             "weight" : "1",
-            "pos" : 378,
+            "pos" : 373,
             "context" : "...Saint Olms the Just appeared before Baranat in a burst of <mark>flame<\/mark>, and smiled on him, \"Baranat, I will make you...",
             "fid" : "content" } ] } ] }

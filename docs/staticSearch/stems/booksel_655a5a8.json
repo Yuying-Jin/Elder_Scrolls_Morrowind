@@ -2,41 +2,6 @@
   { "stem" : "booksel",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 6,
-        "contexts" : 
-        [ 
-          { "form" : "Bookseller",
-            "weight" : "1",
-            "pos" : 897,
-            "context" : "Ald'ruhn,_Codus_Callonus:_<mark>Bookseller<\/mark>" },
-          
-          { "form" : "Bookseller",
-            "weight" : "1",
-            "pos" : 1245,
-            "context" : "Balmora,_Dorisa Darvel:_<mark>Bookseller<\/mark>" },
-          
-          { "form" : "Bookseller",
-            "weight" : "1",
-            "pos" : 1254,
-            "context" : "Balmora,_Dorisa_Darvel:_<mark>Bookseller<\/mark>" },
-          
-          { "form" : "Bookseller",
-            "weight" : "1",
-            "pos" : 3502,
-            "context" : "Simine Fralinie: <mark>Bookseller<\/mark>" },
-          
-          { "form" : "Bookseller",
-            "weight" : "1",
-            "pos" : 4516,
-            "context" : "Vivec, Simine Fralinie: <mark>Bookseller<\/mark>" },
-          
-          { "form" : "Bookseller",
-            "weight" : "1",
-            "pos" : 4579,
-            "context" : "Vivec,_Simine_Fralinie:_<mark>Bookseller<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 4,
@@ -44,7 +9,7 @@
         [ 
           { "form" : "bookseller",
             "weight" : "1",
-            "pos" : 1052,
+            "pos" : 1047,
             "context" : "ald'ruhn, codus callonus: <mark>bookseller<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -52,7 +17,7 @@
           
           { "form" : "bookseller",
             "weight" : "1",
-            "pos" : 1396,
+            "pos" : 1391,
             "context" : "balmora, dorisa darvel: <mark>bookseller<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -60,7 +25,7 @@
           
           { "form" : "bookseller",
             "weight" : "1",
-            "pos" : 3655,
+            "pos" : 3650,
             "context" : "simine fralinie: <mark>bookseller<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -68,7 +33,7 @@
           
           { "form" : "bookseller",
             "weight" : "1",
-            "pos" : 4690,
+            "pos" : 4685,
             "context" : "vivec, simine fralinie: <mark>bookseller<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -81,13 +46,13 @@
         [ 
           { "form" : "Bookseller",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "Ald'ruhn, Codus Callonus: <mark>Bookseller<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Bookseller",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Balmora, Dorisa Darvel: <mark>Bookseller<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -98,13 +63,13 @@
         [ 
           { "form" : "Bookseller",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "Vivec, Simine Fralinie: <mark>Bookseller<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Bookseller",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "Balmora, Dorisa Darvel: <mark>Bookseller<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -115,7 +80,7 @@
         [ 
           { "form" : "bookseller",
             "weight" : "1",
-            "pos" : 200,
+            "pos" : 195,
             "context" : "...from the smith, clothier, trader, pawnbroker, and <mark>bookseller<\/mark> near the entrance to Ald'ruhn-Under-Skar. The Ald Skar...",
             "fid" : "content" } ] },
       
@@ -126,7 +91,7 @@
         [ 
           { "form" : "Bookseller",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "Simine Fralinie: <mark>Bookseller<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -137,6 +102,6 @@
         [ 
           { "form" : "Bookseller",
             "weight" : "1",
-            "pos" : 139,
+            "pos" : 134,
             "context" : "Vivec, Simine Fralinie: <mark>Bookseller<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

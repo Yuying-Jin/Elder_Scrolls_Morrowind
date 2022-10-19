@@ -9,19 +9,19 @@
         [ 
           { "form" : "COURTESY",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "<mark>COURTESY<\/mark>",
             "fid" : "content" },
           
           { "form" : "Courtesy",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "The Grace of <mark>Courtesy<\/mark>",
             "fid" : "content" },
           
           { "form" : "courtesy",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 118,
             "context" : "Thank you for your <mark>courtesy<\/mark>, Lord Vivec. I shall speak neither hurtful nor harsh...",
             "fid" : "content" } ] },
       
@@ -32,18 +32,18 @@
         [ 
           { "form" : "courtesy",
             "weight" : "1",
-            "pos" : 320,
+            "pos" : 315,
             "context" : "...servants, that they now share a bond of respect and <mark>courtesy<\/mark> with the followers of the Tribunal, though we must never...",
             "fid" : "content" },
           
           { "form" : "Courtesy",
             "weight" : "1",
-            "pos" : 329,
+            "pos" : 324,
             "context" : "The Shrine of <mark>Courtesy<\/mark> is found in the heart of the Puzzle Canal, a...",
             "fid" : "content" },
           
           { "form" : "courtesy",
             "weight" : "1",
-            "pos" : 367,
+            "pos" : 362,
             "context" : "...and will accept a plain silver longsword if spoken to with <mark>courtesy<\/mark>. After Krazzt accepts the sword, pilgrims must read the...",
             "fid" : "content" } ] } ] }

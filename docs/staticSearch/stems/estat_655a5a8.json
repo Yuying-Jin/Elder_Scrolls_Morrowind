@@ -9,13 +9,13 @@
         [ 
           { "form" : "estate",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "When the Lady Genevrah was kidnapped from her <mark>estate<\/mark> and held for ransom, her mother sent word out that...",
             "fid" : "content" },
           
           { "form" : "estate",
             "weight" : "1",
-            "pos" : 493,
+            "pos" : 488,
             "context" : "...back at the old woman's court, he discovered that the <mark>estate<\/mark> that he would be inheriting was utterly dissolute by decades of...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "estates",
             "weight" : "1",
-            "pos" : 334,
+            "pos" : 329,
             "context" : "...the same plan, except with less decoration. Hlaalu plantation <mark>estates<\/mark> resemble Temple compounds, with walled precincts enclosing outbuildings for craftsmen...",
             "fid" : "content" } ] } ] }

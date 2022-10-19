@@ -9,19 +9,9 @@
         [ 
           { "form" : "TR",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 31,
             "context" : "Mournhold, Mournhold Temple: Office of the Lord Archcanon <mark>TR<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "TR",
-            "weight" : "1",
-            "pos" : 2820,
-            "context" : "Mournhold, Mournhold Temple: Office of the Lord Archcanon <mark>TR<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "tr",
             "weight" : "1",
-            "pos" : 2989,
+            "pos" : 2984,
             "context" : "mournhold, mournhold temple: office of the lord archcanon <mark>tr<\/mark>",
             "fid" : "loc",
             "in" : 

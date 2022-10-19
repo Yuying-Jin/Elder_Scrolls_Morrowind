@@ -9,19 +9,9 @@
         [ 
           { "form" : "Commission",
             "weight" : "1",
-            "pos" : 762,
+            "pos" : 757,
             "context" : "..., where they are processed by the Imperial Census and Excise <mark>Commission<\/mark> agents of the Coastguard station. The Coastguard cutters docked here...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Commission",
-            "weight" : "1",
-            "pos" : 1657,
-            "context" : "Ebonheart,_Imperial_<mark>Commission<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "commission",
             "weight" : "1",
-            "pos" : 1828,
+            "pos" : 1823,
             "context" : "ebonheart, imperial <mark>commission<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -43,7 +33,7 @@
         [ 
           { "form" : "Commission",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "Ebonheart, Imperial <mark>Commission<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "Commission",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Ebonheart, Imperial <mark>Commission<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

@@ -9,25 +9,25 @@
         [ 
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 579,
+            "pos" : 574,
             "context" : "...towards Suran and the Ascadian Isles, and east towards Molag <mark>Mar<\/mark>. Roads from the Telvanni Compound bridge are useful mostly for...",
             "fid" : "content" },
           
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 588,
+            "pos" : 583,
             "context" : "...the Telvanni Compound bridge are useful mostly for travelers to Molag <mark>Mar<\/mark>. Silt strider service is available at the north end of...",
             "fid" : "content" },
           
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 605,
+            "pos" : 600,
             "context" : "...Vivec to Suran, Seyda Neen, Balmora, and Molag <mark>Mar<\/mark>. Ships from the docks at the Foreign Quarter travel to...",
             "fid" : "content" },
           
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 615,
+            "pos" : 610,
             "context" : "...the Foreign Quarter travel to Ebonheart, Hla Oad, Molag <mark>Mar<\/mark>, and Tel Branora. Ships from nearby Ebonheart sail to...",
             "fid" : "content" } ] },
       
@@ -38,30 +38,15 @@
         [ 
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 460,
+            "pos" : 455,
             "context" : "..., and largely uninhabited, except for the outpost at Molag <mark>Mar<\/mark>, the Telvanni settlements at Sadrith Mora, the wizard towers...",
             "fid" : "content" },
           
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 919,
+            "pos" : 914,
             "context" : " The outpost at Molag <mark>Mar<\/mark> is a fortified stronghold on the southeastern edge of the desolate...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Mar",
-            "weight" : "1",
-            "pos" : 2614,
-            "context" : "Molag <mark>Mar<\/mark>" },
-          
-          { "form" : "Mar",
-            "weight" : "1",
-            "pos" : 2635,
-            "context" : "Molag_<mark>Mar<\/mark>" } ] },
       
       { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
         "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
@@ -70,7 +55,7 @@
         [ 
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "Molag <mark>Mar<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -81,7 +66,7 @@
         [ 
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 117,
             "context" : "...to priests at the temples in Ald'ruhn, Balmora, Molag <mark>Mar<\/mark>, and Ghostgate, or with priests at the High Fane...",
             "fid" : "content" } ] },
       
@@ -92,7 +77,7 @@
         [ 
           { "form" : "mar",
             "weight" : "1",
-            "pos" : 2788,
+            "pos" : 2783,
             "context" : "molag <mark>mar<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -105,7 +90,7 @@
         [ 
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "Molag <mark>Mar<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -116,6 +101,6 @@
         [ 
           { "form" : "Mar",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "Molag <mark>Mar<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

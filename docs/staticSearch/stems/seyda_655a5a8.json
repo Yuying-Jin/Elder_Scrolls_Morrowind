@@ -9,31 +9,31 @@
         [ 
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 692,
+            "pos" : 687,
             "context" : " The western coast of Vvardenfell from <mark>Seyda<\/mark> Neen north to Gnaar Mok is called the Bitter Coast....",
             "fid" : "content" },
           
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 714,
+            "pos" : 709,
             "context" : "...the good harbors of Gnaar Mok, Hla Oad, and <mark>Seyda<\/mark> Neen. Also called the Smuggler's Coast, the region's secluded...",
             "fid" : "content" },
           
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 744,
+            "pos" : 739,
             "context" : "...at the mouth of the harbor of the port village of <mark>Seyda<\/mark> Neen is a beacon to mariners throughout the Inner Sea....",
             "fid" : "content" },
           
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 756,
+            "pos" : 751,
             "context" : "...Most visitors from the Empire make landfall at the port of <mark>Seyda<\/mark> Neen, where they are processed by the Imperial Census and...",
             "fid" : "content" },
           
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 1122,
+            "pos" : 1117,
             "context" : "...Good roads lead north to Ald'ruhn and south to Caldera, <mark>Seyda<\/mark> Neen, and Vivec City. The Imperial Legion garrison of...",
             "fid" : "content" } ] },
       
@@ -44,19 +44,19 @@
         [ 
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 557,
+            "pos" : 552,
             "context" : "...from the Hlaalu Compound bridge south to Ebonheart and north to <mark>Seyda<\/mark> Neen and points north. Good roads lead from the Foreign...",
             "fid" : "content" },
           
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 569,
+            "pos" : 564,
             "context" : ".... Good roads lead from the Foreign Quarter bridge west towards <mark>Seyda<\/mark> Neen, north towards Suran and the Ascadian Isles, and...",
             "fid" : "content" },
           
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 601,
+            "pos" : 596,
             "context" : "...the Foreign Quarter bridge, traveling from Vivec to Suran, <mark>Seyda<\/mark> Neen, Balmora, and Molag Mar. Ships from the...",
             "fid" : "content" } ] },
       
@@ -67,19 +67,9 @@
         [ 
           { "form" : "Seyda",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "<mark>Seyda<\/mark> Neen: Visitable? ",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Seyda",
-            "weight" : "1",
-            "pos" : 3417,
-            "context" : "<mark>Seyda<\/mark> Neen" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -88,7 +78,7 @@
         [ 
           { "form" : "seyda",
             "weight" : "1",
-            "pos" : 3570,
+            "pos" : 3565,
             "context" : "<mark>seyda<\/mark> neen",
             "fid" : "loc",
             "in" : 

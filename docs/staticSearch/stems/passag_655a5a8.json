@@ -9,7 +9,7 @@
         [ 
           { "form" : "passage",
             "weight" : "1",
-            "pos" : 320,
+            "pos" : 315,
             "context" : "...the Mages Guild. Gals Arethi at the docks offers ship <mark>passage<\/mark> to Ebonheart, Tel Branora, Tel Mora, or Dagon...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "passages",
             "weight" : "1",
-            "pos" : 289,
+            "pos" : 284,
             "context" : "...treasures are guarded by Daedric servants in the Puzzle Canal's dark <mark>passages<\/mark>.",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "Passage",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "..., many slaves and enemies were sacrificed and the Cup of <mark>Passage<\/mark> was mixed according to the direction of Hanin's Formulae:",
             "fid" : "content" } ] } ] }

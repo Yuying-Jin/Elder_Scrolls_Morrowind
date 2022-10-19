@@ -2,21 +2,6 @@
   { "stem" : "holamayan",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Holamayan",
-            "weight" : "1",
-            "pos" : 2224,
-            "context" : "<mark>Holamayan<\/mark> Monastery" },
-          
-          { "form" : "Holamayan",
-            "weight" : "1",
-            "pos" : 2242,
-            "context" : "<mark>Holamayan<\/mark>_Monastery" } ] },
-      
       { "docId" : "librarium_Blasphemous_Revenants",
         "docUri" : "librarium\/Blasphemous_Revenants.html",
         "score" : 1,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "Holamayan",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "<mark>Holamayan<\/mark> Monastery: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -35,7 +20,7 @@
         [ 
           { "form" : "holamayan",
             "weight" : "1",
-            "pos" : 2392,
+            "pos" : 2387,
             "context" : "<mark>holamayan<\/mark> monastery",
             "fid" : "loc",
             "in" : 
@@ -48,7 +33,7 @@
         [ 
           { "form" : "Holamayan",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "<mark>Holamayan<\/mark> Monastery: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -59,7 +44,7 @@
         [ 
           { "form" : "Holamayan",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "<mark>Holamayan<\/mark> Monastery: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -70,7 +55,7 @@
         [ 
           { "form" : "Holamayan",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : " <mark>Holamayan<\/mark> Monastery: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -81,7 +66,7 @@
         [ 
           { "form" : "Holamayan",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "<mark>Holamayan<\/mark> Monastery: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -92,6 +77,6 @@
         [ 
           { "form" : "Holamayan",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "<mark>Holamayan<\/mark> Monastery: Visitable? yes",
             "fid" : "acq" } ] } ] }

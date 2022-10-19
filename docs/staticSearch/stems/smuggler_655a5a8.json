@@ -9,12 +9,12 @@
         [ 
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "<mark>Smuggler's<\/mark> Island" },
           
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 558,
+            "pos" : 553,
             "context" : "<mark>Smuggler's<\/mark> Island, count: 3",
             "fid" : "items",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 1200,
+            "pos" : 1195,
             "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 1889,
+            "pos" : 1884,
             "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 2378,
+            "pos" : 2373,
             "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 5279,
+            "pos" : 5274,
             "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
             "fid" : "group",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 6474,
+            "pos" : 6469,
             "context" : "<mark>Smuggler's<\/mark> Island, count: 1",
             "fid" : "persons",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 6780,
+            "pos" : 6775,
             "context" : "<mark>Smuggler's<\/mark> Island, count: 16",
             "fid" : "persons",
             "in" : 
@@ -70,56 +70,11 @@
           
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 7251,
+            "pos" : 7246,
             "context" : "<mark>Smuggler's<\/mark> Island, count: 26",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 8,
-        "contexts" : 
-        [ 
-          { "form" : "Smuggler's",
-            "weight" : "1",
-            "pos" : 379,
-            "context" : "<mark>Smuggler's<\/mark> Island, count: 3" },
-          
-          { "form" : "Smuggler's",
-            "weight" : "1",
-            "pos" : 1030,
-            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
-          
-          { "form" : "Smuggler's",
-            "weight" : "1",
-            "pos" : 1718,
-            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
-          
-          { "form" : "Smuggler's",
-            "weight" : "1",
-            "pos" : 2210,
-            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
-          
-          { "form" : "Smuggler's",
-            "weight" : "1",
-            "pos" : 5987,
-            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
-          
-          { "form" : "Smuggler's",
-            "weight" : "1",
-            "pos" : 6391,
-            "context" : "<mark>Smuggler's<\/mark> Island, count: 1" },
-          
-          { "form" : "Smuggler's",
-            "weight" : "1",
-            "pos" : 6694,
-            "context" : "<mark>Smuggler's<\/mark> Island, count: 16" },
-          
-          { "form" : "Smuggler's",
-            "weight" : "1",
-            "pos" : 7126,
-            "context" : "<mark>Smuggler's<\/mark> Island, count: 26" } ] },
       
       { "docId" : "librarium_Guide_to_Vvardenfell",
         "docUri" : "librarium\/Guide_to_Vvardenfell.html",
@@ -128,7 +83,7 @@
         [ 
           { "form" : "Smuggler's",
             "weight" : "1",
-            "pos" : 718,
+            "pos" : 713,
             "context" : "..., Hla Oad, and Seyda Neen. Also called the <mark>Smuggler's<\/mark> Coast, the region's secluded coves and islands provide refuge for...",
             "fid" : "content" } ] },
       
@@ -139,6 +94,6 @@
         [ 
           { "form" : "smugglers",
             "weight" : "1",
-            "pos" : 341,
+            "pos" : 336,
             "context" : "...to have met on the night of the storm. The <mark>smugglers<\/mark> aboard would pay them good money for the moon sugar....",
             "fid" : "content" } ] } ] }

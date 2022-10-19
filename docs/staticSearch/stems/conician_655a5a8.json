@@ -9,19 +9,9 @@
         [ 
           { "form" : "Conician",
             "weight" : "1",
-            "pos" : 259,
+            "pos" : 254,
             "context" : "...Legion Fort, Somutis Vunnis at Moonmoth Legion Fort, Ruccia <mark>Conician<\/mark> in the Grand Council Chambers in Ebonheart, or Lalatia Varian...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Conician",
-            "weight" : "1",
-            "pos" : 3144,
-            "context" : "Ruccia <mark>Conician<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "conician",
             "weight" : "1",
-            "pos" : 3313,
+            "pos" : 3308,
             "context" : "ruccia <mark>conician<\/mark>",
             "fid" : "loc",
             "in" : 

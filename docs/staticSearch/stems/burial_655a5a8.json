@@ -2,21 +2,6 @@
   { "stem" : "burial",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Burial",
-            "weight" : "1",
-            "pos" : 2426,
-            "context" : "Laterus <mark>Burial<\/mark>" },
-          
-          { "form" : "Burial",
-            "weight" : "1",
-            "pos" : 4257,
-            "context" : "Urshilaku,_Laterus_<mark>Burial<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "burial",
             "weight" : "1",
-            "pos" : 2597,
+            "pos" : 2592,
             "context" : "laterus <mark>burial<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "burial",
             "weight" : "1",
-            "pos" : 4400,
+            "pos" : 4395,
             "context" : "urshilaku, laterus <mark>burial<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "burial",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 80,
             "context" : "...Scholars: Humiliate the priests of Arkay. Reveal the primitive <mark>burial<\/mark> customs to be mere superstition. Befriend kings with honeyed words...",
             "fid" : "content" } ] },
       
@@ -56,7 +41,7 @@
         [ 
           { "form" : "burial",
             "weight" : "1",
-            "pos" : 335,
+            "pos" : 330,
             "context" : "...practiced almost without exception in the north, through an Imperial <mark>burial<\/mark> in a tomb or city cemetery is more common in the...",
             "fid" : "content" } ] },
       
@@ -67,7 +52,7 @@
         [ 
           { "form" : "Burial",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Laterus <mark>Burial<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -78,6 +63,6 @@
         [ 
           { "form" : "Burial",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "Urshilaku, Laterus <mark>Burial<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

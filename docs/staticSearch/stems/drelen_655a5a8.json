@@ -2,21 +2,6 @@
   { "stem" : "drelen",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Drelen",
-            "weight" : "1",
-            "pos" : 2030,
-            "context" : "Gnisis, Arvs-<mark>Drelen<\/mark>" },
-          
-          { "form" : "Drelen",
-            "weight" : "1",
-            "pos" : 2047,
-            "context" : "Gnisis,_Arvs-<mark>Drelen<\/mark>" } ] },
-      
       { "docId" : "librarium_Blasphemous_Revenants",
         "docUri" : "librarium\/Blasphemous_Revenants.html",
         "score" : 1,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "Drelen",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Arvs-<mark>Drelen<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -35,7 +20,7 @@
         [ 
           { "form" : "drelen",
             "weight" : "1",
-            "pos" : 2204,
+            "pos" : 2199,
             "context" : "gnisis, arvs <mark>drelen<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -48,6 +33,6 @@
         [ 
           { "form" : "Drelen",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "Gnisis, Arvs-<mark>Drelen<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

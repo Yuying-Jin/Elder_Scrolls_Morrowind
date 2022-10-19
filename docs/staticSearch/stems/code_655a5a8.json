@@ -9,12 +9,12 @@
         [ 
           { "form" : "Code",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 117,
             "context" : "Sottilde's <mark>Code<\/mark> Book" },
           
           { "form" : "Code",
             "weight" : "1",
-            "pos" : 1309,
+            "pos" : 1304,
             "context" : "Sottilde's <mark>Code<\/mark> Book, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Code",
             "weight" : "1",
-            "pos" : 3704,
+            "pos" : 3699,
             "context" : "Sottilde's <mark>Code<\/mark> Book, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,31 +30,11 @@
           
           { "form" : "Code",
             "weight" : "1",
-            "pos" : 7392,
+            "pos" : 7387,
             "context" : "Sottilde's <mark>Code<\/mark> Book, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Code",
-            "weight" : "1",
-            "pos" : 1157,
-            "context" : "Sottilde's <mark>Code<\/mark> Book, count: 1" },
-          
-          { "form" : "Code",
-            "weight" : "1",
-            "pos" : 3552,
-            "context" : "Sottilde's <mark>Code<\/mark> Book, count: 1" },
-          
-          { "form" : "Code",
-            "weight" : "1",
-            "pos" : 7279,
-            "context" : "Sottilde's <mark>Code<\/mark> Book, count: 1" } ] },
       
       { "docId" : "librarium_36_Lessons_of_Vivec_Sermon_1",
         "docUri" : "librarium\/36_Lessons_of_Vivec_Sermon_1.html",
@@ -63,7 +43,7 @@
         [ 
           { "form" : "Codes",
             "weight" : "1",
-            "pos" : 147,
+            "pos" : 142,
             "context" : "...caring for the egg-knowledge by whispering to it the <mark>Codes<\/mark> of Mephala and the prophecies of Veloth and even the forbidden...",
             "fid" : "content" } ] },
       
@@ -74,6 +54,6 @@
         [ 
           { "form" : "codes",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : "...trusted of mages, and make secure this ordering through arcane <mark>codes<\/mark> and keys to confound even the most clever students.",
             "fid" : "content" } ] } ] }

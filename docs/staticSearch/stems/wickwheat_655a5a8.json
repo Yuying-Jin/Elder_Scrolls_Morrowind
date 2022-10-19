@@ -9,13 +9,13 @@
         [ 
           { "form" : "wickwheat",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "4 pinches of <mark>wickwheat<\/mark>",
             "fid" : "content" },
           
           { "form" : "wickwheat",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "Beat eggs, <mark>wickwheat<\/mark>, and Scuttle in a large bowl. Slowly stir in...",
             "fid" : "content" } ] },
       
@@ -26,25 +26,15 @@
         [ 
           { "form" : "wickwheat",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "...more of the following cheap and common ingredients: marshmerrow, <mark>wickwheat<\/mark>, corkbulb root, and saltrice. marshmerrow is an important...",
             "fid" : "content" },
           
           { "form" : "wickwheat",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...also grows wild in the Grazelands and on Azura's Coast. <mark>wickwheat<\/mark> is a wild Ashland grain that grows in the Grazelands....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "wickwheat",
-            "weight" : "1",
-            "pos" : 589,
-            "context" : "<mark>wickwheat<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +43,7 @@
         [ 
           { "form" : "wickwheat",
             "weight" : "1",
-            "pos" : 763,
+            "pos" : 758,
             "context" : "<mark>wickwheat<\/mark>",
             "fid" : "items",
             "in" : 

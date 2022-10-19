@@ -9,13 +9,13 @@
         [ 
           { "form" : "half",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 40,
             "context" : "...and bittergreen. Bake covered in a hot over for one <mark>half<\/mark> hour to one hour (when a knife comes out clean)....",
             "fid" : "content" },
           
           { "form" : "half",
             "weight" : "1",
-            "pos" : 63,
+            "pos" : 58,
             "context" : "a hand and a <mark>half<\/mark> of cooked saltrice",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "Half",
             "weight" : "1",
-            "pos" : 521,
+            "pos" : 516,
             "context" : "...top tier of St. Delyn, and Hlaalu Councilor Yngling <mark>Half<\/mark>-Troll has a top-tier manor on St....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Half",
-            "weight" : "1",
-            "pos" : 6664,
-            "context" : "Yngling <mark>Half<\/mark>-Troll" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "half",
             "weight" : "1",
-            "pos" : 7521,
+            "pos" : 7516,
             "context" : "yngling <mark>half<\/mark> troll",
             "fid" : "persons",
             "in" : 
@@ -60,7 +50,7 @@
         [ 
           { "form" : "half",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "...He turned back to S'Riizh who was were he left him, <mark>half<\/mark> buried in the sand to pack his broken bones. One...",
             "fid" : "content" } ] },
       
@@ -71,7 +61,7 @@
         [ 
           { "form" : "half",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "...pilgrims. The blessings of each shrine last at least a <mark>half<\/mark> day.",
             "fid" : "content" } ] },
       
@@ -82,6 +72,6 @@
         [ 
           { "form" : "Half",
             "weight" : "1",
-            "pos" : 116,
+            "pos" : 111,
             "context" : "Master Yngling <mark>Half<\/mark>-Troll , by Grace of Almsivi, Honored Councilor of...",
             "fid" : "content" } ] } ] }

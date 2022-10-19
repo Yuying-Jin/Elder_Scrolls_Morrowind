@@ -9,19 +9,9 @@
         [ 
           { "form" : "Ashalmawia",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "...that was Mordrin Hanin ended in this world. Representative of <mark>Ashalmawia<\/mark>, Maelkashishi and Ald Sotha gathered in a great host at...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ashalmawia",
-            "weight" : "1",
-            "pos" : 1023,
-            "context" : "<mark>Ashalmawia<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "ashalmawia",
             "weight" : "1",
-            "pos" : 1193,
+            "pos" : 1188,
             "context" : "<mark>ashalmawia<\/mark>",
             "fid" : "loc",
             "in" : 

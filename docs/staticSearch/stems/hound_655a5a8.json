@@ -2,21 +2,6 @@
   { "stem" : "hound",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "hound",
-            "weight" : "1",
-            "pos" : 413,
-            "context" : "nix-<mark>hound<\/mark> meat" },
-          
-          { "form" : "hounds",
-            "weight" : "1",
-            "pos" : 6985,
-            "context" : "Nix-<mark>hounds<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "hound",
             "weight" : "1",
-            "pos" : 583,
+            "pos" : 578,
             "context" : "nix <mark>hound<\/mark> meat",
             "fid" : "items",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "hounds",
             "weight" : "1",
-            "pos" : 6819,
+            "pos" : 6814,
             "context" : "nix <mark>hounds<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -45,13 +30,13 @@
         [ 
           { "form" : "Hound",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 47,
             "context" : "The <mark>Hound<\/mark> and Rat",
             "fid" : "content" },
           
           { "form" : "hound",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "1 pound of ground meat (mixed rat and <mark>hound<\/mark>)",
             "fid" : "content" } ] },
       
@@ -62,6 +47,6 @@
         [ 
           { "form" : "hounds",
             "weight" : "1",
-            "pos" : 229,
+            "pos" : 224,
             "context" : "...terror. One day they saw a pack of Nix-<mark>hounds<\/mark> ranging about, and in a desperate panic all the Guar scuttled...",
             "fid" : "content" } ] } ] }

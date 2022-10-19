@@ -9,13 +9,13 @@
         [ 
           { "form" : "suffering",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "Forge a keen Faith in the crucible of <mark>suffering<\/mark>.",
             "fid" : "content" },
           
           { "form" : "suffer",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "Better to <mark>suffer<\/mark> a wrong than to do one.",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "suffering",
             "weight" : "1",
-            "pos" : 131,
+            "pos" : 126,
             "context" : "Forge a keen Faith in the crucible of <mark>suffering<\/mark>.",
             "fid" : "content" },
           
           { "form" : "suffer",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "Better to <mark>suffer<\/mark> a wrong than to do one.",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "suffering",
             "weight" : "1",
-            "pos" : 255,
+            "pos" : 250,
             "context" : "...Lords and Saints, and gain blessings and learn virtue by <mark>suffering<\/mark> and overcoming hardships.",
             "fid" : "content" } ] },
       
@@ -54,7 +54,7 @@
         [ 
           { "form" : "suffers",
             "weight" : "1",
-            "pos" : 408,
+            "pos" : 403,
             "context" : "...their herds find sparse grazing. It rains rarely, and <mark>suffers<\/mark> frequent ash storms.",
             "fid" : "content" } ] },
       
@@ -65,7 +65,7 @@
         [ 
           { "form" : "suffering",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "..., little boy, for what is sport to you is <mark>suffering<\/mark> and death to us.\" And so Sotha Sil discovered that...",
             "fid" : "content" } ] },
       
@@ -76,6 +76,6 @@
         [ 
           { "form" : "suffered",
             "weight" : "1",
-            "pos" : 266,
+            "pos" : 261,
             "context" : "..., but to all people, great and small, who <mark>suffered<\/mark> and died in the war. It became the custom to...",
             "fid" : "content" } ] } ] }

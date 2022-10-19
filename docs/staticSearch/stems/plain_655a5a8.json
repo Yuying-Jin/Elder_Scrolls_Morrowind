@@ -9,13 +9,13 @@
         [ 
           { "form" : "plains",
             "weight" : "1",
-            "pos" : 844,
+            "pos" : 839,
             "context" : ".... The Ashlanders of Zainab camp move their herds across the <mark>plains<\/mark> in search of fresh grazing. There are no roads or...",
             "fid" : "content" },
           
           { "form" : "plains",
             "weight" : "1",
-            "pos" : 854,
+            "pos" : 849,
             "context" : "...roads or tracks, but travel is easy across the open <mark>plains<\/mark>.",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "plain",
             "weight" : "1",
-            "pos" : 363,
+            "pos" : 358,
             "context" : "...the center of the Puzzle Canal, and will accept a <mark>plain<\/mark> silver longsword if spoken to with courtesy. After Krazzt accepts...",
             "fid" : "content" } ] } ] }

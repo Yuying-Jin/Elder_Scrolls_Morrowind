@@ -9,19 +9,19 @@
         [ 
           { "form" : "Puzzle",
             "weight" : "1",
-            "pos" : 332,
+            "pos" : 327,
             "context" : "...The Shrine of Courtesy is found in the heart of the <mark>Puzzle<\/mark> Canal, a labyrinth beneath Lord Vivec's Palace in the city...",
             "fid" : "content" },
           
           { "form" : "Puzzle",
             "weight" : "1",
-            "pos" : 343,
+            "pos" : 338,
             "context" : "...Palace in the city of Vivec. The journey though the <mark>Puzzle<\/mark> Canal can be confusing and it is suggested that common pilgrims...",
             "fid" : "content" },
           
           { "form" : "Puzzle",
             "weight" : "1",
-            "pos" : 360,
+            "pos" : 355,
             "context" : ".... The Dremora Krazzt is found in the center of the <mark>Puzzle<\/mark> Canal, and will accept a plain silver longsword if spoken...",
             "fid" : "content" } ] },
       
@@ -32,30 +32,15 @@
         [ 
           { "form" : "Puzzle",
             "weight" : "1",
-            "pos" : 269,
+            "pos" : 264,
             "context" : "...at his initiation. Beneath the Palace of Vivec is the <mark>Puzzle<\/mark> Canal, a place of worship and testing for questing heroes...",
             "fid" : "content" },
           
           { "form" : "Puzzle",
             "weight" : "1",
-            "pos" : 286,
+            "pos" : 281,
             "context" : ".... Many choice treasures are guarded by Daedric servants in the <mark>Puzzle<\/mark> Canal's dark passages.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Puzzle",
-            "weight" : "1",
-            "pos" : 2979,
-            "context" : "<mark>Puzzle<\/mark> Canal" },
-          
-          { "form" : "Puzzle",
-            "weight" : "1",
-            "pos" : 2986,
-            "context" : "<mark>Puzzle<\/mark>_Canal" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -64,7 +49,7 @@
         [ 
           { "form" : "puzzle",
             "weight" : "1",
-            "pos" : 3154,
+            "pos" : 3149,
             "context" : "<mark>puzzle<\/mark> canal",
             "fid" : "loc",
             "in" : 

@@ -9,49 +9,49 @@
         [ 
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 218,
+            "pos" : 213,
             "context" : "...survive vampiric attacks or feedings, the process of contracting the <mark>disease<\/mark> is little understood. Some have suggested that victims may willingly...",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 236,
+            "pos" : 231,
             "context" : "...incubation phase, lasting up to 72 hours, the vampirism <mark>disease<\/mark> exhibits no symptoms, and may be cured by general spellcraft...",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 256,
+            "pos" : 251,
             "context" : "...troubling dreams. After symptoms are exhibited, however, the <mark>disease<\/mark> is incurable and irreversible....",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 271,
+            "pos" : 266,
             "context" : "...composed of formerly afflicted vampires who have been cured of the <mark>disease<\/mark>. According to legend, the vampire Hunters refuse to reveal...",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 279,
+            "pos" : 274,
             "context" : "..., the vampire Hunters refuse to reveal the cure to the <mark>disease<\/mark> for fear that it may encourage depraved thrill seekers from deliberately...",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 305,
+            "pos" : 300,
             "context" : "...vampire would be an abomination to be destroyed. Since the <mark>disease<\/mark> is infallibly cured if treated within three days, failure to...",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 322,
+            "pos" : 317,
             "context" : "...a vampire would be considered a deliberate attempt to contract the <mark>disease<\/mark>, and a mark of monstrous depravity....",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 389,
+            "pos" : 384,
             "context" : "... Though the Dunmer believe the <mark>disease<\/mark> is incurable, a Buoyant Armiger of former years named Galur...",
             "fid" : "content" } ] },
       
@@ -62,31 +62,31 @@
         [ 
           { "form" : "diseases",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "All shrines grant cures of common <mark>diseases<\/mark>, of blight diseases, and of afflictions of poison....",
             "fid" : "content" },
           
           { "form" : "diseases",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "All shrines grant cures of common diseases, of blight <mark>diseases<\/mark>, and of afflictions of poison.",
             "fid" : "content" },
           
           { "form" : "diseases",
             "weight" : "1",
-            "pos" : 189,
+            "pos" : 184,
             "context" : "...grants Shield of St. Delyn, for resistance to blight <mark>diseases<\/mark>.",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 212,
+            "pos" : 207,
             "context" : "...St. Meris grants Meris' Warding, for resistance to corprus <mark>disease<\/mark>.",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 228,
+            "pos" : 223,
             "context" : "...St. Olms grants Olms' Benediction, for resistance to common <mark>disease<\/mark>.",
             "fid" : "content" } ] },
       
@@ -97,13 +97,13 @@
         [ 
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 570,
+            "pos" : 565,
             "context" : "...prison where the deranged, distorted victims of the deadly corprus <mark>disease<\/mark> are housed and tended.",
             "fid" : "content" },
           
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 993,
+            "pos" : 988,
             "context" : "...which blocks travel as well as seals in the harmful, <mark>disease<\/mark>-laden weather called 'blight,' rings the volcano's outer slopes...",
             "fid" : "content" } ] },
       
@@ -114,13 +114,13 @@
         [ 
           { "form" : "diseases",
             "weight" : "1",
-            "pos" : 190,
+            "pos" : 185,
             "context" : "...of all alchemy and potions, and able to cure all <mark>diseases<\/mark>. Lord Vivec looked upon this wizard, and listened to...",
             "fid" : "content" },
           
           { "form" : "diseases",
             "weight" : "1",
-            "pos" : 203,
+            "pos" : 198,
             "context" : "...can you pretend to prescribe for others the cure to all <mark>diseases<\/mark>, when you are unable to cure yourself of your own...",
             "fid" : "content" } ] },
       
@@ -131,7 +131,7 @@
         [ 
           { "form" : "diseases",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "...nearly impossible due to their rapid decay. There are also <mark>diseases<\/mark>, Argonian tribesmen, and other difficulties that must be dealt...",
             "fid" : "content" } ] },
       
@@ -142,19 +142,9 @@
         [ 
           { "form" : "diseases",
             "weight" : "1",
-            "pos" : 397,
+            "pos" : 392,
             "context" : "...cult healing altars and receive blessings which cure common and blight <mark>diseases<\/mark>, cure poisons, and restore damaged attributes. Non-...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "disease",
-            "weight" : "1",
-            "pos" : 130,
-            "context" : "cure_common_<mark>disease<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -163,7 +153,7 @@
         [ 
           { "form" : "disease",
             "weight" : "1",
-            "pos" : 312,
+            "pos" : 307,
             "context" : "cure common <mark>disease<\/mark>",
             "fid" : "items",
             "in" : 
@@ -176,7 +166,7 @@
         [ 
           { "form" : "diseases",
             "weight" : "1",
-            "pos" : 176,
+            "pos" : 171,
             "context" : "To cure common <mark>diseases<\/mark>, combine gravedust and green lichen. gravedust is spirit-...",
             "fid" : "content" } ] },
       
@@ -187,6 +177,6 @@
         [ 
           { "form" : "Disease",
             "weight" : "1",
-            "pos" : 463,
+            "pos" : 458,
             "context" : "..., it is customary to leave a potion of Cure Common <mark>Disease<\/mark> as a token of your respect for justice. Suitable potions...",
             "fid" : "content" } ] } ] }

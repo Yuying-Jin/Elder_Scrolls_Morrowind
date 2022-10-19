@@ -2,26 +2,6 @@
   { "stem" : "archcanon",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Archcanon",
-            "weight" : "1",
-            "pos" : 2819,
-            "context" : "Mournhold, Mournhold Temple: Office of the Lord <mark>Archcanon<\/mark> TR" },
-          
-          { "form" : "Archcanon",
-            "weight" : "1",
-            "pos" : 6301,
-            "context" : "<mark>Archcanon<\/mark>" },
-          
-          { "form" : "Archcanon",
-            "weight" : "1",
-            "pos" : 7152,
-            "context" : "<mark>Archcanon<\/mark> Saryoni" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "archcanon",
             "weight" : "1",
-            "pos" : 2988,
+            "pos" : 2983,
             "context" : "mournhold, mournhold temple: office of the lord <mark>archcanon<\/mark> tr",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "archcanon",
             "weight" : "1",
-            "pos" : 6371,
+            "pos" : 6366,
             "context" : "<mark>archcanon<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -45,7 +25,7 @@
           
           { "form" : "archcanon",
             "weight" : "1",
-            "pos" : 7277,
+            "pos" : 7272,
             "context" : "<mark>archcanon<\/mark> saryoni",
             "fid" : "persons",
             "in" : 
@@ -58,19 +38,19 @@
         [ 
           { "form" : "Archcanon",
             "weight" : "1",
-            "pos" : 340,
+            "pos" : 335,
             "context" : "6. Authority of the <mark>Archcanon<\/mark> and the Ordinators",
             "fid" : "content" },
           
           { "form" : "Archcanon",
             "weight" : "1",
-            "pos" : 346,
+            "pos" : 341,
             "context" : "The Dissident priests reject the authority of the <mark>Archcanon<\/mark> and the Ordinators. The temple hierarchy has been corrupted by...",
             "fid" : "content" },
           
           { "form" : "Archcanon",
             "weight" : "1",
-            "pos" : 364,
+            "pos" : 359,
             "context" : "...the Temple or its worshippers. The Dissident priests believe the <mark>Archcanon<\/mark> and Ordinators speak for themselves, not for the Tribunal.",
             "fid" : "content" } ] },
       
@@ -81,19 +61,19 @@
         [ 
           { "form" : "Archcanon",
             "weight" : "1",
-            "pos" : 340,
+            "pos" : 335,
             "context" : "6. Authority of the <mark>Archcanon<\/mark> and the Ordinators",
             "fid" : "content" },
           
           { "form" : "Archcanon",
             "weight" : "1",
-            "pos" : 346,
+            "pos" : 341,
             "context" : "The Dissident priests reject the authority of the <mark>Archcanon<\/mark> and the Ordinators. The temple hierarchy has been corrupted by...",
             "fid" : "content" },
           
           { "form" : "Archcanon",
             "weight" : "1",
-            "pos" : 364,
+            "pos" : 359,
             "context" : "...the Temple or its worshippers. The Dissident priests believe the <mark>Archcanon<\/mark> and Ordinators speak for themselves, not for the Tribunal.",
             "fid" : "content" } ] },
       
@@ -104,7 +84,7 @@
         [ 
           { "form" : "Archcanon's",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "...Sermons Learn from the teachings of Vivec, and from the <mark>Archcanon's<\/mark> sermons on the Seven Graces.",
             "fid" : "content" } ] },
       
@@ -115,7 +95,7 @@
         [ 
           { "form" : "Archcanon",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "Mournhold, Mournhold Temple: Office of the Lord <mark>Archcanon<\/mark> TR: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -126,6 +106,6 @@
         [ 
           { "form" : "Archcanon",
             "weight" : "1",
-            "pos" : 188,
+            "pos" : 183,
             "context" : "...The High Fane is the largest Tribunal temple on Vvardenfell. <mark>Archcanon<\/mark> Saryoni presides over the temple, along with a large staff...",
             "fid" : "content" } ] } ] }

@@ -9,7 +9,7 @@
         [ 
           { "form" : "Elsweyr",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "...played seriously and, I hasten to add, politely. In <mark>Elsweyr<\/mark>, it is common for the shop-owner to offer...",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "Elsweyr",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : "While the forests of <mark>Elsweyr<\/mark> pose some of the same problems as those of Black Marsh...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Elsweyr",
-            "weight" : "1",
-            "pos" : 1668,
-            "context" : "<mark>Elsweyr<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "elsweyr",
             "weight" : "1",
-            "pos" : 1839,
+            "pos" : 1834,
             "context" : "<mark>elsweyr<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -54,6 +44,6 @@
         [ 
           { "form" : "Elsweyr",
             "weight" : "1",
-            "pos" : 338,
+            "pos" : 333,
             "context" : "...poisonous herb. However the variety found in many parts of <mark>Elsweyr<\/mark> is cherished by Khajiits who have followed the career path of...",
             "fid" : "content" } ] } ] }

@@ -9,19 +9,19 @@
         [ 
           { "form" : "feeding",
             "weight" : "1",
-            "pos" : 184,
+            "pos" : 179,
             "context" : "...Aundae vampires are potent spellcasters, seeking to hypnotize victims before <mark>feeding<\/mark>, while the swift and agile Berne clan vampires prefer stealth...",
             "fid" : "content" },
           
           { "form" : "feed",
             "weight" : "1",
-            "pos" : 201,
+            "pos" : 196,
             "context" : "...bite, then withdrawing to a safe distance, returning to <mark>feed<\/mark> only when the prey has weakened...",
             "fid" : "content" },
           
           { "form" : "feedings",
             "weight" : "1",
-            "pos" : 215,
+            "pos" : 210,
             "context" : "...from a vampire. Since few victims survive vampiric attacks or <mark>feedings<\/mark>, the process of contracting the disease is little understood....",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "feeding",
             "weight" : "1",
-            "pos" : 274,
+            "pos" : 269,
             "context" : "...wounded Netch lay himself down in a quiet corner of its <mark>feeding<\/mark>-ground. His healthy companions came in great numbers to...",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "feed",
             "weight" : "1",
-            "pos" : 725,
+            "pos" : 720,
             "context" : "...of Vivec. He reigned in his guar and filled its <mark>feed<\/mark>. The rest of the stalls were empty. It wouldn't...",
             "fid" : "content" } ] } ] }

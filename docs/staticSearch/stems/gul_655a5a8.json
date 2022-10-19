@@ -9,19 +9,9 @@
         [ 
           { "form" : "Guls",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Guls<\/mark> Llervu's House: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Guls",
-            "weight" : "1",
-            "pos" : 841,
-            "context" : "Ald'ruhn, <mark>Guls<\/mark> Llervu's House" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "guls",
             "weight" : "1",
-            "pos" : 1059,
+            "pos" : 1054,
             "context" : "ald'ruhn, <mark>guls<\/mark> llervu's house",
             "fid" : "loc",
             "in" : 

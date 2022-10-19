@@ -9,25 +9,25 @@
         [ 
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 250,
+            "pos" : 245,
             "context" : "...cult greeters: Ygfa at Fort Pelagiad, Syloria Siruliulus at <mark>Buckmoth<\/mark> Legion Fort, Somutis Vunnis at Moonmoth Legion Fort, Ruccia...",
             "fid" : "content" },
           
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 341,
+            "pos" : 336,
             "context" : " You can find Imperial cult services in <mark>Buckmoth<\/mark> Legion Fort, Moonmoth Legion Fort, Pelagiad Legion Fort,...",
             "fid" : "content" },
           
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 367,
+            "pos" : 362,
             "context" : "...Imperial Chapels in Ebonheart. Seek training at Wolverine Hall, <mark>Buckmoth<\/mark> Fort, Moonmoth Fort, Ebonheart Imperial Chapels, Governor's Hall...",
             "fid" : "content" },
           
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 437,
+            "pos" : 432,
             "context" : "...in: Vivec Foreign Quarter; Wolverine Hall in Sadrith Mora; <mark>Buckmoth<\/mark> Legion Fort; Moonmoth Legion Fort; Pelagiad Legion Fort;...",
             "fid" : "content" } ] },
       
@@ -38,42 +38,27 @@
         [ 
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "...principal districts are Ald'ruhn town, Ald'ruhn-under-Skar, and <mark>Buckmoth<\/mark> Fort.",
             "fid" : "content" },
           
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : " <mark>Buckmoth<\/mark> Fort is the Imperial legion garrison for the district. The...",
             "fid" : "content" },
           
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "...the east side of town provides service for Temple worshipers. <mark>Buckmoth<\/mark> Fort offers services to the Imperial Legion and devotees of the...",
             "fid" : "content" },
           
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 271,
+            "pos" : 266,
             "context" : "...eminent Temple priest and scholar. Raesa Pullia is commandant of <mark>Buckmoth<\/mark> Fort, but Imsin the Dreamer is the chapter steward....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Buckmoth",
-            "weight" : "1",
-            "pos" : 1338,
-            "context" : "<mark>Buckmoth<\/mark> Fort" },
-          
-          { "form" : "Buckmoth",
-            "weight" : "1",
-            "pos" : 1345,
-            "context" : "<mark>Buckmoth<\/mark> Legion Fort" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -82,7 +67,7 @@
         [ 
           { "form" : "buckmoth",
             "weight" : "1",
-            "pos" : 1501,
+            "pos" : 1496,
             "context" : "<mark>buckmoth<\/mark> fort",
             "fid" : "loc",
             "in" : 
@@ -90,7 +75,7 @@
           
           { "form" : "buckmoth",
             "weight" : "1",
-            "pos" : 1508,
+            "pos" : 1503,
             "context" : "<mark>buckmoth<\/mark> legion fort",
             "fid" : "loc",
             "in" : 
@@ -103,6 +88,6 @@
         [ 
           { "form" : "Buckmoth",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "...The three town garrisons -- Moonmoth Legion Fort in Balmora , <mark>Buckmoth<\/mark> Legion Fort in Ald'ruhn, and Fort Pelagiad in Pelagiad --...",
             "fid" : "content" } ] } ] }

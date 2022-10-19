@@ -2,16 +2,6 @@
   { "stem" : "irgola",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Irgola",
-            "weight" : "1",
-            "pos" : 6736,
-            "context" : "<mark>Irgola<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "irgola",
             "weight" : "1",
-            "pos" : 6840,
+            "pos" : 6835,
             "context" : "<mark>irgola<\/mark>",
             "fid" : "persons",
             "in" : 

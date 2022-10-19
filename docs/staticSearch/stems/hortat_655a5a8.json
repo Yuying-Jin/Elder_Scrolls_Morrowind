@@ -9,25 +9,15 @@
         [ 
           { "form" : "Hortator",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 110,
             "context" : "...of words and swords, which you shall nurture until the <mark>Hortator<\/mark> comes.'",
             "fid" : "content" },
           
           { "form" : "Hortator",
             "weight" : "1",
-            "pos" : 195,
+            "pos" : 190,
             "context" : "To which the netchiman's wife said to the <mark>Hortator<\/mark>.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Hortator",
-            "weight" : "1",
-            "pos" : 6714,
-            "context" : "<mark>Hortator<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "hortator",
             "weight" : "1",
-            "pos" : 6810,
+            "pos" : 6805,
             "context" : "<mark>hortator<\/mark>",
             "fid" : "persons",
             "in" : 

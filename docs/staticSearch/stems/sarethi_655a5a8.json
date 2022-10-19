@@ -9,13 +9,13 @@
         [ 
           { "form" : "Sarethi",
             "weight" : "1",
-            "pos" : 155,
+            "pos" : 150,
             "context" : "Master Lord Athyn <mark>Sarethi<\/mark>, by Grace of Almsivi, Honored Councilor of Redoran Council...",
             "fid" : "content" },
           
           { "form" : "Sarethi",
             "weight" : "1",
-            "pos" : 167,
+            "pos" : 162,
             "context" : "...Council, Vvardenfell District, Lord of South Gash, of <mark>Sarethi<\/mark> Manor, Manor District, Ald'ruhn, District of Vvardenfell,...",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "Sarethi",
             "weight" : "1",
-            "pos" : 237,
+            "pos" : 232,
             "context" : "...six Redoran councilors, Brara Morvayn, Hlaren Ramoran, Athyn <mark>Sarethi<\/mark>, Garisa Llethri, Miner Arobar, and Bolvyn Venim,...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Sarethi",
-            "weight" : "1",
-            "pos" : 7133,
-            "context" : "Athyn <mark>Sarethi<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "sarethi",
             "weight" : "1",
-            "pos" : 7258,
+            "pos" : 7253,
             "context" : "athyn <mark>sarethi<\/mark>",
             "fid" : "persons",
             "in" : 

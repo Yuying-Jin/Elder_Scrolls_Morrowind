@@ -9,19 +9,19 @@
         [ 
           { "form" : "rock",
             "weight" : "1",
-            "pos" : 170,
+            "pos" : 165,
             "context" : "...there were no springs under the island, just sand and <mark>rock<\/mark>. S'Riizh felt panic seizing his soul, until he saw...",
             "fid" : "content" },
           
           { "form" : "rocks",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "...was a pathetic predator and he was soon reduced to hurling <mark>rocks<\/mark> at the alert and nimble little fish.",
             "fid" : "content" },
           
           { "form" : "rock",
             "weight" : "1",
-            "pos" : 258,
+            "pos" : 253,
             "context" : "S'Riizh laughed: \"Do you want a <mark>rock<\/mark>?\"",
             "fid" : "content" } ] },
       
@@ -32,19 +32,9 @@
         [ 
           { "form" : "Rock",
             "weight" : "1",
-            "pos" : 318,
+            "pos" : 313,
             "context" : "In my native High <mark>Rock<\/mark>, traditions dating back to the witch kings and nomadic horsemen...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Rock",
-            "weight" : "1",
-            "pos" : 2192,
-            "context" : "High <mark>Rock<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +43,7 @@
         [ 
           { "form" : "rock",
             "weight" : "1",
-            "pos" : 2367,
+            "pos" : 2362,
             "context" : "high <mark>rock<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -66,7 +56,7 @@
         [ 
           { "form" : "rock",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "Arches and spires line the <mark>rock<\/mark> halls,",
             "fid" : "content" } ] },
       
@@ -77,7 +67,7 @@
         [ 
           { "form" : "Rock",
             "weight" : "1",
-            "pos" : 202,
+            "pos" : 197,
             "context" : "St. Llothis grants The <mark>Rock<\/mark> of Llothis, for fortifying the will.",
             "fid" : "content" } ] },
       
@@ -88,7 +78,7 @@
         [ 
           { "form" : "rock",
             "weight" : "1",
-            "pos" : 372,
+            "pos" : 367,
             "context" : "...intelligence to marry, but a man of endurance, a <mark>rock<\/mark>. The greatest in all Morrowind.\"",
             "fid" : "content" } ] },
       
@@ -99,6 +89,6 @@
         [ 
           { "form" : "rocks",
             "weight" : "1",
-            "pos" : 113,
+            "pos" : 108,
             "context" : "...as you head towards Pelagiad. The shrine is between two <mark>rocks<\/mark>, and most easily noticed while traveling east along the road...",
             "fid" : "content" } ] } ] }

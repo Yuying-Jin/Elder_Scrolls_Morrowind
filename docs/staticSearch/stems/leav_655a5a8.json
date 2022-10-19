@@ -9,31 +9,31 @@
         [ 
           { "form" : "leave",
             "weight" : "1",
-            "pos" : 138,
+            "pos" : 133,
             "context" : "...servants of the Temple to use. It is customary to <mark>leave<\/mark> a portion of muck at the shrine to represent Vivec's humility...",
             "fid" : "content" },
           
           { "form" : "leave",
             "weight" : "1",
-            "pos" : 225,
+            "pos" : 220,
             "context" : ".... When you address the shrine, it is customary to <mark>leave<\/mark> behind a Potion of Rising Force. Suitable potions may be...",
             "fid" : "content" },
           
           { "form" : "leave",
             "weight" : "1",
-            "pos" : 459,
+            "pos" : 454,
             "context" : ".... When you address the shrine, it is customary to <mark>leave<\/mark> a potion of Cure Common Disease as a token of your...",
             "fid" : "content" },
           
           { "form" : "leave",
             "weight" : "1",
-            "pos" : 561,
+            "pos" : 556,
             "context" : ".... When you address the shrine, it is customary to <mark>leave<\/mark> a portion of dreugh wax as a token of Vivec's victorious...",
             "fid" : "content" },
           
           { "form" : "leave",
             "weight" : "1",
-            "pos" : 641,
+            "pos" : 636,
             "context" : ".... When you address the shrine, it is customary to <mark>leave<\/mark> a soul gem in remembrance of our ancestors who were bound...",
             "fid" : "content" } ] },
       
@@ -44,25 +44,15 @@
         [ 
           { "form" : "leaves",
             "weight" : "1",
-            "pos" : 201,
+            "pos" : 196,
             "context" : "...They attain a height of about three feet and have feathery <mark>leaves<\/mark>; the flowers are usually bright red. In addition to...",
             "fid" : "content" },
           
           { "form" : "leaves",
             "weight" : "1",
-            "pos" : 250,
+            "pos" : 245,
             "context" : "The Ginko <mark>leaves<\/mark> which are found along the banks of rivers and lakes in...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "leaves",
-            "weight" : "1",
-            "pos" : 234,
-            "context" : "ginko <mark>leaves<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -71,7 +61,7 @@
         [ 
           { "form" : "leaves",
             "weight" : "1",
-            "pos" : 415,
+            "pos" : 410,
             "context" : "ginko <mark>leaves<\/mark>",
             "fid" : "items",
             "in" : 
@@ -84,7 +74,7 @@
         [ 
           { "form" : "leave",
             "weight" : "1",
-            "pos" : 562,
+            "pos" : 557,
             "context" : "...seeing it in a few days time, but I must <mark>leave<\/mark> now to meet Master Neloth on the field. I will...",
             "fid" : "content" } ] },
       
@@ -95,7 +85,7 @@
         [ 
           { "form" : "leave",
             "weight" : "1",
-            "pos" : 298,
+            "pos" : 293,
             "context" : "...burned to ashes by that battlemage, and where would that <mark>leave<\/mark> me? Do we have enough gold that I could support myself...",
             "fid" : "content" } ] },
       
@@ -106,6 +96,6 @@
         [ 
           { "form" : "leave",
             "weight" : "1",
-            "pos" : 167,
+            "pos" : 162,
             "context" : "...properly executed, can both slay and silence a guard and <mark>leave<\/mark> the thief relatively bloodfree. And after all, after the robbery...",
             "fid" : "content" } ] } ] }

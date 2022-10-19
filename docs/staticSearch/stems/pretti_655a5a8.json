@@ -9,7 +9,7 @@
         [ 
           { "form" : "pretty",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Wood is <mark>pretty<\/mark>",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "pretty",
             "weight" : "1",
-            "pos" : 471,
+            "pos" : 466,
             "context" : "...yes, as a matter of fact, I did. It's <mark>pretty<\/mark> tall. It was a simple matter, especially since I...",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "pretty",
             "weight" : "1",
-            "pos" : 167,
+            "pos" : 162,
             "context" : "...the fire red fronds that protect its golden flower. As <mark>pretty<\/mark> as it is, it is a deadly poison to most living...",
             "fid" : "content" } ] } ] }

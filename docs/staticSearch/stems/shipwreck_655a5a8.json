@@ -9,19 +9,9 @@
         [ 
           { "form" : "Shipwreck",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Ancient <mark>Shipwreck<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Shipwreck",
-            "weight" : "1",
-            "pos" : 942,
-            "context" : "Ancienct <mark>Shipwreck<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "shipwreck",
             "weight" : "1",
-            "pos" : 1114,
+            "pos" : 1109,
             "context" : "ancienct <mark>shipwreck<\/mark>",
             "fid" : "loc",
             "in" : 

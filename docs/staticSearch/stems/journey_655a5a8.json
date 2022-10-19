@@ -9,13 +9,13 @@
         [ 
           { "form" : "journey",
             "weight" : "1",
-            "pos" : 341,
+            "pos" : 336,
             "context" : "...beneath Lord Vivec's Palace in the city of Vivec. The <mark>journey<\/mark> though the Puzzle Canal can be confusing and it is suggested...",
             "fid" : "content" },
           
           { "form" : "journey",
             "weight" : "1",
-            "pos" : 622,
+            "pos" : 617,
             "context" : "...follow the Foyada Mamaea all the way to Ghostgate. Any <mark>journey<\/mark> inside the Ghostfence is dangerous, but even the most timid...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "journey",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "...teleportation is not possible. Only Papré can make such a <mark>journey<\/mark> to the Imperial Palace. There, we will report the evil...",
             "fid" : "content" } ] } ] }

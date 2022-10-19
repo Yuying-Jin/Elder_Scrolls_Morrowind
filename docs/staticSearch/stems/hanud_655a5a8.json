@@ -2,21 +2,6 @@
   { "stem" : "hanud",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Hanud",
-            "weight" : "1",
-            "pos" : 2152,
-            "context" : "<mark>Hanud<\/mark>" },
-          
-          { "form" : "Hanud",
-            "weight" : "1",
-            "pos" : 2169,
-            "context" : "<mark>Hanud<\/mark> Tower" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "hanud",
             "weight" : "1",
-            "pos" : 2322,
+            "pos" : 2317,
             "context" : "<mark>hanud<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "hanud",
             "weight" : "1",
-            "pos" : 2339,
+            "pos" : 2334,
             "context" : "<mark>hanud<\/mark> tower",
             "fid" : "loc",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "Hanud",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 31,
             "context" : "<mark>Hanud<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -56,7 +41,7 @@
         [ 
           { "form" : "Hanud",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "<mark>Hanud<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -67,6 +52,6 @@
         [ 
           { "form" : "Hanud",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "<mark>Hanud<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

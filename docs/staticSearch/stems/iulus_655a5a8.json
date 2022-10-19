@@ -9,19 +9,9 @@
         [ 
           { "form" : "Iulus",
             "weight" : "1",
-            "pos" : 542,
+            "pos" : 537,
             "context" : "...to better serve the cult. Those interested should speak to <mark>Iulus<\/mark> Truptor at the Imperial Chapels in Ebonheart.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Iulus",
-            "weight" : "1",
-            "pos" : 7397,
-            "context" : "<mark>Iulus<\/mark> Truptor" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "iulus",
             "weight" : "1",
-            "pos" : 7534,
+            "pos" : 7529,
             "context" : "<mark>iulus<\/mark> truptor",
             "fid" : "persons",
             "in" : 

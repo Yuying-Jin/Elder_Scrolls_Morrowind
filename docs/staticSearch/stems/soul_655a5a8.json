@@ -9,13 +9,13 @@
         [ 
           { "form" : "soul",
             "weight" : "1",
-            "pos" : 109,
+            "pos" : 104,
             "context" : "...for a favor. However, with no hope for my <mark>soul<\/mark> or spirit unless I might be cured, I undertook his...",
             "fid" : "content" },
           
           { "form" : "soul",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 115,
             "context" : "[Rithari sought and obtained a cursed <mark>soul<\/mark> gem of mysterious nature from a deep cavern on the northern...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "souls",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "Arkay's Blessing prevents the <mark>souls<\/mark> of men, beastmen, and elves from being used without...",
             "fid" : "content" } ] },
       
@@ -37,19 +37,9 @@
         [ 
           { "form" : "souls",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "What a wondrous love it is To bind two <mark>souls<\/mark> in faith, Chained completely together With never a false word...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "soul",
-            "weight" : "1",
-            "pos" : 512,
-            "context" : "<mark>soul<\/mark>_gem" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -58,7 +48,7 @@
         [ 
           { "form" : "soul",
             "weight" : "1",
-            "pos" : 682,
+            "pos" : 677,
             "context" : "<mark>soul<\/mark> gem",
             "fid" : "items",
             "in" : 
@@ -71,7 +61,7 @@
         [ 
           { "form" : "soul",
             "weight" : "1",
-            "pos" : 175,
+            "pos" : 170,
             "context" : "..., just sand and rock. S'Riizh felt panic seizing his <mark>soul<\/mark>, until he saw the small, quick, golden fish...",
             "fid" : "content" } ] },
       
@@ -82,7 +72,7 @@
         [ 
           { "form" : "souls",
             "weight" : "1",
-            "pos" : 177,
+            "pos" : 172,
             "context" : "What dark crucible may kindle their <mark>souls<\/mark> to light?",
             "fid" : "content" } ] },
       
@@ -93,7 +83,7 @@
         [ 
           { "form" : "Soul",
             "weight" : "1",
-            "pos" : 154,
+            "pos" : 149,
             "context" : "...blessings of Almsivi: Vivec's Mystery, for good fortune; <mark>Soul<\/mark> of Sotha Sil, for magical power, and Lady's Grace...",
             "fid" : "content" } ] },
       
@@ -104,7 +94,7 @@
         [ 
           { "form" : "soul",
             "weight" : "1",
-            "pos" : 642,
+            "pos" : 637,
             "context" : "...you address the shrine, it is customary to leave a <mark>soul<\/mark> gem in remembrance of our ancestors who were bound to the...",
             "fid" : "content" } ] },
       
@@ -115,6 +105,6 @@
         [ 
           { "form" : "souls",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "...often have even the wise lusted to overreach their bodies and <mark>souls<\/mark> with vitality and mana. And also must the Magicka Fountains...",
             "fid" : "content" } ] } ] }

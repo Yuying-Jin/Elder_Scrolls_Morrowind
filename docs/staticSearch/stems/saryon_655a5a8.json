@@ -2,16 +2,6 @@
   { "stem" : "saryon",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Saryon",
-            "weight" : "1",
-            "pos" : 7146,
-            "context" : "Sevyni <mark>Saryon<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "saryon",
             "weight" : "1",
-            "pos" : 7271,
+            "pos" : 7266,
             "context" : "sevyni <mark>saryon<\/mark>",
             "fid" : "persons",
             "in" : 

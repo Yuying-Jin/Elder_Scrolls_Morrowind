@@ -2,16 +2,6 @@
   { "stem" : "savel",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Savel",
-            "weight" : "1",
-            "pos" : 3387,
-            "context" : "<mark>Savel<\/mark>_Ancestral_Tomb" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "savel",
             "weight" : "1",
-            "pos" : 3540,
+            "pos" : 3535,
             "context" : "<mark>savel<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Savel",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "<mark>Savel<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] } ] }

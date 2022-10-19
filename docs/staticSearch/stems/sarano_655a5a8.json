@@ -9,7 +9,7 @@
         [ 
           { "form" : "Sarano",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "<mark>Sarano<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "Sarano",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "<mark>Sarano<\/mark> Ancestral Tomb: Visitable? ",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Sarano",
-            "weight" : "1",
-            "pos" : 3363,
-            "context" : "<mark>Sarano<\/mark> Ancestral Tomb" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "sarano",
             "weight" : "1",
-            "pos" : 3516,
+            "pos" : 3511,
             "context" : "<mark>sarano<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 

@@ -9,12 +9,12 @@
         [ 
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "The Black <mark>Glove<\/mark>" },
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 1081,
+            "pos" : 1076,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 1430,
+            "pos" : 1425,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 3424,
+            "pos" : 3419,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 3454,
+            "pos" : 3449,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 4091,
+            "pos" : 4086,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 4542,
+            "pos" : 4537,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 4606,
+            "pos" : 4601,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 6140,
+            "pos" : 6135,
             "context" : "The Black <mark>Glove<\/mark>, count: 2",
             "fid" : "group",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 6746,
+            "pos" : 6741,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -86,66 +86,11 @@
           
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 7004,
+            "pos" : 6999,
             "context" : "The Black <mark>Glove<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 10,
-        "contexts" : 
-        [ 
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 908,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 1265,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 3297,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 3319,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 3988,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 4554,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 4596,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 5555,
-            "context" : "The Black <mark>Glove<\/mark>, count: 2" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 6645,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" },
-          
-          { "form" : "Glove",
-            "weight" : "1",
-            "pos" : 6882,
-            "context" : "The Black <mark>Glove<\/mark>, count: 1" } ] },
       
       { "docId" : "librarium_The_Black_Glove",
         "docUri" : "librarium\/The_Black_Glove.html",
@@ -154,6 +99,6 @@
         [ 
           { "form" : "Glove",
             "weight" : "1",
-            "pos" : 102,
+            "pos" : 97,
             "context" : "...Then, perhaps, your oath and service may please the Black <mark>Glove<\/mark>.",
             "fid" : "content" } ] } ] }

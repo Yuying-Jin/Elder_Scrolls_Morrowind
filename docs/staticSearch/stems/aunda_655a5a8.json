@@ -2,21 +2,6 @@
   { "stem" : "aunda",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Aundae",
-            "weight" : "1",
-            "pos" : 4927,
-            "context" : "<mark>Aundae<\/mark>" },
-          
-          { "form" : "Aundae",
-            "weight" : "1",
-            "pos" : 4934,
-            "context" : "Clan <mark>Aundae<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "aundae",
             "weight" : "1",
-            "pos" : 5060,
+            "pos" : 5055,
             "context" : "clan <mark>aundae<\/mark>",
             "fid" : "group",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "aundae",
             "weight" : "1",
-            "pos" : 5067,
+            "pos" : 5062,
             "context" : "<mark>aundae<\/mark>",
             "fid" : "group",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "Aundae",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "...passively acquiesced in my gradual integration into the affairs of Clan <mark>Aundae<\/mark>. I made no human my prey, only beasts,...",
             "fid" : "ClanAundae" } ] },
       
@@ -56,6 +41,6 @@
         [ 
           { "form" : "Aundae",
             "weight" : "1",
-            "pos" : 177,
+            "pos" : 172,
             "context" : "...endurance, and attacks in a state of ecstatic frenzy. <mark>Aundae<\/mark> vampires are potent spellcasters, seeking to hypnotize victims before feeding...",
             "fid" : "content" } ] } ] }

@@ -9,7 +9,7 @@
         [ 
           { "form" : "hastily",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "...While the Temple will investigate obvious signs of Necromancy such as <mark>hastily<\/mark> emptied graves or ash stolen from one of their ashpits,...",
             "fid" : "content" } ] },
       
@@ -20,6 +20,6 @@
         [ 
           { "form" : "hastily",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "[[Scrawled <mark>hastily<\/mark> on a page from a log journal]]",
             "fid" : "content" } ] } ] }

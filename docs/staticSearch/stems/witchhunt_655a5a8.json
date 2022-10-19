@@ -9,19 +9,9 @@
         [ 
           { "form" : "witchhunters",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "Most Necromancers are fools and weaklings. Fodder for the <mark>witchhunters<\/mark>. But you, my servants, you are among the chosen...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "witchhunters",
-            "weight" : "1",
-            "pos" : 6177,
-            "context" : "<mark>witchhunters<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "witchhunters",
             "weight" : "1",
-            "pos" : 6257,
+            "pos" : 6252,
             "context" : "<mark>witchhunters<\/mark>",
             "fid" : "group",
             "in" : 

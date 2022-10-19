@@ -2,21 +2,6 @@
   { "stem" : "aryni",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Aryni",
-            "weight" : "1",
-            "pos" : 877,
-            "context" : "Ald'ruhn,_<mark>Aryni<\/mark>_Orethi's_House" },
-          
-          { "form" : "Aryni",
-            "weight" : "1",
-            "pos" : 990,
-            "context" : "<mark>Aryni<\/mark> Orethi's House" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "aryni",
             "weight" : "1",
-            "pos" : 1032,
+            "pos" : 1027,
             "context" : "ald'ruhn, <mark>aryni<\/mark> orethi's house",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "aryni",
             "weight" : "1",
-            "pos" : 1162,
+            "pos" : 1157,
             "context" : "<mark>aryni<\/mark> orethi's house",
             "fid" : "loc",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "Aryni",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Aryni<\/mark> Orethi's House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -56,6 +41,6 @@
         [ 
           { "form" : "Aryni",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Ald'ruhn, <mark>Aryni<\/mark> Orethi's House: Visitable? yes",
             "fid" : "acq" } ] } ] }

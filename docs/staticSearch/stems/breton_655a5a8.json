@@ -9,19 +9,9 @@
         [ 
           { "form" : "Bretons",
             "weight" : "1",
-            "pos" : 217,
+            "pos" : 212,
             "context" : "...assuming you're going to steal something. Similarly, Nords, <mark>Bretons<\/mark>, and Cyrodiils are sometimes treated coolly by merchants in the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Bretons",
-            "weight" : "1",
-            "pos" : 4999,
-            "context" : "<mark>Bretons<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "bretons",
             "weight" : "1",
-            "pos" : 5152,
+            "pos" : 5147,
             "context" : "<mark>bretons<\/mark>",
             "fid" : "group",
             "in" : 

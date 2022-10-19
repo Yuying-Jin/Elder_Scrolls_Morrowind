@@ -9,19 +9,9 @@
         [ 
           { "form" : "Bedrooms",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "Arobar Manor <mark>Bedrooms<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Bedrooms",
-            "weight" : "1",
-            "pos" : 971,
-            "context" : "Arobar Manor <mark>Bedrooms<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "bedrooms",
             "weight" : "1",
-            "pos" : 1143,
+            "pos" : 1138,
             "context" : "arobar manor <mark>bedrooms<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -43,7 +33,7 @@
         [ 
           { "form" : "Bedrooms",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : " Arobar Manor <mark>Bedrooms<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "bedroom",
             "weight" : "1",
-            "pos" : 827,
+            "pos" : 822,
             "context" : "...groans of his old house. Afternoon sunlight came through his <mark>bedroom<\/mark> window in ribbons, catching dust. He closed his eyes...",
             "fid" : "content" } ] } ] }

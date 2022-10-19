@@ -9,64 +9,39 @@
         [ 
           { "form" : "palace",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "...size of a complete town. The High Fane and the <mark>palace<\/mark> of Vivec are visited by hundreds of tourists and pilgrims daily...",
             "fid" : "content" },
           
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : "..., the Halls of Wisdom and Justice, and Lord Vivec's <mark>Palace<\/mark>.",
             "fid" : "content" },
           
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 94,
+            "pos" : 89,
             "context" : "...Quarter at the top, the Temple Compound, with Vivec's <mark>Palace<\/mark>, the High Fane, the Ministry of Truth, and...",
             "fid" : "content" },
           
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 209,
+            "pos" : 204,
             "context" : "...of Truth, and to offer prayer and thanks before the <mark>Palace<\/mark> of Vivec. The Ministry of Truth, a celestial body...",
             "fid" : "content" },
           
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 241,
+            "pos" : 236,
             "context" : "...judicial, and martial operations of the Tribunal Temple. The <mark>Palace<\/mark> of Vivec is the abode of the god-hero Lord...",
             "fid" : "content" },
           
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 267,
+            "pos" : 262,
             "context" : "...Lord Vivec, and only at his initiation. Beneath the <mark>Palace<\/mark> of Vivec is the Puzzle Canal, a place of worship...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Palace",
-            "weight" : "1",
-            "pos" : 2284,
-            "context" : "Imperial <mark>Palace<\/mark>" },
-          
-          { "form" : "Palace",
-            "weight" : "1",
-            "pos" : 2925,
-            "context" : "<mark>Palace<\/mark> of Vivec" },
-          
-          { "form" : "Palace",
-            "weight" : "1",
-            "pos" : 3136,
-            "context" : "Royal_<mark>Palace<\/mark>" },
-          
-          { "form" : "palace",
-            "weight" : "1",
-            "pos" : 4779,
-            "context" : "<mark>palace<\/mark> of Vivec" } ] },
       
       { "docId" : "librarium_The_Pilgrim's_Path",
         "docUri" : "librarium\/The_Pilgrim's_Path.html",
@@ -75,25 +50,25 @@
         [ 
           { "form" : "palace",
             "weight" : "1",
-            "pos" : 202,
+            "pos" : 197,
             "context" : "...its works. Thus the moon now stands guard over the <mark>palace<\/mark>, and serves as a citadel for the Temple 's Ordinators...",
             "fid" : "content" },
           
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 238,
+            "pos" : 233,
             "context" : "The <mark>Palace<\/mark>: Shrine of Generosity",
             "fid" : "content" },
           
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 284,
+            "pos" : 279,
             "context" : "...The Shrine of Generosity is on the top steps of Vivec's <mark>Palace<\/mark>, the southernmost Canton of Vivec City. The customary donation...",
             "fid" : "content" },
           
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 338,
+            "pos" : 333,
             "context" : "...heart of the Puzzle Canal, a labyrinth beneath Lord Vivec's <mark>Palace<\/mark> in the city of Vivec. The journey though the Puzzle...",
             "fid" : "content" } ] },
       
@@ -104,7 +79,7 @@
         [ 
           { "form" : "palace",
             "weight" : "1",
-            "pos" : 2450,
+            "pos" : 2445,
             "context" : "imperial <mark>palace<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -112,7 +87,7 @@
           
           { "form" : "palace",
             "weight" : "1",
-            "pos" : 3098,
+            "pos" : 3093,
             "context" : "<mark>palace<\/mark> of vivec",
             "fid" : "loc",
             "in" : 
@@ -120,7 +95,7 @@
           
           { "form" : "palace",
             "weight" : "1",
-            "pos" : 3305,
+            "pos" : 3300,
             "context" : "royal <mark>palace<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -133,7 +108,7 @@
         [ 
           { "form" : "palace",
             "weight" : "1",
-            "pos" : 256,
+            "pos" : 251,
             "context" : "...size of a complete town. The High Fane and the <mark>palace<\/mark> of Vivec are visited by hundreds of tourists and pilgrims daily...",
             "fid" : "content" } ] },
       
@@ -144,7 +119,7 @@
         [ 
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : ".... Only Papré can make such a journey to the Imperial <mark>Palace<\/mark>. There, we will report the evil infection and return with...",
             "fid" : "content" } ] },
       
@@ -155,6 +130,6 @@
         [ 
           { "form" : "Palace",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "Royal <mark>Palace<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

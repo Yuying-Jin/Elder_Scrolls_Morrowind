@@ -9,19 +9,19 @@
         [ 
           { "form" : "mining",
             "weight" : "1",
-            "pos" : 1139,
+            "pos" : 1134,
             "context" : " Caldera is a recently chartered Imperial town and <mark>mining<\/mark> corporation. The Caldera Mining Company has been granted an Imperial...",
             "fid" : "content" },
           
           { "form" : "Mining",
             "weight" : "1",
-            "pos" : 1142,
+            "pos" : 1137,
             "context" : "...a recently chartered Imperial town and mining corporation. The Caldera <mark>Mining<\/mark> Company has been granted an Imperial monopoly to remove raw ebony...",
             "fid" : "content" },
           
           { "form" : "mining",
             "weight" : "1",
-            "pos" : 1186,
+            "pos" : 1181,
             "context" : " Gnisis is a small <mark>mining<\/mark> and trade village astride the silt strider caravan route between the...",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "mines",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : " Young Sotha Sil, while playing in the egg <mark>mines<\/mark>, saw a number of scribs in a deep shaft,...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "mines",
             "weight" : "1",
-            "pos" : 154,
+            "pos" : 149,
             "context" : "...baked from saltrice flour. Kwama eggs are harvested from egg <mark>mines<\/mark>, and sold everywhere in Morrowind; the smaller eggs retain...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "mine",
             "weight" : "1",
-            "pos" : 241,
+            "pos" : 236,
             "context" : "\"A very good friend of <mark>mine<\/mark>, a thief in Gnisis whose name I won't mention,...",
             "fid" : "content" } ] } ] }

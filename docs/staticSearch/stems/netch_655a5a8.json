@@ -9,31 +9,21 @@
         [ 
           { "form" : "Netch",
             "weight" : "1",
-            "pos" : 267,
+            "pos" : 262,
             "context" : " The Wounded <mark>Netch<\/mark>",
             "fid" : "content" },
           
           { "form" : "Netch",
             "weight" : "1",
-            "pos" : 269,
+            "pos" : 264,
             "context" : " A wounded <mark>Netch<\/mark> lay himself down in a quiet corner of its feeding-...",
             "fid" : "content" },
           
           { "form" : "Netch",
             "weight" : "1",
-            "pos" : 291,
+            "pos" : 286,
             "context" : "...been placed there for his use; so that the poor <mark>Netch<\/mark> died, not from his wounds, but from the greed...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Netch",
-            "weight" : "1",
-            "pos" : 6968,
-            "context" : "<mark>Netch<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -42,7 +32,7 @@
         [ 
           { "form" : "netch",
             "weight" : "1",
-            "pos" : 7117,
+            "pos" : 7112,
             "context" : "<mark>netch<\/mark>",
             "fid" : "persons",
             "in" : 

@@ -2,31 +2,6 @@
   { "stem" : "armor",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "armor",
-            "weight" : "1",
-            "pos" : 14,
-            "context" : "<mark>armor<\/mark> of the saviour's hide:" },
-          
-          { "form" : "armor",
-            "weight" : "1",
-            "pos" : 303,
-            "context" : "heavy <mark>armor<\/mark>" },
-          
-          { "form" : "armor",
-            "weight" : "1",
-            "pos" : 342,
-            "context" : "light <mark>armor<\/mark>" },
-          
-          { "form" : "Armorer",
-            "weight" : "1",
-            "pos" : 1236,
-            "context" : "Balmora, Meldor: <mark>Armorer<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 4,
@@ -34,7 +9,7 @@
         [ 
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 192,
+            "pos" : 187,
             "context" : "<mark>armor<\/mark> of the saviour's hide:",
             "fid" : "items",
             "in" : 
@@ -42,7 +17,7 @@
           
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 476,
+            "pos" : 471,
             "context" : "heavy <mark>armor<\/mark>",
             "fid" : "items",
             "in" : 
@@ -50,7 +25,7 @@
           
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 515,
+            "pos" : 510,
             "context" : "light <mark>armor<\/mark>",
             "fid" : "items",
             "in" : 
@@ -58,7 +33,7 @@
           
           { "form" : "armorer",
             "weight" : "1",
-            "pos" : 1419,
+            "pos" : 1414,
             "context" : "balmora, meldor: <mark>armorer<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -71,25 +46,25 @@
         [ 
           { "form" : "Armor",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "<mark>Armor<\/mark> of the Saviour's Hide:",
             "fid" : "armorofthesaviourshide:" },
           
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "Created by the Daedra Lord Malacath, this <mark>armor<\/mark> has the marvelous property of turning the blow of an oathbreaker...",
             "fid" : "content" },
           
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 165,
+            "pos" : 160,
             "context" : "...Name). Unfortunately, like many of Malacath's gifts, the <mark>armor<\/mark> is a mixed blessing. It also makes its wearer exceptionally...",
             "fid" : "content" },
           
           { "form" : "Armor",
             "weight" : "1",
-            "pos" : 303,
+            "pos" : 298,
             "context" : "..., and that certain enchanted items -- for instance, the <mark>Armor<\/mark> of the Savior's Hide, forged by Malacath -- are sufficient...",
             "fid" : "content" } ] },
       
@@ -100,19 +75,19 @@
         [ 
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 162,
+            "pos" : 157,
             "context" : "...and blunt weapons. Legion troops train with shield and heavy <mark>armor<\/mark>, and so must be skilled at blocking and moving in...",
             "fid" : "content" },
           
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 163,
             "context" : "...and so must be skilled at blocking and moving in heavy <mark>armor<\/mark>.",
             "fid" : "content" },
           
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 187,
+            "pos" : 182,
             "context" : "...whatever blows you can, and take unblocked blows upon your heavy <mark>armor<\/mark>. Recruit must also be proficient at athletics, both to...",
             "fid" : "content" } ] },
       
@@ -123,7 +98,7 @@
         [ 
           { "form" : "armored",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...violence is needful, we fight with staves and hammers, <mark>armored<\/mark> only in our faith. We study Restoration and Alchemy to...",
             "fid" : "content" } ] },
       
@@ -134,7 +109,7 @@
         [ 
           { "form" : "Armor",
             "weight" : "1",
-            "pos" : 149,
+            "pos" : 144,
             "context" : "...shields. Guildsmen must be able to use and maintain Heavy <mark>Armor<\/mark>. ",
             "fid" : "content" } ] },
       
@@ -145,7 +120,7 @@
         [ 
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 578,
+            "pos" : 573,
             "context" : "...sergeants are called upon to serve the Nine with weapon, <mark>armor<\/mark>, and spell. New shrine sergeants are given the easiest...",
             "fid" : "content" } ] },
       
@@ -156,7 +131,7 @@
         [ 
           { "form" : "armors",
             "weight" : "1",
-            "pos" : 246,
+            "pos" : 241,
             "context" : "..., it is best to fight quickly in comfortable, light <mark>armors<\/mark> with short blades, or to fight from a distance with...",
             "fid" : "content" } ] },
       
@@ -167,7 +142,7 @@
         [ 
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 94,
+            "pos" : 89,
             "context" : "...crossbow, throwing star, and dart. You want light <mark>armor<\/mark>, so you can keep moving, and moving fast....",
             "fid" : "content" } ] },
       
@@ -178,7 +153,7 @@
         [ 
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 351,
+            "pos" : 346,
             "context" : ".... Many Khajiits will tuck a piece of Nightshade inside their <mark>armor<\/mark> to increase their abilities to skulk, hide and become invisible...",
             "fid" : "content" } ] },
       
@@ -189,7 +164,7 @@
         [ 
           { "form" : "Armorer",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Balmora, Meldor: <mark>Armorer<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -200,7 +175,7 @@
         [ 
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "...secure they strike from afar with accurate missile fire. Light <mark>armor<\/mark> protects them from harm, and the acrobatic discipline finds for...",
             "fid" : "content" } ] },
       
@@ -211,7 +186,7 @@
         [ 
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 504,
+            "pos" : 499,
             "context" : "...his children would give up their tough hides to serve as <mark>armor<\/mark> for the Dunmer.",
             "fid" : "content" } ] },
       
@@ -222,6 +197,6 @@
         [ 
           { "form" : "armor",
             "weight" : "1",
-            "pos" : 235,
+            "pos" : 230,
             "context" : "Saint Nerevar the Captain appeared before Baranat in golden <mark>armor<\/mark>, and smiled upon him, \"Baranat, I will make you...",
             "fid" : "content" } ] } ] }

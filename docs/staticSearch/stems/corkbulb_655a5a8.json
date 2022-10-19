@@ -9,25 +9,15 @@
         [ 
           { "form" : "corkbulb",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "...the following cheap and common ingredients: marshmerrow, wickwheat, <mark>corkbulb<\/mark> root, and saltrice. marshmerrow is an important crop of...",
             "fid" : "content" },
           
           { "form" : "Corkbulb",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 94,
             "context" : "...is a wild Ashland grain that grows in the Grazelands. <mark>Corkbulb<\/mark> grows best in the Ascadian Isles. Most saltrice comes from...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "corkbulb",
-            "weight" : "1",
-            "pos" : 107,
-            "context" : "<mark>corkbulb<\/mark>_root" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "corkbulb",
             "weight" : "1",
-            "pos" : 289,
+            "pos" : 284,
             "context" : "<mark>corkbulb<\/mark> root",
             "fid" : "items",
             "in" : 

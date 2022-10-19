@@ -9,31 +9,31 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 43,
             "context" : "...wraith, and dwarven ghost, can only be harmed by <mark>weapons<\/mark> that are enchanted or made of refined substances such as silver...",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 117,
             "context" : "...worse than the more common 'lesser' bonewalkers. Thankfully, normal <mark>weapons<\/mark> harm bonewalkers.",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 147,
+            "pos" : 142,
             "context" : "...be weak or strong, or more or less capable with <mark>weapons<\/mark> and shields. Fortunately, enchanted weapons are not needed to...",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 151,
+            "pos" : 146,
             "context" : "...or less capable with weapons and shields. Fortunately, enchanted <mark>weapons<\/mark> are not needed to destroy skeletons. An exception is the...",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 172,
+            "pos" : 167,
             "context" : ".... Bonelords are very powerful, and very dangerous. Normal <mark>weapons<\/mark> do not affect them.",
             "fid" : "content" } ] },
       
@@ -44,31 +44,31 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "...wraith, and dwarven ghost, can only be harmed by <mark>weapons<\/mark> that are enchanted or made of refined substances such as silver...",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 109,
+            "pos" : 104,
             "context" : "...worse than the more common 'lesser' bonewalkers. Thankfully, normal <mark>weapons<\/mark> harm bonewalkers.",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : "...be weak or strong, or more or less capable with <mark>weapons<\/mark> and shields. Fortunately, enchanted weapons are not needed to...",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 138,
+            "pos" : 133,
             "context" : "...or less capable with weapons and shields. Fortunately, enchanted <mark>weapons<\/mark> are not needed to destroy skeletons. An exception is the...",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : ".... Bonelords are very powerful, and very dangerous. Normal <mark>weapons<\/mark> do not affect them.",
             "fid" : "content" } ] },
       
@@ -79,13 +79,13 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 323,
+            "pos" : 318,
             "context" : "..., to take the field unarmored to fight only with blunt <mark>weapons<\/mark>, are especially praiseworthy. Knowledge of enchantments and the gift...",
             "fid" : "content" },
           
           { "form" : "weapon",
             "weight" : "1",
-            "pos" : 577,
+            "pos" : 572,
             "context" : ".... Shrine sergeants are called upon to serve the Nine with <mark>weapon<\/mark>, armor, and spell. New shrine sergeants are given...",
             "fid" : "content" } ] },
       
@@ -96,13 +96,13 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 156,
+            "pos" : 151,
             "context" : "...demonstrate mastery of the long blade, the spear and blunt <mark>weapons<\/mark>. Legion troops train with shield and heavy armor, and...",
             "fid" : "content" },
           
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 177,
+            "pos" : 172,
             "context" : "...you must master the long blade, spear, and blunt <mark>weapons<\/mark>. You must block whatever blows you can, and take unblocked...",
             "fid" : "content" } ] },
       
@@ -113,7 +113,7 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 141,
+            "pos" : 136,
             "context" : "...must have some proficiency with long blades, axes, blunt <mark>weapons<\/mark>, and shields. Guildsmen must be able to use and...",
             "fid" : "content" } ] },
       
@@ -124,7 +124,7 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 252,
+            "pos" : 247,
             "context" : "...blades, or to fight from a distance with a marksman's <mark>weapons<\/mark>.",
             "fid" : "content" } ] },
       
@@ -135,19 +135,9 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "...get into a slugging match, so you want the marksman's <mark>weapons<\/mark> -- the bow, crossbow, throwing star, and dart...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "weapons",
-            "weight" : "1",
-            "pos" : 57,
-            "context" : "blunt <mark>weapons<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -156,7 +146,7 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 239,
+            "pos" : 234,
             "context" : "blunt <mark>weapons<\/mark>",
             "fid" : "items",
             "in" : 
@@ -169,7 +159,7 @@
         [ 
           { "form" : "weapon",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 47,
             "context" : "...a battle with the contemptible Neloth. Inspired by their master's <mark>weapon<\/mark>, Mehrunes' Razor&gt;, Neloth's normally cowardly troops had been...",
             "fid" : "content" } ] },
       
@@ -180,7 +170,7 @@
         [ 
           { "form" : "weapon",
             "weight" : "1",
-            "pos" : 243,
+            "pos" : 238,
             "context" : "\"It's not my <mark>weapon<\/mark> of choice,\" said Harithoel, quietly, watching his prey...",
             "fid" : "content" } ] },
       
@@ -191,6 +181,6 @@
         [ 
           { "form" : "weapons",
             "weight" : "1",
-            "pos" : 156,
+            "pos" : 151,
             "context" : "...warrior who could thrash his opponents before they even unsheathed their <mark>weapons<\/mark>. Baranat look a look at his sad, cut-...",
             "fid" : "content" } ] } ] }

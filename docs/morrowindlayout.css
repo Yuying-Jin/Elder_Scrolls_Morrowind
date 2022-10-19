@@ -1,21 +1,16 @@
-
-
-
-
 body {
   font-family: "Lucida Console", Courier, monospace;
   background-color:#F9DB9C;
 }
 img {
-   
+   max-width:100%;
    width:500px;
    height:600px;
  
 }
 .center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   
 }
 h1 {
@@ -35,9 +30,9 @@ h2 {
 }
 
 /* Container for flexboxes */
-.row {
-  
-  display: flex;
+.row a{
+    color:#E39439;
+    
 }
 
 /* Creates three unequal columns that sit next to each other */
@@ -48,14 +43,11 @@ h2 {
 
 /* Left and right column */
 .column.side {
-   
-
-   flex: 1;
+  flex: 1;
 }
 
 /* Middle column */
 .column.middle {
- 
   flex: 2;
 }
 
@@ -90,21 +82,21 @@ h2 {
   }
 }
 
-ul {
+.nav {
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
 /*  background-color: #333;*/
-  
   position: sticky;
   top: 0;
+  display: table;
 }
 
 li {
   float:inherit;
-  
-  border-right: 1px solid #bbb;
+  border-right: 1px solid;
+  display:inline-block;
 }
 
 li a {
@@ -116,7 +108,7 @@ li a {
 }
 
 li a:hover {
-  background-color: #111;
+  background-color: #e37839;
 }
 
 .active {

@@ -9,36 +9,21 @@
         [ 
           { "form" : "Entrance",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "Ald'ruhn, Redoran Council <mark>Entrance<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "entrances",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : "...large carapace encloses a central dome, from which radiate the <mark>entrances<\/mark> to the Redoran Council chambers, the manors of the Redoran...",
             "fid" : "content" },
           
           { "form" : "entrance",
             "weight" : "1",
-            "pos" : 202,
+            "pos" : 197,
             "context" : "..., clothier, trader, pawnbroker, and bookseller near the <mark>entrance<\/mark> to Ald'ruhn-Under-Skar. The Ald Skar Inn and the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Entrance",
-            "weight" : "1",
-            "pos" : 861,
-            "context" : "Ald'ruhn, Redoran Council <mark>Entrance<\/mark>" },
-          
-          { "form" : "Entrance",
-            "weight" : "1",
-            "pos" : 3071,
-            "context" : "Redoran Council <mark>Entrance<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "entrance",
             "weight" : "1",
-            "pos" : 1093,
+            "pos" : 1088,
             "context" : "ald'ruhn, redoran council <mark>entrance<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "entrance",
             "weight" : "1",
-            "pos" : 3242,
+            "pos" : 3237,
             "context" : "redoran council <mark>entrance<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -68,6 +53,6 @@
         [ 
           { "form" : "Entrance",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "Redoran Council <mark>Entrance<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

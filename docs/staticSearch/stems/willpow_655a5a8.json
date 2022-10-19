@@ -9,19 +9,19 @@
         [ 
           { "form" : "willpower",
             "weight" : "1",
-            "pos" : 230,
+            "pos" : 225,
             "context" : "...many assume they accept only candidates of the highest intelligence and <mark>willpower<\/mark>.",
             "fid" : "content" },
           
           { "form" : "willpower",
             "weight" : "1",
-            "pos" : 237,
+            "pos" : 232,
             "context" : "Not true. Telvanni accept candidates of modest intelligence and <mark>willpower<\/mark>.",
             "fid" : "content" },
           
           { "form" : "willpower",
             "weight" : "1",
-            "pos" : 245,
+            "pos" : 240,
             "context" : "...true that advancement in Telvanni ranks depends on high intelligence and <mark>willpower<\/mark>, and that candidates proficient in the arts of magic --...",
             "fid" : "content" } ] },
       
@@ -32,6 +32,6 @@
         [ 
           { "form" : "Willpower",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "...the Tribunal must have the Personality to lead others and the <mark>Willpower<\/mark> to resist the world's temptations. When violence is needful,...",
             "fid" : "content" } ] } ] }

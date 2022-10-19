@@ -9,30 +9,15 @@
         [ 
           { "form" : "Mudcrabs",
             "weight" : "1",
-            "pos" : 210,
+            "pos" : 205,
             "context" : "The Guar and the <mark>Mudcrabs<\/mark>",
             "fid" : "content" },
           
           { "form" : "Mudcrabs",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "...just as they got near the shoreline, a colony of <mark>Mudcrabs<\/mark>, frightened in their turn by the approach of the Guar...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Mudcrabs",
-            "weight" : "1",
-            "pos" : 6918,
-            "context" : "<mark>Mudcrabs<\/mark>" },
-          
-          { "form" : "mudcrab",
-            "weight" : "1",
-            "pos" : 7642,
-            "context" : "<mark>mudcrab<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +26,7 @@
         [ 
           { "form" : "mudcrab",
             "weight" : "1",
-            "pos" : 7043,
+            "pos" : 7038,
             "context" : "<mark>mudcrab<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -49,7 +34,7 @@
           
           { "form" : "mudcrabs",
             "weight" : "1",
-            "pos" : 7050,
+            "pos" : 7045,
             "context" : "<mark>mudcrabs<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -62,7 +47,7 @@
         [ 
           { "form" : "mudcrabs",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "...comes to stripping the flesh from a corpse. The ravenous <mark>mudcrabs<\/mark> of Morrowind can strip a corpse down to its bones in...",
             "fid" : "content" } ] },
       
@@ -73,6 +58,6 @@
         [ 
           { "form" : "mudcrab",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "the meat of one <mark>mudcrab<\/mark> (two portions)",
             "fid" : "mudcrab" } ] } ] }

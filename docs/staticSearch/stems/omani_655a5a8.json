@@ -9,36 +9,21 @@
         [ 
           { "form" : "Omani",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "<mark>Omani<\/mark> Manor: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Omani",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 43,
             "context" : "Mistress Velanda <mark>Omani<\/mark>, by Grace of Almsivi, Honored Councilor of Hlaalu Council...",
             "fid" : "VelandaOmani" },
           
           { "form" : "Omani",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "...Hlaalu Council, Vvardenfell District, Free Trader, Lord of <mark>Omani<\/mark> Plantation, Elmas Island, East Vivec, District of Vvardenfell...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Omani",
-            "weight" : "1",
-            "pos" : 2889,
-            "context" : "<mark>Omani<\/mark> Manor" },
-          
-          { "form" : "Omani",
-            "weight" : "1",
-            "pos" : 7007,
-            "context" : "Velanda <mark>Omani<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "omani",
             "weight" : "1",
-            "pos" : 3062,
+            "pos" : 3057,
             "context" : "<mark>omani<\/mark> manor",
             "fid" : "loc",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "omani",
             "weight" : "1",
-            "pos" : 7139,
+            "pos" : 7134,
             "context" : "velanda <mark>omani<\/mark>",
             "fid" : "persons",
             "in" : 

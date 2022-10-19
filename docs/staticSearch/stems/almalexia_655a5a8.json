@@ -9,12 +9,12 @@
         [ 
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>" },
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 916,
+            "pos" : 911,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "almalexia",
             "weight" : "1",
-            "pos" : 1106,
+            "pos" : 1101,
             "context" : "<mark>almalexia<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 1996,
+            "pos" : 1991,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 2628,
+            "pos" : 2623,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 3871,
+            "pos" : 3866,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 4528,
+            "pos" : 4523,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 6075,
+            "pos" : 6070,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "almalexia",
             "weight" : "1",
-            "pos" : 6306,
+            "pos" : 6301,
             "context" : "<mark>almalexia<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 6753,
+            "pos" : 6748,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 5",
             "fid" : "persons",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 6822,
+            "pos" : 6817,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 6862,
+            "pos" : 6857,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 7",
             "fid" : "persons",
             "in" : 
@@ -102,7 +102,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 7053,
+            "pos" : 7048,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 2",
             "fid" : "persons",
             "in" : 
@@ -110,7 +110,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 7120,
+            "pos" : 7115,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 3",
             "fid" : "persons",
             "in" : 
@@ -118,7 +118,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 7301,
+            "pos" : 7296,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -126,7 +126,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 7352,
+            "pos" : 7347,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 3",
             "fid" : "persons",
             "in" : 
@@ -134,7 +134,7 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 7360,
+            "pos" : 7355,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 4",
             "fid" : "persons",
             "in" : 
@@ -142,101 +142,11 @@
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 7681,
+            "pos" : 7676,
             "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 4",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 17,
-        "contexts" : 
-        [ 
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 753,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 934,
-            "context" : "<mark>Almalexia<\/mark>" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 2461,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 3690,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 4390,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 4775,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 5795,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 6241,
-            "context" : "<mark>Almalexia<\/mark>" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 6652,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 5" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 6921,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 2" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 6971,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 3" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 6988,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 7176,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 1" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 7237,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 3" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 7245,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 4" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 7569,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 4" },
-          
-          { "form" : "Almalexia",
-            "weight" : "1",
-            "pos" : 7638,
-            "context" : "Homilies of Blessed <mark>Almalexia<\/mark>, count: 7" } ] },
       
       { "docId" : "librarium_Vivec_and_Mephala",
         "docUri" : "librarium\/Vivec_and_Mephala.html",
@@ -245,19 +155,19 @@
         [ 
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "..., the triune ALMSIVI, three deities exemplifying Dunmeri virtues. <mark>Almalexia<\/mark> is Mercy, Vivec is Mastery, and Sotha Sil is...",
             "fid" : "content" },
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 191,
+            "pos" : 186,
             "context" : "...Mage-Lord of ALMSIVI. Boethiah is the Anticipation of <mark>Almalexia<\/mark>, ALMSIVI's Mother and Lady. Mephala is the Anticipation of...",
             "fid" : "content" },
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 311,
+            "pos" : 306,
             "context" : "...is the story that Vivec conspired with his co-rulers <mark>Almalexia<\/mark> and Sotha Sil in the murder of Lord Nerevar, the...",
             "fid" : "content" } ] },
       
@@ -268,13 +178,13 @@
         [ 
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "...been for generation upon generation. With guidance and counsel of <mark>Almalexia<\/mark>, Vivec, and Sotha Sil, the Anticipations, and...",
             "fid" : "content" },
           
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 130,
             "context" : "The Temple believes that <mark>Almalexia<\/mark>, Vivec, and Sotha Sil were mortal guardians of Morrowind...",
             "fid" : "content" } ] },
       
@@ -285,7 +195,7 @@
         [ 
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 466,
+            "pos" : 461,
             "context" : "...the Inner Sea and the eastern coast. The city of <mark>Almalexia<\/mark> is located in Indoril District, and the Indoril are orthodox...",
             "fid" : "content" } ] },
       
@@ -296,7 +206,7 @@
         [ 
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...and good fortune, and his debt to his partners, <mark>Almalexia<\/mark> the Lover and Sotha Sil the Teacher. The poetry is...",
             "fid" : "content" } ] },
       
@@ -307,7 +217,7 @@
         [ 
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 130,
             "context" : "Those shrines bearing the images of Vivec, <mark>Almalexia<\/mark>, and Sotha Sil also may grant the blessing of Almsivi...",
             "fid" : "content" } ] },
       
@@ -318,6 +228,6 @@
         [ 
           { "form" : "Almalexia",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "...\"When I was born, I was blessed by Vivec, <mark>Almalexia<\/mark>, and Sotha Sil, and I have the ear of...",
             "fid" : "content" } ] } ] }

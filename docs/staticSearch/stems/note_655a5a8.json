@@ -9,7 +9,7 @@
         [ 
           { "form" : "note",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 110,
             "context" : "One more <mark>note<\/mark> to the student: While most undead can be raised again...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Note",
             "weight" : "1",
-            "pos" : 218,
+            "pos" : 213,
             "context" : "...the weakest vampire is immeasurably stronger than most other undead. <mark>Note<\/mark>: Ash vampires are not vampires, and are not undead...",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "Note",
             "weight" : "1",
-            "pos" : 202,
+            "pos" : 197,
             "context" : "Council Affairs of <mark>Note<\/mark>",
             "fid" : "content" } ] },
       
@@ -42,7 +42,7 @@
         [ 
           { "form" : "noted",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "\"...I have <mark>noted<\/mark> that Heartlanders like myself, and assimilated Imperial Citizens of other races...",
             "fid" : "content" } ] },
       
@@ -53,7 +53,7 @@
         [ 
           { "form" : "Note",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : "...the weakest vampire is immeasurably stronger than most other undead. <mark>Note<\/mark>: Ash vampires are not vampires, and are not undead...",
             "fid" : "content" } ] },
       
@@ -64,6 +64,6 @@
         [ 
           { "form" : "Note",
             "weight" : "1",
-            "pos" : 164,
+            "pos" : 159,
             "context" : "Council Affairs of <mark>Note<\/mark>",
             "fid" : "content" } ] } ] }

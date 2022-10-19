@@ -9,13 +9,13 @@
         [ 
           { "form" : "Ships",
             "weight" : "1",
-            "pos" : 606,
+            "pos" : 601,
             "context" : "...Suran, Seyda Neen, Balmora, and Molag Mar. <mark>Ships<\/mark> from the docks at the Foreign Quarter travel to Ebonheart,...",
             "fid" : "content" },
           
           { "form" : "Ships",
             "weight" : "1",
-            "pos" : 618,
+            "pos" : 613,
             "context" : "..., Hla Oad, Molag Mar, and Tel Branora. <mark>Ships<\/mark> from nearby Ebonheart sail to Hla Oad, Sadrith Mora,...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "ship",
             "weight" : "1",
-            "pos" : 319,
+            "pos" : 314,
             "context" : "...at the Mages Guild. Gals Arethi at the docks offers <mark>ship<\/mark> passage to Ebonheart, Tel Branora, Tel Mora, or...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "ship",
             "weight" : "1",
-            "pos" : 1240,
+            "pos" : 1235,
             "context" : "...Redaynia and Dagon Fel. Only Dagon Fel is reached by <mark>ship<\/mark> services; all other island-to-island transport must be provided...",
             "fid" : "content" } ] } ] }

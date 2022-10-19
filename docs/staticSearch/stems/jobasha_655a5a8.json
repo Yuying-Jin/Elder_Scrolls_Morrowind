@@ -9,19 +9,9 @@
         [ 
           { "form" : "Jobasha's",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "<mark>Jobasha's<\/mark> Rare Books: Visitable? ",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Jobasha's",
-            "weight" : "1",
-            "pos" : 2352,
-            "context" : "<mark>Jobasha's<\/mark> Rare Books" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "jobasha's",
             "weight" : "1",
-            "pos" : 2518,
+            "pos" : 2513,
             "context" : "<mark>jobasha's<\/mark> rare books",
             "fid" : "loc",
             "in" : 

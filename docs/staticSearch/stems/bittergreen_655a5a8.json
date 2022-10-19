@@ -2,21 +2,6 @@
   { "stem" : "bittergreen",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "bittergreen",
-            "weight" : "1",
-            "pos" : 42,
-            "context" : "<mark>bittergreen<\/mark>" },
-          
-          { "form" : "bittergreen",
-            "weight" : "1",
-            "pos" : 49,
-            "context" : "<mark>bittergreen<\/mark>_petals" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "bittergreen",
             "weight" : "1",
-            "pos" : 224,
+            "pos" : 219,
             "context" : "<mark>bittergreen<\/mark>",
             "fid" : "items",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "bittergreen",
             "weight" : "1",
-            "pos" : 231,
+            "pos" : 226,
             "context" : "<mark>bittergreen<\/mark> petals",
             "fid" : "items",
             "in" : 
@@ -45,13 +30,13 @@
         [ 
           { "form" : "bittergreen",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : " 1 handful of chopped <mark>bittergreen<\/mark>",
             "fid" : "content" },
           
           { "form" : "bittergreen",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "...Scuttle in a large bowl. Slowly stir in crabmeat and <mark>bittergreen<\/mark>. Bake covered in a hot over for one half hour...",
             "fid" : "content" } ] },
       
@@ -62,13 +47,13 @@
         [ 
           { "form" : "bittergreen",
             "weight" : "1",
-            "pos" : 474,
+            "pos" : 469,
             "context" : "...of potions, can be made only from crushed diamonds and <mark>bittergreen<\/mark> petals. Bittergreen is a red flowering plant growing in the...",
             "fid" : "content" },
           
           { "form" : "Bittergreen",
             "weight" : "1",
-            "pos" : 476,
+            "pos" : 471,
             "context" : "...can be made only from crushed diamonds and bittergreen petals. <mark>Bittergreen<\/mark> is a red flowering plant growing in the Red Mountain region...",
             "fid" : "content" } ] },
       
@@ -79,6 +64,6 @@
         [ 
           { "form" : "Bittergreen",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "...of Traitors 1 Part Daedra's Heart of Daedra 1 Part mixed <mark>Bittergreen<\/mark> Petals, Void Salts, Green Lichens and Bonemeal 1 Part...",
             "fid" : "content" } ] } ] }

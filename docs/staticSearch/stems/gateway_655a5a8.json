@@ -9,65 +9,45 @@
         [ 
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "...only to Telvanni retainers; outsiders should confine themselves to the <mark>Gateway<\/mark> Inn, and to Wolverine Hall, the Imperial quarters of...",
             "fid" : "content" },
           
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "..., and a trail leads up from the docks to the <mark>Gateway<\/mark> Inn. Beyond the Gateway Inn is the Great Market,...",
             "fid" : "content" },
           
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "...up from the docks to the Gateway Inn. Beyond the <mark>Gateway<\/mark> Inn is the Great Market, with numerous craftsmen and traders...",
             "fid" : "content" },
           
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "...in the Great Market district and in Tel Naga. The <mark>Gateway<\/mark> merchant inn is the only establishment with public beds. Members...",
             "fid" : "content" },
           
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 166,
+            "pos" : 161,
             "context" : "...at Wolverine Hall. Telvanni kin and retainers stay at the <mark>Gateway<\/mark>, at Wolverine Hall, at a local cornerclub, or...",
             "fid" : "content" },
           
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 210,
+            "pos" : 205,
             "context" : "...you'll want to know Angaredhel, Prefect of Hospitality at the <mark>Gateway<\/mark> merchant inn, and Ery, Gateway's publican. At Wolverine...",
             "fid" : "content" },
           
           { "form" : "Gateway's",
             "weight" : "1",
-            "pos" : 214,
+            "pos" : 209,
             "context" : "...of Hospitality at the Gateway merchant inn, and Ery, <mark>Gateway's<\/mark> publican. At Wolverine Hall, Hrundi the Nord is the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Gateway",
-            "weight" : "1",
-            "pos" : 1846,
-            "context" : "<mark>Gateway<\/mark> Inn" },
-          
-          { "form" : "Gateway",
-            "weight" : "1",
-            "pos" : 3273,
-            "context" : "Sadrith_Mora,_<mark>Gateway<\/mark>_Inn" },
-          
-          { "form" : "Gateway",
-            "weight" : "1",
-            "pos" : 3282,
-            "context" : "Sadrith_Mora,_<mark>Gateway<\/mark>_Inn,_West_Wing" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -76,7 +56,7 @@
         [ 
           { "form" : "gateway",
             "weight" : "1",
-            "pos" : 2025,
+            "pos" : 2020,
             "context" : "<mark>gateway<\/mark> inn",
             "fid" : "loc",
             "in" : 
@@ -84,7 +64,7 @@
           
           { "form" : "gateway",
             "weight" : "1",
-            "pos" : 3400,
+            "pos" : 3395,
             "context" : "sadrith mora, <mark>gateway<\/mark> inn",
             "fid" : "loc",
             "in" : 
@@ -92,7 +72,7 @@
           
           { "form" : "gateway",
             "weight" : "1",
-            "pos" : 3409,
+            "pos" : 3404,
             "context" : "sadrith mora, <mark>gateway<\/mark> inn, west wing",
             "fid" : "loc",
             "in" : 
@@ -105,13 +85,13 @@
         [ 
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 402,
+            "pos" : 397,
             "context" : "...was back down the tower and we were running for the <mark>Gateway<\/mark> Inn. Now, with all humility, I would say that...",
             "fid" : "content" },
           
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 455,
+            "pos" : 450,
             "context" : "..., I lured the guards around to the back of the <mark>Gateway<\/mark> Inn, far from the others, and when I was...",
             "fid" : "content" } ] },
       
@@ -122,7 +102,7 @@
         [ 
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 529,
+            "pos" : 524,
             "context" : "...only to Telvanni retainers; outsiders must confine themselves to the <mark>Gateway<\/mark> Inn.",
             "fid" : "content" } ] },
       
@@ -133,7 +113,7 @@
         [ 
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 31,
             "context" : "Sadrith Mora, <mark>Gateway<\/mark> Inn: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -144,6 +124,6 @@
         [ 
           { "form" : "Gateway",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Sadrith Mora, <mark>Gateway<\/mark> Inn, West Wing: Visitable? yes",
             "fid" : "acq" } ] } ] }

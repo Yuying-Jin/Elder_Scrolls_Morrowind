@@ -9,19 +9,9 @@
         [ 
           { "form" : "Mavon",
             "weight" : "1",
-            "pos" : 354,
+            "pos" : 349,
             "context" : "...Telvanni Compound is the eastmost canton. The mage-lord <mark>Mavon<\/mark> Drenim is the ranking Telvanni noble. The Telvanni rent the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Mavon",
-            "weight" : "1",
-            "pos" : 6530,
-            "context" : "<mark>Mavon<\/mark> Drenim" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "mavon",
             "weight" : "1",
-            "pos" : 6639,
+            "pos" : 6634,
             "context" : "<mark>mavon<\/mark> drenim",
             "fid" : "persons",
             "in" : 

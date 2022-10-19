@@ -9,36 +9,21 @@
         [ 
           { "form" : "Darius",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "Fort <mark>Darius<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Darius",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...and also at full complement. The frontier installation, Fort <mark>Darius<\/mark> in Gnisis village, is currently the only under-strength garrison...",
             "fid" : "content" },
           
           { "form" : "Darius",
             "weight" : "1",
-            "pos" : 129,
+            "pos" : 124,
             "context" : "...Legion should apply to the commander of that garrison, General <mark>Darius<\/mark>.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Darius",
-            "weight" : "1",
-            "pos" : 1797,
-            "context" : "Fort <mark>Darius<\/mark>" },
-          
-          { "form" : "Darius",
-            "weight" : "1",
-            "pos" : 6456,
-            "context" : "General <mark>Darius<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "darius",
             "weight" : "1",
-            "pos" : 1968,
+            "pos" : 1963,
             "context" : "fort <mark>darius<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "darius",
             "weight" : "1",
-            "pos" : 6563,
+            "pos" : 6558,
             "context" : "general <mark>darius<\/mark>",
             "fid" : "persons",
             "in" : 

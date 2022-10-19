@@ -9,19 +9,19 @@
         [ 
           { "form" : "King",
             "weight" : "1",
-            "pos" : 284,
+            "pos" : 279,
             "context" : "...of their skin and the strength of their bones. If <mark>King<\/mark> Gortwog will listen to reason, we could offer the services...",
             "fid" : "KingGortwog" },
           
           { "form" : "kings",
             "weight" : "1",
-            "pos" : 323,
+            "pos" : 318,
             "context" : "...my native High Rock, traditions dating back to the witch <mark>kings<\/mark> and nomadic horsemen mandate cremation of the dead. This is...",
             "fid" : "content" },
           
           { "form" : "King",
             "weight" : "1",
-            "pos" : 354,
+            "pos" : 349,
             "context" : "...the lawless times that followed. There are even rumors that <mark>King<\/mark> Gothryd of Daggerfall may institute the Imperial practice of donating the...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "kings",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...represented in Temple literature and liturgy as one of the divine <mark>kings<\/mark> of Morrowind. He guards the sacred Velothi subcontinent of Vvardenfell...",
             "fid" : "content" },
           
           { "form" : "King",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 95,
             "context" : "This explicit presentation of Vivec the Guardian God-<mark>King<\/mark> and Warrior-Poet is the one most accessible and familiar...",
             "fid" : "content" },
           
           { "form" : "king",
             "weight" : "1",
-            "pos" : 281,
+            "pos" : 276,
             "context" : "...secrets. Rather, they conceive of Lord Vivec as benevolent <mark>king<\/mark>, guardian warrior, poet-artist. But, at the...",
             "fid" : "content" } ] },
       
@@ -55,7 +55,7 @@
         [ 
           { "form" : "King",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "'I am the Clockwork <mark>King<\/mark> of the Three in One. In you is an egg...",
             "fid" : "content" } ] },
       
@@ -66,19 +66,9 @@
         [ 
           { "form" : "kings",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...Reveal the primitive burial customs to be mere superstition. Befriend <mark>kings<\/mark> with honeyed words and bind them to your will. Look to...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "King",
-            "weight" : "1",
-            "pos" : 6608,
-            "context" : "<mark>King<\/mark> Gortwog" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -87,7 +77,7 @@
         [ 
           { "form" : "king",
             "weight" : "1",
-            "pos" : 6706,
+            "pos" : 6701,
             "context" : "<mark>king<\/mark> gortwog",
             "fid" : "persons",
             "in" : 
@@ -100,7 +90,7 @@
         [ 
           { "form" : "King",
             "weight" : "1",
-            "pos" : 203,
+            "pos" : 198,
             "context" : "<mark>King<\/mark> Hlaalu Athyn Llethan, High Councilor and Lord of Morrowind,...",
             "fid" : "content" } ] },
       
@@ -111,6 +101,6 @@
         [ 
           { "form" : "King",
             "weight" : "1",
-            "pos" : 165,
+            "pos" : 160,
             "context" : "<mark>King<\/mark> Hlaalu Athyn Llethan, High Councilor and Lord of Morrowind,...",
             "fid" : "content" } ] } ] }

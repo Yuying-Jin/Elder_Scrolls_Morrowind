@@ -2,21 +2,6 @@
   { "stem" : "erna",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Erna",
-            "weight" : "1",
-            "pos" : 1698,
-            "context" : "<mark>Erna<\/mark> the Quiet's House" },
-          
-          { "form" : "Erna",
-            "weight" : "1",
-            "pos" : 7050,
-            "context" : "<mark>Erna<\/mark> the Quiet" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "erna",
             "weight" : "1",
-            "pos" : 1869,
+            "pos" : 1864,
             "context" : "<mark>erna<\/mark> the quiet's house",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "erna",
             "weight" : "1",
-            "pos" : 7175,
+            "pos" : 7170,
             "context" : "<mark>erna<\/mark> the quiet",
             "fid" : "persons",
             "in" : 
@@ -45,6 +30,6 @@
         [ 
           { "form" : "Erna",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "<mark>Erna<\/mark> the Quiet's House: Visitable? yes",
             "fid" : "acq" } ] } ] }

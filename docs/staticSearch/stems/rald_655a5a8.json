@@ -2,16 +2,6 @@
   { "stem" : "rald",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ralds",
-            "weight" : "1",
-            "pos" : 3637,
-            "context" : "Suran,_<mark>Ralds<\/mark>_Oril:_Trader" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "ralds",
             "weight" : "1",
-            "pos" : 3789,
+            "pos" : 3784,
             "context" : "suran, <mark>ralds<\/mark> oril: trader",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Ralds",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "Suran, <mark>Ralds<\/mark> Oril: Trader: Visitable? yes",
             "fid" : "acq" } ] } ] }

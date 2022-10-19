@@ -2,16 +2,6 @@
   { "stem" : "punammu",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Punammu",
-            "weight" : "1",
-            "pos" : 2973,
-            "context" : "<mark>Punammu<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "punammu",
             "weight" : "1",
-            "pos" : 3148,
+            "pos" : 3143,
             "context" : "<mark>punammu<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Punammu",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Punammu<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

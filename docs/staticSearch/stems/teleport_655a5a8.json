@@ -9,13 +9,13 @@
         [ 
           { "form" : "teleportation",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "...is an island settlement, and accessible only by sea and <mark>teleportation<\/mark>. The town is large, with many craftsmen, traders...",
             "fid" : "content" },
           
           { "form" : "teleport",
             "weight" : "1",
-            "pos" : 333,
+            "pos" : 328,
             "context" : "...Dagon Fel. Iniel at the Wolverine Hall Mages Guild can <mark>teleport<\/mark> you to Ald'ruhn, Vivec City, Caldera, and Balmora...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "teleport",
             "weight" : "1",
-            "pos" : 357,
+            "pos" : 352,
             "context" : "..., or Maar Gan.. Guild guides at the Mages Guild <mark>teleport<\/mark> you to Balmora, Vivec City, Caldera, and Sadrith...",
             "fid" : "content" } ] },
       
@@ -37,7 +37,7 @@
         [ 
           { "form" : "teleportation",
             "weight" : "1",
-            "pos" : 518,
+            "pos" : 513,
             "context" : "...is an island settlement, and accessible only by sea and <mark>teleportation<\/mark>. The town is large, with many services, but...",
             "fid" : "content" } ] },
       
@@ -48,6 +48,6 @@
         [ 
           { "form" : "teleportation",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "...take flight. Since the Weir Gate has been taken, <mark>teleportation<\/mark> is not possible. Only Papré can make such a journey...",
             "fid" : "content" } ] } ] }

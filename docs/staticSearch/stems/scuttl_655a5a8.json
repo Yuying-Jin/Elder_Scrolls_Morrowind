@@ -9,37 +9,37 @@
         [ 
           { "form" : "Scuttle",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Crab Meat and <mark>Scuttle<\/mark>",
             "fid" : "scuttle" },
           
           { "form" : "Scuttle",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "2 handfuls of <mark>Scuttle<\/mark>",
             "fid" : "content" },
           
           { "form" : "Scuttle",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "Beat eggs, wickwheat, and <mark>Scuttle<\/mark> in a large bowl. Slowly stir in crabmeat and bittergreen...",
             "fid" : "content" },
           
           { "form" : "Scuttle",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : " 1 handful of <mark>Scuttle<\/mark>",
             "fid" : "content" },
           
           { "form" : "Scuttle",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "...the saltrice. Stir for a few moments and add the <mark>Scuttle<\/mark> and Kwama egg. When the Kwama egg is fully cooked...",
             "fid" : "content" },
           
           { "form" : "Scuttle",
             "weight" : "1",
-            "pos" : 95,
+            "pos" : 90,
             "context" : "...egg. When the Kwama egg is fully cooked and the <mark>Scuttle<\/mark> has melted, pour from the pan into the pie crust...",
             "fid" : "content" } ] },
       
@@ -50,13 +50,13 @@
         [ 
           { "form" : "scuttled",
             "weight" : "1",
-            "pos" : 234,
+            "pos" : 229,
             "context" : "...hounds ranging about, and in a desperate panic all the Guar <mark>scuttled<\/mark> off towards the sea, determined to drown themselves rather than...",
             "fid" : "content" },
           
           { "form" : "scuttled",
             "weight" : "1",
-            "pos" : 253,
+            "pos" : 248,
             "context" : "...frightened in their turn by the approach of the Guar, <mark>scuttled<\/mark> off, and threw themselves into the water. 'Truly,' said...",
             "fid" : "content" } ] },
       
@@ -67,25 +67,15 @@
         [ 
           { "form" : "scuttle",
             "weight" : "1",
-            "pos" : 255,
+            "pos" : 250,
             "context" : "...the weary traveler's burdens and can be gained from heather and <mark>scuttle<\/mark>. Heather is a low evergreen shrub of the Ascadian Isles...",
             "fid" : "content" },
           
           { "form" : "Scuttle",
             "weight" : "1",
-            "pos" : 268,
+            "pos" : 263,
             "context" : "..., known for its small, pinkish-purple flowers. <mark>Scuttle<\/mark>, Vvardenfell's favorite local dish, is similar to cheese and...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "scuttle",
-            "weight" : "1",
-            "pos" : 462,
-            "context" : "<mark>scuttle<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -94,7 +84,7 @@
         [ 
           { "form" : "scuttle",
             "weight" : "1",
-            "pos" : 632,
+            "pos" : 627,
             "context" : "<mark>scuttle<\/mark>",
             "fid" : "items",
             "in" : 

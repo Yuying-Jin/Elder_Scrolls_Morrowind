@@ -9,19 +9,9 @@
         [ 
           { "form" : "Imsin",
             "weight" : "1",
-            "pos" : 273,
+            "pos" : 268,
             "context" : "...scholar. Raesa Pullia is commandant of Buckmoth Fort, but <mark>Imsin<\/mark> the Dreamer is the chapter steward. The Redguard Hean is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Imsin",
-            "weight" : "1",
-            "pos" : 6515,
-            "context" : "<mark>Imsin<\/mark> the Dreamer" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "imsin",
             "weight" : "1",
-            "pos" : 6624,
+            "pos" : 6619,
             "context" : "<mark>imsin<\/mark> the dreamer",
             "fid" : "persons",
             "in" : 

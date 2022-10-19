@@ -2,16 +2,6 @@
   { "stem" : "llirala",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Llirala's",
-            "weight" : "1",
-            "pos" : 2439,
-            "context" : "<mark>Llirala's<\/mark> Shack" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "llirala's",
             "weight" : "1",
-            "pos" : 2610,
+            "pos" : 2605,
             "context" : "<mark>llirala's<\/mark> shack",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Llirala's",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Llirala's<\/mark> Shack: Visitable? yes",
             "fid" : "acq" } ] } ] }

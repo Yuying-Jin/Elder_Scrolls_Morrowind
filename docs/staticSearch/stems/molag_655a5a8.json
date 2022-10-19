@@ -9,97 +9,57 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 141,
+            "pos" : 136,
             "context" : "..., Azura's Coast, the Bitter Coast, the Grazelands, <mark>Molag<\/mark> Amur, Red Mountain, the West Gash, and Sheogorad...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 322,
+            "pos" : 317,
             "context" : "...pilgrimage sites are nearby -- the Fields of Kummu and the <mark>Molag<\/mark> Bal's Shrine.",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 459,
+            "pos" : 454,
             "context" : "...infertile, and largely uninhabited, except for the outpost at <mark>Molag<\/mark> Mar, the Telvanni settlements at Sadrith Mora, the wizard...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 867,
+            "pos" : 862,
             "context" : " <mark>Molag<\/mark> Amur",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 873,
+            "pos" : 868,
             "context" : " Located inland in the southeast of Vvardenfell, <mark>Molag<\/mark> Amur is an uninhabited wasteland of rocky hills, steep-...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 908,
+            "pos" : 903,
             "context" : "...few others venture into this region. The worst part of <mark>Molag<\/mark> Amur, called the Great Scathes, is considered impassible even...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 918,
+            "pos" : 913,
             "context" : " The outpost at <mark>Molag<\/mark> Mar is a fortified stronghold on the southeastern edge of the...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 925,
+            "pos" : 920,
             "context" : "...is a fortified stronghold on the southeastern edge of the desolate <mark>Molag<\/mark> Amur region. Pilgrims bound for the nearby pilgrimage sites at...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 961,
+            "pos" : 956,
             "context" : "..., an isolated hut settlement in the middle of the desolate <mark>Molag<\/mark> Amur region.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 7,
-        "contexts" : 
-        [ 
-          { "form" : "Molag",
-            "weight" : "1",
-            "pos" : 2592,
-            "context" : "<mark>Molag<\/mark>" },
-          
-          { "form" : "Molag",
-            "weight" : "1",
-            "pos" : 2598,
-            "context" : "<mark>Molag<\/mark> Amur" },
-          
-          { "form" : "Molag",
-            "weight" : "1",
-            "pos" : 2605,
-            "context" : "<mark>Molag<\/mark> Bal's Shrine" },
-          
-          { "form" : "Molag",
-            "weight" : "1",
-            "pos" : 2613,
-            "context" : "<mark>Molag<\/mark> Mar" },
-          
-          { "form" : "Molag",
-            "weight" : "1",
-            "pos" : 2627,
-            "context" : "<mark>Molag<\/mark>_Amur" },
-          
-          { "form" : "Molag",
-            "weight" : "1",
-            "pos" : 2634,
-            "context" : "<mark>Molag<\/mark>_Mar" },
-          
-          { "form" : "Molag",
-            "weight" : "1",
-            "pos" : 6363,
-            "context" : "<mark>Molag<\/mark> Bal" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -108,7 +68,7 @@
         [ 
           { "form" : "molag",
             "weight" : "1",
-            "pos" : 2761,
+            "pos" : 2756,
             "context" : "<mark>molag<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -116,7 +76,7 @@
           
           { "form" : "molag",
             "weight" : "1",
-            "pos" : 2767,
+            "pos" : 2762,
             "context" : "<mark>molag<\/mark> amur",
             "fid" : "loc",
             "in" : 
@@ -124,7 +84,7 @@
           
           { "form" : "molag",
             "weight" : "1",
-            "pos" : 2779,
+            "pos" : 2774,
             "context" : "<mark>molag<\/mark> bal's shrine",
             "fid" : "loc",
             "in" : 
@@ -132,7 +92,7 @@
           
           { "form" : "molag",
             "weight" : "1",
-            "pos" : 2787,
+            "pos" : 2782,
             "context" : "<mark>molag<\/mark> mar",
             "fid" : "loc",
             "in" : 
@@ -140,7 +100,7 @@
           
           { "form" : "molag",
             "weight" : "1",
-            "pos" : 6443,
+            "pos" : 6438,
             "context" : "<mark>molag<\/mark> bal",
             "fid" : "persons",
             "in" : 
@@ -153,25 +113,25 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 578,
+            "pos" : 573,
             "context" : "...north towards Suran and the Ascadian Isles, and east towards <mark>Molag<\/mark> Mar. Roads from the Telvanni Compound bridge are useful mostly...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 587,
+            "pos" : 582,
             "context" : "...from the Telvanni Compound bridge are useful mostly for travelers to <mark>Molag<\/mark> Mar. Silt strider service is available at the north end...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 604,
+            "pos" : 599,
             "context" : "...from Vivec to Suran, Seyda Neen, Balmora, and <mark>Molag<\/mark> Mar. Ships from the docks at the Foreign Quarter travel...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 614,
+            "pos" : 609,
             "context" : "...at the Foreign Quarter travel to Ebonheart, Hla Oad, <mark>Molag<\/mark> Mar, and Tel Branora. Ships from nearby Ebonheart sail...",
             "fid" : "content" } ] },
       
@@ -182,19 +142,19 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...chance, I made petition to the Lord of Troubles, <mark>Molag<\/mark> Bal, at an altar deep in the caverns beneath the...",
             "fid" : "MolagBal" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 95,
+            "pos" : 90,
             "context" : "...I was surprised, and thrilled, and terrified, when <mark>Molag<\/mark> Bal, or some aspect or agent of that Daedra Lord...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 131,
+            "pos" : 126,
             "context" : "...on the northern slopes of Dagoth Ur, delivering it to <mark>Molag<\/mark> Bal's shrine in Bal Ur.]",
             "fid" : "content" } ] },
       
@@ -205,13 +165,13 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 335,
+            "pos" : 330,
             "context" : "...one ancient tradition holds that, among his many other crimes, <mark>Molag<\/mark> Bal, the Father of Monsters, spawned the first vampire...",
             "fid" : "content" },
           
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 430,
+            "pos" : 425,
             "context" : "...Bal Ur, a pilgrimage site known as the \"birthplace of <mark>Molag<\/mark> Bal.\"",
             "fid" : "content" } ] },
       
@@ -222,7 +182,7 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "<mark>Molag<\/mark> Mar: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -233,7 +193,7 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "...Council, Vvardenfell District, Tower of Tel Aruhn, East <mark>Molag<\/mark> Amur, District of Vvardenfell, Province of Morrowind Master Aryon...",
             "fid" : "content" } ] },
       
@@ -244,7 +204,7 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "...speak to priests at the temples in Ald'ruhn, Balmora, <mark>Molag<\/mark> Mar, and Ghostgate, or with priests at the High...",
             "fid" : "content" } ] },
       
@@ -255,7 +215,7 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 299,
+            "pos" : 294,
             "context" : "...tasting root of the trama shrub grows in the Ashlands, <mark>Molag<\/mark> Amur, and Red Mountain regions. racer plumes are plucked...",
             "fid" : "content" } ] },
       
@@ -266,7 +226,7 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "<mark>Molag<\/mark> Mar: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -277,6 +237,6 @@
         [ 
           { "form" : "Molag",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "<mark>Molag<\/mark> Mar: Visitable? yes",
             "fid" : "acq" } ] } ] }

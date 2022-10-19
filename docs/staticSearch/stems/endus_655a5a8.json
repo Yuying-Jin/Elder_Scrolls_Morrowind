@@ -2,16 +2,6 @@
   { "stem" : "endus",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Endusal",
-            "weight" : "1",
-            "pos" : 1680,
-            "context" : "<mark>Endusal<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "endusal",
             "weight" : "1",
-            "pos" : 1851,
+            "pos" : 1846,
             "context" : "<mark>endusal<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,7 +22,7 @@
         [ 
           { "form" : "Endusal",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Endusal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -43,6 +33,6 @@
         [ 
           { "form" : "Endusal",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "<mark>Endusal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

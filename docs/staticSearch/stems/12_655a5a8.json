@@ -2,21 +2,6 @@
   { "stem" : "12",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "12",
-            "weight" : "1",
-            "pos" : 698,
-            "context" : "Guide to Ald'ruhn, count: <mark>12<\/mark>" },
-          
-          { "form" : "12",
-            "weight" : "1",
-            "pos" : 4883,
-            "context" : "Guide to Vvardenfell, count: <mark>12<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "12",
             "weight" : "1",
-            "pos" : 882,
+            "pos" : 877,
             "context" : "Guide to Ald'ruhn, count: <mark>12<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "12",
             "weight" : "1",
-            "pos" : 5006,
+            "pos" : 5001,
             "context" : "Guide to Vvardenfell, count: <mark>12<\/mark>",
             "fid" : "group",
             "in" : 

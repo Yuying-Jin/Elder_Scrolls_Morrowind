@@ -2,16 +2,6 @@
   { "stem" : "ginko",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "ginko",
-            "weight" : "1",
-            "pos" : 233,
-            "context" : "<mark>ginko<\/mark> leaves" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "ginko",
             "weight" : "1",
-            "pos" : 414,
+            "pos" : 409,
             "context" : "<mark>ginko<\/mark> leaves",
             "fid" : "items",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Ginko",
             "weight" : "1",
-            "pos" : 249,
+            "pos" : 244,
             "context" : "The <mark>Ginko<\/mark> leaves which are found along the banks of rivers and lakes...",
             "fid" : "content" } ] } ] }

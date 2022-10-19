@@ -9,25 +9,25 @@
         [ 
           { "form" : "dominant",
             "weight" : "1",
-            "pos" : 242,
+            "pos" : 237,
             "context" : "...Imperial administration, House Hlaalu has emerged as politically and economically <mark>dominant<\/mark> among the Great Houses of Vvardenfell and Morrowind. Hlaalu welcomes...",
             "fid" : "content" },
           
           { "form" : "dominated",
             "weight" : "1",
-            "pos" : 344,
+            "pos" : 339,
             "context" : "..., with walled precincts enclosing outbuildings for craftsmen and servants, <mark>dominated<\/mark> by a grand manor residence in place of a Temple shrine...",
             "fid" : "content" },
           
           { "form" : "dominate",
             "weight" : "1",
-            "pos" : 397,
+            "pos" : 392,
             "context" : "...and the Telvanni are unwilling to allow the ambitious Hlaalu to <mark>dominate<\/mark> Vvardenfell's untapped resources by default. Telvanni architecture is dominated by...",
             "fid" : "content" },
           
           { "form" : "dominated",
             "weight" : "1",
-            "pos" : 404,
+            "pos" : 399,
             "context" : "...to dominate Vvardenfell's untapped resources by default. Telvanni architecture is <mark>dominated<\/mark> by the wizards' tower, a fantastic organic form grown and...",
             "fid" : "content" } ] },
       
@@ -38,13 +38,13 @@
         [ 
           { "form" : "dominated",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "...encompasses Vvardefell [sic] Island, a great land mass <mark>dominated<\/mark> by the giant volcano Red Mountain and cut off from mainland...",
             "fid" : "content" },
           
           { "form" : "dominant",
             "weight" : "1",
-            "pos" : 966,
+            "pos" : 961,
             "context" : " The <mark>dominant<\/mark> feature of Vvardenfell, Red Mountain, is a vast volcano...",
             "fid" : "content" } ] },
       
@@ -55,6 +55,6 @@
         [ 
           { "form" : "dominant",
             "weight" : "1",
-            "pos" : 190,
+            "pos" : 185,
             "context" : "...hero-cults provide a strong counter-current to the <mark>dominant<\/mark> secularism of the Empire. The Imperial Cult of Tiber Septim...",
             "fid" : "content" } ] } ] }

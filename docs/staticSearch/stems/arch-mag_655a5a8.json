@@ -9,16 +9,6 @@
         [ 
           { "form" : "Arch-Mage",
             "weight" : "1",
-            "pos" : 577,
+            "pos" : 572,
             "context" : " Tel Aruhn is the Telvanni tower of <mark>Arch-Mage<\/mark> Gothren, Telvanni Sorcerer-Lord and head of the Telvanni...",
-            "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Arch-Mage",
-            "weight" : "1",
-            "pos" : 6615,
-            "context" : "<mark>Arch-Mage<\/mark> Gothren" } ] } ] }
+            "fid" : "content" } ] } ] }

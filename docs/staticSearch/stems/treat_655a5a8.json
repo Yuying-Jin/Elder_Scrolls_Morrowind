@@ -9,13 +9,13 @@
         [ 
           { "form" : "treated",
             "weight" : "1",
-            "pos" : 308,
+            "pos" : 303,
             "context" : "...to be destroyed. Since the disease is infallibly cured if <mark>treated<\/mark> within three days, failure to treat oneself after an encounter...",
             "fid" : "content" },
           
           { "form" : "treat",
             "weight" : "1",
-            "pos" : 313,
+            "pos" : 308,
             "context" : "...is infallibly cured if treated within three days, failure to <mark>treat<\/mark> oneself after an encounter with a vampire would be considered a...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "treated",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : ".... Similarly, Nords, Bretons, and Cyrodiils are sometimes <mark>treated<\/mark> coolly by merchants in the Summurset Isles. Of course,...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "treated",
             "weight" : "1",
-            "pos" : 739,
+            "pos" : 734,
             "context" : "...Rilms in Gnisis. They were good people, and he <mark>treated<\/mark> them well, but from past experience he knew that servants...",
             "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "pick",
             "weight" : "1",
-            "pos" : 178,
+            "pos" : 173,
             "context" : "...adventurers. It is said, however, that Argonians can <mark>pick<\/mark> the plant and use the sap derived from its roots as...",
             "fid" : "content" },
           
           { "form" : "Picking",
             "weight" : "1",
-            "pos" : 289,
+            "pos" : 284,
             "context" : "...fronds from this plant are light green and quite delicate. <mark>Picking<\/mark> a frond can be very difficult, but once retrieved it...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "picking",
             "weight" : "1",
-            "pos" : 392,
+            "pos" : 387,
             "context" : "Harithoel, overjoyed at rescue at long last, began <mark>picking<\/mark> up the crates and stacking them. \"I wish you had told...",
             "fid" : "content" } ] } ] }

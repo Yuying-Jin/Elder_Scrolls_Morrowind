@@ -2,26 +2,6 @@
   { "stem" : "nord",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Nord",
-            "weight" : "1",
-            "pos" : 5573,
-            "context" : "<mark>Nord<\/mark>" },
-          
-          { "form" : "Nord's",
-            "weight" : "1",
-            "pos" : 5584,
-            "context" : "<mark>Nord's<\/mark>" },
-          
-          { "form" : "Nords",
-            "weight" : "1",
-            "pos" : 5597,
-            "context" : "<mark>Nords<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "nord",
             "weight" : "1",
-            "pos" : 5821,
+            "pos" : 5816,
             "context" : "<mark>nord<\/mark>",
             "fid" : "group",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "nord's",
             "weight" : "1",
-            "pos" : 5832,
+            "pos" : 5827,
             "context" : "<mark>nord's<\/mark>",
             "fid" : "group",
             "in" : 
@@ -45,7 +25,7 @@
           
           { "form" : "nords",
             "weight" : "1",
-            "pos" : 5845,
+            "pos" : 5840,
             "context" : "<mark>nords<\/mark>",
             "fid" : "group",
             "in" : 
@@ -58,7 +38,7 @@
         [ 
           { "form" : "Nords",
             "weight" : "1",
-            "pos" : 216,
+            "pos" : 211,
             "context" : "...shop, assuming you're going to steal something. Similarly, <mark>Nords<\/mark>, Bretons, and Cyrodiils are sometimes treated coolly by merchants...",
             "fid" : "content" } ] },
       
@@ -69,7 +49,7 @@
         [ 
           { "form" : "Nords",
             "weight" : "1",
-            "pos" : 386,
+            "pos" : 381,
             "context" : "...freely. Alas, the availability of corpses is limited to <mark>Nords<\/mark> who die from exposure or in battle. While the cold...",
             "fid" : "content" } ] },
       
@@ -80,7 +60,7 @@
         [ 
           { "form" : "Nords",
             "weight" : "1",
-            "pos" : 148,
+            "pos" : 143,
             "context" : "...walked the earth, defeated the Dunmer's greatest enemies, the <mark>Nords<\/mark> and the Dwarves, and achieved divine substance through superhuman discipline...",
             "fid" : "Nords" } ] },
       
@@ -91,7 +71,7 @@
         [ 
           { "form" : "Nord",
             "weight" : "1",
-            "pos" : 219,
+            "pos" : 214,
             "context" : "...Ery, Gateway's publican. At Wolverine Hall, Hrundi the <mark>Nord<\/mark> is the Fighters Guild steward, Procyon Nigiliusis [sic]...",
             "fid" : "content" } ] },
       
@@ -102,7 +82,7 @@
         [ 
           { "form" : "Nord",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "...other Houses on the other. Dwemer and Dagoth invited Orc and <mark>Nord<\/mark> clans as allies, and held northwest Morrowind, while Nerevar...",
             "fid" : "content" } ] },
       
@@ -113,6 +93,6 @@
         [ 
           { "form" : "Nord",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 76,
             "context" : "...a sigh. \"My dear friends, we aren't mugging some <mark>Nord<\/mark> tourist fresh off the ferry. The Cobblers Guildhall may not...",
             "fid" : "Nord" } ] } ] }

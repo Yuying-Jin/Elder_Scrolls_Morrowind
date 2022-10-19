@@ -9,19 +9,9 @@
         [ 
           { "form" : "Scamp",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "...Ebony flask. For a hot drink, strain contents through <mark>Scamp<\/mark> Skin and mix with Flin in large mug, slowly stirring...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "scamp",
-            "weight" : "1",
-            "pos" : 455,
-            "context" : "<mark>scamp<\/mark> skin" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "scamp",
             "weight" : "1",
-            "pos" : 625,
+            "pos" : 620,
             "context" : "<mark>scamp<\/mark> skin",
             "fid" : "items",
             "in" : 

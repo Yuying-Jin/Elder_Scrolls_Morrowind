@@ -2,61 +2,6 @@
   { "stem" : "uvirith",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 10,
-        "contexts" : 
-        [ 
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3819,
-            "context" : "Tel <mark>Uvirith<\/mark>" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3837,
-            "context" : "Tel <mark>Uvirith<\/mark>, Omavel's House" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3846,
-            "context" : "Tel <mark>Uvirith<\/mark>, Seleth's House" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3860,
-            "context" : "Tel <mark>Uvirith<\/mark>, Tel Uvirith Tower Upper" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3862,
-            "context" : "Tel Uvirith, Tel <mark>Uvirith<\/mark> Tower Upper" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3871,
-            "context" : "Tel <mark>Uvirith<\/mark>, Tower Lower" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3964,
-            "context" : "Tel_<mark>Uvirith<\/mark>,_Omavel's_House" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3974,
-            "context" : "Tel_<mark>Uvirith<\/mark>,_Seleth's_House" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3984,
-            "context" : "Tel_<mark>Uvirith<\/mark>,_Tower_Lower" },
-          
-          { "form" : "Uvirith",
-            "weight" : "1",
-            "pos" : 3993,
-            "context" : "Tel_<mark>Uvirith<\/mark>,_Tower_Upper" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 7,
@@ -64,7 +9,7 @@
         [ 
           { "form" : "uvirith",
             "weight" : "1",
-            "pos" : 4020,
+            "pos" : 4015,
             "context" : "tel <mark>uvirith<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -72,7 +17,7 @@
           
           { "form" : "uvirith",
             "weight" : "1",
-            "pos" : 4038,
+            "pos" : 4033,
             "context" : "tel <mark>uvirith<\/mark>, omavel's house",
             "fid" : "loc",
             "in" : 
@@ -80,7 +25,7 @@
           
           { "form" : "uvirith",
             "weight" : "1",
-            "pos" : 4053,
+            "pos" : 4048,
             "context" : "tel <mark>uvirith<\/mark>, seleth's house",
             "fid" : "loc",
             "in" : 
@@ -88,7 +33,7 @@
           
           { "form" : "uvirith",
             "weight" : "1",
-            "pos" : 4073,
+            "pos" : 4068,
             "context" : "tel <mark>uvirith<\/mark>, tel uvirith tower upper",
             "fid" : "loc",
             "in" : 
@@ -96,7 +41,7 @@
           
           { "form" : "uvirith",
             "weight" : "1",
-            "pos" : 4075,
+            "pos" : 4070,
             "context" : "tel uvirith, tel <mark>uvirith<\/mark> tower upper",
             "fid" : "loc",
             "in" : 
@@ -104,7 +49,7 @@
           
           { "form" : "uvirith",
             "weight" : "1",
-            "pos" : 4084,
+            "pos" : 4079,
             "context" : "tel <mark>uvirith<\/mark>, tower lower",
             "fid" : "loc",
             "in" : 
@@ -112,7 +57,7 @@
           
           { "form" : "uvirith",
             "weight" : "1",
-            "pos" : 4098,
+            "pos" : 4093,
             "context" : "tel <mark>uvirith<\/mark>, tower upper",
             "fid" : "loc",
             "in" : 
@@ -125,19 +70,19 @@
         [ 
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "Tel <mark>Uvirith<\/mark>, Omavel's House: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 76,
             "context" : "Tel <mark>Uvirith<\/mark>, Seleth's House: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "Tel <mark>Uvirith<\/mark>, Tower Lower: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -148,13 +93,13 @@
         [ 
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Tel <mark>Uvirith<\/mark>, Tel Uvirith Tower Upper: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Tel Uvirith, Tel <mark>Uvirith<\/mark> Tower Upper: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -165,13 +110,13 @@
         [ 
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Tel <mark>Uvirith<\/mark>, Tower Upper: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "Tel <mark>Uvirith<\/mark>, Seleth's House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -182,7 +127,7 @@
         [ 
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "Tel <mark>Uvirith<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -193,7 +138,7 @@
         [ 
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Tel <mark>Uvirith<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -204,7 +149,7 @@
         [ 
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Tel <mark>Uvirith<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -215,7 +160,7 @@
         [ 
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "Tel <mark>Uvirith<\/mark>, Tower Lower: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -226,6 +171,6 @@
         [ 
           { "form" : "Uvirith",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "Tel <mark>Uvirith<\/mark>, Omavel's House: Visitable? yes",
             "fid" : "acq" } ] } ] }

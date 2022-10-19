@@ -9,19 +9,9 @@
         [ 
           { "form" : "Hole",
             "weight" : "1",
-            "pos" : 188,
+            "pos" : 183,
             "context" : "...two cornerclubs: Dirty Muriel's, for outlanders, and Fara's <mark>Hole<\/mark> in the Wall for local Dunmer. Tel Naga is Master...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Hole",
-            "weight" : "1",
-            "pos" : 1734,
-            "context" : "Fara's <mark>Hole<\/mark> in the Wall" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "hole",
             "weight" : "1",
-            "pos" : 1905,
+            "pos" : 1900,
             "context" : "fara's <mark>hole<\/mark> in the wall",
             "fid" : "loc",
             "in" : 

@@ -9,12 +9,12 @@
         [ 
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "Galur <mark>Rithari<\/mark> Papers" },
           
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 1257,
+            "pos" : 1252,
             "context" : "Galur <mark>Rithari<\/mark> Papers, count: 2",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 1700,
+            "pos" : 1695,
             "context" : "Galur <mark>Rithari<\/mark> Papers, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 2011,
+            "pos" : 2006,
             "context" : "Galur <mark>Rithari<\/mark> Papers, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 2279,
+            "pos" : 2274,
             "context" : "Galur <mark>Rithari<\/mark> Papers, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 2537,
+            "pos" : 2532,
             "context" : "Galur <mark>Rithari<\/mark> Papers, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 5062,
+            "pos" : 5057,
             "context" : "Galur <mark>Rithari<\/mark> Papers, count: 1",
             "fid" : "group",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 6446,
+            "pos" : 6441,
             "context" : "Galur <mark>Rithari<\/mark> Papers, count: 3",
             "fid" : "persons",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "rithari",
             "weight" : "1",
-            "pos" : 7223,
+            "pos" : 7218,
             "context" : "galur <mark>rithari<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -83,13 +83,13 @@
         [ 
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 397,
+            "pos" : 392,
             "context" : "...is incurable, a Buoyant Armiger of former years named Galur <mark>Rithari<\/mark> insisted that he was cured of vampirism. Initially imprisoned by...",
             "fid" : "GalurRithari" },
           
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 419,
+            "pos" : 414,
             "context" : "...It is interesting that previous to his imprisonment for heresy, <mark>Rithari<\/mark> had been posted to the Buoyant Armiger garrison at Bal Ur...",
             "fid" : "content" } ] },
       
@@ -100,16 +100,6 @@
         [ 
           { "form" : "Rithari",
             "weight" : "1",
-            "pos" : 116,
+            "pos" : 111,
             "context" : "[<mark>Rithari<\/mark> sought and obtained a cursed soul gem of mysterious nature from...",
-            "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Rithari",
-            "weight" : "1",
-            "pos" : 7091,
-            "context" : "Galur <mark>Rithari<\/mark>" } ] } ] }
+            "fid" : "content" } ] } ] }

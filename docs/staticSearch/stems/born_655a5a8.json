@@ -9,7 +9,7 @@
         [ 
           { "form" : "born",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "He was <mark>born<\/mark> in the ash among the Velothi, anon Chimer, before...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "born",
             "weight" : "1",
-            "pos" : 198,
+            "pos" : 193,
             "context" : "...Summerset Isle is even worse in some ways. Some Altmer <mark>born<\/mark> into the most respected noble and scholarly families are actually allowed...",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "born",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "\"My lady,\" said Baranat. \"When I was <mark>born<\/mark>, I was blessed by Vivec, Almalexia, and Sotha...",
             "fid" : "content" } ] } ] }

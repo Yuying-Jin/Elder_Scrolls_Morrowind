@@ -9,19 +9,9 @@
         [ 
           { "form" : "Trinimac",
             "weight" : "1",
-            "pos" : 154,
+            "pos" : 149,
             "context" : "...and the prophecies of Veloth and even the forbidden teachings of <mark>Trinimac<\/mark>.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Trinimac",
-            "weight" : "1",
-            "pos" : 7389,
-            "context" : "<mark>Trinimac<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "trinimac",
             "weight" : "1",
-            "pos" : 7512,
+            "pos" : 7507,
             "context" : "<mark>trinimac<\/mark>",
             "fid" : "persons",
             "in" : 

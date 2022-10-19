@@ -9,25 +9,25 @@
         [ 
           { "form" : "contracts",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 47,
             "context" : "...of Fighters provides employment to free-swords and mercenaries and <mark>contracts<\/mark> to local citizens. Citizens may contract with the Guild for...",
             "fid" : "content" },
           
           { "form" : "contract",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "...swords and mercenaries and contracts to local citizens. Citizens may <mark>contract<\/mark> with the Guild for the removal of creatures and pests,...",
             "fid" : "content" },
           
           { "form" : "contract",
             "weight" : "1",
-            "pos" : 112,
+            "pos" : 107,
             "context" : " Citizens who <mark>contract<\/mark> with the Guild of Fighters and have a dispute may appeal...",
             "fid" : "content" },
           
           { "form" : "contract",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 117,
             "context" : "...dispute may appeal first to the Guild Steward who accepted the <mark>contract<\/mark> and second with the authorities of each Province. ",
             "fid" : "content" } ] },
       
@@ -38,18 +38,18 @@
         [ 
           { "form" : "contracted",
             "weight" : "1",
-            "pos" : 206,
+            "pos" : 201,
             "context" : "...It is supposed that vampirism is <mark>contracted<\/mark> from wounds received from a vampire. Since few victims survive...",
             "fid" : "content" },
           
           { "form" : "contracting",
             "weight" : "1",
-            "pos" : 217,
+            "pos" : 212,
             "context" : "...few victims survive vampiric attacks or feedings, the process of <mark>contracting<\/mark> the disease is little understood. Some have suggested that victims...",
             "fid" : "content" },
           
           { "form" : "contract",
             "weight" : "1",
-            "pos" : 321,
+            "pos" : 316,
             "context" : "...encounter with a vampire would be considered a deliberate attempt to <mark>contract<\/mark> the disease, and a mark of monstrous depravity....",
             "fid" : "content" } ] } ] }

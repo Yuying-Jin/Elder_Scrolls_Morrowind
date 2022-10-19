@@ -9,7 +9,7 @@
         [ 
           { "form" : "describe",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "No words can <mark>describe<\/mark> what you see. Or what you think you see....",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "described",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "...Scholars have based their classifications on the different types of land <mark>described<\/mark> by the native Ashlanders, so the designations are recognized by...",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "described",
             "weight" : "1",
-            "pos" : 264,
+            "pos" : 259,
             "context" : "...Dunmer concepts of Vivec, even if they are not explicitly <mark>described<\/mark> and explained in Temple doctrine.",
             "fid" : "content" } ] } ] }

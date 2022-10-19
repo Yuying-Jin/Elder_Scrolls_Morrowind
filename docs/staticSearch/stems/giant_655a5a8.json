@@ -9,19 +9,19 @@
         [ 
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 197,
+            "pos" : 192,
             "context" : "...undecorated exteriors inspired by the landscape and by the shells of <mark>giant<\/mark> native insects. Redoran villages are typically centered on Temple compounds...",
             "fid" : "content" },
           
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 418,
+            "pos" : 413,
             "context" : "...stems, caps, and root-like holdfasts of the <mark>giant<\/mark> native mushrooms. Telvanni villages are comprised of smaller mushroom pods...",
             "fid" : "content" },
           
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 436,
+            "pos" : 431,
             "context" : "...craftsmen and commoners. Open-air markets often include the <mark>giant<\/mark> cages displaying the wares of the slave masters.",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "...undecorated exteriors inspired by the landscape and by the shells of <mark>giant<\/mark> native insects. Most guildhalls, cornerclubs, and merchants are...",
             "fid" : "content" },
           
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 94,
             "context" : "...and council district sheltered beneath the shell of an ancient extinct <mark>giant<\/mark> crab. The large carapace encloses a central dome, from...",
             "fid" : "content" } ] },
       
@@ -49,13 +49,13 @@
         [ 
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "...sic] Island, a great land mass dominated by the <mark>giant<\/mark> volcano Red Mountain and cut off from mainland Morrowind by the...",
             "fid" : "content" },
           
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 1173,
+            "pos" : 1168,
             "context" : "...Council Chamber are located inside the shell of an ancient extinct <mark>giant<\/mark> crab. Tracks lead north to Maar Gan and Gnisis villages...",
             "fid" : "content" } ] },
       
@@ -66,13 +66,13 @@
         [ 
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 222,
+            "pos" : 217,
             "context" : ".... Baranat hid himself and trembled as he looked at the <mark>giant<\/mark> Feryn Coribael. Again, the young adventurer prayed to the saints...",
             "fid" : "giant" },
           
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 247,
+            "pos" : 242,
             "context" : "Baranat rushed at Feryn, knocking the <mark>giant<\/mark> through a boulder which turned to dust on impact. Feryn...",
             "fid" : "content" } ] },
       
@@ -83,19 +83,9 @@
         [ 
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "...is the Telvanni Council Hall, a large orb supported by <mark>giant<\/mark> mushroom stalks. To the east of the Great Market is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "giant",
-            "weight" : "1",
-            "pos" : 6053,
-            "context" : "<mark>giant<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -104,7 +94,7 @@
         [ 
           { "form" : "giant",
             "weight" : "1",
-            "pos" : 5562,
+            "pos" : 5557,
             "context" : "<mark>giant<\/mark>",
             "fid" : "group",
             "in" : 

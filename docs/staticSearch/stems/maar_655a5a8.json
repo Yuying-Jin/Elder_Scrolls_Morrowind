@@ -9,31 +9,31 @@
         [ 
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 386,
+            "pos" : 381,
             "context" : "...Red Mountain region and other geographic regions. The village of <mark>Maar<\/mark> Gan is the only sizable permanent Ashlands settlement; Ald'ruhn,...",
             "fid" : "content" },
           
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 412,
+            "pos" : 407,
             "context" : " <mark>Maar<\/mark> Gan is a small isolated village in a remote region north...",
             "fid" : "content" },
           
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 421,
+            "pos" : 416,
             "context" : "...isolated village in a remote region north of Ald'ruhn. The <mark>Maar<\/mark> Gan shrine is an important Temple pilgrimage site.",
             "fid" : "content" },
           
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 438,
+            "pos" : 433,
             "context" : "...permanent settlement at Urshilaku camp in the Ashlands region north of <mark>Maar<\/mark> Gan village.",
             "fid" : "content" },
           
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 1178,
+            "pos" : 1173,
             "context" : "...of an ancient extinct giant crab. Tracks lead north to <mark>Maar<\/mark> Gan and Gnisis villages and south to Balmora.",
             "fid" : "content" } ] },
       
@@ -44,30 +44,15 @@
         [ 
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 299,
+            "pos" : 294,
             "context" : " Roads lead northwest to <mark>Maar<\/mark> Gan and Gnisis villages and by a circuitous western route to...",
             "fid" : "content" },
           
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 351,
+            "pos" : 346,
             "context" : "...goes from Ald'ruhn to Balmora, Gnisis, Khuul, or <mark>Maar<\/mark> Gan.. Guild guides at the Mages Guild teleport you to...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Maar",
-            "weight" : "1",
-            "pos" : 2447,
-            "context" : "<mark>Maar<\/mark> Gan" },
-          
-          { "form" : "Maar",
-            "weight" : "1",
-            "pos" : 2471,
-            "context" : "<mark>Maar<\/mark>_Gan" } ] },
       
       { "docId" : "librarium_Homilies_of_Blessed_Almalexia",
         "docUri" : "librarium\/Homilies_of_Blessed_Almalexia.html",
@@ -76,7 +61,7 @@
         [ 
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Maar<\/mark> Gan: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -87,7 +72,7 @@
         [ 
           { "form" : "maar",
             "weight" : "1",
-            "pos" : 2618,
+            "pos" : 2613,
             "context" : "<mark>maar<\/mark> gan",
             "fid" : "loc",
             "in" : 
@@ -100,7 +85,7 @@
         [ 
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 142,
+            "pos" : 137,
             "context" : "...Honored Councilor of Redoran Council, Vvardenfell District, Lady of <mark>Maar<\/mark> Gan, of Morvayn Manor, East Ald'ruhn, District of...",
             "fid" : "content" } ] },
       
@@ -111,7 +96,7 @@
         [ 
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "<mark>Maar<\/mark> Gan: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -122,7 +107,7 @@
         [ 
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "<mark>Maar<\/mark> Gan: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -133,6 +118,6 @@
         [ 
           { "form" : "Maar",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "<mark>Maar<\/mark> Gan: Visitable? yes",
             "fid" : "acq" } ] } ] }

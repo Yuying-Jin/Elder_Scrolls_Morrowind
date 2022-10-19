@@ -9,19 +9,9 @@
         [ 
           { "form" : "Falas",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Falas<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Falas",
-            "weight" : "1",
-            "pos" : 1707,
-            "context" : "<mark>Falas<\/mark> Ancestral Tomb" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "falas",
             "weight" : "1",
-            "pos" : 1878,
+            "pos" : 1873,
             "context" : "<mark>falas<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 

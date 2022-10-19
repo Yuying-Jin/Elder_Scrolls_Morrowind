@@ -9,36 +9,21 @@
         [ 
           { "form" : "Foyada",
             "weight" : "1",
-            "pos" : 596,
+            "pos" : 591,
             "context" : "...the Ghostgate itself. The safest route to Ghostgate is along the <mark>Foyada<\/mark> Mamaea, a volcanic ravine running from the top of Red...",
             "fid" : "content" },
           
           { "form" : "foyada",
             "weight" : "1",
-            "pos" : 611,
+            "pos" : 606,
             "context" : "...end just below Balmora. An old Dwemer bridge crosses the <mark>foyada<\/mark> near Fort Moonmoth. A pilgrim may follow the Foyada Mamaea...",
             "fid" : "content" },
           
           { "form" : "Foyada",
             "weight" : "1",
-            "pos" : 618,
+            "pos" : 613,
             "context" : "...the foyada near Fort Moonmoth. A pilgrim may follow the <mark>Foyada<\/mark> Mamaea all the way to Ghostgate. Any journey inside the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Foyada",
-            "weight" : "1",
-            "pos" : 1824,
-            "context" : "<mark>Foyada<\/mark>_Mamaea" },
-          
-          { "form" : "foyada",
-            "weight" : "1",
-            "pos" : 4772,
-            "context" : "<mark>foyada<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "foyada",
             "weight" : "1",
-            "pos" : 1993,
+            "pos" : 1988,
             "context" : "<mark>foyada<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "foyada",
             "weight" : "1",
-            "pos" : 2000,
+            "pos" : 1995,
             "context" : "<mark>foyada<\/mark> mamaea",
             "fid" : "loc",
             "in" : 
@@ -68,6 +53,6 @@
         [ 
           { "form" : "foyada",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "...Shalk and a kagouti were strutting back and forth in a <mark>foyada<\/mark>, casting aspersions of one another's looks. \"You are the...",
             "fid" : "content" } ] } ] }

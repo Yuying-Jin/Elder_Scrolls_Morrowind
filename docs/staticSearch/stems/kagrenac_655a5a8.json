@@ -2,36 +2,6 @@
   { "stem" : "kagrenac",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 5,
-        "contexts" : 
-        [ 
-          { "form" : "Kagrenac's",
-            "weight" : "1",
-            "pos" : 2360,
-            "context" : "<mark>Kagrenac's<\/mark> Library" },
-          
-          { "form" : "Kagrenac's",
-            "weight" : "1",
-            "pos" : 2383,
-            "context" : "<mark>Kagrenac's<\/mark> Study" },
-          
-          { "form" : "Kagrenac's",
-            "weight" : "1",
-            "pos" : 4209,
-            "context" : "Tureynulal, <mark>Kagrenac's<\/mark> Library" },
-          
-          { "form" : "Kagrenac's",
-            "weight" : "1",
-            "pos" : 4222,
-            "context" : "Tureynulal,_<mark>Kagrenac's<\/mark>_Library" },
-          
-          { "form" : "Kagrenac",
-            "weight" : "1",
-            "pos" : 6753,
-            "context" : "<mark>Kagrenac<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 4,
@@ -39,7 +9,7 @@
         [ 
           { "form" : "kagrenac's",
             "weight" : "1",
-            "pos" : 2526,
+            "pos" : 2521,
             "context" : "<mark>kagrenac's<\/mark> library",
             "fid" : "loc",
             "in" : 
@@ -47,7 +17,7 @@
           
           { "form" : "kagrenac's",
             "weight" : "1",
-            "pos" : 2552,
+            "pos" : 2547,
             "context" : "<mark>kagrenac's<\/mark> study",
             "fid" : "loc",
             "in" : 
@@ -55,7 +25,7 @@
           
           { "form" : "kagrenac's",
             "weight" : "1",
-            "pos" : 4355,
+            "pos" : 4350,
             "context" : "tureynulal, <mark>kagrenac's<\/mark> library",
             "fid" : "loc",
             "in" : 
@@ -63,7 +33,7 @@
           
           { "form" : "kagrenac",
             "weight" : "1",
-            "pos" : 6866,
+            "pos" : 6861,
             "context" : "<mark>kagrenac<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -76,7 +46,7 @@
         [ 
           { "form" : "Kagrenac's",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 80,
             "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -87,7 +57,7 @@
         [ 
           { "form" : "Kagrenac's",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -98,7 +68,7 @@
         [ 
           { "form" : "Kagrenac's",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -109,7 +79,7 @@
         [ 
           { "form" : "Kagrenac's",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -120,7 +90,7 @@
         [ 
           { "form" : "Kagrenac's",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "<mark>Kagrenac's<\/mark> Library: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -131,7 +101,7 @@
         [ 
           { "form" : "Kagrenac",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "...devices were the ones originally created by the ungodly Dwemer sorceror <mark>Kagrenac<\/mark> to create the False Construct Numidium.",
             "fid" : "content" } ] },
       
@@ -142,7 +112,7 @@
         [ 
           { "form" : "Kagrenac",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "...devices were the ones originally created by the ungodly Dwemer sorceror <mark>Kagrenac<\/mark> to create the False Construct Numidium.",
             "fid" : "content" } ] },
       
@@ -153,7 +123,7 @@
         [ 
           { "form" : "Kagrenac's",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Kagrenac's<\/mark> Study: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -164,7 +134,7 @@
         [ 
           { "form" : "Kagrenac's",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "Tureynulal, <mark>Kagrenac's<\/mark> Library: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -175,6 +145,6 @@
         [ 
           { "form" : "Kagrenac's",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "Tureynulal, <mark>Kagrenac's<\/mark> Library: Visitable? yes",
             "fid" : "acq" } ] } ] }

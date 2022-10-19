@@ -2,21 +2,6 @@
   { "stem" : "laterus",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Laterus",
-            "weight" : "1",
-            "pos" : 2425,
-            "context" : "<mark>Laterus<\/mark> Burial" },
-          
-          { "form" : "Laterus",
-            "weight" : "1",
-            "pos" : 4256,
-            "context" : "Urshilaku,_<mark>Laterus<\/mark>_Burial" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "laterus",
             "weight" : "1",
-            "pos" : 2596,
+            "pos" : 2591,
             "context" : "<mark>laterus<\/mark> burial",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "laterus",
             "weight" : "1",
-            "pos" : 4399,
+            "pos" : 4394,
             "context" : "urshilaku, <mark>laterus<\/mark> burial",
             "fid" : "loc",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "Laterus",
             "weight" : "1",
-            "pos" : 16,
+            "pos" : 11,
             "context" : "<mark>Laterus<\/mark> Burial: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -56,6 +41,6 @@
         [ 
           { "form" : "Laterus",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "Urshilaku, <mark>Laterus<\/mark> Burial: Visitable? yes",
             "fid" : "acq" } ] } ] }

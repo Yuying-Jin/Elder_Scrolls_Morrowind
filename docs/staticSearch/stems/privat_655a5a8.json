@@ -9,7 +9,7 @@
         [ 
           { "form" : "private",
             "weight" : "1",
-            "pos" : 186,
+            "pos" : 181,
             "context" : "...by covert pickpocketing. It is forbidden to trespass upon the <mark>private<\/mark> property of another member. Break any one of these rules...",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "private",
             "weight" : "1",
-            "pos" : 325,
+            "pos" : 320,
             "context" : "...entranceways and modest decorated exteriors. More modest one-story <mark>private<\/mark> dwellings follow the same plan, except with less decoration....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Private",
-            "weight" : "1",
-            "pos" : 3002,
-            "context" : "Ramoran <mark>Private<\/mark> Quarters" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "private",
             "weight" : "1",
-            "pos" : 3175,
+            "pos" : 3170,
             "context" : "ramoran <mark>private<\/mark> quarters",
             "fid" : "loc",
             "in" : 
@@ -54,7 +44,7 @@
         [ 
           { "form" : "Private",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Ramoran <mark>Private<\/mark> Quarters: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -65,6 +55,6 @@
         [ 
           { "form" : "private",
             "weight" : "1",
-            "pos" : 173,
+            "pos" : 168,
             "context" : "..., and bureaucratic affairs. Cult worship is regarded as a <mark>private<\/mark> and practical matter, and public pronouncements by religious figures are...",
             "fid" : "content" } ] } ] }

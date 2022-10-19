@@ -2,16 +2,6 @@
   { "stem" : "beranda",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Berandas",
-            "weight" : "1",
-            "pos" : 1278,
-            "context" : "<mark>Berandas<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "berandas",
             "weight" : "1",
-            "pos" : 1443,
+            "pos" : 1438,
             "context" : "<mark>berandas<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Berandas",
             "weight" : "1",
-            "pos" : 516,
+            "pos" : 511,
             "context" : "..., a cavern on the seacoast west of the ancient stronghold <mark>Berandas<\/mark> and south of Gnisis. The cave mouth faces south,...",
             "fid" : "content" } ] } ] }

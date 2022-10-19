@@ -9,43 +9,43 @@
         [ 
           { "form" : "Garrison",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "Hawkmoth Legion <mark>Garrison<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "garrisons",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "...of law in the Empire. At need, the legion <mark>garrisons<\/mark> can be swiftly mobilized to protect against invasions or internal disorders...",
             "fid" : "content" },
           
           { "form" : "garrisons",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : " There are five legion <mark>garrisons<\/mark> in Vvardenfell District. The three town garrisons -- Moonmoth Legion...",
             "fid" : "content" },
           
           { "form" : "garrisons",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "...are five legion garrisons in Vvardenfell District. The three town <mark>garrisons<\/mark> -- Moonmoth Legion Fort in Balmora , Buckmoth Legion Fort in...",
             "fid" : "content" },
           
           { "form" : "garrisoned",
             "weight" : "1",
-            "pos" : 98,
+            "pos" : 93,
             "context" : "...in Pelagiad -- are at full complement. The Hawkmoth Legion <mark>garrisoned<\/mark> at Castle Ebonheart is an elite honor guard unit, and...",
             "fid" : "content" },
           
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : "...Darius in Gnisis village, is currently the only under-strength <mark>garrison<\/mark> on Vvardenfell. Qualified citizens seeking enlistment in the Imperial Legion...",
             "fid" : "content" },
           
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 127,
+            "pos" : 122,
             "context" : "...in the Imperial Legion should apply to the commander of that <mark>garrison<\/mark>, General Darius.",
             "fid" : "content" } ] },
       
@@ -56,48 +56,33 @@
         [ 
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 230,
+            "pos" : 225,
             "context" : "...are the Vvardenfell District Council chambers and the Hawk Moth Legion <mark>garrison<\/mark>. The officers, docks, and warehouses of the East...",
             "fid" : "content" },
           
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 343,
+            "pos" : 338,
             "context" : "...Isles region. The village is right outside the Imperial Legion <mark>garrison<\/mark> at Fort Pelagiad. The houses and shops are built in...",
             "fid" : "content" },
           
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 942,
+            "pos" : 937,
             "context" : "...Kand take refuge at the outpost's hostels, comforted by the <mark>garrison<\/mark> of Redoran and Buoyant Armiger crusaders stationed at the stronghold....",
             "fid" : "content" },
           
           { "form" : "garrisons",
             "weight" : "1",
-            "pos" : 1025,
+            "pos" : 1020,
             "context" : "...is the gate citadel of the Ghostfence Ordinator and Buoyant Armiger <mark>garrisons<\/mark>. Ghostgate sits astride the only gap through which the monstrous...",
             "fid" : "content" },
           
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 1128,
+            "pos" : 1123,
             "context" : "..., Seyda Neen, and Vivec City. The Imperial Legion <mark>garrison<\/mark> of Fort Moonmoth lies south of Balmora.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Garrison",
-            "weight" : "1",
-            "pos" : 2178,
-            "context" : "Hawkmoth Legion <mark>Garrison<\/mark>" },
-          
-          { "form" : "garrison",
-            "weight" : "1",
-            "pos" : 6021,
-            "context" : "Hawk Moth Legion <mark>garrison<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -106,7 +91,7 @@
         [ 
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 2348,
+            "pos" : 2343,
             "context" : "hawkmoth legion <mark>garrison<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -114,7 +99,7 @@
           
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 5525,
+            "pos" : 5520,
             "context" : "hawk moth legion <mark>garrison<\/mark>",
             "fid" : "group",
             "in" : 
@@ -127,7 +112,7 @@
         [ 
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : " Buckmoth Fort is the Imperial legion <mark>garrison<\/mark> for the district. The strong walls and towers of this...",
             "fid" : "content" } ] },
       
@@ -138,7 +123,7 @@
         [ 
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "...and to Wolverine Hall, the Imperial quarters of the Legion <mark>garrison<\/mark> and guilds. The docks are in a sheltered bay on...",
             "fid" : "content" } ] },
       
@@ -149,6 +134,6 @@
         [ 
           { "form" : "garrison",
             "weight" : "1",
-            "pos" : 423,
+            "pos" : 418,
             "context" : "...for heresy, Rithari had been posted to the Buoyant Armiger <mark>garrison<\/mark> at Bal Ur, a pilgrimage site known as the \"birthplace...",
             "fid" : "content" } ] } ] }

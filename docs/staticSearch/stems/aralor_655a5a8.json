@@ -9,25 +9,15 @@
         [ 
           { "form" : "Aralor",
             "weight" : "1",
-            "pos" : 175,
+            "pos" : 170,
             "context" : "St. <mark>Aralor<\/mark> grants Aralor's Intervention, for fortifying character.",
             "fid" : "content" },
           
           { "form" : "Aralor's",
             "weight" : "1",
-            "pos" : 177,
+            "pos" : 172,
             "context" : "St. Aralor grants <mark>Aralor's<\/mark> Intervention, for fortifying character.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Aralor",
-            "weight" : "1",
-            "pos" : 7285,
-            "context" : "St.<mark>Aralor<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "aralor",
             "weight" : "1",
-            "pos" : 7398,
+            "pos" : 7393,
             "context" : "st.<mark>aralor<\/mark>",
             "fid" : "persons",
             "in" : 

@@ -9,19 +9,9 @@
         [ 
           { "form" : "Galom",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "<mark>Galom<\/mark> Daeus Observatory: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Galom",
-            "weight" : "1",
-            "pos" : 1831,
-            "context" : "<mark>Galom<\/mark> Daeus Observatory" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "galom",
             "weight" : "1",
-            "pos" : 2007,
+            "pos" : 2002,
             "context" : "<mark>galom<\/mark> daeus observatory",
             "fid" : "loc",
             "in" : 

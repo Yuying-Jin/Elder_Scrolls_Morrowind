@@ -9,25 +9,25 @@
         [ 
           { "form" : "seven",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "...Three in One. In you is an image and a <mark>seven<\/mark>-syllable spell, AYEM AE SEHTI AE VEHK, which...",
             "fid" : "content" },
           
           { "form" : "seven",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "...to the image as an egg. There she stayed for <mark>seven<\/mark> or eight months.",
             "fid" : "content" },
           
           { "form" : "seven",
             "weight" : "1",
-            "pos" : 139,
+            "pos" : 134,
             "context" : "...on the shoals of Azura's Coast. There she lay for <mark>seven<\/mark> or eight more months, caring for the egg-knowledge...",
             "fid" : "content" },
           
           { "form" : "Seven",
             "weight" : "1",
-            "pos" : 155,
+            "pos" : 150,
             "context" : "<mark>Seven<\/mark> Daedra came to her one night and each one gave to...",
             "fid" : "content" } ] },
       
@@ -38,19 +38,19 @@
         [ 
           { "form" : "Seven",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 54,
             "context" : "...words of Lord Vivec, and heed his sermons on the <mark>Seven<\/mark> Graces, for he names them seven times and seven ways...",
             "fid" : "content" },
           
           { "form" : "seven",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "...his sermons on the Seven Graces, for he names them <mark>seven<\/mark> times and seven ways --",
             "fid" : "content" },
           
           { "form" : "seven",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "...the Seven Graces, for he names them seven times and <mark>seven<\/mark> ways --",
             "fid" : "content" } ] },
       
@@ -61,13 +61,13 @@
         [ 
           { "form" : "seven",
             "weight" : "1",
-            "pos" : 265,
+            "pos" : 260,
             "context" : "...apart, scattering him across the valley floor in eighty-<mark>seven<\/mark> pieces. Beyond Feryn's post was a raging river, where...",
             "fid" : "content" },
           
           { "form" : "seven",
             "weight" : "1",
-            "pos" : 396,
+            "pos" : 391,
             "context" : "...camp and began battle with Airen Coribael. The fight lasted <mark>seven<\/mark> days, and for six of them, Airen had the upper...",
             "fid" : "content" } ] },
       
@@ -78,19 +78,9 @@
         [ 
           { "form" : "Seven",
             "weight" : "1",
-            "pos" : 222,
+            "pos" : 217,
             "context" : "...teachings of Vivec, and from the Archcanon's sermons on the <mark>Seven<\/mark> Graces.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Seven",
-            "weight" : "1",
-            "pos" : 3493,
-            "context" : "Shrines_of_the_<mark>Seven<\/mark>_Graces" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -99,7 +89,7 @@
         [ 
           { "form" : "seven",
             "weight" : "1",
-            "pos" : 3646,
+            "pos" : 3641,
             "context" : "shrines of the <mark>seven<\/mark> graces",
             "fid" : "loc",
             "in" : 
@@ -112,7 +102,7 @@
         [ 
           { "form" : "Seven",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...and his unconquerable spirit, he attained the Wisdom of the <mark>Seven<\/mark> Graces. The Cantatas relate many stories of Vivec's experiments with...",
             "fid" : "content" } ] },
       
@@ -123,6 +113,6 @@
         [ 
           { "form" : "Seven",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "The pilgrim must visit each of the Shrines of the <mark>Seven<\/mark> Graces. At each site the pilgrim must stand before the...",
             "fid" : "content" } ] } ] }

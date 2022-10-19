@@ -9,42 +9,27 @@
         [ 
           { "form" : "Camonna",
             "weight" : "1",
-            "pos" : 148,
+            "pos" : 143,
             "context" : "The competition is the <mark>Camonna<\/mark> Tong. And you don't want to join them, because they...",
             "fid" : "content" },
           
           { "form" : "Camonna",
             "weight" : "1",
-            "pos" : 167,
+            "pos" : 162,
             "context" : "And the <mark>Camonna<\/mark> Tong are bad people. The Camonna Tong don't mind killing...",
             "fid" : "content" },
           
           { "form" : "Camonna",
             "weight" : "1",
-            "pos" : 171,
+            "pos" : 166,
             "context" : "And the Camonna Tong are bad people. The <mark>Camonna<\/mark> Tong don't mind killing people. Heck, they LIKE killing...",
             "fid" : "content" },
           
           { "form" : "Camonna",
             "weight" : "1",
-            "pos" : 200,
+            "pos" : 195,
             "context" : "...Thieves Guild, and stay far, far away from the <mark>Camonna<\/mark> Tong.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Camonna",
-            "weight" : "1",
-            "pos" : 5012,
-            "context" : "<mark>Camonna<\/mark>" },
-          
-          { "form" : "Camonna",
-            "weight" : "1",
-            "pos" : 5851,
-            "context" : "<mark>Camonna<\/mark> Tong" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +38,7 @@
         [ 
           { "form" : "camonna",
             "weight" : "1",
-            "pos" : 5158,
+            "pos" : 5153,
             "context" : "<mark>camonna<\/mark>",
             "fid" : "group",
             "in" : 
@@ -61,7 +46,7 @@
           
           { "form" : "camonna",
             "weight" : "1",
-            "pos" : 6149,
+            "pos" : 6144,
             "context" : "<mark>camonna<\/mark> tong",
             "fid" : "group",
             "in" : 
@@ -74,7 +59,7 @@
         [ 
           { "form" : "Camonna",
             "weight" : "1",
-            "pos" : 707,
+            "pos" : 702,
             "context" : ".... The Imperial cult also disapproves of the lawless and greedy <mark>Camonna<\/mark> Tong, and their ruthless exploitation of the poor and weak...",
             "fid" : "content" } ] },
       
@@ -85,7 +70,7 @@
         [ 
           { "form" : "Camonna",
             "weight" : "1",
-            "pos" : 250,
+            "pos" : 245,
             "context" : "...enforcement, and aggressive competition between the Thieves Guild and the <mark>Camonna<\/mark> Tong.",
             "fid" : "content" } ] },
       
@@ -96,6 +81,6 @@
         [ 
           { "form" : "Camonna",
             "weight" : "1",
-            "pos" : 211,
+            "pos" : 206,
             "context" : "...from the increasingly aggressive competition between the Thieves Guild and the <mark>Camonna<\/mark> Tong for control of the black markets.",
             "fid" : "content" } ] } ] }

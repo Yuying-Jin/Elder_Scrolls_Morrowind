@@ -2,21 +2,6 @@
   { "stem" : "callonus",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Callonus",
-            "weight" : "1",
-            "pos" : 896,
-            "context" : "Ald'ruhn,_Codus_<mark>Callonus<\/mark>:_Bookseller" },
-          
-          { "form" : "Callonus",
-            "weight" : "1",
-            "pos" : 6407,
-            "context" : "Codus <mark>Callonus<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "callonus",
             "weight" : "1",
-            "pos" : 1051,
+            "pos" : 1046,
             "context" : "ald'ruhn, codus <mark>callonus<\/mark>: bookseller",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "callonus",
             "weight" : "1",
-            "pos" : 6490,
+            "pos" : 6485,
             "context" : "codus <mark>callonus<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -45,6 +30,6 @@
         [ 
           { "form" : "Callonus",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Ald'ruhn, Codus <mark>Callonus<\/mark>: Bookseller: Visitable? yes",
             "fid" : "acq" } ] } ] }

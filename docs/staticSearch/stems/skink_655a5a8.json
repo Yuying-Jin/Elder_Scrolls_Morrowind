@@ -9,19 +9,9 @@
         [ 
           { "form" : "Skink",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "<mark>Skink<\/mark>-in-Tree's-Shade: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Skink",
-            "weight" : "1",
-            "pos" : 3518,
-            "context" : "<mark>Skink<\/mark>-in-Tree's-Shade" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "skink",
             "weight" : "1",
-            "pos" : 3670,
+            "pos" : 3665,
             "context" : "<mark>skink<\/mark> in tree's shade",
             "fid" : "loc",
             "in" : 

@@ -9,25 +9,15 @@
         [ 
           { "form" : "Jereth",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 127,
             "context" : "\"Master <mark>Jereth<\/mark> will dazzle you as he juggles fifteen flaming globes while hopping...",
             "fid" : "content" },
           
           { "form" : "Jereth",
             "weight" : "1",
-            "pos" : 366,
+            "pos" : 361,
             "context" : "...main courtyard of the stronghold. Masters Tulkiande, Mearvis, <mark>Jereth<\/mark>, and I formed a pyramid to give Master Senyndie a...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Jereth",
-            "weight" : "1",
-            "pos" : 6743,
-            "context" : "Master <mark>Jereth<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "jereth",
             "weight" : "1",
-            "pos" : 6847,
+            "pos" : 6842,
             "context" : "master <mark>jereth<\/mark>",
             "fid" : "persons",
             "in" : 

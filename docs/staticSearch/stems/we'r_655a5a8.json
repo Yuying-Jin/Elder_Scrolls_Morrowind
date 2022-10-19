@@ -9,13 +9,13 @@
         [ 
           { "form" : "we're",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "\"No, it looks like <mark>we're<\/mark> the only ones. I guess, the nice way to...",
             "fid" : "content" },
           
           { "form" : "we're",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "..., the nice way to look at it is that if <mark>we're<\/mark> rescued, we can divide the profits between two rather than...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "We're",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : " <mark>We're<\/mark> just like any other trade guild. We've got requirements....",
             "fid" : "content" } ] } ] }

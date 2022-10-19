@@ -9,19 +9,9 @@
         [ 
           { "form" : "daggers",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "...You travel light and fast, and want light arms like <mark>daggers<\/mark> and shortswords. You don't want to get into a slugging...",
             "fid" : "dagger" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "dagger",
-            "weight" : "1",
-            "pos" : 143,
-            "context" : "<mark>dagger<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "dagger",
             "weight" : "1",
-            "pos" : 325,
+            "pos" : 320,
             "context" : "<mark>dagger<\/mark>",
             "fid" : "items",
             "in" : 
@@ -43,6 +33,6 @@
         [ 
           { "form" : "dagger",
             "weight" : "1",
-            "pos" : 144,
+            "pos" : 139,
             "context" : "...himself more greef, warming to his subject. \"Sticks his <mark>dagger<\/mark> in his opponent's back. This may slay the target,...",
             "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "loyalty",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...a house as an oath-bonded hireling, pledging exclusive <mark>loyalty<\/mark> to a single house and forsaking ambitions with all other houses...",
             "fid" : "content" },
           
           { "form" : "loyalty",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 118,
             "context" : "...Great House councilor stand as sponsor for the candidate's character and <mark>loyalty<\/mark>. Finding a councilor to sponsor an outlander often involves performing...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "loyalty",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 118,
             "context" : "...linger, held to the hearth and tomb by blood and <mark>loyalty<\/mark>. And if they come unbidden, from love of kin...",
             "fid" : "content" } ] } ] }

@@ -2,16 +2,6 @@
   { "stem" : "nimlom",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Nimlom",
-            "weight" : "1",
-            "pos" : 6975,
-            "context" : "<mark>Nimlom<\/mark>_the_Mighty" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "nimlom",
             "weight" : "1",
-            "pos" : 7022,
+            "pos" : 7017,
             "context" : "<mark>nimlom<\/mark> the mighty",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Nimlom",
             "weight" : "1",
-            "pos" : 683,
+            "pos" : 678,
             "context" : "...I have no more interest in him that I had in <mark>Nimlom<\/mark> the Mighty, Kena Zombel Mokafa, or Master Vomph,\"...",
             "fid" : "content" } ] } ] }

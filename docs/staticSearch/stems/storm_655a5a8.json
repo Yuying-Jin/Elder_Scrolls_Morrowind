@@ -9,13 +9,13 @@
         [ 
           { "form" : "storms",
             "weight" : "1",
-            "pos" : 411,
+            "pos" : 406,
             "context" : "...sparse grazing. It rains rarely, and suffers frequent ash <mark>storms<\/mark>.",
             "fid" : "content" },
           
           { "form" : "storms",
             "weight" : "1",
-            "pos" : 897,
+            "pos" : 892,
             "context" : "...in this trackless wilderness, and is complicated by frequent ash <mark>storms<\/mark>. The Ashlanders of Erabenimsun camp hunt game here, but few...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "storm",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : "...the coast of Hla Oad. Who could have predicted the <mark>storm<\/mark>? Who could have predicted that everyone would drown, from...",
             "fid" : "content" },
           
           { "form" : "storm",
             "weight" : "1",
-            "pos" : 340,
+            "pos" : 335,
             "context" : "...boat they were to have met on the night of the <mark>storm<\/mark>. The smugglers aboard would pay them good money for the...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "Storm",
             "weight" : "1",
-            "pos" : 185,
+            "pos" : 180,
             "context" : "The Thrice-Sealed House withstands the <mark>Storm<\/mark>.",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "storms",
             "weight" : "1",
-            "pos" : 500,
+            "pos" : 495,
             "context" : "...he would be inheriting was utterly dissolute by decades of blight <mark>storms<\/mark> and poor crops.",
             "fid" : "content" } ] } ] }

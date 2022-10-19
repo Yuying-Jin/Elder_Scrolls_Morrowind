@@ -9,12 +9,12 @@
         [ 
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "<mark>Arkay<\/mark> the Enemy" },
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 1633,
+            "pos" : 1628,
             "context" : "<mark>Arkay<\/mark> the Enemy, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 3550,
+            "pos" : 3545,
             "context" : "<mark>Arkay<\/mark> the Enemy, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 5087,
+            "pos" : 5082,
             "context" : "<mark>Arkay<\/mark> the Enemy, count: 1",
             "fid" : "group",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 5445,
+            "pos" : 5440,
             "context" : "<mark>Arkay<\/mark> the Enemy, count: 1",
             "fid" : "group",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 5569,
+            "pos" : 5564,
             "context" : "<mark>Arkay<\/mark> the Enemy, count: 2",
             "fid" : "group",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 5816,
+            "pos" : 5811,
             "context" : "<mark>Arkay<\/mark> the Enemy, count: 1",
             "fid" : "group",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 6258,
+            "pos" : 6253,
             "context" : "<mark>Arkay<\/mark> the Enemy, count: 1",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "arkay",
             "weight" : "1",
-            "pos" : 6391,
+            "pos" : 6386,
             "context" : "<mark>arkay<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -78,61 +78,11 @@
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 6392,
+            "pos" : 6387,
             "context" : "<mark>Arkay<\/mark> the Enemy, count: 8",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 9,
-        "contexts" : 
-        [ 
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 1462,
-            "context" : "<mark>Arkay<\/mark> the Enemy, count: 1" },
-          
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 3397,
-            "context" : "<mark>Arkay<\/mark> the Enemy, count: 1" },
-          
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 5942,
-            "context" : "<mark>Arkay<\/mark> the Enemy, count: 1" },
-          
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 6006,
-            "context" : "<mark>Arkay<\/mark> the Enemy, count: 1" },
-          
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 6060,
-            "context" : "<mark>Arkay<\/mark> the Enemy, count: 2" },
-          
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 6079,
-            "context" : "<mark>Arkay<\/mark> the Enemy, count: 1" },
-          
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 6178,
-            "context" : "<mark>Arkay<\/mark> the Enemy, count: 1" },
-          
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 6321,
-            "context" : "<mark>Arkay<\/mark>" },
-          
-          { "form" : "Arkay",
-            "weight" : "1",
-            "pos" : 6322,
-            "context" : "<mark>Arkay<\/mark> the Enemy, count: 8" } ] },
       
       { "docId" : "librarium_Arkay_the_Enemy",
         "docUri" : "librarium\/Arkay_the_Enemy.html",
@@ -141,49 +91,49 @@
         [ 
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "...your might. But one obstacle remains. His name is <mark>Arkay<\/mark>.",
             "fid" : "Arkay" },
           
           { "form" : "Arkay's",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "<mark>Arkay's<\/mark> Blessing prevents the souls of men, beastmen, and elves...",
             "fid" : "content" },
           
           { "form" : "Arkay's",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "..., beastmen, and elves from being used without consent. <mark>Arkay's<\/mark> Law prevents those buried with the proper rituals from being raised...",
             "fid" : "content" },
           
           { "form" : "Arkay's",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "...serve my children's will. As you know, my children, <mark>Arkay's<\/mark> Blessing is flexible to those with daring, but Arkay's Law...",
             "fid" : "content" },
           
           { "form" : "Arkay's",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : "..., Arkay's Blessing is flexible to those with daring, but <mark>Arkay's<\/mark> Law is unwavering.",
             "fid" : "content" },
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "To the Scholars: Humiliate the priests of <mark>Arkay<\/mark>. Reveal the primitive burial customs to be mere superstition....",
             "fid" : "content" },
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 133,
+            "pos" : 128,
             "context" : "For soon we shall strike. The Temples of <mark>Arkay<\/mark> will be torn stone from stone. The blood of his...",
             "fid" : "content" },
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "...; their bones will rise as our servants. The name <mark>Arkay<\/mark> will be stuck [sic] from the records. Only...",
             "fid" : "content" } ] },
       
@@ -194,19 +144,19 @@
         [ 
           { "form" : "Arkay's",
             "weight" : "1",
-            "pos" : 160,
+            "pos" : 155,
             "context" : "While few Bosmer perform <mark>Arkay's<\/mark> rituals when burying the dead, the more primitive Bosmer still...",
             "fid" : "content" },
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 232,
+            "pos" : 227,
             "context" : "In Hammerfell, where worship of <mark>Arkay<\/mark> is strongest, the dead are almost always subject to Arkay's...",
             "fid" : "content" },
           
           { "form" : "Arkay's",
             "weight" : "1",
-            "pos" : 238,
+            "pos" : 233,
             "context" : "...Arkay is strongest, the dead are almost always subject to <mark>Arkay's<\/mark> Law. There are exceptions after large battles or in remote...",
             "fid" : "content" } ] },
       
@@ -217,12 +167,12 @@
         [ 
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "...of the Nine Divines, the Aedra Akatosh, Dibella, <mark>Arkay<\/mark>, Zenithar, Mara, Stendarr, Kynareth, and Julianos...",
             "fid" : "content" },
           
           { "form" : "Arkay",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "...the divinity of the Nine Divines: Akatosh, Dibella, <mark>Arkay<\/mark>, Zenithar, Mara, Stendarr, Kynareth, Julianos,...",
             "fid" : "content" } ] } ] }

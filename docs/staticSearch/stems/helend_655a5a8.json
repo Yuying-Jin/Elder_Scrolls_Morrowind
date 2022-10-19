@@ -9,19 +9,9 @@
         [ 
           { "form" : "Helende",
             "weight" : "1",
-            "pos" : 235,
+            "pos" : 230,
             "context" : "..., and Aunius Autrus is the Imperial cult priest. Big <mark>Helende<\/mark>, the Thieves Guild Boss, makes frequent appearances at Dirty...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Helende",
-            "weight" : "1",
-            "pos" : 6707,
-            "context" : "Big <mark>Helende<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "helende",
             "weight" : "1",
-            "pos" : 6793,
+            "pos" : 6788,
             "context" : "big <mark>helende<\/mark>",
             "fid" : "persons",
             "in" : 

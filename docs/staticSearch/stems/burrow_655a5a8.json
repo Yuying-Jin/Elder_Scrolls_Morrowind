@@ -9,19 +9,9 @@
         [ 
           { "form" : "Burrow",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Scourg <mark>Burrow<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Burrow",
-            "weight" : "1",
-            "pos" : 3396,
-            "context" : "Scourg <mark>Burrow<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "burrow",
             "weight" : "1",
-            "pos" : 3549,
+            "pos" : 3544,
             "context" : "scourg <mark>burrow<\/mark>",
             "fid" : "loc",
             "in" : 

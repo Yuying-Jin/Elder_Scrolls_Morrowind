@@ -9,12 +9,12 @@
         [ 
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "Honor <mark>Among<\/mark> Thieves" },
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 253,
+            "pos" : 248,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 305,
+            "pos" : 300,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 327,
+            "pos" : 322,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 334,
+            "pos" : 329,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 517,
+            "pos" : 512,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 654,
+            "pos" : 649,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 721,
+            "pos" : 716,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "items",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 898,
+            "pos" : 893,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 2",
             "fid" : "loc",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 1285,
+            "pos" : 1280,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 2",
             "fid" : "loc",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 1962,
+            "pos" : 1957,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 3343,
+            "pos" : 3338,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -102,7 +102,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 3657,
+            "pos" : 3652,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -110,7 +110,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 3700,
+            "pos" : 3695,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 2",
             "fid" : "loc",
             "in" : 
@@ -118,7 +118,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 4246,
+            "pos" : 4241,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -126,7 +126,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 4470,
+            "pos" : 4465,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -134,7 +134,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 4790,
+            "pos" : 4785,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "loc",
             "in" : 
@@ -142,7 +142,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 5620,
+            "pos" : 5615,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 10",
             "fid" : "group",
             "in" : 
@@ -150,7 +150,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 5919,
+            "pos" : 5914,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "group",
             "in" : 
@@ -158,7 +158,7 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 6152,
+            "pos" : 6147,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 4",
             "fid" : "group",
             "in" : 
@@ -166,116 +166,11 @@
           
           { "form" : "Among",
             "weight" : "1",
-            "pos" : 7293,
+            "pos" : 7288,
             "context" : "Honor <mark>Among<\/mark> Thieves, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 20,
-        "contexts" : 
-        [ 
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 71,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 123,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 145,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 152,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 344,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 484,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 547,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 714,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 2" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 1116,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 2" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 1791,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 3172,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 3504,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 3548,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 2" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 4095,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 4331,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 4673,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 5349,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 10" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 5854,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 4" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 6096,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" },
-          
-          { "form" : "Among",
-            "weight" : "1",
-            "pos" : 7168,
-            "context" : "Honor <mark>Among<\/mark> Thieves, count: 1" } ] },
       
       { "docId" : "librarium_progress_of_Truth",
         "docUri" : "librarium\/progress_of_Truth.html",
@@ -284,19 +179,19 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "...as a communal judgement by the Dunmer ancestors [ including, <mark>among<\/mark> others, the Good Daedra, the prophet Veloth, and...",
             "fid" : "content" },
           
           { "form" : "among",
             "weight" : "1",
-            "pos" : 283,
+            "pos" : 278,
             "context" : "Though no consensus exists <mark>among<\/mark> the Dissidents about whether the Nerevarine prophecies are genuine, all...",
             "fid" : "content" },
           
           { "form" : "among",
             "weight" : "1",
-            "pos" : 324,
+            "pos" : 319,
             "context" : "...wise women, and the prophecies of the Incarnate. Many <mark>among<\/mark> the Dissident priests have come to believe that the Nerevarine prophecies...",
             "fid" : "content" } ] },
       
@@ -307,19 +202,19 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "...as a communal judgement by the Dunmer ancestors [ including, <mark>among<\/mark> others, the Good Daedra, the prophet Veloth, and...",
             "fid" : "content" },
           
           { "form" : "among",
             "weight" : "1",
-            "pos" : 283,
+            "pos" : 278,
             "context" : "Though no consensus exists <mark>among<\/mark> the Dissidents about whether the Nerevarine prophecies are genuine, all...",
             "fid" : "content" },
           
           { "form" : "among",
             "weight" : "1",
-            "pos" : 324,
+            "pos" : 319,
             "context" : "...wise women, and the prophecies of the Incarnate. Many <mark>among<\/mark> the Dissident priests have come to believe that the Nerevarine prophecies...",
             "fid" : "content" } ] },
       
@@ -330,13 +225,13 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : "...House Telvanni may know many arcane secrets, but they fight <mark>among<\/mark> themselves more than against each other, and they cannot adapt to...",
             "fid" : "content" },
           
           { "form" : "among",
             "weight" : "1",
-            "pos" : 262,
+            "pos" : 257,
             "context" : "...to join House Hlaalu? Would you have yourself be counted <mark>among<\/mark> the victors in the race for success? Then submit yourself...",
             "fid" : "content" } ] },
       
@@ -347,13 +242,13 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "...pact assured that he would live forever in his home town <mark>among<\/mark> the happy voices of his friends and countrymen. Twisting the...",
             "fid" : "content" },
           
           { "form" : "among",
             "weight" : "1",
-            "pos" : 237,
+            "pos" : 232,
             "context" : "...were horribly slain, and Chimere was condemned to live forever <mark>among<\/mark> the ruins of his greatest ambition.",
             "fid" : "content" } ] },
       
@@ -364,7 +259,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "He was born in the ash <mark>among<\/mark> the Velothi, anon Chimer, before the war with the...",
             "fid" : "content" } ] },
       
@@ -375,7 +270,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "...for the witchhunters. But you, my servants, you are <mark>among<\/mark> the chosen. In the days to come, few will...",
             "fid" : "content" } ] },
       
@@ -386,7 +281,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 160,
+            "pos" : 155,
             "context" : "...of burning cannot cleanse the fault. Abide not the sorcerer <mark>among<\/mark> you, for he comes to steal the bones of your fathers...",
             "fid" : "content" } ] },
       
@@ -397,7 +292,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 278,
+            "pos" : 273,
             "context" : "...a unique opportunity. As you know, Orc corpses are <mark>among<\/mark> the most sought after for the durability of their skin and...",
             "fid" : "content" } ] },
       
@@ -408,7 +303,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 176,
+            "pos" : 171,
             "context" : "...and error. Like generous relatives, they share their bounty <mark>among<\/mark> the greatest and least, according to their needs.",
             "fid" : "content" } ] },
       
@@ -419,7 +314,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 243,
+            "pos" : 238,
             "context" : "...administration, House Hlaalu has emerged as politically and economically dominant <mark>among<\/mark> the Great Houses of Vvardenfell and Morrowind. Hlaalu welcomes Imperial...",
             "fid" : "content" } ] },
       
@@ -430,7 +325,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 136,
+            "pos" : 131,
             "context" : "...the guards at a discount rate. That's where the 'honor <mark>among<\/mark> thieves' part comes in. Friends stick together, and help each...",
             "fid" : "content" } ] },
       
@@ -441,7 +336,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 200,
+            "pos" : 195,
             "context" : "...Tiber Septim is just such a hero-cult, and <mark>among<\/mark> the military, provincial colonists, and recently assimilated foreigners,...",
             "fid" : "content" } ] },
       
@@ -452,7 +347,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 174,
+            "pos" : 169,
             "context" : "...nor encumber myself with profitless treasures, but shall share freely <mark>among<\/mark> house and hearth.",
             "fid" : "content" } ] },
       
@@ -463,7 +358,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "...their ambitions. In this, hold the ordering of the Congeries <mark>among<\/mark> the oldest and most trusted of mages, and make secure...",
             "fid" : "content" } ] },
       
@@ -474,7 +369,7 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : "...\"Is the lack of technique. I know there's no honor <mark>among<\/mark> thieves, and there never was, but there used to be...",
             "fid" : "content" } ] },
       
@@ -485,6 +380,6 @@
         [ 
           { "form" : "among",
             "weight" : "1",
-            "pos" : 332,
+            "pos" : 327,
             "context" : "... In Temple doctrine, one ancient tradition holds that, <mark>among<\/mark> his many other crimes, Molag Bal, the Father of...",
             "fid" : "content" } ] } ] }

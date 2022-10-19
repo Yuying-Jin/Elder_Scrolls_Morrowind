@@ -9,25 +9,15 @@
         [ 
           { "form" : "Krazzt",
             "weight" : "1",
-            "pos" : 357,
+            "pos" : 352,
             "context" : "...of ALMSIVI Intervention in case they get lost. The Dremora <mark>Krazzt<\/mark> is found in the center of the Puzzle Canal, and...",
             "fid" : "content" },
           
           { "form" : "Krazzt",
             "weight" : "1",
-            "pos" : 368,
+            "pos" : 363,
             "context" : "...a plain silver longsword if spoken to with courtesy. After <mark>Krazzt<\/mark> accepts the sword, pilgrims must read the inscription on the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Krazzt",
-            "weight" : "1",
-            "pos" : 6775,
-            "context" : "<mark>Krazzt<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "krazzt",
             "weight" : "1",
-            "pos" : 6890,
+            "pos" : 6885,
             "context" : "<mark>krazzt<\/mark>",
             "fid" : "persons",
             "in" : 

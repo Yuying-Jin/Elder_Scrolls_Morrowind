@@ -9,55 +9,45 @@
         [ 
           { "form" : "kagouti",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : " A Shalk and a <mark>kagouti<\/mark> were strutting back and forth in a foyada, casting aspersions...",
             "fid" : "content" },
           
           { "form" : "kagouti",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "...\"You are the ugliest creature alive,\" the Shalk told the <mark>kagouti<\/mark>. \"No, YOU are the ugliest creature alive,\" the kagouti...",
             "fid" : "content" },
           
           { "form" : "kagouti",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...kagouti. \"No, YOU are the ugliest creature alive,\" the <mark>kagouti<\/mark> told the Shalk. For each thought himself most handsome,...",
             "fid" : "content" },
           
           { "form" : "kagouti",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : " The Boiled <mark>kagouti<\/mark>",
             "fid" : "content" },
           
           { "form" : "kagouti",
             "weight" : "1",
-            "pos" : 136,
+            "pos" : 131,
             "context" : " It is said that if a <mark>kagouti<\/mark> steps into a boiling pool, he will leap out immediately...",
             "fid" : "content" },
           
           { "form" : "kagouti",
             "weight" : "1",
-            "pos" : 144,
+            "pos" : 139,
             "context" : "...will leap out immediately to avoid harm. But if the <mark>kagouti<\/mark> is standing in a pool, and a wizard slowly raises...",
             "fid" : "content" },
           
           { "form" : "kagouti",
             "weight" : "1",
-            "pos" : 154,
+            "pos" : 149,
             "context" : "...the temperature, measure by measure, to boiling, the <mark>kagouti<\/mark> will calmly stand in place until he is boiled. Thus...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "kagouti",
-            "weight" : "1",
-            "pos" : 7635,
-            "context" : "<mark>kagouti<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -66,7 +56,7 @@
         [ 
           { "form" : "kagouti",
             "weight" : "1",
-            "pos" : 6859,
+            "pos" : 6854,
             "context" : "<mark>kagouti<\/mark>",
             "fid" : "persons",
             "in" : 

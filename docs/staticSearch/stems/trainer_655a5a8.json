@@ -9,19 +9,19 @@
         [ 
           { "form" : "trainers",
             "weight" : "1",
-            "pos" : 167,
+            "pos" : 162,
             "context" : "...the Imperial faithful. Various independent tradesmen, craftsmen, and <mark>trainers<\/mark> also rent space here. The Black Shalk Cornerclub rents beds to...",
             "fid" : "content" },
           
           { "form" : "trainers",
             "weight" : "1",
-            "pos" : 387,
+            "pos" : 382,
             "context" : "...of monsters. There are many tradesmen, craftsmen, and <mark>trainers<\/mark>, and the Lizard's Head cornerclub provides lodgings for Telvanni kin...",
             "fid" : "content" },
           
           { "form" : "trainers",
             "weight" : "1",
-            "pos" : 435,
+            "pos" : 430,
             "context" : "...tier manors. There are many tradesmen, craftsmen, and <mark>trainers<\/mark>, and the Flowers of Gold cornerclub provides lodgings for Redoran...",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "trainers",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "...town is large, with many craftsmen, traders, and <mark>trainers<\/mark>, but it is open only to Telvanni retainers; outsiders...",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "trainer",
             "weight" : "1",
-            "pos" : 322,
+            "pos" : 317,
             "context" : "...right here in town? I hear they're looking for a <mark>trainer<\/mark> for the Imperial Guard. I know, I know,...",
             "fid" : "content" } ] } ] }

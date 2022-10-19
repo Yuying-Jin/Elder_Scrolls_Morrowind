@@ -9,19 +9,9 @@
         [ 
           { "form" : "shortswords",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "...light and fast, and want light arms like daggers and <mark>shortswords<\/mark>. You don't want to get into a slugging match,...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "shortsword",
-            "weight" : "1",
-            "pos" : 482,
-            "context" : "<mark>shortsword<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "shortsword",
             "weight" : "1",
-            "pos" : 652,
+            "pos" : 647,
             "context" : "<mark>shortsword<\/mark>",
             "fid" : "items",
             "in" : 

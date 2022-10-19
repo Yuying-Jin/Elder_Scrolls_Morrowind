@@ -9,19 +9,9 @@
         [ 
           { "form" : "Divayth",
             "weight" : "1",
-            "pos" : 557,
+            "pos" : 552,
             "context" : " Tel Fyr is the Telvanni tower of Sorcerer-Lord <mark>Divayth<\/mark> Fyr. Beneath the tower is the Corprusarium, a refuge...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Divayth",
-            "weight" : "1",
-            "pos" : 6582,
-            "context" : "<mark>Divayth<\/mark> Fyr" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "divayth",
             "weight" : "1",
-            "pos" : 6680,
+            "pos" : 6675,
             "context" : "<mark>divayth<\/mark> fyr",
             "fid" : "persons",
             "in" : 

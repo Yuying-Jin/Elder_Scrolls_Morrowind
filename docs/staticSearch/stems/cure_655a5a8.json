@@ -9,37 +9,37 @@
         [ 
           { "form" : "cured",
             "weight" : "1",
-            "pos" : 240,
+            "pos" : 235,
             "context" : "..., the vampirism disease exhibits no symptoms, and may be <mark>cured<\/mark> by general spellcraft or cult blessings. However, during incubation...",
             "fid" : "content" },
           
           { "form" : "cured",
             "weight" : "1",
-            "pos" : 270,
+            "pos" : 265,
             "context" : "...to be primarily composed of formerly afflicted vampires who have been <mark>cured<\/mark> of the disease. According to legend, the vampire Hunters...",
             "fid" : "content" },
           
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 278,
+            "pos" : 273,
             "context" : "...According to legend, the vampire Hunters refuse to reveal the <mark>cure<\/mark> to the disease for fear that it may encourage depraved thrill...",
             "fid" : "content" },
           
           { "form" : "cured",
             "weight" : "1",
-            "pos" : 299,
+            "pos" : 294,
             "context" : "...be incurable, and even if it were curable, a <mark>cured<\/mark> vampire would be an abomination to be destroyed. Since the...",
             "fid" : "content" },
           
           { "form" : "cured",
             "weight" : "1",
-            "pos" : 307,
+            "pos" : 302,
             "context" : "...an abomination to be destroyed. Since the disease is infallibly <mark>cured<\/mark> if treated within three days, failure to treat oneself after...",
             "fid" : "content" },
           
           { "form" : "cured",
             "weight" : "1",
-            "pos" : 399,
+            "pos" : 394,
             "context" : "...Armiger of former years named Galur Rithari insisted that he was <mark>cured<\/mark> of vampirism. Initially imprisoned by the Temple for heresy,...",
             "fid" : "content" } ] },
       
@@ -50,19 +50,19 @@
         [ 
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 189,
+            "pos" : 184,
             "context" : "..., master of all alchemy and potions, and able to <mark>cure<\/mark> all diseases. Lord Vivec looked upon this wizard, and...",
             "fid" : "content" },
           
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 202,
+            "pos" : 197,
             "context" : "...asked him, \"How can you pretend to prescribe for others the <mark>cure<\/mark> to all diseases, when you are unable to cure yourself...",
             "fid" : "content" },
           
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : "...the cure to all diseases, when you are unable to <mark>cure<\/mark> yourself of your own manifest arrogance and foolishness?\" ",
             "fid" : "content" } ] },
       
@@ -73,13 +73,13 @@
         [ 
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 394,
+            "pos" : 389,
             "context" : "...may pray at Imperial cult healing altars and receive blessings which <mark>cure<\/mark> common and blight diseases, cure poisons, and restore damaged...",
             "fid" : "content" },
           
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 398,
+            "pos" : 393,
             "context" : "...altars and receive blessings which cure common and blight diseases, <mark>cure<\/mark> poisons, and restore damaged attributes. Non-members pay...",
             "fid" : "content" } ] },
       
@@ -90,13 +90,13 @@
         [ 
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "...agent of that Daedra Lord, offered me a chance to <mark>cure<\/mark> myself of vampirism, in return for a favor. However...",
             "fid" : "content" },
           
           { "form" : "cured",
             "weight" : "1",
-            "pos" : 113,
+            "pos" : 108,
             "context" : "...no hope for my soul or spirit unless I might be <mark>cured<\/mark>, I undertook his quest.",
             "fid" : "content" } ] },
       
@@ -107,25 +107,15 @@
         [ 
           { "form" : "cured",
             "weight" : "1",
-            "pos" : 434,
+            "pos" : 429,
             "context" : "...his perished followers, breathed life into their lungs, and <mark>cured<\/mark> them of the blight. This is Vivec's heroism -- his...",
             "fid" : "content" },
           
           { "form" : "Cure",
             "weight" : "1",
-            "pos" : 461,
+            "pos" : 456,
             "context" : "...the shrine, it is customary to leave a potion of <mark>Cure<\/mark> Common Disease as a token of your respect for justice....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "cure",
-            "weight" : "1",
-            "pos" : 128,
-            "context" : "<mark>cure<\/mark>_common_disease" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -134,7 +124,7 @@
         [ 
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 310,
+            "pos" : 305,
             "context" : "<mark>cure<\/mark> common disease",
             "fid" : "items",
             "in" : 
@@ -147,7 +137,7 @@
         [ 
           { "form" : "cure",
             "weight" : "1",
-            "pos" : 174,
+            "pos" : 169,
             "context" : "To <mark>cure<\/mark> common diseases, combine gravedust and green lichen. gravedust is...",
             "fid" : "content" } ] },
       
@@ -158,6 +148,6 @@
         [ 
           { "form" : "cures",
             "weight" : "1",
-            "pos" : 124,
+            "pos" : 119,
             "context" : "All shrines grant <mark>cures<\/mark> of common diseases, of blight diseases, and of afflictions...",
             "fid" : "content" } ] } ] }

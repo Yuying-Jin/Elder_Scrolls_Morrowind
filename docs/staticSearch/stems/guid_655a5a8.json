@@ -9,32 +9,32 @@
         [ 
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "Capn's <mark>Guide<\/mark> to the Fishy Stick" },
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 63,
+            "pos" : 58,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn" },
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora" },
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "<mark>Guide<\/mark> to Vivec" },
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 65,
             "context" : "<mark>Guide<\/mark> to Vvardenfell" },
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 810,
+            "pos" : 805,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -42,7 +42,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 824,
+            "pos" : 819,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -50,7 +50,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 835,
+            "pos" : 830,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -58,7 +58,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 844,
+            "pos" : 839,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -66,7 +66,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 859,
+            "pos" : 854,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -74,7 +74,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 879,
+            "pos" : 874,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 12",
             "fid" : "loc",
             "in" : 
@@ -82,7 +82,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 887,
+            "pos" : 882,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 7",
             "fid" : "loc",
             "in" : 
@@ -90,7 +90,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 907,
+            "pos" : 902,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -98,7 +98,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 996,
+            "pos" : 991,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -106,7 +106,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1006,
+            "pos" : 1001,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -114,7 +114,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1013,
+            "pos" : 1008,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4",
             "fid" : "loc",
             "in" : 
@@ -122,7 +122,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1094,
+            "pos" : 1089,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -130,7 +130,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1116,
+            "pos" : 1111,
             "context" : "Capn's <mark>Guide<\/mark> to the Fishy Stick, count: 1",
             "fid" : "loc",
             "in" : 
@@ -138,7 +138,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1136,
+            "pos" : 1131,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -146,7 +146,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1175,
+            "pos" : 1170,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 7",
             "fid" : "loc",
             "in" : 
@@ -154,7 +154,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1178,
+            "pos" : 1173,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -162,7 +162,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1212,
+            "pos" : 1207,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 8",
             "fid" : "loc",
             "in" : 
@@ -170,7 +170,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1230,
+            "pos" : 1225,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 7",
             "fid" : "loc",
             "in" : 
@@ -178,7 +178,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1249,
+            "pos" : 1244,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -186,7 +186,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1274,
+            "pos" : 1269,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 8",
             "fid" : "loc",
             "in" : 
@@ -194,7 +194,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1277,
+            "pos" : 1272,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4",
             "fid" : "loc",
             "in" : 
@@ -202,7 +202,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1291,
+            "pos" : 1286,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -210,7 +210,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1295,
+            "pos" : 1290,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -218,7 +218,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1457,
+            "pos" : 1452,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 6",
             "fid" : "loc",
             "in" : 
@@ -226,7 +226,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1476,
+            "pos" : 1471,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -234,7 +234,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1488,
+            "pos" : 1483,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -242,7 +242,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1503,
+            "pos" : 1498,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4",
             "fid" : "loc",
             "in" : 
@@ -250,7 +250,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1531,
+            "pos" : 1526,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 5",
             "fid" : "loc",
             "in" : 
@@ -258,7 +258,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1534,
+            "pos" : 1529,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4",
             "fid" : "loc",
             "in" : 
@@ -266,7 +266,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1540,
+            "pos" : 1535,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -274,7 +274,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1593,
+            "pos" : 1588,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -282,7 +282,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1619,
+            "pos" : 1614,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -290,7 +290,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1639,
+            "pos" : 1634,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -298,7 +298,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1650,
+            "pos" : 1645,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3",
             "fid" : "loc",
             "in" : 
@@ -306,7 +306,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1653,
+            "pos" : 1648,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -314,7 +314,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1725,
+            "pos" : 1720,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3",
             "fid" : "loc",
             "in" : 
@@ -322,7 +322,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1781,
+            "pos" : 1776,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 4",
             "fid" : "loc",
             "in" : 
@@ -330,7 +330,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1784,
+            "pos" : 1779,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3",
             "fid" : "loc",
             "in" : 
@@ -338,7 +338,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1787,
+            "pos" : 1782,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -346,7 +346,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1864,
+            "pos" : 1859,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -354,7 +354,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1907,
+            "pos" : 1902,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -362,7 +362,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1925,
+            "pos" : 1920,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -370,7 +370,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1934,
+            "pos" : 1929,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -378,7 +378,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1941,
+            "pos" : 1936,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -386,7 +386,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1944,
+            "pos" : 1939,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -394,7 +394,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 1976,
+            "pos" : 1971,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -402,7 +402,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2027,
+            "pos" : 2022,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3",
             "fid" : "loc",
             "in" : 
@@ -410,7 +410,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2034,
+            "pos" : 2029,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -418,7 +418,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2106,
+            "pos" : 2101,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3",
             "fid" : "loc",
             "in" : 
@@ -426,7 +426,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2116,
+            "pos" : 2111,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -434,7 +434,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2125,
+            "pos" : 2120,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3",
             "fid" : "loc",
             "in" : 
@@ -442,7 +442,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2138,
+            "pos" : 2133,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 2",
             "fid" : "loc",
             "in" : 
@@ -450,7 +450,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2248,
+            "pos" : 2243,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -458,7 +458,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2275,
+            "pos" : 2270,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 2",
             "fid" : "loc",
             "in" : 
@@ -466,7 +466,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2298,
+            "pos" : 2293,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -474,7 +474,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2305,
+            "pos" : 2300,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 2",
             "fid" : "loc",
             "in" : 
@@ -482,7 +482,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2356,
+            "pos" : 2351,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 5",
             "fid" : "loc",
             "in" : 
@@ -490,7 +490,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2375,
+            "pos" : 2370,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 2",
             "fid" : "loc",
             "in" : 
@@ -498,7 +498,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2428,
+            "pos" : 2423,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -506,7 +506,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2506,
+            "pos" : 2501,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3",
             "fid" : "loc",
             "in" : 
@@ -514,7 +514,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2559,
+            "pos" : 2554,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -522,7 +522,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2562,
+            "pos" : 2557,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -530,7 +530,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2620,
+            "pos" : 2615,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 5",
             "fid" : "loc",
             "in" : 
@@ -538,7 +538,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2623,
+            "pos" : 2618,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 2",
             "fid" : "loc",
             "in" : 
@@ -546,7 +546,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2756,
+            "pos" : 2751,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 4",
             "fid" : "loc",
             "in" : 
@@ -554,7 +554,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2769,
+            "pos" : 2764,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 6",
             "fid" : "loc",
             "in" : 
@@ -562,7 +562,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2782,
+            "pos" : 2777,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -570,7 +570,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2789,
+            "pos" : 2784,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 4",
             "fid" : "loc",
             "in" : 
@@ -578,7 +578,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2855,
+            "pos" : 2850,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 4",
             "fid" : "loc",
             "in" : 
@@ -586,7 +586,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2949,
+            "pos" : 2944,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -594,7 +594,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 2956,
+            "pos" : 2951,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -602,7 +602,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3100,
+            "pos" : 3095,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 4",
             "fid" : "loc",
             "in" : 
@@ -610,7 +610,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3112,
+            "pos" : 3107,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 4",
             "fid" : "loc",
             "in" : 
@@ -618,7 +618,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3159,
+            "pos" : 3154,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 2",
             "fid" : "loc",
             "in" : 
@@ -626,7 +626,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3193,
+            "pos" : 3188,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 8",
             "fid" : "loc",
             "in" : 
@@ -634,7 +634,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3251,
+            "pos" : 3246,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -642,7 +642,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3299,
+            "pos" : 3294,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -650,7 +650,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3329,
+            "pos" : 3324,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 5",
             "fid" : "loc",
             "in" : 
@@ -658,7 +658,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3332,
+            "pos" : 3327,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 4",
             "fid" : "loc",
             "in" : 
@@ -666,7 +666,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3339,
+            "pos" : 3334,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -674,7 +674,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3557,
+            "pos" : 3552,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 4",
             "fid" : "loc",
             "in" : 
@@ -682,7 +682,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3572,
+            "pos" : 3567,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 3",
             "fid" : "loc",
             "in" : 
@@ -690,7 +690,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3600,
+            "pos" : 3595,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3",
             "fid" : "loc",
             "in" : 
@@ -698,7 +698,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3673,
+            "pos" : 3668,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -706,7 +706,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3680,
+            "pos" : 3675,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -714,7 +714,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3737,
+            "pos" : 3732,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 2",
             "fid" : "loc",
             "in" : 
@@ -722,7 +722,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3740,
+            "pos" : 3735,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -730,7 +730,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3800,
+            "pos" : 3795,
             "context" : "Capn's <mark>Guide<\/mark> to the Fishy Stick, count: 1",
             "fid" : "loc",
             "in" : 
@@ -738,7 +738,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3824,
+            "pos" : 3819,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -746,7 +746,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3859,
+            "pos" : 3854,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 2",
             "fid" : "loc",
             "in" : 
@@ -754,7 +754,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3862,
+            "pos" : 3857,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -762,7 +762,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3865,
+            "pos" : 3860,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -770,7 +770,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3917,
+            "pos" : 3912,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -778,7 +778,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3946,
+            "pos" : 3941,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -786,7 +786,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 3952,
+            "pos" : 3947,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -794,7 +794,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4008,
+            "pos" : 4003,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 5",
             "fid" : "loc",
             "in" : 
@@ -802,7 +802,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4078,
+            "pos" : 4073,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "loc",
             "in" : 
@@ -810,7 +810,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4109,
+            "pos" : 4104,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3",
             "fid" : "loc",
             "in" : 
@@ -818,7 +818,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4149,
+            "pos" : 4144,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -826,7 +826,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4189,
+            "pos" : 4184,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4",
             "fid" : "loc",
             "in" : 
@@ -834,7 +834,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4228,
+            "pos" : 4223,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -842,7 +842,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4235,
+            "pos" : 4230,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -850,7 +850,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4242,
+            "pos" : 4237,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -858,7 +858,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4301,
+            "pos" : 4296,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -866,7 +866,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4393,
+            "pos" : 4388,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "loc",
             "in" : 
@@ -874,7 +874,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4460,
+            "pos" : 4455,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 9",
             "fid" : "loc",
             "in" : 
@@ -882,7 +882,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4519,
+            "pos" : 4514,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -890,7 +890,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4522,
+            "pos" : 4517,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "loc",
             "in" : 
@@ -898,7 +898,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4587,
+            "pos" : 4582,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "loc",
             "in" : 
@@ -906,7 +906,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4755,
+            "pos" : 4750,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 20",
             "fid" : "loc",
             "in" : 
@@ -914,7 +914,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4776,
+            "pos" : 4771,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 3",
             "fid" : "loc",
             "in" : 
@@ -922,7 +922,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4786,
+            "pos" : 4781,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "loc",
             "in" : 
@@ -930,7 +930,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4861,
+            "pos" : 4856,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 6",
             "fid" : "loc",
             "in" : 
@@ -938,7 +938,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4918,
+            "pos" : 4913,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "group",
             "in" : 
@@ -946,7 +946,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 4979,
+            "pos" : 4974,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "group",
             "in" : 
@@ -954,7 +954,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5003,
+            "pos" : 4998,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 12",
             "fid" : "group",
             "in" : 
@@ -962,7 +962,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5168,
+            "pos" : 5163,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "group",
             "in" : 
@@ -970,7 +970,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5188,
+            "pos" : 5183,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "group",
             "in" : 
@@ -978,7 +978,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5196,
+            "pos" : 5191,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "group",
             "in" : 
@@ -986,7 +986,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5236,
+            "pos" : 5231,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3",
             "fid" : "group",
             "in" : 
@@ -994,7 +994,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5382,
+            "pos" : 5377,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "group",
             "in" : 
@@ -1002,7 +1002,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5526,
+            "pos" : 5521,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "group",
             "in" : 
@@ -1010,7 +1010,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5589,
+            "pos" : 5584,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 5",
             "fid" : "group",
             "in" : 
@@ -1018,7 +1018,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5607,
+            "pos" : 5602,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3",
             "fid" : "group",
             "in" : 
@@ -1026,7 +1026,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5664,
+            "pos" : 5659,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "group",
             "in" : 
@@ -1034,7 +1034,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5781,
+            "pos" : 5776,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "group",
             "in" : 
@@ -1042,7 +1042,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5803,
+            "pos" : 5798,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "group",
             "in" : 
@@ -1050,7 +1050,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5927,
+            "pos" : 5922,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "group",
             "in" : 
@@ -1058,7 +1058,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 5988,
+            "pos" : 5983,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2",
             "fid" : "group",
             "in" : 
@@ -1066,7 +1066,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6037,
+            "pos" : 6032,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 15",
             "fid" : "group",
             "in" : 
@@ -1074,7 +1074,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6359,
+            "pos" : 6354,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1082,7 +1082,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6365,
+            "pos" : 6360,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1090,7 +1090,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6385,
+            "pos" : 6380,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1098,7 +1098,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6404,
+            "pos" : 6399,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1106,7 +1106,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6417,
+            "pos" : 6412,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1114,7 +1114,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6424,
+            "pos" : 6419,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1122,7 +1122,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6494,
+            "pos" : 6489,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1130,7 +1130,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6525,
+            "pos" : 6520,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1138,7 +1138,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6581,
+            "pos" : 6576,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1146,7 +1146,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6585,
+            "pos" : 6580,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1154,7 +1154,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6588,
+            "pos" : 6583,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1162,7 +1162,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6619,
+            "pos" : 6614,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1170,7 +1170,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6626,
+            "pos" : 6621,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1178,7 +1178,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6634,
+            "pos" : 6629,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1186,7 +1186,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6641,
+            "pos" : 6636,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1194,7 +1194,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6653,
+            "pos" : 6648,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1202,7 +1202,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6659,
+            "pos" : 6654,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1210,7 +1210,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6667,
+            "pos" : 6662,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1218,7 +1218,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6674,
+            "pos" : 6669,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1226,7 +1226,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6682,
+            "pos" : 6677,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1234,7 +1234,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6716,
+            "pos" : 6711,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1242,7 +1242,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6758,
+            "pos" : 6753,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1250,7 +1250,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6787,
+            "pos" : 6782,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1258,7 +1258,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6794,
+            "pos" : 6789,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1266,7 +1266,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6827,
+            "pos" : 6822,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1274,7 +1274,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6916,
+            "pos" : 6911,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1282,7 +1282,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6940,
+            "pos" : 6935,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1290,7 +1290,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 6984,
+            "pos" : 6979,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1298,7 +1298,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7017,
+            "pos" : 7012,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1306,7 +1306,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7032,
+            "pos" : 7027,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1314,7 +1314,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7076,
+            "pos" : 7071,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3",
             "fid" : "persons",
             "in" : 
@@ -1322,7 +1322,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7170,
+            "pos" : 7165,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1330,7 +1330,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7185,
+            "pos" : 7180,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1338,7 +1338,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7216,
+            "pos" : 7211,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1346,7 +1346,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7237,
+            "pos" : 7232,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1354,7 +1354,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7259,
+            "pos" : 7254,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1362,7 +1362,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7272,
+            "pos" : 7267,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1370,7 +1370,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7279,
+            "pos" : 7274,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1378,7 +1378,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7330,
+            "pos" : 7325,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1386,7 +1386,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7507,
+            "pos" : 7502,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1394,7 +1394,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7523,
+            "pos" : 7518,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1402,7 +1402,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7542,
+            "pos" : 7537,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1410,7 +1410,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7575,
+            "pos" : 7570,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1418,7 +1418,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7583,
+            "pos" : 7578,
             "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1426,7 +1426,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7606,
+            "pos" : 7601,
             "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1434,7 +1434,7 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7644,
+            "pos" : 7639,
             "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1",
             "fid" : "persons",
             "in" : 
@@ -1442,906 +1442,11 @@
           
           { "form" : "Guide",
             "weight" : "1",
-            "pos" : 7676,
+            "pos" : 7671,
             "context" : "<mark>Guide<\/mark> to Vivec, count: 4",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 178,
-        "contexts" : 
-        [ 
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 633,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 647,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 658,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 667,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 680,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 695,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 12" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 703,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 7" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 744,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 812,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 822,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 862,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 915,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 944,
-            "context" : "Capn's <mark>Guide<\/mark> to the Fishy Stick, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 964,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1000,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 7" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1007,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1042,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 8" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1060,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 7" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1081,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1105,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 8" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1108,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1143,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1147,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1292,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 6" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1313,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1325,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1340,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1362,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 5" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1365,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1373,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1422,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1448,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1468,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1479,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1486,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1556,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1610,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1613,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1627,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1693,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1736,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1751,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1765,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1772,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1775,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1805,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1848,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1855,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1932,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1943,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1956,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 1968,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2081,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2108,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2128,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2135,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2186,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 5" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2207,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2262,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2340,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2390,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2393,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2449,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 5" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2452,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2587,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2600,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 6" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2608,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2615,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2686,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2780,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2787,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2927,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2939,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 2981,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3020,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 8" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3080,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3130,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3158,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 5" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3161,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3168,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3404,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3419,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3447,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3521,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3528,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3585,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3588,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3648,
-            "context" : "Capn's <mark>Guide<\/mark> to the Fishy Stick, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3665,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3678,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3681,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3684,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3720,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3745,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3755,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3807,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 5" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3865,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 3881,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4005,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4045,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 4" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4084,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4091,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4157,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4250,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4317,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 9" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4381,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4384,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4432,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4627,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 20" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4646,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4669,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4733,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 6" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4781,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4788,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4808,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4861,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 4880,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 12" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5022,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5042,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5050,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5185,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5369,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5381,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 5" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5408,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5532,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5561,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5705,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 2" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5759,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 15" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 5975,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6022,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6104,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6289,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6295,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6315,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6336,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6345,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6352,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6411,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6424,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6474,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6478,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6481,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6510,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6517,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6525,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6532,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6544,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6550,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6569,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6576,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6584,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6619,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6657,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6670,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6701,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6708,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6723,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6799,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6827,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6860,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6900,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6911,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 6927,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 3" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7045,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7064,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7084,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7112,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7138,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7147,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7154,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7215,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7384,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7403,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7436,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7444,
-            "context" : "<mark>Guide<\/mark> to Vvardenfell, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7462,
-            "context" : "<mark>Guide<\/mark> to Sadrith Mora, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7511,
-            "context" : "<mark>Guide<\/mark> to Ald'ruhn, count: 1" },
-          
-          { "form" : "Guide",
-            "weight" : "1",
-            "pos" : 7564,
-            "context" : "<mark>Guide<\/mark> to Vivec, count: 4" } ] },
       
       { "docId" : "librarium_Grasping_Fortune",
         "docUri" : "librarium\/Grasping_Fortune.html",
@@ -2350,7 +1455,7 @@
         [ 
           { "form" : "guide",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...a councilor of House Hlaalu and chose to write this short <mark>guide<\/mark> for those who seek to understand us or join us....",
             "fid" : "content" } ] },
       
@@ -2361,7 +1466,7 @@
         [ 
           { "form" : "guides",
             "weight" : "1",
-            "pos" : 354,
+            "pos" : 349,
             "context" : "...Balmora, Gnisis, Khuul, or Maar Gan.. Guild <mark>guides<\/mark> at the Mages Guild teleport you to Balmora, Vivec City...",
             "fid" : "content" } ] },
       
@@ -2372,6 +1477,6 @@
         [ 
           { "form" : "guide",
             "weight" : "1",
-            "pos" : 312,
+            "pos" : 307,
             "context" : "...you must rely on shipmasters at the docks or the guild <mark>guide<\/mark> at the Mages Guild. Gals Arethi at the docks offers...",
             "fid" : "content" } ] } ] }

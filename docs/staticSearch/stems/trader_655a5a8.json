@@ -9,58 +9,33 @@
         [ 
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "..., Honored Councilor of Hlaalu Council, Vvardenfell District, Free <mark>Trader<\/mark>, Lord of Omani Plantation, Elmas Island, East Vivec...",
             "fid" : "content" },
           
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "..., Honored Councilor of Hlaalu Council, Vvardenfell District, Free <mark>Trader<\/mark>, Gentleman of No Fixed Residence, Vivec, District of...",
             "fid" : "content" },
           
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "..., Honored Councilor of Hlaalu Council, Vvardenfell District, Free <mark>Trader<\/mark>, Curio Manor, Hlaalu Compound, Vivec, District of...",
             "fid" : "content" },
           
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 127,
+            "pos" : 122,
             "context" : "..., Honored Councilor of Hlaalu Council, Vvardenfell District, Free <mark>Trader<\/mark>, Yngling Manor, Canton of St. Olms, Vivec...",
             "fid" : "content" },
           
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "..., Honored Councilor of Hlaalu Council, Vvardenfell District, Free <mark>Trader<\/mark>, Ules Manor, Suran, Ascadian Isles, Bal Ur...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Trader",
-            "weight" : "1",
-            "pos" : 1499,
-            "context" : "Dagon Fel, Heifnir: <mark>Trader<\/mark>" },
-          
-          { "form" : "Trader",
-            "weight" : "1",
-            "pos" : 2960,
-            "context" : "Pelagiad,_Mebestien_Ence:_<mark>Trader<\/mark>" },
-          
-          { "form" : "Trader",
-            "weight" : "1",
-            "pos" : 3639,
-            "context" : "Suran,_Ralds_Oril:_<mark>Trader<\/mark>" },
-          
-          { "form" : "Trader",
-            "weight" : "1",
-            "pos" : 3770,
-            "context" : "Tel Mora, Berwen: <mark>Trader<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -69,7 +44,7 @@
         [ 
           { "form" : "trader",
             "weight" : "1",
-            "pos" : 1670,
+            "pos" : 1665,
             "context" : "dagon fel, heifnir: <mark>trader<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -77,7 +52,7 @@
           
           { "form" : "trader",
             "weight" : "1",
-            "pos" : 3135,
+            "pos" : 3130,
             "context" : "pelagiad, mebestien ence: <mark>trader<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -85,7 +60,7 @@
           
           { "form" : "trader",
             "weight" : "1",
-            "pos" : 3791,
+            "pos" : 3786,
             "context" : "suran, ralds oril: <mark>trader<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -93,7 +68,7 @@
           
           { "form" : "trader",
             "weight" : "1",
-            "pos" : 3971,
+            "pos" : 3966,
             "context" : "tel mora, berwen: <mark>trader<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -106,13 +81,13 @@
         [ 
           { "form" : "traders",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "...teleportation. The town is large, with many craftsmen, <mark>traders<\/mark>, and trainers, but it is open only to Telvanni...",
             "fid" : "content" },
           
           { "form" : "traders",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "...Gateway Inn is the Great Market, with numerous craftsmen and <mark>traders<\/mark>, and a small slave market. North of the Great...",
             "fid" : "content" } ] },
       
@@ -123,7 +98,7 @@
         [ 
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "Dagon Fel, Heifnir: <mark>Trader<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -134,7 +109,7 @@
         [ 
           { "form" : "trader",
             "weight" : "1",
-            "pos" : 198,
+            "pos" : 193,
             "context" : "...smaller selections, are available from the smith, clothier, <mark>trader<\/mark>, pawnbroker, and bookseller near the entrance to Ald'ruhn-Under-...",
             "fid" : "content" } ] },
       
@@ -145,7 +120,7 @@
         [ 
           { "form" : "traders",
             "weight" : "1",
-            "pos" : 127,
+            "pos" : 122,
             "context" : "...native Ashlanders, so the designations are recognized by most local <mark>traders<\/mark>, travelers, and adventurers. These geographic regions are called...",
             "fid" : "content" } ] },
       
@@ -156,7 +131,7 @@
         [ 
           { "form" : "trader",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "[from the correspondence of Cuseius Plecia, Imperial <mark>trader<\/mark>, writing from the Vos Tradehouse in Vvardenfell District, Province...",
             "fid" : "content" } ] },
       
@@ -167,7 +142,7 @@
         [ 
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 54,
             "context" : "Tel Mora, Berwen: <mark>Trader<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -178,7 +153,7 @@
         [ 
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "Pelagiad, Mebestien Ence: <mark>Trader<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -189,6 +164,6 @@
         [ 
           { "form" : "Trader",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "Suran, Ralds Oril: <mark>Trader<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

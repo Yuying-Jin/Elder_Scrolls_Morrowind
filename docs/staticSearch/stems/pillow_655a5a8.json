@@ -9,12 +9,12 @@
         [ 
           { "form" : "Pillow",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "Boethiah's <mark>Pillow<\/mark> Book" },
           
           { "form" : "Pillow",
             "weight" : "1",
-            "pos" : 873,
+            "pos" : 868,
             "context" : "Boethiah's <mark>Pillow<\/mark> Book, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,23 +22,8 @@
           
           { "form" : "Pillow",
             "weight" : "1",
-            "pos" : 1145,
+            "pos" : 1140,
             "context" : "Boethiah's <mark>Pillow<\/mark> Book, count: 1",
             "fid" : "loc",
             "in" : 
-            [ "ssCtx3" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Pillow",
-            "weight" : "1",
-            "pos" : 689,
-            "context" : "Boethiah's <mark>Pillow<\/mark> Book, count: 1" },
-          
-          { "form" : "Pillow",
-            "weight" : "1",
-            "pos" : 977,
-            "context" : "Boethiah's <mark>Pillow<\/mark> Book, count: 1" } ] } ] }
+            [ "ssCtx3" ] } ] } ] }

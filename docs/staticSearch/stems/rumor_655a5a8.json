@@ -9,13 +9,13 @@
         [ 
           { "form" : "rumors",
             "weight" : "1",
-            "pos" : 353,
+            "pos" : 348,
             "context" : "...Betony and the lawless times that followed. There are even <mark>rumors<\/mark> that King Gothryd of Daggerfall may institute the Imperial practice of...",
             "fid" : "content" },
           
           { "form" : "rumors",
             "weight" : "1",
-            "pos" : 431,
+            "pos" : 426,
             "context" : "...slaves that are purchased in Tear by Sload merchants and the <mark>rumors<\/mark> of Sload airships carrying corpses from Senchal.",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "Rumors",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "<mark>Rumors<\/mark> flow from the House of Troubles.",
             "fid" : "content" } ] } ] }

@@ -9,19 +9,9 @@
         [ 
           { "form" : "Vedam",
             "weight" : "1",
-            "pos" : 213,
+            "pos" : 208,
             "context" : "...of maritime trade. Castle Ebonheart is the home of Duke <mark>Vedam<\/mark> Dren, the district's ruler and Emperor's representative. Also located...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Vedam",
-            "weight" : "1",
-            "pos" : 6523,
-            "context" : "Duke <mark>Vedam<\/mark> Dren" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "vedam",
             "weight" : "1",
-            "pos" : 6632,
+            "pos" : 6627,
             "context" : "duke <mark>vedam<\/mark> dren",
             "fid" : "persons",
             "in" : 

@@ -9,36 +9,21 @@
         [ 
           { "form" : "Scribs",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "Sotha Sil and the <mark>Scribs<\/mark>",
             "fid" : "content" },
           
           { "form" : "scribs",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "...while playing in the egg mines, saw a number of <mark>scribs<\/mark> in a deep shaft, and he began to cast stones...",
             "fid" : "content" },
           
           { "form" : "scribs",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "...snickering as they skittered and scattered, until one of the <mark>scribs<\/mark>, lifting its head up in agony, cried out to...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Scrib",
-            "weight" : "1",
-            "pos" : 7166,
-            "context" : "&gt;Arnie the <mark>Scrib<\/mark>" },
-          
-          { "form" : "Scribs",
-            "weight" : "1",
-            "pos" : 7173,
-            "context" : "<mark>Scribs<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "scrib",
             "weight" : "1",
-            "pos" : 7291,
+            "pos" : 7286,
             "context" : "&gt;arnie the <mark>scrib<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "scribs",
             "weight" : "1",
-            "pos" : 7298,
+            "pos" : 7293,
             "context" : "<mark>scribs<\/mark>",
             "fid" : "persons",
             "in" : 

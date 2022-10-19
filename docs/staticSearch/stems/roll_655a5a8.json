@@ -9,13 +9,13 @@
         [ 
           { "form" : "Roll",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "<mark>Roll<\/mark>, Bretonnia, Roll",
             "fid" : "content" },
           
           { "form" : "Roll",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "Roll, Bretonnia, <mark>Roll<\/mark>",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "rolling",
             "weight" : "1",
-            "pos" : 483,
+            "pos" : 478,
             "context" : "...in the water. Still, it's only a matter of <mark>rolling<\/mark> and twisting the body like so. I'll demonstrate it if you...",
             "fid" : "content" } ] } ] }

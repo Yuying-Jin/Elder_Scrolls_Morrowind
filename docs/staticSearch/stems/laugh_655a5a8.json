@@ -9,13 +9,13 @@
         [ 
           { "form" : "laughed",
             "weight" : "1",
-            "pos" : 256,
+            "pos" : 251,
             "context" : "S'Riizh <mark>laughed<\/mark>: \"Do you want a rock?\"",
             "fid" : "content" },
           
           { "form" : "laughing",
             "weight" : "1",
-            "pos" : 375,
+            "pos" : 370,
             "context" : "\"You can walk!\" he said, <mark>laughing<\/mark>. \"It's a miracle!\"",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "laughed",
             "weight" : "1",
-            "pos" : 366,
+            "pos" : 361,
             "context" : "Imalyn <mark>laughed<\/mark> loudly, \"Can I see a demonstration sometime?\"",
             "fid" : "content" },
           
           { "form" : "laughing",
             "weight" : "1",
-            "pos" : 679,
+            "pos" : 674,
             "context" : "...the Plot and Plaster. He could see them now, Imalyn <mark>laughing<\/mark> and carrying on, Galsiah hushing him to avoid bringing undue attention...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "laugh",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...your finery, but no place to go? Do you <mark>laugh<\/mark> and cry, but no longer feel? Do you wear...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "laugh",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...trouble, a sweet thing with curly locks and a joyous <mark>laugh<\/mark> named Benitah Gorgoth. Once when at play he had pushed...",
             "fid" : "content" } ] } ] }

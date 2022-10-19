@@ -9,7 +9,7 @@
         [ 
           { "form" : "huts",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "...are typically centered on Temple compounds and their courtyards, with <mark>huts<\/mark> and tradehouses gathered around a central plaza, as in the...",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "hut",
             "weight" : "1",
-            "pos" : 957,
+            "pos" : 952,
             "context" : "...tribe has a permanent settlement at Erabenimsun camp, an isolated <mark>hut<\/mark> settlement in the middle of the desolate Molag Amur region....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Hut",
-            "weight" : "1",
-            "pos" : 4752,
-            "context" : "Yeherradad's_<mark>Hut<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "hut",
             "weight" : "1",
-            "pos" : 4880,
+            "pos" : 4875,
             "context" : "yeherradad's <mark>hut<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -54,6 +44,6 @@
         [ 
           { "form" : "Hut",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "Yeherradad's <mark>Hut<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

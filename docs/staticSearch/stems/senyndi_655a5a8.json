@@ -9,37 +9,27 @@
         [ 
           { "form" : "Senyndie",
             "weight" : "1",
-            "pos" : 172,
+            "pos" : 167,
             "context" : "\"Master <mark>Senyndie<\/mark>? Ah, Mighty Gothren, she hails from the Alik'r...",
             "fid" : "content" },
           
           { "form" : "Senyndie",
             "weight" : "1",
-            "pos" : 371,
+            "pos" : 366,
             "context" : "..., Jereth, and I formed a pyramid to give Master <mark>Senyndie<\/mark> a boost up to the tower of Tel Naga. She...",
             "fid" : "content" },
           
           { "form" : "Senyndie's",
             "weight" : "1",
-            "pos" : 391,
+            "pos" : 386,
             "context" : "...these Telvanni mushrooms is practically a ladder to someone of Master <mark>Senyndie's<\/mark> skills. In a few minutes' time, she was in...",
             "fid" : "content" },
           
           { "form" : "Senyndie",
             "weight" : "1",
-            "pos" : 593,
+            "pos" : 588,
             "context" : "...as nice as a third rate show in Rihad,\" said <mark>Senyndie<\/mark> as they took their rooms a few hours later. \"Why...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Senyndie",
-            "weight" : "1",
-            "pos" : 7199,
-            "context" : "Master <mark>Senyndie<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -48,7 +38,7 @@
         [ 
           { "form" : "senyndie",
             "weight" : "1",
-            "pos" : 7314,
+            "pos" : 7309,
             "context" : "master <mark>senyndie<\/mark>",
             "fid" : "persons",
             "in" : 

@@ -2,16 +2,6 @@
   { "stem" : "somnalius",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "somnalius",
-            "weight" : "1",
-            "pos" : 504,
-            "context" : "<mark>somnalius<\/mark> fern" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "somnalius",
             "weight" : "1",
-            "pos" : 674,
+            "pos" : 669,
             "context" : "<mark>somnalius<\/mark> fern",
             "fid" : "items",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Somnalius",
             "weight" : "1",
-            "pos" : 277,
+            "pos" : 272,
             "context" : "The <mark>Somnalius<\/mark> Fern can be found in the swamps of Black Marsh....",
             "fid" : "content" } ] } ] }

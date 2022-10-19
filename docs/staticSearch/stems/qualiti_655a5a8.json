@@ -9,13 +9,13 @@
         [ 
           { "form" : "quality",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 118,
             "context" : "...look like you're very interested, but do not mock the <mark>quality<\/mark> of the goods, even if they deserve it. Much better...",
             "fid" : "content" },
           
           { "form" : "quality",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : "..., even if they deserve it. Much better to admire the <mark>quality<\/mark> of workmanship, but comment that, regretfully, you simply cannot...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "qualities",
             "weight" : "1",
-            "pos" : 331,
+            "pos" : 326,
             "context" : "...Knowledge of enchantments and the gift of diplomatic speech are other <mark>qualities<\/mark> we value in our initiates.",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "quality",
             "weight" : "1",
-            "pos" : 183,
+            "pos" : 178,
             "context" : "...Guild are near the South Gate. Pricy but high-<mark>quality<\/mark> clothier, alchemist, and enchanter shops are under Skar as...",
             "fid" : "content" } ] } ] }

@@ -9,25 +9,15 @@
         [ 
           { "form" : "kanet",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...he had grown an impressive garden of willow anther, gold <mark>kanet<\/mark>, chokeweed, white bloatroot, and trama shrubs. He...",
             "fid" : "content" },
           
           { "form" : "kanet",
             "weight" : "1",
-            "pos" : 552,
+            "pos" : 547,
             "context" : "...in return, I want your next season's worth of gold <mark>kanet<\/mark>, all to myself.\"",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "kanet",
-            "weight" : "1",
-            "pos" : 242,
-            "context" : "gold_<mark>kanet<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "kanet",
             "weight" : "1",
-            "pos" : 423,
+            "pos" : 418,
             "context" : "gold <mark>kanet<\/mark>",
             "fid" : "items",
             "in" : 

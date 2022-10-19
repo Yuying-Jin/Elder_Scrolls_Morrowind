@@ -2,16 +2,6 @@
   { "stem" : "univers",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "University",
-            "weight" : "1",
-            "pos" : 4237,
-            "context" : "<mark>University<\/mark> of Gwylim" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "university",
             "weight" : "1",
-            "pos" : 4380,
+            "pos" : 4375,
             "context" : "<mark>university<\/mark> of gwylim",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "University",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "..., I used to teach the skills of Illusion at the <mark>University<\/mark> of Gwylim.”",
             "fid" : "content" } ] } ] }

@@ -9,37 +9,27 @@
         [ 
           { "form" : "Papré",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 54,
             "context" : "...the bowells of the Battlespire, where I will mount Dragonne <mark>Papré<\/mark>, my Dragon companion. From his lair, we will...",
             "fid" : "content" },
           
           { "form" : "Papré",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...Gate has been taken, teleportation is not possible. Only <mark>Papré<\/mark> can make such a journey to the Imperial Palace. There,...",
             "fid" : "content" },
           
           { "form" : "Papré",
             "weight" : "1",
-            "pos" : 94,
+            "pos" : 89,
             "context" : "...come to find. They have sealed the main gate so <mark>Papré<\/mark> could not escape. I am not sorrowful though, for...",
             "fid" : "content" },
           
           { "form" : "Papré",
             "weight" : "1",
-            "pos" : 102,
+            "pos" : 97,
             "context" : "...sorrowful though, for I will be eternally reunited with Dragonne <mark>Papré<\/mark>. Hope for the living is lost. My name is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Papré",
-            "weight" : "1",
-            "pos" : 7022,
-            "context" : "Dragonne <mark>Papré<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -48,7 +38,7 @@
         [ 
           { "form" : "papré",
             "weight" : "1",
-            "pos" : 7147,
+            "pos" : 7142,
             "context" : "dragonne <mark>papré<\/mark>",
             "fid" : "persons",
             "in" : 

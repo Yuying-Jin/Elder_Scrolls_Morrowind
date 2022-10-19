@@ -2,16 +2,6 @@
   { "stem" : "saviour",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "saviour's",
-            "weight" : "1",
-            "pos" : 15,
-            "context" : "armor of the <mark>saviour's<\/mark> hide:" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "saviour's",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : "armor of the <mark>saviour's<\/mark> hide:",
             "fid" : "items",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Saviour's",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 115,
             "context" : "Armor of the <mark>Saviour's<\/mark> Hide:",
             "fid" : "armorofthesaviourshide:" } ] } ] }

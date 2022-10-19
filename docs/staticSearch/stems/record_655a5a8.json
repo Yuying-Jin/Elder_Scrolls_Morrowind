@@ -2,36 +2,6 @@
   { "stem" : "record",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 5,
-        "contexts" : 
-        [ 
-          { "form" : "Records",
-            "weight" : "1",
-            "pos" : 2127,
-            "context" : "Hall of <mark>Records<\/mark>" },
-          
-          { "form" : "Records",
-            "weight" : "1",
-            "pos" : 2218,
-            "context" : "Hlaalu <mark>Records<\/mark>" },
-          
-          { "form" : "Records",
-            "weight" : "1",
-            "pos" : 4483,
-            "context" : "Vivec, Hlaalu <mark>Records<\/mark>" },
-          
-          { "form" : "Records",
-            "weight" : "1",
-            "pos" : 4499,
-            "context" : "Vivec, Redoran <mark>Records<\/mark>" },
-          
-          { "form" : "Records",
-            "weight" : "1",
-            "pos" : 4570,
-            "context" : "Vivec,_Hlaalu_<mark>Records<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 4,
@@ -39,7 +9,7 @@
         [ 
           { "form" : "records",
             "weight" : "1",
-            "pos" : 2297,
+            "pos" : 2292,
             "context" : "hall of <mark>records<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -47,7 +17,7 @@
           
           { "form" : "records",
             "weight" : "1",
-            "pos" : 2386,
+            "pos" : 2381,
             "context" : "hlaalu <mark>records<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -55,7 +25,7 @@
           
           { "form" : "records",
             "weight" : "1",
-            "pos" : 4652,
+            "pos" : 4647,
             "context" : "vivec, hlaalu <mark>records<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -63,7 +33,7 @@
           
           { "form" : "records",
             "weight" : "1",
-            "pos" : 4673,
+            "pos" : 4668,
             "context" : "vivec, redoran <mark>records<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -76,19 +46,19 @@
         [ 
           { "form" : "records",
             "weight" : "1",
-            "pos" : 309,
+            "pos" : 304,
             "context" : "...-top mansion here. The tiers below contain Hlaalu treasuries, <mark>records<\/mark>, holding cells, and various Great House services. There...",
             "fid" : "content" },
           
           { "form" : "records",
             "weight" : "1",
-            "pos" : 375,
+            "pos" : 370,
             "context" : ".... The administrative center includes a treasury and a hall of <mark>records<\/mark>. Slaves are housed in the lowest tiers, along with...",
             "fid" : "content" },
           
           { "form" : "Records",
             "weight" : "1",
-            "pos" : 414,
+            "pos" : 409,
             "context" : "...Redoran administrative center there includes the Redoran Treasury, Hall of <mark>Records<\/mark>, and Holding Cells. On the lowest tier is a...",
             "fid" : "content" } ] },
       
@@ -99,13 +69,13 @@
         [ 
           { "form" : "Records",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "Hlaalu <mark>Records<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Records",
             "weight" : "1",
-            "pos" : 113,
+            "pos" : 108,
             "context" : "Redoran <mark>Records<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -116,13 +86,13 @@
         [ 
           { "form" : "Records",
             "weight" : "1",
-            "pos" : 118,
+            "pos" : 113,
             "context" : "Vivec, Hlaalu <mark>Records<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Records",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "Vivec, Redoran <mark>Records<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -133,13 +103,13 @@
         [ 
           { "form" : "Records",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "Vivec, Hlaalu <mark>Records<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "records",
             "weight" : "1",
-            "pos" : 384,
+            "pos" : 379,
             "context" : "...controls access to the only substantial collection of historical and cultural <mark>records<\/mark> in Morrowind....",
             "fid" : "content" } ] },
       
@@ -150,7 +120,7 @@
         [ 
           { "form" : "records",
             "weight" : "1",
-            "pos" : 148,
+            "pos" : 143,
             "context" : "...The name Arkay will be stuck [sic] from the <mark>records<\/mark>. Only I shall hold sway over life and death....",
             "fid" : "content" } ] },
       
@@ -161,7 +131,7 @@
         [ 
           { "form" : "Records",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Hlaalu <mark>Records<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -172,7 +142,7 @@
         [ 
           { "form" : "recorded",
             "weight" : "1",
-            "pos" : 336,
+            "pos" : 331,
             "context" : "...are genuine, and have made a systematic study of prophecies <mark>recorded<\/mark> in Temple archives.",
             "fid" : "content" } ] },
       
@@ -183,6 +153,6 @@
         [ 
           { "form" : "recorded",
             "weight" : "1",
-            "pos" : 336,
+            "pos" : 331,
             "context" : "...are genuine, and have made a systematic study of prophecies <mark>recorded<\/mark> in Temple archives.",
             "fid" : "content" } ] } ] }

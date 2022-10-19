@@ -9,53 +9,33 @@
         [ 
           { "form" : "Meat",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "Crab <mark>Meat<\/mark> and Scuttle",
             "fid" : "content" },
           
           { "form" : "meat",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "the <mark>meat<\/mark> of one mudcrab (two portions)",
             "fid" : "content" },
           
           { "form" : "meat",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "1 pound of ground <mark>meat<\/mark> (mixed rat and hound)",
             "fid" : "content" },
           
           { "form" : "meat",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : "Cook the mixed <mark>meat<\/mark> in a pan over an open flame. When the meat...",
             "fid" : "content" },
           
           { "form" : "meat",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...meat in a pan over an open flame. When the <mark>meat<\/mark> begins to brown, add the saltrice. Stir for a...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "meat",
-            "weight" : "1",
-            "pos" : 115,
-            "context" : "crab <mark>meat<\/mark>" },
-          
-          { "form" : "meat",
-            "weight" : "1",
-            "pos" : 414,
-            "context" : "nix-hound <mark>meat<\/mark>" },
-          
-          { "form" : "meat",
-            "weight" : "1",
-            "pos" : 436,
-            "context" : "rat <mark>meat<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -64,7 +44,7 @@
         [ 
           { "form" : "meat",
             "weight" : "1",
-            "pos" : 297,
+            "pos" : 292,
             "context" : "crab <mark>meat<\/mark>",
             "fid" : "items",
             "in" : 
@@ -72,7 +52,7 @@
           
           { "form" : "meat",
             "weight" : "1",
-            "pos" : 584,
+            "pos" : 579,
             "context" : "nix hound <mark>meat<\/mark>",
             "fid" : "items",
             "in" : 
@@ -80,7 +60,7 @@
           
           { "form" : "meat",
             "weight" : "1",
-            "pos" : 606,
+            "pos" : 601,
             "context" : "rat <mark>meat<\/mark>",
             "fid" : "items",
             "in" : 
@@ -93,6 +73,6 @@
         [ 
           { "form" : "meat",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : "...exertion, combine two or more of the following: crab <mark>meat<\/mark>, bread, small kwama egg, and chokeweed. Crabmeat...",
             "fid" : "content" } ] } ] }

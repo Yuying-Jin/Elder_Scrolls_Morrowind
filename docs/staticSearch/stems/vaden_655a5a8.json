@@ -2,16 +2,6 @@
   { "stem" : "vaden",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Vaden",
-            "weight" : "1",
-            "pos" : 3336,
-            "context" : "Sadrith_Mora,_<mark>Vaden<\/mark>_Belas'_House" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "vaden",
             "weight" : "1",
-            "pos" : 3489,
+            "pos" : 3484,
             "context" : "sadrith mora, <mark>vaden<\/mark> belas' house",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Vaden",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Sadrith Mora, <mark>Vaden<\/mark> Belas' House: Visitable? yes",
             "fid" : "acq" } ] } ] }

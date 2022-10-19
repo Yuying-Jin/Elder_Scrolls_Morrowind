@@ -2,26 +2,6 @@
   { "stem" : "curio",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Curio",
-            "weight" : "1",
-            "pos" : 1453,
-            "context" : "<mark>Curio<\/mark> Manor" },
-          
-          { "form" : "Curio",
-            "weight" : "1",
-            "pos" : 4447,
-            "context" : "Vivec, <mark>Curio<\/mark> Manor" },
-          
-          { "form" : "Curio",
-            "weight" : "1",
-            "pos" : 6419,
-            "context" : "Crassius <mark>Curio<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "curio",
             "weight" : "1",
-            "pos" : 1624,
+            "pos" : 1619,
             "context" : "<mark>curio<\/mark> manor",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "curio",
             "weight" : "1",
-            "pos" : 4611,
+            "pos" : 4606,
             "context" : "vivec, <mark>curio<\/mark> manor",
             "fid" : "loc",
             "in" : 
@@ -45,7 +25,7 @@
           
           { "form" : "curio",
             "weight" : "1",
-            "pos" : 6524,
+            "pos" : 6519,
             "context" : "crassius <mark>curio<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -58,19 +38,19 @@
         [ 
           { "form" : "Curio",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "Vivec, <mark>Curio<\/mark> Manor: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Curio",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "Master Crassius <mark>Curio<\/mark>, by Grace of Almsivi, Honored Councilor of Hlaalu Council...",
             "fid" : "content" },
           
           { "form" : "Curio",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "...Councilor of Hlaalu Council, Vvardenfell District, Free Trader, <mark>Curio<\/mark> Manor, Hlaalu Compound, Vivec, District of Vvardenfell,...",
             "fid" : "content" } ] },
       
@@ -81,6 +61,6 @@
         [ 
           { "form" : "Curio",
             "weight" : "1",
-            "pos" : 299,
+            "pos" : 294,
             "context" : "...Hlaalu Compound is the westmost canton. The Hlaalu Councilor Crassius <mark>Curio<\/mark> has a splendid tier-top mansion here. The tiers below...",
             "fid" : "content" } ] } ] }

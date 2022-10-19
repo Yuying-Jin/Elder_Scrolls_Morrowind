@@ -2,16 +2,6 @@
   { "stem" : "dragon",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "dragon's",
-            "weight" : "1",
-            "pos" : 172,
-            "context" : "<mark>dragon's<\/mark>-tongue" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "dragon's",
             "weight" : "1",
-            "pos" : 353,
+            "pos" : 348,
             "context" : "<mark>dragon's<\/mark> tongue",
             "fid" : "items",
             "in" : 
@@ -32,7 +22,7 @@
         [ 
           { "form" : "Dragon's",
             "weight" : "1",
-            "pos" : 141,
+            "pos" : 136,
             "context" : "<mark>Dragon's<\/mark>-Tongue, common name for a fern like herb found...",
             "fid" : "content" } ] },
       
@@ -43,6 +33,6 @@
         [ 
           { "form" : "Dragon",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "...the Battlespire, where I will mount Dragonne Papré, my <mark>Dragon<\/mark> companion. From his lair, we will take flight....",
             "fid" : "content" } ] } ] }

@@ -9,37 +9,37 @@
         [ 
           { "form" : "join",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "And I tell them, \"You want to <mark>join<\/mark> the Guild. Make friends. Be a part of something...",
             "fid" : "content" },
           
           { "form" : "join",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "\"But who can <mark>join<\/mark>?\" they ask.",
             "fid" : "content" },
           
           { "form" : "join",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "...competition is the Camonna Tong. And you don't want to <mark>join<\/mark> them, because they don't want you and they're not very nice...",
             "fid" : "content" },
           
           { "form" : "join",
             "weight" : "1",
-            "pos" : 166,
+            "pos" : 161,
             "context" : "...your ambition is to be dead, you don't want to <mark>join<\/mark> them.",
             "fid" : "content" },
           
           { "form" : "join",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : ".... You want to be good people, right? So <mark>join<\/mark> the Thieves Guild, and stay far, far away from...",
             "fid" : "content" },
           
           { "form" : "join",
             "weight" : "1",
-            "pos" : 203,
+            "pos" : 198,
             "context" : "So you want to <mark>join<\/mark>. But where do you look?",
             "fid" : "content" } ] },
       
@@ -50,13 +50,13 @@
         [ 
           { "form" : "joining",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "...who are unfamiliar with the Tribunal Temple, and interested in <mark>joining<\/mark>.",
             "fid" : "content" },
           
           { "form" : "joining",
             "weight" : "1",
-            "pos" : 113,
+            "pos" : 108,
             "context" : "Those interested in <mark>joining<\/mark> the Tribunal Temple should speak to priests at the temples in...",
             "fid" : "content" } ] },
       
@@ -67,13 +67,13 @@
         [ 
           { "form" : "join",
             "weight" : "1",
-            "pos" : 195,
+            "pos" : 190,
             "context" : " How can I <mark>join<\/mark> the Imperial cult?",
             "fid" : "content" },
           
           { "form" : "join",
             "weight" : "1",
-            "pos" : 236,
+            "pos" : 231,
             "context" : " Those who wish to <mark>join<\/mark> the Imperial cult in Vvardenfell will find a warm welcome from...",
             "fid" : "content" } ] },
       
@@ -84,13 +84,13 @@
         [ 
           { "form" : "join",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...this short guide for those who seek to understand us or <mark>join<\/mark> us. House Hlaalu is the most open and modern of...",
             "fid" : "content" },
           
           { "form" : "join",
             "weight" : "1",
-            "pos" : 257,
+            "pos" : 252,
             "context" : "Then, reader, would you seize this opportunity to <mark>join<\/mark> House Hlaalu? Would you have yourself be counted among the...",
             "fid" : "content" } ] },
       
@@ -101,6 +101,6 @@
         [ 
           { "form" : "joined",
             "weight" : "1",
-            "pos" : 214,
+            "pos" : 209,
             "context" : "Then the Barons and the Demiprince <mark>joined<\/mark> together into a pillar of fighting styles terrible to behold and...",
             "fid" : "content" } ] } ] }

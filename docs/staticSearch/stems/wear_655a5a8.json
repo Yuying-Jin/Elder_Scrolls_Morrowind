@@ -9,7 +9,7 @@
         [ 
           { "form" : "wears",
             "weight" : "1",
-            "pos" : 215,
+            "pos" : 210,
             "context" : "...magical abilities to enhance the appearance of anyone who carries or <mark>wears<\/mark> one of the flowers.",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "wear",
             "weight" : "1",
-            "pos" : 176,
+            "pos" : 171,
             "context" : "...wearer exceptionally vulnerable to magical attacks, so one should only <mark>wear<\/mark> it for particular occasions.",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "wear",
             "weight" : "1",
-            "pos" : 94,
+            "pos" : 89,
             "context" : "...laugh and cry, but no longer feel? Do you <mark>wear<\/mark> these masks? Then, perhaps, your oath and service may...",
             "fid" : "content" } ] } ] }

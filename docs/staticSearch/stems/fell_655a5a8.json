@@ -9,13 +9,13 @@
         [ 
           { "form" : "Fell",
             "weight" : "1",
-            "pos" : 636,
+            "pos" : 631,
             "context" : " Bal <mark>Fell<\/mark> is the \"City of Stone,\" an ancient First Era ruin...",
             "fid" : "content" },
           
           { "form" : "Fell",
             "weight" : "1",
-            "pos" : 664,
+            "pos" : 659,
             "context" : "...hirelings and adventurers exploring and looting there. Legend says that Bal <mark>Fell<\/mark> was built on the site of an ancient Daedric worship center...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "fell",
             "weight" : "1",
-            "pos" : 157,
+            "pos" : 152,
             "context" : "...nobles in Gnisis, and Serjo Benitah Gorgoth. His heart <mark>fell<\/mark>. She had found another, a mere nine years since...",
             "fid" : "content" },
           
           { "form" : "fell",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : "Not long afterwards, Sedura Indoril Pavflek Mamoona <mark>fell<\/mark> ill and died, despite all the skills of the great...",
             "fid" : "content" } ] },
       
@@ -43,19 +43,9 @@
         [ 
           { "form" : "fell",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "...war comes. I return now to haunt the warriors who <mark>fell<\/mark> and still wonder why. But first I show you this.'",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Fell",
-            "weight" : "1",
-            "pos" : 1080,
-            "context" : "Bal <mark>Fell<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -64,7 +54,7 @@
         [ 
           { "form" : "fell",
             "weight" : "1",
-            "pos" : 1248,
+            "pos" : 1243,
             "context" : "bal <mark>fell<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -77,7 +67,7 @@
         [ 
           { "form" : "felled",
             "weight" : "1",
-            "pos" : 44,
+            "pos" : 39,
             "context" : "...was a cruel blow, a bitter betrayal, to be <mark>felled<\/mark> by your hand.",
             "fid" : "content" } ] },
       
@@ -88,7 +78,7 @@
         [ 
           { "form" : "fell",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "...a crude shelter, weaving the sand weeds. As night <mark>fell<\/mark> on the small island, the two men discussed the smuggling...",
             "fid" : "content" } ] },
       
@@ -99,7 +89,7 @@
         [ 
           { "form" : "fell",
             "weight" : "1",
-            "pos" : 426,
+            "pos" : 421,
             "context" : "...strength, timing, and tactics as the moons rose and <mark>fell<\/mark> from the sky. But on the seventh day, as...",
             "fid" : "content" } ] },
       
@@ -110,6 +100,6 @@
         [ 
           { "form" : "fell",
             "weight" : "1",
-            "pos" : 470,
+            "pos" : 465,
             "context" : "...vault in his unique and systematic method. As the tumblers <mark>fell<\/mark> beneath his fingers, he softly sang an old dirty tavern...",
             "fid" : "content" } ] } ] }

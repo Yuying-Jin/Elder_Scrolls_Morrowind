@@ -9,12 +9,12 @@
         [ 
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "<mark>Galur<\/mark> Rithari Papers" },
           
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 1256,
+            "pos" : 1251,
             "context" : "<mark>Galur<\/mark> Rithari Papers, count: 2",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 1699,
+            "pos" : 1694,
             "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 2010,
+            "pos" : 2005,
             "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 2278,
+            "pos" : 2273,
             "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 2536,
+            "pos" : 2531,
             "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 5061,
+            "pos" : 5056,
             "context" : "<mark>Galur<\/mark> Rithari Papers, count: 1",
             "fid" : "group",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 6445,
+            "pos" : 6440,
             "context" : "<mark>Galur<\/mark> Rithari Papers, count: 3",
             "fid" : "persons",
             "in" : 
@@ -70,21 +70,11 @@
           
           { "form" : "galur",
             "weight" : "1",
-            "pos" : 7222,
+            "pos" : 7217,
             "context" : "<mark>galur<\/mark> rithari",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Galur",
-            "weight" : "1",
-            "pos" : 7090,
-            "context" : "<mark>Galur<\/mark> Rithari" } ] },
       
       { "docId" : "librarium_Vampires_of_Vvardenfell",
         "docUri" : "librarium\/Vampires_of_Vvardenfell.html",
@@ -93,6 +83,6 @@
         [ 
           { "form" : "Galur",
             "weight" : "1",
-            "pos" : 396,
+            "pos" : 391,
             "context" : "...disease is incurable, a Buoyant Armiger of former years named <mark>Galur<\/mark> Rithari insisted that he was cured of vampirism. Initially imprisoned...",
             "fid" : "GalurRithari" } ] } ] }

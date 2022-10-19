@@ -9,37 +9,27 @@
         [ 
           { "form" : "Genevrah",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "When the Lady <mark>Genevrah<\/mark> was kidnapped from her estate and held for ransom, her...",
             "fid" : "Genevrah" },
           
           { "form" : "Genevrah",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : "...the eldest and most powerful brother Airen Coribael was holding Lady <mark>Genevrah<\/mark> personally. Each of his brothers guarded a different post along...",
             "fid" : "content" },
           
           { "form" : "Genevrah",
             "weight" : "1",
-            "pos" : 353,
+            "pos" : 348,
             "context" : "...there, guarding a squirming sack which Baranat assumed either contained Lady <mark>Genevrah<\/mark> or several large cats. The young adventurer quailed at the...",
             "fid" : "content" },
           
           { "form" : "Genevrah",
             "weight" : "1",
-            "pos" : 470,
+            "pos" : 465,
             "context" : "The young adventurer ran to open the sack where Lady <mark>Genevrah<\/mark> lay. His first surprise. She had a face like...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Genevrah",
-            "weight" : "1",
-            "pos" : 6602,
-            "context" : "<mark>Genevrah<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -48,7 +38,7 @@
         [ 
           { "form" : "genevrah",
             "weight" : "1",
-            "pos" : 6700,
+            "pos" : 6695,
             "context" : "<mark>genevrah<\/mark>",
             "fid" : "persons",
             "in" : 

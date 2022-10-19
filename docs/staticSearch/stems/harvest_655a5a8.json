@@ -9,13 +9,13 @@
         [ 
           { "form" : "harvest",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...poor farmer whose guar had died. The farmer could not <mark>harvest<\/mark> his muck without his guar, and he could not provide...",
             "fid" : "content" },
           
           { "form" : "harvested",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...the fields like a beast of burden until the crop was <mark>harvested<\/mark>. It is at the Fields of Kummu we go to...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "Harvest's",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Harvest's<\/mark> End, 3E 172",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "harvested",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "...Morrowind is usually baked from saltrice flour. Kwama eggs are <mark>harvested<\/mark> from egg mines, and sold everywhere in Morrowind; the...",
             "fid" : "content" } ] } ] }

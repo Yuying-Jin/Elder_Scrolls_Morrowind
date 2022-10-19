@@ -9,13 +9,13 @@
         [ 
           { "form" : "Bake",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "...a large bowl. Slowly stir in crabmeat and bittergreen. <mark>Bake<\/mark> covered in a hot over for one half hour to one...",
             "fid" : "content" },
           
           { "form" : "Bake",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : ".... Sprinkle with ash salts and cover the pie crust. <mark>Bake<\/mark> for one quarter hour in a hot oven.",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "baked",
             "weight" : "1",
-            "pos" : 147,
+            "pos" : 142,
             "context" : "...commonly found along all coasts. bread in Morrowind is usually <mark>baked<\/mark> from saltrice flour. Kwama eggs are harvested from egg mines...",
             "fid" : "content" } ] } ] }

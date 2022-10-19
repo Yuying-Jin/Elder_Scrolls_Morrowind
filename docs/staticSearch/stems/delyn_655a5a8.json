@@ -9,59 +9,39 @@
         [ 
           { "form" : "Delyn's",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 117,
             "context" : "...cross -- Redoran Compound northwest, Arena northeast, St. <mark>Delyn's<\/mark> Canton southwest, and St. Olms Canton southeast.",
             "fid" : "content" },
           
           { "form" : "Delyn",
             "weight" : "1",
-            "pos" : 341,
+            "pos" : 336,
             "context" : "...to maintain their residences in the less-formal St. <mark>Delyn<\/mark> and St. Olms cantons.",
             "fid" : "content" },
           
           { "form" : "Delyn",
             "weight" : "1",
-            "pos" : 480,
+            "pos" : 475,
             "context" : " St. <mark>Delyn<\/mark> and St. Olms Residential Cantons",
             "fid" : "content" },
           
           { "form" : "Delyn",
             "weight" : "1",
-            "pos" : 486,
+            "pos" : 481,
             "context" : " St. <mark>Delyn<\/mark> Canton and St. Olms Canton are residence cantons for commoners...",
             "fid" : "content" },
           
           { "form" : "Delyn",
             "weight" : "1",
-            "pos" : 511,
+            "pos" : 506,
             "context" : "...are housed in these cantons. The Abbey of St. <mark>Delyn<\/mark> the Wise is on the top tier of St. Delyn...",
             "fid" : "content" },
           
           { "form" : "Delyn",
             "weight" : "1",
-            "pos" : 516,
+            "pos" : 511,
             "context" : "...Delyn the Wise is on the top tier of St. <mark>Delyn<\/mark>, and Hlaalu Councilor Yngling Half-Troll has a top...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Delyn",
-            "weight" : "1",
-            "pos" : 4082,
-            "context" : "The Abbey of St. <mark>Delyn<\/mark> the Wise" },
-          
-          { "form" : "Delyn",
-            "weight" : "1",
-            "pos" : 6492,
-            "context" : "<mark>Delyn<\/mark>" },
-          
-          { "form" : "Delyn",
-            "weight" : "1",
-            "pos" : 7292,
-            "context" : "St.<mark>Delyn<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -70,7 +50,7 @@
         [ 
           { "form" : "delyn",
             "weight" : "1",
-            "pos" : 4226,
+            "pos" : 4221,
             "context" : "the abbey of st. <mark>delyn<\/mark> the wise",
             "fid" : "loc",
             "in" : 
@@ -78,7 +58,7 @@
           
           { "form" : "delyn",
             "weight" : "1",
-            "pos" : 6599,
+            "pos" : 6594,
             "context" : "<mark>delyn<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -86,7 +66,7 @@
           
           { "form" : "delyn",
             "weight" : "1",
-            "pos" : 7405,
+            "pos" : 7400,
             "context" : "st.<mark>delyn<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -99,13 +79,13 @@
         [ 
           { "form" : "Delyn",
             "weight" : "1",
-            "pos" : 182,
+            "pos" : 177,
             "context" : "St. <mark>Delyn<\/mark> grants Shield of St. Delyn, for resistance to blight...",
             "fid" : "content" },
           
           { "form" : "Delyn",
             "weight" : "1",
-            "pos" : 186,
+            "pos" : 181,
             "context" : "St. Delyn grants Shield of St. <mark>Delyn<\/mark>, for resistance to blight diseases.",
             "fid" : "content" } ] },
       
@@ -116,6 +96,6 @@
         [ 
           { "form" : "Delyn",
             "weight" : "1",
-            "pos" : 504,
+            "pos" : 499,
             "context" : "Saint <mark>Delyn<\/mark> the Wise watched the young adventurer from a cloud in the...",
             "fid" : "content" } ] } ] }

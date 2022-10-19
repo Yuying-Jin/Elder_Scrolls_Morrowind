@@ -2,26 +2,6 @@
   { "stem" : "trama",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "trama",
-            "weight" : "1",
-            "pos" : 552,
-            "context" : "<mark>trama<\/mark>_root" },
-          
-          { "form" : "trama",
-            "weight" : "1",
-            "pos" : 559,
-            "context" : "<mark>trama<\/mark>_shrub" },
-          
-          { "form" : "trama",
-            "weight" : "1",
-            "pos" : 566,
-            "context" : "<mark>trama<\/mark>_shrubs" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 726,
+            "pos" : 721,
             "context" : "<mark>trama<\/mark> root",
             "fid" : "items",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 733,
+            "pos" : 728,
             "context" : "<mark>trama<\/mark> shrub",
             "fid" : "items",
             "in" : 
@@ -45,7 +25,7 @@
           
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 740,
+            "pos" : 735,
             "context" : "<mark>trama<\/mark> shrubs",
             "fid" : "items",
             "in" : 
@@ -58,19 +38,19 @@
         [ 
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...anther, gold kanet, chokeweed, white bloatroot, and <mark>trama<\/mark> shrubs. He had also grown himself into a remarkably uninteresting...",
             "fid" : "content" },
           
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 141,
+            "pos" : 136,
             "context" : "...ago, he heard some people talking through the thick tall <mark>trama<\/mark> shrubs about the marriage of Sedura Indoril Pavflek Mamoona, one...",
             "fid" : "content" },
           
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 272,
+            "pos" : 267,
             "context" : "...\"But in return, I want your next season's worth of <mark>trama<\/mark> root, all to myself.\"",
             "fid" : "content" } ] },
       
@@ -81,13 +61,13 @@
         [ 
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 284,
+            "pos" : 279,
             "context" : "...can be produced from any two of the following ingredients: <mark>trama<\/mark> root, racer plumes, and coda flowers. A thick...",
             "fid" : "content" },
           
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 295,
+            "pos" : 290,
             "context" : "...flowers. A thick, bitter-tasting root of the <mark>trama<\/mark> shrub grows in the Ashlands, Molag Amur, and Red...",
             "fid" : "content" } ] },
       
@@ -98,6 +78,6 @@
         [ 
           { "form" : "trama",
             "weight" : "1",
-            "pos" : 213,
+            "pos" : 208,
             "context" : "...as Vanis, but so strong, he could rip a <mark>trama<\/mark> shrub up by the roots with two fingers. Baranat hid...",
             "fid" : "content" } ] } ] }

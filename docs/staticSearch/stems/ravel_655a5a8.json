@@ -9,19 +9,9 @@
         [ 
           { "form" : "Ravel",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "<mark>Ravel<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ravel",
-            "weight" : "1",
-            "pos" : 3010,
-            "context" : "<mark>Ravel<\/mark> Ancestral Tomb" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "ravel",
             "weight" : "1",
-            "pos" : 3183,
+            "pos" : 3178,
             "context" : "<mark>ravel<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 

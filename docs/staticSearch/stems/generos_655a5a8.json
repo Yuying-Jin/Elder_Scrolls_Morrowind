@@ -9,19 +9,19 @@
         [ 
           { "form" : "GENEROSITY",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "<mark>GENEROSITY<\/mark>",
             "fid" : "content" },
           
           { "form" : "Generosity",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "The Grace of <mark>Generosity<\/mark>",
             "fid" : "content" },
           
           { "form" : "generosity",
             "weight" : "1",
-            "pos" : 161,
+            "pos" : 156,
             "context" : "Thank you for your <mark>generosity<\/mark>, Lord Vivec. I shall neither hoard nor steal,...",
             "fid" : "content" } ] },
       
@@ -32,12 +32,12 @@
         [ 
           { "form" : "Generosity",
             "weight" : "1",
-            "pos" : 240,
+            "pos" : 235,
             "context" : "The Palace: Shrine of <mark>Generosity<\/mark>",
             "fid" : "content" },
           
           { "form" : "Generosity",
             "weight" : "1",
-            "pos" : 280,
+            "pos" : 275,
             "context" : "The Shrine of <mark>Generosity<\/mark> is on the top steps of Vivec's Palace, the southernmost...",
             "fid" : "content" } ] } ] }

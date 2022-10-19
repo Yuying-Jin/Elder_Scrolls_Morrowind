@@ -9,63 +9,33 @@
         [ 
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "...of my former life, I visited my former post at <mark>Bal<\/mark> Ur, hoping perhaps to atone in some for my crimes...",
             "fid" : "content" },
           
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 80,
             "context" : "..., I made petition to the Lord of Troubles, Molag <mark>Bal<\/mark>, at an altar deep in the caverns beneath the pilgrim's...",
             "fid" : "MolagBal" },
           
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "...was surprised, and thrilled, and terrified, when Molag <mark>Bal<\/mark>, or some aspect or agent of that Daedra Lord,...",
             "fid" : "content" },
           
           { "form" : "Bal's",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 127,
             "context" : "...the northern slopes of Dagoth Ur, delivering it to Molag <mark>Bal's<\/mark> shrine in Bal Ur.]",
             "fid" : "content" },
           
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : "...of Dagoth Ur, delivering it to Molag Bal's shrine in <mark>Bal<\/mark> Ur.]",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 5,
-        "contexts" : 
-        [ 
-          { "form" : "Bal",
-            "weight" : "1",
-            "pos" : 1079,
-            "context" : "<mark>Bal<\/mark> Fell" },
-          
-          { "form" : "Bal",
-            "weight" : "1",
-            "pos" : 1086,
-            "context" : "<mark>Bal<\/mark> Ur" },
-          
-          { "form" : "Bal",
-            "weight" : "1",
-            "pos" : 1097,
-            "context" : "<mark>Bal<\/mark>_Ur" },
-          
-          { "form" : "Bal's",
-            "weight" : "1",
-            "pos" : 2606,
-            "context" : "Molag <mark>Bal's<\/mark> Shrine" },
-          
-          { "form" : "Bal",
-            "weight" : "1",
-            "pos" : 6364,
-            "context" : "Molag <mark>Bal<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -74,7 +44,7 @@
         [ 
           { "form" : "bal",
             "weight" : "1",
-            "pos" : 1247,
+            "pos" : 1242,
             "context" : "<mark>bal<\/mark> fell",
             "fid" : "loc",
             "in" : 
@@ -82,7 +52,7 @@
           
           { "form" : "bal",
             "weight" : "1",
-            "pos" : 1254,
+            "pos" : 1249,
             "context" : "<mark>bal<\/mark> ur",
             "fid" : "loc",
             "in" : 
@@ -90,7 +60,7 @@
           
           { "form" : "bal's",
             "weight" : "1",
-            "pos" : 2780,
+            "pos" : 2775,
             "context" : "molag <mark>bal's<\/mark> shrine",
             "fid" : "loc",
             "in" : 
@@ -98,7 +68,7 @@
           
           { "form" : "bal",
             "weight" : "1",
-            "pos" : 6444,
+            "pos" : 6439,
             "context" : "molag <mark>bal<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -111,19 +81,19 @@
         [ 
           { "form" : "Bal's",
             "weight" : "1",
-            "pos" : 323,
+            "pos" : 318,
             "context" : "...sites are nearby -- the Fields of Kummu and the Molag <mark>Bal's<\/mark> Shrine.",
             "fid" : "content" },
           
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 635,
+            "pos" : 630,
             "context" : " <mark>Bal<\/mark> Fell is the \"City of Stone,\" an ancient First Era...",
             "fid" : "content" },
           
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 663,
+            "pos" : 658,
             "context" : "...of hirelings and adventurers exploring and looting there. Legend says that <mark>Bal<\/mark> Fell was built on the site of an ancient Daedric worship...",
             "fid" : "content" } ] },
       
@@ -134,19 +104,19 @@
         [ 
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 336,
+            "pos" : 331,
             "context" : "...ancient tradition holds that, among his many other crimes, Molag <mark>Bal<\/mark>, the Father of Monsters, spawned the first vampire upon...",
             "fid" : "content" },
           
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 424,
+            "pos" : 419,
             "context" : "..., Rithari had been posted to the Buoyant Armiger garrison at <mark>Bal<\/mark> Ur, a pilgrimage site known as the \"birthplace of Molag...",
             "fid" : "content" },
           
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 431,
+            "pos" : 426,
             "context" : "...Ur, a pilgrimage site known as the \"birthplace of Molag <mark>Bal<\/mark>.\"",
             "fid" : "content" } ] },
       
@@ -157,6 +127,6 @@
         [ 
           { "form" : "Bal",
             "weight" : "1",
-            "pos" : 156,
+            "pos" : 151,
             "context" : "...Free Trader, Ules Manor, Suran, Ascadian Isles, <mark>Bal<\/mark> Ur, District of Vvardenfell, Province of Morrowind",
             "fid" : "content" } ] } ] }

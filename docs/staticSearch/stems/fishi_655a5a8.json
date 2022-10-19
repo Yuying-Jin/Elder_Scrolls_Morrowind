@@ -9,12 +9,12 @@
         [ 
           { "form" : "Fishy",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick" },
           
           { "form" : "Fishy",
             "weight" : "1",
-            "pos" : 1117,
+            "pos" : 1112,
             "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Fishy",
             "weight" : "1",
-            "pos" : 3801,
+            "pos" : 3796,
             "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick, count: 1",
             "fid" : "loc",
             "in" : 
@@ -35,27 +35,12 @@
         [ 
           { "form" : "fishy",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "This book is supposedly the definitive reference to <mark>fishy<\/mark> sticks throughout Tamriel, but the pages are so smeared with...",
             "fid" : "content" },
           
           { "form" : "fishy",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "...sticks throughout Tamriel, but the pages are so smeared with <mark>fishy<\/mark> stick sauce it is impossible to read any of them.",
-            "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Fishy",
-            "weight" : "1",
-            "pos" : 945,
-            "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick, count: 1" },
-          
-          { "form" : "Fishy",
-            "weight" : "1",
-            "pos" : 3649,
-            "context" : "Capn's Guide to the <mark>Fishy<\/mark> Stick, count: 1" } ] } ] }
+            "fid" : "content" } ] } ] }

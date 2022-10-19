@@ -2,31 +2,6 @@
   { "stem" : "branora",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Branora",
-            "weight" : "1",
-            "pos" : 3677,
-            "context" : "Tel <mark>Branora<\/mark>" },
-          
-          { "form" : "Branora",
-            "weight" : "1",
-            "pos" : 3701,
-            "context" : "Tel <mark>Branora<\/mark>, Therana's Chamber" },
-          
-          { "form" : "Branora",
-            "weight" : "1",
-            "pos" : 3710,
-            "context" : "Tel <mark>Branora<\/mark>, Upper Tower" },
-          
-          { "form" : "Branora",
-            "weight" : "1",
-            "pos" : 3946,
-            "context" : "Tel_<mark>Branora<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -34,7 +9,7 @@
         [ 
           { "form" : "branora",
             "weight" : "1",
-            "pos" : 3858,
+            "pos" : 3853,
             "context" : "tel <mark>branora<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -42,7 +17,7 @@
           
           { "form" : "branora",
             "weight" : "1",
-            "pos" : 3898,
+            "pos" : 3893,
             "context" : "tel <mark>branora<\/mark>, therana's chamber",
             "fid" : "loc",
             "in" : 
@@ -50,7 +25,7 @@
           
           { "form" : "branora",
             "weight" : "1",
-            "pos" : 3907,
+            "pos" : 3902,
             "context" : "tel <mark>branora<\/mark>, upper tower",
             "fid" : "loc",
             "in" : 
@@ -63,13 +38,13 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 617,
+            "pos" : 612,
             "context" : "...to Ebonheart, Hla Oad, Molag Mar, and Tel <mark>Branora<\/mark>. Ships from nearby Ebonheart sail to Hla Oad, Sadrith...",
             "fid" : "content" },
           
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 627,
+            "pos" : 622,
             "context" : "...nearby Ebonheart sail to Hla Oad, Sadrith Mora, Tel <mark>Branora<\/mark>, and the Foreign Quarter of Vivec. Low-fare...",
             "fid" : "content" } ] },
       
@@ -80,13 +55,13 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 472,
+            "pos" : 467,
             "context" : "...wizard towers at Tel Aruhn, Tel Mora, and Tel <mark>Branora<\/mark>, and Ahemmusa camp and the remote fishing villages of Ald...",
             "fid" : "content" },
           
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 532,
+            "pos" : 527,
             "context" : " Tel <mark>Branora<\/mark> is the tower and seat of the eccentric Telvanni wizard named...",
             "fid" : "content" } ] },
       
@@ -97,13 +72,13 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 40,
             "context" : "Tel <mark>Branora<\/mark>, Upper Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "Tel <mark>Branora<\/mark>, Therana's Chamber: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -114,7 +89,7 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 94,
+            "pos" : 89,
             "context" : "...Lord of Telvanni Council, Vvardenfell District, Tower of Tel <mark>Branora<\/mark>, Azura's Coast, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" } ] },
       
@@ -125,7 +100,7 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 323,
+            "pos" : 318,
             "context" : "...Arethi at the docks offers ship passage to Ebonheart, Tel <mark>Branora<\/mark>, Tel Mora, or Dagon Fel. Iniel at the...",
             "fid" : "content" } ] },
       
@@ -136,7 +111,7 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "Tel <mark>Branora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -147,7 +122,7 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "Tel <mark>Branora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -158,7 +133,7 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "Tel <mark>Branora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -169,6 +144,6 @@
         [ 
           { "form" : "Branora",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "Tel <mark>Branora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

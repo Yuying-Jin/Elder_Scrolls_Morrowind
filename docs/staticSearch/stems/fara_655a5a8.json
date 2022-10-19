@@ -9,19 +9,9 @@
         [ 
           { "form" : "Fara's",
             "weight" : "1",
-            "pos" : 187,
+            "pos" : 182,
             "context" : "...are two cornerclubs: Dirty Muriel's, for outlanders, and <mark>Fara's<\/mark> Hole in the Wall for local Dunmer. Tel Naga is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Fara's",
-            "weight" : "1",
-            "pos" : 1733,
-            "context" : "<mark>Fara's<\/mark> Hole in the Wall" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "fara's",
             "weight" : "1",
-            "pos" : 1904,
+            "pos" : 1899,
             "context" : "<mark>fara's<\/mark> hole in the wall",
             "fid" : "loc",
             "in" : 

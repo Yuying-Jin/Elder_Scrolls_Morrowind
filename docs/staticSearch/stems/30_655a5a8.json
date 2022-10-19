@@ -2,16 +2,6 @@
   { "stem" : "30",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "30",
-            "weight" : "1",
-            "pos" : 6997,
-            "context" : "The Four Suitors of Benitah, count: <mark>30<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "30",
             "weight" : "1",
-            "pos" : 7129,
+            "pos" : 7124,
             "context" : "The Four Suitors of Benitah, count: <mark>30<\/mark>",
             "fid" : "persons",
             "in" : 

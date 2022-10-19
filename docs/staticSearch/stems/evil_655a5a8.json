@@ -9,13 +9,13 @@
         [ 
           { "form" : "evil",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "..., the Battlespire appears to be falling into the hands of <mark>evil<\/mark>. Their many attempts in the past have failed, until...",
             "fid" : "content" },
           
           { "form" : "evil",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "...journey to the Imperial Palace. There, we will report the <mark>evil<\/mark> infection and return with a regimental force of rescue. May...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "Evil",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "...questing, virtue, knowledge, testing, and battling with <mark>Evil<\/mark>; Temple doctrine claims their divine powers and immortality are ultimately...",
             "fid" : "content" } ] },
       
@@ -37,7 +37,7 @@
         [ 
           { "form" : "Evil",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "...questing, virtue, knowledge, testing, and battling with <mark>Evil<\/mark>; Temple doctrine claims their divine powers and immortality are ultimately...",
             "fid" : "content" } ] },
       
@@ -48,6 +48,6 @@
         [ 
           { "form" : "evil",
             "weight" : "1",
-            "pos" : 246,
+            "pos" : 241,
             "context" : "Fate, monstrous and empty, the whirling wheel of <mark>evil<\/mark>.",
             "fid" : "content" } ] } ] }

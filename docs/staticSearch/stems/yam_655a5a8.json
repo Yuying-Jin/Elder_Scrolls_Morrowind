@@ -9,25 +9,15 @@
         [ 
           { "form" : "yams",
             "weight" : "1",
-            "pos" : 436,
+            "pos" : 431,
             "context" : "...adventurer can fortify his strength with a potion made from ash <mark>yams<\/mark> and dreugh wax. Ash yam is a tough tuberous root...",
             "fid" : "content" },
           
           { "form" : "yam",
             "weight" : "1",
-            "pos" : 440,
+            "pos" : 435,
             "context" : "...a potion made from ash yams and dreugh wax. Ash <mark>yam<\/mark> is a tough tuberous root vegetable common to the Ascadian Isles...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "yams",
-            "weight" : "1",
-            "pos" : 36,
-            "context" : "ash_<mark>yams<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "yams",
             "weight" : "1",
-            "pos" : 218,
+            "pos" : 213,
             "context" : "ash <mark>yams<\/mark>",
             "fid" : "items",
             "in" : 

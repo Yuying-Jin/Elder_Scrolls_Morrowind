@@ -9,12 +9,12 @@
         [ 
           { "form" : "Guylaine's",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "<mark>Guylaine's<\/mark> Architecture" },
           
           { "form" : "Guylaine's",
             "weight" : "1",
-            "pos" : 911,
+            "pos" : 906,
             "context" : "<mark>Guylaine's<\/mark> Architecture, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,23 +22,8 @@
           
           { "form" : "Guylaine's",
             "weight" : "1",
-            "pos" : 1298,
+            "pos" : 1293,
             "context" : "<mark>Guylaine's<\/mark> Architecture, count: 1",
             "fid" : "loc",
             "in" : 
-            [ "ssCtx3" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Guylaine's",
-            "weight" : "1",
-            "pos" : 748,
-            "context" : "<mark>Guylaine's<\/mark> Architecture, count: 1" },
-          
-          { "form" : "Guylaine's",
-            "weight" : "1",
-            "pos" : 1150,
-            "context" : "<mark>Guylaine's<\/mark> Architecture, count: 1" } ] } ] }
+            [ "ssCtx3" ] } ] } ] }

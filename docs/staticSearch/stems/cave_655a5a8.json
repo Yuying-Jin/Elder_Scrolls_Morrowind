@@ -9,61 +9,51 @@
         [ 
           { "form" : "Cave",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Koal <mark>Cave<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Cave",
             "weight" : "1",
-            "pos" : 476,
+            "pos" : 471,
             "context" : "Koal <mark>Cave<\/mark>: The Shrine of Valor",
             "fid" : "content" },
           
           { "form" : "Cave",
             "weight" : "1",
-            "pos" : 481,
+            "pos" : 476,
             "context" : "Within the Koal <mark>Cave<\/mark>, Vivec fought a battle with Ruddy Man, the father...",
             "fid" : "content" },
           
           { "form" : "Cave",
             "weight" : "1",
-            "pos" : 510,
+            "pos" : 505,
             "context" : "The Shrine of Valor is inside the Koal <mark>Cave<\/mark>, a cavern on the seacoast west of the ancient stronghold...",
             "fid" : "content" },
           
           { "form" : "cave",
             "weight" : "1",
-            "pos" : 519,
+            "pos" : 514,
             "context" : "...of the ancient stronghold Berandas and south of Gnisis. The <mark>cave<\/mark> mouth faces south, towards the sea, and is marked...",
             "fid" : "content" },
           
           { "form" : "cave",
             "weight" : "1",
-            "pos" : 533,
+            "pos" : 528,
             "context" : "...of stone. The region is wilderness, and finding the <mark>cave<\/mark> mouth can be difficult. Dreugh within the cave itself are...",
             "fid" : "content" },
           
           { "form" : "cave",
             "weight" : "1",
-            "pos" : 538,
+            "pos" : 533,
             "context" : "...finding the cave mouth can be difficult. Dreugh within the <mark>cave<\/mark> itself are fearsome enemies; only experienced and capable adventurers should...",
             "fid" : "content" },
           
           { "form" : "cave",
             "weight" : "1",
-            "pos" : 551,
+            "pos" : 546,
             "context" : "...re-enact the epic battle with the Dreugh in the <mark>cave<\/mark>. Dreugh wax may be bought at the Temple in Gnisis...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Cave",
-            "weight" : "1",
-            "pos" : 2401,
-            "context" : "Koal_<mark>Cave<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -72,7 +62,7 @@
         [ 
           { "form" : "cave",
             "weight" : "1",
-            "pos" : 2570,
+            "pos" : 2565,
             "context" : "koal <mark>cave<\/mark>",
             "fid" : "loc",
             "in" : 

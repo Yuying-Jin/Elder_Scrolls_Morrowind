@@ -9,19 +9,19 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...represented by the Heirographa -- the \"priestly writings\"] and a <mark>hidden<\/mark> face [ represented by the Apographa -- the \"hidden writings\"]....",
             "fid" : "content" },
           
           { "form" : "\"hidden",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 110,
             "context" : "...and a hidden face [ represented by the Apographa -- the <mark>\"hidden<\/mark> writings\"]. The public account portrays the actions of the Tribunal...",
             "fid" : "content" },
           
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 124,
+            "pos" : 119,
             "context" : "...actions of the Tribunal in a heroic light, while the <mark>hidden<\/mark> writings reveal secrets, untruths, inconsistencies, conflicting accounts and...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...represented by the Heirographa -- the \"priestly writings\"] and a <mark>hidden<\/mark> face [ represented by the Apographa -- the \"hidden writings\"]....",
             "fid" : "content" },
           
           { "form" : "\"hidden",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 110,
             "context" : "...and a hidden face [ represented by the Apographa -- the <mark>\"hidden<\/mark> writings\"]. The public account portrays the actions of the Tribunal...",
             "fid" : "content" },
           
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 124,
+            "pos" : 119,
             "context" : "...actions of the Tribunal in a heroic light, while the <mark>hidden<\/mark> writings reveal secrets, untruths, inconsistencies, conflicting accounts and...",
             "fid" : "content" } ] },
       
@@ -55,13 +55,13 @@
         [ 
           { "form" : "Hidden",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "Vivec, Arena <mark>Hidden<\/mark> Area: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "...and the blood of the hunted. The joy of the <mark>hidden<\/mark> and the joy of the seeker. The blood of the...",
             "fid" : "content" } ] },
       
@@ -72,13 +72,13 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 292,
+            "pos" : 287,
             "context" : "...time, unconsciously, they accept the notion of darker, <mark>hidden<\/mark> currents beneath Vivec's benevolent aspects.",
             "fid" : "content" },
           
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 363,
+            "pos" : 358,
             "context" : "...the same time, the Dunmer seem irrationally comfortable with the <mark>hidden<\/mark> aspects of Vivec, the darker components of violence, lust...",
             "fid" : "content" } ] },
       
@@ -89,7 +89,7 @@
         [ 
           { "form" : "Hidden",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 120,
             "context" : "To the <mark>Hidden<\/mark>: Wait, as always, in the darkness.",
             "fid" : "content" } ] },
       
@@ -100,7 +100,7 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 267,
+            "pos" : 262,
             "context" : "And shall we tolerate the <mark>hidden<\/mark> hosts of the undead, the arrogant princes of necromancers,...",
             "fid" : "content" } ] },
       
@@ -111,7 +111,7 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 234,
+            "pos" : 229,
             "context" : "...must learn to protect your own property by securing it with <mark>hidden<\/mark> chests, locks, and even traps. And when confrontation...",
             "fid" : "content" } ] },
       
@@ -122,19 +122,9 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "...acts, with the understanding that many patterns are subtle or <mark>hidden<\/mark>.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Hidden",
-            "weight" : "1",
-            "pos" : 4551,
-            "context" : "Vivec,_Arena_<mark>Hidden<\/mark>_Area" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -143,7 +133,7 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 4603,
+            "pos" : 4598,
             "context" : "vivec, arena <mark>hidden<\/mark> area",
             "fid" : "loc",
             "in" : 
@@ -156,7 +146,7 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "..., native to Morrowind. The flowers are inconspicuous and often <mark>hidden<\/mark>. The glossy, evergreen foliage and flowers are resistant to...",
             "fid" : "content" } ] },
       
@@ -167,6 +157,6 @@
         [ 
           { "form" : "hidden",
             "weight" : "1",
-            "pos" : 624,
+            "pos" : 619,
             "context" : "...certainly the tougher of the two, but Galsiah doubtless had <mark>hidden<\/mark> reserves. It was merely intellectual curiousity they thought his name...",
             "fid" : "content" } ] } ] }

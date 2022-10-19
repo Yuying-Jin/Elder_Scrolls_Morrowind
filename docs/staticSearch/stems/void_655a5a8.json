@@ -9,31 +9,31 @@
         [ 
           { "form" : "void",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "...off the coast of Northmoor) and hurled in into the <mark>void<\/mark>. All Chimere's friends and countrymen were instantly killed, though...",
             "fid" : "content" },
           
           { "form" : "void",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : "...sorcery that would gradually drain all of Dagon's power into the <mark>void<\/mark>. Chimere miscalculated, however, not realizing that Dagon's resistance...",
             "fid" : "content" },
           
           { "form" : "void",
             "weight" : "1",
-            "pos" : 221,
+            "pos" : 216,
             "context" : "...with Chimere. Rather than let his power drain into the <mark>void<\/mark>, Dagon cast it all into his curse. As a...",
             "fid" : "content" },
           
           { "form" : "void",
             "weight" : "1",
-            "pos" : 229,
+            "pos" : 224,
             "context" : ".... As a result, Caecilly Island was cast into the <mark>void<\/mark>, all its citizens were horribly slain, and Chimere was...",
             "fid" : "content" },
           
           { "form" : "void",
             "weight" : "1",
-            "pos" : 272,
+            "pos" : 267,
             "context" : "...erected since it was ripped from Tamriel and loosed in the <mark>void<\/mark>.",
             "fid" : "content" } ] },
       
@@ -44,19 +44,9 @@
         [ 
           { "form" : "Void",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...Part Daedra's Heart of Daedra 1 Part mixed Bittergreen Petals, <mark>Void<\/mark> Salts, Green Lichens and Bonemeal 1 Part Moonsugar 5 Parts...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "void",
-            "weight" : "1",
-            "pos" : 574,
-            "context" : "<mark>void<\/mark> salts" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -65,7 +55,7 @@
         [ 
           { "form" : "void",
             "weight" : "1",
-            "pos" : 748,
+            "pos" : 743,
             "context" : "<mark>void<\/mark> salts",
             "fid" : "items",
             "in" : 

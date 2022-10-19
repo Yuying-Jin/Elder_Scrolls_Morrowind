@@ -9,7 +9,7 @@
         [ 
           { "form" : "Grand",
             "weight" : "1",
-            "pos" : 187,
+            "pos" : 182,
             "context" : "...renews its objection to proposals placed before Duke Dren and the <mark>Grand<\/mark> Council concerning slavery and slave trading in Vvardenfell District. The...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Grand",
             "weight" : "1",
-            "pos" : 260,
+            "pos" : 255,
             "context" : "...Somutis Vunnis at Moonmoth Legion Fort, Ruccia Conician in the <mark>Grand<\/mark> Council Chambers in Ebonheart, or Lalatia Varian in the Imperial...",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "grand",
             "weight" : "1",
-            "pos" : 345,
+            "pos" : 340,
             "context" : "...precincts enclosing outbuildings for craftsmen and servants, dominated by a <mark>grand<\/mark> manor residence in place of a Temple shrine.",
             "fid" : "content" } ] },
       
@@ -42,19 +42,9 @@
         [ 
           { "form" : "Grand",
             "weight" : "1",
-            "pos" : 738,
+            "pos" : 733,
             "context" : " The piercing light of the <mark>Grand<\/mark> Pharos at the mouth of the harbor of the port village...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Grand",
-            "weight" : "1",
-            "pos" : 5326,
-            "context" : "<mark>Grand<\/mark>_Council" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -63,7 +53,7 @@
         [ 
           { "form" : "grand",
             "weight" : "1",
-            "pos" : 5216,
+            "pos" : 5211,
             "context" : "<mark>grand<\/mark> council",
             "fid" : "group",
             "in" : 
@@ -76,7 +66,7 @@
         [ 
           { "form" : "Grand",
             "weight" : "1",
-            "pos" : 214,
+            "pos" : 209,
             "context" : "...secrets of Red Mountain while Nerevar went to confer with the <mark>Grand<\/mark> Council [i.e., the Tribunal], that Nerevar died at the conference...",
             "fid" : "content" } ] },
       
@@ -87,7 +77,7 @@
         [ 
           { "form" : "Grand",
             "weight" : "1",
-            "pos" : 214,
+            "pos" : 209,
             "context" : "...secrets of Red Mountain while Nerevar went to confer with the <mark>Grand<\/mark> Council [i.e., the Tribunal], that Nerevar died at the conference...",
             "fid" : "content" } ] },
       
@@ -98,6 +88,6 @@
         [ 
           { "form" : "Grand",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "...but Nerevar's alliance survives in Morrowind's ruling political institution, the <mark>Grand<\/mark> Council.",
             "fid" : "content" } ] } ] }

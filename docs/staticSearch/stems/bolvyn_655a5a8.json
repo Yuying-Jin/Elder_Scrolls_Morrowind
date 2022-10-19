@@ -2,21 +2,6 @@
   { "stem" : "bolvyn",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Bolvyn",
-            "weight" : "1",
-            "pos" : 1330,
-            "context" : "<mark>Bolvyn<\/mark> Manor" },
-          
-          { "form" : "Bolvyn",
-            "weight" : "1",
-            "pos" : 7505,
-            "context" : "<mark>Bolvyn<\/mark> Venim" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "bolvyn",
             "weight" : "1",
-            "pos" : 1493,
+            "pos" : 1488,
             "context" : "<mark>bolvyn<\/mark> manor",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "bolvyn",
             "weight" : "1",
-            "pos" : 7642,
+            "pos" : 7637,
             "context" : "<mark>bolvyn<\/mark> venim",
             "fid" : "persons",
             "in" : 
@@ -45,13 +30,13 @@
         [ 
           { "form" : "Bolvyn",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "Archmaster Lord <mark>Bolvyn<\/mark> Venim, by Grace of Almsivi, Chief Councilor of Redoran...",
             "fid" : "BolvynVenim" },
           
           { "form" : "Bolvyn",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "...Councilor of Redoran Council, Vvardenfell District, Lord Ald'ruhn of <mark>Bolvyn<\/mark> Manor, Manor District, Ald'ruhn, District of Vvardenfell,...",
             "fid" : "content" } ] },
       
@@ -62,6 +47,6 @@
         [ 
           { "form" : "Bolvyn",
             "weight" : "1",
-            "pos" : 242,
+            "pos" : 237,
             "context" : "..., Athyn Sarethi, Garisa Llethri, Miner Arobar, and <mark>Bolvyn<\/mark> Venim, have manor residences in Ald'ruhn-Under_skar....",
             "fid" : "content" } ] } ] }

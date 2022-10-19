@@ -9,7 +9,7 @@
         [ 
           { "form" : "Arara",
             "weight" : "1",
-            "pos" : 118,
+            "pos" : 113,
             "context" : "...: Mouth Mallam Ryon, Mage For Master Aryon: Mouth <mark>Arara<\/mark> Uvulas For Master Neloth: Mouth Raven Omayn For Mistress Therana...",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "Arara",
             "weight" : "1",
-            "pos" : 265,
+            "pos" : 260,
             "context" : "...councilor mage-lords) Felisa Ulessen, Galos Mathendis, <mark>Arara<\/mark> Uvulas, Mallam Ryon, Raven Omayn, and Dalyne Arvel...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Arara",
-            "weight" : "1",
-            "pos" : 7460,
-            "context" : "<mark>Arara<\/mark> Uvulas" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "arara",
             "weight" : "1",
-            "pos" : 7604,
+            "pos" : 7599,
             "context" : "<mark>arara<\/mark> uvulas",
             "fid" : "persons",
             "in" : 

@@ -9,12 +9,12 @@
         [ 
           { "form" : "Endings",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "Book of Rest and <mark>Endings<\/mark>" },
           
           { "form" : "Endings",
             "weight" : "1",
-            "pos" : 2261,
+            "pos" : 2256,
             "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Endings",
             "weight" : "1",
-            "pos" : 2292,
+            "pos" : 2287,
             "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Endings",
             "weight" : "1",
-            "pos" : 2534,
+            "pos" : 2529,
             "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Endings",
             "weight" : "1",
-            "pos" : 3536,
+            "pos" : 3531,
             "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,41 +46,11 @@
           
           { "form" : "Endings",
             "weight" : "1",
-            "pos" : 4184,
+            "pos" : 4179,
             "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
             [ "ssCtx3" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 5,
-        "contexts" : 
-        [ 
-          { "form" : "Endings",
-            "weight" : "1",
-            "pos" : 2094,
-            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" },
-          
-          { "form" : "Endings",
-            "weight" : "1",
-            "pos" : 2122,
-            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" },
-          
-          { "form" : "Endings",
-            "weight" : "1",
-            "pos" : 2368,
-            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" },
-          
-          { "form" : "Endings",
-            "weight" : "1",
-            "pos" : 3383,
-            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" },
-          
-          { "form" : "Endings",
-            "weight" : "1",
-            "pos" : 4040,
-            "context" : "Book of Rest and <mark>Endings<\/mark>, count: 1" } ] },
       
       { "docId" : "librarium_Realizations_of_Acrobacy",
         "docUri" : "librarium\/Realizations_of_Acrobacy.html",
@@ -89,13 +59,13 @@
         [ 
           { "form" : "ended",
             "weight" : "1",
-            "pos" : 282,
+            "pos" : 277,
             "context" : "...some sarcastic comments from Master S'Rabba literally, and we all <mark>ended<\/mark> up being tortured for information about you and your troops....",
             "fid" : "content" },
           
           { "form" : "end",
             "weight" : "1",
-            "pos" : 544,
+            "pos" : 539,
             "context" : "...want to give the whole effect away, but at the <mark>end<\/mark> of the act, you have some very fine sheets of...",
             "fid" : "content" } ] },
       
@@ -106,7 +76,7 @@
         [ 
           { "form" : "ending",
             "weight" : "1",
-            "pos" : 274,
+            "pos" : 269,
             "context" : "The <mark>ending<\/mark> of the words is ALMSIVI.",
             "fid" : "content" } ] },
       
@@ -117,7 +87,7 @@
         [ 
           { "form" : "Ending",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "The Ritual for <mark>Ending<\/mark> of Wrathmen From fifty Fathers Frozen in slavepast Rip from the...",
             "fid" : "content" } ] },
       
@@ -128,7 +98,7 @@
         [ 
           { "form" : "end",
             "weight" : "1",
-            "pos" : 306,
+            "pos" : 301,
             "context" : "...arrangement as I'm sure the Orcs will agree. To this <mark>end<\/mark>, a delegation has been sent to Orsinium, though we...",
             "fid" : "content" } ] },
       
@@ -139,7 +109,7 @@
         [ 
           { "form" : "end",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "...Art. If one of your servants comes to an unfortunate <mark>end<\/mark>, you may raise the servant again by carefully gathering as...",
             "fid" : "content" } ] },
       
@@ -150,7 +120,7 @@
         [ 
           { "form" : "end",
             "weight" : "1",
-            "pos" : 594,
+            "pos" : 589,
             "context" : "...Molag Mar. Silt strider service is available at the north <mark>end<\/mark> of the Foreign Quarter bridge, traveling from Vivec to Suran...",
             "fid" : "content" } ] },
       
@@ -161,7 +131,7 @@
         [ 
           { "form" : "ended",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "...Wulfharth and his Son's, the Magnificence that was Mordrin Hanin <mark>ended<\/mark> in this world. Representative of Ashalmawia, Maelkashishi and Ald...",
             "fid" : "content" } ] },
       
@@ -172,7 +142,7 @@
         [ 
           { "form" : "end",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "...over an hour for Harithoel to search the island from one <mark>end<\/mark> to the other. He turned back to S'Riizh who was were...",
             "fid" : "content" } ] },
       
@@ -183,7 +153,7 @@
         [ 
           { "form" : "End",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "Harvest's <mark>End<\/mark>, 3E 172",
             "fid" : "content" } ] },
       
@@ -194,7 +164,7 @@
         [ 
           { "form" : "end",
             "weight" : "1",
-            "pos" : 195,
+            "pos" : 190,
             "context" : "Consider your <mark>end<\/mark>, mortal!",
             "fid" : "content" } ] },
       
@@ -205,7 +175,7 @@
         [ 
           { "form" : "end",
             "weight" : "1",
-            "pos" : 605,
+            "pos" : 600,
             "context" : "...ravine running from the top of Red Mountain southwest to its <mark>end<\/mark> just below Balmora. An old Dwemer bridge crosses the foyada...",
             "fid" : "content" } ] },
       
@@ -216,6 +186,6 @@
         [ 
           { "form" : "end",
             "weight" : "1",
-            "pos" : 423,
+            "pos" : 418,
             "context" : "...Galsiah, and Imalyn approached the Cobblers Guildhouse on the east <mark>end<\/mark> of town. Galsiah used her cachous of stoneflower to mask...",
             "fid" : "content" } ] } ] }

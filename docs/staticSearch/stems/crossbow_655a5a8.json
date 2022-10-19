@@ -9,19 +9,9 @@
         [ 
           { "form" : "crossbow",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "..., so you want the marksman's weapons -- the bow, <mark>crossbow<\/mark>, throwing star, and dart. You want light armor...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "crossbow",
-            "weight" : "1",
-            "pos" : 121,
-            "context" : "<mark>crossbow<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "crossbow",
             "weight" : "1",
-            "pos" : 303,
+            "pos" : 298,
             "context" : "<mark>crossbow<\/mark>",
             "fid" : "items",
             "in" : 

@@ -9,25 +9,15 @@
         [ 
           { "form" : "muck",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "...whose guar had died. The farmer could not harvest his <mark>muck<\/mark> without his guar, and he could not provide for his...",
             "fid" : "content" },
           
           { "form" : "muck",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "...to use. It is customary to leave a portion of <mark>muck<\/mark> at the shrine to represent Vivec's humility.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "muck",
-            "weight" : "1",
-            "pos" : 398,
-            "context" : "<mark>muck<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "muck",
             "weight" : "1",
-            "pos" : 569,
+            "pos" : 564,
             "context" : "<mark>muck<\/mark>",
             "fid" : "items",
             "in" : 

@@ -2,16 +2,6 @@
   { "stem" : "dragon's-tongu",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "dragon's-tongue",
-            "weight" : "1",
-            "pos" : 171,
-            "context" : "<mark>dragon's-tongue<\/mark>" } ] },
-      
       { "docId" : "librarium_special_Flora_of_Tamriel",
         "docUri" : "librarium\/special_Flora_of_Tamriel.html",
         "score" : 1,
@@ -19,6 +9,6 @@
         [ 
           { "form" : "Dragon's-Tongue",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "<mark>Dragon's-Tongue<\/mark>, common name for a fern like herb found in Black...",
             "fid" : "content" } ] } ] }

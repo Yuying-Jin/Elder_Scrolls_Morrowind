@@ -9,25 +9,15 @@
         [ 
           { "form" : "Felms",
             "weight" : "1",
-            "pos" : 191,
+            "pos" : 186,
             "context" : "St. <mark>Felms<\/mark> grants Felms' Glory, for greater skill in restoring magics....",
             "fid" : "content" },
           
           { "form" : "Felms'",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : "St. Felms grants <mark>Felms'<\/mark> Glory, for greater skill in restoring magics.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Felms",
-            "weight" : "1",
-            "pos" : 7299,
-            "context" : "St.<mark>Felms<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "felms",
             "weight" : "1",
-            "pos" : 7412,
+            "pos" : 7407,
             "context" : "st.<mark>felms<\/mark>",
             "fid" : "persons",
             "in" : 

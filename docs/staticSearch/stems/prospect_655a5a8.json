@@ -9,13 +9,13 @@
         [ 
           { "form" : "prospects",
             "weight" : "1",
-            "pos" : 95,
+            "pos" : 90,
             "context" : "Doubtful, but having no other <mark>prospects<\/mark>, the old woman sent Baranat off, explaining that the four...",
             "fid" : "content" },
           
           { "form" : "prospect",
             "weight" : "1",
-            "pos" : 360,
+            "pos" : 355,
             "context" : "...or several large cats. The young adventurer quailed at the <mark>prospect<\/mark> of doing battle with Airen Coribael, the swiftest, strongest...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "prospective",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "...it is common for the shop-owner to offer the <mark>prospective<\/mark> buyer tea or sweetmeats and engage in polite conversation before commencing...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "prospective",
             "weight" : "1",
-            "pos" : 133,
+            "pos" : 128,
             "context" : "...sponsor an outlander often involves performing a great service for the <mark>prospective<\/mark> sponsor.",
             "fid" : "content" } ] } ] }

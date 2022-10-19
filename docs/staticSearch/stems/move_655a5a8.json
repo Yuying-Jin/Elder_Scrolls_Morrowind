@@ -9,19 +9,19 @@
         [ 
           { "form" : "move",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 54,
             "context" : "...You want to be fast and agile. You want to <mark>move<\/mark> undetected. You want to know about security -- locks,...",
             "fid" : "content" },
           
           { "form" : "moving",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "...dart. You want light armor, so you can keep <mark>moving<\/mark>, and moving fast.",
             "fid" : "content" },
           
           { "form" : "moving",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "...want light armor, so you can keep moving, and <mark>moving<\/mark> fast.",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "moves",
             "weight" : "1",
-            "pos" : 190,
+            "pos" : 185,
             "context" : ".... You must see her at work to believe it. She <mark>moves<\/mark> vertically like you and I move horizontally.\"",
             "fid" : "content" },
           
           { "form" : "move",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : "...work to believe it. She moves vertically like you and I <mark>move<\/mark> horizontally.\"",
             "fid" : "content" } ] },
       
@@ -49,7 +49,7 @@
         [ 
           { "form" : "Move",
             "weight" : "1",
-            "pos" : 172,
+            "pos" : 167,
             "context" : "...movements of the bones. These are called the Barons of <mark>Move<\/mark> Like This. Then an eighth Daedroth came, and he was...",
             "fid" : "content" } ] },
       
@@ -60,7 +60,7 @@
         [ 
           { "form" : "moves",
             "weight" : "1",
-            "pos" : 299,
+            "pos" : 294,
             "context" : "Sense the <mark>moves<\/mark> of the game, and everyone can win.",
             "fid" : "content" } ] },
       
@@ -71,7 +71,7 @@
         [ 
           { "form" : "move",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "...proper rituals will imbue the mummified corpse with the strength to <mark>move<\/mark> itself. Most importantly, you will have a much stronger servant...",
             "fid" : "content" } ] },
       
@@ -82,7 +82,7 @@
         [ 
           { "form" : "move",
             "weight" : "1",
-            "pos" : 841,
+            "pos" : 836,
             "context" : "...Tel Vos and Tel Fyr. The Ashlanders of Zainab camp <mark>move<\/mark> their herds across the plains in search of fresh grazing....",
             "fid" : "content" } ] },
       
@@ -93,7 +93,7 @@
         [ 
           { "form" : "moving",
             "weight" : "1",
-            "pos" : 166,
+            "pos" : 161,
             "context" : "...heavy armor, and so must be skilled at blocking and <mark>moving<\/mark> in heavy armor.",
             "fid" : "content" } ] },
       
@@ -104,7 +104,7 @@
         [ 
           { "form" : "move",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "...and agile are the Morag Tong. Silent and unseen they <mark>move<\/mark>. Illusions they supply to misdirect their prey. Close and...",
             "fid" : "content" } ] },
       
@@ -115,7 +115,7 @@
         [ 
           { "form" : "moving",
             "weight" : "1",
-            "pos" : 189,
+            "pos" : 184,
             "context" : "Baranat dropped his blade and ran at Vanis, <mark>moving<\/mark> so fast he didn't rustle a leaf with his pace....",
             "fid" : "content" } ] },
       
@@ -126,6 +126,6 @@
         [ 
           { "form" : "move",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "...is a risk here of becoming blood stained if you don't <mark>move<\/mark> the head quickly enough. If you're unsure, strangle the...",
             "fid" : "content" } ] } ] }

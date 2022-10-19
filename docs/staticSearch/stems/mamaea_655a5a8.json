@@ -9,25 +9,15 @@
         [ 
           { "form" : "Mamaea",
             "weight" : "1",
-            "pos" : 597,
+            "pos" : 592,
             "context" : "...Ghostgate itself. The safest route to Ghostgate is along the Foyada <mark>Mamaea<\/mark>, a volcanic ravine running from the top of Red Mountain...",
             "fid" : "content" },
           
           { "form" : "Mamaea",
             "weight" : "1",
-            "pos" : 619,
+            "pos" : 614,
             "context" : "...foyada near Fort Moonmoth. A pilgrim may follow the Foyada <mark>Mamaea<\/mark> all the way to Ghostgate. Any journey inside the Ghostfence...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Mamaea",
-            "weight" : "1",
-            "pos" : 1825,
-            "context" : "Foyada_<mark>Mamaea<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "mamaea",
             "weight" : "1",
-            "pos" : 2001,
+            "pos" : 1996,
             "context" : "foyada <mark>mamaea<\/mark>",
             "fid" : "loc",
             "in" : 

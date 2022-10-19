@@ -9,31 +9,31 @@
         [ 
           { "form" : "Sload",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "...that must be dealt with. I know of only a few <mark>Sload<\/mark> Necromancers who operate successfully in Black Marsh, and even they...",
             "fid" : "content" },
           
           { "form" : "Sload",
             "weight" : "1",
-            "pos" : 406,
+            "pos" : 401,
             "context" : "The <mark>Sload<\/mark> are the most famous Necromancers, but little is known of...",
             "fid" : "content" },
           
           { "form" : "Sload",
             "weight" : "1",
-            "pos" : 414,
+            "pos" : 409,
             "context" : "...little is known of their native Thras. In Tamriel, <mark>Sload<\/mark> only practice Necromancy on other races. It is uncertain whether...",
             "fid" : "content" },
           
           { "form" : "Sload",
             "weight" : "1",
-            "pos" : 429,
+            "pos" : 424,
             "context" : "...explain the number of slaves that are purchased in Tear by <mark>Sload<\/mark> merchants and the rumors of Sload airships carrying corpses from Senchal...",
             "fid" : "content" },
           
           { "form" : "Sload",
             "weight" : "1",
-            "pos" : 432,
+            "pos" : 427,
             "context" : "...are purchased in Tear by Sload merchants and the rumors of <mark>Sload<\/mark> airships carrying corpses from Senchal.",
             "fid" : "content" } ] },
       
@@ -44,42 +44,27 @@
         [ 
           { "form" : "sload",
             "weight" : "1",
-            "pos" : 402,
+            "pos" : 397,
             "context" : "Fire Shield potions can be made from comberry and <mark>sload<\/mark> soap. comberry is the bitter berry of the Ascadian Isles...",
             "fid" : "content" },
           
           { "form" : "sload",
             "weight" : "1",
-            "pos" : 409,
+            "pos" : 404,
             "context" : ".... comberry is the bitter berry of the Ascadian Isles. <mark>sload<\/mark> soap is a waxy substance made from the immature non-...",
             "fid" : "content" },
           
           { "form" : "sload",
             "weight" : "1",
-            "pos" : 419,
+            "pos" : 414,
             "context" : "...substance made from the immature non-sentient forms of the <mark>sload<\/mark>. sload soap is not expensive, but is only rarely...",
             "fid" : "content" },
           
           { "form" : "sload",
             "weight" : "1",
-            "pos" : 420,
+            "pos" : 415,
             "context" : "...from the immature non-sentient forms of the sload. <mark>sload<\/mark> soap is not expensive, but is only rarely stocked by...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "sload",
-            "weight" : "1",
-            "pos" : 489,
-            "context" : "<mark>sload<\/mark>_soap" },
-          
-          { "form" : "Sload",
-            "weight" : "1",
-            "pos" : 5746,
-            "context" : "<mark>Sload<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -88,7 +73,7 @@
         [ 
           { "form" : "sload",
             "weight" : "1",
-            "pos" : 659,
+            "pos" : 654,
             "context" : "<mark>sload<\/mark> soap",
             "fid" : "items",
             "in" : 
@@ -96,7 +81,7 @@
           
           { "form" : "sload",
             "weight" : "1",
-            "pos" : 6024,
+            "pos" : 6019,
             "context" : "<mark>sload<\/mark>",
             "fid" : "group",
             "in" : 

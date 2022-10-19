@@ -9,7 +9,7 @@
         [ 
           { "form" : "Cyrodiil",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "...and bind them to your will. Look to my children in <mark>Cyrodiil<\/mark> for guidance.",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Cyrodiils",
             "weight" : "1",
-            "pos" : 218,
+            "pos" : 213,
             "context" : "...to steal something. Similarly, Nords, Bretons, and <mark>Cyrodiils<\/mark> are sometimes treated coolly by merchants in the Summurset Isles....",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "Cyrodiil",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "In <mark>Cyrodiil<\/mark>, a few Necromancers who have served the Empire are given...",
             "fid" : "content" } ] },
       
@@ -42,19 +42,9 @@
         [ 
           { "form" : "Cyrodiil",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "..., on the west by Skyrim, on the southwest by <mark>Cyrodiil<\/mark> (also known as the Imperial Province), and on the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Cyrodiil",
-            "weight" : "1",
-            "pos" : 1461,
-            "context" : "<mark>Cyrodiil<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -63,7 +53,7 @@
         [ 
           { "form" : "cyrodiil",
             "weight" : "1",
-            "pos" : 1632,
+            "pos" : 1627,
             "context" : "<mark>cyrodiil<\/mark>",
             "fid" : "loc",
             "in" : 

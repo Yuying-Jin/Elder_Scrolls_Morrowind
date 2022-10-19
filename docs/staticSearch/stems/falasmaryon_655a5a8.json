@@ -2,16 +2,6 @@
   { "stem" : "falasmaryon",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Falasmaryon",
-            "weight" : "1",
-            "pos" : 1717,
-            "context" : "<mark>Falasmaryon<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "falasmaryon",
             "weight" : "1",
-            "pos" : 1888,
+            "pos" : 1883,
             "context" : "<mark>falasmaryon<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Falasmaryon",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Falasmaryon<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

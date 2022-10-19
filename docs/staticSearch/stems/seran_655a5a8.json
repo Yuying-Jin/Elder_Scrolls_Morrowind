@@ -9,19 +9,9 @@
         [ 
           { "form" : "Seran",
             "weight" : "1",
-            "pos" : 263,
+            "pos" : 258,
             "context" : "...Mercius has recently become the Fighters Guild steward. Old Methal <mark>Seran<\/mark> is an eminent Temple priest and scholar. Raesa Pullia is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Seran",
-            "weight" : "1",
-            "pos" : 7214,
-            "context" : "Methal <mark>Seran<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "seran",
             "weight" : "1",
-            "pos" : 7329,
+            "pos" : 7324,
             "context" : "methal <mark>seran<\/mark>",
             "fid" : "persons",
             "in" : 

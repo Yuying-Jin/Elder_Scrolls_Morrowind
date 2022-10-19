@@ -9,13 +9,13 @@
         [ 
           { "form" : "foe",
             "weight" : "1",
-            "pos" : 345,
+            "pos" : 340,
             "context" : "..., spawned the first vampire upon the corpse of a defeated <mark>foe<\/mark>. Several different versions of this story exist, with the...",
             "fid" : "content" },
           
           { "form" : "foe",
             "weight" : "1",
-            "pos" : 351,
+            "pos" : 346,
             "context" : ".... Several different versions of this story exist, with the <mark>foe<\/mark> variously identified as a Daedra Lord, a Temple Saint,...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "foe",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "\"Outnumbered and isolated, I yielded to my <mark>foe<\/mark>. The creature dressed like a gentleman, and I hoped...",
             "fid" : "content" } ] },
       
@@ -37,7 +37,7 @@
         [ 
           { "form" : "foe",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : ".... “He is said to be very powerful, an implacable <mark>foe<\/mark>.”",
             "fid" : "content" } ] },
       
@@ -48,7 +48,7 @@
         [ 
           { "form" : "Foes",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "Dark Blooded <mark>Foes<\/mark>",
             "fid" : "content" } ] },
       
@@ -59,6 +59,6 @@
         [ 
           { "form" : "foe",
             "weight" : "1",
-            "pos" : 308,
+            "pos" : 303,
             "context" : "...the Daedra Lord rather than dishonor himself by fighting an unarmed <mark>foe<\/mark>. This so impressed the Dremora, the most honorable and...",
             "fid" : "content" } ] } ] }

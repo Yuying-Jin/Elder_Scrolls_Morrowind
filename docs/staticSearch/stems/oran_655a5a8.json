@@ -9,19 +9,9 @@
         [ 
           { "form" : "Oran",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "Suran, <mark>Oran<\/mark> Manor: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Oran",
-            "weight" : "1",
-            "pos" : 3629,
-            "context" : "Suran, <mark>Oran<\/mark> Manor" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "oran",
             "weight" : "1",
-            "pos" : 3781,
+            "pos" : 3776,
             "context" : "suran, <mark>oran<\/mark> manor",
             "fid" : "loc",
             "in" : 

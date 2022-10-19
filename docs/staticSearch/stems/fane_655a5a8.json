@@ -9,63 +9,33 @@
         [ 
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "...cantons is the size of a complete town. The High <mark>Fane<\/mark> and the palace of Vivec are visited by hundreds of tourists...",
             "fid" : "content" },
           
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 65,
             "context" : "...Temple prison, hangs above the great temple of the High <mark>Fane<\/mark>, the Halls of Wisdom and Justice, and Lord Vivec's...",
             "fid" : "content" },
           
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "..., the Temple Compound, with Vivec's Palace, the High <mark>Fane<\/mark>, the Ministry of Truth, and the Hall of Wisdom...",
             "fid" : "content" },
           
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 183,
+            "pos" : 178,
             "context" : " The High <mark>Fane<\/mark> is the largest Tribunal temple on Vvardenfell. Archcanon Saryoni presides...",
             "fid" : "content" },
           
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 203,
+            "pos" : 198,
             "context" : ".... Pilgrims travel from all over Morrowind to view the High <mark>Fane<\/mark> and the Ministry of Truth, and to offer prayer and...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 5,
-        "contexts" : 
-        [ 
-          { "form" : "Fane",
-            "weight" : "1",
-            "pos" : 2185,
-            "context" : "High <mark>Fane<\/mark>" },
-          
-          { "form" : "Fane",
-            "weight" : "1",
-            "pos" : 2199,
-            "context" : "High_<mark>Fane<\/mark>" },
-          
-          { "form" : "Fane",
-            "weight" : "1",
-            "pos" : 4422,
-            "context" : "Vivec City, High <mark>Fane<\/mark>" },
-          
-          { "form" : "Fane",
-            "weight" : "1",
-            "pos" : 4475,
-            "context" : "Vivec, High <mark>Fane<\/mark>" },
-          
-          { "form" : "Fane",
-            "weight" : "1",
-            "pos" : 6568,
-            "context" : "High <mark>Fane<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -74,7 +44,7 @@
         [ 
           { "form" : "fane",
             "weight" : "1",
-            "pos" : 2355,
+            "pos" : 2350,
             "context" : "high <mark>fane<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -82,7 +52,7 @@
           
           { "form" : "fane",
             "weight" : "1",
-            "pos" : 4577,
+            "pos" : 4572,
             "context" : "vivec city, high <mark>fane<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -90,7 +60,7 @@
           
           { "form" : "fane",
             "weight" : "1",
-            "pos" : 4644,
+            "pos" : 4639,
             "context" : "vivec, high <mark>fane<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -98,7 +68,7 @@
           
           { "form" : "fane",
             "weight" : "1",
-            "pos" : 6666,
+            "pos" : 6661,
             "context" : "high <mark>fane<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -111,13 +81,13 @@
         [ 
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Vivec, High <mark>Fane<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "...Mar, and Ghostgate, or with priests at the High <mark>Fane<\/mark> in the Temple Compound in Vivec City.",
             "fid" : "content" } ] },
       
@@ -128,7 +98,7 @@
         [ 
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "High <mark>Fane<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -139,7 +109,7 @@
         [ 
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 255,
+            "pos" : 250,
             "context" : "...cantons is the size of a complete town. The High <mark>Fane<\/mark> and the palace of Vivec are visited by hundreds of tourists...",
             "fid" : "content" } ] },
       
@@ -150,6 +120,6 @@
         [ 
           { "form" : "Fane",
             "weight" : "1",
-            "pos" : 218,
+            "pos" : 213,
             "context" : "...the Temple District, along the western wall of the High <mark>Fane<\/mark>, the great Temple of Vvardenfell. When you address the...",
             "fid" : "content" } ] } ] }

@@ -9,49 +9,49 @@
         [ 
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "In that time, House <mark>Dwemer<\/mark> were great enchanters, so Nerevar went in secret to a...",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "...were great enchanters, so Nerevar went in secret to a <mark>Dwemer<\/mark> smith and asked for an enchanted ring that would help him....",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "...however, disputes over religion divided the Council, with House <mark>Dwemer<\/mark> and House Dagoth on one side and all the other Houses...",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...on one side and all the other Houses on the other. <mark>Dwemer<\/mark> and Dagoth invited Orc and Nord clans as allies, and...",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "...the other Houses and nomad tribes and marched to meet the <mark>Dwemer<\/mark>-Dagoth-Westerner forces.",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "The armies met at Red Mountain, a <mark>Dwemer<\/mark> stronghold. The Dwemer were defeated, with great slaughter,...",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 94,
             "context" : "...armies met at Red Mountain, a Dwemer stronghold. The <mark>Dwemer<\/mark> were defeated, with great slaughter, and terrible sorceries were...",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 110,
+            "pos" : 105,
             "context" : "...sorceries were used, resulting in the utter extermination of House <mark>Dwemer<\/mark>, House Dagoth, and their allies. Nerevar was killed...",
             "fid" : "content" } ] },
       
@@ -62,13 +62,13 @@
         [ 
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...those unholy devices were the ones originally created by the ungodly <mark>Dwemer<\/mark> sorceror Kagrenac to create the False Construct Numidium.",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 194,
+            "pos" : 189,
             "context" : "...place the Tribunal at Red Mountain, and holds that the <mark>Dwemer<\/mark> destroyed themselves, rather than that Nerevar destroyed them. Ashlander tradition further...",
             "fid" : "content" } ] },
       
@@ -79,13 +79,13 @@
         [ 
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...those unholy devices were the ones originally created by the ungodly <mark>Dwemer<\/mark> sorceror Kagrenac to create the False Construct Numidium.",
             "fid" : "content" },
           
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 194,
+            "pos" : 189,
             "context" : "...place the Tribunal at Red Mountain, and holds that the <mark>Dwemer<\/mark> destroyed themselves, rather than that Nerevar destroyed them. Ashlander tradition further...",
             "fid" : "content" } ] },
       
@@ -96,19 +96,9 @@
         [ 
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 291,
+            "pos" : 286,
             "context" : "...abandoned Dunmer Strongholds, and corrupted subterranean labyrinths of the detested <mark>Dwemer<\/mark> race? For ages the Great Houses and the Temple have...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Dwemer",
-            "weight" : "1",
-            "pos" : 5220,
-            "context" : "<mark>Dwemer<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -117,7 +107,7 @@
         [ 
           { "form" : "dwemer",
             "weight" : "1",
-            "pos" : 5417,
+            "pos" : 5412,
             "context" : "<mark>dwemer<\/mark>",
             "fid" : "group",
             "in" : 
@@ -130,6 +120,6 @@
         [ 
           { "form" : "Dwemer",
             "weight" : "1",
-            "pos" : 608,
+            "pos" : 603,
             "context" : "...Mountain southwest to its end just below Balmora. An old <mark>Dwemer<\/mark> bridge crosses the foyada near Fort Moonmoth. A pilgrim may...",
             "fid" : "content" } ] } ] }

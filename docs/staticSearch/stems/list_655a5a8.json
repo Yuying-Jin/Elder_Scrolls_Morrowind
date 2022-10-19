@@ -9,13 +9,13 @@
         [ 
           { "form" : "listed",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : "What benefits may be gained shall be <mark>listed<\/mark> herein for the edification of the worshipper and pilgrim.",
             "fid" : "content" },
           
           { "form" : "listed",
             "weight" : "1",
-            "pos" : 173,
+            "pos" : 168,
             "context" : "...also grant the particular blessings of the saints, which are <mark>listed<\/mark> for you here:",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "lists",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "...the Redoran Council of Vvardenfell District for 3E 426. It <mark>lists<\/mark> the current members of the council and their residences. It...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "list",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 40,
             "context" : "...To ease the pilgrim's task, the Temple  has made this <mark>list<\/mark> of shrines along with directions and advice to pilgrims. The...",
             "fid" : "content" } ] } ] }

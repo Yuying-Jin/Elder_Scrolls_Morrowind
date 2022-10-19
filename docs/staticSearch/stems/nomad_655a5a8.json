@@ -9,7 +9,7 @@
         [ 
           { "form" : "nomadic",
             "weight" : "1",
-            "pos" : 324,
+            "pos" : 319,
             "context" : "...High Rock, traditions dating back to the witch kings and <mark>nomadic<\/mark> horsemen mandate cremation of the dead. This is practiced almost...",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "nomadic",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "...grasslands, and volcanic badlands, and thinly populated by the <mark>nomadic<\/mark> Ashlander tribes.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "nomad",
-            "weight" : "1",
-            "pos" : 6084,
-            "context" : "<mark>nomad<\/mark>_tribes" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "nomad",
             "weight" : "1",
-            "pos" : 6176,
+            "pos" : 6171,
             "context" : "<mark>nomad<\/mark> tribes",
             "fid" : "group",
             "in" : 
@@ -54,6 +44,6 @@
         [ 
           { "form" : "nomad",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...held northwest Morrowind, while Nerevar mustered the other Houses and <mark>nomad<\/mark> tribes and marched to meet the Dwemer-Dagoth-Westerner...",
             "fid" : "content" } ] } ] }

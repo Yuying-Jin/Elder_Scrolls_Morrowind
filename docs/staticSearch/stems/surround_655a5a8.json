@@ -9,13 +9,13 @@
         [ 
           { "form" : "surrounding",
             "weight" : "1",
-            "pos" : 63,
+            "pos" : 58,
             "context" : "...volcano Red Mountain and cut off from mainland Morrowind by the <mark>surrounding<\/mark> Inner Sea.",
             "fid" : "content" },
           
           { "form" : "surrounding",
             "weight" : "1",
-            "pos" : 365,
+            "pos" : 360,
             "context" : " The Ashlands are the dry, inhospitable wastelands <mark>surrounding<\/mark> the lower slopes of Red Mountain. The Ashlands extend to...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "surrounded",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 76,
             "context" : "...Temple is located on high ground to the east, and <mark>surrounded<\/mark> by a residential section.",
             "fid" : "content" } ] } ] }

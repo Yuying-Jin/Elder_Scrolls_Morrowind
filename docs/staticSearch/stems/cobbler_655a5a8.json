@@ -9,25 +9,15 @@
         [ 
           { "form" : "Cobblers",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 80,
             "context" : "...aren't mugging some Nord tourist fresh off the ferry. The <mark>Cobblers<\/mark> Guildhall may not sound intimidating but tonight, when the dues...",
             "fid" : "content" },
           
           { "form" : "Cobblers",
             "weight" : "1",
-            "pos" : 420,
+            "pos" : 415,
             "context" : "...sun set, Lledos, Galsiah, and Imalyn approached the <mark>Cobblers<\/mark> Guildhouse on the east end of town. Galsiah used her...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Cobblers",
-            "weight" : "1",
-            "pos" : 1432,
-            "context" : "<mark>Cobblers<\/mark>_Guildhall" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "cobblers",
             "weight" : "1",
-            "pos" : 1603,
+            "pos" : 1598,
             "context" : "<mark>cobblers<\/mark> guildhall",
             "fid" : "loc",
             "in" : 

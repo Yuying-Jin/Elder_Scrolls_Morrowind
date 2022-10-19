@@ -9,7 +9,7 @@
         [ 
           { "form" : "arched",
             "weight" : "1",
-            "pos" : 316,
+            "pos" : 311,
             "context" : "...simple multi-storied buildings roughly rectangular in plan, featuring <mark>arched<\/mark> entranceways and modest decorated exteriors. More modest one-story...",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "Arch",
             "weight" : "1",
-            "pos" : 578,
+            "pos" : 573,
             "context" : " Tel Aruhn is the Telvanni tower of <mark>Arch<\/mark>-Mage Gothren, Telvanni Sorcerer-Lord and head of...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Arch",
-            "weight" : "1",
-            "pos" : 6616,
-            "context" : "<mark>Arch<\/mark>-Mage Gothren" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "arch",
             "weight" : "1",
-            "pos" : 6713,
+            "pos" : 6708,
             "context" : "<mark>arch<\/mark> mage gothren",
             "fid" : "persons",
             "in" : 
@@ -54,7 +44,7 @@
         [ 
           { "form" : "Arches",
             "weight" : "1",
-            "pos" : 142,
+            "pos" : 137,
             "context" : "<mark>Arches<\/mark> and spires line the rock halls,",
             "fid" : "content" } ] },
       
@@ -65,6 +55,6 @@
         [ 
           { "form" : "arch",
             "weight" : "1",
-            "pos" : 528,
+            "pos" : 523,
             "context" : "...towards the sea, and is marked by a large natural <mark>arch<\/mark> of stone. The region is wilderness, and finding the...",
             "fid" : "content" } ] } ] }

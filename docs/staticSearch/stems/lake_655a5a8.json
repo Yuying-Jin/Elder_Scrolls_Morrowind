@@ -9,13 +9,13 @@
         [ 
           { "form" : "Lake",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 101,
             "context" : "...of Kummu are west of Suran on the north shore of <mark>Lake<\/mark> Amaya as you head towards Pelagiad. The shrine is between...",
             "fid" : "content" },
           
           { "form" : "Lake",
             "weight" : "1",
-            "pos" : 127,
+            "pos" : 122,
             "context" : "...farm nearby has a small dock on the north bank of <mark>Lake<\/mark> Amaya. This is the only dock nearby which Alof kindly...",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "lakes",
             "weight" : "1",
-            "pos" : 173,
+            "pos" : 168,
             "context" : "..., Vivec City, and Ald Sotha along with the inland <mark>lakes<\/mark> and waterways of the Ascadian Isles proper. The urban areas...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Lake",
-            "weight" : "1",
-            "pos" : 2413,
-            "context" : "<mark>Lake<\/mark>_Amaya" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "lake",
             "weight" : "1",
-            "pos" : 2582,
+            "pos" : 2577,
             "context" : "<mark>lake<\/mark> amaya",
             "fid" : "loc",
             "in" : 
@@ -60,6 +50,6 @@
         [ 
           { "form" : "lakes",
             "weight" : "1",
-            "pos" : 255,
+            "pos" : 250,
             "context" : "...Ginko leaves which are found along the banks of rivers and <mark>lakes<\/mark> in Hammerfell are most inconspicuous, only its peculiar halfmoon shape...",
             "fid" : "content" } ] } ] }

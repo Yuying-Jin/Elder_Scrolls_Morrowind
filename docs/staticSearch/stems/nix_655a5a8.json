@@ -2,21 +2,6 @@
   { "stem" : "nix",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "nix",
-            "weight" : "1",
-            "pos" : 412,
-            "context" : "<mark>nix<\/mark>-hound meat" },
-          
-          { "form" : "Nix",
-            "weight" : "1",
-            "pos" : 6984,
-            "context" : "<mark>Nix<\/mark>-hounds" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "nix",
             "weight" : "1",
-            "pos" : 582,
+            "pos" : 577,
             "context" : "<mark>nix<\/mark> hound meat",
             "fid" : "items",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "nix",
             "weight" : "1",
-            "pos" : 6818,
+            "pos" : 6813,
             "context" : "<mark>nix<\/mark> hounds",
             "fid" : "persons",
             "in" : 
@@ -45,6 +30,6 @@
         [ 
           { "form" : "Nix",
             "weight" : "1",
-            "pos" : 228,
+            "pos" : 223,
             "context" : "...dashed in terror. One day they saw a pack of <mark>Nix<\/mark>-hounds ranging about, and in a desperate panic all the...",
             "fid" : "content" } ] } ] }

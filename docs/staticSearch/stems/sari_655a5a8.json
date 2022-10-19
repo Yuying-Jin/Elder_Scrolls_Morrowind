@@ -9,19 +9,9 @@
         [ 
           { "form" : "Sarys",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "<mark>Sarys<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Sarys",
-            "weight" : "1",
-            "pos" : 3378,
-            "context" : "<mark>Sarys<\/mark> Ancestral Tomb" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "sarys",
             "weight" : "1",
-            "pos" : 3531,
+            "pos" : 3526,
             "context" : "<mark>sarys<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 

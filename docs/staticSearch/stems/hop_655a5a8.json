@@ -9,7 +9,7 @@
         [ 
           { "form" : "hops",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "What is green and <mark>hops<\/mark> and sizzles on lava?",
             "fid" : "content" } ] },
       
@@ -20,6 +20,6 @@
         [ 
           { "form" : "hopping",
             "weight" : "1",
-            "pos" : 138,
+            "pos" : 133,
             "context" : "...Jereth will dazzle you as he juggles fifteen flaming globes while <mark>hopping<\/mark> across broken glass. Master Tulkiande will astound you as she...",
             "fid" : "content" } ] } ] }

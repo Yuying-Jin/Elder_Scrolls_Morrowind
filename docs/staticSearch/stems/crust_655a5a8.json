@@ -9,18 +9,18 @@
         [ 
           { "form" : "crust",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "1 pie <mark>crust<\/mark>",
             "fid" : "content" },
           
           { "form" : "crust",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 95,
             "context" : "...Scuttle has melted, pour from the pan into the pie <mark>crust<\/mark>. Sprinkle with ash salts and cover the pie crust....",
             "fid" : "content" },
           
           { "form" : "crust",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 101,
             "context" : "...pie crust. Sprinkle with ash salts and cover the pie <mark>crust<\/mark>. Bake for one quarter hour in a hot oven....",
             "fid" : "content" } ] } ] }

@@ -9,37 +9,27 @@
         [ 
           { "form" : "Koal",
             "weight" : "1",
-            "pos" : 16,
+            "pos" : 11,
             "context" : "<mark>Koal<\/mark> Cave: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Koal",
             "weight" : "1",
-            "pos" : 475,
+            "pos" : 470,
             "context" : "<mark>Koal<\/mark> Cave: The Shrine of Valor",
             "fid" : "content" },
           
           { "form" : "Koal",
             "weight" : "1",
-            "pos" : 480,
+            "pos" : 475,
             "context" : "Within the <mark>Koal<\/mark> Cave, Vivec fought a battle with Ruddy Man, the...",
             "fid" : "content" },
           
           { "form" : "Koal",
             "weight" : "1",
-            "pos" : 509,
+            "pos" : 504,
             "context" : "The Shrine of Valor is inside the <mark>Koal<\/mark> Cave, a cavern on the seacoast west of the ancient...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Koal",
-            "weight" : "1",
-            "pos" : 2400,
-            "context" : "<mark>Koal<\/mark>_Cave" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -48,7 +38,7 @@
         [ 
           { "form" : "koal",
             "weight" : "1",
-            "pos" : 2569,
+            "pos" : 2564,
             "context" : "<mark>koal<\/mark> cave",
             "fid" : "loc",
             "in" : 

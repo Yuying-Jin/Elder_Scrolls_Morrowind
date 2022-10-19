@@ -44,7 +44,7 @@
         [ 
           { "form" : "Table",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Table<\/mark> of Items",
             "fid" : "bookTables",
             "in" : 
@@ -52,7 +52,7 @@
           
           { "form" : "Table",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "<mark>Table<\/mark> of Locations",
             "fid" : "bookTables",
             "in" : 
@@ -60,7 +60,7 @@
           
           { "form" : "Table",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "<mark>Table<\/mark> of Groups",
             "fid" : "bookTables",
             "in" : 
@@ -68,7 +68,7 @@
           
           { "form" : "Table",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Table<\/mark> of Persons",
             "fid" : "bookTables",
             "in" : 
@@ -81,6 +81,6 @@
         [ 
           { "form" : "table",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "...down his flagon of greef violently on the rough-hewn <mark>table<\/mark>. \"B'vek, what do you want us to say?...",
             "fid" : "content" } ] } ] }

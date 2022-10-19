@@ -9,7 +9,7 @@
         [ 
           { "form" : "afflicted",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : "To restore health to the <mark>afflicted<\/mark> and wounded, combine in equal parts two or more of...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "afflictions",
             "weight" : "1",
-            "pos" : 129,
+            "pos" : 124,
             "context" : "...cures of common diseases, of blight diseases, and of <mark>afflictions<\/mark> of poison.",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "afflicted",
             "weight" : "1",
-            "pos" : 268,
+            "pos" : 263,
             "context" : "...of vampire hunters is believed to be primarily composed of formerly <mark>afflicted<\/mark> vampires who have been cured of the disease. According to...",
             "fid" : "content" } ] } ] }

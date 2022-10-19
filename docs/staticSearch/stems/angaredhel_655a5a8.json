@@ -9,19 +9,9 @@
         [ 
           { "form" : "Angaredhel",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "...you're not Telvanni or Telvanni retainers, you'll want to know <mark>Angaredhel<\/mark>, Prefect of Hospitality at the Gateway merchant inn, and...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Angaredhel",
-            "weight" : "1",
-            "pos" : 6294,
-            "context" : "<mark>Angaredhel<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "angaredhel",
             "weight" : "1",
-            "pos" : 6364,
+            "pos" : 6359,
             "context" : "<mark>angaredhel<\/mark>",
             "fid" : "persons",
             "in" : 

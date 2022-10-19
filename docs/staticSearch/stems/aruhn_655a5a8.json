@@ -2,31 +2,6 @@
   { "stem" : "aruhn",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Aruhn",
-            "weight" : "1",
-            "pos" : 3664,
-            "context" : "Tel <mark>Aruhn<\/mark>" },
-          
-          { "form" : "Aruhn",
-            "weight" : "1",
-            "pos" : 3919,
-            "context" : "Tel_<mark>Aruhn<\/mark>" },
-          
-          { "form" : "Aruhn",
-            "weight" : "1",
-            "pos" : 3926,
-            "context" : "Tel_<mark>Aruhn<\/mark>,_Maren_Uvaren:_Enchanter" },
-          
-          { "form" : "Aruhn",
-            "weight" : "1",
-            "pos" : 3936,
-            "context" : "Tel_<mark>Aruhn<\/mark>,_Tower_Entry" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -34,7 +9,7 @@
         [ 
           { "form" : "aruhn",
             "weight" : "1",
-            "pos" : 3820,
+            "pos" : 3815,
             "context" : "tel <mark>aruhn<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -42,7 +17,7 @@
           
           { "form" : "aruhn",
             "weight" : "1",
-            "pos" : 3838,
+            "pos" : 3833,
             "context" : "tel <mark>aruhn<\/mark>, maren uvaren: enchanter",
             "fid" : "loc",
             "in" : 
@@ -50,7 +25,7 @@
           
           { "form" : "aruhn",
             "weight" : "1",
-            "pos" : 3848,
+            "pos" : 3843,
             "context" : "tel <mark>aruhn<\/mark>, tower entry",
             "fid" : "loc",
             "in" : 
@@ -63,19 +38,19 @@
         [ 
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 127,
+            "pos" : 122,
             "context" : "...down. Most locals at the Plot and Plaster cornerclub in Tel <mark>Aruhn<\/mark> knew enough not to listen in, but she knew better than...",
             "fid" : "content" },
           
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 185,
+            "pos" : 180,
             "context" : "...-soaked butchers running through the streets. Even in Tel <mark>Aruhn<\/mark>, that's likely to warrant suspicion.",
             "fid" : "content" },
           
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 791,
+            "pos" : 786,
             "context" : "...dreadful mattress he had to use at the canton in Tel <mark>Aruhn<\/mark>.",
             "fid" : "content" } ] },
       
@@ -86,13 +61,13 @@
         [ 
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 468,
+            "pos" : 463,
             "context" : "...Telvanni settlements at Sadrith Mora, the wizard towers at Tel <mark>Aruhn<\/mark>, Tel Mora, and Tel Branora, and Ahemmusa camp...",
             "fid" : "content" },
           
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 574,
+            "pos" : 569,
             "context" : " Tel <mark>Aruhn<\/mark> is the Telvanni tower of Arch-Mage Gothren, Telvanni...",
             "fid" : "content" } ] },
       
@@ -103,7 +78,7 @@
         [ 
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "...Magus of Telvanni Council, Vvardenfell District, Tower of Tel <mark>Aruhn<\/mark>, East Molag Amur, District of Vvardenfell, Province of...",
             "fid" : "content" } ] },
       
@@ -114,7 +89,7 @@
         [ 
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "Tel <mark>Aruhn<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -125,7 +100,7 @@
         [ 
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "Tel <mark>Aruhn<\/mark>, Tower Entry: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -136,6 +111,6 @@
         [ 
           { "form" : "Aruhn",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "Tel <mark>Aruhn<\/mark>, Maren Uvaren: Enchanter: Visitable? yes",
             "fid" : "acq" } ] } ] }

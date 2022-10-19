@@ -9,37 +9,27 @@
         [ 
           { "form" : "comberry",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : "To restore magicka for spellcasting, combine <mark>comberry<\/mark> and frost salts. comberry is a bitter berry, used...",
             "fid" : "content" },
           
           { "form" : "comberry",
             "weight" : "1",
-            "pos" : 208,
+            "pos" : 203,
             "context" : "...restore magicka for spellcasting, combine comberry and frost salts. <mark>comberry<\/mark> is a bitter berry, used to make wines. It...",
             "fid" : "content" },
           
           { "form" : "comberry",
             "weight" : "1",
-            "pos" : 401,
+            "pos" : 396,
             "context" : "Fire Shield potions can be made from <mark>comberry<\/mark> and sload soap. comberry is the bitter berry of the...",
             "fid" : "content" },
           
           { "form" : "comberry",
             "weight" : "1",
-            "pos" : 404,
+            "pos" : 399,
             "context" : "...Shield potions can be made from comberry and sload soap. <mark>comberry<\/mark> is the bitter berry of the Ascadian Isles. sload soap...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "comberry",
-            "weight" : "1",
-            "pos" : 101,
-            "context" : "<mark>comberry<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -48,7 +38,7 @@
         [ 
           { "form" : "comberry",
             "weight" : "1",
-            "pos" : 283,
+            "pos" : 278,
             "context" : "<mark>comberry<\/mark>",
             "fid" : "items",
             "in" : 

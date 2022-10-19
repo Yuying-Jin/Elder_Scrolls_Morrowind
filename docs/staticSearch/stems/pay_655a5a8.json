@@ -9,19 +9,19 @@
         [ 
           { "form" : "pay",
             "weight" : "1",
-            "pos" : 406,
+            "pos" : 401,
             "context" : "...cure poisons, and restore damaged attributes. Non-members <mark>pay<\/mark> 25 drakes. Non-members pay 25 drakes. Newer...",
             "fid" : "content" },
           
           { "form" : "pay",
             "weight" : "1",
-            "pos" : 412,
+            "pos" : 407,
             "context" : ".... Non-members pay 25 drakes. Non-members <mark>pay<\/mark> 25 drakes. Newer members pay 10 drakes, while higher...",
             "fid" : "content" },
           
           { "form" : "pay",
             "weight" : "1",
-            "pos" : 417,
+            "pos" : 412,
             "context" : "...drakes. Non-members pay 25 drakes. Newer members <mark>pay<\/mark> 10 drakes, while higher-ranking members receive blessings free...",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "pay",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : ".... “Can you teach the spell Silence? I can certainly <mark>pay<\/mark> you.”",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "pay",
             "weight" : "1",
-            "pos" : 344,
+            "pos" : 339,
             "context" : "...on the night of the storm. The smugglers aboard would <mark>pay<\/mark> them good money for the moon sugar. Luckily, S'Riizh...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "pay",
             "weight" : "1",
-            "pos" : 763,
+            "pos" : 758,
             "context" : "...in the long run to give them a week off with <mark>pay<\/mark> whenever he was out of town on business.",
             "fid" : "content" } ] } ] }

@@ -9,7 +9,7 @@
         [ 
           { "form" : "Offices",
             "weight" : "1",
-            "pos" : 109,
+            "pos" : 104,
             "context" : "Justice <mark>Offices<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Office",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "Mournhold, Mournhold Temple: <mark>Office<\/mark> of the Lord Archcanon TR: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -31,19 +31,9 @@
         [ 
           { "form" : "officers",
             "weight" : "1",
-            "pos" : 231,
+            "pos" : 226,
             "context" : "...District Council chambers and the Hawk Moth Legion garrison. The <mark>officers<\/mark>, docks, and warehouses of the East Empire Company are...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Office",
-            "weight" : "1",
-            "pos" : 2817,
-            "context" : "Mournhold, Mournhold Temple: <mark>Office<\/mark> of the Lord Archcanon TR" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -52,7 +42,7 @@
         [ 
           { "form" : "office",
             "weight" : "1",
-            "pos" : 2986,
+            "pos" : 2981,
             "context" : "mournhold, mournhold temple: <mark>office<\/mark> of the lord archcanon tr",
             "fid" : "loc",
             "in" : 

@@ -9,13 +9,13 @@
         [ 
           { "form" : "Virtuous",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : " What is the <mark>Virtuous<\/mark> Life?",
             "fid" : "content" },
           
           { "form" : "virtuous",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "...to the Nine Divines as models for living a good and <mark>virtuous<\/mark> life. Each of the Nine represents different aspects of life...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "virtuous",
             "weight" : "1",
-            "pos" : 229,
+            "pos" : 224,
             "context" : "...of the Saints Members of the Temple who wish to be <mark>virtuous<\/mark> will model their lives on the lives of the saints....",
             "fid" : "content" } ] } ] }

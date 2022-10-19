@@ -9,12 +9,12 @@
         [ 
           { "form" : "No-h's",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "<mark>No-h's<\/mark> Picture Book of Wood" },
           
           { "form" : "No-h's",
             "weight" : "1",
-            "pos" : 800,
+            "pos" : 795,
             "context" : "<mark>No-h's<\/mark> Picture Book of Wood, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,23 +22,8 @@
           
           { "form" : "No-h's",
             "weight" : "1",
-            "pos" : 1896,
+            "pos" : 1891,
             "context" : "<mark>No-h's<\/mark> Picture Book of Wood, count: 1",
             "fid" : "loc",
             "in" : 
-            [ "ssCtx3" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "No-h's",
-            "weight" : "1",
-            "pos" : 623,
-            "context" : "<mark>No-h's<\/mark> Picture Book of Wood, count: 1" },
-          
-          { "form" : "No-h's",
-            "weight" : "1",
-            "pos" : 1725,
-            "context" : "<mark>No-h's<\/mark> Picture Book of Wood, count: 1" } ] } ] }
+            [ "ssCtx3" ] } ] } ] }

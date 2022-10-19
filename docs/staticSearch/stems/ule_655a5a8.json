@@ -9,36 +9,21 @@
         [ 
           { "form" : "Ules",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "<mark>Ules<\/mark> Manor: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Ules",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "Mistress Nevena <mark>Ules<\/mark>, by Grace of Almsivi, Honored Councilor of Hlaalu Council...",
             "fid" : "content" },
           
           { "form" : "Ules",
             "weight" : "1",
-            "pos" : 151,
+            "pos" : 146,
             "context" : "...Councilor of Hlaalu Council, Vvardenfell District, Free Trader, <mark>Ules<\/mark> Manor, Suran, Ascadian Isles, Bal Ur, District...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Ules",
-            "weight" : "1",
-            "pos" : 4229,
-            "context" : "<mark>Ules<\/mark> Manor" },
-          
-          { "form" : "Ules",
-            "weight" : "1",
-            "pos" : 7427,
-            "context" : "Nevena <mark>Ules<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "ules",
             "weight" : "1",
-            "pos" : 4372,
+            "pos" : 4367,
             "context" : "<mark>ules<\/mark> manor",
             "fid" : "loc",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "ules",
             "weight" : "1",
-            "pos" : 7566,
+            "pos" : 7561,
             "context" : "nevena <mark>ules<\/mark>",
             "fid" : "persons",
             "in" : 

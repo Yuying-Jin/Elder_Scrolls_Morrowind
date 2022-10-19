@@ -9,25 +9,15 @@
         [ 
           { "form" : "Alof's",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 115,
             "context" : "...and most easily noticed while traveling east along the road. <mark>Alof's<\/mark> farm nearby has a small dock on the north bank of...",
             "fid" : "content" },
           
           { "form" : "Alof",
             "weight" : "1",
-            "pos" : 131,
+            "pos" : 126,
             "context" : "...of Lake Amaya. This is the only dock nearby which <mark>Alof<\/mark> kindly allows servants of the Temple to use. It is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Alof",
-            "weight" : "1",
-            "pos" : 6281,
-            "context" : "<mark>Alof<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "alof",
             "weight" : "1",
-            "pos" : 6351,
+            "pos" : 6346,
             "context" : "<mark>alof<\/mark>",
             "fid" : "persons",
             "in" : 

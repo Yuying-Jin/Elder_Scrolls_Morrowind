@@ -9,42 +9,27 @@
         [ 
           { "form" : "root",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...following cheap and common ingredients: marshmerrow, wickwheat, corkbulb <mark>root<\/mark>, and saltrice. marshmerrow is an important crop of the...",
             "fid" : "content" },
           
           { "form" : "root",
             "weight" : "1",
-            "pos" : 285,
+            "pos" : 280,
             "context" : "...be produced from any two of the following ingredients: trama <mark>root<\/mark>, racer plumes, and coda flowers. A thick,...",
             "fid" : "content" },
           
           { "form" : "root",
             "weight" : "1",
-            "pos" : 294,
+            "pos" : 289,
             "context" : "..., and coda flowers. A thick, bitter-tasting <mark>root<\/mark> of the trama shrub grows in the Ashlands, Molag Amur...",
             "fid" : "content" },
           
           { "form" : "root",
             "weight" : "1",
-            "pos" : 443,
+            "pos" : 438,
             "context" : "...yams and dreugh wax. Ash yam is a tough tuberous <mark>root<\/mark> vegetable common to the Ascadian Isles region. dreugh wax is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "root",
-            "weight" : "1",
-            "pos" : 108,
-            "context" : "corkbulb_<mark>root<\/mark>" },
-          
-          { "form" : "root",
-            "weight" : "1",
-            "pos" : 553,
-            "context" : "trama_<mark>root<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +38,7 @@
         [ 
           { "form" : "root",
             "weight" : "1",
-            "pos" : 290,
+            "pos" : 285,
             "context" : "corkbulb <mark>root<\/mark>",
             "fid" : "items",
             "in" : 
@@ -61,7 +46,7 @@
           
           { "form" : "root",
             "weight" : "1",
-            "pos" : 727,
+            "pos" : 722,
             "context" : "trama <mark>root<\/mark>",
             "fid" : "items",
             "in" : 
@@ -74,13 +59,13 @@
         [ 
           { "form" : "roots",
             "weight" : "1",
-            "pos" : 183,
+            "pos" : 178,
             "context" : "...can pick the plant and use the sap derived from its <mark>roots<\/mark> as an enhancement to their endurance.",
             "fid" : "content" },
           
           { "form" : "root",
             "weight" : "1",
-            "pos" : 322,
+            "pos" : 317,
             "context" : "...it has magical properties. The paste made from grinding the <mark>root<\/mark> is very tasty and can improve the user's accuracy with a...",
             "fid" : "content" } ] },
       
@@ -91,7 +76,7 @@
         [ 
           { "form" : "root",
             "weight" : "1",
-            "pos" : 415,
+            "pos" : 410,
             "context" : "...organic form grown and sculpted from stems, caps, and <mark>root<\/mark>-like holdfasts of the giant native mushrooms. Telvanni villages...",
             "fid" : "content" } ] },
       
@@ -102,7 +87,7 @@
         [ 
           { "form" : "root",
             "weight" : "1",
-            "pos" : 273,
+            "pos" : 268,
             "context" : "...in return, I want your next season's worth of trama <mark>root<\/mark>, all to myself.\"",
             "fid" : "content" } ] },
       
@@ -113,6 +98,6 @@
         [ 
           { "form" : "roots",
             "weight" : "1",
-            "pos" : 215,
+            "pos" : 210,
             "context" : "...strong, he could rip a trama shrub up by the <mark>roots<\/mark> with two fingers. Baranat hid himself and trembled as he...",
             "fid" : "content" } ] } ] }

@@ -2,26 +2,6 @@
   { "stem" : "orethi",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Orethi's",
-            "weight" : "1",
-            "pos" : 878,
-            "context" : "Ald'ruhn,_Aryni_<mark>Orethi's<\/mark>_House" },
-          
-          { "form" : "Orethi's",
-            "weight" : "1",
-            "pos" : 991,
-            "context" : "Aryni <mark>Orethi's<\/mark> House" },
-          
-          { "form" : "Orethi",
-            "weight" : "1",
-            "pos" : 2897,
-            "context" : "<mark>Orethi<\/mark> Ancestral Tomb" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "orethi's",
             "weight" : "1",
-            "pos" : 1033,
+            "pos" : 1028,
             "context" : "ald'ruhn, aryni <mark>orethi's<\/mark> house",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "orethi's",
             "weight" : "1",
-            "pos" : 1163,
+            "pos" : 1158,
             "context" : "aryni <mark>orethi's<\/mark> house",
             "fid" : "loc",
             "in" : 
@@ -45,7 +25,7 @@
           
           { "form" : "orethi",
             "weight" : "1",
-            "pos" : 3070,
+            "pos" : 3065,
             "context" : "<mark>orethi<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 
@@ -58,7 +38,7 @@
         [ 
           { "form" : "Orethi",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "<mark>Orethi<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -69,7 +49,7 @@
         [ 
           { "form" : "Orethi",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : " <mark>Orethi<\/mark> Ancestral Tomb: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -80,7 +60,7 @@
         [ 
           { "form" : "Orethi's",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Aryni <mark>Orethi's<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -91,6 +71,6 @@
         [ 
           { "form" : "Orethi's",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Ald'ruhn, Aryni <mark>Orethi's<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] } ] }

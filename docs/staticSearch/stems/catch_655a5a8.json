@@ -9,13 +9,13 @@
         [ 
           { "form" : "catch",
             "weight" : "1",
-            "pos" : 190,
+            "pos" : 185,
             "context" : "\"If you can <mark>catch<\/mark> your victim lying down asleep or resting, you are in...",
             "fid" : "content" },
           
           { "form" : "catching",
             "weight" : "1",
-            "pos" : 830,
+            "pos" : 825,
             "context" : ".... Afternoon sunlight came through his bedroom window in ribbons, <mark>catching<\/mark> dust. He closed his eyes.",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "catch",
             "weight" : "1",
-            "pos" : 194,
+            "pos" : 189,
             "context" : "...was always a little fresh water within them. If he could <mark>catch<\/mark> one, the two men could be saved. With his...",
             "fid" : "content" } ] } ] }

@@ -9,25 +9,15 @@
         [ 
           { "form" : "Rihad",
             "weight" : "1",
-            "pos" : 591,
+            "pos" : 586,
             "context" : "...will be almost as nice as a third rate show in <mark>Rihad<\/mark>,\" said Senyndie as they took their rooms a few hours...",
             "fid" : "content" },
           
           { "form" : "Rihad",
             "weight" : "1",
-            "pos" : 604,
+            "pos" : 599,
             "context" : "\"There are already so many jugglers in <mark>Rihad<\/mark>,\" said Rhunen Zebavi with a shrug.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Rihad",
-            "weight" : "1",
-            "pos" : 3122,
-            "context" : "<mark>Rihad<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "rihad",
             "weight" : "1",
-            "pos" : 3291,
+            "pos" : 3286,
             "context" : "<mark>rihad<\/mark>",
             "fid" : "loc",
             "in" : 

@@ -9,19 +9,19 @@
         [ 
           { "form" : "wisdom",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "...are earnest, and who are willing to submit to the <mark>wisdom<\/mark> of Blessed Almsivi, Triune Grace, the saints, and...",
             "fid" : "content" },
           
           { "form" : "wisdom",
             "weight" : "1",
-            "pos" : 157,
+            "pos" : 152,
             "context" : "...and achieved divine substance through superhuman discipline and virtue and supernatural <mark>wisdom<\/mark> and insight. Like loving ancestors, they guard and counsel...",
             "fid" : "content" },
           
           { "form" : "wisdom",
             "weight" : "1",
-            "pos" : 237,
+            "pos" : 232,
             "context" : "The Pilgrim's Path The path to <mark>wisdom<\/mark> and self-knowledge is through pilgrimage. Those who would...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "Wisdom",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "...the great temple of the High Fane, the Halls of <mark>Wisdom<\/mark> and Justice, and Lord Vivec's Palace.",
             "fid" : "content" },
           
           { "form" : "Wisdom",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 95,
             "context" : "...Fane, the Ministry of Truth, and the Hall of <mark>Wisdom<\/mark> and the Hall of Justice at the bottom, the Hlaalu...",
             "fid" : "content" },
           
           { "form" : "Wisdom",
             "weight" : "1",
-            "pos" : 230,
+            "pos" : 225,
             "context" : "...heretics are imprisoned and re-educated there. The Hall of <mark>Wisdom<\/mark> and Hall of Justice contain the executive, administrative, judicial...",
             "fid" : "content" } ] },
       
@@ -55,13 +55,13 @@
         [ 
           { "form" : "wisdom",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "Fear of the fool is the beginning of <mark>wisdom<\/mark>.",
             "fid" : "content" },
           
           { "form" : "wisdom",
             "weight" : "1",
-            "pos" : 164,
+            "pos" : 159,
             "context" : "Oh, how rarely <mark>wisdom<\/mark> rules our hearts!",
             "fid" : "content" } ] },
       
@@ -72,19 +72,9 @@
         [ 
           { "form" : "wisdom",
             "weight" : "1",
-            "pos" : 359,
+            "pos" : 354,
             "context" : "...wizard-lords of House Telvanni have traditionally isolated themselves, pursuing <mark>wisdom<\/mark> and mastery in solitude. But certain ambitious wizards-lords...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Wisdom",
-            "weight" : "1",
-            "pos" : 2134,
-            "context" : "Hall of <mark>Wisdom<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -93,7 +83,7 @@
         [ 
           { "form" : "wisdom",
             "weight" : "1",
-            "pos" : 2304,
+            "pos" : 2299,
             "context" : "hall of <mark>wisdom<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -106,7 +96,7 @@
         [ 
           { "form" : "wisdom",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "..., but if you are worthy, you will find there <mark>wisdom<\/mark>, a firm friend, and all the power you need...",
             "fid" : "content" } ] },
       
@@ -117,7 +107,7 @@
         [ 
           { "form" : "Wisdom",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "...his humility, and his unconquerable spirit, he attained the <mark>Wisdom<\/mark> of the Seven Graces. The Cantatas relate many stories of...",
             "fid" : "content" } ] },
       
@@ -128,6 +118,6 @@
         [ 
           { "form" : "Wisdom",
             "weight" : "1",
-            "pos" : 413,
+            "pos" : 408,
             "context" : "...served his final years as a librarian in the Hall of <mark>Wisdom<\/mark> in Vivec. It is interesting that previous to his imprisonment...",
             "fid" : "content" } ] } ] }

@@ -2,26 +2,6 @@
   { "stem" : "tureynul",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Tureynulal",
-            "weight" : "1",
-            "pos" : 4169,
-            "context" : "<mark>Tureynulal<\/mark>" },
-          
-          { "form" : "Tureynulal",
-            "weight" : "1",
-            "pos" : 4208,
-            "context" : "<mark>Tureynulal<\/mark>, Kagrenac's Library" },
-          
-          { "form" : "Tureynulal",
-            "weight" : "1",
-            "pos" : 4221,
-            "context" : "<mark>Tureynulal<\/mark>,_Kagrenac's_Library" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "tureynulal",
             "weight" : "1",
-            "pos" : 4315,
+            "pos" : 4310,
             "context" : "<mark>tureynulal<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "tureynulal",
             "weight" : "1",
-            "pos" : 4354,
+            "pos" : 4349,
             "context" : "<mark>tureynulal<\/mark>, kagrenac's library",
             "fid" : "loc",
             "in" : 
@@ -50,7 +30,7 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -61,7 +41,7 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -72,7 +52,7 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "<mark>Tureynulal<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -83,7 +63,7 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -94,7 +74,7 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -105,7 +85,7 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "<mark>Tureynulal<\/mark>, Kagrenac's Library: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -116,7 +96,7 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -127,7 +107,7 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 66,
+            "pos" : 61,
             "context" : "<mark>Tureynulal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -138,6 +118,6 @@
         [ 
           { "form" : "Tureynulal",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "<mark>Tureynulal<\/mark>, Kagrenac's Library: Visitable? yes",
             "fid" : "acq" } ] } ] }

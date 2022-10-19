@@ -2,16 +2,6 @@
   { "stem" : "boldrisa",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Boldrisa",
-            "weight" : "1",
-            "pos" : 886,
-            "context" : "Ald'ruhn,_<mark>Boldrisa<\/mark>_Andrano's_House" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "boldrisa",
             "weight" : "1",
-            "pos" : 1041,
+            "pos" : 1036,
             "context" : "ald'ruhn, <mark>boldrisa<\/mark> andrano's house",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Boldrisa",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "Ald'ruhn, <mark>Boldrisa<\/mark> Andrano's House: Visitable? yes",
             "fid" : "acq" } ] } ] }

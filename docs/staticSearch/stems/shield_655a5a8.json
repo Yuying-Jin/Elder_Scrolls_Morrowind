@@ -9,36 +9,21 @@
         [ 
           { "form" : "shield",
             "weight" : "1",
-            "pos" : 531,
+            "pos" : 526,
             "context" : "...Priif,\" said Yakin. \"They say he is the greatest <mark>shield<\/mark>-blocker and pickpocket in Morrowind.\"",
             "fid" : "content" },
           
           { "form" : "shield",
             "weight" : "1",
-            "pos" : 610,
+            "pos" : 605,
             "context" : "...with his sword. He blocked the blows effortlessly with a <mark>shield<\/mark> for ten minutes, and then revealed afterwards that he had...",
             "fid" : "content" },
           
           { "form" : "shield",
             "weight" : "1",
-            "pos" : 640,
+            "pos" : 635,
             "context" : ".... After twenty minutes of blocking the man's blows with his <mark>shield<\/mark>, he revealed that he had pickpocketed Funcrazot Priif's purse....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "shield",
-            "weight" : "1",
-            "pos" : 207,
-            "context" : "fire_<mark>shield<\/mark>_potions" },
-          
-          { "form" : "shield",
-            "weight" : "1",
-            "pos" : 476,
-            "context" : "<mark>shield<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "shield",
             "weight" : "1",
-            "pos" : 388,
+            "pos" : 383,
             "context" : "fire <mark>shield<\/mark> potions",
             "fid" : "items",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "shield",
             "weight" : "1",
-            "pos" : 646,
+            "pos" : 641,
             "context" : "<mark>shield<\/mark>",
             "fid" : "items",
             "in" : 
@@ -68,13 +53,13 @@
         [ 
           { "form" : "shield",
             "weight" : "1",
-            "pos" : 387,
+            "pos" : 382,
             "context" : "...are exceptions, like the easy and affordable recipe for fire <mark>shield<\/mark>. But most such potions require at least one ingredient with...",
             "fid" : "content" },
           
           { "form" : "Shield",
             "weight" : "1",
-            "pos" : 398,
+            "pos" : 393,
             "context" : "Fire <mark>Shield<\/mark> potions can be made from comberry and sload soap. comberry...",
             "fid" : "content" } ] },
       
@@ -85,13 +70,13 @@
         [ 
           { "form" : "Shield",
             "weight" : "1",
-            "pos" : 184,
+            "pos" : 179,
             "context" : "St. Delyn grants <mark>Shield<\/mark> of St. Delyn, for resistance to blight diseases....",
             "fid" : "content" },
           
           { "form" : "Shield",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "St. Seryn grants Seryn's <mark>Shield<\/mark>, for resistance to poisons.",
             "fid" : "content" } ] },
       
@@ -102,7 +87,7 @@
         [ 
           { "form" : "shields",
             "weight" : "1",
-            "pos" : 142,
+            "pos" : 137,
             "context" : "...proficiency with long blades, axes, blunt weapons, and <mark>shields<\/mark>. Guildsmen must be able to use and maintain Heavy Armor...",
             "fid" : "content" } ] },
       
@@ -113,7 +98,7 @@
         [ 
           { "form" : "shields",
             "weight" : "1",
-            "pos" : 148,
+            "pos" : 143,
             "context" : "...or strong, or more or less capable with weapons and <mark>shields<\/mark>. Fortunately, enchanted weapons are not needed to destroy skeletons...",
             "fid" : "content" } ] },
       
@@ -124,7 +109,7 @@
         [ 
           { "form" : "shield",
             "weight" : "1",
-            "pos" : 160,
+            "pos" : 155,
             "context" : "..., the spear and blunt weapons. Legion troops train with <mark>shield<\/mark> and heavy armor, and so must be skilled at blocking...",
             "fid" : "content" } ] },
       
@@ -135,6 +120,6 @@
         [ 
           { "form" : "shields",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 130,
             "context" : "...or strong, or more or less capable with weapons and <mark>shields<\/mark>. Fortunately, enchanted weapons are not needed to destroy skeletons...",
             "fid" : "content" } ] } ] }

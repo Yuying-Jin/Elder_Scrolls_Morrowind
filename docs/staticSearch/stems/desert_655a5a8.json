@@ -9,19 +9,19 @@
         [ 
           { "form" : "deserts",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "...of the same problems as those of Black Marsh, the <mark>deserts<\/mark> preserve corpses for hundreds of years in a way that requires...",
             "fid" : "content" },
           
           { "form" : "desert",
             "weight" : "1",
-            "pos" : 129,
+            "pos" : 124,
             "context" : "...a way that requires very little preparation. Khajiit of the <mark>desert<\/mark> tribes are often buried with only a small cairn of stones...",
             "fid" : "content" },
           
           { "form" : "deserts",
             "weight" : "1",
-            "pos" : 254,
+            "pos" : 249,
             "context" : "...priests. Fortunately, the dangerous terrain and creatures in the <mark>deserts<\/mark> and mountains of Hammerfell makes the acquisition of corpses possible,...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,9 @@
         [ 
           { "form" : "desert",
             "weight" : "1",
-            "pos" : 95,
+            "pos" : 90,
             "context" : "...Mora. The rest of the island is covered by hostile <mark>desert<\/mark> wastes, arid grasslands, and volcanic badlands, and thinly...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Desert",
-            "weight" : "1",
-            "pos" : 928,
-            "context" : "Alik'r <mark>Desert<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +43,7 @@
         [ 
           { "form" : "desert",
             "weight" : "1",
-            "pos" : 1100,
+            "pos" : 1095,
             "context" : "alik'r <mark>desert<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -66,6 +56,6 @@
         [ 
           { "form" : "Desert",
             "weight" : "1",
-            "pos" : 178,
+            "pos" : 173,
             "context" : "...? Ah, Mighty Gothren, she hails from the Alik'r <mark>Desert<\/mark> of Hammerfell where she won renown for her skill at climbing...",
             "fid" : "content" } ] } ] }

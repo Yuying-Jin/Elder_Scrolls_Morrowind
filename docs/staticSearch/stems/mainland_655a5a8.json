@@ -9,13 +9,13 @@
         [ 
           { "form" : "mainland",
             "weight" : "1",
-            "pos" : 296,
+            "pos" : 291,
             "context" : "...is an island; there's no road or bridge to the <mark>mainland<\/mark>. To visit the mainland, you must either be able...",
             "fid" : "content" },
           
           { "form" : "mainland",
             "weight" : "1",
-            "pos" : 298,
+            "pos" : 293,
             "context" : "...no road or bridge to the mainland. To visit the <mark>mainland<\/mark>, you must either be able to fly, swim,...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "mainland",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "...dominated by the giant volcano Red Mountain and cut off from <mark>mainland<\/mark> Morrowind by the surrounding Inner Sea.",
             "fid" : "content" },
           
           { "form" : "mainland",
             "weight" : "1",
-            "pos" : 683,
+            "pos" : 678,
             "context" : "...on a rocky promontory at the northeastern tip of the Vvardenfell <mark>mainland<\/mark> in the Azura's Coast region.",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "mainland",
             "weight" : "1",
-            "pos" : 533,
+            "pos" : 528,
             "context" : " Foot bridges connect with the <mark>mainland<\/mark> between the Ebonheart region and Hlaalu Compound, between the north...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "mainland",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "\"We didn't make it as far as the <mark>mainland<\/mark>,\" said Harithoel. \"I can't see the coastline at all....",
             "fid" : "content" } ] } ] }

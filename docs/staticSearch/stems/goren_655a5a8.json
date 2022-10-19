@@ -9,19 +9,9 @@
         [ 
           { "form" : "Goren",
             "weight" : "1",
-            "pos" : 282,
+            "pos" : 277,
             "context" : ".... The Redguard Hean is priest of the Imperial cult. <mark>Goren<\/mark> Andarys is the guild steward of the Morag Tong, whose...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Goren",
-            "weight" : "1",
-            "pos" : 6287,
-            "context" : "<mark>Goren<\/mark> Andarys" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "goren",
             "weight" : "1",
-            "pos" : 6357,
+            "pos" : 6352,
             "context" : "<mark>goren<\/mark> andarys",
             "fid" : "persons",
             "in" : 

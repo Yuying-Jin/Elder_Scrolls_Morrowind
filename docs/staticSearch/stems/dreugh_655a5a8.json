@@ -9,58 +9,33 @@
         [ 
           { "form" : "Dreugh",
             "weight" : "1",
-            "pos" : 488,
+            "pos" : 483,
             "context" : "...fought a battle with Ruddy Man, the father of the <mark>Dreugh<\/mark>. When he defeated Ruddy Man, Vivec spared his life...",
             "fid" : "content" },
           
           { "form" : "Dreugh",
             "weight" : "1",
-            "pos" : 536,
+            "pos" : 531,
             "context" : "...wilderness, and finding the cave mouth can be difficult. <mark>Dreugh<\/mark> within the cave itself are fearsome enemies; only experienced and...",
             "fid" : "content" },
           
           { "form" : "Dreugh",
             "weight" : "1",
-            "pos" : 550,
+            "pos" : 545,
             "context" : "...should attempt to re-enact the epic battle with the <mark>Dreugh<\/mark> in the cave. Dreugh wax may be bought at the...",
             "fid" : "content" },
           
           { "form" : "Dreugh",
             "weight" : "1",
-            "pos" : 552,
+            "pos" : 547,
             "context" : "...enact the epic battle with the Dreugh in the cave. <mark>Dreugh<\/mark> wax may be bought at the Temple in Gnisis. When...",
             "fid" : "content" },
           
           { "form" : "dreugh",
             "weight" : "1",
-            "pos" : 563,
+            "pos" : 558,
             "context" : "...the shrine, it is customary to leave a portion of <mark>dreugh<\/mark> wax as a token of Vivec's victorious struggle with Ruddy Man...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "dreugh",
-            "weight" : "1",
-            "pos" : 180,
-            "context" : "<mark>dreugh<\/mark>_wax" },
-          
-          { "form" : "Dreugh",
-            "weight" : "1",
-            "pos" : 5160,
-            "context" : "<mark>Dreugh<\/mark>" },
-          
-          { "form" : "Dreughs",
-            "weight" : "1",
-            "pos" : 5166,
-            "context" : "<mark>Dreughs<\/mark>" },
-          
-          { "form" : "dreugh",
-            "weight" : "1",
-            "pos" : 5999,
-            "context" : "<mark>dreugh<\/mark>" } ] },
       
       { "docId" : "librarium_The_Alchemists_Formulary",
         "docUri" : "librarium\/The_Alchemists_Formulary.html",
@@ -69,25 +44,25 @@
         [ 
           { "form" : "dreugh",
             "weight" : "1",
-            "pos" : 437,
+            "pos" : 432,
             "context" : "...fortify his strength with a potion made from ash yams and <mark>dreugh<\/mark> wax. Ash yam is a tough tuberous root vegetable common...",
             "fid" : "content" },
           
           { "form" : "dreugh",
             "weight" : "1",
-            "pos" : 449,
+            "pos" : 444,
             "context" : "...tough tuberous root vegetable common to the Ascadian Isles region. <mark>dreugh<\/mark> wax is a tough, waxy substance scraped from dreugh shells...",
             "fid" : "content" },
           
           { "form" : "dreugh",
             "weight" : "1",
-            "pos" : 455,
+            "pos" : 450,
             "context" : ".... dreugh wax is a tough, waxy substance scraped from <mark>dreugh<\/mark> shells. Dreugh are powerful aquatic creatures, and hunting them...",
             "fid" : "content" },
           
           { "form" : "Dreugh",
             "weight" : "1",
-            "pos" : 457,
+            "pos" : 452,
             "context" : "...is a tough, waxy substance scraped from dreugh shells. <mark>Dreugh<\/mark> are powerful aquatic creatures, and hunting them for their hides...",
             "fid" : "content" } ] },
       
@@ -98,7 +73,7 @@
         [ 
           { "form" : "dreugh",
             "weight" : "1",
-            "pos" : 361,
+            "pos" : 356,
             "context" : "<mark>dreugh<\/mark> wax",
             "fid" : "items",
             "in" : 
@@ -106,7 +81,7 @@
           
           { "form" : "dreugh",
             "weight" : "1",
-            "pos" : 5352,
+            "pos" : 5347,
             "context" : "<mark>dreugh<\/mark>",
             "fid" : "group",
             "in" : 
@@ -114,7 +89,7 @@
           
           { "form" : "dreughs",
             "weight" : "1",
-            "pos" : 5363,
+            "pos" : 5358,
             "context" : "<mark>dreughs<\/mark>",
             "fid" : "group",
             "in" : 
@@ -127,7 +102,7 @@
         [ 
           { "form" : "dreughs",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "...Then Ayem threw the netchiman's wife into the ocean water where <mark>dreughs<\/mark> took her into castles of glass and coral. They gifted...",
             "fid" : "content" } ] },
       
@@ -138,6 +113,6 @@
         [ 
           { "form" : "dreugh",
             "weight" : "1",
-            "pos" : 476,
+            "pos" : 471,
             "context" : ".... His first surprise. She had a face like a <mark>dreugh<\/mark> and as she began to berate him for taking his time...",
             "fid" : "content" } ] } ] }

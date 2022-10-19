@@ -2,16 +2,6 @@
   { "stem" : "oblivion",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Oblivion",
-            "weight" : "1",
-            "pos" : 2833,
-            "context" : "<mark>Oblivion<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "oblivion",
             "weight" : "1",
-            "pos" : 3002,
+            "pos" : 2997,
             "context" : "<mark>oblivion<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,7 +22,7 @@
         [ 
           { "form" : "Oblivion",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 47,
             "context" : "...won. When his trick succeeded, Dagon was cast into <mark>Oblivion<\/mark>. However, in the instant of his betrayal, Dagon...",
             "fid" : "content" } ] },
       
@@ -43,7 +33,7 @@
         [ 
           { "form" : "Oblivion",
             "weight" : "1",
-            "pos" : 316,
+            "pos" : 311,
             "context" : "..., and I can prove that Akatosh, Nirn, and <mark>Oblivion<\/mark> are one,\" said Warfel, writing out the mathematical formula...",
             "fid" : "content" } ] },
       
@@ -54,7 +44,7 @@
         [ 
           { "form" : "Oblivion",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "...tricked the moon Baar Dau into forsaking its appointed path through <mark>Oblivion<\/mark>. The Mad Star inspired the moon to hurl itself upon...",
             "fid" : "content" } ] },
       
@@ -65,6 +55,6 @@
         [ 
           { "form" : "Oblivion",
             "weight" : "1",
-            "pos" : 317,
+            "pos" : 312,
             "context" : "...\"Baranat, I will make you unyielding as the heart of <mark>Oblivion<\/mark>.\"",
             "fid" : "content" } ] } ] }

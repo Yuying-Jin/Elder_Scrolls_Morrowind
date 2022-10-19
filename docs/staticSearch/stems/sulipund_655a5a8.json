@@ -2,16 +2,6 @@
   { "stem" : "sulipund",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Sulipund",
-            "weight" : "1",
-            "pos" : 3559,
-            "context" : "<mark>Sulipund<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "sulipund",
             "weight" : "1",
-            "pos" : 3711,
+            "pos" : 3706,
             "context" : "<mark>sulipund<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,7 +22,7 @@
         [ 
           { "form" : "Sulipund",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "<mark>Sulipund<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -43,7 +33,7 @@
         [ 
           { "form" : "Sulipund",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "<mark>Sulipund<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "Sulipund",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "<mark>Sulipund<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

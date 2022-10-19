@@ -9,30 +9,15 @@
         [ 
           { "form" : "bonelord",
             "weight" : "1",
-            "pos" : 156,
+            "pos" : 151,
             "context" : "...are not needed to destroy skeletons. An exception is the <mark>bonelord<\/mark>, a peculiar form of revenant that seems to derive its...",
             "fid" : "content" },
           
           { "form" : "Bonelords",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 163,
             "context" : "...spirit energies than from the substance of its skeletal remains. <mark>Bonelords<\/mark> are very powerful, and very dangerous. Normal weapons do...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Bonelord",
-            "weight" : "1",
-            "pos" : 4957,
-            "context" : "<mark>Bonelord<\/mark>" },
-          
-          { "form" : "Bonelords",
-            "weight" : "1",
-            "pos" : 4963,
-            "context" : "<mark>Bonelords<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +26,7 @@
         [ 
           { "form" : "bonelord",
             "weight" : "1",
-            "pos" : 5098,
+            "pos" : 5093,
             "context" : "<mark>bonelord<\/mark>",
             "fid" : "group",
             "in" : 
@@ -49,7 +34,7 @@
           
           { "form" : "bonelords",
             "weight" : "1",
-            "pos" : 5104,
+            "pos" : 5099,
             "context" : "<mark>bonelords<\/mark>",
             "fid" : "group",
             "in" : 
@@ -62,13 +47,13 @@
         [ 
           { "form" : "bonelord",
             "weight" : "1",
-            "pos" : 143,
+            "pos" : 138,
             "context" : "...are not needed to destroy skeletons. An exception is the <mark>bonelord<\/mark>, a peculiar form of revenant that seems to derive its...",
             "fid" : "content" },
           
           { "form" : "Bonelords",
             "weight" : "1",
-            "pos" : 155,
+            "pos" : 150,
             "context" : "...spirit energies than from the substance of its skeletal remains. <mark>Bonelords<\/mark> are very powerful, and very dangerous. Normal weapons do...",
             "fid" : "content" } ] },
       
@@ -79,6 +64,6 @@
         [ 
           { "form" : "bonelord",
             "weight" : "1",
-            "pos" : 199,
+            "pos" : 194,
             "context" : "...Hearth and Kin. But ghost or guardian, bonewalker or <mark>bonelord<\/mark>, summoned by profane ritual and bound by force to the...",
             "fid" : "content" } ] } ] }

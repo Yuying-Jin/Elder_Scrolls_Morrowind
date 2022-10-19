@@ -2,16 +2,6 @@
   { "stem" : "bloatroot",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "bloatroot",
-            "weight" : "1",
-            "pos" : 582,
-            "context" : "white_<mark>bloatroot<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "bloatroot",
             "weight" : "1",
-            "pos" : 756,
+            "pos" : 751,
             "context" : "white <mark>bloatroot<\/mark>",
             "fid" : "items",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "bloatroot",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "...garden of willow anther, gold kanet, chokeweed, white <mark>bloatroot<\/mark>, and trama shrubs. He had also grown himself into...",
             "fid" : "content" } ] } ] }

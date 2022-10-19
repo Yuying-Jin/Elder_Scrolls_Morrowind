@@ -9,19 +9,9 @@
         [ 
           { "form" : "Half-Troll",
             "weight" : "1",
-            "pos" : 520,
+            "pos" : 515,
             "context" : "...top tier of St. Delyn, and Hlaalu Councilor Yngling <mark>Half-Troll<\/mark> has a top-tier manor on St. Olms....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Half-Troll",
-            "weight" : "1",
-            "pos" : 6663,
-            "context" : "Yngling <mark>Half-Troll<\/mark>" } ] },
       
       { "docId" : "librarium_Yellow_Book_of_3E_426",
         "docUri" : "librarium\/Yellow_Book_of_3E_426.html",
@@ -30,6 +20,6 @@
         [ 
           { "form" : "Half-Troll",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 110,
             "context" : "Master Yngling <mark>Half-Troll<\/mark> , by Grace of Almsivi, Honored Councilor of Hlaalu Council...",
             "fid" : "content" } ] } ] }

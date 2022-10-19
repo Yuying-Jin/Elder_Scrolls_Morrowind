@@ -2,21 +2,6 @@
   { "stem" : "rat",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "rat",
-            "weight" : "1",
-            "pos" : 435,
-            "context" : "<mark>rat<\/mark> meat" },
-          
-          { "form" : "Rat",
-            "weight" : "1",
-            "pos" : 4089,
-            "context" : "The <mark>Rat<\/mark> in the Pot" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "rat",
             "weight" : "1",
-            "pos" : 605,
+            "pos" : 600,
             "context" : "<mark>rat<\/mark> meat",
             "fid" : "items",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "rat",
             "weight" : "1",
-            "pos" : 4240,
+            "pos" : 4235,
             "context" : "the <mark>rat<\/mark> in the pot",
             "fid" : "loc",
             "in" : 
@@ -45,13 +30,13 @@
         [ 
           { "form" : "Rat",
             "weight" : "1",
-            "pos" : 53,
+            "pos" : 48,
             "context" : "The Hound and <mark>Rat<\/mark>",
             "fid" : "content" },
           
           { "form" : "rat",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "1 pound of ground meat (mixed <mark>rat<\/mark> and hound)",
             "fid" : "content" } ] },
       
@@ -62,7 +47,7 @@
         [ 
           { "form" : "Rat",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "..., near West Gate and the silt strider port. The <mark>Rat<\/mark> in the Pot cornerclub is in south Ald'ruhn, near the...",
             "fid" : "content" } ] },
       
@@ -73,6 +58,6 @@
         [ 
           { "form" : "Rat",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "The <mark>Rat<\/mark> in the Pot: Visitable? ",
             "fid" : "acq" } ] } ] }

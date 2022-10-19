@@ -9,19 +9,19 @@
         [ 
           { "form" : "patron's",
             "weight" : "1",
-            "pos" : 294,
+            "pos" : 289,
             "context" : "...subordinate in residence at the Council Hall, acting on his <mark>patron's<\/mark> behalf, receiving messengers from their patrons and casting their patron's...",
             "fid" : "content" },
           
           { "form" : "patrons",
             "weight" : "1",
-            "pos" : 298,
+            "pos" : 293,
             "context" : "..., acting on his patron's behalf, receiving messengers from their <mark>patrons<\/mark> and casting their patron's votes in Council affairs.)",
             "fid" : "content" },
           
           { "form" : "patron's",
             "weight" : "1",
-            "pos" : 300,
+            "pos" : 295,
             "context" : "...patron's behalf, receiving messengers from their patrons and casting their <mark>patron's<\/mark> votes in Council affairs.)",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "patron",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "...of the divine god-hero Tiber Septim, founder and <mark>patron<\/mark> of the Empire. Imperial cult priests provide worship and services...",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "patrons",
             "weight" : "1",
-            "pos" : 257,
+            "pos" : 252,
             "context" : "...Poet of the three deities who comprise Almsivi, the divine <mark>patrons<\/mark> of the Tribunal Temple. Only the most devout are admitted...",
             "fid" : "content" } ] } ] }

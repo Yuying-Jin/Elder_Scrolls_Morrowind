@@ -2,46 +2,6 @@
   { "stem" : "morag",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 7,
-        "contexts" : 
-        [ 
-          { "form" : "Morag",
-            "weight" : "1",
-            "pos" : 868,
-            "context" : "Ald'ruhn,-<mark>Morag<\/mark>_Tong_Guildhall" },
-          
-          { "form" : "Morag",
-            "weight" : "1",
-            "pos" : 904,
-            "context" : "Ald'ruhn,_<mark>Morag<\/mark>_Tong_Guildhall" },
-          
-          { "form" : "Morag",
-            "weight" : "1",
-            "pos" : 1261,
-            "context" : "Balmora,_<mark>Morag<\/mark>_Tong_Guild" },
-          
-          { "form" : "Morag",
-            "weight" : "1",
-            "pos" : 3293,
-            "context" : "Sadrith_Mora,_<mark>Morag<\/mark>_Tong_Guild" },
-          
-          { "form" : "Morag",
-            "weight" : "1",
-            "pos" : 5552,
-            "context" : "<mark>Morag<\/mark>_Tong" },
-          
-          { "form" : "Morag",
-            "weight" : "1",
-            "pos" : 5868,
-            "context" : "<mark>Morag<\/mark> Tong" },
-          
-          { "form" : "Morag",
-            "weight" : "1",
-            "pos" : 7382,
-            "context" : "<mark>Morag<\/mark> Tong" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 5,
@@ -49,7 +9,7 @@
         [ 
           { "form" : "morag",
             "weight" : "1",
-            "pos" : 1077,
+            "pos" : 1072,
             "context" : "ald'ruhn, <mark>morag<\/mark> tong guildhall",
             "fid" : "loc",
             "in" : 
@@ -57,7 +17,7 @@
           
           { "form" : "morag",
             "weight" : "1",
-            "pos" : 1426,
+            "pos" : 1421,
             "context" : "balmora, <mark>morag<\/mark> tong guild",
             "fid" : "loc",
             "in" : 
@@ -65,7 +25,7 @@
           
           { "form" : "morag",
             "weight" : "1",
-            "pos" : 3420,
+            "pos" : 3415,
             "context" : "sadrith mora, <mark>morag<\/mark> tong guild",
             "fid" : "loc",
             "in" : 
@@ -73,7 +33,7 @@
           
           { "form" : "morag",
             "weight" : "1",
-            "pos" : 6137,
+            "pos" : 6132,
             "context" : "<mark>morag<\/mark> tong",
             "fid" : "group",
             "in" : 
@@ -81,7 +41,7 @@
           
           { "form" : "morag",
             "weight" : "1",
-            "pos" : 7505,
+            "pos" : 7500,
             "context" : "<mark>morag<\/mark> tong",
             "fid" : "persons",
             "in" : 
@@ -94,31 +54,31 @@
         [ 
           { "form" : "Morag",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Ald'ruhn, <mark>Morag<\/mark> Tong Guildhall: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Morag",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "Balmora, <mark>Morag<\/mark> Tong Guild: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Morag",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "Sadrith Mora, <mark>Morag<\/mark> Tong Guild: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Morag",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "Swift and agile are the <mark>Morag<\/mark> Tong. Silent and unseen they move. Illusions they supply...",
             "fid" : "Morag_Tong" },
           
           { "form" : "Morag",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...? Then, perhaps, your oath and service may please the <mark>Morag<\/mark> Tong.",
             "fid" : "content" } ] },
       
@@ -129,7 +89,7 @@
         [ 
           { "form" : "Morag",
             "weight" : "1",
-            "pos" : 671,
+            "pos" : 666,
             "context" : "...respect for the high moral principles of House Redoran and the <mark>Morag<\/mark> Tong, and honors their different but noble conceptions of Divine...",
             "fid" : "content" } ] },
       
@@ -140,7 +100,7 @@
         [ 
           { "form" : "Morag",
             "weight" : "1",
-            "pos" : 286,
+            "pos" : 281,
             "context" : "...Imperial cult. Goren Andarys is the guild steward of the <mark>Morag<\/mark> Tong, whose guildhall is found in Ald'ruhn-Under-Skar....",
             "fid" : "content" } ] },
       
@@ -151,6 +111,6 @@
         [ 
           { "form" : "Morag",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Ald'ruhn, <mark>Morag<\/mark> Tong Guildhall: Visitable? yes",
             "fid" : "acq" } ] } ] }

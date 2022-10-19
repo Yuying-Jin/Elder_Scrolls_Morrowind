@@ -9,13 +9,13 @@
         [ 
           { "form" : "Hammerfell",
             "weight" : "1",
-            "pos" : 230,
+            "pos" : 225,
             "context" : "In <mark>Hammerfell<\/mark>, where worship of Arkay is strongest, the dead are...",
             "fid" : "content" },
           
           { "form" : "Hammerfell",
             "weight" : "1",
-            "pos" : 256,
+            "pos" : 251,
             "context" : "...the dangerous terrain and creatures in the deserts and mountains of <mark>Hammerfell<\/mark> makes the acquisition of corpses possible, though they are often...",
             "fid" : "content" } ] },
       
@@ -26,25 +26,15 @@
         [ 
           { "form" : "Hammerfell",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...white, can be found growing wild in the mountains of <mark>Hammerfell<\/mark>. Their succulent pods are often the only nourishment of adventurers...",
             "fid" : "content" },
           
           { "form" : "Hammerfell",
             "weight" : "1",
-            "pos" : 256,
+            "pos" : 251,
             "context" : "...which are found along the banks of rivers and lakes in <mark>Hammerfell<\/mark> are most inconspicuous, only its peculiar halfmoon shape makes it...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Hammerfell",
-            "weight" : "1",
-            "pos" : 2140,
-            "context" : "<mark>Hammerfell<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +43,7 @@
         [ 
           { "form" : "hammerfell",
             "weight" : "1",
-            "pos" : 2310,
+            "pos" : 2305,
             "context" : "<mark>hammerfell<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -66,6 +56,6 @@
         [ 
           { "form" : "Hammerfell",
             "weight" : "1",
-            "pos" : 179,
+            "pos" : 174,
             "context" : "..., Mighty Gothren, she hails from the Alik'r Desert of <mark>Hammerfell<\/mark> where she won renown for her skill at climbing sheer surfaces...",
             "fid" : "content" } ] } ] }

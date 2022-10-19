@@ -9,7 +9,7 @@
         [ 
           { "form" : "abandoned",
             "weight" : "1",
-            "pos" : 284,
+            "pos" : 279,
             "context" : "...in the West, seeking refuge in profane Daedric shrines, <mark>abandoned<\/mark> Dunmer Strongholds, and corrupted subterranean labyrinths of the detested Dwemer...",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "abandoned",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "...kept myself apart from the other clankin; nonetheless, I <mark>abandoned<\/mark> hope and lived like a beast.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Abandoned",
-            "weight" : "1",
-            "pos" : 621,
-            "context" : "<mark>Abandoned<\/mark> Shack" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "abandoned",
             "weight" : "1",
-            "pos" : 798,
+            "pos" : 793,
             "context" : "<mark>abandoned<\/mark> shack",
             "fid" : "loc",
             "in" : 
@@ -54,7 +44,7 @@
         [ 
           { "form" : "Abandoned",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Abandoned<\/mark> Shack: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -65,6 +55,6 @@
         [ 
           { "form" : "abandoned",
             "weight" : "1",
-            "pos" : 133,
+            "pos" : 128,
             "context" : "...in the remote wastelands, or in the subterranean labyrinths of <mark>abandoned<\/mark> strongholds and wizard towers....",
             "fid" : "content" } ] } ] }

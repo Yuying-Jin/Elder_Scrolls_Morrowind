@@ -9,19 +9,19 @@
         [ 
           { "form" : "Hunt",
             "weight" : "1",
-            "pos" : 242,
+            "pos" : 237,
             "context" : "Rituals of the <mark>Hunt<\/mark>:",
             "fid" : "content" },
           
           { "form" : "Hunts",
             "weight" : "1",
-            "pos" : 280,
+            "pos" : 275,
             "context" : "Supposedly the Spear of Bitter Mercy used in the Wild <mark>Hunts<\/mark> could not be handled by any mortal or immortal save the...",
             "fid" : "content" },
           
           { "form" : "Hunt",
             "weight" : "1",
-            "pos" : 288,
+            "pos" : 283,
             "context" : "...by any mortal or immortal save the ones sanctified to the <mark>Hunt<\/mark> and bound by its strictures. However, Chimere has determined...",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "hunt",
             "weight" : "1",
-            "pos" : 400,
+            "pos" : 395,
             "context" : "...Redoran, is on the margin of the region. Ashlanders <mark>hunt<\/mark> for game here, and their herds find sparse grazing. It...",
             "fid" : "content" },
           
           { "form" : "hunt",
             "weight" : "1",
-            "pos" : 901,
+            "pos" : 896,
             "context" : "...complicated by frequent ash storms. The Ashlanders of Erabenimsun camp <mark>hunt<\/mark> game here, but few others venture into this region. The...",
             "fid" : "content" } ] },
       
@@ -49,7 +49,7 @@
         [ 
           { "form" : "hunted",
             "weight" : "1",
-            "pos" : 189,
+            "pos" : 184,
             "context" : "...vampires, and in earlier times the Ordinators and Buoyant Armigers <mark>hunted<\/mark> them to extinction. In recent years, however, vampires...",
             "fid" : "content" } ] },
       
@@ -60,7 +60,7 @@
         [ 
           { "form" : "hunted",
             "weight" : "1",
-            "pos" : 176,
+            "pos" : 171,
             "context" : "...vampires, and in earlier times the Ordinators and Buoyant Armigers <mark>hunted<\/mark> them to extinction. In recent years, however, vampires...",
             "fid" : "content" } ] },
       
@@ -71,7 +71,7 @@
         [ 
           { "form" : "hunting",
             "weight" : "1",
-            "pos" : 461,
+            "pos" : 456,
             "context" : "...from dreugh shells. Dreugh are powerful aquatic creatures, and <mark>hunting<\/mark> them for their hides and wax is a dangerous occupation....",
             "fid" : "content" } ] },
       
@@ -82,7 +82,7 @@
         [ 
           { "form" : "hunted",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 101,
             "context" : "The blood of the hunter and the blood of the <mark>hunted<\/mark>. The joy of the hidden and the joy of the...",
             "fid" : "content" } ] },
       
@@ -93,6 +93,6 @@
         [ 
           { "form" : "hunting",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "...The Temple does not acknowledge the existence of Western vampire <mark>hunting<\/mark> orders. Nonetheless, interviews with Temple officials persuade me that...",
             "fid" : "content" } ] } ] }

@@ -9,25 +9,15 @@
         [ 
           { "form" : "Orsinium",
             "weight" : "1",
-            "pos" : 271,
+            "pos" : 266,
             "context" : "The newly formed <mark>Orsinium<\/mark> presents a unique opportunity. As you know, Orc corpses...",
             "fid" : "content" },
           
           { "form" : "Orsinium",
             "weight" : "1",
-            "pos" : 309,
+            "pos" : 304,
             "context" : ".... To this end, a delegation has been sent to <mark>Orsinium<\/mark>, though we have not yet heard any word on the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Orsinium",
-            "weight" : "1",
-            "pos" : 2912,
-            "context" : "<mark>Orsinium<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "orsinium",
             "weight" : "1",
-            "pos" : 3085,
+            "pos" : 3080,
             "context" : "<mark>orsinium<\/mark>",
             "fid" : "loc",
             "in" : 

@@ -2,16 +2,6 @@
   { "stem" : "arrow",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Arrow",
-            "weight" : "1",
-            "pos" : 984,
-            "context" : "<mark>Arrow<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "arrow",
             "weight" : "1",
-            "pos" : 1156,
+            "pos" : 1151,
             "context" : "<mark>arrow<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "arrow",
             "weight" : "1",
-            "pos" : 328,
+            "pos" : 323,
             "context" : "...tasty and can improve the user's accuracy with a bow and <mark>arrow<\/mark>.",
             "fid" : "content" } ] } ] }

@@ -9,58 +9,33 @@
         [ 
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Moonmoth<\/mark> Legion Fort Interior: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 255,
+            "pos" : 250,
             "context" : "..., Syloria Siruliulus at Buckmoth Legion Fort, Somutis Vunnis at <mark>Moonmoth<\/mark> Legion Fort, Ruccia Conician in the Grand Council Chambers in...",
             "fid" : "content" },
           
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 344,
+            "pos" : 339,
             "context" : "...You can find Imperial cult services in Buckmoth Legion Fort, <mark>Moonmoth<\/mark> Legion Fort, Pelagiad Legion Fort, Gnisis Legion Fort,...",
             "fid" : "content" },
           
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 369,
+            "pos" : 364,
             "context" : "...Ebonheart. Seek training at Wolverine Hall, Buckmoth Fort, <mark>Moonmoth<\/mark> Fort, Ebonheart Imperial Chapels, Governor's Hall in Caldera,...",
             "fid" : "content" },
           
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 440,
+            "pos" : 435,
             "context" : "...; Wolverine Hall in Sadrith Mora; Buckmoth Legion Fort; <mark>Moonmoth<\/mark> Legion Fort; Pelagiad Legion Fort; Gnisis Legion Fort;...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Moonmoth",
-            "weight" : "1",
-            "pos" : 1804,
-            "context" : "Fort <mark>Moonmoth<\/mark>" },
-          
-          { "form" : "Moonmoth",
-            "weight" : "1",
-            "pos" : 1818,
-            "context" : "Fort_<mark>Moonmoth<\/mark>" },
-          
-          { "form" : "Moonmoth",
-            "weight" : "1",
-            "pos" : 2646,
-            "context" : "<mark>Moonmoth<\/mark> Legion Fort" },
-          
-          { "form" : "Moonmoth",
-            "weight" : "1",
-            "pos" : 2663,
-            "context" : "<mark>Moonmoth<\/mark> Legion Fort Interior" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -69,7 +44,7 @@
         [ 
           { "form" : "moonmoth",
             "weight" : "1",
-            "pos" : 1975,
+            "pos" : 1970,
             "context" : "fort <mark>moonmoth<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -77,7 +52,7 @@
           
           { "form" : "moonmoth",
             "weight" : "1",
-            "pos" : 2811,
+            "pos" : 2806,
             "context" : "<mark>moonmoth<\/mark> legion fort",
             "fid" : "loc",
             "in" : 
@@ -85,7 +60,7 @@
           
           { "form" : "moonmoth",
             "weight" : "1",
-            "pos" : 2830,
+            "pos" : 2825,
             "context" : "<mark>moonmoth<\/mark> legion fort interior",
             "fid" : "loc",
             "in" : 
@@ -98,13 +73,13 @@
         [ 
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "<mark>Moonmoth<\/mark> Legion Fort: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "...legion garrisons in Vvardenfell District. The three town garrisons -- <mark>Moonmoth<\/mark> Legion Fort in Balmora , Buckmoth Legion Fort in Ald'ruhn,...",
             "fid" : "content" } ] },
       
@@ -115,7 +90,7 @@
         [ 
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 1130,
+            "pos" : 1125,
             "context" : "..., and Vivec City. The Imperial Legion garrison of Fort <mark>Moonmoth<\/mark> lies south of Balmora.",
             "fid" : "content" } ] },
       
@@ -126,7 +101,7 @@
         [ 
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "<mark>Moonmoth<\/mark> Legion Fort: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -137,6 +112,6 @@
         [ 
           { "form" : "Moonmoth",
             "weight" : "1",
-            "pos" : 614,
+            "pos" : 609,
             "context" : "...Balmora. An old Dwemer bridge crosses the foyada near Fort <mark>Moonmoth<\/mark>. A pilgrim may follow the Foyada Mamaea all the way...",
             "fid" : "content" } ] } ] }

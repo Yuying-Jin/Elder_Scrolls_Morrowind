@@ -2,16 +2,6 @@
   { "stem" : "ancienct",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ancienct",
-            "weight" : "1",
-            "pos" : 941,
-            "context" : "<mark>Ancienct<\/mark> Shipwreck" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "ancienct",
             "weight" : "1",
-            "pos" : 1113,
+            "pos" : 1108,
             "context" : "<mark>ancienct<\/mark> shipwreck",
             "fid" : "loc",
             "in" : 

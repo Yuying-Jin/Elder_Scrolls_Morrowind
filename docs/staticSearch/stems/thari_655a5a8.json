@@ -2,16 +2,6 @@
   { "stem" : "thari",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Tharys",
-            "weight" : "1",
-            "pos" : 4071,
-            "context" : "<mark>Tharys<\/mark>_Ancestral_Tomb" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "tharys",
             "weight" : "1",
-            "pos" : 4215,
+            "pos" : 4210,
             "context" : "<mark>tharys<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Tharys",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "<mark>Tharys<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] } ] }

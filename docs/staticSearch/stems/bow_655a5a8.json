@@ -9,19 +9,9 @@
         [ 
           { "form" : "bow",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "...slugging match, so you want the marksman's weapons -- the <mark>bow<\/mark>, crossbow, throwing star, and dart. You want...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "bow",
-            "weight" : "1",
-            "pos" : 69,
-            "context" : "<mark>bow<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "bow",
             "weight" : "1",
-            "pos" : 251,
+            "pos" : 246,
             "context" : "<mark>bow<\/mark>",
             "fid" : "items",
             "in" : 
@@ -43,7 +33,7 @@
         [ 
           { "form" : "bowed",
             "weight" : "1",
-            "pos" : 234,
+            "pos" : 229,
             "context" : "Egroamaro <mark>bowed<\/mark> to his adversary sardonically, and then prepared to unleash a...",
             "fid" : "content" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "bow",
             "weight" : "1",
-            "pos" : 327,
+            "pos" : 322,
             "context" : "...is very tasty and can improve the user's accuracy with a <mark>bow<\/mark> and arrow.",
             "fid" : "content" } ] } ] }

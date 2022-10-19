@@ -9,7 +9,7 @@
         [ 
           { "form" : "smuggling",
             "weight" : "1",
-            "pos" : 770,
+            "pos" : 765,
             "context" : "...of the Coastguard station. The Coastguard cutters docked here control <mark>smuggling<\/mark> and piracy on the Inner Sea.",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Smuggling",
             "weight" : "1",
-            "pos" : 230,
+            "pos" : 225,
             "context" : "<mark>Smuggling<\/mark> and organized crime have become increasingly aggressive and violent in the...",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "smuggling",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...fell on the small island, the two men discussed the <mark>smuggling<\/mark> operation and what went wrong. Their boat, laden with...",
             "fid" : "content" } ] } ] }

@@ -9,25 +9,25 @@
         [ 
           { "form" : "Chapters",
             "weight" : "1",
-            "pos" : 163,
+            "pos" : 158,
             "context" : "Fighters Guild <mark>Chapters<\/mark> in Vvardenfell District, Province of Morrowind",
             "fid" : "content" },
           
           { "form" : "Chapters",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 163,
             "context" : "<mark>Chapters<\/mark> are established in Guild-owned, free-standing guildhalls...",
             "fid" : "content" },
           
           { "form" : "chapter",
             "weight" : "1",
-            "pos" : 180,
+            "pos" : 175,
             "context" : "...standing guildhalls in the towns of Ald'ruhn and Balmora. The <mark>chapter<\/mark> in Sadright Mora is established in Wolverine Hall: Sadrith Mora...",
             "fid" : "content" },
           
           { "form" : "chapter",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : "...Mora Fighters Guild under lease from the Telvanni Council. The <mark>chapter<\/mark> in Vivec is established in the Foreign Quarter under lease from...",
             "fid" : "content" } ] },
       
@@ -38,6 +38,6 @@
         [ 
           { "form" : "chapter",
             "weight" : "1",
-            "pos" : 275,
+            "pos" : 270,
             "context" : "...commandant of Buckmoth Fort, but Imsin the Dreamer is the <mark>chapter<\/mark> steward. The Redguard Hean is priest of the Imperial cult...",
             "fid" : "content" } ] } ] }

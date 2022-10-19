@@ -9,31 +9,31 @@
         [ 
           { "form" : "Dres",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "...House Redoran, House Telvanni, House Indoril, and House <mark>Dres<\/mark>. Only three of these Houses have interests in Vvardenfell....",
             "fid" : "content" },
           
           { "form" : "Dres",
             "weight" : "1",
-            "pos" : 445,
+            "pos" : 440,
             "context" : "House Indoril and House <mark>Dres<\/mark> are the two Great Houses without holdings or interest in Vvardenfell...",
             "fid" : "content" },
           
           { "form" : "Dres",
             "weight" : "1",
-            "pos" : 493,
+            "pos" : 488,
             "context" : "...traditional Dunmer customs and practices in defiance of Imperial law. <mark>Dres<\/mark> District is in the south of Morrowind, bordering the swamps...",
             "fid" : "content" },
           
           { "form" : "Dres",
             "weight" : "1",
-            "pos" : 503,
+            "pos" : 498,
             "context" : "..., bordering the swamps and marshes of Black Marsh. House <mark>Dres<\/mark> is an agrarian agricultural society, and its large saltrice plantations...",
             "fid" : "content" },
           
           { "form" : "Dres",
             "weight" : "1",
-            "pos" : 521,
+            "pos" : 516,
             "context" : "...for their economic viability. Always firm Temple supporters, House <mark>Dres<\/mark> is hostile to Imperial law and culture, and in particular...",
             "fid" : "content" } ] },
       
@@ -44,19 +44,9 @@
         [ 
           { "form" : "Dres",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "...the money runs dry, will the people remember? The <mark>Dres<\/mark> know how to make money, but they have not learned...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Dres",
-            "weight" : "1",
-            "pos" : 5148,
-            "context" : "<mark>Dres<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -65,7 +55,7 @@
         [ 
           { "form" : "dres",
             "weight" : "1",
-            "pos" : 5340,
+            "pos" : 5335,
             "context" : "<mark>dres<\/mark>",
             "fid" : "group",
             "in" : 

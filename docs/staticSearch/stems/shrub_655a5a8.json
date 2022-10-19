@@ -9,36 +9,21 @@
         [ 
           { "form" : "shrub",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 163,
             "context" : "...lost in later states of gestation. chokeweed is a tough <mark>shrub<\/mark> growing in the rocky highlands of the West Gash.",
             "fid" : "content" },
           
           { "form" : "shrub",
             "weight" : "1",
-            "pos" : 259,
+            "pos" : 254,
             "context" : "...gained from heather and scuttle. Heather is a low evergreen <mark>shrub<\/mark> of the Ascadian Isles, known for its small, pinkish...",
             "fid" : "content" },
           
           { "form" : "shrub",
             "weight" : "1",
-            "pos" : 296,
+            "pos" : 291,
             "context" : ".... A thick, bitter-tasting root of the trama <mark>shrub<\/mark> grows in the Ashlands, Molag Amur, and Red Mountain...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "shrub",
-            "weight" : "1",
-            "pos" : 560,
-            "context" : "trama_<mark>shrub<\/mark>" },
-          
-          { "form" : "shrubs",
-            "weight" : "1",
-            "pos" : 567,
-            "context" : "trama_<mark>shrubs<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "shrub",
             "weight" : "1",
-            "pos" : 734,
+            "pos" : 729,
             "context" : "trama <mark>shrub<\/mark>",
             "fid" : "items",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "shrubs",
             "weight" : "1",
-            "pos" : 741,
+            "pos" : 736,
             "context" : "trama <mark>shrubs<\/mark>",
             "fid" : "items",
             "in" : 
@@ -68,13 +53,13 @@
         [ 
           { "form" : "shrubs",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 80,
             "context" : "..., gold kanet, chokeweed, white bloatroot, and trama <mark>shrubs<\/mark>. He had also grown himself into a remarkably uninteresting man...",
             "fid" : "content" },
           
           { "form" : "shrubs",
             "weight" : "1",
-            "pos" : 142,
+            "pos" : 137,
             "context" : "..., he heard some people talking through the thick tall trama <mark>shrubs<\/mark> about the marriage of Sedura Indoril Pavflek Mamoona, one of...",
             "fid" : "content" } ] },
       
@@ -85,7 +70,7 @@
         [ 
           { "form" : "shrub",
             "weight" : "1",
-            "pos" : 214,
+            "pos" : 209,
             "context" : "...Vanis, but so strong, he could rip a trama <mark>shrub<\/mark> up by the roots with two fingers. Baranat hid himself...",
             "fid" : "content" } ] },
       
@@ -96,6 +81,6 @@
         [ 
           { "form" : "shrub",
             "weight" : "1",
-            "pos" : 597,
+            "pos" : 592,
             "context" : "...the city gates, making a laconic lunch of the chokeweed <mark>shrub<\/mark> to which it had been leashed.",
             "fid" : "content" } ] } ] }

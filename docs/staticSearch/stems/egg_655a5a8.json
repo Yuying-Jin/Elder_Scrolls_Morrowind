@@ -9,31 +9,31 @@
         [ 
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...so that she might give birth to the image as an <mark>egg<\/mark>. There she stayed for seven or eight months.",
             "fid" : "content" },
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "...King of the Three in One. In you is an <mark>egg<\/mark> of my brother-sister, who possesses invisible knowledge of...",
             "fid" : "content" },
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 144,
+            "pos" : 139,
             "context" : "...lay for seven or eight more months, caring for the <mark>egg<\/mark>-knowledge by whispering to it the Codes of Mephala and...",
             "fid" : "content" },
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 162,
+            "pos" : 157,
             "context" : "...came to her one night and each one gave to the <mark>egg<\/mark> new motions that could be achieved by certain movements of the...",
             "fid" : "content" },
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 222,
+            "pos" : 217,
             "context" : "...of fighting styles terrible to behold and they danced before the <mark>egg<\/mark> and its learning image.",
             "fid" : "content" } ] },
       
@@ -44,31 +44,31 @@
         [ 
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "1 large kwama <mark>egg<\/mark>",
             "fid" : "content" },
           
           { "form" : "eggs",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "Beat <mark>eggs<\/mark>, wickwheat, and Scuttle in a large bowl. Slowly...",
             "fid" : "content" },
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 65,
             "context" : "1 small Kwama <mark>egg<\/mark>",
             "fid" : "content" },
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...Stir for a few moments and add the Scuttle and Kwama <mark>egg<\/mark>. When the Kwama egg is fully cooked and the Scuttle...",
             "fid" : "content" },
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "...and add the Scuttle and Kwama egg. When the Kwama <mark>egg<\/mark> is fully cooked and the Scuttle has melted, pour from...",
             "fid" : "content" } ] },
       
@@ -79,47 +79,27 @@
         [ 
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : "...of the following: crab meat, bread, small kwama <mark>egg<\/mark>, and chokeweed. Crabmeat is taken from the mud crab...",
             "fid" : "content" },
           
           { "form" : "eggs",
             "weight" : "1",
-            "pos" : 151,
+            "pos" : 146,
             "context" : "...bread in Morrowind is usually baked from saltrice flour. Kwama <mark>eggs<\/mark> are harvested from egg mines, and sold everywhere in Morrowind...",
             "fid" : "content" },
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 153,
+            "pos" : 148,
             "context" : "...usually baked from saltrice flour. Kwama eggs are harvested from <mark>egg<\/mark> mines, and sold everywhere in Morrowind; the smaller eggs...",
             "fid" : "content" },
           
           { "form" : "eggs",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "...egg mines, and sold everywhere in Morrowind; the smaller <mark>eggs<\/mark> retain properties lost in later states of gestation. chokeweed is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "egg",
-            "weight" : "1",
-            "pos" : 318,
-            "context" : "kwama <mark>egg<\/mark>" },
-          
-          { "form" : "egg",
-            "weight" : "1",
-            "pos" : 334,
-            "context" : "large kwama <mark>egg<\/mark>" },
-          
-          { "form" : "egg",
-            "weight" : "1",
-            "pos" : 498,
-            "context" : "small_kwama_<mark>egg<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -128,7 +108,7 @@
         [ 
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 498,
+            "pos" : 493,
             "context" : "kwama <mark>egg<\/mark>",
             "fid" : "items",
             "in" : 
@@ -136,7 +116,7 @@
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 507,
+            "pos" : 502,
             "context" : "large kwama <mark>egg<\/mark>",
             "fid" : "items",
             "in" : 
@@ -144,7 +124,7 @@
           
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 668,
+            "pos" : 663,
             "context" : "small kwama <mark>egg<\/mark>",
             "fid" : "items",
             "in" : 
@@ -157,6 +137,6 @@
         [ 
           { "form" : "egg",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : " Young Sotha Sil, while playing in the <mark>egg<\/mark> mines, saw a number of scribs in a deep shaft...",
             "fid" : "content" } ] } ] }

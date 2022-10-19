@@ -9,13 +9,13 @@
         [ 
           { "form" : "swimming",
             "weight" : "1",
-            "pos" : 181,
+            "pos" : 176,
             "context" : "..., until he saw the small, quick, golden fish <mark>swimming<\/mark> at the edges of the island. He had read somewhere...",
             "fid" : "content" },
           
           { "form" : "swim",
             "weight" : "1",
-            "pos" : 278,
+            "pos" : 273,
             "context" : "...observe them a little longer. Why can't the little fechers <mark>swim<\/mark> in straight lines?\"",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "swim",
             "weight" : "1",
-            "pos" : 303,
+            "pos" : 298,
             "context" : "...the mainland, you must either be able to fly, <mark>swim<\/mark>, or water-walk, or you must rely on...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "swim",
             "weight" : "1",
-            "pos" : 288,
+            "pos" : 283,
             "context" : "...than his brother Feryn, and so tough that he could <mark>swim<\/mark> in the lava of Dagoth Ur like it was the Padomaic...",
             "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "Suitable",
             "weight" : "1",
-            "pos" : 230,
+            "pos" : 225,
             "context" : "...is customary to leave behind a Potion of Rising Force. <mark>Suitable<\/mark> potions may be purchased from the Temple . Homemade potions are...",
             "fid" : "content" },
           
           { "form" : "Suitable",
             "weight" : "1",
-            "pos" : 467,
+            "pos" : 462,
             "context" : "...Common Disease as a token of your respect for justice. <mark>Suitable<\/mark> potions may be purchased from Temple. Homemade potions are not...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "suitable",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "Finding <mark>suitable<\/mark> corpses in Black Marsh is nearly impossible due to their rapid...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "suitable",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "...zombie servant, one need only bring the corpse to a <mark>suitable<\/mark> site and enact the proper rituals. However, there are...",
             "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "caverns",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "...Troubles, Molag Bal, at an altar deep in the <mark>caverns<\/mark> beneath the pilgrim's shrine. I was surprised, and thrilled...",
             "fid" : "content" },
           
           { "form" : "cavern",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 120,
             "context" : "...obtained a cursed soul gem of mysterious nature from a deep <mark>cavern<\/mark> on the northern slopes of Dagoth Ur, delivering it to...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "cavern",
             "weight" : "1",
-            "pos" : 511,
+            "pos" : 506,
             "context" : "...The Shrine of Valor is inside the Koal Cave, a <mark>cavern<\/mark> on the seacoast west of the ancient stronghold Berandas and south...",
             "fid" : "content" } ] } ] }

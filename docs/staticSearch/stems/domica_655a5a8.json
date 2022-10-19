@@ -2,16 +2,6 @@
   { "stem" : "domica",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "domica",
-            "weight" : "1",
-            "pos" : 163,
-            "context" : "<mark>domica<\/mark> redwort" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "domica",
             "weight" : "1",
-            "pos" : 345,
+            "pos" : 340,
             "context" : "<mark>domica<\/mark> redwort",
             "fid" : "items",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Domica",
             "weight" : "1",
-            "pos" : 186,
+            "pos" : 181,
             "context" : "<mark>Domica<\/mark> Redwort is a herb grown by many residents of Valenwood for...",
             "fid" : "content" } ] } ] }

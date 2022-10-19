@@ -70,22 +70,25 @@ section {
      
  }
  
- .nav  ul{
-      
+ .nav {
   list-style-type: none;
-  margin: 0 auto;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+/*  background-color: #333;*/
   font-family: "Lucida Console", Courier, monospace;
   position: sticky;
   top: 0;
 
   }
- 
+.nav ul{
+  margin:0 auto;
+  display:table;
+}
 .nav li {
   float:inherit;
+  padding:0;
   border-right: 1px solid #bbb;
+  display:inline-block;
   }
   .nav li a{
   display: block;
@@ -96,7 +99,7 @@ section {
   }
   
   .nav li a:hover{
-  background-color: #111;
+  background-color: #e37839;
   }
   
  

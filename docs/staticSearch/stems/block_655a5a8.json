@@ -9,13 +9,13 @@
         [ 
           { "form" : "blocking",
             "weight" : "1",
-            "pos" : 165,
+            "pos" : 160,
             "context" : "...shield and heavy armor, and so must be skilled at <mark>blocking<\/mark> and moving in heavy armor.",
             "fid" : "content" },
           
           { "form" : "block",
             "weight" : "1",
-            "pos" : 179,
+            "pos" : 174,
             "context" : "...long blade, spear, and blunt weapons. You must <mark>block<\/mark> whatever blows you can, and take unblocked blows upon your heavy...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "blocked",
             "weight" : "1",
-            "pos" : 607,
+            "pos" : 602,
             "context" : "...his sparring partner to attack him with his sword. He <mark>blocked<\/mark> the blows effortlessly with a shield for ten minutes, and...",
             "fid" : "content" },
           
           { "form" : "blocking",
             "weight" : "1",
-            "pos" : 637,
+            "pos" : 632,
             "context" : "...to attack him with his sword. After twenty minutes of <mark>blocking<\/mark> the man's blows with his shield, he revealed that he...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "blocks",
             "weight" : "1",
-            "pos" : 987,
+            "pos" : 982,
             "context" : "...with surface lava. The Ghostfence, a magical barrier which <mark>blocks<\/mark> travel as well as seals in the harmful, disease-...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "blocked",
             "weight" : "1",
-            "pos" : 412,
+            "pos" : 407,
             "context" : "...the arrhythmic style the Khajiit call Goutfang; he parried and <mark>blocked<\/mark> in all the fashions of the great Nordic warriors; he...",
             "fid" : "content" } ] } ] }

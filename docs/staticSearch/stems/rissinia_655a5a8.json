@@ -2,16 +2,6 @@
   { "stem" : "rissinia",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Rissinia",
-            "weight" : "1",
-            "pos" : 7083,
-            "context" : "<mark>Rissinia<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "rissinia",
             "weight" : "1",
-            "pos" : 7215,
+            "pos" : 7210,
             "context" : "<mark>rissinia<\/mark>",
             "fid" : "persons",
             "in" : 

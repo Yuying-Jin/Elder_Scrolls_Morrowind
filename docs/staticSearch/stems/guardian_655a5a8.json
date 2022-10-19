@@ -9,13 +9,13 @@
         [ 
           { "form" : "Guardian",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "This explicit presentation of Vivec the <mark>Guardian<\/mark> God-King and Warrior-Poet is the one most...",
             "fid" : "content" },
           
           { "form" : "guardian",
             "weight" : "1",
-            "pos" : 282,
+            "pos" : 277,
             "context" : "...Rather, they conceive of Lord Vivec as benevolent king, <mark>guardian<\/mark> warrior, poet-artist. But, at the same time...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "guardian",
             "weight" : "1",
-            "pos" : 197,
+            "pos" : 192,
             "context" : "...given in love to Hearth and Kin. But ghost or <mark>guardian<\/mark>, bonewalker or bonelord, summoned by profane ritual and bound...",
             "fid" : "content" } ] },
       
@@ -37,19 +37,9 @@
         [ 
           { "form" : "guardians",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "...believes that Almalexia, Vivec, and Sotha Sil were mortal <mark>guardians<\/mark> of Morrowind who walked the earth, defeated the Dunmer's greatest...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Guardian",
-            "weight" : "1",
-            "pos" : 5340,
-            "context" : "Ancestory <mark>Guardian<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -58,7 +48,7 @@
         [ 
           { "form" : "guardian",
             "weight" : "1",
-            "pos" : 5581,
+            "pos" : 5576,
             "context" : "ancestory <mark>guardian<\/mark>",
             "fid" : "group",
             "in" : 

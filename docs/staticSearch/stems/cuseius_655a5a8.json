@@ -2,16 +2,6 @@
   { "stem" : "cuseius",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Cuseius",
-            "weight" : "1",
-            "pos" : 7028,
-            "context" : "<mark>Cuseius<\/mark> Plecia" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "cuseius",
             "weight" : "1",
-            "pos" : 7153,
+            "pos" : 7148,
             "context" : "<mark>cuseius<\/mark> plecia",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Cuseius",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "[from the correspondence of <mark>Cuseius<\/mark> Plecia, Imperial trader, writing from the Vos Tradehouse in...",
             "fid" : "CuseiusPlecia" } ] } ] }

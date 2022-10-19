@@ -2,16 +2,6 @@
   { "stem" : "utherus",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Utherus",
-            "weight" : "1",
-            "pos" : 4264,
-            "context" : "<mark>Utherus<\/mark> Swamp" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "utherus",
             "weight" : "1",
-            "pos" : 4407,
+            "pos" : 4402,
             "context" : "<mark>utherus<\/mark> swamp",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Utherus",
             "weight" : "1",
-            "pos" : 155,
+            "pos" : 150,
             "context" : "...Black Marsh. It is especially prolific around the area of <mark>Utherus<\/mark> Swamp. It is a beautiful wildflower. Its name comes...",
             "fid" : "content" } ] } ] }

@@ -9,25 +9,15 @@
         [ 
           { "form" : "Flin",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "...Salts, Green Lichens and Bonemeal 1 Part Moonsugar 5 Parts <mark>Flin<\/mark>",
             "fid" : "content" },
           
           { "form" : "Flin",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "...hot drink, strain contents through Scamp Skin and mix with <mark>Flin<\/mark> in large mug, slowly stirring with a glass rod....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "flin",
-            "weight" : "1",
-            "pos" : 214,
-            "context" : "<mark>flin<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "flin",
             "weight" : "1",
-            "pos" : 395,
+            "pos" : 390,
             "context" : "<mark>flin<\/mark>",
             "fid" : "items",
             "in" : 
@@ -49,6 +39,6 @@
         [ 
           { "form" : "flin",
             "weight" : "1",
-            "pos" : 214,
+            "pos" : 209,
             "context" : "...High Councilor and Lord of Morrowind, imposes favorable tariffs on <mark>flin<\/mark> [an imported fortified Imperial alcoholic beverage]. The council protests the...",
             "fid" : "flin" } ] } ] }

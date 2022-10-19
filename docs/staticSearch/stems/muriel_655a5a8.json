@@ -9,31 +9,21 @@
         [ 
           { "form" : "Muriel's",
             "weight" : "1",
-            "pos" : 124,
+            "pos" : 119,
             "context" : "...Wolverine Hall. Members of the Thieves Guild congregate at Dirty <mark>Muriel's<\/mark> Cornerclub. Telvanni Great House and Tribunal Temple services are all...",
             "fid" : "content" },
           
           { "form" : "Muriel's",
             "weight" : "1",
-            "pos" : 185,
+            "pos" : 180,
             "context" : "...are scattered through town. There are two cornerclubs: Dirty <mark>Muriel's<\/mark>, for outlanders, and Fara's Hole in the Wall for...",
             "fid" : "content" },
           
           { "form" : "Muriel's",
             "weight" : "1",
-            "pos" : 243,
+            "pos" : 238,
             "context" : "..., the Thieves Guild Boss, makes frequent appearances at Dirty <mark>Muriel's<\/mark> Cornerclub. Telvanni wizards and retainers visit the Council Hall to...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Muriel's",
-            "weight" : "1",
-            "pos" : 1555,
-            "context" : "Dirty <mark>Muriel's<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -42,7 +32,7 @@
         [ 
           { "form" : "muriel's",
             "weight" : "1",
-            "pos" : 1724,
+            "pos" : 1719,
             "context" : "dirty <mark>muriel's<\/mark>",
             "fid" : "loc",
             "in" : 

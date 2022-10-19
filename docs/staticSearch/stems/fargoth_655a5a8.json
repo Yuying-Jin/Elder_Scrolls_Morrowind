@@ -9,19 +9,9 @@
         [ 
           { "form" : "Fargoth's",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "<mark>Fargoth's<\/mark> House: Visitable? ",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Fargoth's",
-            "weight" : "1",
-            "pos" : 1742,
-            "context" : "<mark>Fargoth's<\/mark> House" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "fargoth's",
             "weight" : "1",
-            "pos" : 1913,
+            "pos" : 1908,
             "context" : "<mark>fargoth's<\/mark> house",
             "fid" : "loc",
             "in" : 

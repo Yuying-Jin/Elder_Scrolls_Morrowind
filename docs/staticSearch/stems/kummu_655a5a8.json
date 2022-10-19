@@ -9,42 +9,27 @@
         [ 
           { "form" : "Kummu",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Fields of <mark>Kummu<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Kummu",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "The Fields of <mark>Kummu<\/mark>: Shrine of Humility",
             "fid" : "content" },
           
           { "form" : "Kummu",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "...the crop was harvested. It is at the Fields of <mark>Kummu<\/mark> we go to pray for the same humility Lord Vivec showed...",
             "fid" : "content" },
           
           { "form" : "Kummu",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "The Fields of <mark>Kummu<\/mark> are west of Suran on the north shore of Lake Amaya...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Kummu",
-            "weight" : "1",
-            "pos" : 1750,
-            "context" : "Fields of <mark>Kummu<\/mark>" },
-          
-          { "form" : "Kummu",
-            "weight" : "1",
-            "pos" : 1757,
-            "context" : "Fields_of_<mark>Kummu<\/mark>" } ] },
       
       { "docId" : "librarium_Guide_to_Vvardenfell",
         "docUri" : "librarium\/Guide_to_Vvardenfell.html",
@@ -53,7 +38,7 @@
         [ 
           { "form" : "Kummu",
             "weight" : "1",
-            "pos" : 321,
+            "pos" : 316,
             "context" : ".... Two popular pilgrimage sites are nearby -- the Fields of <mark>Kummu<\/mark> and the Molag Bal's Shrine.",
             "fid" : "content" } ] },
       
@@ -64,7 +49,7 @@
         [ 
           { "form" : "kummu",
             "weight" : "1",
-            "pos" : 1921,
+            "pos" : 1916,
             "context" : "fields of <mark>kummu<\/mark>",
             "fid" : "loc",
             "in" : 

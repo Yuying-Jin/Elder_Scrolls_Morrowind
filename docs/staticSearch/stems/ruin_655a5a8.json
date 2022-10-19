@@ -9,19 +9,19 @@
         [ 
           { "form" : "ruin",
             "weight" : "1",
-            "pos" : 209,
+            "pos" : 204,
             "context" : "...from Sadrith Mora, and he soon saw the blight and <mark>ruin<\/mark> that was the battlemage's calling card. Delving into the depths...",
             "fid" : "content" },
           
           { "form" : "ruins",
             "weight" : "1",
-            "pos" : 215,
+            "pos" : 210,
             "context" : "...the battlemage's calling card. Delving into the depths of the <mark>ruins<\/mark>, Silverthorn was set upon by the servitors of Egroamaro,...",
             "fid" : "content" },
           
           { "form" : "ruins",
             "weight" : "1",
-            "pos" : 249,
+            "pos" : 244,
             "context" : "...he suddenly found that all the creaking and sighing of the <mark>ruins<\/mark> around him had been stilled. He opened his voice to...",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "ruin",
             "weight" : "1",
-            "pos" : 287,
+            "pos" : 282,
             "context" : " Ald Sotha is a splendid Daedric <mark>ruin<\/mark> within sight of Vivec City. Though exotic and picturesque,...",
             "fid" : "content" },
           
           { "form" : "ruin",
             "weight" : "1",
-            "pos" : 642,
+            "pos" : 637,
             "context" : "...Fell is the \"City of Stone,\" an ancient First Era <mark>ruin<\/mark> in the southeastern islands and promontories of Azura's Coast. The...",
             "fid" : "content" } ] },
       
@@ -49,19 +49,9 @@
         [ 
           { "form" : "ruins",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 76,
             "context" : "...more dangerous still, but they generally appear only in Dwarven <mark>ruins<\/mark>.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "ruins",
-            "weight" : "1",
-            "pos" : 1596,
-            "context" : "Dwarven <mark>ruins<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -70,7 +60,7 @@
         [ 
           { "form" : "ruins",
             "weight" : "1",
-            "pos" : 1765,
+            "pos" : 1760,
             "context" : "dwarven <mark>ruins<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -83,7 +73,7 @@
         [ 
           { "form" : "ruins",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "...more dangerous still, but they generally appear only in Dwarven <mark>ruins<\/mark>.",
             "fid" : "content" } ] },
       
@@ -94,6 +84,6 @@
         [ 
           { "form" : "ruins",
             "weight" : "1",
-            "pos" : 238,
+            "pos" : 233,
             "context" : "...slain, and Chimere was condemned to live forever among the <mark>ruins<\/mark> of his greatest ambition.",
             "fid" : "content" } ] } ] }

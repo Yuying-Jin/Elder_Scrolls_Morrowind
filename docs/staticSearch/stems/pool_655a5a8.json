@@ -9,13 +9,13 @@
         [ 
           { "form" : "pool",
             "weight" : "1",
-            "pos" : 139,
+            "pos" : 134,
             "context" : "...It is said that if a kagouti steps into a boiling <mark>pool<\/mark>, he will leap out immediately to avoid harm. But...",
             "fid" : "content" },
           
           { "form" : "pool",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "...avoid harm. But if the kagouti is standing in a <mark>pool<\/mark>, and a wizard slowly raises the temperature, measure by...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "pools",
             "weight" : "1",
-            "pos" : 884,
+            "pos" : 879,
             "context" : "...wasteland of rocky hills, steep-sided ravines, lava <mark>pools<\/mark>, and barren ash pavements. Pathfinding and travel is extremely...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "pooling",
             "weight" : "1",
-            "pos" : 506,
+            "pos" : 501,
             "context" : "...been raised, the gold was gone, and corpses lay <mark>pooling<\/mark> blood on the stone floors within.",
             "fid" : "content" } ] } ] }

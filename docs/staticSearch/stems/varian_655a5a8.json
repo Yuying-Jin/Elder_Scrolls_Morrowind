@@ -9,19 +9,9 @@
         [ 
           { "form" : "Varian",
             "weight" : "1",
-            "pos" : 265,
+            "pos" : 260,
             "context" : "...Conician in the Grand Council Chambers in Ebonheart, or Lalatia <mark>Varian<\/mark> in the Imperial Chapels at Ebonheart.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Varian",
-            "weight" : "1",
-            "pos" : 2421,
-            "context" : "Lalatia <mark>Varian<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "varian",
             "weight" : "1",
-            "pos" : 2590,
+            "pos" : 2585,
             "context" : "lalatia <mark>varian<\/mark>",
             "fid" : "loc",
             "in" : 

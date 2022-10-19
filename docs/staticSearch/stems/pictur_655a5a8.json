@@ -9,12 +9,12 @@
         [ 
           { "form" : "Picture",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "No-h's <mark>Picture<\/mark> Book of Wood" },
           
           { "form" : "Picture",
             "weight" : "1",
-            "pos" : 802,
+            "pos" : 797,
             "context" : "No-h's <mark>Picture<\/mark> Book of Wood, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,26 +22,11 @@
           
           { "form" : "Picture",
             "weight" : "1",
-            "pos" : 1898,
+            "pos" : 1893,
             "context" : "No-h's <mark>Picture<\/mark> Book of Wood, count: 1",
             "fid" : "loc",
             "in" : 
             [ "ssCtx3" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Picture",
-            "weight" : "1",
-            "pos" : 625,
-            "context" : "No-h's <mark>Picture<\/mark> Book of Wood, count: 1" },
-          
-          { "form" : "Picture",
-            "weight" : "1",
-            "pos" : 1727,
-            "context" : "No-h's <mark>Picture<\/mark> Book of Wood, count: 1" } ] },
       
       { "docId" : "librarium_silence",
         "docUri" : "librarium\/silence.html",
@@ -50,7 +35,7 @@
         [ 
           { "form" : "picture",
             "weight" : "1",
-            "pos" : 187,
+            "pos" : 182,
             "context" : "...while he tapped the side of his glass, making him <mark>picture<\/mark> the sound as the physical entity it was, before it was...",
             "fid" : "content" } ] },
       
@@ -61,6 +46,6 @@
         [ 
           { "form" : "pictured",
             "weight" : "1",
-            "pos" : 655,
+            "pos" : 650,
             "context" : "...prodded his mount forward and the sun began rising, Sathis <mark>pictured<\/mark> Galsiah and Imalyn not undergoing interrogation, but sleeping the good...",
             "fid" : "content" } ] } ] }

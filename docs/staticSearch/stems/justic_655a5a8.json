@@ -2,31 +2,6 @@
   { "stem" : "justic",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Justice",
-            "weight" : "1",
-            "pos" : 2107,
-            "context" : "Hall of <mark>Justice<\/mark>" },
-          
-          { "form" : "Justice",
-            "weight" : "1",
-            "pos" : 2117,
-            "context" : "Hall of <mark>Justice<\/mark> Secret Library" },
-          
-          { "form" : "Justice",
-            "weight" : "1",
-            "pos" : 4465,
-            "context" : "Vivec, Hall of <mark>Justice<\/mark> Secret Library" },
-          
-          { "form" : "Justice",
-            "weight" : "1",
-            "pos" : 4560,
-            "context" : "Vivec,_Hall_of_<mark>Justice<\/mark>_Secret_Library" } ] },
-      
       { "docId" : "librarium_Guide_to_Vivec",
         "docUri" : "librarium\/Guide_to_Vivec.html",
         "score" : 3,
@@ -34,19 +9,19 @@
         [ 
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "...temple of the High Fane, the Halls of Wisdom and <mark>Justice<\/mark>, and Lord Vivec's Palace.",
             "fid" : "content" },
           
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 102,
+            "pos" : 97,
             "context" : "...Truth, and the Hall of Wisdom and the Hall of <mark>Justice<\/mark> at the bottom, the Hlaalu Compound to the west,...",
             "fid" : "content" },
           
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 232,
+            "pos" : 227,
             "context" : "...re-educated there. The Hall of Wisdom and Hall of <mark>Justice<\/mark> contain the executive, administrative, judicial, and martial operations...",
             "fid" : "content" } ] },
       
@@ -57,7 +32,7 @@
         [ 
           { "form" : "justice",
             "weight" : "1",
-            "pos" : 2274,
+            "pos" : 2269,
             "context" : "hall of <mark>justice<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -65,7 +40,7 @@
           
           { "form" : "justice",
             "weight" : "1",
-            "pos" : 2287,
+            "pos" : 2282,
             "context" : "hall of <mark>justice<\/mark> secret library",
             "fid" : "loc",
             "in" : 
@@ -73,7 +48,7 @@
           
           { "form" : "justice",
             "weight" : "1",
-            "pos" : 4629,
+            "pos" : 4624,
             "context" : "vivec, hall of <mark>justice<\/mark> secret library",
             "fid" : "loc",
             "in" : 
@@ -86,19 +61,19 @@
         [ 
           { "form" : "JUSTICE",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "<mark>JUSTICE<\/mark>",
             "fid" : "content" },
           
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "The Grace of <mark>Justice<\/mark>",
             "fid" : "content" },
           
           { "form" : "justice",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 101,
             "context" : "Thank you for your <mark>justice<\/mark>, Lord Vivec. I shall be neither cruel nor arbitrary...",
             "fid" : "content" } ] },
       
@@ -109,19 +84,19 @@
         [ 
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 379,
+            "pos" : 374,
             "context" : "The Mask of Vivec: Shrine of <mark>Justice<\/mark>",
             "fid" : "content" },
           
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 445,
+            "pos" : 440,
             "context" : "The Shrine of <mark>Justice<\/mark> is guarded within the Gnisis Temple, in the village of...",
             "fid" : "content" },
           
           { "form" : "justice",
             "weight" : "1",
-            "pos" : 466,
+            "pos" : 461,
             "context" : "...of Cure Common Disease as a token of your respect for <mark>justice<\/mark>. Suitable potions may be purchased from Temple. Homemade potions...",
             "fid" : "content" } ] },
       
@@ -132,13 +107,13 @@
         [ 
           { "form" : "justice",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : "Comfort is given, <mark>justice<\/mark> is taken.",
             "fid" : "content" },
           
           { "form" : "justice",
             "weight" : "1",
-            "pos" : 191,
+            "pos" : 186,
             "context" : "Can ghosts or <mark>justice<\/mark> change with time?",
             "fid" : "content" } ] },
       
@@ -149,7 +124,7 @@
         [ 
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "<mark>Justice<\/mark> Offices: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -160,7 +135,7 @@
         [ 
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Hall of <mark>Justice<\/mark> Secret Library: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -171,7 +146,7 @@
         [ 
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...: Humility, Inspiration, Piety, Work, Compassion, <mark>Justice<\/mark>, Ambition, Learning, and Civility. Our Emperor is...",
             "fid" : "content" } ] },
       
@@ -182,7 +157,7 @@
         [ 
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "Hall of <mark>Justice<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -193,7 +168,7 @@
         [ 
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "Vivec, Hall of <mark>Justice<\/mark> Secret Library: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -204,6 +179,6 @@
         [ 
           { "form" : "Justice",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "Vivec, Hall of <mark>Justice<\/mark> Secret Library: Visitable? yes",
             "fid" : "acq" } ] } ] }

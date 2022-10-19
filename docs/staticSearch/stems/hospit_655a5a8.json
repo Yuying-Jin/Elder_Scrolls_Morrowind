@@ -9,13 +9,13 @@
         [ 
           { "form" : "hospitality",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "...Fighters Guild, Mages Guild, and Imperial cults look for <mark>hospitality<\/mark> at Wolverine Hall. Telvanni kin and retainers stay at the...",
             "fid" : "content" },
           
           { "form" : "Hospitality",
             "weight" : "1",
-            "pos" : 209,
+            "pos" : 204,
             "context" : "...Telvanni retainers, you'll want to know Angaredhel, Prefect of <mark>Hospitality<\/mark> at the Gateway merchant inn, and Ery, Gateway's publican...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "hospitable",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "..., most of the island's population is confined to the relatively <mark>hospitable<\/mark> west and southwest coast, centered on the ancient city of...",
             "fid" : "content" } ] } ] }

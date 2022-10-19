@@ -9,19 +9,19 @@
         [ 
           { "form" : "VALOR",
             "weight" : "1",
-            "pos" : 66,
+            "pos" : 61,
             "context" : "<mark>VALOR<\/mark>",
             "fid" : "content" },
           
           { "form" : "Valor",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "The Grace of <mark>Valor<\/mark>",
             "fid" : "content" },
           
           { "form" : "valor",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : "Thank you for your <mark>valor<\/mark>, Lord Vivec. I shall not quail, nor turn...",
             "fid" : "content" } ] },
       
@@ -32,12 +32,12 @@
         [ 
           { "form" : "Valor",
             "weight" : "1",
-            "pos" : 478,
+            "pos" : 473,
             "context" : "Koal Cave: The Shrine of <mark>Valor<\/mark>",
             "fid" : "content" },
           
           { "form" : "Valor",
             "weight" : "1",
-            "pos" : 507,
+            "pos" : 502,
             "context" : "The Shrine of <mark>Valor<\/mark> is inside the Koal Cave, a cavern on the seacoast...",
             "fid" : "content" } ] } ] }

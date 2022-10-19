@@ -2,141 +2,6 @@
   { "stem" : "dawn",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 26,
-        "contexts" : 
-        [ 
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 726,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 1124,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 1369,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 1621,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 1881,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 1904,
-            "context" : "Ghostgate, Tower of <mark>Dawn<\/mark> Lower Level" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 1914,
-            "context" : "Ghostgate,_Tower_of_<mark>Dawn<\/mark>_Lower_Level" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 1976,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 2245,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 2271,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 2294,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 2311,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 2474,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 2495,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 2540,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 2859,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 3112,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 3138,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 3256,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 3351,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 3592,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 3948,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 4075,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 5089,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 5898,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 4" },
-          
-          { "form" : "Dawn",
-            "weight" : "1",
-            "pos" : 7539,
-            "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 26,
@@ -144,12 +9,12 @@
         [ 
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk" },
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 937,
+            "pos" : 932,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -157,7 +22,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 1317,
+            "pos" : 1312,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -165,7 +30,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 1549,
+            "pos" : 1544,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -173,7 +38,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 1802,
+            "pos" : 1797,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -181,7 +46,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2063,
+            "pos" : 2058,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -189,7 +54,7 @@
           
           { "form" : "dawn",
             "weight" : "1",
-            "pos" : 2083,
+            "pos" : 2078,
             "context" : "ghostgate, tower of <mark>dawn<\/mark> lower level",
             "fid" : "loc",
             "in" : 
@@ -197,7 +62,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2158,
+            "pos" : 2153,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -205,7 +70,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2405,
+            "pos" : 2400,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -213,7 +78,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2437,
+            "pos" : 2432,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -221,7 +86,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2460,
+            "pos" : 2455,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -229,7 +94,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2468,
+            "pos" : 2463,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -237,7 +102,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2635,
+            "pos" : 2630,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -245,7 +110,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2667,
+            "pos" : 2662,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -253,7 +118,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 2726,
+            "pos" : 2721,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -261,7 +126,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 3038,
+            "pos" : 3033,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -269,7 +134,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 3270,
+            "pos" : 3265,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -277,7 +142,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 3307,
+            "pos" : 3302,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -285,7 +150,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 3363,
+            "pos" : 3358,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -293,7 +158,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 3504,
+            "pos" : 3499,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -301,7 +166,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 3748,
+            "pos" : 3743,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -309,7 +174,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 3874,
+            "pos" : 3869,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -317,7 +182,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 4219,
+            "pos" : 4214,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "loc",
             "in" : 
@@ -325,7 +190,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 5283,
+            "pos" : 5278,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "group",
             "in" : 
@@ -333,7 +198,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 6104,
+            "pos" : 6099,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 4",
             "fid" : "group",
             "in" : 
@@ -341,7 +206,7 @@
           
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 7688,
+            "pos" : 7683,
             "context" : "The Book of <mark>Dawn<\/mark> and Dusk, count: 1",
             "fid" : "persons",
             "in" : 
@@ -354,7 +219,7 @@
         [ 
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "Ghostgate, Tower of <mark>Dawn<\/mark> Lower Level: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -365,7 +230,7 @@
         [ 
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "<mark>Dawn<\/mark> and Dusk",
             "fid" : "content" } ] },
       
@@ -376,7 +241,7 @@
         [ 
           { "form" : "Dawn",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "Ghostgate, Tower of <mark>Dawn<\/mark> Lower Level: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -387,6 +252,6 @@
         [ 
           { "form" : "dawn",
             "weight" : "1",
-            "pos" : 165,
+            "pos" : 160,
             "context" : "...of the three Tribunes of the Temple were represented in the <mark>dawn<\/mark> of Chimeri culture by their Anticipations. These Anticipations are known...",
             "fid" : "content" } ] } ] }

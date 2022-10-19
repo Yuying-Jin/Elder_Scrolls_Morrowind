@@ -2,31 +2,6 @@
   { "stem" : "fel",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Fel",
-            "weight" : "1",
-            "pos" : 1478,
-            "context" : "Dagon <mark>Fel<\/mark>" },
-          
-          { "form" : "Fel",
-            "weight" : "1",
-            "pos" : 1497,
-            "context" : "Dagon <mark>Fel<\/mark>, Heifnir: Trader" },
-          
-          { "form" : "Fel",
-            "weight" : "1",
-            "pos" : 1506,
-            "context" : "Dagon <mark>Fel<\/mark>, Sorkvild's Tower" },
-          
-          { "form" : "Fels",
-            "weight" : "1",
-            "pos" : 6575,
-            "context" : "Llevas <mark>Fels<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 4,
@@ -34,7 +9,7 @@
         [ 
           { "form" : "fel",
             "weight" : "1",
-            "pos" : 1649,
+            "pos" : 1644,
             "context" : "dagon <mark>fel<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -42,7 +17,7 @@
           
           { "form" : "fel",
             "weight" : "1",
-            "pos" : 1668,
+            "pos" : 1663,
             "context" : "dagon <mark>fel<\/mark>, heifnir: trader",
             "fid" : "loc",
             "in" : 
@@ -50,7 +25,7 @@
           
           { "form" : "fel",
             "weight" : "1",
-            "pos" : 1677,
+            "pos" : 1672,
             "context" : "dagon <mark>fel<\/mark>, sorkvild's tower",
             "fid" : "loc",
             "in" : 
@@ -58,7 +33,7 @@
           
           { "form" : "fels",
             "weight" : "1",
-            "pos" : 6673,
+            "pos" : 6668,
             "context" : "llevas <mark>fels<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -71,19 +46,19 @@
         [ 
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 481,
+            "pos" : 476,
             "context" : "...camp and the remote fishing villages of Ald Redaynia and Dagon <mark>Fel<\/mark> on the north coast. There are no roads; most...",
             "fid" : "content" },
           
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 1236,
+            "pos" : 1231,
             "context" : "...uninhabited, with two small villages at Ald Redaynia and Dagon <mark>Fel<\/mark>. Only Dagon Fel is reached by ship services; all...",
             "fid" : "content" },
           
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 1238,
+            "pos" : 1233,
             "context" : "...small villages at Ald Redaynia and Dagon Fel. Only Dagon <mark>Fel<\/mark> is reached by ship services; all other island-to-island...",
             "fid" : "content" } ] },
       
@@ -94,7 +69,7 @@
         [ 
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Dagon <mark>Fel<\/mark>, Sorkvild's Tower: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -105,7 +80,7 @@
         [ 
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Dagon <mark>Fel<\/mark>, Sorkvild's Tower: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -116,7 +91,7 @@
         [ 
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Dagon <mark>Fel<\/mark>, Sorkvild's Tower: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -127,7 +102,7 @@
         [ 
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "Dagon <mark>Fel<\/mark>, Heifnir: Trader: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -138,7 +113,7 @@
         [ 
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 327,
+            "pos" : 322,
             "context" : "...to Ebonheart, Tel Branora, Tel Mora, or Dagon <mark>Fel<\/mark>. Iniel at the Wolverine Hall Mages Guild can teleport you...",
             "fid" : "content" } ] },
       
@@ -149,6 +124,6 @@
         [ 
           { "form" : "Fel",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "Dagon <mark>Fel<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

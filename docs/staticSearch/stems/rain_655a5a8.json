@@ -9,25 +9,25 @@
         [ 
           { "form" : "rains",
             "weight" : "1",
-            "pos" : 406,
+            "pos" : 401,
             "context" : "...for game here, and their herds find sparse grazing. It <mark>rains<\/mark> rarely, and suffers frequent ash storms.",
             "fid" : "content" },
           
           { "form" : "rain",
             "weight" : "1",
-            "pos" : 729,
+            "pos" : 724,
             "context" : "...and islands provide refuge for criminal trade, and the frequent <mark>rain<\/mark> and fog hides small boats from Excise cutters.",
             "fid" : "content" },
           
           { "form" : "rain",
             "weight" : "1",
-            "pos" : 808,
+            "pos" : 803,
             "context" : " The regular <mark>rain<\/mark> and dark soils of the Grazelands produce the rich grazing for...",
             "fid" : "content" },
           
           { "form" : "rain",
             "weight" : "1",
-            "pos" : 1006,
+            "pos" : 1001,
             "context" : "...and is broken only at Ghostgate. Within the Ghostfence, <mark>rain<\/mark> never falls and the sun never shines; the only weather...",
             "fid" : "content" } ] },
       
@@ -38,7 +38,7 @@
         [ 
           { "form" : "Rain",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 43,
             "context" : "Wind and <mark>Rain<\/mark>",
             "fid" : "content" } ] },
       
@@ -49,6 +49,6 @@
         [ 
           { "form" : "rained",
             "weight" : "1",
-            "pos" : 402,
+            "pos" : 397,
             "context" : "...for six of them, Airen had the upper hand. He <mark>rained<\/mark> kicks and punches down using the arrhythmic style the Khajiit call...",
             "fid" : "content" } ] } ] }

@@ -9,19 +9,19 @@
         [ 
           { "form" : "flesh",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Fresh and decayed corpses are those that still have <mark>flesh<\/mark> upon them. If their decay is advanced, or if you...",
             "fid" : "content" },
           
           { "form" : "flesh",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "...are the Necromancer's greatest allies when it comes to stripping the <mark>flesh<\/mark> from a corpse. The ravenous mudcrabs of Morrowind can strip...",
             "fid" : "content" },
           
           { "form" : "flesh",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "..., binding the bones with leather straps, and sewing the <mark>flesh<\/mark> (if it not too decayed) with catgut. Your servant...",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "flesh",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "Undead commonly occur in three basic types: spirit, <mark>flesh<\/mark>, and fleshless. Spirit revenants like the ancestor ghost,...",
             "fid" : "content" },
           
           { "form" : "Flesh",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "<mark>Flesh<\/mark> revenants, or 'zombies' as they are often called in the...",
             "fid" : "content" } ] },
       
@@ -49,13 +49,13 @@
         [ 
           { "form" : "flesh",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "Undead commonly occur in three basic types: spirit, <mark>flesh<\/mark>, and fleshless. Spirit revenants like the ancestor ghost,...",
             "fid" : "content" },
           
           { "form" : "Flesh",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "<mark>Flesh<\/mark> revenants, or 'zombies' as they are often called in the...",
             "fid" : "content" } ] },
       
@@ -66,7 +66,7 @@
         [ 
           { "form" : "flesh",
             "weight" : "1",
-            "pos" : 276,
+            "pos" : 271,
             "context" : "...local dish, is similar to cheese and made from the <mark>flesh<\/mark> of local beetles.",
             "fid" : "content" } ] },
       
@@ -77,7 +77,7 @@
         [ 
           { "form" : "flesh",
             "weight" : "1",
-            "pos" : 308,
+            "pos" : 303,
             "context" : "Saint Roris the Martyr appeared before Baranat with <mark>flesh<\/mark> like sparkling gems, and smiled on him, \"Baranat, I...",
             "fid" : "content" } ] },
       
@@ -88,6 +88,6 @@
         [ 
           { "form" : "flesh",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Morrowind is holy country, and its gods are <mark>flesh<\/mark> and blood. Collectively, these gods are called the Tribunal...",
             "fid" : "content" } ] } ] }

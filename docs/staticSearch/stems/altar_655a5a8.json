@@ -9,19 +9,19 @@
         [ 
           { "form" : "altars",
             "weight" : "1",
-            "pos" : 385,
+            "pos" : 380,
             "context" : " Many Imperial cult locations have healing <mark>altars<\/mark>. You may pray at Imperial cult healing altars and receive...",
             "fid" : "content" },
           
           { "form" : "altars",
             "weight" : "1",
-            "pos" : 391,
+            "pos" : 386,
             "context" : "...have healing altars. You may pray at Imperial cult healing <mark>altars<\/mark> and receive blessings which cure common and blight diseases, cure...",
             "fid" : "content" },
           
           { "form" : "altars",
             "weight" : "1",
-            "pos" : 428,
+            "pos" : 423,
             "context" : "..., while higher-ranking members receive blessings free. Healing <mark>altars<\/mark> are found in: Vivec Foreign Quarter; Wolverine Hall in Sadrith...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "altar",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "...to the Lord of Troubles, Molag Bal, at an <mark>altar<\/mark> deep in the caverns beneath the pilgrim's shrine. I was...",
             "fid" : "content" },
           
           { "form" : "altar",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "\"I placed the gem within the basin before the <mark>altar<\/mark>, and instantly experienced a blinding of pain and terror that...",
             "fid" : "content" },
           
           { "form" : "altar",
             "weight" : "1",
-            "pos" : 161,
+            "pos" : 156,
             "context" : "...tiny knives from my bowels inside out. I awoke before the <mark>altar<\/mark>, and gazed in the reflection of my own sword blade...",
             "fid" : "content" } ] },
       
@@ -55,7 +55,7 @@
         [ 
           { "form" : "altar",
             "weight" : "1",
-            "pos" : 171,
+            "pos" : 166,
             "context" : "...and devotees of the Imperial cult, including an Imperial cult <mark>altar<\/mark>. The guildhalls of the Fighters Guild and Mages Guild are...",
             "fid" : "content" } ] },
       
@@ -66,6 +66,6 @@
         [ 
           { "form" : "altar",
             "weight" : "1",
-            "pos" : 381,
+            "pos" : 376,
             "context" : "Near the <mark>altar<\/mark> is Vivec's Ash Mask. In the Days of Fire when...",
             "fid" : "content" } ] } ] }

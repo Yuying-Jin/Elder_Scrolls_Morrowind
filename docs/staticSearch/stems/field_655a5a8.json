@@ -9,48 +9,33 @@
         [ 
           { "form" : "Fields",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Fields<\/mark> of Kummu: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Fields",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "The <mark>Fields<\/mark> of Kummu: Shrine of Humility",
             "fid" : "content" },
           
           { "form" : "fields",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 80,
             "context" : "...the Lord Vivec removed his fine clothes and toiled in the <mark>fields<\/mark> like a beast of burden until the crop was harvested....",
             "fid" : "content" },
           
           { "form" : "Fields",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...burden until the crop was harvested. It is at the <mark>Fields<\/mark> of Kummu we go to pray for the same humility Lord...",
             "fid" : "content" },
           
           { "form" : "Fields",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 95,
             "context" : "The <mark>Fields<\/mark> of Kummu are west of Suran on the north shore of...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Fields",
-            "weight" : "1",
-            "pos" : 1749,
-            "context" : "<mark>Fields<\/mark> of Kummu" },
-          
-          { "form" : "Fields",
-            "weight" : "1",
-            "pos" : 1756,
-            "context" : "<mark>Fields<\/mark>_of_Kummu" } ] },
       
       { "docId" : "librarium_For_my_Gods_and_Emperor",
         "docUri" : "librarium\/For_my_Gods_and_Emperor.html",
@@ -59,7 +44,7 @@
         [ 
           { "form" : "field",
             "weight" : "1",
-            "pos" : 319,
+            "pos" : 314,
             "context" : ".... Those who swear to avoid bloodshed, to take the <mark>field<\/mark> unarmored to fight only with blunt weapons, are especially praiseworthy...",
             "fid" : "content" } ] },
       
@@ -70,7 +55,7 @@
         [ 
           { "form" : "field",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "The Redoran may surpass us on the <mark>field<\/mark> of battle, but when the dust clears, they will...",
             "fid" : "content" } ] },
       
@@ -81,7 +66,7 @@
         [ 
           { "form" : "Fields",
             "weight" : "1",
-            "pos" : 320,
+            "pos" : 315,
             "context" : "...Isles region. Two popular pilgrimage sites are nearby -- the <mark>Fields<\/mark> of Kummu and the Molag Bal's Shrine.",
             "fid" : "content" } ] },
       
@@ -92,7 +77,7 @@
         [ 
           { "form" : "fields",
             "weight" : "1",
-            "pos" : 1920,
+            "pos" : 1915,
             "context" : "<mark>fields<\/mark> of kummu",
             "fid" : "loc",
             "in" : 
@@ -105,7 +90,7 @@
         [ 
           { "form" : "field",
             "weight" : "1",
-            "pos" : 202,
+            "pos" : 197,
             "context" : "...and to advance and maneuver, charge and retreat on the <mark>field<\/mark> of battle.",
             "fid" : "content" } ] },
       
@@ -116,7 +101,7 @@
         [ 
           { "form" : "field",
             "weight" : "1",
-            "pos" : 566,
+            "pos" : 561,
             "context" : "...but I must leave now to meet Master Neloth on the <mark>field<\/mark>. I will soon return for a victory celebration, and...",
             "fid" : "content" } ] },
       
@@ -127,7 +112,7 @@
         [ 
           { "form" : "fields",
             "weight" : "1",
-            "pos" : 178,
+            "pos" : 173,
             "context" : "Gather no seed in the <mark>fields<\/mark> of Hell.",
             "fid" : "content" } ] },
       
@@ -138,6 +123,6 @@
         [ 
           { "form" : "field",
             "weight" : "1",
-            "pos" : 582,
+            "pos" : 577,
             "context" : "...sees. In time, Oin came upon Funcrazot in a <mark>field<\/mark> outside the city, dOing his regular exercises. Oin cast...",
             "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "residential",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "..., work, and shop in the Great House compounds and <mark>residential<\/mark> cantons. But most of all, this is Lord Vivec's holy...",
             "fid" : "content" },
           
           { "form" : "Residential",
             "weight" : "1",
-            "pos" : 483,
+            "pos" : 478,
             "context" : " St. Delyn and St. Olms <mark>Residential<\/mark> Cantons",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "residential",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "...on high ground to the east, and surrounded by a <mark>residential<\/mark> section.",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "residential",
             "weight" : "1",
-            "pos" : 281,
+            "pos" : 276,
             "context" : "..., work, and shop in the Great House compounds and <mark>residential<\/mark> cantons.",
             "fid" : "content" } ] } ] }

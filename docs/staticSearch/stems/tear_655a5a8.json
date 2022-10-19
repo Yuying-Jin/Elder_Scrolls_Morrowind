@@ -9,19 +9,9 @@
         [ 
           { "form" : "Tear",
             "weight" : "1",
-            "pos" : 428,
+            "pos" : 423,
             "context" : "...it would explain the number of slaves that are purchased in <mark>Tear<\/mark> by Sload merchants and the rumors of Sload airships carrying corpses...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Tear",
-            "weight" : "1",
-            "pos" : 3657,
-            "context" : "<mark>Tear<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "tear",
             "weight" : "1",
-            "pos" : 3813,
+            "pos" : 3808,
             "context" : "<mark>tear<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -43,6 +33,6 @@
         [ 
           { "form" : "tears",
             "weight" : "1",
-            "pos" : 423,
+            "pos" : 418,
             "context" : "...help his people, Vivec was filled with despair. Vivec's <mark>tears<\/mark> weakened his ash cast. He tore the ash from his...",
             "fid" : "content" } ] } ] }

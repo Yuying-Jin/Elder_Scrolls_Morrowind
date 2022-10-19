@@ -9,7 +9,7 @@
         [ 
           { "form" : "nations",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "..., to the Vampires and the Liches. Let all the <mark>nations<\/mark> of dead carry my banner and my banner alone.",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "nation",
             "weight" : "1",
-            "pos" : 294,
+            "pos" : 289,
             "context" : "...offer the services of our Art in defense of his young <mark>nation<\/mark> in exchange for disposing of the Orcish dead. A mutually...",
             "fid" : "content" } ] },
       
@@ -31,19 +31,9 @@
         [ 
           { "form" : "Nations",
             "weight" : "1",
-            "pos" : 320,
+            "pos" : 315,
             "context" : "...House services. There are two public houses: the Elven <mark>Nations<\/mark> and the No Name Club. A variety of craftsmen and...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Nations",
-            "weight" : "1",
-            "pos" : 5560,
-            "context" : "Elven <mark>Nations<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -52,7 +42,7 @@
         [ 
           { "form" : "nations",
             "weight" : "1",
-            "pos" : 5802,
+            "pos" : 5797,
             "context" : "elven <mark>nations<\/mark>",
             "fid" : "group",
             "in" : 

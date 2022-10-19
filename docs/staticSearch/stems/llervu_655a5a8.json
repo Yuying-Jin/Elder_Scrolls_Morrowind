@@ -2,21 +2,6 @@
   { "stem" : "llervu",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Llervu's",
-            "weight" : "1",
-            "pos" : 842,
-            "context" : "Ald'ruhn, Guls <mark>Llervu's<\/mark> House" },
-          
-          { "form" : "Llervu",
-            "weight" : "1",
-            "pos" : 6798,
-            "context" : "Elms <mark>Llervu<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "llervu's",
             "weight" : "1",
-            "pos" : 1060,
+            "pos" : 1055,
             "context" : "ald'ruhn, guls <mark>llervu's<\/mark> house",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "llervu",
             "weight" : "1",
-            "pos" : 6915,
+            "pos" : 6910,
             "context" : "elms <mark>llervu<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -45,6 +30,6 @@
         [ 
           { "form" : "Llervu's",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Guls <mark>Llervu's<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] } ] }

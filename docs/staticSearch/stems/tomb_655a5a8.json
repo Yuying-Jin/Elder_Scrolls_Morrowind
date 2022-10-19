@@ -2,61 +2,6 @@
   { "stem" : "tomb",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 10,
-        "contexts" : 
-        [ 
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 1709,
-            "context" : "Falas Ancestral <mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 2292,
-            "context" : "Indalen_Ancestral_<mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 2899,
-            "context" : "Orethi Ancestral <mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 3012,
-            "context" : "Ravel Ancestral <mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 3365,
-            "context" : "Sarano Ancestral <mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 3380,
-            "context" : "Sarys Ancestral <mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 3389,
-            "context" : "Savel_Ancestral_<mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 3411,
-            "context" : "Sethan_Ancestral_<mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 4037,
-            "context" : "Telvayn Ancestral <mark>Tomb<\/mark>" },
-          
-          { "form" : "Tomb",
-            "weight" : "1",
-            "pos" : 4073,
-            "context" : "Tharys_Ancestral_<mark>Tomb<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 10,
@@ -64,7 +9,7 @@
         [ 
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 1880,
+            "pos" : 1875,
             "context" : "falas ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -72,7 +17,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 2458,
+            "pos" : 2453,
             "context" : "indalen ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -80,7 +25,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 3072,
+            "pos" : 3067,
             "context" : "orethi ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -88,7 +33,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 3185,
+            "pos" : 3180,
             "context" : "ravel ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -96,7 +41,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 3518,
+            "pos" : 3513,
             "context" : "sarano ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -104,7 +49,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 3533,
+            "pos" : 3528,
             "context" : "sarys ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -112,7 +57,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 3542,
+            "pos" : 3537,
             "context" : "savel ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -120,7 +65,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 3564,
+            "pos" : 3559,
             "context" : "sethan ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -128,7 +73,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 4181,
+            "pos" : 4176,
             "context" : "telvayn ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -136,7 +81,7 @@
           
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 4217,
+            "pos" : 4212,
             "context" : "tharys ancestral <mark>tomb<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -149,19 +94,19 @@
         [ 
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "...but between worlds they linger, held to the hearth and <mark>tomb<\/mark> by blood and loyalty. And if they come unbidden,...",
             "fid" : "content" },
           
           { "form" : "tombs",
             "weight" : "1",
-            "pos" : 166,
+            "pos" : 161,
             "context" : "...to steal the bones of your fathers and dust of your <mark>tombs<\/mark>. He seeks to bind by power what is yours by...",
             "fid" : "content" },
           
           { "form" : "tombs",
             "weight" : "1",
-            "pos" : 242,
+            "pos" : 237,
             "context" : "...invade our shores, shall they be permitted to rob our <mark>tombs<\/mark>, to bind our kin-spirits into sorcerous slavery,...",
             "fid" : "content" } ] },
       
@@ -172,13 +117,13 @@
         [ 
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "Orethi Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "Sarano Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -189,13 +134,13 @@
         [ 
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "Telvayn Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "Sarys Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -206,13 +151,13 @@
         [ 
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : " Orethi Ancestral <mark>Tomb<\/mark>: Visitable? ",
             "fid" : "acq" },
           
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Sarano Ancestral <mark>Tomb<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -223,13 +168,13 @@
         [ 
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "Indalen Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 65,
             "context" : "Tharys Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -240,7 +185,7 @@
         [ 
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Falas Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -251,7 +196,7 @@
         [ 
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 336,
+            "pos" : 331,
             "context" : "...exception in the north, through an Imperial burial in a <mark>tomb<\/mark> or city cemetery is more common in the south. There...",
             "fid" : "content" } ] },
       
@@ -262,7 +207,7 @@
         [ 
           { "form" : "tombs",
             "weight" : "1",
-            "pos" : 271,
+            "pos" : 266,
             "context" : "...temples, and in places of pilgrimage, and in the <mark>tombs<\/mark> of our ancestors.",
             "fid" : "content" } ] },
       
@@ -273,7 +218,7 @@
         [ 
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "Ravel Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -284,7 +229,7 @@
         [ 
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 196,
+            "pos" : 191,
             "context" : "Will it take to seal this restless <mark>tomb<\/mark>?",
             "fid" : "content" } ] },
       
@@ -295,7 +240,7 @@
         [ 
           { "form" : "tomb",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...of pilgrimage, or at pilgrim waysides, or in the <mark>tomb<\/mark> of the sanctified.",
             "fid" : "content" } ] },
       
@@ -306,7 +251,7 @@
         [ 
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Sethan Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -317,6 +262,6 @@
         [ 
           { "form" : "Tomb",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Savel Ancestral <mark>Tomb<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

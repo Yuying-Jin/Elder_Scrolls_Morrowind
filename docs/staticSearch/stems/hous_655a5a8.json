@@ -2,196 +2,6 @@
   { "stem" : "hous",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 37,
-        "contexts" : 
-        [ 
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 843,
-            "context" : "Ald'ruhn, Guls Llervu's <mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 879,
-            "context" : "Ald'ruhn,_Aryni_Orethi's_<mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 888,
-            "context" : "Ald'ruhn,_Boldrisa_Andrano's_<mark>House<\/mark>" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 936,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 1" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 992,
-            "context" : "Aryni Orethi's <mark>House<\/mark>" },
-          
-          { "form" : "house",
-            "weight" : "1",
-            "pos" : 1396,
-            "context" : "Caldera, Surane Leoriane's <mark>house<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 1405,
-            "context" : "Caldera, Valvius Mevureius' <mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 1700,
-            "context" : "Erna the Quiet's <mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 1743,
-            "context" : "Fargoth's <mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 1839,
-            "context" : "Galsa Gindu's <mark>House<\/mark>" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 1986,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 1" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 2269,
-            "context" : "Ignatius_Flaccus'_<mark>House<\/mark>" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 2333,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 2" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 2683,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 4" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3103,
-            "context" : "Rethan Manor, Gols' <mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3224,
-            "context" : "Sadrith Mora, Telvanni Council <mark>House<\/mark> Chambers" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3235,
-            "context" : "Sadrith Mora, Telvanni Council <mark>House<\/mark>, Entry" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3327,
-            "context" : "Sadrith_Mora,_Telvanni_Council_<mark>House<\/mark>,_Entry" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3338,
-            "context" : "Sadrith_Mora,_Vaden_Belas'_<mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3839,
-            "context" : "Tel Uvirith, Omavel's <mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3848,
-            "context" : "Tel Uvirith, Seleth's <mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3966,
-            "context" : "Tel_Uvirith,_Omavel's_<mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 3976,
-            "context" : "Tel_Uvirith,_Seleth's_<mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 4018,
-            "context" : "Telvanni Council <mark>House<\/mark>" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 4027,
-            "context" : "Telvanni Council <mark>House<\/mark> Chambers" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 4642,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 7" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 5150,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 5" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 5176,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 7" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 5402,
-            "context" : "<mark>House<\/mark> Hlaalu" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 5422,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 10" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 5435,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 9" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 5476,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 4" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 5698,
-            "context" : "<mark>House<\/mark> Redoran" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 5719,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 7" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 5764,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 7" },
-          
-          { "form" : "House",
-            "weight" : "1",
-            "pos" : 5784,
-            "context" : "<mark>House<\/mark> Telvanni" },
-          
-          { "form" : "Houses",
-            "weight" : "1",
-            "pos" : 6471,
-            "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 1" } ] },
-      
       { "docId" : "librarium_Great_Houses_of_Morrowind",
         "docUri" : "librarium\/Great_Houses_of_Morrowind.html",
         "score" : 35,
@@ -199,211 +9,211 @@
         [ 
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "In modern times Morrowind is ruled by five Great <mark>Houses<\/mark>: House Hlaalu, House Redoran, House Telvanni, House...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "...In modern times Morrowind is ruled by five Great Houses: <mark>House<\/mark> Hlaalu, House Redoran, House Telvanni, House Indoril,...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "...Morrowind is ruled by five Great Houses: House Hlaalu, <mark>House<\/mark> Redoran, House Telvanni, House Indoril, and House Dres...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "...by five Great Houses: House Hlaalu, House Redoran, <mark>House<\/mark> Telvanni, House Indoril, and House Dres. Only three...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "...Houses: House Hlaalu, House Redoran, House Telvanni, <mark>House<\/mark> Indoril, and House Dres. Only three of these Houses...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "..., House Redoran, House Telvanni, House Indoril, and <mark>House<\/mark> Dres. Only three of these Houses have interests in Vvardenfell...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "...House Indoril, and House Dres. Only three of these <mark>Houses<\/mark> have interests in Vvardenfell. The three Great Houses on Vvardenfell...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "...of these Houses have interests in Vvardenfell. The three Great <mark>Houses<\/mark> on Vvardenfell identify themselves by their traditional colors: red for...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "...Hlaalu, and brown for Telvanni. Thus, members of <mark>House<\/mark> Hlaalu may be referred to collectively as Yellows.",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 49,
+            "pos" : 44,
             "context" : "The Great <mark>Houses<\/mark> traditions derive from ancient Dunmer clan and tribes, but now...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "...tribes, but now function as political parties. Dunmer Great <mark>House<\/mark> membership is largely a matter of birth and marriage, but...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "..., but Imperial colonists may also become retainers of a Great <mark>House<\/mark>, or may be adopted into a Great House. Initially...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "...a Great House, or may be adopted into a Great <mark>House<\/mark>. Initially an outlander may gain status in a house as...",
             "fid" : "content" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...Great House. Initially an outlander may gain status in a <mark>house<\/mark> as an oath-bonded hireling, pledging exclusive loyalty to...",
             "fid" : "content" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...oath-bonded hireling, pledging exclusive loyalty to a single <mark>house<\/mark> and forsaking ambitions with all other houses. Later, after...",
             "fid" : "content" },
           
           { "form" : "houses",
             "weight" : "1",
-            "pos" : 96,
+            "pos" : 91,
             "context" : "...loyalty to a single house and forsaking ambitions with all other <mark>houses<\/mark>. Later, after faithful service and advancement in lower ranks...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "...lower ranks, an outlander may seek adoption into a Great <mark>House<\/mark>. Adoption and advancement to higher ranks in a Great House...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : "...House. Adoption and advancement to higher ranks in a Great <mark>House<\/mark> requires that a Great House councilor stand as sponsor for the...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : "...to higher ranks in a Great House requires that a Great <mark>House<\/mark> councilor stand as sponsor for the candidate's character and loyalty....",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 130,
             "context" : "<mark>House<\/mark> Redoran is one of the three Dunmer Great Houses with holdings...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 141,
+            "pos" : 136,
             "context" : "House Redoran is one of the three Dunmer Great <mark>Houses<\/mark> with holdings on Vvardenfell. The Redoran prize the virtues of...",
             "fid" : "content" },
           
           { "form" : "house's",
             "weight" : "1",
-            "pos" : 229,
+            "pos" : 224,
             "context" : "...the colossal prehistoric bug shell that has been adapted as the <mark>house's<\/mark> council house.",
             "fid" : "content" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 231,
+            "pos" : 226,
             "context" : "...prehistoric bug shell that has been adapted as the house's council <mark>house<\/mark>.",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 237,
+            "pos" : 232,
             "context" : "...a result of its close relationship with the Imperial administration, <mark>House<\/mark> Hlaalu has emerged as politically and economically dominant among the Great...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 245,
+            "pos" : 240,
             "context" : "...Hlaalu has emerged as politically and economically dominant among the Great <mark>Houses<\/mark> of Vvardenfell and Morrowind. Hlaalu welcomes Imperial culture and law...",
             "fid" : "content" },
           
           { "form" : "houses",
             "weight" : "1",
-            "pos" : 269,
+            "pos" : 264,
             "context" : "...Dunmer ways—the ancestors, the Temple, and the noble <mark>houses<\/mark>—but has readily adapted to the rapid pace of change and...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 280,
+            "pos" : 275,
             "context" : "...and progress in the Imperial provinces. Unlike the other Great <mark>Houses<\/mark>, which are largely hostile to non-Dunmer, House...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 286,
+            "pos" : 281,
             "context" : "...Houses, which are largely hostile to non-Dunmer, <mark>House<\/mark> Hlaalu aspires to live in peace and harmony with the other...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 354,
+            "pos" : 349,
             "context" : "The wizard-lords of <mark>House<\/mark> Telvanni have traditionally isolated themselves, pursuing wisdom and mastery in solitude...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 442,
+            "pos" : 437,
             "context" : "<mark>House<\/mark> Indoril and House Dres are the two Great Houses without holdings...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 444,
+            "pos" : 439,
             "context" : "House Indoril and <mark>House<\/mark> Dres are the two Great Houses without holdings or interest in...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 448,
+            "pos" : 443,
             "context" : "House Indoril and House Dres are the two Great <mark>Houses<\/mark> without holdings or interest in Vvardenfell. Indoril District occupies the...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 477,
+            "pos" : 472,
             "context" : "...orthodox and conservative supporters of the Temple and Temple authority. <mark>House<\/mark> Indoril is openly hostile to Imperial culture and religion, and...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 502,
+            "pos" : 497,
             "context" : "...Morrowind, bordering the swamps and marshes of Black Marsh. <mark>House<\/mark> Dres is an agrarian agricultural society, and its large saltrice...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 520,
+            "pos" : 515,
             "context" : "...labor for their economic viability. Always firm Temple supporters, <mark>House<\/mark> Dres is hostile to Imperial law and culture, and in...",
             "fid" : "content" } ] },
       
@@ -414,12 +224,12 @@
         [ 
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "Great <mark>Houses<\/mark> of Morrowind" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 1034,
+            "pos" : 1029,
             "context" : "ald'ruhn, aryni orethi's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -427,7 +237,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 1043,
+            "pos" : 1038,
             "context" : "ald'ruhn, boldrisa andrano's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -435,7 +245,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 1061,
+            "pos" : 1056,
             "context" : "ald'ruhn, guls llervu's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -443,7 +253,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 1108,
+            "pos" : 1103,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 1",
             "fid" : "loc",
             "in" : 
@@ -451,7 +261,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 1164,
+            "pos" : 1159,
             "context" : "aryni orethi's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -459,7 +269,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 1567,
+            "pos" : 1562,
             "context" : "caldera, surane leoriane's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -467,7 +277,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 1576,
+            "pos" : 1571,
             "context" : "caldera, valvius mevureius' <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -475,7 +285,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 1871,
+            "pos" : 1866,
             "context" : "erna the quiet's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -483,7 +293,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 1914,
+            "pos" : 1909,
             "context" : "fargoth's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -491,7 +301,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 2018,
+            "pos" : 2013,
             "context" : "galsa gindu's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -499,7 +309,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 2147,
+            "pos" : 2142,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 1",
             "fid" : "loc",
             "in" : 
@@ -507,7 +317,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 2435,
+            "pos" : 2430,
             "context" : "ignatius flaccus' <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -515,7 +325,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 2499,
+            "pos" : 2494,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 2",
             "fid" : "loc",
             "in" : 
@@ -523,7 +333,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 2852,
+            "pos" : 2847,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 4",
             "fid" : "loc",
             "in" : 
@@ -531,7 +341,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 3285,
+            "pos" : 3280,
             "context" : "rethan manor, gols' <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -539,7 +349,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 3464,
+            "pos" : 3459,
             "context" : "sadrith mora, telvanni council <mark>house<\/mark> chambers",
             "fid" : "loc",
             "in" : 
@@ -547,7 +357,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 3475,
+            "pos" : 3470,
             "context" : "sadrith mora, telvanni council <mark>house<\/mark>, entry",
             "fid" : "loc",
             "in" : 
@@ -555,7 +365,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 3491,
+            "pos" : 3486,
             "context" : "sadrith mora, vaden belas' <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -563,7 +373,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 4040,
+            "pos" : 4035,
             "context" : "tel uvirith, omavel's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -571,7 +381,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 4055,
+            "pos" : 4050,
             "context" : "tel uvirith, seleth's <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -579,7 +389,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 4162,
+            "pos" : 4157,
             "context" : "telvanni council <mark>house<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -587,7 +397,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 4171,
+            "pos" : 4166,
             "context" : "telvanni council <mark>house<\/mark> chambers",
             "fid" : "loc",
             "in" : 
@@ -595,7 +405,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 4770,
+            "pos" : 4765,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 7",
             "fid" : "loc",
             "in" : 
@@ -603,7 +413,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 5342,
+            "pos" : 5337,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 5",
             "fid" : "group",
             "in" : 
@@ -611,7 +421,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 5373,
+            "pos" : 5368,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 7",
             "fid" : "group",
             "in" : 
@@ -619,7 +429,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 5647,
+            "pos" : 5642,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 10",
             "fid" : "group",
             "in" : 
@@ -627,7 +437,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 5658,
+            "pos" : 5653,
             "context" : "<mark>house<\/mark> hlaalu",
             "fid" : "group",
             "in" : 
@@ -635,7 +445,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 5678,
+            "pos" : 5673,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 9",
             "fid" : "group",
             "in" : 
@@ -643,7 +453,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 5719,
+            "pos" : 5714,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 4",
             "fid" : "group",
             "in" : 
@@ -651,7 +461,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 5966,
+            "pos" : 5961,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 7",
             "fid" : "group",
             "in" : 
@@ -659,7 +469,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 5981,
+            "pos" : 5976,
             "context" : "<mark>house<\/mark> redoran",
             "fid" : "group",
             "in" : 
@@ -667,7 +477,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 6042,
+            "pos" : 6037,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 7",
             "fid" : "group",
             "in" : 
@@ -675,7 +485,7 @@
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 6064,
+            "pos" : 6059,
             "context" : "<mark>house<\/mark> telvanni",
             "fid" : "group",
             "in" : 
@@ -683,7 +493,7 @@
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 6578,
+            "pos" : 6573,
             "context" : "Great <mark>Houses<\/mark> of Morrowind, count: 1",
             "fid" : "persons",
             "in" : 
@@ -696,97 +506,97 @@
         [ 
           { "form" : "house",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "Caldera, Surane Leoriane's <mark>house<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "Sadrith Mora, Telvanni Council <mark>House<\/mark>, Entry: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "Tel Uvirith, Omavel's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "Tel Uvirith, Seleth's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 164,
+            "pos" : 159,
             "context" : "Want to Become Part of <mark>House<\/mark> Telvanni?",
             "fid" : "HouseTelvanni" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 174,
+            "pos" : 169,
             "context" : "...learning of the rabid isolationist and outlander-hating temperament of <mark>House<\/mark> Telvanni wizards often assume it would be impossible to obtain positions...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 184,
+            "pos" : 179,
             "context" : "...assume it would be impossible to obtain positions in service to <mark>House<\/mark> Telvanni.",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 209,
+            "pos" : 204,
             "context" : "...and Khajiit assume they would not be accepted for service with <mark>House<\/mark> Telvanni.",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 274,
+            "pos" : 269,
             "context" : "...at the Telvanni Council Hall in Sadrith Mora for acceptance in <mark>House<\/mark> Telvanni can expect a cordial welcome.",
             "fid" : "content" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 282,
+            "pos" : 277,
             "context" : "(Telvanni Councilors do not serve on their <mark>house<\/mark> councils in person. Instead, they are represented by a...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 305,
+            "pos" : 300,
             "context" : "The truth is that <mark>House<\/mark> Telvanni wizard-lords depend on loyal, well-paid...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 319,
+            "pos" : 314,
             "context" : "...well-paid, skilled retainers for most services. Though <mark>House<\/mark> Telvanni does recruit from their own lower classes, they must...",
             "fid" : "content" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 327,
+            "pos" : 322,
             "context" : "...from their own lower classes, they must go outside their <mark>house<\/mark> to hire the craftsmen and specialists they need. And since...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 335,
+            "pos" : 330,
             "context" : "...craftsmen and specialists they need. And since for political reasons <mark>House<\/mark> Telvanni has chosen to reduce its reliance on Redoran mercenaries for...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 352,
+            "pos" : 347,
             "context" : "Promotion in the ranks of <mark>House<\/mark> Telvanni, however, is very difficult for outsiders. Most...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 360,
+            "pos" : 355,
             "context" : "...difficult for outsiders. Most disconcerting for some potential candidates is <mark>House<\/mark> Telvanni's casual acceptance of murder and assassination of rivals as a...",
             "fid" : "content" } ] },
       
@@ -797,73 +607,73 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Caldera, Valvius Mevureius' <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "Rethan Manor, Gols' <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "I am a councilor of <mark>House<\/mark> Hlaalu and chose to write this short guide for those who...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "...for those who seek to understand us or join us. <mark>House<\/mark> Hlaalu is the most open and modern of the Great Houses...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...House Hlaalu is the most open and modern of the Great <mark>Houses<\/mark>. We are the only Great House who has embraced the...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...modern of the Great Houses. We are the only Great <mark>House<\/mark> who has embraced the irresistible tides of Imperial law and custom...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "...new policies, rising from obscurity as the Greatest of the <mark>Houses<\/mark>.",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "...clears, they will find themselves indebted to us. The <mark>House<\/mark> Telvanni may know many arcane secrets, but they fight among...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "In <mark>House<\/mark> Hlaalu you must be fast and agile. You must be...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 258,
+            "pos" : 253,
             "context" : "Then, reader, would you seize this opportunity to join <mark>House<\/mark> Hlaalu? Would you have yourself be counted among the victors...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 275,
+            "pos" : 270,
             "context" : "...welcome. And if you have the will, you may serve <mark>House<\/mark> Hlaalu, and advance in the ranks, for above all...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 280,
+            "pos" : 275,
             "context" : "...and advance in the ranks, for above all things, <mark>House<\/mark> Hlaalu prizes initiative and ambition. ",
             "fid" : "content" } ] },
       
@@ -874,49 +684,49 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...centered on the ancient city of Vivec and the old Great <mark>House<\/mark> district centers at Balmora, Ald'ruhn, and Sadrith Mora....",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 279,
+            "pos" : 274,
             "context" : "...while natives live, work, and shop in the Great <mark>House<\/mark> compounds and residential cantons.",
             "fid" : "content" },
           
           { "form" : "houses",
             "weight" : "1",
-            "pos" : 346,
+            "pos" : 341,
             "context" : "...right outside the Imperial Legion garrison at Fort Pelagiad. The <mark>houses<\/mark> and shops are built in the Western Imperial style, and...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 395,
+            "pos" : 390,
             "context" : "...sizable permanent Ashlands settlement; Ald'ruhn, the district seat of <mark>House<\/mark> Redoran, is on the margin of the region. Ashlanders...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 499,
+            "pos" : 494,
             "context" : " Sadrith Mora is the district seat of <mark>House<\/mark> Telvanni, and home of the Telvanni Council, though only...",
             "fid" : "content" },
           
           { "form" : "housed",
             "weight" : "1",
-            "pos" : 571,
+            "pos" : 566,
             "context" : "...the deranged, distorted victims of the deadly corprus disease are <mark>housed<\/mark> and tended.",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 1108,
+            "pos" : 1103,
             "context" : " Balmora is the district seat of <mark>House<\/mark> Hlaalu, and the largest settlement on Vvardenfell after Vivec City...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 1161,
+            "pos" : 1156,
             "context" : " Ald'ruhn is the district seat of <mark>House<\/mark> Redoran, and a large settlement. The Redoran Council Chamber...",
             "fid" : "content" } ] },
       
@@ -927,43 +737,43 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "In that time, <mark>House<\/mark> Dwemer were great enchanters, so Nerevar went in secret to...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "..., however, disputes over religion divided the Council, with <mark>House<\/mark> Dwemer and House Dagoth on one side and all the other...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 66,
+            "pos" : 61,
             "context" : "...disputes over religion divided the Council, with House Dwemer and <mark>House<\/mark> Dagoth on one side and all the other Houses on the...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 65,
             "context" : "...Dwemer and House Dagoth on one side and all the other <mark>Houses<\/mark> on the other. Dwemer and Dagoth invited Orc and Nord clans...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "..., and held northwest Morrowind, while Nerevar mustered the other <mark>Houses<\/mark> and nomad tribes and marched to meet the Dwemer-Dagoth...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 109,
+            "pos" : 104,
             "context" : "...terrible sorceries were used, resulting in the utter extermination of <mark>House<\/mark> Dwemer, House Dagoth, and their allies. Nerevar was...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 111,
+            "pos" : 106,
             "context" : "...used, resulting in the utter extermination of House Dwemer, <mark>House<\/mark> Dagoth, and their allies. Nerevar was killed in the...",
             "fid" : "content" } ] },
       
@@ -974,37 +784,37 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "...while natives live, work, and shop in the Great <mark>House<\/mark> compounds and residential cantons. But most of all, this is...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 314,
+            "pos" : 309,
             "context" : "...Hlaalu treasuries, records, holding cells, and various Great <mark>House<\/mark> services. There are two public houses: the Elven Nations...",
             "fid" : "content" },
           
           { "form" : "houses",
             "weight" : "1",
-            "pos" : 318,
+            "pos" : 313,
             "context" : "..., and various Great House services. There are two public <mark>houses<\/mark>: the Elven Nations and the No Name Club. A...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 330,
+            "pos" : 325,
             "context" : "...craftsmen and tradesmen also have shops at Hlaalu Compound. Some <mark>House<\/mark> Hlaalu nobles and retainers prefer to maintain their residences in the...",
             "fid" : "content" },
           
           { "form" : "housed",
             "weight" : "1",
-            "pos" : 377,
+            "pos" : 372,
             "context" : "...includes a treasury and a hall of records. Slaves are <mark>housed<\/mark> in the lowest tiers, along with cells full of monsters...",
             "fid" : "content" },
           
           { "form" : "housed",
             "weight" : "1",
-            "pos" : 507,
+            "pos" : 502,
             "context" : "...apartments, and most of Vvardenfell's crafts and light industry are <mark>housed<\/mark> in these cantons. The Abbey of St. Delyn the...",
             "fid" : "content" } ] },
       
@@ -1015,25 +825,25 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "Guls Llervu's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "Seleth's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "..., the summoning to service of those bound through Hearth and <mark>House<\/mark> to the protection of the clan.",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 295,
+            "pos" : 290,
             "context" : "...labyrinths of the detested Dwemer race? For ages the Great <mark>Houses<\/mark> and the Temple have kept our land clean of the vampire's...",
             "fid" : "content" } ] },
       
@@ -1044,25 +854,25 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "  Councilors of <mark>House<\/mark> Telvanni, Vvardenfell District, Imperial Era 426 Archmagister Gothren,...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "..., District of Vvardenfell, Province of Morrowind Councilor Representatives of <mark>House<\/mark> Telvanni, Council Hall, Sadrith Mora For Archmagister Gothren:...",
             "fid" : "content" },
           
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 143,
+            "pos" : 138,
             "context" : "...repeated protests from Duke Dren and representative of the other Great <mark>Houses<\/mark>, Telvanni Council reminded them that, according to ancient law and...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 160,
+            "pos" : 155,
             "context" : "...enterprise of its individual members. If the Empire or other <mark>House<\/mark> Councils wish to dispute Telvanni exploration and colonization of the wastes...",
             "fid" : "content" } ] },
       
@@ -1073,19 +883,19 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : " Ald'ruhn is the district seat of <mark>House<\/mark> Redoran, and one of the largest settlements on Vvardenfell....",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : " <mark>House<\/mark> Redoran services are in the Council House and Councilor's Manors of...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 144,
+            "pos" : 139,
             "context" : " House Redoran services are in the Council <mark>House<\/mark> and Councilor's Manors of Ald'ruhn-Under-Skar. The Ald'ruhn Temple...",
             "fid" : "content" } ] },
       
@@ -1096,19 +906,19 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 16,
+            "pos" : 11,
             "context" : " Sadrith Mora is the district seat of <mark>House<\/mark> Telvanni, and home of the Telvanni Council, though only...",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "...the Thieves Guild congregate at Dirty Muriel's Cornerclub. Telvanni Great <mark>House<\/mark> and Tribunal Temple services are all housed within the Council Hall...",
             "fid" : "content" },
           
           { "form" : "housed",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 127,
             "context" : "...Cornerclub. Telvanni Great House and Tribunal Temple services are all <mark>housed<\/mark> within the Council Hall; additional Telvanni services are available in...",
             "fid" : "content" } ] },
       
@@ -1119,19 +929,19 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "Red Book of Great <mark>House<\/mark> Redoran",
             "fid" : "HouseRedoran" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "Councilors of <mark>House<\/mark> Redoran, Vvardenfell District, Imperial Era 426",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 238,
+            "pos" : 233,
             "context" : "...organized crime have become increasingly aggressive and violent in the Redoran <mark>House<\/mark> Districts. The councilors blame local corruption, weakened enforcement,...",
             "fid" : "content" } ] },
       
@@ -1142,19 +952,19 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "Ignatius Flaccus' <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "Rumors flow from the <mark>House<\/mark> of Troubles.",
             "fid" : "Daedra" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 183,
+            "pos" : 178,
             "context" : "The Thrice-Sealed <mark>House<\/mark> withstands the Storm.",
             "fid" : "content" } ] },
       
@@ -1165,19 +975,19 @@
         [ 
           { "form" : "housed",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...not sound intimidating but tonight, when the dues collection is <mark>housed<\/mark> there before being sent to the bank, the security's going...",
             "fid" : "content" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 719,
+            "pos" : 714,
             "context" : "...sun was fully risen when Sathis reached the stables of his <mark>house<\/mark> on the outskirts of Vivec. He reigned in his guar...",
             "fid" : "content" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 823,
+            "pos" : 818,
             "context" : "...no sound except the usual creaks and groans of his old <mark>house<\/mark>. Afternoon sunlight came through his bedroom window in ribbons,...",
             "fid" : "content" } ] },
       
@@ -1188,13 +998,13 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Telvanni Council <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "Erna the Quiet's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1205,13 +1015,13 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "Sadrith Mora, Telvanni Council <mark>House<\/mark> Chambers: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "house",
             "weight" : "1",
-            "pos" : 201,
+            "pos" : 196,
             "context" : "...transgress against your brothers or sisters, and never dishonor your <mark>house<\/mark> or your ancestors. Serve and protect the poor and weak...",
             "fid" : "content" } ] },
       
@@ -1222,13 +1032,13 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 643,
+            "pos" : 638,
             "context" : "...Guilds. We also have a friendly and supportive relationship with <mark>House<\/mark> Hlaalu, which strongly supports the Emperor and Imperial principles....",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 669,
+            "pos" : 664,
             "context" : "...cults have the greatest respect for the high moral principles of <mark>House<\/mark> Redoran and the Morag Tong, and honors their different but...",
             "fid" : "content" } ] },
       
@@ -1239,13 +1049,13 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "Aryni Orethi's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 581,
+            "pos" : 576,
             "context" : "...you will be honored guests with every luxury the Archmagister of <mark>House<\/mark> Telvanni can afford.\"",
             "fid" : "content" } ] },
       
@@ -1256,13 +1066,13 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "Ald'ruhn, Aryni Orethi's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Ald'ruhn, Boldrisa Andrano's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1273,13 +1083,13 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Sadrith Mora, Vaden Belas' <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 16,
+            "pos" : 11,
             "context" : "Tel Uvirith, Omavel's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1290,13 +1100,13 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "Councilors of <mark>House<\/mark> Hlaalu, Vvardenfell District, Imperial Era 426",
             "fid" : "content" },
           
           { "form" : "House",
             "weight" : "1",
-            "pos" : 191,
+            "pos" : 186,
             "context" : "...in the incidence of theft and violent crime in the Hlaalu <mark>House<\/mark> Districts, thanks to the vigilance of the Legions and stern...",
             "fid" : "content" } ] },
       
@@ -1307,7 +1117,7 @@
         [ 
           { "form" : "house",
             "weight" : "1",
-            "pos" : 225,
+            "pos" : 220,
             "context" : "...where are their friends? At the local cornerclub or trade <mark>house<\/mark>. In Vvardenfell, look for friends in Balmora, Ald'ruhn...",
             "fid" : "content" } ] },
       
@@ -1318,7 +1128,7 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "Fargoth's <mark>House<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -1329,7 +1139,7 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : " Telvanni Council <mark>House<\/mark> Chambers: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -1340,7 +1150,7 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "...you, and raise you high in my service. The Sixth <mark>House<\/mark> was not dead, but only sleeping. Now we wake..." } ] },
       
       { "docId" : "librarium_ordo_legionis",
@@ -1350,7 +1160,7 @@
         [ 
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...to supplement the local guard units of the Temple and Great <mark>Houses<\/mark> Hlaalu, Redoran, and Telvanni.",
             "fid" : "content" } ] },
       
@@ -1361,7 +1171,7 @@
         [ 
           { "form" : "house",
             "weight" : "1",
-            "pos" : 215,
+            "pos" : 210,
             "context" : "The Tribunal Temple in Morrowind, and its predecessor, <mark>house<\/mark> ancestor cults, are, by contrast with Imperial cults, extremely...",
             "fid" : "content" } ] },
       
@@ -1372,7 +1182,7 @@
         [ 
           { "form" : "house",
             "weight" : "1",
-            "pos" : 175,
+            "pos" : 170,
             "context" : "...encumber myself with profitless treasures, but shall share freely among <mark>house<\/mark> and hearth.",
             "fid" : "content" } ] },
       
@@ -1383,7 +1193,7 @@
         [ 
           { "form" : "house",
             "weight" : "1",
-            "pos" : 279,
+            "pos" : 274,
             "context" : "...the gold and the thanks, and was back in his <mark>house<\/mark> in Gnisis but a few days later. His wife Liah...",
             "fid" : "content" } ] },
       
@@ -1394,7 +1204,7 @@
         [ 
           { "form" : "Houses",
             "weight" : "1",
-            "pos" : 143,
+            "pos" : 138,
             "context" : "...to the mysterious figure with ties to one of the royal <mark>Houses<\/mark>, everyone except for S'Riizh and Harithoel. They decided that...",
             "fid" : "content" } ] },
       
@@ -1405,7 +1215,7 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "Galsa Gindu's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1416,7 +1226,7 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Tel Uvirith, Seleth's <mark>House<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1427,7 +1237,7 @@
         [ 
           { "form" : "houses",
             "weight" : "1",
-            "pos" : 154,
+            "pos" : 149,
             "context" : "The blood of broken hearths and <mark>houses<\/mark>",
             "fid" : "content" } ] },
       
@@ -1438,6 +1248,6 @@
         [ 
           { "form" : "House",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "Sadrith Mora, Telvanni Council <mark>House<\/mark>, Entry: Visitable? yes",
             "fid" : "acq" } ] } ] }

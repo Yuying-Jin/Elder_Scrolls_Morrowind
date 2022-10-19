@@ -2,16 +2,6 @@
   { "stem" : "elm",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Elms",
-            "weight" : "1",
-            "pos" : 6797,
-            "context" : "<mark>Elms<\/mark> Llervu" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "elms",
             "weight" : "1",
-            "pos" : 6914,
+            "pos" : 6909,
             "context" : "<mark>elms<\/mark> llervu",
             "fid" : "persons",
             "in" : 

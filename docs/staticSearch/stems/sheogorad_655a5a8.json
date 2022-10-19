@@ -9,31 +9,21 @@
         [ 
           { "form" : "Sheogorad",
             "weight" : "1",
-            "pos" : 147,
+            "pos" : 142,
             "context" : "...Molag Amur, Red Mountain, the West Gash, and <mark>Sheogorad<\/mark>.",
             "fid" : "content" },
           
           { "form" : "Sheogorad",
             "weight" : "1",
-            "pos" : 1208,
+            "pos" : 1203,
             "context" : " <mark>Sheogorad<\/mark>",
             "fid" : "content" },
           
           { "form" : "Sheogorad",
             "weight" : "1",
-            "pos" : 1211,
+            "pos" : 1206,
             "context" : " The large island of <mark>Sheogorad<\/mark> lies north of Vvardenfell. This island and its associated lesser...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Sheogorad",
-            "weight" : "1",
-            "pos" : 3446,
-            "context" : "<mark>Sheogorad<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -42,7 +32,7 @@
         [ 
           { "form" : "sheogorad",
             "weight" : "1",
-            "pos" : 3599,
+            "pos" : 3594,
             "context" : "<mark>sheogorad<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -55,6 +45,6 @@
         [ 
           { "form" : "Sheogorad",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "<mark>Sheogorad<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

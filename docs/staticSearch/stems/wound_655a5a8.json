@@ -9,19 +9,19 @@
         [ 
           { "form" : "Wounded",
             "weight" : "1",
-            "pos" : 266,
+            "pos" : 261,
             "context" : " The <mark>Wounded<\/mark> Netch",
             "fid" : "content" },
           
           { "form" : "wounded",
             "weight" : "1",
-            "pos" : 268,
+            "pos" : 263,
             "context" : " A <mark>wounded<\/mark> Netch lay himself down in a quiet corner of its feeding...",
             "fid" : "content" },
           
           { "form" : "wounds",
             "weight" : "1",
-            "pos" : 293,
+            "pos" : 288,
             "context" : "...; so that the poor Netch died, not from his <mark>wounds<\/mark>, but from the greed and carelessness of his erstwhile friends...",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "wounds",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...are similar to ghosts, but they are capable of inflicting <mark>wounds<\/mark> to the careless explorer. Dwarven ghosts are more dangerous still...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "wounds",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "...Tribunal], that Nerevar died at the conference [not of his <mark>wounds<\/mark>, according to the Ashlanders, but from treachery], and...",
             "fid" : "content" } ] },
       
@@ -54,7 +54,7 @@
         [ 
           { "form" : "wounds",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "...Tribunal], that Nerevar died at the conference [not of his <mark>wounds<\/mark>, according to the Ashlanders, but from treachery], and...",
             "fid" : "content" } ] },
       
@@ -65,7 +65,7 @@
         [ 
           { "form" : "wounds",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "...are similar to ghosts, but they are capable of inflicting <mark>wounds<\/mark> to the careless explorer. Dwarven ghosts are more dangerous still...",
             "fid" : "content" } ] },
       
@@ -76,7 +76,7 @@
         [ 
           { "form" : "wounded",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "To restore health to the afflicted and <mark>wounded<\/mark>, combine in equal parts two or more of the following...",
             "fid" : "content" } ] },
       
@@ -87,6 +87,6 @@
         [ 
           { "form" : "wounds",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "...It is supposed that vampirism is contracted from <mark>wounds<\/mark> received from a vampire. Since few victims survive vampiric attacks...",
             "fid" : "content" } ] } ] }

@@ -9,25 +9,25 @@
         [ 
           { "form" : "Ghostfence",
             "weight" : "1",
-            "pos" : 984,
+            "pos" : 979,
             "context" : "...the crater is deep and dotted with surface lava. The <mark>Ghostfence<\/mark>, a magical barrier which blocks travel as well as seals...",
             "fid" : "content" },
           
           { "form" : "Ghostfence",
             "weight" : "1",
-            "pos" : 1005,
+            "pos" : 1000,
             "context" : "...slopes, and is broken only at Ghostgate. Within the <mark>Ghostfence<\/mark>, rain never falls and the sun never shines; the...",
             "fid" : "content" },
           
           { "form" : "Ghostfence",
             "weight" : "1",
-            "pos" : 1021,
+            "pos" : 1016,
             "context" : " Ghostgate is the gate citadel of the <mark>Ghostfence<\/mark> Ordinator and Buoyant Armiger garrisons. Ghostgate sits astride the only...",
             "fid" : "content" },
           
           { "form" : "Ghostfence",
             "weight" : "1",
-            "pos" : 1041,
+            "pos" : 1036,
             "context" : "...from Red Mountain to threaten the rest of Morrowind. The <mark>Ghostfence<\/mark> itself is a colossal magical artifact that completely encircles Red Mountain...",
             "fid" : "content" } ] },
       
@@ -38,37 +38,27 @@
         [ 
           { "form" : "Ghostfence",
             "weight" : "1",
-            "pos" : 571,
+            "pos" : 566,
             "context" : "The <mark>Ghostfence<\/mark>: The Shrine of Pride",
             "fid" : "content" },
           
           { "form" : "Ghostfence",
             "weight" : "1",
-            "pos" : 574,
+            "pos" : 569,
             "context" : "The <mark>Ghostfence<\/mark> is a lasting symbol of the indomitable will and power of...",
             "fid" : "content" },
           
           { "form" : "Ghostfence",
             "weight" : "1",
-            "pos" : 589,
+            "pos" : 584,
             "context" : "The Shrine of Pride is found within the <mark>Ghostfence<\/mark>, just northeast of the Ghostgate itself. The safest route to...",
             "fid" : "content" },
           
           { "form" : "Ghostfence",
             "weight" : "1",
-            "pos" : 624,
+            "pos" : 619,
             "context" : "...Mamaea all the way to Ghostgate. Any journey inside the <mark>Ghostfence<\/mark> is dangerous, but even the most timid pilgrim should be...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ghostfence",
-            "weight" : "1",
-            "pos" : 1864,
-            "context" : "<mark>Ghostfence<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -77,7 +67,7 @@
         [ 
           { "form" : "ghostfence",
             "weight" : "1",
-            "pos" : 2043,
+            "pos" : 2038,
             "context" : "<mark>ghostfence<\/mark>",
             "fid" : "loc",
             "in" : 

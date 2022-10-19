@@ -9,47 +9,27 @@
         [ 
           { "form" : "Treasury",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "Vivec City, Hlaalu <mark>Treasury<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "treasuries",
             "weight" : "1",
-            "pos" : 308,
+            "pos" : 303,
             "context" : "...splendid tier-top mansion here. The tiers below contain Hlaalu <mark>treasuries<\/mark>, records, holding cells, and various Great House services...",
             "fid" : "content" },
           
           { "form" : "treasury",
             "weight" : "1",
-            "pos" : 373,
+            "pos" : 368,
             "context" : "...of their preferred mushroom towers. The administrative center includes a <mark>treasury<\/mark> and a hall of records. Slaves are housed in the...",
             "fid" : "content" },
           
           { "form" : "Treasury",
             "weight" : "1",
-            "pos" : 412,
+            "pos" : 407,
             "context" : "...the Arena. The Redoran administrative center there includes the Redoran <mark>Treasury<\/mark>, Hall of Records, and Holding Cells. On the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Treasury",
-            "weight" : "1",
-            "pos" : 3079,
-            "context" : "Redoran <mark>Treasury<\/mark>" },
-          
-          { "form" : "Treasury",
-            "weight" : "1",
-            "pos" : 4431,
-            "context" : "Vivec City, Hlaalu <mark>Treasury<\/mark>" },
-          
-          { "form" : "Treasury",
-            "weight" : "1",
-            "pos" : 4507,
-            "context" : "Vivec, Redoran <mark>Treasury<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -58,7 +38,7 @@
         [ 
           { "form" : "treasury",
             "weight" : "1",
-            "pos" : 3250,
+            "pos" : 3245,
             "context" : "redoran <mark>treasury<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -66,7 +46,7 @@
           
           { "form" : "treasury",
             "weight" : "1",
-            "pos" : 4586,
+            "pos" : 4581,
             "context" : "vivec city, hlaalu <mark>treasury<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -74,7 +54,7 @@
           
           { "form" : "treasury",
             "weight" : "1",
-            "pos" : 4681,
+            "pos" : 4676,
             "context" : "vivec, redoran <mark>treasury<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -87,6 +67,6 @@
         [ 
           { "form" : "Treasury",
             "weight" : "1",
-            "pos" : 133,
+            "pos" : 128,
             "context" : "Vivec, Redoran <mark>Treasury<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

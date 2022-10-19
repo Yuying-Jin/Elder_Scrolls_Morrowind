@@ -9,37 +9,37 @@
         [ 
           { "form" : "Market",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "...the Gateway Inn. Beyond the Gateway Inn is the Great <mark>Market<\/mark>, with numerous craftsmen and traders, and a small slave...",
             "fid" : "content" },
           
           { "form" : "market",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "..., with numerous craftsmen and traders, and a small slave <mark>market<\/mark>. North of the Great Market is the Telvanni Council Hall...",
             "fid" : "content" },
           
           { "form" : "Market",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "..., and a small slave market. North of the Great <mark>Market<\/mark> is the Telvanni Council Hall, a large orb supported by...",
             "fid" : "content" },
           
           { "form" : "Market",
             "weight" : "1",
-            "pos" : 92,
+            "pos" : 87,
             "context" : "...by giant mushroom stalks. To the east of the Great <mark>Market<\/mark> is Tel Naga, the towering wizard-tower residence of...",
             "fid" : "content" },
           
           { "form" : "Market",
             "weight" : "1",
-            "pos" : 141,
+            "pos" : 136,
             "context" : "...Council Hall; additional Telvanni services are available in the Great <mark>Market<\/mark> district and in Tel Naga. The Gateway merchant inn is...",
             "fid" : "content" },
           
           { "form" : "Market",
             "weight" : "1",
-            "pos" : 174,
+            "pos" : 169,
             "context" : "...a local cornerclub, or at Tel Naga. The Great <mark>Market<\/mark> has many services and tradesmen, and many others are scattered...",
             "fid" : "content" } ] },
       
@@ -50,13 +50,13 @@
         [ 
           { "form" : "Market",
             "weight" : "1",
-            "pos" : 595,
+            "pos" : 590,
             "context" : "...a sizable village, and the site of the Festival Slave <mark>Market<\/mark>, the largest slave market on Vvardenfell.",
             "fid" : "content" },
           
           { "form" : "market",
             "weight" : "1",
-            "pos" : 598,
+            "pos" : 593,
             "context" : "...the site of the Festival Slave Market, the largest slave <mark>market<\/mark> on Vvardenfell.",
             "fid" : "content" } ] },
       
@@ -67,7 +67,7 @@
         [ 
           { "form" : "markets",
             "weight" : "1",
-            "pos" : 433,
+            "pos" : 428,
             "context" : "...pods hollowed out for craftsmen and commoners. Open-air <mark>markets<\/mark> often include the giant cages displaying the wares of the slave...",
             "fid" : "content" } ] },
       
@@ -78,6 +78,6 @@
         [ 
           { "form" : "markets",
             "weight" : "1",
-            "pos" : 215,
+            "pos" : 210,
             "context" : "...Thieves Guild and the Camonna Tong for control of the black <mark>markets<\/mark>.",
             "fid" : "content" } ] } ] }

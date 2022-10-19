@@ -9,7 +9,7 @@
         [ 
           { "form" : "Hear",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "<mark>Hear<\/mark> me, children. Once I was a lowly man such as...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Hear",
             "weight" : "1",
-            "pos" : 53,
+            "pos" : 48,
             "context" : " <mark>Hear<\/mark> the words of Lord Vivec, and heed his sermons on...",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "hear",
             "weight" : "1",
-            "pos" : 319,
+            "pos" : 314,
             "context" : "...position at the Fighters Guild right here in town? I <mark>hear<\/mark> they're looking for a trainer for the Imperial Guard. I...",
             "fid" : "content" } ] },
       
@@ -42,6 +42,6 @@
         [ 
           { "form" : "hear",
             "weight" : "1",
-            "pos" : 803,
+            "pos" : 798,
             "context" : "...after he opened his eyes, he thought he could still <mark>hear<\/mark> Imalyn's voice nearby, singing The Ninety-Nine Loves of...",
             "fid" : "content" } ] } ] }

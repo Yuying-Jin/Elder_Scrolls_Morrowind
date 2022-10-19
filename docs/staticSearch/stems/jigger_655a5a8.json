@@ -9,19 +9,9 @@
         [ 
           { "form" : "jigger's",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Gnaar Mok, Druegh-<mark>jigger's<\/mark> Rest: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "jigger's",
-            "weight" : "1",
-            "pos" : 1941,
-            "context" : "Gnaar Mok, Druegh-<mark>jigger's<\/mark> Rest" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "jigger's",
             "weight" : "1",
-            "pos" : 2114,
+            "pos" : 2109,
             "context" : "gnaar mok, druegh <mark>jigger's<\/mark> rest",
             "fid" : "loc",
             "in" : 

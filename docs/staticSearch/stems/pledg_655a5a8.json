@@ -9,13 +9,13 @@
         [ 
           { "form" : "pledge",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "...Empire is the worldly working of the Divine Plan. We <mark>pledge<\/mark> aid and comfort to all citizens in need, and serve...",
             "fid" : "content" },
           
           { "form" : "pledge",
             "weight" : "1",
-            "pos" : 210,
+            "pos" : 205,
             "context" : "...and earnest faith. We ask only a one-time <mark>pledge<\/mark> of 50 drakes to aid us in our good works....",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "pledging",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "...status in a house as an oath-bonded hireling, <mark>pledging<\/mark> exclusive loyalty to a single house and forsaking ambitions with all...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "pledge",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "...would grant you counsel and power, if only you would <mark>pledge<\/mark> that friendship anew. The path to Red Mountain is long...",
             "fid" : "content" } ] } ] }

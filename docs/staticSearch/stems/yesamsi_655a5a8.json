@@ -2,16 +2,6 @@
   { "stem" : "yesamsi",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Yesamsi",
-            "weight" : "1",
-            "pos" : 4758,
-            "context" : "<mark>Yesamsi<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "yesamsi",
             "weight" : "1",
-            "pos" : 4893,
+            "pos" : 4888,
             "context" : "<mark>yesamsi<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Yesamsi",
             "weight" : "1",
-            "pos" : 158,
+            "pos" : 153,
             "context" : "<mark>Yesamsi<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

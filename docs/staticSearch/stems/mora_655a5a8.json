@@ -2,296 +2,6 @@
   { "stem" : "mora",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 57,
-        "contexts" : 
-        [ 
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 746,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 1145,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 1375,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 1488,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 1558,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 1629,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 1738,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 1850,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3149,
-            "context" : "Sadright <mark>Mora<\/mark>" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3157,
-            "context" : "Sadrith <mark>Mora<\/mark>" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3163,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 4" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3210,
-            "context" : "Sadrith <mark>Mora<\/mark>, Tel Naga Great Hall" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3221,
-            "context" : "Sadrith <mark>Mora<\/mark>, Telvanni Council House Chambers" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3232,
-            "context" : "Sadrith <mark>Mora<\/mark>, Telvanni Council House, Entry" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3243,
-            "context" : "Sadrith <mark>Mora<\/mark>,_Tel_Naga_General_Quarters" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3254,
-            "context" : "Sadrith_<mark>Mora<\/mark>" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3272,
-            "context" : "Sadrith_<mark>Mora<\/mark>,_Gateway_Inn" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3281,
-            "context" : "Sadrith_<mark>Mora<\/mark>,_Gateway_Inn,_West_Wing" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3292,
-            "context" : "Sadrith_<mark>Mora<\/mark>,_Morag_Tong_Guild" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3302,
-            "context" : "Sadrith_<mark>Mora<\/mark>,_Tel_Naga_General_Quarters" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3313,
-            "context" : "Sadrith_<mark>Mora<\/mark>,_Tel_Naga_Great_Hall" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3324,
-            "context" : "Sadrith_<mark>Mora<\/mark>,_Telvanni_Council_House,_Entry" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3335,
-            "context" : "Sadrith_<mark>Mora<\/mark>,_Vaden_Belas'_House" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3523,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3686,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3744,
-            "context" : "Tel <mark>Mora<\/mark>" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3757,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3768,
-            "context" : "Tel <mark>Mora<\/mark>, Berwen: Trader" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3777,
-            "context" : "Tel <mark>Mora<\/mark>, Lower Tower" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3786,
-            "context" : "Tel <mark>Mora<\/mark>, Tel Mora Tower Services" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3788,
-            "context" : "Tel Mora, Tel <mark>Mora<\/mark> Tower Services" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3797,
-            "context" : "Tel <mark>Mora<\/mark>, Tower Services" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 3809,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 5" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 4007,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 4159,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 4386,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 4735,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 6" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 4742,
-            "context" : "Wolverine Hall: Sadright <mark>Mora<\/mark> Fighters Guild" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 5187,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 5371,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 5383,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 5" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 5534,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 5977,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6297,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6317,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6347,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6476,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6552,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6578,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6710,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6725,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6862,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 6929,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 7086,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 7114,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 7438,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" },
-          
-          { "form" : "Mora",
-            "weight" : "1",
-            "pos" : 7464,
-            "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 54,
@@ -299,12 +9,12 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 909,
+            "pos" : 904,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -312,7 +22,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 1293,
+            "pos" : 1288,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -320,7 +30,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 1542,
+            "pos" : 1537,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -328,7 +38,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 1655,
+            "pos" : 1650,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -336,7 +46,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 1727,
+            "pos" : 1722,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3",
             "fid" : "loc",
             "in" : 
@@ -344,7 +54,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 1789,
+            "pos" : 1784,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -352,7 +62,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 1909,
+            "pos" : 1904,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -360,7 +70,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 2029,
+            "pos" : 2024,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3",
             "fid" : "loc",
             "in" : 
@@ -368,7 +78,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3320,
+            "pos" : 3315,
             "context" : "sadright <mark>mora<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -376,7 +86,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3328,
+            "pos" : 3323,
             "context" : "sadrith <mark>mora<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -384,7 +94,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 3334,
+            "pos" : 3329,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 4",
             "fid" : "loc",
             "in" : 
@@ -392,7 +102,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3399,
+            "pos" : 3394,
             "context" : "sadrith <mark>mora<\/mark>, gateway inn",
             "fid" : "loc",
             "in" : 
@@ -400,7 +110,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3408,
+            "pos" : 3403,
             "context" : "sadrith <mark>mora<\/mark>, gateway inn, west wing",
             "fid" : "loc",
             "in" : 
@@ -408,7 +118,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3419,
+            "pos" : 3414,
             "context" : "sadrith <mark>mora<\/mark>, morag tong guild",
             "fid" : "loc",
             "in" : 
@@ -416,7 +126,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3429,
+            "pos" : 3424,
             "context" : "sadrith <mark>mora<\/mark>, tel naga general quarters",
             "fid" : "loc",
             "in" : 
@@ -424,7 +134,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3445,
+            "pos" : 3440,
             "context" : "sadrith <mark>mora<\/mark>, tel naga great hall",
             "fid" : "loc",
             "in" : 
@@ -432,7 +142,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3461,
+            "pos" : 3456,
             "context" : "sadrith <mark>mora<\/mark>, telvanni council house chambers",
             "fid" : "loc",
             "in" : 
@@ -440,7 +150,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3472,
+            "pos" : 3467,
             "context" : "sadrith <mark>mora<\/mark>, telvanni council house, entry",
             "fid" : "loc",
             "in" : 
@@ -448,7 +158,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3488,
+            "pos" : 3483,
             "context" : "sadrith <mark>mora<\/mark>, vaden belas' house",
             "fid" : "loc",
             "in" : 
@@ -456,7 +166,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 3675,
+            "pos" : 3670,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -464,7 +174,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 3867,
+            "pos" : 3862,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -472,7 +182,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3945,
+            "pos" : 3940,
             "context" : "tel <mark>mora<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -480,7 +190,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 3954,
+            "pos" : 3949,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -488,7 +198,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3969,
+            "pos" : 3964,
             "context" : "tel <mark>mora<\/mark>, berwen: trader",
             "fid" : "loc",
             "in" : 
@@ -496,7 +206,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3978,
+            "pos" : 3973,
             "context" : "tel <mark>mora<\/mark>, lower tower",
             "fid" : "loc",
             "in" : 
@@ -504,7 +214,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3987,
+            "pos" : 3982,
             "context" : "tel <mark>mora<\/mark>, tel mora tower services",
             "fid" : "loc",
             "in" : 
@@ -512,7 +222,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3989,
+            "pos" : 3984,
             "context" : "tel mora, tel <mark>mora<\/mark> tower services",
             "fid" : "loc",
             "in" : 
@@ -520,7 +230,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 3998,
+            "pos" : 3993,
             "context" : "tel <mark>mora<\/mark>, tower services",
             "fid" : "loc",
             "in" : 
@@ -528,7 +238,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 4010,
+            "pos" : 4005,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 5",
             "fid" : "loc",
             "in" : 
@@ -536,7 +246,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 4151,
+            "pos" : 4146,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -544,7 +254,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 4303,
+            "pos" : 4298,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -552,7 +262,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 4524,
+            "pos" : 4519,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -560,7 +270,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 4863,
+            "pos" : 4858,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 6",
             "fid" : "loc",
             "in" : 
@@ -568,7 +278,7 @@
           
           { "form" : "mora",
             "weight" : "1",
-            "pos" : 4870,
+            "pos" : 4865,
             "context" : "wolverine hall: sadright <mark>mora<\/mark> fighters guild",
             "fid" : "loc",
             "in" : 
@@ -576,7 +286,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 5238,
+            "pos" : 5233,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3",
             "fid" : "group",
             "in" : 
@@ -584,7 +294,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 5384,
+            "pos" : 5379,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -592,7 +302,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 5591,
+            "pos" : 5586,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 5",
             "fid" : "group",
             "in" : 
@@ -600,7 +310,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 5609,
+            "pos" : 5604,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3",
             "fid" : "group",
             "in" : 
@@ -608,7 +318,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 5783,
+            "pos" : 5778,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -616,7 +326,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6367,
+            "pos" : 6362,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -624,7 +334,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6387,
+            "pos" : 6382,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -632,7 +342,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6419,
+            "pos" : 6414,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -640,7 +350,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6583,
+            "pos" : 6578,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -648,7 +358,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6661,
+            "pos" : 6656,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -656,7 +366,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6676,
+            "pos" : 6671,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -664,7 +374,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6796,
+            "pos" : 6791,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -672,7 +382,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6829,
+            "pos" : 6824,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -680,7 +390,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 6986,
+            "pos" : 6981,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -688,7 +398,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 7078,
+            "pos" : 7073,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 3",
             "fid" : "persons",
             "in" : 
@@ -696,7 +406,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 7218,
+            "pos" : 7213,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -704,7 +414,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 7239,
+            "pos" : 7234,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -712,7 +422,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 7577,
+            "pos" : 7572,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -720,7 +430,7 @@
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 7608,
+            "pos" : 7603,
             "context" : "Guide to Sadrith <mark>Mora<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -733,43 +443,43 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...Great House district centers at Balmora, Ald'ruhn, and Sadrith <mark>Mora<\/mark>. The rest of the island is covered by hostile desert...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 464,
+            "pos" : 459,
             "context" : "...the outpost at Molag Mar, the Telvanni settlements at Sadrith <mark>Mora<\/mark>, the wizard towers at Tel Aruhn, Tel Mora,...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 470,
+            "pos" : 465,
             "context" : "...Sadrith Mora, the wizard towers at Tel Aruhn, Tel <mark>Mora<\/mark>, and Tel Branora, and Ahemmusa camp and the remote...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 496,
+            "pos" : 491,
             "context" : " Sadrith <mark>Mora<\/mark> is the district seat of House Telvanni, and home of...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 511,
+            "pos" : 506,
             "context" : "...Council, though only one Telvanni councilor actually lives in Sadrith <mark>Mora<\/mark>. Sadrith Mora is an island settlement, and accessible only...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 513,
+            "pos" : 508,
             "context" : "...only one Telvanni councilor actually lives in Sadrith Mora. Sadrith <mark>Mora<\/mark> is an island settlement, and accessible only by sea and...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 601,
+            "pos" : 596,
             "context" : " Tel <mark>Mora<\/mark> is the Telvanni tower of Mistress Dratha, an ancient wizard...",
             "fid" : "content" } ] },
       
@@ -780,37 +490,37 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "Sadrith <mark>Mora<\/mark>, Tel Naga Great Hall: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "Sadrith <mark>Mora<\/mark>, Telvanni Council House, Entry: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "Tel <mark>Mora<\/mark>, Berwen: Trader: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 63,
+            "pos" : 58,
             "context" : "Tel <mark>Mora<\/mark>, Lower Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "Tel <mark>Mora<\/mark>, Tower Services: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 272,
+            "pos" : 267,
             "context" : "...apply to Telvanni Mouths at the Telvanni Council Hall in Sadrith <mark>Mora<\/mark> for acceptance in House Telvanni can expect a cordial welcome....",
             "fid" : "content" } ] },
       
@@ -821,31 +531,31 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : " Sadrith <mark>Mora<\/mark> is the district seat of House Telvanni, and home of...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : "...Council, though only one Telvanni councilor actually lives in Sadrith <mark>Mora<\/mark>. Sadrith Mora is an island settlement, and accessible only...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "...only one Telvanni councilor actually lives in Sadrith Mora. Sadrith <mark>Mora<\/mark> is an island settlement, and accessible only by sea and...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 291,
+            "pos" : 286,
             "context" : " Sadrith <mark>Mora<\/mark> is an island; there's no road or bridge to the...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 325,
+            "pos" : 320,
             "context" : "...docks offers ship passage to Ebonheart, Tel Branora, Tel <mark>Mora<\/mark>, or Dagon Fel. Iniel at the Wolverine Hall Mages...",
             "fid" : "content" } ] },
       
@@ -856,25 +566,25 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "Sadright <mark>Mora<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "Wolverine Hall: Sadrith <mark>Mora<\/mark> Fighters Guild: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 182,
+            "pos" : 177,
             "context" : "...the towns of Ald'ruhn and Balmora. The chapter in Sadright <mark>Mora<\/mark> is established in Wolverine Hall: Sadrith Mora Fighters Guild under...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 187,
+            "pos" : 182,
             "context" : "...chapter in Sadright Mora is established in Wolverine Hall: Sadrith <mark>Mora<\/mark> Fighters Guild under lease from the Telvanni Council. The chapter...",
             "fid" : "content" } ] },
       
@@ -885,19 +595,19 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 63,
+            "pos" : 58,
             "context" : "...Council, Vvardenfell District, Tower of Tel Naga, Sadrith <mark>Mora<\/mark>, District of Vvardenfell, Province of Morrowind Mistress Dratha,...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "...Lord of Telvanni Council, Vvardenfell District, Tower of Tel <mark>Mora<\/mark>, The Grazelands, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "...Morrowind Councilor Representatives of House Telvanni, Council Hall, Sadrith <mark>Mora<\/mark> For Archmagister Gothren: Mouth Mallam Ryon, Mage For Master...",
             "fid" : "content" } ] },
       
@@ -908,13 +618,13 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "Tel <mark>Mora<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "Tel <mark>Mora<\/mark> Tower Services: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -925,13 +635,13 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 356,
+            "pos" : 351,
             "context" : "...Legion Fort, Gnisis Legion Fort, Wolverine Hall in Sadrith <mark>Mora<\/mark>, Vivec, Foreign Quarter, and Imperial Chapels in Ebonheart...",
             "fid" : "content" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 436,
+            "pos" : 431,
             "context" : "...are found in: Vivec Foreign Quarter; Wolverine Hall in Sadrith <mark>Mora<\/mark>; Buckmoth Legion Fort; Moonmoth Legion Fort; Pelagiad Legion...",
             "fid" : "content" } ] },
       
@@ -942,13 +652,13 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "Sadrith <mark>Mora<\/mark>, Gateway Inn: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "Sadrith <mark>Mora<\/mark>, Tel Naga General Quarters: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -959,13 +669,13 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "Sadrith <mark>Mora<\/mark>, Morag Tong Guild: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Sadrith <mark>Mora<\/mark>, Tel Naga Great Hall: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -976,13 +686,13 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Sadrith <mark>Mora<\/mark>, Gateway Inn, West Wing: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Sadrith <mark>Mora<\/mark>, Telvanni Council House, Entry: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -993,7 +703,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Sadrith <mark>Mora<\/mark>, Telvanni Council House Chambers: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1004,7 +714,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 363,
+            "pos" : 358,
             "context" : "...you to Balmora, Vivec City, Caldera, and Sadrith <mark>Mora<\/mark> for a modest fee. Gnaar Mok is a LONG and...",
             "fid" : "content" } ] },
       
@@ -1015,7 +725,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 625,
+            "pos" : 620,
             "context" : ".... Ships from nearby Ebonheart sail to Hla Oad, Sadrith <mark>Mora<\/mark>, Tel Branora, and the Foreign Quarter of Vivec....",
             "fid" : "content" } ] },
       
@@ -1026,7 +736,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 232,
+            "pos" : 227,
             "context" : "...Vvardenfell, look for friends in Balmora, Ald'ruhn, Sadrith <mark>Mora<\/mark>, and the Foreign Quarter of Vivec. ",
             "fid" : "content" } ] },
       
@@ -1037,7 +747,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "Sadrith <mark>Mora<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -1048,7 +758,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 303,
+            "pos" : 298,
             "context" : "...on the understanding that we would never set foot in Sadrith <mark>Mora<\/mark> again. Actually, not all of us were let go....",
             "fid" : "content" } ] },
       
@@ -1059,7 +769,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "Tel <mark>Mora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1070,7 +780,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : ".... Indoranyon, Egroamaro's stronghold, was not far from Sadrith <mark>Mora<\/mark>, and he soon saw the blight and ruin that was...",
             "fid" : "content" } ] },
       
@@ -1081,7 +791,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : " Sadrith <mark>Mora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1092,7 +802,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "Sadrith <mark>Mora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1103,7 +813,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "Sadrith <mark>Mora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1114,7 +824,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "Sadrith <mark>Mora<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1125,7 +835,7 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Sadrith <mark>Mora<\/mark>, Vaden Belas' House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -1136,6 +846,6 @@
         [ 
           { "form" : "Mora",
             "weight" : "1",
-            "pos" : 53,
+            "pos" : 48,
             "context" : "Sadrith <mark>Mora<\/mark>, Tel Naga General Quarters: Visitable? yes",
             "fid" : "acq" } ] } ] }

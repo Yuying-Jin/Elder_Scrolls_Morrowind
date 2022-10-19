@@ -2,16 +2,6 @@
   { "stem" : "quarra",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Quarra",
-            "weight" : "1",
-            "pos" : 5681,
-            "context" : "<mark>Quarra<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "quarra",
             "weight" : "1",
-            "pos" : 5947,
+            "pos" : 5942,
             "context" : "<mark>quarra<\/mark>",
             "fid" : "group",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Quarra",
             "weight" : "1",
-            "pos" : 167,
+            "pos" : 162,
             "context" : "...known bloodlines differ greatly in their approach to prey. The <mark>Quarra<\/mark> bloodline features exceptional strength and endurance, and attacks in a...",
             "fid" : "content" } ] } ] }

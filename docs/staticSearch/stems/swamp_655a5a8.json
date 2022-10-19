@@ -9,13 +9,13 @@
         [ 
           { "form" : "Swamp",
             "weight" : "1",
-            "pos" : 156,
+            "pos" : 151,
             "context" : "...Marsh. It is especially prolific around the area of Utherus <mark>Swamp<\/mark>. It is a beautiful wildflower. Its name comes from...",
             "fid" : "content" },
           
           { "form" : "swamps",
             "weight" : "1",
-            "pos" : 280,
+            "pos" : 275,
             "context" : "The Somnalius Fern can be found in the <mark>swamps<\/mark> of Black Marsh. The fronds from this plant are light...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "swamp",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "...instead, place the corpse along a coast or in a <mark>swamp<\/mark> or marsh. Animals are the Necromancer's greatest allies when it...",
             "fid" : "content" } ] },
       
@@ -37,7 +37,7 @@
         [ 
           { "form" : "swamps",
             "weight" : "1",
-            "pos" : 498,
+            "pos" : 493,
             "context" : "...Dres District is in the south of Morrowind, bordering the <mark>swamps<\/mark> and marshes of Black Marsh. House Dres is an agrarian...",
             "fid" : "content" } ] },
       
@@ -48,19 +48,9 @@
         [ 
           { "form" : "swamps",
             "weight" : "1",
-            "pos" : 703,
+            "pos" : 698,
             "context" : "...is called the Bitter Coast. The salt marshes and humid <mark>swamps<\/mark> of this region are uninhabited, with the only settlements found...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Swamp",
-            "weight" : "1",
-            "pos" : 4265,
-            "context" : "Utherus <mark>Swamp<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -69,7 +59,7 @@
         [ 
           { "form" : "swamp",
             "weight" : "1",
-            "pos" : 4408,
+            "pos" : 4403,
             "context" : "utherus <mark>swamp<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -82,6 +72,6 @@
         [ 
           { "form" : "swamps",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 127,
             "context" : "Baranat rode many miles through the northern <mark>swamps<\/mark> before he came to the first of the brothers' guard posts...",
             "fid" : "content" } ] } ] }

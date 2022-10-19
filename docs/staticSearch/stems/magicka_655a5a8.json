@@ -9,12 +9,12 @@
         [ 
           { "form" : "Magicka",
             "weight" : "1",
-            "pos" : 166,
+            "pos" : 161,
             "context" : "The Vagaries of <mark>Magicka<\/mark>" },
           
           { "form" : "Magicka",
             "weight" : "1",
-            "pos" : 3414,
+            "pos" : 3409,
             "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Magicka",
             "weight" : "1",
-            "pos" : 3481,
+            "pos" : 3476,
             "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Magicka",
             "weight" : "1",
-            "pos" : 3843,
+            "pos" : 3838,
             "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 2",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Magicka",
             "weight" : "1",
-            "pos" : 4287,
+            "pos" : 4282,
             "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,41 +46,11 @@
           
           { "form" : "Magicka",
             "weight" : "1",
-            "pos" : 4727,
+            "pos" : 4722,
             "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
             [ "ssCtx3" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 5,
-        "contexts" : 
-        [ 
-          { "form" : "Magicka",
-            "weight" : "1",
-            "pos" : 3287,
-            "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 1" },
-          
-          { "form" : "Magicka",
-            "weight" : "1",
-            "pos" : 3330,
-            "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 1" },
-          
-          { "form" : "Magicka",
-            "weight" : "1",
-            "pos" : 3931,
-            "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 2" },
-          
-          { "form" : "Magicka",
-            "weight" : "1",
-            "pos" : 4143,
-            "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 1" },
-          
-          { "form" : "Magicka",
-            "weight" : "1",
-            "pos" : 4589,
-            "context" : "The Vagaries of <mark>Magicka<\/mark>, count: 1" } ] },
       
       { "docId" : "librarium_The_Four_Suitors_of_Benitah",
         "docUri" : "librarium\/The_Four_Suitors_of_Benitah.html",
@@ -89,19 +59,19 @@
         [ 
           { "form" : "magicka",
             "weight" : "1",
-            "pos" : 285,
+            "pos" : 280,
             "context" : "...strength. It took him some time to master it, visualizing <mark>magicka<\/mark> streaming through his body, pumping through the very fibers of...",
             "fid" : "content" },
           
           { "form" : "magicka",
             "weight" : "1",
-            "pos" : 429,
+            "pos" : 424,
             "context" : "...charges of lightning, pulling the pain into a reservoir of <mark>magicka<\/mark> and expelling it. The lesson learned, he came across Master...",
             "fid" : "content" },
           
           { "form" : "magicka",
             "weight" : "1",
-            "pos" : 561,
+            "pos" : 556,
             "context" : "...Yakin taught him the spell that would fire his impulses with <mark>magicka<\/mark>. Over several weeks, he learned how to supplant his...",
             "fid" : "content" } ] },
       
@@ -112,7 +82,7 @@
         [ 
           { "form" : "magicka",
             "weight" : "1",
-            "pos" : 202,
+            "pos" : 197,
             "context" : "To restore <mark>magicka<\/mark> for spellcasting, combine comberry and frost salts. comberry is...",
             "fid" : "content" } ] },
       
@@ -123,6 +93,6 @@
         [ 
           { "form" : "Magicka",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "...and souls with vitality and mana. And also must the <mark>Magicka<\/mark> Fountains be damped and banked, sanctioning their engendering only to...",
             "fid" : "content" } ] } ] }

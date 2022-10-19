@@ -9,19 +9,19 @@
         [ 
           { "form" : "confined",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "...to settlement and trade, most of the island's population is <mark>confined<\/mark> to the relatively hospitable west and southwest coast, centered on...",
             "fid" : "content" },
           
           { "form" : "confine",
             "weight" : "1",
-            "pos" : 271,
+            "pos" : 266,
             "context" : "...to the Arena for entertainments and war games. Outlanders mostly <mark>confine<\/mark> themselves to the Foreign Canton, while natives live, work...",
             "fid" : "content" },
           
           { "form" : "confine",
             "weight" : "1",
-            "pos" : 528,
+            "pos" : 523,
             "context" : "...but it is open only to Telvanni retainers; outsiders must <mark>confine<\/mark> themselves to the Gateway Inn.",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "confine",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "...but it is open only to Telvanni retainers; outsiders should <mark>confine<\/mark> themselves to the Gateway Inn, and to Wolverine Hall,...",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "confine",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "...public entertainments like mock battles and comic plays. Outlanders mostly <mark>confine<\/mark> themselves to the Foreign Canton, while natives live, work...",
             "fid" : "content" } ] } ] }

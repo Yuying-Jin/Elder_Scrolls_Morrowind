@@ -9,13 +9,13 @@
         [ 
           { "form" : "area",
             "weight" : "1",
-            "pos" : 163,
+            "pos" : 158,
             "context" : "...southern lowlands where most of Vvardenfell's agriculture is found. The <mark>area<\/mark> includes Pelagiad, Suran, Vivec City, and Ald Sotha...",
             "fid" : "content" },
           
           { "form" : "areas",
             "weight" : "1",
-            "pos" : 179,
+            "pos" : 174,
             "context" : "...lakes and waterways of the Ascadian Isles proper. The urban <mark>areas<\/mark> of Vivec and Ebonheart of the southern coast are densely populated...",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "areas",
             "weight" : "1",
-            "pos" : 244,
+            "pos" : 239,
             "context" : "...Law. There are exceptions after large battles or in remote <mark>areas<\/mark> where death occurs far from meddlesome priests. Fortunately, the...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Area",
-            "weight" : "1",
-            "pos" : 4552,
-            "context" : "Vivec,_Arena_Hidden_<mark>Area<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "area",
             "weight" : "1",
-            "pos" : 4604,
+            "pos" : 4599,
             "context" : "vivec, arena hidden <mark>area<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -60,7 +50,7 @@
         [ 
           { "form" : "area",
             "weight" : "1",
-            "pos" : 154,
+            "pos" : 149,
             "context" : "...found in Black Marsh. It is especially prolific around the <mark>area<\/mark> of Utherus Swamp. It is a beautiful wildflower. Its...",
             "fid" : "content" } ] },
       
@@ -71,6 +61,6 @@
         [ 
           { "form" : "Area",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "Vivec, Arena Hidden <mark>Area<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

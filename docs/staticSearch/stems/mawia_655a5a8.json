@@ -9,7 +9,7 @@
         [ 
           { "form" : "Mawia",
             "weight" : "1",
-            "pos" : 49,
+            "pos" : 44,
             "context" : "<mark>Mawia<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Mawia",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "<mark>Mawia<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "Mawia",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "<mark>Mawia<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -42,7 +42,7 @@
         [ 
           { "form" : "Mawia",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Mawia<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -53,19 +53,9 @@
         [ 
           { "form" : "Mawia",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Mawia<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Mawia",
-            "weight" : "1",
-            "pos" : 2534,
-            "context" : "<mark>Mawia<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -74,7 +64,7 @@
         [ 
           { "form" : "mawia",
             "weight" : "1",
-            "pos" : 2703,
+            "pos" : 2698,
             "context" : "<mark>mawia<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -87,7 +77,7 @@
         [ 
           { "form" : "Mawia",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "<mark>Mawia<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -98,7 +88,7 @@
         [ 
           { "form" : "Mawia",
             "weight" : "1",
-            "pos" : 44,
+            "pos" : 39,
             "context" : "<mark>Mawia<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -109,6 +99,6 @@
         [ 
           { "form" : "Mawia",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "<mark>Mawia<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

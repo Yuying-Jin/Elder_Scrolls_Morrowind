@@ -2,26 +2,6 @@
   { "stem" : "lichen",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "lichen",
-            "weight" : "1",
-            "pos" : 267,
-            "context" : "green <mark>lichen<\/mark>" },
-          
-          { "form" : "lichens",
-            "weight" : "1",
-            "pos" : 274,
-            "context" : "green <mark>lichens<\/mark>" },
-          
-          { "form" : "lichen",
-            "weight" : "1",
-            "pos" : 281,
-            "context" : "green_<mark>lichen<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "lichen",
             "weight" : "1",
-            "pos" : 448,
+            "pos" : 443,
             "context" : "green <mark>lichen<\/mark>",
             "fid" : "items",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "lichens",
             "weight" : "1",
-            "pos" : 455,
+            "pos" : 450,
             "context" : "green <mark>lichens<\/mark>",
             "fid" : "items",
             "in" : 
@@ -50,13 +30,13 @@
         [ 
           { "form" : "lichen",
             "weight" : "1",
-            "pos" : 180,
+            "pos" : 175,
             "context" : "To cure common diseases, combine gravedust and green <mark>lichen<\/mark>. gravedust is spirit-affinitive dust taken from remains buried...",
             "fid" : "content" },
           
           { "form" : "lichen",
             "weight" : "1",
-            "pos" : 192,
+            "pos" : 187,
             "context" : "...affinitive dust taken from remains buried in consecrated ground. green <mark>lichen<\/mark> is a hardy primitive plant that grows in the Ascadian Isles...",
             "fid" : "content" } ] },
       
@@ -67,6 +47,6 @@
         [ 
           { "form" : "Lichens",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "...Daedra 1 Part mixed Bittergreen Petals, Void Salts, Green <mark>Lichens<\/mark> and Bonemeal 1 Part Moonsugar 5 Parts Flin",
             "fid" : "content" } ] } ] }

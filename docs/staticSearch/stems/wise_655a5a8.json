@@ -9,7 +9,7 @@
         [ 
           { "form" : "wise",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...this particular custom is part of the culture or not, it's <mark>wise<\/mark> for the buyer and seller to greet one another with smiles...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "wise",
             "weight" : "1",
-            "pos" : 211,
+            "pos" : 206,
             "context" : "For those who would be <mark>wise<\/mark>, these sacred books will be of interest.",
             "fid" : "content" } ] },
       
@@ -31,19 +31,9 @@
         [ 
           { "form" : "Wise",
             "weight" : "1",
-            "pos" : 512,
+            "pos" : 507,
             "context" : "...in these cantons. The Abbey of St. Delyn the <mark>Wise<\/mark> is on the top tier of St. Delyn, and...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Wise",
-            "weight" : "1",
-            "pos" : 4083,
-            "context" : "The Abbey of St. Delyn the <mark>Wise<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -52,7 +42,7 @@
         [ 
           { "form" : "wise",
             "weight" : "1",
-            "pos" : 4227,
+            "pos" : 4222,
             "context" : "the abbey of st. delyn the <mark>wise<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -65,7 +55,7 @@
         [ 
           { "form" : "wise",
             "weight" : "1",
-            "pos" : 319,
+            "pos" : 314,
             "context" : "...Cults, in particular the rites of the Ashlander seers and <mark>wise<\/mark> women, and the prophecies of the Incarnate. Many among...",
             "fid" : "content" } ] },
       
@@ -76,7 +66,7 @@
         [ 
           { "form" : "wise",
             "weight" : "1",
-            "pos" : 319,
+            "pos" : 314,
             "context" : "...Cults, in particular the rites of the Ashlander seers and <mark>wise<\/mark> women, and the prophecies of the Incarnate. Many among...",
             "fid" : "content" } ] },
       
@@ -87,7 +77,7 @@
         [ 
           { "form" : "Wise",
             "weight" : "1",
-            "pos" : 505,
+            "pos" : 500,
             "context" : "Saint Delyn the <mark>Wise<\/mark> watched the young adventurer from a cloud in the sky,...",
             "fid" : "content" } ] },
       
@@ -98,6 +88,6 @@
         [ 
           { "form" : "wise",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "...be most carefully guarded, for how often have even the <mark>wise<\/mark> lusted to overreach their bodies and souls with vitality and mana...",
             "fid" : "content" } ] } ] }

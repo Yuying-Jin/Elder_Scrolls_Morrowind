@@ -9,13 +9,13 @@
         [ 
           { "form" : "sighed",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "“That is why I'm drinking now,” <mark>sighed<\/mark> Silverthorn. “So tell me, what is your profession?”",
             "fid" : "content" },
           
           { "form" : "sighing",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "...the spell, he suddenly found that all the creaking and <mark>sighing<\/mark> of the ruins around him had been stilled. He opened...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "sigh",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : "...much ambition, so little education,\" said Lledos with a <mark>sigh<\/mark>. \"My dear friends, we aren't mugging some Nord tourist...",
             "fid" : "content" } ] } ] }

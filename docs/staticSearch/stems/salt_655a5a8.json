@@ -9,41 +9,21 @@
         [ 
           { "form" : "salt",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "...servant is to soak the decaying corpse in a bath of <mark>salt<\/mark> or natron for at least one month. This will halt...",
             "fid" : "content" },
           
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "...corpse is fresh enough to have an unpleasant odor, the <mark>salts<\/mark> will remove that as well. In a moist climate,...",
             "fid" : "content" },
           
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 163,
             "context" : "...as Argonian or Thras, you may have to apply more <mark>salts<\/mark> if they become saturated. Some Necromancers remove the vital organs...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "salts",
-            "weight" : "1",
-            "pos" : 28,
-            "context" : "ash <mark>salts<\/mark>" },
-          
-          { "form" : "salts",
-            "weight" : "1",
-            "pos" : 227,
-            "context" : "frost_<mark>salts<\/mark>" },
-          
-          { "form" : "salts",
-            "weight" : "1",
-            "pos" : 575,
-            "context" : "void <mark>salts<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -52,7 +32,7 @@
         [ 
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 210,
+            "pos" : 205,
             "context" : "ash <mark>salts<\/mark>",
             "fid" : "items",
             "in" : 
@@ -60,7 +40,7 @@
           
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 408,
+            "pos" : 403,
             "context" : "frost <mark>salts<\/mark>",
             "fid" : "items",
             "in" : 
@@ -68,7 +48,7 @@
           
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 749,
+            "pos" : 744,
             "context" : "void <mark>salts<\/mark>",
             "fid" : "items",
             "in" : 
@@ -81,13 +61,13 @@
         [ 
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "a pinch of ash <mark>salts<\/mark>",
             "fid" : "content" },
           
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "...from the pan into the pie crust. Sprinkle with ash <mark>salts<\/mark> and cover the pie crust. Bake for one quarter hour...",
             "fid" : "content" } ] },
       
@@ -98,13 +78,13 @@
         [ 
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "To restore magicka for spellcasting, combine comberry and frost <mark>salts<\/mark>. comberry is a bitter berry, used to make wines...",
             "fid" : "content" },
           
           { "form" : "salts",
             "weight" : "1",
-            "pos" : 219,
+            "pos" : 214,
             "context" : "...wines. It grows mainly in the Ascadian Isles. frost <mark>salts<\/mark>, by contrast, are rare and expensive. These crystalline...",
             "fid" : "content" } ] },
       
@@ -115,7 +95,7 @@
         [ 
           { "form" : "salt",
             "weight" : "1",
-            "pos" : 700,
+            "pos" : 695,
             "context" : "...north to Gnaar Mok is called the Bitter Coast. The <mark>salt<\/mark> marshes and humid swamps of this region are uninhabited, with...",
             "fid" : "content" } ] },
       
@@ -126,6 +106,6 @@
         [ 
           { "form" : "Salts",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "...Daedra's Heart of Daedra 1 Part mixed Bittergreen Petals, Void <mark>Salts<\/mark>, Green Lichens and Bonemeal 1 Part Moonsugar 5 Parts Flin...",
             "fid" : "content" } ] } ] }

@@ -9,12 +9,12 @@
         [ 
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "I'm My Own <mark>Grandpa<\/mark>" },
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 1792,
+            "pos" : 1787,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 1916,
+            "pos" : 1911,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 2522,
+            "pos" : 2517,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 3576,
+            "pos" : 3571,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 4474,
+            "pos" : 4469,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 4623,
+            "pos" : 4618,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 5457,
+            "pos" : 5452,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 5482,
+            "pos" : 5477,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 5750,
+            "pos" : 5745,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 5879,
+            "pos" : 5874,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 3",
             "fid" : "group",
             "in" : 
@@ -94,68 +94,8 @@
           
           { "form" : "Grandpa",
             "weight" : "1",
-            "pos" : 6689,
+            "pos" : 6684,
             "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
-            [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 11,
-        "contexts" : 
-        [ 
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 1632,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 1745,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 2356,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 3423,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 4335,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 4459,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 5258,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 5274,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 5510,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 5631,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 3" },
-          
-          { "form" : "Grandpa",
-            "weight" : "1",
-            "pos" : 6591,
-            "context" : "I'm My Own <mark>Grandpa<\/mark>, count: 1" } ] } ] }
+            [ "ssCtx5" ] } ] } ] }

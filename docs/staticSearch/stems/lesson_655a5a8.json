@@ -9,12 +9,12 @@
         [ 
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1" },
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 1237,
+            "pos" : 1232,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 1882,
+            "pos" : 1877,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 2793,
+            "pos" : 2788,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 5178,
+            "pos" : 5173,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "group",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 5272,
+            "pos" : 5267,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "group",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 5320,
+            "pos" : 5315,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 2",
             "fid" : "group",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 5365,
+            "pos" : 5360,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 5723,
+            "pos" : 5718,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "group",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 6251,
+            "pos" : 6246,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "group",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 6308,
+            "pos" : 6303,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 3",
             "fid" : "persons",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 6804,
+            "pos" : 6799,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 2",
             "fid" : "persons",
             "in" : 
@@ -102,7 +102,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 6812,
+            "pos" : 6807,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 2",
             "fid" : "persons",
             "in" : 
@@ -110,7 +110,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 6999,
+            "pos" : 6994,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "persons",
             "in" : 
@@ -118,7 +118,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 7307,
+            "pos" : 7302,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 2",
             "fid" : "persons",
             "in" : 
@@ -126,7 +126,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 7514,
+            "pos" : 7509,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "persons",
             "in" : 
@@ -134,7 +134,7 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 7658,
+            "pos" : 7653,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "persons",
             "in" : 
@@ -142,101 +142,11 @@
           
           { "form" : "Lessons",
             "weight" : "1",
-            "pos" : 7672,
+            "pos" : 7667,
             "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 17,
-        "contexts" : 
-        [ 
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 1064,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 1711,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 2619,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 5032,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 5096,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 5132,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 2" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 5168,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 5480,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 5935,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 6252,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 3" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 6561,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 2" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 6716,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 2" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 6888,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 7192,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 2" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 7391,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 7521,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" },
-          
-          { "form" : "Lessons",
-            "weight" : "1",
-            "pos" : 7560,
-            "context" : "36 <mark>Lessons<\/mark> of Vivec Sermon 1, count: 1" } ] },
       
       { "docId" : "librarium_Unnamed_Book",
         "docUri" : "librarium\/Unnamed_Book.html",
@@ -245,13 +155,13 @@
         [ 
           { "form" : "lesson",
             "weight" : "1",
-            "pos" : 581,
+            "pos" : 576,
             "context" : "Now I teach them the greatest <mark>lesson<\/mark> of all, thought Lledos as he sloshed through the labyrinthine tunnels...",
             "fid" : "content" },
           
           { "form" : "lesson",
             "weight" : "1",
-            "pos" : 876,
+            "pos" : 871,
             "context" : "...Galsiah in her typical calm voice, \"Thank you for the <mark>lesson<\/mark>, Sathis.\"",
             "fid" : "content" } ] },
       
@@ -262,7 +172,7 @@
         [ 
           { "form" : "lesson",
             "weight" : "1",
-            "pos" : 505,
+            "pos" : 500,
             "context" : "...the animal servants they created. Let such stories be a <mark>lesson<\/mark> to you.",
             "fid" : "content" } ] },
       
@@ -273,6 +183,6 @@
         [ 
           { "form" : "lesson",
             "weight" : "1",
-            "pos" : 431,
+            "pos" : 426,
             "context" : "...the pain into a reservoir of magicka and expelling it. The <mark>lesson<\/mark> learned, he came across Master Combova at the Madach Tradehouse...",
             "fid" : "content" } ] } ] }

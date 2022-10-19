@@ -9,19 +9,9 @@
         [ 
           { "form" : "Hlaren",
             "weight" : "1",
-            "pos" : 234,
+            "pos" : 229,
             "context" : " All six Redoran councilors, Brara Morvayn, <mark>Hlaren<\/mark> Ramoran, Athyn Sarethi, Garisa Llethri, Miner Arobar,...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Hlaren",
-            "weight" : "1",
-            "pos" : 7058,
-            "context" : "<mark>Hlaren<\/mark> Ramoran" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "hlaren",
             "weight" : "1",
-            "pos" : 7183,
+            "pos" : 7178,
             "context" : "<mark>hlaren<\/mark> ramoran",
             "fid" : "persons",
             "in" : 
@@ -43,6 +33,6 @@
         [ 
           { "form" : "Hlaren",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : "Master Lord <mark>Hlaren<\/mark> Ramoran, by Grace of Almsivi, Honored Councilor of Redoran...",
             "fid" : "content" } ] } ] }

@@ -9,19 +9,19 @@
         [ 
           { "form" : "waiting",
             "weight" : "1",
-            "pos" : 589,
+            "pos" : 584,
             "context" : "...sloshed through the labyrinthine tunnels of sludge. His guar was <mark>waiting<\/mark> where he left it at the city gates, making a...",
             "fid" : "content" },
           
           { "form" : "wait",
             "weight" : "1",
-            "pos" : 697,
+            "pos" : 692,
             "context" : "..., perhaps order a meal -- a big one -- and <mark>wait<\/mark>. Hours would pass, and so would their moods....",
             "fid" : "content" },
           
           { "form" : "waiting",
             "weight" : "1",
-            "pos" : 816,
+            "pos" : 811,
             "context" : "...Loves of Boethiah. He lay still in his bed, <mark>waiting<\/mark>, but there was no sound except the usual creaks and...",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "wait",
             "weight" : "1",
-            "pos" : 191,
+            "pos" : 186,
             "context" : "'Whom do you <mark>wait<\/mark> for?'",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "Wait",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "To the Hidden: <mark>Wait<\/mark>, as always, in the darkness.",
             "fid" : "content" } ] } ] }

@@ -2,16 +2,6 @@
   { "stem" : "dagoth-ur",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Dagoth-Ur",
-            "weight" : "1",
-            "pos" : 1531,
-            "context" : "<mark>Dagoth-Ur<\/mark>" } ] },
-      
       { "docId" : "librarium_special_Flora_of_Tamriel",
         "docUri" : "librarium\/special_Flora_of_Tamriel.html",
         "score" : 1,
@@ -19,6 +9,6 @@
         [ 
           { "form" : "Dagoth-Ur",
             "weight" : "1",
-            "pos" : 137,
+            "pos" : 132,
             "context" : "...and fire found in the lava pits and streams found around <mark>Dagoth-Ur<\/mark>.",
             "fid" : "content" } ] } ] }

@@ -9,7 +9,7 @@
         [ 
           { "form" : "student",
             "weight" : "1",
-            "pos" : 116,
+            "pos" : 111,
             "context" : "One more note to the <mark>student<\/mark>: While most undead can be raised again and again, skeletons...",
             "fid" : "content" } ] },
       
@@ -20,6 +20,6 @@
         [ 
           { "form" : "students",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 76,
             "context" : "...through arcane codes and keys to confound even the most clever <mark>students<\/mark>.",
             "fid" : "content" } ] } ] }

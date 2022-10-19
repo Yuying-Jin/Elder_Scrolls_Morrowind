@@ -9,43 +9,43 @@
         [ 
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "Healers should all know the recipes for the following popular <mark>potions<\/mark>. Fortunately, in most cases, the ingredients are common...",
             "fid" : "content" },
           
           { "form" : "potion",
             "weight" : "1",
-            "pos" : 325,
+            "pos" : 320,
             "context" : "...The power of Water Breathing is handy for travelers. A <mark>potion<\/mark> may be made from two or more of the following ingredients...",
             "fid" : "content" },
           
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 374,
+            "pos" : 369,
             "context" : "Unfortunately, the <mark>potions<\/mark> most favored by adventurers require more rare and expensive ingredients....",
             "fid" : "content" },
           
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 388,
+            "pos" : 383,
             "context" : "...easy and affordable recipe for fire shield. But most such <mark>potions<\/mark> require at least one ingredient with high cost in coin or...",
             "fid" : "content" },
           
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 399,
+            "pos" : 394,
             "context" : "Fire Shield <mark>potions<\/mark> can be made from comberry and sload soap. comberry is...",
             "fid" : "content" },
           
           { "form" : "potion",
             "weight" : "1",
-            "pos" : 433,
+            "pos" : 428,
             "context" : "An adventurer can fortify his strength with a <mark>potion<\/mark> made from ash yams and dreugh wax. Ash yam is...",
             "fid" : "content" },
           
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 470,
+            "pos" : 465,
             "context" : "Invisibility, one of the most prized effects of <mark>potions<\/mark>, can be made only from crushed diamonds and bittergreen petals...",
             "fid" : "content" } ] },
       
@@ -56,37 +56,37 @@
         [ 
           { "form" : "Potion",
             "weight" : "1",
-            "pos" : 227,
+            "pos" : 222,
             "context" : "...address the shrine, it is customary to leave behind a <mark>Potion<\/mark> of Rising Force. Suitable potions may be purchased from the...",
             "fid" : "content" },
           
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 231,
+            "pos" : 226,
             "context" : "...customary to leave behind a Potion of Rising Force. Suitable <mark>potions<\/mark> may be purchased from the Temple . Homemade potions are not...",
             "fid" : "content" },
           
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 236,
+            "pos" : 231,
             "context" : ".... Suitable potions may be purchased from the Temple . Homemade <mark>potions<\/mark> are not acceptable.",
             "fid" : "content" },
           
           { "form" : "potion",
             "weight" : "1",
-            "pos" : 460,
+            "pos" : 455,
             "context" : "...you address the shrine, it is customary to leave a <mark>potion<\/mark> of Cure Common Disease as a token of your respect for...",
             "fid" : "content" },
           
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 468,
+            "pos" : 463,
             "context" : "...Disease as a token of your respect for justice. Suitable <mark>potions<\/mark> may be purchased from Temple. Homemade potions are not acceptable...",
             "fid" : "content" },
           
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 473,
+            "pos" : 468,
             "context" : "...justice. Suitable potions may be purchased from Temple. Homemade <mark>potions<\/mark> are not acceptable.",
             "fid" : "content" } ] },
       
@@ -97,13 +97,13 @@
         [ 
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 460,
+            "pos" : 455,
             "context" : " Lay healers gather ingredients for health and healing <mark>potions<\/mark>, and minister to the sick and hurt in poor and...",
             "fid" : "content" },
           
           { "form" : "potion",
             "weight" : "1",
-            "pos" : 485,
+            "pos" : 480,
             "context" : "...on the road and in the wilderness, gathering herbs and <mark>potion<\/mark> components. They should avoid trouble where possible, and so...",
             "fid" : "content" } ] },
       
@@ -114,13 +114,13 @@
         [ 
           { "form" : "potion",
             "weight" : "1",
-            "pos" : 95,
+            "pos" : 90,
             "context" : "...with the milk of the agile footed mountain goat, a <mark>potion<\/mark> that allows the user to glide safely above the ground can...",
             "fid" : "content" },
           
           { "form" : "potion",
             "weight" : "1",
-            "pos" : 271,
+            "pos" : 266,
             "context" : "...mixed properly with the pulp of the Aloe plant, the <mark>potion<\/mark> has the ability to increase one's stamina for a short while....",
             "fid" : "content" } ] },
       
@@ -131,19 +131,9 @@
         [ 
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 187,
+            "pos" : 182,
             "context" : "...a mighty and learned healer, master of all alchemy and <mark>potions<\/mark>, and able to cure all diseases. Lord Vivec looked...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "potions",
-            "weight" : "1",
-            "pos" : 208,
-            "context" : "fire_shield_<mark>potions<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -152,7 +142,7 @@
         [ 
           { "form" : "potions",
             "weight" : "1",
-            "pos" : 389,
+            "pos" : 384,
             "context" : "fire shield <mark>potions<\/mark>",
             "fid" : "items",
             "in" : 

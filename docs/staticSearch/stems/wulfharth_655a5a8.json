@@ -9,19 +9,9 @@
         [ 
           { "form" : "Wulfharth",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : " ...and upon that year of the Reign of <mark>Wulfharth<\/mark> and his Son's, the Magnificence that was Mordrin Hanin ended...",
             "fid" : "Wulfharth" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Wulfharth",
-            "weight" : "1",
-            "pos" : 7591,
-            "context" : "<mark>Wulfharth<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "wulfharth",
             "weight" : "1",
-            "pos" : 7736,
+            "pos" : 7731,
             "context" : "<mark>wulfharth<\/mark>",
             "fid" : "persons",
             "in" : 

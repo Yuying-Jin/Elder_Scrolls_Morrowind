@@ -2,16 +2,6 @@
   { "stem" : "ashinabi",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ashinabi",
-            "weight" : "1",
-            "pos" : 1029,
-            "context" : "<mark>Ashinabi<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "ashinabi",
             "weight" : "1",
-            "pos" : 1199,
+            "pos" : 1194,
             "context" : "<mark>ashinabi<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Ashinabi",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Ashinabi<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

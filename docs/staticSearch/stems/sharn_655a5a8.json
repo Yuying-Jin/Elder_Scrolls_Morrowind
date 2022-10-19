@@ -2,126 +2,6 @@
   { "stem" : "sharn",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 23,
-        "contexts" : 
-        [ 
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 1210,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 1597,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 2693,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 3" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 4868,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 4964,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 4982,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 5253,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 5651,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 5823,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 5904,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 5922,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 2" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 5948,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 5960,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 5" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 6029,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 6042,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 2" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 6110,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 4" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 6126,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 6140,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 2" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 6153,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 2" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 6166,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 6191,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" },
-          
-          { "form" : "Sharn",
-            "weight" : "1",
-            "pos" : 7616,
-            "context" : "<mark>Sharn<\/mark> gra-Muzgob" },
-          
-          { "form" : "Sharn's",
-            "weight" : "1",
-            "pos" : 7620,
-            "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 21,
@@ -129,12 +9,12 @@
         [ 
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 110,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead" },
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 1379,
+            "pos" : 1374,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -142,7 +22,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 1769,
+            "pos" : 1764,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -150,7 +30,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 2871,
+            "pos" : 2866,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 3",
             "fid" : "loc",
             "in" : 
@@ -158,7 +38,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 4994,
+            "pos" : 4989,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -166,7 +46,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 5108,
+            "pos" : 5103,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -174,7 +54,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 5126,
+            "pos" : 5121,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -182,7 +62,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 5138,
+            "pos" : 5133,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 6",
             "fid" : "group",
             "in" : 
@@ -190,7 +70,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 5462,
+            "pos" : 5457,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -198,7 +78,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 5539,
+            "pos" : 5534,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -206,7 +86,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 5554,
+            "pos" : 5549,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 2",
             "fid" : "group",
             "in" : 
@@ -214,7 +94,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 5902,
+            "pos" : 5897,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -222,7 +102,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 6016,
+            "pos" : 6011,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 4",
             "fid" : "group",
             "in" : 
@@ -230,7 +110,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 6110,
+            "pos" : 6105,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -238,7 +118,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 6193,
+            "pos" : 6188,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -246,7 +126,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 6212,
+            "pos" : 6207,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -254,7 +134,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 6228,
+            "pos" : 6223,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 4",
             "fid" : "group",
             "in" : 
@@ -262,7 +142,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 6241,
+            "pos" : 6236,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 3",
             "fid" : "group",
             "in" : 
@@ -270,7 +150,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 6274,
+            "pos" : 6269,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -278,7 +158,7 @@
           
           { "form" : "sharn",
             "weight" : "1",
-            "pos" : 7057,
+            "pos" : 7052,
             "context" : "<mark>sharn<\/mark> gra muzgob",
             "fid" : "persons",
             "in" : 
@@ -286,7 +166,7 @@
           
           { "form" : "Sharn's",
             "weight" : "1",
-            "pos" : 7060,
+            "pos" : 7055,
             "context" : "<mark>Sharn's<\/mark> Legions of the Dead, count: 1",
             "fid" : "persons",
             "in" : 
@@ -299,6 +179,6 @@
         [ 
           { "form" : "Sharn",
             "weight" : "1",
-            "pos" : 11,
+            "pos" : 6,
             "context" : "[<mark>Sharn<\/mark> gra-Muzgob's personal copy.]",
             "fid" : "Sharngra-Muzgob" } ] } ] }

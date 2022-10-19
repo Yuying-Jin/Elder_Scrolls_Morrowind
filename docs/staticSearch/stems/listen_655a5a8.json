@@ -9,13 +9,13 @@
         [ 
           { "form" : "listens",
             "weight" : "1",
-            "pos" : 430,
+            "pos" : 425,
             "context" : "...boat was only a few minutes from landing. \"And S'Riizh <mark>listens<\/mark>. When you said that a fortune divided by two was...",
             "fid" : "content" },
           
           { "form" : "listened",
             "weight" : "1",
-            "pos" : 440,
+            "pos" : 435,
             "context" : "...was more profitable than a fortune divided by twelve, S'Riizh <mark>listened<\/mark> to that too.\" S'Riizh shuffled back to the crate by the...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "listen",
             "weight" : "1",
-            "pos" : 286,
+            "pos" : 281,
             "context" : "...and the strength of their bones. If King Gortwog will <mark>listen<\/mark> to reason, we could offer the services of our Art...",
             "fid" : "content" } ] },
       
@@ -37,7 +37,7 @@
         [ 
           { "form" : "listened",
             "weight" : "1",
-            "pos" : 196,
+            "pos" : 191,
             "context" : "...all diseases. Lord Vivec looked upon this wizard, and <mark>listened<\/mark> to his boasting, then asked him, \"How can you pretend...",
             "fid" : "content" } ] },
       
@@ -48,7 +48,7 @@
         [ 
           { "form" : "Listen",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "<mark>Listen<\/mark>, faithful, to Vivec's words, for he says five...",
             "fid" : "content" } ] },
       
@@ -59,6 +59,6 @@
         [ 
           { "form" : "listen",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : "...Plot and Plaster cornerclub in Tel Aruhn knew enough not to <mark>listen<\/mark> in, but she knew better than to take any chances....",
             "fid" : "content" } ] } ] }

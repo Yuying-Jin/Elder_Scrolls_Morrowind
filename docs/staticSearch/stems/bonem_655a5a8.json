@@ -9,19 +9,9 @@
         [ 
           { "form" : "Bonemeal",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "...Part mixed Bittergreen Petals, Void Salts, Green Lichens and <mark>Bonemeal<\/mark> 1 Part Moonsugar 5 Parts Flin",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "bonemeal",
-            "weight" : "1",
-            "pos" : 63,
-            "context" : "<mark>bonemeal<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "bonemeal",
             "weight" : "1",
-            "pos" : 245,
+            "pos" : 240,
             "context" : "<mark>bonemeal<\/mark>",
             "fid" : "items",
             "in" : 

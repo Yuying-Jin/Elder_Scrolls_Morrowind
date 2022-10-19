@@ -9,19 +9,19 @@
         [ 
           { "form" : "DARING",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : "<mark>DARING<\/mark>",
             "fid" : "content" },
           
           { "form" : "Daring",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "The Grace of <mark>Daring<\/mark>",
             "fid" : "content" },
           
           { "form" : "daring",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "Thank you for your <mark>daring<\/mark>, Lord Vivec. I shall not shun risk, nor...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "Daring",
             "weight" : "1",
-            "pos" : 148,
+            "pos" : 143,
             "context" : "To Stop the Moon: The Shrine of <mark>Daring<\/mark>",
             "fid" : "content" },
           
           { "form" : "daring",
             "weight" : "1",
-            "pos" : 188,
+            "pos" : 183,
             "context" : "...the grace of his countenance. Overwhelmed by the courage and <mark>daring<\/mark> of Vivec, the moon Baar Dau swore itself to eternal...",
             "fid" : "content" },
           
           { "form" : "Daring",
             "weight" : "1",
-            "pos" : 208,
+            "pos" : 203,
             "context" : "The Shrine of <mark>Daring<\/mark> is found in the city of Vivec, in the Temple...",
             "fid" : "content" } ] },
       
@@ -55,13 +55,13 @@
         [ 
           { "form" : "dare",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "...the chosen. In the days to come, few will <mark>dare<\/mark> to stand against your might. But one obstacle remains....",
             "fid" : "content" },
           
           { "form" : "daring",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "..., my children, Arkay's Blessing is flexible to those with <mark>daring<\/mark>, but Arkay's Law is unwavering.",
             "fid" : "content" } ] },
       
@@ -72,6 +72,6 @@
         [ 
           { "form" : "dared",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "...the cleverest and most ambitious of the Direnni summoners. He <mark>dared<\/mark> to scheme against Lord Dagonn, and won. When his...",
             "fid" : "content" } ] } ] }

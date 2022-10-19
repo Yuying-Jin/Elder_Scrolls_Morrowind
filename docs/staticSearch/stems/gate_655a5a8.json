@@ -9,31 +9,31 @@
         [ 
           { "form" : "Gate",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "...sited in the southwest corner of town, convenient to West <mark>Gate<\/mark> and the strider port, while the Temple is located on...",
             "fid" : "content" },
           
           { "form" : "Gate",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 130,
             "context" : "...short distance to the south of Ald'ruhn town, through South <mark>Gate<\/mark> behind the Mages Guild.",
             "fid" : "content" },
           
           { "form" : "Gate",
             "weight" : "1",
-            "pos" : 179,
+            "pos" : 174,
             "context" : "...of the Fighters Guild and Mages Guild are near the South <mark>Gate<\/mark>. Pricy but high-quality clothier, alchemist, and...",
             "fid" : "content" },
           
           { "form" : "Gate",
             "weight" : "1",
-            "pos" : 216,
+            "pos" : 211,
             "context" : "...Council Club cornerclub are found to the west, near West <mark>Gate<\/mark> and the silt strider port. The Rat in the Pot...",
             "fid" : "content" },
           
           { "form" : "Gate",
             "weight" : "1",
-            "pos" : 342,
+            "pos" : 337,
             "context" : "...port is along the western town wall, north of West <mark>Gate<\/mark>. Silt strider service goes from Ald'ruhn to Balmora, Gnisis...",
             "fid" : "content" } ] },
       
@@ -44,13 +44,13 @@
         [ 
           { "form" : "gates",
             "weight" : "1",
-            "pos" : 356,
+            "pos" : 351,
             "context" : "...Harakostil and Thelegorm compressed themselves low enough to squirm under the <mark>gates<\/mark> so they could lower the bridge into the main courtyard of...",
             "fid" : "content" },
           
           { "form" : "gate",
             "weight" : "1",
-            "pos" : 418,
+            "pos" : 413,
             "context" : "...guards were surprisingly quick. I sent the troupe through the <mark>gate<\/mark> to the docks while I distracted the guards.\"",
             "fid" : "content" } ] },
       
@@ -61,13 +61,13 @@
         [ 
           { "form" : "Gate",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : "...his lair, we will take flight. Since the Weir <mark>Gate<\/mark> has been taken, teleportation is not possible. Only Papré...",
             "fid" : "content" },
           
           { "form" : "gate",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...I have come to find. They have sealed the main <mark>gate<\/mark> so Papré could not escape. I am not sorrowful though...",
             "fid" : "content" } ] },
       
@@ -78,19 +78,9 @@
         [ 
           { "form" : "gate",
             "weight" : "1",
-            "pos" : 1019,
+            "pos" : 1014,
             "context" : " Ghostgate is the <mark>gate<\/mark> citadel of the Ghostfence Ordinator and Buoyant Armiger garrisons. Ghostgate...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Gate",
-            "weight" : "1",
-            "pos" : 4710,
-            "context" : "Weir <mark>Gate<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -99,7 +89,7 @@
         [ 
           { "form" : "gate",
             "weight" : "1",
-            "pos" : 4840,
+            "pos" : 4835,
             "context" : "weir <mark>gate<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -112,7 +102,7 @@
         [ 
           { "form" : "gate",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : ".... The blood of the eye and the blood of the <mark>gate<\/mark>. The joy of the living and the joy of the...",
             "fid" : "content" } ] },
       
@@ -123,7 +113,7 @@
         [ 
           { "form" : "gates",
             "weight" : "1",
-            "pos" : 592,
+            "pos" : 587,
             "context" : "...His guar was waiting where he left it at the city <mark>gates<\/mark>, making a laconic lunch of the chokeweed shrub to which...",
             "fid" : "content" } ] },
       
@@ -134,6 +124,6 @@
         [ 
           { "form" : "gate",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "...of Vvardenfell, and stands guard over Red Mountain, the <mark>gate<\/mark> to hell. He is part of the holy Tribunal,...",
             "fid" : "content" } ] } ] }

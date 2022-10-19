@@ -9,66 +9,51 @@
         [ 
           { "form" : "Skar",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : ".... The three principal districts are Ald'ruhn town, Ald'ruhn-under-<mark>Skar<\/mark>, and Buckmoth Fort.",
             "fid" : "content" },
           
           { "form" : "Skar",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : " Ald'ruhn-under-<mark>Skar<\/mark> is the most distinctive architectural feature of Ald'ruhn -- a manor...",
             "fid" : "content" },
           
           { "form" : "Skar",
             "weight" : "1",
-            "pos" : 149,
+            "pos" : 144,
             "context" : "...are in the Council House and Councilor's Manors of Ald'ruhn-Under-<mark>Skar<\/mark>. The Ald'ruhn Temple on the east side of town provides...",
             "fid" : "content" },
           
           { "form" : "Skar",
             "weight" : "1",
-            "pos" : 188,
+            "pos" : 183,
             "context" : "...-quality clothier, alchemist, and enchanter shops are under <mark>Skar<\/mark> as well. Commodities at reasonable prices, but with smaller...",
             "fid" : "content" },
           
           { "form" : "Skar",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : "..., pawnbroker, and bookseller near the entrance to Ald'ruhn-Under-<mark>Skar<\/mark>. The Ald Skar Inn and the Council Club cornerclub are...",
             "fid" : "content" },
           
           { "form" : "Skar",
             "weight" : "1",
-            "pos" : 207,
+            "pos" : 202,
             "context" : "...bookseller near the entrance to Ald'ruhn-Under-Skar. The Ald <mark>Skar<\/mark> Inn and the Council Club cornerclub are found to the west...",
             "fid" : "content" },
           
           { "form" : "skar",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "...and Bolvyn Venim, have manor residences in Ald'ruhn-Under_<mark>skar<\/mark>. Edwinna Elbert is the Mages Guild steward, and Percius...",
             "fid" : "content" },
           
           { "form" : "Skar",
             "weight" : "1",
-            "pos" : 293,
+            "pos" : 288,
             "context" : "...the Morag Tong, whose guildhall is found in Ald'ruhn-Under-<mark>Skar<\/mark>.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Skar",
-            "weight" : "1",
-            "pos" : 653,
-            "context" : "Ald <mark>Skar<\/mark> Inn" },
-          
-          { "form" : "Skar",
-            "weight" : "1",
-            "pos" : 914,
-            "context" : "Ald'ruhn-Under-<mark>Skar<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -77,7 +62,7 @@
         [ 
           { "form" : "skar",
             "weight" : "1",
-            "pos" : 830,
+            "pos" : 825,
             "context" : "ald <mark>skar<\/mark> inn",
             "fid" : "loc",
             "in" : 
@@ -85,7 +70,7 @@
           
           { "form" : "skar",
             "weight" : "1",
-            "pos" : 1012,
+            "pos" : 1007,
             "context" : "ald'ruhn under <mark>skar<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -98,6 +83,6 @@
         [ 
           { "form" : "Skar",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Ald <mark>Skar<\/mark> Inn: Visitable? yes",
             "fid" : "acq" } ] } ] }

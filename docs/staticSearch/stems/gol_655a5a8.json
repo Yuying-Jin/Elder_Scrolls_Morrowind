@@ -9,19 +9,9 @@
         [ 
           { "form" : "Gols'",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "Rethan Manor, <mark>Gols'<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Gols'",
-            "weight" : "1",
-            "pos" : 3102,
-            "context" : "Rethan Manor, <mark>Gols'<\/mark> House" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "gols'",
             "weight" : "1",
-            "pos" : 3284,
+            "pos" : 3279,
             "context" : "rethan manor, <mark>gols'<\/mark> house",
             "fid" : "loc",
             "in" : 

@@ -9,42 +9,27 @@
         [ 
           { "form" : "Gnaar",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Gnaar<\/mark> Mok, Druegh-jigger's Rest: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Gnaar",
             "weight" : "1",
-            "pos" : 695,
+            "pos" : 690,
             "context" : " The western coast of Vvardenfell from Seyda Neen north to <mark>Gnaar<\/mark> Mok is called the Bitter Coast. The salt marshes and...",
             "fid" : "content" },
           
           { "form" : "Gnaar",
             "weight" : "1",
-            "pos" : 710,
+            "pos" : 705,
             "context" : "..., with the only settlements found at the good harbors of <mark>Gnaar<\/mark> Mok, Hla Oad, and Seyda Neen. Also called...",
             "fid" : "content" },
           
           { "form" : "Gnaar",
             "weight" : "1",
-            "pos" : 795,
+            "pos" : 790,
             "context" : " <mark>Gnaar<\/mark> Mok is a tiny island fishing village in the Bitter Coast...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Gnaar",
-            "weight" : "1",
-            "pos" : 1930,
-            "context" : "<mark>Gnaar<\/mark> Mok" },
-          
-          { "form" : "Gnaar",
-            "weight" : "1",
-            "pos" : 1937,
-            "context" : "<mark>Gnaar<\/mark> Mok, Druegh-jigger's Rest" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +38,7 @@
         [ 
           { "form" : "gnaar",
             "weight" : "1",
-            "pos" : 2104,
+            "pos" : 2099,
             "context" : "<mark>gnaar<\/mark> mok",
             "fid" : "loc",
             "in" : 
@@ -61,7 +46,7 @@
           
           { "form" : "gnaar",
             "weight" : "1",
-            "pos" : 2111,
+            "pos" : 2106,
             "context" : "<mark>gnaar<\/mark> mok, druegh jigger's rest",
             "fid" : "loc",
             "in" : 
@@ -74,6 +59,6 @@
         [ 
           { "form" : "Gnaar",
             "weight" : "1",
-            "pos" : 366,
+            "pos" : 361,
             "context" : "..., Caldera, and Sadrith Mora for a modest fee. <mark>Gnaar<\/mark> Mok is a LONG and exceptionally unpleasant walk west to the...",
             "fid" : "content" } ] } ] }

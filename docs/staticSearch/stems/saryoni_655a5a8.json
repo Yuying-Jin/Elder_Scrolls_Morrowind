@@ -9,12 +9,12 @@
         [ 
           { "form" : "Saryonis",
             "weight" : "1",
-            "pos" : 112,
+            "pos" : 107,
             "context" : "<mark>Saryonis<\/mark> Sermons Manuscript" },
           
           { "form" : "Saryonis",
             "weight" : "1",
-            "pos" : 2612,
+            "pos" : 2607,
             "context" : "<mark>Saryonis<\/mark> Sermons Manuscript, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Saryonis",
             "weight" : "1",
-            "pos" : 3603,
+            "pos" : 3598,
             "context" : "<mark>Saryonis<\/mark> Sermons Manuscript, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "saryoni",
             "weight" : "1",
-            "pos" : 7278,
+            "pos" : 7273,
             "context" : "archcanon <mark>saryoni<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -38,36 +38,11 @@
           
           { "form" : "Saryonis",
             "weight" : "1",
-            "pos" : 7683,
+            "pos" : 7678,
             "context" : "<mark>Saryonis<\/mark> Sermons Manuscript, count: 8",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Saryonis",
-            "weight" : "1",
-            "pos" : 2441,
-            "context" : "<mark>Saryonis<\/mark> Sermons Manuscript, count: 1" },
-          
-          { "form" : "Saryonis",
-            "weight" : "1",
-            "pos" : 3450,
-            "context" : "<mark>Saryonis<\/mark> Sermons Manuscript, count: 1" },
-          
-          { "form" : "Saryoni",
-            "weight" : "1",
-            "pos" : 7153,
-            "context" : "Archcanon <mark>Saryoni<\/mark>" },
-          
-          { "form" : "Saryonis",
-            "weight" : "1",
-            "pos" : 7534,
-            "context" : "<mark>Saryonis<\/mark> Sermons Manuscript, count: 8" } ] },
       
       { "docId" : "librarium_Fellowship_of_the_Temple",
         "docUri" : "librarium\/Fellowship_of_the_Temple.html",
@@ -76,7 +51,7 @@
         [ 
           { "form" : "Saryoni's",
             "weight" : "1",
-            "pos" : 215,
+            "pos" : 210,
             "context" : "<mark>Saryoni's<\/mark> Sermons Learn from the teachings of Vivec, and from the...",
             "fid" : "content" } ] },
       
@@ -87,6 +62,6 @@
         [ 
           { "form" : "Saryoni",
             "weight" : "1",
-            "pos" : 189,
+            "pos" : 184,
             "context" : "...High Fane is the largest Tribunal temple on Vvardenfell. Archcanon <mark>Saryoni<\/mark> presides over the temple, along with a large staff of...",
             "fid" : "content" } ] } ] }

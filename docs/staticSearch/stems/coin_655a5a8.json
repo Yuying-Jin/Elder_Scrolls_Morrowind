@@ -9,7 +9,7 @@
         [ 
           { "form" : "coins",
             "weight" : "1",
-            "pos" : 191,
+            "pos" : 186,
             "context" : ".... This value must be carefully balanced against the more tangible <mark>coins<\/mark> in any deal. Theft and murder are bad for business...",
             "fid" : "content" } ] },
       
@@ -20,6 +20,6 @@
         [ 
           { "form" : "coin",
             "weight" : "1",
-            "pos" : 395,
+            "pos" : 390,
             "context" : "...such potions require at least one ingredient with high cost in <mark>coin<\/mark> or blood.",
             "fid" : "content" } ] } ] }

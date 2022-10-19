@@ -9,31 +9,21 @@
         [ 
           { "form" : "Ironwood",
             "weight" : "1",
-            "pos" : 218,
+            "pos" : 213,
             "context" : "<mark>Ironwood<\/mark> Nut, this rare nut comes from the Ironwood trees which...",
             "fid" : "content" },
           
           { "form" : "Ironwood",
             "weight" : "1",
-            "pos" : 223,
+            "pos" : 218,
             "context" : "Ironwood Nut, this rare nut comes from the <mark>Ironwood<\/mark> trees which grow deep in the forests of Skyrim. The...",
             "fid" : "content" },
           
           { "form" : "ironwood",
             "weight" : "1",
-            "pos" : 236,
+            "pos" : 231,
             "context" : "...metal for which they are named. The very rare black <mark>ironwood<\/mark> tree is said to produce a nut which is very succulent...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "ironwood",
-            "weight" : "1",
-            "pos" : 309,
-            "context" : "<mark>ironwood<\/mark> nut" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -42,7 +32,7 @@
         [ 
           { "form" : "ironwood",
             "weight" : "1",
-            "pos" : 482,
+            "pos" : 477,
             "context" : "<mark>ironwood<\/mark> nut",
             "fid" : "items",
             "in" : 

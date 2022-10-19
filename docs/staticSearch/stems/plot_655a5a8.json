@@ -9,25 +9,25 @@
         [ 
           { "form" : "Plot",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 118,
             "context" : "...keep the tone of the group down. Most locals at the <mark>Plot<\/mark> and Plaster cornerclub in Tel Aruhn knew enough not to listen...",
             "fid" : "content" },
           
           { "form" : "Plot",
             "weight" : "1",
-            "pos" : 536,
+            "pos" : 531,
             "context" : "...no jingling or unusual bulges. \"We'll meet back at the <mark>Plot<\/mark> and Plaster tomorrow morning and split up the bounty.\"",
             "fid" : "content" },
           
           { "form" : "Plot",
             "weight" : "1",
-            "pos" : 633,
+            "pos" : 628,
             "context" : "...his name was Lledos and he was meeting them at the <mark>Plot<\/mark> and Plaster. The authorities wouldn't therefore be looking for a...",
             "fid" : "content" },
           
           { "form" : "Plot",
             "weight" : "1",
-            "pos" : 674,
+            "pos" : 669,
             "context" : "...gold. Both would wake up early and rush to the <mark>Plot<\/mark> and Plaster. He could see them now, Imalyn laughing and...",
             "fid" : "content" } ] },
       
@@ -38,19 +38,9 @@
         [ 
           { "form" : "Plots",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "...shadow was that of Boethiah, who was the Prince of <mark>Plots<\/mark>, and things unknown and known would fold themselves around her...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Plot",
-            "weight" : "1",
-            "pos" : 2966,
-            "context" : "<mark>Plot<\/mark>_and_Plaster" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -59,7 +49,7 @@
         [ 
           { "form" : "plot",
             "weight" : "1",
-            "pos" : 3141,
+            "pos" : 3136,
             "context" : "<mark>plot<\/mark> and plaster",
             "fid" : "loc",
             "in" : 
@@ -72,6 +62,6 @@
         [ 
           { "form" : "Plots",
             "weight" : "1",
-            "pos" : 217,
+            "pos" : 212,
             "context" : "...land. And while Boethiah, the so-called Prince of <mark>Plots<\/mark>, provided the revolutionary methods needed to bring about this transformation...",
             "fid" : "content" } ] } ] }

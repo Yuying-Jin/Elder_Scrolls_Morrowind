@@ -9,12 +9,12 @@
         [ 
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "<mark>Grasping<\/mark> Fortune" },
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 1071,
+            "pos" : 1066,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 1577,
+            "pos" : 1572,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 1671,
+            "pos" : 1666,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 2487,
+            "pos" : 2482,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 2990,
+            "pos" : 2985,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 3186,
+            "pos" : 3181,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 3286,
+            "pos" : 3281,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 3783,
+            "pos" : 3778,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 4141,
+            "pos" : 4136,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 4283,
+            "pos" : 4278,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 4516,
+            "pos" : 4511,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "loc",
             "in" : 
@@ -102,7 +102,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 5345,
+            "pos" : 5340,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "group",
             "in" : 
@@ -110,7 +110,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 5490,
+            "pos" : 5485,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 2",
             "fid" : "group",
             "in" : 
@@ -118,7 +118,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 5651,
+            "pos" : 5646,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 7",
             "fid" : "group",
             "in" : 
@@ -126,7 +126,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 5727,
+            "pos" : 5722,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "group",
             "in" : 
@@ -134,7 +134,7 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 5969,
+            "pos" : 5964,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 1",
             "fid" : "group",
             "in" : 
@@ -142,101 +142,11 @@
           
           { "form" : "Grasping",
             "weight" : "1",
-            "pos" : 6045,
+            "pos" : 6040,
             "context" : "<mark>Grasping<\/mark> Fortune, count: 2",
             "fid" : "group",
             "in" : 
             [ "ssCtx4" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 17,
-        "contexts" : 
-        [ 
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 853,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 1406,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 1500,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 2303,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 2821,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 3013,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 3104,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 3631,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 3913,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 4119,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 4378,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 5153,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 5282,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 2" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 5426,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 7" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 5484,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 5722,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 1" },
-          
-          { "form" : "Grasping",
-            "weight" : "1",
-            "pos" : 5767,
-            "context" : "<mark>Grasping<\/mark> Fortune, count: 2" } ] },
       
       { "docId" : "librarium_Grasping_Fortune",
         "docUri" : "librarium\/Grasping_Fortune.html",
@@ -245,6 +155,6 @@
         [ 
           { "form" : "Grasp",
             "weight" : "1",
-            "pos" : 166,
+            "pos" : 161,
             "context" : "<mark>Grasp<\/mark> fortune by the forelocks. When you see your chances,...",
             "fid" : "content" } ] } ] }

@@ -2,21 +2,6 @@
   { "stem" : "indari",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Indarys",
-            "weight" : "1",
-            "pos" : 2299,
-            "context" : "<mark>Indarys<\/mark> Manor, Manor Services" },
-          
-          { "form" : "Indarys",
-            "weight" : "1",
-            "pos" : 2308,
-            "context" : "<mark>Indarys<\/mark>_Manor" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "indarys",
             "weight" : "1",
-            "pos" : 2465,
+            "pos" : 2460,
             "context" : "<mark>indarys<\/mark> manor",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "indarys",
             "weight" : "1",
-            "pos" : 2483,
+            "pos" : 2478,
             "context" : "<mark>indarys<\/mark> manor, manor services",
             "fid" : "loc",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "Indarys",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "<mark>Indarys<\/mark> Manor, Manor Services: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -56,7 +41,7 @@
         [ 
           { "form" : "Indarys",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "<mark>Indarys<\/mark> Manor: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -67,7 +52,7 @@
         [ 
           { "form" : "Indarys",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "<mark>Indarys<\/mark> Manor: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -78,6 +63,6 @@
         [ 
           { "form" : "Indarys",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "<mark>Indarys<\/mark> Manor: Visitable? yes",
             "fid" : "acq" } ] } ] }

@@ -2,31 +2,6 @@
   { "stem" : "mournhold",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Mournhold",
-            "weight" : "1",
-            "pos" : 2792,
-            "context" : "<mark>Mournhold<\/mark>" },
-          
-          { "form" : "Mournhold",
-            "weight" : "1",
-            "pos" : 2814,
-            "context" : "<mark>Mournhold<\/mark>, Mournhold Temple: Office of the Lord Archcanon TR" },
-          
-          { "form" : "Mournhold",
-            "weight" : "1",
-            "pos" : 2815,
-            "context" : "Mournhold, <mark>Mournhold<\/mark> Temple: Office of the Lord Archcanon TR" },
-          
-          { "form" : "Mournhold",
-            "weight" : "1",
-            "pos" : 2882,
-            "context" : "Old <mark>Mournhold<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 4,
@@ -34,7 +9,7 @@
         [ 
           { "form" : "mournhold",
             "weight" : "1",
-            "pos" : 2961,
+            "pos" : 2956,
             "context" : "<mark>mournhold<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -42,7 +17,7 @@
           
           { "form" : "mournhold",
             "weight" : "1",
-            "pos" : 2983,
+            "pos" : 2978,
             "context" : "<mark>mournhold<\/mark>, mournhold temple: office of the lord archcanon tr",
             "fid" : "loc",
             "in" : 
@@ -50,7 +25,7 @@
           
           { "form" : "mournhold",
             "weight" : "1",
-            "pos" : 2984,
+            "pos" : 2979,
             "context" : "mournhold, <mark>mournhold<\/mark> temple: office of the lord archcanon tr",
             "fid" : "loc",
             "in" : 
@@ -58,7 +33,7 @@
           
           { "form" : "mournhold",
             "weight" : "1",
-            "pos" : 3055,
+            "pos" : 3050,
             "context" : "old <mark>mournhold<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -71,13 +46,13 @@
         [ 
           { "form" : "Mournhold",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "<mark>Mournhold<\/mark>, Mournhold Temple: Office of the Lord Archcanon TR:...",
             "fid" : "acq" },
           
           { "form" : "Mournhold",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "Mournhold, <mark>Mournhold<\/mark> Temple: Office of the Lord Archcanon TR: Visitable?...",
             "fid" : "acq" } ] },
       
@@ -88,7 +63,7 @@
         [ 
           { "form" : "Mournhold",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "<mark>Mournhold<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -99,7 +74,7 @@
         [ 
           { "form" : "Mournhold",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "Old <mark>Mournhold<\/mark>: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -110,7 +85,7 @@
         [ 
           { "form" : "Mournhold",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "<mark>Mournhold<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -121,7 +96,7 @@
         [ 
           { "form" : "Mournhold",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "<mark>Mournhold<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -132,6 +107,6 @@
         [ 
           { "form" : "Mournhold",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "<mark>Mournhold<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

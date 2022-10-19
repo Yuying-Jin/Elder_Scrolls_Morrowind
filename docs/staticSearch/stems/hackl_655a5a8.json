@@ -9,25 +9,15 @@
         [ 
           { "form" : "hackle",
             "weight" : "1",
-            "pos" : 334,
+            "pos" : 329,
             "context" : "...two or more of the following ingredients: luminous russula, <mark>hackle<\/mark>-lo leaf, and kwama cuttle. luminous russula is...",
             "fid" : "content" },
           
           { "form" : "hackle",
             "weight" : "1",
-            "pos" : 352,
+            "pos" : 347,
             "context" : "...brown-and-green toadstool mushroom of the Bitter Coast region. <mark>hackle<\/mark>-lo leaf is a succulent leaf of the Grazelands,...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "hackle",
-            "weight" : "1",
-            "pos" : 294,
-            "context" : "<mark>hackle<\/mark>-lo_leaf" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "hackle",
             "weight" : "1",
-            "pos" : 467,
+            "pos" : 462,
             "context" : "<mark>hackle<\/mark> lo leaf",
             "fid" : "items",
             "in" : 

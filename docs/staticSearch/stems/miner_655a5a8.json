@@ -9,7 +9,7 @@
         [ 
           { "form" : "miner's",
             "weight" : "1",
-            "pos" : 206,
+            "pos" : 201,
             "context" : "...summoned by profane ritual and bound by force to the corpse <mark>miner's<\/mark> will, how may such a spirit ever find rest? How...",
             "fid" : "content" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "Miner",
             "weight" : "1",
-            "pos" : 240,
+            "pos" : 235,
             "context" : "...Morvayn, Hlaren Ramoran, Athyn Sarethi, Garisa Llethri, <mark>Miner<\/mark> Arobar, and Bolvyn Venim, have manor residences in Ald'ruhn...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Miner",
-            "weight" : "1",
-            "pos" : 6330,
-            "context" : "<mark>Miner<\/mark> Arobar" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "miner",
             "weight" : "1",
-            "pos" : 6402,
+            "pos" : 6397,
             "context" : "<mark>miner<\/mark> arobar",
             "fid" : "persons",
             "in" : 
@@ -54,6 +44,6 @@
         [ 
           { "form" : "Miner",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "Master Lord <mark>Miner<\/mark> Arobar, by Grace of Almsivi, Honored Councilor of Redoran...",
             "fid" : "content" } ] } ] }

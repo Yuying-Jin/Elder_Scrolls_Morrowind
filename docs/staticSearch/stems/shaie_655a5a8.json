@@ -9,19 +9,9 @@
         [ 
           { "form" : "Shaie",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "...,\" and this charter was first confirmed under the Potentate Versidue <mark>Shaie<\/mark> in the 321st year of the Second Era. ",
             "fid" : "VersidueShaie" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Shaie",
-            "weight" : "1",
-            "pos" : 7227,
-            "context" : "Versidue <mark>Shaie<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "shaie",
             "weight" : "1",
-            "pos" : 7342,
+            "pos" : 7337,
             "context" : "versidue <mark>shaie<\/mark>",
             "fid" : "persons",
             "in" : 

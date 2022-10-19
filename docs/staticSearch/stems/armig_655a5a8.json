@@ -2,26 +2,6 @@
   { "stem" : "armig",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Armiger",
-            "weight" : "1",
-            "pos" : 4860,
-            "context" : "Buoyant <mark>Armiger<\/mark>" },
-          
-          { "form" : "Armigers",
-            "weight" : "1",
-            "pos" : 4867,
-            "context" : "Buoyant <mark>Armigers<\/mark>" },
-          
-          { "form" : "Armiger",
-            "weight" : "1",
-            "pos" : 5006,
-            "context" : "Buoyant_<mark>Armiger<\/mark>" } ] },
-      
       { "docId" : "librarium_Guide_to_Vvardenfell",
         "docUri" : "librarium\/Guide_to_Vvardenfell.html",
         "score" : 2,
@@ -29,13 +9,13 @@
         [ 
           { "form" : "Armiger",
             "weight" : "1",
-            "pos" : 945,
+            "pos" : 940,
             "context" : "...outpost's hostels, comforted by the garrison of Redoran and Buoyant <mark>Armiger<\/mark> crusaders stationed at the stronghold.",
             "fid" : "content" },
           
           { "form" : "Armiger",
             "weight" : "1",
-            "pos" : 1024,
+            "pos" : 1019,
             "context" : "...Ghostgate is the gate citadel of the Ghostfence Ordinator and Buoyant <mark>Armiger<\/mark> garrisons. Ghostgate sits astride the only gap through which the...",
             "fid" : "content" } ] },
       
@@ -46,7 +26,7 @@
         [ 
           { "form" : "armiger",
             "weight" : "1",
-            "pos" : 4978,
+            "pos" : 4973,
             "context" : "buoyant <mark>armiger<\/mark>",
             "fid" : "group",
             "in" : 
@@ -54,7 +34,7 @@
           
           { "form" : "armigers",
             "weight" : "1",
-            "pos" : 4990,
+            "pos" : 4985,
             "context" : "buoyant <mark>armigers<\/mark>",
             "fid" : "group",
             "in" : 
@@ -67,13 +47,13 @@
         [ 
           { "form" : "Armiger",
             "weight" : "1",
-            "pos" : 392,
+            "pos" : 387,
             "context" : "...Though the Dunmer believe the disease is incurable, a Buoyant <mark>Armiger<\/mark> of former years named Galur Rithari insisted that he was cured...",
             "fid" : "content" },
           
           { "form" : "Armiger",
             "weight" : "1",
-            "pos" : 422,
+            "pos" : 417,
             "context" : "...imprisonment for heresy, Rithari had been posted to the Buoyant <mark>Armiger<\/mark> garrison at Bal Ur, a pilgrimage site known as the...",
             "fid" : "content" } ] },
       
@@ -84,7 +64,7 @@
         [ 
           { "form" : "Armigers",
             "weight" : "1",
-            "pos" : 188,
+            "pos" : 183,
             "context" : "...for vampires, and in earlier times the Ordinators and Buoyant <mark>Armigers<\/mark> hunted them to extinction. In recent years, however,...",
             "fid" : "content" } ] },
       
@@ -95,6 +75,6 @@
         [ 
           { "form" : "Armigers",
             "weight" : "1",
-            "pos" : 175,
+            "pos" : 170,
             "context" : "...for vampires, and in earlier times the Ordinators and Buoyant <mark>Armigers<\/mark> hunted them to extinction. In recent years, however,...",
             "fid" : "content" } ] } ] }

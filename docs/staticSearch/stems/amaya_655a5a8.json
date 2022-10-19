@@ -9,25 +9,15 @@
         [ 
           { "form" : "Amaya",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : "...Kummu are west of Suran on the north shore of Lake <mark>Amaya<\/mark> as you head towards Pelagiad. The shrine is between two...",
             "fid" : "content" },
           
           { "form" : "Amaya",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "...nearby has a small dock on the north bank of Lake <mark>Amaya<\/mark>. This is the only dock nearby which Alof kindly allows...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Amaya",
-            "weight" : "1",
-            "pos" : 2414,
-            "context" : "Lake_<mark>Amaya<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "amaya",
             "weight" : "1",
-            "pos" : 2583,
+            "pos" : 2578,
             "context" : "lake <mark>amaya<\/mark>",
             "fid" : "loc",
             "in" : 

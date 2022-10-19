@@ -2,31 +2,6 @@
   { "stem" : "suran",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Surane",
-            "weight" : "1",
-            "pos" : 1394,
-            "context" : "Caldera, <mark>Surane<\/mark> Leoriane's house" },
-          
-          { "form" : "Suran",
-            "weight" : "1",
-            "pos" : 3584,
-            "context" : "<mark>Suran<\/mark>" },
-          
-          { "form" : "Suran",
-            "weight" : "1",
-            "pos" : 3628,
-            "context" : "<mark>Suran<\/mark>, Oran Manor" },
-          
-          { "form" : "Suran",
-            "weight" : "1",
-            "pos" : 3636,
-            "context" : "<mark>Suran<\/mark>,_Ralds_Oril:_Trader" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 4,
@@ -34,7 +9,7 @@
         [ 
           { "form" : "surane",
             "weight" : "1",
-            "pos" : 1565,
+            "pos" : 1560,
             "context" : "caldera, <mark>surane<\/mark> leoriane's house",
             "fid" : "loc",
             "in" : 
@@ -42,7 +17,7 @@
           
           { "form" : "suran",
             "weight" : "1",
-            "pos" : 3736,
+            "pos" : 3731,
             "context" : "<mark>suran<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -50,7 +25,7 @@
           
           { "form" : "suran",
             "weight" : "1",
-            "pos" : 3780,
+            "pos" : 3775,
             "context" : "<mark>suran<\/mark>, oran manor",
             "fid" : "loc",
             "in" : 
@@ -58,7 +33,7 @@
           
           { "form" : "suran",
             "weight" : "1",
-            "pos" : 3788,
+            "pos" : 3783,
             "context" : "<mark>suran<\/mark>, ralds oril: trader",
             "fid" : "loc",
             "in" : 
@@ -71,13 +46,13 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 573,
+            "pos" : 568,
             "context" : "...the Foreign Quarter bridge west towards Seyda Neen, north towards <mark>Suran<\/mark> and the Ascadian Isles, and east towards Molag Mar....",
             "fid" : "content" },
           
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 600,
+            "pos" : 595,
             "context" : "...end of the Foreign Quarter bridge, traveling from Vivec to <mark>Suran<\/mark>, Seyda Neen, Balmora, and Molag Mar. Ships...",
             "fid" : "content" } ] },
       
@@ -88,13 +63,13 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 166,
+            "pos" : 161,
             "context" : "...of Vvardenfell's agriculture is found. The area includes Pelagiad, <mark>Suran<\/mark>, Vivec City, and Ald Sotha along with the inland...",
             "fid" : "content" },
           
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 306,
+            "pos" : 301,
             "context" : " <mark>Suran<\/mark> is an agricultural village in the northeastern corner of the fertile...",
             "fid" : "content" } ] },
       
@@ -105,7 +80,7 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Suran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -116,7 +91,7 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "<mark>Suran<\/mark>, Oran Manor: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -127,7 +102,7 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "<mark>Suran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -138,7 +113,7 @@
         [ 
           { "form" : "Surane",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "Caldera, <mark>Surane<\/mark> Leoriane's house: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -149,7 +124,7 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "<mark>Suran<\/mark>, Ralds Oril: Trader: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -160,7 +135,7 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "<mark>Suran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -171,7 +146,7 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "<mark>Suran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -182,7 +157,7 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "<mark>Suran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -193,7 +168,7 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "The Fields of Kummu are west of <mark>Suran<\/mark> on the north shore of Lake Amaya as you head towards...",
             "fid" : "content" } ] },
       
@@ -204,6 +179,6 @@
         [ 
           { "form" : "Suran",
             "weight" : "1",
-            "pos" : 153,
+            "pos" : 148,
             "context" : "...Council, Vvardenfell District, Free Trader, Ules Manor, <mark>Suran<\/mark>, Ascadian Isles, Bal Ur, District of Vvardenfell,...",
             "fid" : "content" } ] } ] }

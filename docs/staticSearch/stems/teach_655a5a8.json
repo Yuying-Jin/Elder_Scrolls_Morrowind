@@ -9,37 +9,37 @@
         [ 
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 256,
+            "pos" : 251,
             "context" : "\"You can <mark>teach<\/mark> me a spell that will fortify my own strength,\" said...",
             "fid" : "content" },
           
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 263,
+            "pos" : 258,
             "context" : "...my own strength,\" said Oin. \"I beg you to <mark>teach<\/mark> it to me now.\"",
             "fid" : "content" },
           
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 389,
+            "pos" : 384,
             "context" : "\"You can <mark>teach<\/mark> me a spell that will fortify my own endurance,\" said...",
             "fid" : "content" },
           
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 396,
+            "pos" : 391,
             "context" : "...my own endurance,\" said Oin. \"I beg you to <mark>teach<\/mark> it to me now.\"",
             "fid" : "content" },
           
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 535,
+            "pos" : 530,
             "context" : "\"You can <mark>teach<\/mark> me a spell that will fortify my own agility,\" said...",
             "fid" : "content" },
           
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 542,
+            "pos" : 537,
             "context" : "...my own agility,\" said Oin. \"I beg you to <mark>teach<\/mark> it to me now.\"",
             "fid" : "content" } ] },
       
@@ -50,13 +50,13 @@
         [ 
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 102,
+            "pos" : 97,
             "context" : "...of pride. “But in my youth, I used to <mark>teach<\/mark> the skills of Illusion at the University of Gwylim.”",
             "fid" : "content" },
           
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 113,
+            "pos" : 108,
             "context" : "...help me then,” said Silverthorn, suddenly excited. “Can you <mark>teach<\/mark> the spell Silence? I can certainly pay you.”",
             "fid" : "content" } ] },
       
@@ -67,7 +67,7 @@
         [ 
           { "form" : "teachings",
             "weight" : "1",
-            "pos" : 153,
+            "pos" : 148,
             "context" : "...of Mephala and the prophecies of Veloth and even the forbidden <mark>teachings<\/mark> of Trinimac.",
             "fid" : "content" } ] },
       
@@ -78,7 +78,7 @@
         [ 
           { "form" : "teachings",
             "weight" : "1",
-            "pos" : 218,
+            "pos" : 213,
             "context" : "Saryoni's Sermons Learn from the <mark>teachings<\/mark> of Vivec, and from the Archcanon's sermons on the Seven...",
             "fid" : "content" } ] },
       
@@ -89,6 +89,6 @@
         [ 
           { "form" : "teach",
             "weight" : "1",
-            "pos" : 579,
+            "pos" : 574,
             "context" : "Now I <mark>teach<\/mark> them the greatest lesson of all, thought Lledos as he sloshed...",
             "fid" : "content" } ] } ] }

@@ -9,25 +9,15 @@
         [ 
           { "form" : "Nightshade",
             "weight" : "1",
-            "pos" : 329,
+            "pos" : 324,
             "context" : "<mark>Nightshade<\/mark> is reputed to be a very poisonous herb. However the...",
             "fid" : "content" },
           
           { "form" : "Nightshade",
             "weight" : "1",
-            "pos" : 349,
+            "pos" : 344,
             "context" : "...path of thievery. Many Khajiits will tuck a piece of <mark>Nightshade<\/mark> inside their armor to increase their abilities to skulk, hide...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "nightshade",
-            "weight" : "1",
-            "pos" : 404,
-            "context" : "<mark>nightshade<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "nightshade",
             "weight" : "1",
-            "pos" : 575,
+            "pos" : 570,
             "context" : "<mark>nightshade<\/mark>",
             "fid" : "items",
             "in" : 

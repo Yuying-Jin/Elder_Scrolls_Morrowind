@@ -2,26 +2,6 @@
   { "stem" : "upper",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Upper",
-            "weight" : "1",
-            "pos" : 3711,
-            "context" : "Tel Branora, <mark>Upper<\/mark> Tower" },
-          
-          { "form" : "Upper",
-            "weight" : "1",
-            "pos" : 3864,
-            "context" : "Tel Uvirith, Tel Uvirith Tower <mark>Upper<\/mark>" },
-          
-          { "form" : "Upper",
-            "weight" : "1",
-            "pos" : 3995,
-            "context" : "Tel_Uvirith,_Tower_<mark>Upper<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "upper",
             "weight" : "1",
-            "pos" : 3908,
+            "pos" : 3903,
             "context" : "tel branora, <mark>upper<\/mark> tower",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "upper",
             "weight" : "1",
-            "pos" : 4077,
+            "pos" : 4072,
             "context" : "tel uvirith, tel uvirith tower <mark>upper<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -45,7 +25,7 @@
           
           { "form" : "upper",
             "weight" : "1",
-            "pos" : 4100,
+            "pos" : 4095,
             "context" : "tel uvirith, tower <mark>upper<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -58,7 +38,7 @@
         [ 
           { "form" : "Upper",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "Tel Uvirith, Tel Uvirith Tower <mark>Upper<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -69,7 +49,7 @@
         [ 
           { "form" : "Upper",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "Tel Branora, <mark>Upper<\/mark> Tower: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -80,7 +60,7 @@
         [ 
           { "form" : "Upper",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "Tel Uvirith, Tower <mark>Upper<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -91,6 +71,6 @@
         [ 
           { "form" : "upper",
             "weight" : "1",
-            "pos" : 400,
+            "pos" : 395,
             "context" : "...seven days, and for six of them, Airen had the <mark>upper<\/mark> hand. He rained kicks and punches down using the arrhythmic...",
             "fid" : "content" } ] } ] }

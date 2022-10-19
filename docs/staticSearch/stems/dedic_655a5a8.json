@@ -9,13 +9,13 @@
         [ 
           { "form" : "dedicate",
             "weight" : "1",
-            "pos" : 279,
+            "pos" : 274,
             "context" : "...who wish to advance in the service of the Nine must <mark>dedicate<\/mark> time and resources to serving the cult, and must strive...",
             "fid" : "content" },
           
           { "form" : "dedication",
             "weight" : "1",
-            "pos" : 658,
+            "pos" : 653,
             "context" : "...the actions of the Thieves Guild, we praise their faithful <mark>dedication<\/mark> to the Emperor and to Imperial culture.",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "dedicated",
             "weight" : "1",
-            "pos" : 398,
+            "pos" : 393,
             "context" : "...the snow makes these corpses difficult to find. More research <mark>dedicated<\/mark> to the magical detection of corpses would be invaluable to the...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "dedicate",
             "weight" : "1",
-            "pos" : 259,
+            "pos" : 254,
             "context" : "...Vivec thanked them, but said that it would be better to <mark>dedicate<\/mark> a monument not only to the glorious heroes, but to...",
             "fid" : "content" } ] } ] }

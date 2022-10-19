@@ -9,19 +9,19 @@
         [ 
           { "form" : "Inner",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "...Red Mountain and cut off from mainland Morrowind by the surrounding <mark>Inner<\/mark> Sea.",
             "fid" : "content" },
           
           { "form" : "Inner",
             "weight" : "1",
-            "pos" : 749,
+            "pos" : 744,
             "context" : "...village of Seyda Neen is a beacon to mariners throughout the <mark>Inner<\/mark> Sea. Most visitors from the Empire make landfall at the...",
             "fid" : "content" },
           
           { "form" : "Inner",
             "weight" : "1",
-            "pos" : 772,
+            "pos" : 767,
             "context" : "...The Coastguard cutters docked here control smuggling and piracy on the <mark>Inner<\/mark> Sea.",
             "fid" : "content" } ] },
       
@@ -32,19 +32,9 @@
         [ 
           { "form" : "Inner",
             "weight" : "1",
-            "pos" : 461,
+            "pos" : 456,
             "context" : "...the heartland of Morrowind, comprising the lands south of the <mark>Inner<\/mark> Sea and the eastern coast. The city of Almalexia is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Inner",
-            "weight" : "1",
-            "pos" : 2338,
-            "context" : "<mark>Inner<\/mark> Sea" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +43,7 @@
         [ 
           { "form" : "inner",
             "weight" : "1",
-            "pos" : 2504,
+            "pos" : 2499,
             "context" : "<mark>inner<\/mark> sea",
             "fid" : "loc",
             "in" : 

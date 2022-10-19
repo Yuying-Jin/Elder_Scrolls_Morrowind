@@ -9,12 +9,12 @@
         [ 
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "The <mark>Buying<\/mark> Game" },
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 4966,
+            "pos" : 4961,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "group",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 5147,
+            "pos" : 5142,
             "context" : "The <mark>Buying<\/mark> Game, count: 2",
             "fid" : "group",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 5153,
+            "pos" : 5148,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "group",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 5244,
+            "pos" : 5239,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "group",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 5712,
+            "pos" : 5707,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "group",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 5740,
+            "pos" : 5735,
             "context" : "The <mark>Buying<\/mark> Game, count: 2",
             "fid" : "group",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 5846,
+            "pos" : 5841,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 6841,
+            "pos" : 6836,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "persons",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 7069,
+            "pos" : 7064,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "persons",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 7536,
+            "pos" : 7531,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "persons",
             "in" : 
@@ -94,71 +94,11 @@
           
           { "form" : "Buying",
             "weight" : "1",
-            "pos" : 7614,
+            "pos" : 7609,
             "context" : "The <mark>Buying<\/mark> Game, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 11,
-        "contexts" : 
-        [ 
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 4848,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 4994,
-            "context" : " The <mark>Buying<\/mark> Game, count: 2" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 5000,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 5070,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 5469,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 5497,
-            "context" : " The <mark>Buying<\/mark> Game, count: 2" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 5598,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 6737,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 7399,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 7477,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" },
-          
-          { "form" : "Buying",
-            "weight" : "1",
-            "pos" : 7630,
-            "context" : " The <mark>Buying<\/mark> Game, count: 1" } ] },
       
       { "docId" : "librarium_buyn_game_EX",
         "docUri" : "librarium\/buyn_game_EX.html",
@@ -167,31 +107,31 @@
         [ 
           { "form" : "buy",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : " So many people simply <mark>buy<\/mark> the items they need at the price they are given....",
             "fid" : "content" },
           
           { "form" : "buy",
             "weight" : "1",
-            "pos" : 174,
+            "pos" : 169,
             "context" : "...should be mentioned, are always good places to go to <mark>buy<\/mark> or trade. ",
             "fid" : "content" },
           
           { "form" : "buying",
             "weight" : "1",
-            "pos" : 178,
+            "pos" : 173,
             "context" : "Knowing what you're <mark>buying<\/mark> and from whom is a talent bought only after years of...",
             "fid" : "content" },
           
           { "form" : "buy",
             "weight" : "1",
-            "pos" : 249,
+            "pos" : 244,
             "context" : " If you see something you really like or need, <mark>buy<\/mark> it then and there at the best price you can get...",
             "fid" : "content" },
           
           { "form" : "buying",
             "weight" : "1",
-            "pos" : 296,
+            "pos" : 291,
             "context" : "...on your opportunities for ownership. Occasionally impulsiveness is the best <mark>buying<\/mark> strategy.",
             "fid" : "content" } ] },
       
@@ -202,6 +142,6 @@
         [ 
           { "form" : "buy",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "...friends includes a place to rest, and a place to <mark>buy<\/mark> supplies and services -- training and tools. The help of...",
             "fid" : "content" } ] } ] }

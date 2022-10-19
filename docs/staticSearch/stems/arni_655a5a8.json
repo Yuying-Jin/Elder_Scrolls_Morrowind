@@ -9,19 +9,9 @@
         [ 
           { "form" : "Arnie",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Many admirers ask, \"<mark>Arnie<\/mark>, how can I become a flash and prosperous fellow like...",
             "fid" : ">ArnietheScrib" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Arnie",
-            "weight" : "1",
-            "pos" : 7165,
-            "context" : "&gt;<mark>Arnie<\/mark> the Scrib" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "arnie",
             "weight" : "1",
-            "pos" : 7290,
+            "pos" : 7285,
             "context" : "&gt;<mark>arnie<\/mark> the scrib",
             "fid" : "persons",
             "in" : 

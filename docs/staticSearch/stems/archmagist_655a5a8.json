@@ -9,25 +9,15 @@
         [ 
           { "form" : "Archmagister",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "...Councilors of House Telvanni, Vvardenfell District, Imperial Era 426 <mark>Archmagister<\/mark> Gothren, Lord High Magus of Telvanni Council, Vvardenfell District...",
             "fid" : "content" },
           
           { "form" : "Archmagister",
             "weight" : "1",
-            "pos" : 109,
+            "pos" : 104,
             "context" : "...Representatives of House Telvanni, Council Hall, Sadrith Mora For <mark>Archmagister<\/mark> Gothren: Mouth Mallam Ryon, Mage For Master Aryon:...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Archmagister",
-            "weight" : "1",
-            "pos" : 6624,
-            "context" : "<mark>Archmagister<\/mark> Gothren" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "archmagister",
             "weight" : "1",
-            "pos" : 6721,
+            "pos" : 6716,
             "context" : "<mark>archmagister<\/mark> gothren",
             "fid" : "persons",
             "in" : 
@@ -49,6 +39,6 @@
         [ 
           { "form" : "Archmagister",
             "weight" : "1",
-            "pos" : 580,
+            "pos" : 575,
             "context" : "...meantime, you will be honored guests with every luxury the <mark>Archmagister<\/mark> of House Telvanni can afford.\"",
             "fid" : "content" } ] } ] }

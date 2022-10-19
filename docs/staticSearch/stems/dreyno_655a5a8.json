@@ -2,16 +2,6 @@
   { "stem" : "dreyno",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Dreynos",
-            "weight" : "1",
-            "pos" : 4618,
-            "context" : "Vos, <mark>Dreynos<\/mark> Ulvul's Farmhouse" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "dreynos",
             "weight" : "1",
-            "pos" : 4746,
+            "pos" : 4741,
             "context" : "vos, <mark>dreynos<\/mark> ulvul's farmhouse",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Dreynos",
             "weight" : "1",
-            "pos" : 153,
+            "pos" : 148,
             "context" : "Vos, <mark>Dreynos<\/mark> Ulvul's Farmhouse: Visitable? yes",
             "fid" : "acq" } ] } ] }

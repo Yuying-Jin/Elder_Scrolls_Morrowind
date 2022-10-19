@@ -9,43 +9,33 @@
         [ 
           { "form" : "Priif",
             "weight" : "1",
-            "pos" : 525,
+            "pos" : 520,
             "context" : "\"I would say, Funcrazot <mark>Priif<\/mark>,\" said Yakin. \"They say he is the greatest shield...",
             "fid" : "content" },
           
           { "form" : "Priif",
             "weight" : "1",
-            "pos" : 597,
+            "pos" : 592,
             "context" : "\"Ah, behold the power of the amazing Funcrazot <mark>Priif<\/mark>,\" said the afore-mentioned, and prompted his sparring...",
             "fid" : "content" },
           
           { "form" : "Priif",
             "weight" : "1",
-            "pos" : 621,
+            "pos" : 616,
             "context" : "\"Very impressive, Ser <mark>Priif<\/mark>. Now, behold the power of the remarkable Gazouf Mough,\"...",
             "fid" : "content" },
           
           { "form" : "Priif's",
             "weight" : "1",
-            "pos" : 630,
+            "pos" : 625,
             "context" : "...of the remarkable Gazouf Mough,\" said Oin, and prompted <mark>Priif's<\/mark> sparring partner to attack him with his sword. After twenty...",
             "fid" : "content" },
           
           { "form" : "Priif's",
             "weight" : "1",
-            "pos" : 644,
+            "pos" : 639,
             "context" : "...with his shield, he revealed that he had pickpocketed Funcrazot <mark>Priif's<\/mark> purse.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Priif",
-            "weight" : "1",
-            "pos" : 7036,
-            "context" : "<mark>Priif<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -54,7 +44,7 @@
         [ 
           { "form" : "priif",
             "weight" : "1",
-            "pos" : 7161,
+            "pos" : 7156,
             "context" : "<mark>priif<\/mark>",
             "fid" : "persons",
             "in" : 

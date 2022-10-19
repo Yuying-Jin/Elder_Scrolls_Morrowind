@@ -9,41 +9,21 @@
         [ 
           { "form" : "Urshilaku",
             "weight" : "1",
-            "pos" : 429,
+            "pos" : 424,
             "context" : " The Ashlanders <mark>Urshilaku<\/mark> tribe has a permanent settlement at Urshilaku camp in the Ashlands...",
             "fid" : "content" },
           
           { "form" : "Urshilaku",
             "weight" : "1",
-            "pos" : 433,
+            "pos" : 428,
             "context" : " The Ashlanders Urshilaku tribe has a permanent settlement at <mark>Urshilaku<\/mark> camp in the Ashlands region north of Maar Gan village....",
             "fid" : "content" },
           
           { "form" : "Urshilaku",
             "weight" : "1",
-            "pos" : 1098,
+            "pos" : 1093,
             "context" : "...Caldera lies near Balmora. The herds of the Ashlanders of <mark>Urshilaku<\/mark> camp graze on the sparse but hardy highland vegetation.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Urshilaku",
-            "weight" : "1",
-            "pos" : 4243,
-            "context" : "<mark>Urshilaku<\/mark>" },
-          
-          { "form" : "Urshilaku",
-            "weight" : "1",
-            "pos" : 4248,
-            "context" : "<mark>Urshilaku<\/mark> camp" },
-          
-          { "form" : "Urshilaku",
-            "weight" : "1",
-            "pos" : 4255,
-            "context" : "<mark>Urshilaku<\/mark>,_Laterus_Burial" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -52,7 +32,7 @@
         [ 
           { "form" : "urshilaku",
             "weight" : "1",
-            "pos" : 4386,
+            "pos" : 4381,
             "context" : "<mark>urshilaku<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -60,7 +40,7 @@
           
           { "form" : "urshilaku",
             "weight" : "1",
-            "pos" : 4391,
+            "pos" : 4386,
             "context" : "<mark>urshilaku<\/mark> camp",
             "fid" : "loc",
             "in" : 
@@ -68,7 +48,7 @@
           
           { "form" : "urshilaku",
             "weight" : "1",
-            "pos" : 4398,
+            "pos" : 4393,
             "context" : "<mark>urshilaku<\/mark>, laterus burial",
             "fid" : "loc",
             "in" : 
@@ -81,7 +61,7 @@
         [ 
           { "form" : "Urshilaku",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "<mark>Urshilaku<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -92,6 +72,6 @@
         [ 
           { "form" : "Urshilaku",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "<mark>Urshilaku<\/mark>, Laterus Burial: Visitable? yes",
             "fid" : "acq" } ] } ] }

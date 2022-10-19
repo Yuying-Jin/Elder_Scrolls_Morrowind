@@ -9,7 +9,7 @@
         [ 
           { "form" : "swore",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "You <mark>swore<\/mark>.",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "swore",
             "weight" : "1",
-            "pos" : 79,
+            "pos" : 74,
             "context" : "The Master's Voice You <mark>swore<\/mark>. To Serve. Your Lord. Commands.",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "swore",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : "...the courage and daring of Vivec, the moon Baar Dau <mark>swore<\/mark> itself to eternal service of the Tribunal and all its works...",
             "fid" : "content" } ] } ] }

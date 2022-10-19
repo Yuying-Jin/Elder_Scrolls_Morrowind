@@ -2,16 +2,6 @@
   { "stem" : "vemyn",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Vemynal",
-            "weight" : "1",
-            "pos" : 4309,
-            "context" : "<mark>Vemynal<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "vemynal",
             "weight" : "1",
-            "pos" : 4452,
+            "pos" : 4447,
             "context" : "<mark>vemynal<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Vemynal",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "<mark>Vemynal<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

@@ -2,16 +2,6 @@
   { "stem" : "indalen",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Indalen",
-            "weight" : "1",
-            "pos" : 2290,
-            "context" : "<mark>Indalen<\/mark>_Ancestral_Tomb" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "indalen",
             "weight" : "1",
-            "pos" : 2456,
+            "pos" : 2451,
             "context" : "<mark>indalen<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Indalen",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : "<mark>Indalen<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] } ] }

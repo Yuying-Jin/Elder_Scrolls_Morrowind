@@ -9,13 +9,13 @@
         [ 
           { "form" : "troubled",
             "weight" : "1",
-            "pos" : 37,
+            "pos" : 32,
             "context" : "...marry her and inherit the land. Unfortunately, in those <mark>troubled<\/mark> days, kidnappings, murders, and thievery were rampant,...",
             "fid" : "content" },
           
           { "form" : "trouble",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "...the ear of the saints. If I run into any <mark>trouble<\/mark>, I'll call on them to aid my quest.\"",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "trouble",
             "weight" : "1",
-            "pos" : 488,
+            "pos" : 483,
             "context" : "...wilderness, gathering herbs and potion components. They should avoid <mark>trouble<\/mark> where possible, and so need not be masters of the...",
             "fid" : "content" } ] },
       
@@ -37,7 +37,7 @@
         [ 
           { "form" : "Troubles",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "...that, by chance, I made petition to the Lord of <mark>Troubles<\/mark>, Molag Bal, at an altar deep in the caverns...",
             "fid" : "content" } ] },
       
@@ -48,7 +48,7 @@
         [ 
           { "form" : "Troubles",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "Rumors flow from the House of <mark>Troubles<\/mark>.",
             "fid" : "Daedra" } ] },
       
@@ -59,7 +59,7 @@
         [ 
           { "form" : "trouble",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "...he yearned for a girl he had known before all his <mark>trouble<\/mark>, a sweet thing with curly locks and a joyous laugh...",
             "fid" : "content" } ] },
       
@@ -70,6 +70,6 @@
         [ 
           { "form" : "troubling",
             "weight" : "1",
-            "pos" : 251,
+            "pos" : 246,
             "context" : "..., during incubation, some victims have reported sleep disturbances and <mark>troubling<\/mark> dreams. After symptoms are exhibited, however, the disease...",
             "fid" : "content" } ] } ] }

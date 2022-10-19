@@ -9,31 +9,21 @@
         [ 
           { "form" : "Mearvis",
             "weight" : "1",
-            "pos" : 155,
+            "pos" : 150,
             "context" : "...while rotating hoops in ornate patterns with her legs. Master <mark>Mearvis<\/mark> will take a simple ebony blade --\"",
             "fid" : "content" },
           
           { "form" : "Mearvis",
             "weight" : "1",
-            "pos" : 365,
+            "pos" : 360,
             "context" : "...into the main courtyard of the stronghold. Masters Tulkiande, <mark>Mearvis<\/mark>, Jereth, and I formed a pyramid to give Master...",
             "fid" : "content" },
           
           { "form" : "Mearvis",
             "weight" : "1",
-            "pos" : 527,
+            "pos" : 522,
             "context" : "...told you yet about our latest realization of acrobacy when Master <mark>Mearvis<\/mark> takes a simple ebony blade and juggles it in one hand...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Mearvis",
-            "weight" : "1",
-            "pos" : 6867,
-            "context" : "Master <mark>Mearvis<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -42,7 +32,7 @@
         [ 
           { "form" : "mearvis",
             "weight" : "1",
-            "pos" : 6991,
+            "pos" : 6986,
             "context" : "master <mark>mearvis<\/mark>",
             "fid" : "persons",
             "in" : 

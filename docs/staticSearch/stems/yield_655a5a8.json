@@ -9,7 +9,7 @@
         [ 
           { "form" : "yielded",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "\"Outnumbered and isolated, I <mark>yielded<\/mark> to my foe. The creature dressed like a gentleman,...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "yield",
             "weight" : "1",
-            "pos" : 240,
+            "pos" : 235,
             "context" : "...then drove Dagoth Ur beneath Red Mountain when he would not <mark>yield<\/mark> to their will.",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "yield",
             "weight" : "1",
-            "pos" : 240,
+            "pos" : 235,
             "context" : "...then drove Dagoth Ur beneath Red Mountain when he would not <mark>yield<\/mark> to their will.",
             "fid" : "content" } ] },
       
@@ -42,7 +42,7 @@
         [ 
           { "form" : "yield",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "Faith conquers all. Let us <mark>yield<\/mark> to Faith.",
             "fid" : "content" } ] },
       
@@ -53,6 +53,6 @@
         [ 
           { "form" : "yield",
             "weight" : "1",
-            "pos" : 147,
+            "pos" : 142,
             "context" : "Faith conquers all. Let us <mark>yield<\/mark> to Faith.",
             "fid" : "content" } ] } ] }

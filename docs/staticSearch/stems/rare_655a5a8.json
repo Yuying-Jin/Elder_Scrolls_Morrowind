@@ -9,25 +9,25 @@
         [ 
           { "form" : "rare",
             "weight" : "1",
-            "pos" : 221,
+            "pos" : 216,
             "context" : "...the Ascadian Isles. frost salts, by contrast, are <mark>rare<\/mark> and expensive. These crystalline compounds precipitate from elemental frost in...",
             "fid" : "content" },
           
           { "form" : "rare",
             "weight" : "1",
-            "pos" : 378,
+            "pos" : 373,
             "context" : "Unfortunately, the potions most favored by adventurers require more <mark>rare<\/mark> and expensive ingredients. There are exceptions, like the easy...",
             "fid" : "content" },
           
           { "form" : "rarely",
             "weight" : "1",
-            "pos" : 423,
+            "pos" : 418,
             "context" : "...sload. sload soap is not expensive, but is only <mark>rarely<\/mark> stocked by apothecaries or alchemists, and cannot be collected locally...",
             "fid" : "content" },
           
           { "form" : "rare",
             "weight" : "1",
-            "pos" : 486,
+            "pos" : 481,
             "context" : "...region. diamonds, on the other hand, are very <mark>rare<\/mark> and expensive and usually must be purchased from fine alchemists....",
             "fid" : "content" } ] },
       
@@ -38,13 +38,13 @@
         [ 
           { "form" : "rare",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "Ironwood Nut, this <mark>rare<\/mark> nut comes from the Ironwood trees which grow deep in the...",
             "fid" : "content" },
           
           { "form" : "rare",
             "weight" : "1",
-            "pos" : 234,
+            "pos" : 229,
             "context" : "...as the metal for which they are named. The very <mark>rare<\/mark> black ironwood tree is said to produce a nut which is...",
             "fid" : "content" } ] },
       
@@ -55,7 +55,7 @@
         [ 
           { "form" : "rare",
             "weight" : "1",
-            "pos" : 258,
+            "pos" : 253,
             "context" : "...I cannot tell you how many times I passed up a <mark>rare<\/mark> and interesting relic, assuming that I could find it elsewhere...",
             "fid" : "content" } ] },
       
@@ -66,7 +66,7 @@
         [ 
           { "form" : "rarely",
             "weight" : "1",
-            "pos" : 459,
+            "pos" : 454,
             "context" : "...Arts of Necromancy can be practiced on animals, such experiments <mark>rarely<\/mark> produce interesting results. The servant's ability to follow directions seems...",
             "fid" : "content" } ] },
       
@@ -77,7 +77,7 @@
         [ 
           { "form" : "rarely",
             "weight" : "1",
-            "pos" : 407,
+            "pos" : 402,
             "context" : "...game here, and their herds find sparse grazing. It rains <mark>rarely<\/mark>, and suffers frequent ash storms.",
             "fid" : "content" } ] },
       
@@ -88,19 +88,9 @@
         [ 
           { "form" : "Rare",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "Jobasha's <mark>Rare<\/mark> Books: Visitable? ",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Rare",
-            "weight" : "1",
-            "pos" : 2353,
-            "context" : "Jobasha's <mark>Rare<\/mark> Books" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -109,7 +99,7 @@
         [ 
           { "form" : "rare",
             "weight" : "1",
-            "pos" : 2519,
+            "pos" : 2514,
             "context" : "jobasha's <mark>rare<\/mark> books",
             "fid" : "loc",
             "in" : 
@@ -122,6 +112,6 @@
         [ 
           { "form" : "rarely",
             "weight" : "1",
-            "pos" : 163,
+            "pos" : 158,
             "context" : "Oh, how <mark>rarely<\/mark> wisdom rules our hearts!",
             "fid" : "content" } ] } ] }

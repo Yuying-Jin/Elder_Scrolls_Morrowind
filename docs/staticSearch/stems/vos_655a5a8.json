@@ -9,74 +9,39 @@
         [ 
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 616,
+            "pos" : 611,
             "context" : " Tel <mark>Vos<\/mark> is the tower of Telvanni wizard and council member Master Aryon...",
             "fid" : "content" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 625,
+            "pos" : 620,
             "context" : "...tower of Telvanni wizard and council member Master Aryon. Tel <mark>Vos<\/mark> is a peculiar blend of Telvanni and Western architectural styles,...",
             "fid" : "content" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 633,
+            "pos" : 628,
             "context" : "...of Telvanni and Western architectural styles, and is close to <mark>Vos<\/mark> village.",
             "fid" : "content" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 831,
+            "pos" : 826,
             "context" : "...sandwiched between the Ashlands and Azura's Coast. Permanent settlements include <mark>Vos<\/mark> village and the towers of Tel Vos and Tel Fyr....",
             "fid" : "content" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 835,
+            "pos" : 830,
             "context" : ".... Permanent settlements include Vos village and the towers of Tel <mark>Vos<\/mark> and Tel Fyr. The Ashlanders of Zainab camp move their...",
             "fid" : "content" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 864,
+            "pos" : 859,
             "context" : "...a permanent settlement at Zainab camp, near the village of <mark>Vos<\/mark> in the Grazelands region.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 6,
-        "contexts" : 
-        [ 
-          { "form" : "Vos",
-            "weight" : "1",
-            "pos" : 3880,
-            "context" : "Tel <mark>Vos<\/mark>" },
-          
-          { "form" : "Vos",
-            "weight" : "1",
-            "pos" : 3899,
-            "context" : "Tel <mark>Vos<\/mark>, Central Tower" },
-          
-          { "form" : "Vos",
-            "weight" : "1",
-            "pos" : 3908,
-            "context" : "Tel <mark>Vos<\/mark>, Tel Vos Central Tower" },
-          
-          { "form" : "Vos",
-            "weight" : "1",
-            "pos" : 3910,
-            "context" : "Tel Vos, Tel <mark>Vos<\/mark> Central Tower" },
-          
-          { "form" : "Vos",
-            "weight" : "1",
-            "pos" : 4605,
-            "context" : "<mark>Vos<\/mark>" },
-          
-          { "form" : "Vos",
-            "weight" : "1",
-            "pos" : 4617,
-            "context" : "<mark>Vos<\/mark>, Dreynos Ulvul's Farmhouse" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -85,7 +50,7 @@
         [ 
           { "form" : "vos",
             "weight" : "1",
-            "pos" : 4108,
+            "pos" : 4103,
             "context" : "tel <mark>vos<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -93,7 +58,7 @@
           
           { "form" : "vos",
             "weight" : "1",
-            "pos" : 4127,
+            "pos" : 4122,
             "context" : "tel <mark>vos<\/mark>, central tower",
             "fid" : "loc",
             "in" : 
@@ -101,7 +66,7 @@
           
           { "form" : "vos",
             "weight" : "1",
-            "pos" : 4136,
+            "pos" : 4131,
             "context" : "tel <mark>vos<\/mark>, tel vos central tower",
             "fid" : "loc",
             "in" : 
@@ -109,7 +74,7 @@
           
           { "form" : "vos",
             "weight" : "1",
-            "pos" : 4138,
+            "pos" : 4133,
             "context" : "tel vos, tel <mark>vos<\/mark> central tower",
             "fid" : "loc",
             "in" : 
@@ -117,7 +82,7 @@
           
           { "form" : "vos",
             "weight" : "1",
-            "pos" : 4733,
+            "pos" : 4728,
             "context" : "<mark>vos<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -125,7 +90,7 @@
           
           { "form" : "vos",
             "weight" : "1",
-            "pos" : 4745,
+            "pos" : 4740,
             "context" : "<mark>vos<\/mark>, dreynos ulvul's farmhouse",
             "fid" : "loc",
             "in" : 
@@ -138,13 +103,13 @@
         [ 
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "...Lord of Telvanni Council, Vvardenfell District, Tower of Tel <mark>Vos<\/mark>, Village of Vos, The Grazelands, District of Vvardenfell...",
             "fid" : "content" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 40,
             "context" : "..., Vvardenfell District, Tower of Tel Vos, Village of <mark>Vos<\/mark>, The Grazelands, District of Vvardenfell, Province of Morrowind...",
             "fid" : "content" } ] },
       
@@ -155,13 +120,13 @@
         [ 
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "Tel <mark>Vos<\/mark>, Tel Vos Central Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "Tel Vos, Tel <mark>Vos<\/mark> Central Tower: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -172,13 +137,13 @@
         [ 
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "Tel <mark>Vos<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...correspondence of Cuseius Plecia, Imperial trader, writing from the <mark>Vos<\/mark> Tradehouse in Vvardenfell District, Province of Morrowind]",
             "fid" : "content" } ] },
       
@@ -189,13 +154,13 @@
         [ 
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "Tel <mark>Vos<\/mark>, Central Tower: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "<mark>Vos<\/mark>, Dreynos Ulvul's Farmhouse: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -206,7 +171,7 @@
         [ 
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "Tel <mark>Vos<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -217,6 +182,6 @@
         [ 
           { "form" : "Vos",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "<mark>Vos<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

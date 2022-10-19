@@ -2,16 +2,6 @@
   { "stem" : "vasesius",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Vasesius",
-            "weight" : "1",
-            "pos" : 7518,
-            "context" : "<mark>Vasesius<\/mark> Viciulus" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "vasesius",
             "weight" : "1",
-            "pos" : 7655,
+            "pos" : 7650,
             "context" : "<mark>vasesius<\/mark> viciulus",
             "fid" : "persons",
             "in" : 

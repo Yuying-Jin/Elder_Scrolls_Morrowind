@@ -9,7 +9,7 @@
         [ 
           { "form" : "exploration",
             "weight" : "1",
-            "pos" : 165,
+            "pos" : 160,
             "context" : "...If the Empire or other House Councils wish to dispute Telvanni <mark>exploration<\/mark> and colonization of the wastes and wildernesses of Vvardenfell, they...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "exploring",
             "weight" : "1",
-            "pos" : 659,
+            "pos" : 654,
             "context" : "...several Telvanni wizards currently have competing camps of hirelings and adventurers <mark>exploring<\/mark> and looting there. Legend says that Bal Fell was built on...",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "explorer",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "..., but they are capable of inflicting wounds to the careless <mark>explorer<\/mark>. Dwarven ghosts are more dangerous still, but they generally...",
             "fid" : "content" } ] },
       
@@ -42,6 +42,6 @@
         [ 
           { "form" : "explorer",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "..., but they are capable of inflicting wounds to the careless <mark>explorer<\/mark>. Dwarven ghosts are more dangerous still, but they generally...",
             "fid" : "content" } ] } ] }

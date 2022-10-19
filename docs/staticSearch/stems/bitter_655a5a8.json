@@ -9,37 +9,37 @@
         [ 
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 138,
+            "pos" : 133,
             "context" : "...the Ascadian Isles, the Ashlands, Azura's Coast, the <mark>Bitter<\/mark> Coast, the Grazelands, Molag Amur, Red Mountain,...",
             "fid" : "content" },
           
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 687,
+            "pos" : 682,
             "context" : " The <mark>Bitter<\/mark> Coast",
             "fid" : "content" },
           
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 698,
+            "pos" : 693,
             "context" : "...Vvardenfell from Seyda Neen north to Gnaar Mok is called the <mark>Bitter<\/mark> Coast. The salt marshes and humid swamps of this region...",
             "fid" : "content" },
           
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 782,
+            "pos" : 777,
             "context" : "...is a tiny isolated fishing village on western Vvardenfell in the <mark>Bitter<\/mark> Coast region. A rough track along the River Odai connects...",
             "fid" : "content" },
           
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 801,
+            "pos" : 796,
             "context" : " Gnaar Mok is a tiny island fishing village in the <mark>Bitter<\/mark> Coast region of western Vvardenfell.",
             "fid" : "content" },
           
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 1075,
+            "pos" : 1070,
             "context" : "...town of Balmora, where the region is sandwiched between the <mark>Bitter<\/mark> Coast and the Ashlands. The trading village of Gnisis is...",
             "fid" : "content" } ] },
       
@@ -50,53 +50,33 @@
         [ 
           { "form" : "bitter",
             "weight" : "1",
-            "pos" : 209,
+            "pos" : 204,
             "context" : "...spellcasting, combine comberry and frost salts. comberry is a <mark>bitter<\/mark> berry, used to make wines. It grows mainly in...",
             "fid" : "content" },
           
           { "form" : "bitter",
             "weight" : "1",
-            "pos" : 292,
+            "pos" : 287,
             "context" : "..., racer plumes, and coda flowers. A thick, <mark>bitter<\/mark>-tasting root of the trama shrub grows in the Ashlands...",
             "fid" : "content" },
           
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 318,
+            "pos" : 313,
             "context" : "...are collected from the primitive draggle-tail plant of the <mark>Bitter<\/mark> Coast.",
             "fid" : "content" },
           
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 348,
+            "pos" : 343,
             "context" : "...squat, mottled-brown-and-green toadstool mushroom of the <mark>Bitter<\/mark> Coast region. hackle-lo leaf is a succulent leaf...",
             "fid" : "content" },
           
           { "form" : "bitter",
             "weight" : "1",
-            "pos" : 405,
+            "pos" : 400,
             "context" : "...be made from comberry and sload soap. comberry is the <mark>bitter<\/mark> berry of the Ascadian Isles. sload soap is a waxy...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "bitter",
-            "weight" : "1",
-            "pos" : 526,
-            "context" : "spear of <mark>bitter<\/mark> mercy" },
-          
-          { "form" : "Bitter",
-            "weight" : "1",
-            "pos" : 1290,
-            "context" : "<mark>Bitter<\/mark> Coast" },
-          
-          { "form" : "Bitter",
-            "weight" : "1",
-            "pos" : 1297,
-            "context" : "<mark>Bitter<\/mark>_Coast" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -105,7 +85,7 @@
         [ 
           { "form" : "bitter",
             "weight" : "1",
-            "pos" : 696,
+            "pos" : 691,
             "context" : "spear of <mark>bitter<\/mark> mercy",
             "fid" : "items",
             "in" : 
@@ -113,7 +93,7 @@
           
           { "form" : "bitter",
             "weight" : "1",
-            "pos" : 1455,
+            "pos" : 1450,
             "context" : "<mark>bitter<\/mark> coast",
             "fid" : "loc",
             "in" : 
@@ -126,7 +106,7 @@
         [ 
           { "form" : "bitter",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "...oath to defend. It was a cruel blow, a <mark>bitter<\/mark> betrayal, to be felled by your hand.",
             "fid" : "content" } ] },
       
@@ -137,6 +117,6 @@
         [ 
           { "form" : "Bitter",
             "weight" : "1",
-            "pos" : 276,
+            "pos" : 271,
             "context" : "Supposedly the Spear of <mark>Bitter<\/mark> Mercy used in the Wild Hunts could not be handled by...",
             "fid" : "content" } ] } ] }

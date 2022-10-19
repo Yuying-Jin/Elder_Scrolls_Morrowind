@@ -9,12 +9,12 @@
         [ 
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 118,
+            "pos" : 113,
             "context" : "<mark>Silence<\/mark>" },
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 437,
+            "pos" : 432,
             "context" : "<mark>Silence<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 1852,
+            "pos" : 1847,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 2053,
+            "pos" : 2048,
             "context" : "<mark>Silence<\/mark>, count: 2",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 2141,
+            "pos" : 2136,
             "context" : "<mark>Silence<\/mark>, count: 2",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 2240,
+            "pos" : 2235,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 2493,
+            "pos" : 2488,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 2554,
+            "pos" : 2549,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 2598,
+            "pos" : 2593,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 3353,
+            "pos" : 3348,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -86,7 +86,15 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 4305,
+            "pos" : 4300,
+            "context" : "<mark>Silence<\/mark>, count: 1",
+            "fid" : "loc",
+            "in" : 
+            [ "ssCtx3" ] },
+          
+          { "form" : "Silence",
+            "weight" : "1",
+            "pos" : 4377,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -102,15 +110,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 4387,
-            "context" : "<mark>Silence<\/mark>, count: 1",
-            "fid" : "loc",
-            "in" : 
-            [ "ssCtx3" ] },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 5576,
+            "pos" : 5571,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -118,7 +118,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 5611,
+            "pos" : 5606,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -126,7 +126,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 6571,
+            "pos" : 6566,
             "context" : "<mark>Silence<\/mark>, count: 5",
             "fid" : "persons",
             "in" : 
@@ -134,7 +134,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 6647,
+            "pos" : 6642,
             "context" : "<mark>Silence<\/mark>, count: 7",
             "fid" : "persons",
             "in" : 
@@ -142,7 +142,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 6886,
+            "pos" : 6881,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -150,7 +150,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 6903,
+            "pos" : 6898,
             "context" : "<mark>Silence<\/mark>, count: 2",
             "fid" : "persons",
             "in" : 
@@ -158,7 +158,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 7337,
+            "pos" : 7332,
             "context" : "<mark>Silence<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -166,7 +166,7 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 7386,
+            "pos" : 7381,
             "context" : "<mark>Silence<\/mark>, count: 9",
             "fid" : "persons",
             "in" : 
@@ -174,121 +174,11 @@
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 7666,
+            "pos" : 7661,
             "context" : "<mark>Silence<\/mark>, count: 2",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 21,
-        "contexts" : 
-        [ 
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 256,
-            "context" : "<mark>Silence<\/mark>, count: 2" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 1681,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 1874,
-            "context" : "<mark>Silence<\/mark>, count: 2" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 1959,
-            "context" : "<mark>Silence<\/mark>, count: 2" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 2073,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 2327,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 2385,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 2427,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 3166,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 4152,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 4239,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 4244,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 5335,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 5373,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 6464,
-            "context" : "<mark>Silence<\/mark>, count: 5" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 6538,
-            "context" : "<mark>Silence<\/mark>, count: 7" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 6771,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 6786,
-            "context" : "<mark>Silence<\/mark>, count: 2" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 7222,
-            "context" : "<mark>Silence<\/mark>, count: 1" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 7251,
-            "context" : "<mark>Silence<\/mark>, count: 9" },
-          
-          { "form" : "Silence",
-            "weight" : "1",
-            "pos" : 7529,
-            "context" : "<mark>Silence<\/mark>, count: 2" } ] },
       
       { "docId" : "librarium_silence",
         "docUri" : "librarium\/silence.html",
@@ -297,25 +187,25 @@
         [ 
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "<mark>Silence<\/mark>",
             "fid" : "content" },
           
           { "form" : "Silence",
             "weight" : "1",
-            "pos" : 115,
+            "pos" : 110,
             "context" : "...said Silverthorn, suddenly excited. “Can you teach the spell <mark>Silence<\/mark>? I can certainly pay you.”",
             "fid" : "content" },
           
           { "form" : "silence",
             "weight" : "1",
-            "pos" : 176,
+            "pos" : 171,
             "context" : "...it truly meant to bend sound, creating a cone of <mark>silence<\/mark> as glass can bend light. He had Silverthorn close his...",
             "fid" : "content" },
           
           { "form" : "silence",
             "weight" : "1",
-            "pos" : 370,
+            "pos" : 365,
             "context" : "...mouth. Silverthorn smiled and nodded his head, enjoying the <mark>silence<\/mark>. He could have killed Egroamaro without the spell, he...",
             "fid" : "content" } ] },
       
@@ -326,7 +216,7 @@
         [ 
           { "form" : "silencing",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : "...dealt them both mighty blows, shattering their skulls, and <mark>silencing<\/mark> their argument, and went merrily upon his way. And...",
             "fid" : "content" } ] },
       
@@ -337,6 +227,6 @@
         [ 
           { "form" : "silence",
             "weight" : "1",
-            "pos" : 165,
+            "pos" : 160,
             "context" : "...throat-slashing, properly executed, can both slay and <mark>silence<\/mark> a guard and leave the thief relatively bloodfree. And after...",
             "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "Khuul",
             "weight" : "1",
-            "pos" : 1087,
+            "pos" : 1082,
             "context" : "...of Ald'ruhn, and the fishing villages of Ald Veloth and <mark>Khuul<\/mark> lie on the north coast. The town of Caldera lies...",
             "fid" : "content" },
           
           { "form" : "Khuul",
             "weight" : "1",
-            "pos" : 1200,
+            "pos" : 1195,
             "context" : " Ald Velothi and <mark>Khuul<\/mark> are tiny fishing villages on the northern coast of the West...",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "Khuul",
             "weight" : "1",
-            "pos" : 350,
+            "pos" : 345,
             "context" : "...Silt strider service goes from Ald'ruhn to Balmora, Gnisis, <mark>Khuul<\/mark>, or Maar Gan.. Guild guides at the Mages Guild...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Khuul",
-            "weight" : "1",
-            "pos" : 2389,
-            "context" : "<mark>Khuul<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "khuul",
             "weight" : "1",
-            "pos" : 2558,
+            "pos" : 2553,
             "context" : "<mark>khuul<\/mark>",
             "fid" : "loc",
             "in" : 

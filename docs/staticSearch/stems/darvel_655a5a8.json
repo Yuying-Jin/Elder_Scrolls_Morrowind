@@ -2,26 +2,6 @@
   { "stem" : "darvel",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Darvel",
-            "weight" : "1",
-            "pos" : 1244,
-            "context" : "Balmora,_Dorisa <mark>Darvel<\/mark>:_Bookseller" },
-          
-          { "form" : "Darvel",
-            "weight" : "1",
-            "pos" : 1253,
-            "context" : "Balmora,_Dorisa_<mark>Darvel<\/mark>:_Bookseller" },
-          
-          { "form" : "Darvel",
-            "weight" : "1",
-            "pos" : 6469,
-            "context" : "Dorisa <mark>Darvel<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "darvel",
             "weight" : "1",
-            "pos" : 1395,
+            "pos" : 1390,
             "context" : "balmora, dorisa <mark>darvel<\/mark>: bookseller",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "darvel",
             "weight" : "1",
-            "pos" : 6576,
+            "pos" : 6571,
             "context" : "dorisa <mark>darvel<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -50,7 +30,7 @@
         [ 
           { "form" : "Darvel",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "Balmora, Dorisa <mark>Darvel<\/mark>: Bookseller: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -61,6 +41,6 @@
         [ 
           { "form" : "Darvel",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "Balmora, Dorisa <mark>Darvel<\/mark>: Bookseller: Visitable? yes",
             "fid" : "acq" } ] } ] }

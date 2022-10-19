@@ -2,56 +2,6 @@
   { "stem" : "gnisi",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 9,
-        "contexts" : 
-        [ 
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 1948,
-            "context" : "<mark>Gnisis<\/mark>" },
-          
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 2020,
-            "context" : "<mark>Gnisis<\/mark> village" },
-          
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 2027,
-            "context" : "<mark>Gnisis<\/mark>, Arvs-Drelen" },
-          
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 2036,
-            "context" : "<mark>Gnisis<\/mark>, Gnisis Temple" },
-          
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 2037,
-            "context" : "Gnisis, <mark>Gnisis<\/mark> Temple" },
-          
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 2044,
-            "context" : "<mark>Gnisis<\/mark>,_Arvs-Drelen" },
-          
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 2053,
-            "context" : "<mark>Gnisis<\/mark>,_Gnisis Temple" },
-          
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 2054,
-            "context" : "Gnisis,_<mark>Gnisis<\/mark> Temple" },
-          
-          { "form" : "Gnisis",
-            "weight" : "1",
-            "pos" : 2061,
-            "context" : "<mark>Gnisis<\/mark>,_Madach_Tradehouse" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 6,
@@ -59,7 +9,7 @@
         [ 
           { "form" : "gnisis",
             "weight" : "1",
-            "pos" : 2121,
+            "pos" : 2116,
             "context" : "<mark>gnisis<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -67,7 +17,7 @@
           
           { "form" : "gnisis",
             "weight" : "1",
-            "pos" : 2195,
+            "pos" : 2190,
             "context" : "<mark>gnisis<\/mark> village",
             "fid" : "loc",
             "in" : 
@@ -75,7 +25,7 @@
           
           { "form" : "gnisis",
             "weight" : "1",
-            "pos" : 2202,
+            "pos" : 2197,
             "context" : "<mark>gnisis<\/mark>, arvs drelen",
             "fid" : "loc",
             "in" : 
@@ -83,7 +33,7 @@
           
           { "form" : "gnisis",
             "weight" : "1",
-            "pos" : 2215,
+            "pos" : 2210,
             "context" : "<mark>gnisis<\/mark>, gnisis temple",
             "fid" : "loc",
             "in" : 
@@ -91,7 +41,7 @@
           
           { "form" : "gnisis",
             "weight" : "1",
-            "pos" : 2216,
+            "pos" : 2211,
             "context" : "gnisis, <mark>gnisis<\/mark> temple",
             "fid" : "loc",
             "in" : 
@@ -99,7 +49,7 @@
           
           { "form" : "gnisis",
             "weight" : "1",
-            "pos" : 2228,
+            "pos" : 2223,
             "context" : "<mark>gnisis<\/mark>, madach tradehouse",
             "fid" : "loc",
             "in" : 
@@ -112,31 +62,31 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "<mark>Gnisis<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 448,
+            "pos" : 443,
             "context" : "The Shrine of Justice is guarded within the <mark>Gnisis<\/mark> Temple, in the village of Gnisis, northwest by road...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 451,
+            "pos" : 446,
             "context" : "...is guarded within the Gnisis Temple, in the village of <mark>Gnisis<\/mark>, northwest by road from the town of Ald'ruhn. When...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 518,
+            "pos" : 513,
             "context" : "...the seacoast west of the ancient stronghold Berandas and south of <mark>Gnisis<\/mark>. The cave mouth faces south, towards the sea,...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 557,
+            "pos" : 552,
             "context" : "...cave. Dreugh wax may be bought at the Temple in <mark>Gnisis<\/mark>. When you address the shrine, it is customary to...",
             "fid" : "content" } ] },
       
@@ -147,19 +97,19 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "<mark>Gnisis<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "<mark>Gnisis<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "<mark>Gnisis<\/mark> Temple: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -170,19 +120,19 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 1080,
+            "pos" : 1075,
             "context" : "...the Bitter Coast and the Ashlands. The trading village of <mark>Gnisis<\/mark> is north of Ald'ruhn, and the fishing villages of Ald...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 1180,
+            "pos" : 1175,
             "context" : "...extinct giant crab. Tracks lead north to Maar Gan and <mark>Gnisis<\/mark> villages and south to Balmora.",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 1184,
+            "pos" : 1179,
             "context" : " <mark>Gnisis<\/mark> is a small mining and trade village astride the silt strider...",
             "fid" : "content" } ] },
       
@@ -193,19 +143,19 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "...was in an elite group of the very best families of <mark>Gnisis<\/mark>. They went to the very best tailors, shared the...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "...Mamoona, one of the wealthiest and most respected nobles in <mark>Gnisis<\/mark>, and Serjo Benitah Gorgoth. His heart fell. She...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 304,
+            "pos" : 299,
             "context" : "...had intended. When Oin met Horath on the street of <mark>Gnisis<\/mark>, he cast the spell and challenged him to a duel...",
             "fid" : "content" } ] },
       
@@ -216,19 +166,19 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "<mark>Gnisis<\/mark>, Arvs-Drelen: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "<mark>Gnisis<\/mark>, Gnisis Temple: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 31,
             "context" : "Gnisis, <mark>Gnisis<\/mark> Temple: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -239,13 +189,13 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 350,
+            "pos" : 345,
             "context" : "...Legion Fort, Moonmoth Legion Fort, Pelagiad Legion Fort, <mark>Gnisis<\/mark> Legion Fort, Wolverine Hall in Sadrith Mora, Vivec,...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 446,
+            "pos" : 441,
             "context" : "...Legion Fort; Moonmoth Legion Fort; Pelagiad Legion Fort; <mark>Gnisis<\/mark> Legion Fort; and Imperial Chapels in Ebonheart.",
             "fid" : "content" } ] },
       
@@ -256,13 +206,13 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 301,
+            "pos" : 296,
             "context" : " Roads lead northwest to Maar Gan and <mark>Gnisis<\/mark> villages and by a circuitous western route to Caldera, Balmora...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 349,
+            "pos" : 344,
             "context" : "...Gate. Silt strider service goes from Ald'ruhn to Balmora, <mark>Gnisis<\/mark>, Khuul, or Maar Gan.. Guild guides at the...",
             "fid" : "content" } ] },
       
@@ -273,13 +223,13 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "<mark>Gnisis<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 112,
+            "pos" : 107,
             "context" : "...at full complement. The frontier installation, Fort Darius in <mark>Gnisis<\/mark> village, is currently the only under-strength garrison on Vvardenfell...",
             "fid" : "content" } ] },
       
@@ -290,13 +240,13 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "...kill Egroamaro, collect the award, and be back in <mark>Gnisis<\/mark> as quickly as possible. My wife worries when I'm away...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 280,
+            "pos" : 275,
             "context" : "...and the thanks, and was back in his house in <mark>Gnisis<\/mark> but a few days later. His wife Liah was beside...",
             "fid" : "content" } ] },
       
@@ -307,13 +257,13 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 243,
+            "pos" : 238,
             "context" : "\"A very good friend of mine, a thief in <mark>Gnisis<\/mark> whose name I won't mention, swears by the strangle-and-...",
             "fid" : "content" },
           
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 736,
+            "pos" : 731,
             "context" : "...when his servants returned from the feast of St Rilms in <mark>Gnisis<\/mark>. They were good people, and he treated them well...",
             "fid" : "content" } ] },
       
@@ -324,7 +274,7 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 216,
+            "pos" : 211,
             "context" : "...a central plaza, as in the West Gash village of <mark>Gnisis<\/mark>. Ald'ruhn, the Redoran district seat, is exceptional,...",
             "fid" : "content" } ] },
       
@@ -335,7 +285,7 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "<mark>Gnisis<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -346,7 +296,7 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "<mark>Gnisis<\/mark>, Madach Tradehouse: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -357,7 +307,7 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "<mark>Gnisis<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -368,7 +318,7 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "<mark>Gnisis<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -379,6 +329,6 @@
         [ 
           { "form" : "Gnisis",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "<mark>Gnisis<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

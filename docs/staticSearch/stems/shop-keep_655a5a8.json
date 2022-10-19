@@ -9,18 +9,18 @@
         [ 
           { "form" : "shop-keeper",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "...if one's offer is so preposterously low that it insults the <mark>shop-keeper<\/mark>. If you are offered something for ten gold pieces,...",
             "fid" : "content" },
           
           { "form" : "shop-keeper",
             "weight" : "1",
-            "pos" : 138,
+            "pos" : 133,
             "context" : "..., you simply cannot afford such a price. When the <mark>shop-keeper<\/mark> compliments your taste, smile, but try to resist the...",
             "fid" : "content" },
           
           { "form" : "shop-keepers",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "...A lot of the game depends on recognizing the types of <mark>shop-keepers<\/mark> and not automatically assuming that the rural merchant is ignorant and...",
             "fid" : "content" } ] } ] }

@@ -9,12 +9,12 @@
         [ 
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "<mark>I'm<\/mark> My Own Grandpa" },
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 1791,
+            "pos" : 1786,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 1915,
+            "pos" : 1910,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 2521,
+            "pos" : 2516,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 3575,
+            "pos" : 3570,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 4473,
+            "pos" : 4468,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 4622,
+            "pos" : 4617,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "loc",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 5456,
+            "pos" : 5451,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 5481,
+            "pos" : 5476,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "group",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 5749,
+            "pos" : 5744,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "group",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 5878,
+            "pos" : 5873,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 3",
             "fid" : "group",
             "in" : 
@@ -94,71 +94,11 @@
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 6688,
+            "pos" : 6683,
             "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 11,
-        "contexts" : 
-        [ 
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 1631,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 1744,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 2355,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 3422,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 4334,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 4458,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 5257,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 5273,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 5509,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 5630,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 3" },
-          
-          { "form" : "I'm",
-            "weight" : "1",
-            "pos" : 6590,
-            "context" : "<mark>I'm<\/mark> My Own Grandpa, count: 1" } ] },
       
       { "docId" : "librarium_silence",
         "docUri" : "librarium\/silence.html",
@@ -167,25 +107,25 @@
         [ 
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 53,
+            "pos" : 48,
             "context" : "“My name would have no meaning to you, but <mark>I'm<\/mark> Erer Darothil,” he said, raising a glass of greef...",
             "fid" : "content" },
           
           { "form" : "“I'm",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "“Yes,” said Silverthorn, with a grim expression. <mark>“I'm<\/mark> challenged to rid The Grazelands of a rogue battlemage by the...",
             "fid" : "content" },
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "“That is why <mark>I'm<\/mark> drinking now,” sighed Silverthorn. “So tell me, what is your...",
             "fid" : "content" },
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 151,
+            "pos" : 146,
             "context" : "...in Gnisis as quickly as possible. My wife worries when <mark>I'm<\/mark> away.”",
             "fid" : "content" } ] },
       
@@ -196,13 +136,13 @@
         [ 
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "<mark>I'm<\/mark> Glad I'm Not No Orc",
             "fid" : "content" },
           
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "I'm Glad <mark>I'm<\/mark> Not No Orc",
             "fid" : "content" } ] },
       
@@ -213,6 +153,6 @@
         [ 
           { "form" : "I'm",
             "weight" : "1",
-            "pos" : 302,
+            "pos" : 297,
             "context" : "...disposing of the Orcish dead. A mutually beneficial arrangement as <mark>I'm<\/mark> sure the Orcs will agree. To this end, a...",
             "fid" : "content" } ] } ] }

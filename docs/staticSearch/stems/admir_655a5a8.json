@@ -9,13 +9,13 @@
         [ 
           { "form" : "admirers",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "Many <mark>admirers<\/mark> ask, \"Arnie, how can I become a flash...",
             "fid" : "content" },
           
           { "form" : "admirers",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "\"But what about the competition?\" my <mark>admirers<\/mark> ask.",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "admire",
             "weight" : "1",
-            "pos" : 129,
+            "pos" : 124,
             "context" : "...the goods, even if they deserve it. Much better to <mark>admire<\/mark> the quality of workmanship, but comment that, regretfully, you...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Admiral",
-            "weight" : "1",
-            "pos" : 6215,
-            "context" : "<mark>Admiral<\/mark>_Richton" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "admiral",
             "weight" : "1",
-            "pos" : 7202,
+            "pos" : 7197,
             "context" : "<mark>admiral<\/mark> richton",
             "fid" : "persons",
             "in" : 
@@ -60,7 +50,7 @@
         [ 
           { "form" : "admirer",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "...I am,” said Oristian Silverthorn with a weary smile for his <mark>admirer<\/mark>. He knew that his name was not yet legendary,...",
             "fid" : "content" } ] },
       
@@ -71,6 +61,6 @@
         [ 
           { "form" : "Admiral",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "Bold <mark>Admiral<\/mark> Richton",
             "fid" : "Admiral_Richton" } ] } ] }

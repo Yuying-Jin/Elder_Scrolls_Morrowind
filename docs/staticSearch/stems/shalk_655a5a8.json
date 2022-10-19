@@ -9,36 +9,21 @@
         [ 
           { "form" : "Shalk",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : " A <mark>Shalk<\/mark> and a kagouti were strutting back and forth in a foyada...",
             "fid" : "content" },
           
           { "form" : "Shalk",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "...another's looks. \"You are the ugliest creature alive,\" the <mark>Shalk<\/mark> told the kagouti. \"No, YOU are the ugliest creature alive...",
             "fid" : "content" },
           
           { "form" : "Shalk",
             "weight" : "1",
-            "pos" : 95,
+            "pos" : 90,
             "context" : "...YOU are the ugliest creature alive,\" the kagouti told the <mark>Shalk<\/mark>. For each thought himself most handsome, and the other...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Shalk",
-            "weight" : "1",
-            "pos" : 1323,
-            "context" : "Black <mark>Shalk<\/mark> Cornerclub" },
-          
-          { "form" : "Shalk",
-            "weight" : "1",
-            "pos" : 7234,
-            "context" : "<mark>Shalk<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "shalk",
             "weight" : "1",
-            "pos" : 1486,
+            "pos" : 1481,
             "context" : "black <mark>shalk<\/mark> cornerclub",
             "fid" : "loc",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "shalk",
             "weight" : "1",
-            "pos" : 7349,
+            "pos" : 7344,
             "context" : "<mark>shalk<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -68,6 +53,6 @@
         [ 
           { "form" : "Shalk",
             "weight" : "1",
-            "pos" : 172,
+            "pos" : 167,
             "context" : "..., craftsmen, and trainers also rent space here. The Black <mark>Shalk<\/mark> Cornerclub rents beds to non-guild visitors.",
             "fid" : "content" } ] } ] }

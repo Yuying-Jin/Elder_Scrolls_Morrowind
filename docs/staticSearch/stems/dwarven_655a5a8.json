@@ -9,19 +9,19 @@
         [ 
           { "form" : "dwarven",
             "weight" : "1",
-            "pos" : 45,
+            "pos" : 40,
             "context" : ".... Spirit revenants like the ancestor ghost, wraith, and <mark>dwarven<\/mark> ghost, can only be harmed by weapons that are enchanted...",
             "fid" : "content" },
           
           { "form" : "Dwarven",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "...they are capable of inflicting wounds to the careless explorer. <mark>Dwarven<\/mark> ghosts are more dangerous still, but they generally appear only...",
             "fid" : "content" },
           
           { "form" : "Dwarven",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...are more dangerous still, but they generally appear only in <mark>Dwarven<\/mark> ruins.",
             "fid" : "content" } ] },
       
@@ -32,31 +32,21 @@
         [ 
           { "form" : "dwarven",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : ".... Spirit revenants like the ancestor ghost, wraith, and <mark>dwarven<\/mark> ghost, can only be harmed by weapons that are enchanted...",
             "fid" : "content" },
           
           { "form" : "Dwarven",
             "weight" : "1",
-            "pos" : 61,
+            "pos" : 56,
             "context" : "...they are capable of inflicting wounds to the careless explorer. <mark>Dwarven<\/mark> ghosts are more dangerous still, but they generally appear only...",
             "fid" : "content" },
           
           { "form" : "Dwarven",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : "...are more dangerous still, but they generally appear only in <mark>Dwarven<\/mark> ruins.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Dwarven",
-            "weight" : "1",
-            "pos" : 1595,
-            "context" : "<mark>Dwarven<\/mark> ruins" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -65,7 +55,7 @@
         [ 
           { "form" : "dwarven",
             "weight" : "1",
-            "pos" : 1764,
+            "pos" : 1759,
             "context" : "<mark>dwarven<\/mark> ruins",
             "fid" : "loc",
             "in" : 

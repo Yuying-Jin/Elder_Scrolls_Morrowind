@@ -9,7 +9,7 @@
         [ 
           { "form" : "tourists",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "...Fane and the palace of Vivec are visited by hundreds of <mark>tourists<\/mark> and pilgrims daily. Citizens flock to the Arena for public...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "tourists",
             "weight" : "1",
-            "pos" : 260,
+            "pos" : 255,
             "context" : "...Fane and the palace of Vivec are visited by hundreds of <mark>tourists<\/mark> and pilgrims daily. Citizens flock to the Arena for entertainments...",
             "fid" : "content" } ] },
       
@@ -31,6 +31,6 @@
         [ 
           { "form" : "tourist",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "...sigh. \"My dear friends, we aren't mugging some Nord <mark>tourist<\/mark> fresh off the ferry. The Cobblers Guildhall may not sound...",
             "fid" : "content" } ] } ] }

@@ -9,30 +9,15 @@
         [ 
           { "form" : "dark",
             "weight" : "1",
-            "pos" : 300,
+            "pos" : 295,
             "context" : "...it is a dangerous site, haunted by old magics, <mark>dark<\/mark> cultists, and their Daedric summonings, and not recommended for...",
             "fid" : "content" },
           
           { "form" : "dark",
             "weight" : "1",
-            "pos" : 809,
+            "pos" : 804,
             "context" : " The regular rain and <mark>dark<\/mark> soils of the Grazelands produce the rich grazing for Ashlander herds...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Dark",
-            "weight" : "1",
-            "pos" : 5123,
-            "context" : "<mark>Dark<\/mark>_Elves" },
-          
-          { "form" : "Dark",
-            "weight" : "1",
-            "pos" : 5247,
-            "context" : "<mark>Dark<\/mark> Elves" } ] },
       
       { "docId" : "librarium_Arkay_the_Enemy",
         "docUri" : "librarium\/Arkay_the_Enemy.html",
@@ -41,7 +26,7 @@
         [ 
           { "form" : "darkness",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "...To the Hidden: Wait, as always, in the <mark>darkness<\/mark>.",
             "fid" : "content" } ] },
       
@@ -52,7 +37,7 @@
         [ 
           { "form" : "dark",
             "weight" : "1",
-            "pos" : 288,
+            "pos" : 283,
             "context" : "...choice treasures are guarded by Daedric servants in the Puzzle Canal's <mark>dark<\/mark> passages.",
             "fid" : "content" } ] },
       
@@ -63,7 +48,7 @@
         [ 
           { "form" : "Dark",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "Why did the <mark>Dark<\/mark> Elf cross the road?",
             "fid" : "DarkElves" } ] },
       
@@ -74,7 +59,7 @@
         [ 
           { "form" : "dark",
             "weight" : "1",
-            "pos" : 5450,
+            "pos" : 5445,
             "context" : "<mark>dark<\/mark> elves",
             "fid" : "group",
             "in" : 
@@ -87,7 +72,7 @@
         [ 
           { "form" : "dark",
             "weight" : "1",
-            "pos" : 273,
+            "pos" : 268,
             "context" : "...enflamed. \"He wasn't used to Khajiit either. Or their <mark>dark<\/mark> sense of humor. He took some sarcastic comments from Master...",
             "fid" : "content" } ] },
       
@@ -98,7 +83,7 @@
         [ 
           { "form" : "dark",
             "weight" : "1",
-            "pos" : 148,
+            "pos" : 143,
             "context" : "...exception of the Alessian Order, which Heartlanders regard as a <mark>dark<\/mark> age, religious cults have played only minor parts in Heartlanders...",
             "fid" : "content" } ] },
       
@@ -109,7 +94,7 @@
         [ 
           { "form" : "Darkness",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "...“You might find Invisibility very helpful as well, or perhaps <mark>Darkness<\/mark> which would allow you to sneak up on old Egroamaro.”...",
             "fid" : "content" } ] },
       
@@ -120,7 +105,7 @@
         [ 
           { "form" : "Dark",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "<mark>Dark<\/mark> Blooded Foes",
             "fid" : "content" } ] },
       
@@ -131,7 +116,7 @@
         [ 
           { "form" : "Darkness",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "Forge <mark>Darkness<\/mark> into Light.",
             "fid" : "content" } ] },
       
@@ -142,6 +127,6 @@
         [ 
           { "form" : "dark",
             "weight" : "1",
-            "pos" : 173,
+            "pos" : 168,
             "context" : "What <mark>dark<\/mark> crucible may kindle their souls to light?",
             "fid" : "content" } ] } ] }

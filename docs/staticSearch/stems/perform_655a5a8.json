@@ -9,31 +9,31 @@
         [ 
           { "form" : "perform",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "\"What tricks can your troupe <mark>perform<\/mark>?\" asked the wizard to the lead acrobat, Rhunen Zebavi...",
             "fid" : "content" },
           
           { "form" : "perform",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : "...we know no tricks. All the realizations of acrobacy we <mark>perform<\/mark> are real with no illusions. We wish we knew tricks...",
             "fid" : "content" },
           
           { "form" : "perform",
             "weight" : "1",
-            "pos" : 124,
+            "pos" : 119,
             "context" : "\"Very well, what realizations of acrobacy can you <mark>perform<\/mark>?\" asked Gothren with what almost looked like a smile....",
             "fid" : "content" },
           
           { "form" : "perform",
             "weight" : "1",
-            "pos" : 519,
+            "pos" : 514,
             "context" : "...,\" said Rhunen Zebavi. \"Are you ready for us to <mark>perform<\/mark> for you now? I hadn't told you yet about our latest...",
             "fid" : "content" },
           
           { "form" : "performances",
             "weight" : "1",
-            "pos" : 600,
+            "pos" : 595,
             "context" : "...few hours later. \"Why do we bother with these backwoods <mark>performances<\/mark>?\"",
             "fid" : "content" } ] },
       
@@ -44,7 +44,7 @@
         [ 
           { "form" : "perform",
             "weight" : "1",
-            "pos" : 159,
+            "pos" : 154,
             "context" : "While few Bosmer <mark>perform<\/mark> Arkay's rituals when burying the dead, the more primitive Bosmer...",
             "fid" : "content" } ] },
       
@@ -55,7 +55,7 @@
         [ 
           { "form" : "Perform",
             "weight" : "1",
-            "pos" : 189,
+            "pos" : 184,
             "context" : "..., Family, Masters, and all that is good. <mark>Perform<\/mark> holy quests and bring luster to the Temple. Never transgress...",
             "fid" : "content" } ] },
       
@@ -66,6 +66,6 @@
         [ 
           { "form" : "performing",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : "...loyalty. Finding a councilor to sponsor an outlander often involves <mark>performing<\/mark> a great service for the prospective sponsor.",
             "fid" : "content" } ] } ] }

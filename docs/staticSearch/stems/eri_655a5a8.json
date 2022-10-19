@@ -9,19 +9,9 @@
         [ 
           { "form" : "Ery",
             "weight" : "1",
-            "pos" : 213,
+            "pos" : 208,
             "context" : "..., Prefect of Hospitality at the Gateway merchant inn, and <mark>Ery<\/mark>, Gateway's publican. At Wolverine Hall, Hrundi the Nord...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ery",
-            "weight" : "1",
-            "pos" : 6549,
-            "context" : "<mark>Ery<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "ery",
             "weight" : "1",
-            "pos" : 6658,
+            "pos" : 6653,
             "context" : "<mark>ery<\/mark>",
             "fid" : "persons",
             "in" : 

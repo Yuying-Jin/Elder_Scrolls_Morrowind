@@ -9,25 +9,25 @@
         [ 
           { "form" : "Pattern",
             "weight" : "1",
-            "pos" : 13,
+            "pos" : 8,
             "context" : "\"The Test of <mark>Pattern<\/mark> requires the observer to examine and analyze for patterns before he...",
             "fid" : "content" },
           
           { "form" : "patterns",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "...Test of Pattern requires the observer to examine and analyze for <mark>patterns<\/mark> before he acts, with the understanding that many patterns are...",
             "fid" : "content" },
           
           { "form" : "patterns",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "...for patterns before he acts, with the understanding that many <mark>patterns<\/mark> are subtle or hidden.",
             "fid" : "content" },
           
           { "form" : "pattern",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "...Test of Disorder requires the observer to proceed systematically when no <mark>pattern<\/mark> is perceived. When the observer recognizes that many things must...",
             "fid" : "content" } ] },
       
@@ -38,6 +38,6 @@
         [ 
           { "form" : "patterns",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "...supports her body with one finger while rotating hoops in ornate <mark>patterns<\/mark> with her legs. Master Mearvis will take a simple ebony...",
             "fid" : "content" } ] } ] }

@@ -2,241 +2,6 @@
   { "stem" : "formulari",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 46,
-        "contexts" : 
-        [ 
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 38,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 52,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 78,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 88,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 97,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 103,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 4" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 110,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 117,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 159,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 183,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 194,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 210,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 229,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 251,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 269,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 283,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 298,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 328,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 360,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 366,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 431,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 445,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 4" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 492,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 3" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 500,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 555,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 595,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 881,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 890,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 1019,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 8" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 1037,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 1075,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 3" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 1300,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 1662,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 2065,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 2071,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 4" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 2630,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 2707,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 3" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 2962,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 3056,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 3276,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 3308,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 3484,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 4677,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 4727,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 6014,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" },
-          
-          { "form" : "Formulary",
-            "weight" : "1",
-            "pos" : 6074,
-            "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 46,
@@ -244,12 +9,12 @@
         [ 
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 136,
+            "pos" : 131,
             "context" : "The Alchemists <mark>Formulary<\/mark>" },
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 220,
+            "pos" : 215,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -257,7 +22,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 234,
+            "pos" : 229,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -265,7 +30,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 260,
+            "pos" : 255,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -273,7 +38,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 266,
+            "pos" : 261,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -281,7 +46,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 279,
+            "pos" : 274,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -289,7 +54,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 285,
+            "pos" : 280,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 4",
             "fid" : "items",
             "in" : 
@@ -297,7 +62,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 292,
+            "pos" : 287,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -305,7 +70,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 299,
+            "pos" : 294,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -313,7 +78,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 341,
+            "pos" : 336,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -321,7 +86,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 364,
+            "pos" : 359,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -329,7 +94,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 375,
+            "pos" : 370,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -337,7 +102,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 391,
+            "pos" : 386,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -345,7 +110,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 410,
+            "pos" : 405,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -353,7 +118,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 432,
+            "pos" : 427,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -361,7 +126,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 450,
+            "pos" : 445,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -369,7 +134,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 471,
+            "pos" : 466,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -377,7 +142,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 493,
+            "pos" : 488,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -385,7 +150,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 532,
+            "pos" : 527,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -393,7 +158,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 538,
+            "pos" : 533,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -401,7 +166,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 601,
+            "pos" : 596,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -409,7 +174,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 615,
+            "pos" : 610,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 4",
             "fid" : "items",
             "in" : 
@@ -417,7 +182,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 662,
+            "pos" : 657,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 3",
             "fid" : "items",
             "in" : 
@@ -425,7 +190,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 670,
+            "pos" : 665,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -433,7 +198,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 729,
+            "pos" : 724,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "items",
             "in" : 
@@ -441,7 +206,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 769,
+            "pos" : 764,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "items",
             "in" : 
@@ -449,7 +214,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 1036,
+            "pos" : 1031,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -457,7 +222,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 1045,
+            "pos" : 1040,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -465,7 +230,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 1173,
+            "pos" : 1168,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 8",
             "fid" : "loc",
             "in" : 
@@ -473,7 +238,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 1207,
+            "pos" : 1202,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "loc",
             "in" : 
@@ -481,7 +246,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 1234,
+            "pos" : 1229,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 3",
             "fid" : "loc",
             "in" : 
@@ -489,7 +254,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 1461,
+            "pos" : 1456,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "loc",
             "in" : 
@@ -497,7 +262,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 1830,
+            "pos" : 1825,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -505,7 +270,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 2232,
+            "pos" : 2227,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -513,7 +278,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 2238,
+            "pos" : 2233,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 4",
             "fid" : "loc",
             "in" : 
@@ -521,7 +286,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 2773,
+            "pos" : 2768,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -529,7 +294,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 2876,
+            "pos" : 2871,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 3",
             "fid" : "loc",
             "in" : 
@@ -537,7 +302,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 3137,
+            "pos" : 3132,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -545,7 +310,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 3208,
+            "pos" : 3203,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 2",
             "fid" : "loc",
             "in" : 
@@ -553,7 +318,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 3403,
+            "pos" : 3398,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -561,7 +326,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 3435,
+            "pos" : 3430,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -569,7 +334,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 3637,
+            "pos" : 3632,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -577,7 +342,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 4798,
+            "pos" : 4793,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -585,7 +350,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 4853,
+            "pos" : 4848,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -593,7 +358,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 5055,
+            "pos" : 5050,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -601,7 +366,7 @@
           
           { "form" : "Formulary",
             "weight" : "1",
-            "pos" : 5226,
+            "pos" : 5221,
             "context" : "The Alchemists <mark>Formulary<\/mark>, count: 1",
             "fid" : "group",
             "in" : 

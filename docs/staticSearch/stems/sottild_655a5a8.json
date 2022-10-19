@@ -9,12 +9,12 @@
         [ 
           { "form" : "Sottilde's",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "<mark>Sottilde's<\/mark> Code Book" },
           
           { "form" : "Sottilde's",
             "weight" : "1",
-            "pos" : 1308,
+            "pos" : 1303,
             "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Sottilde's",
             "weight" : "1",
-            "pos" : 3703,
+            "pos" : 3698,
             "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "sottilde",
             "weight" : "1",
-            "pos" : 7390,
+            "pos" : 7385,
             "context" : "<mark>sottilde<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -38,33 +38,8 @@
           
           { "form" : "Sottilde's",
             "weight" : "1",
-            "pos" : 7391,
+            "pos" : 7386,
             "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1",
             "fid" : "persons",
             "in" : 
-            [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Sottilde's",
-            "weight" : "1",
-            "pos" : 1156,
-            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1" },
-          
-          { "form" : "Sottilde's",
-            "weight" : "1",
-            "pos" : 3551,
-            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1" },
-          
-          { "form" : "Sottilde",
-            "weight" : "1",
-            "pos" : 7277,
-            "context" : "<mark>Sottilde<\/mark>" },
-          
-          { "form" : "Sottilde's",
-            "weight" : "1",
-            "pos" : 7278,
-            "context" : "<mark>Sottilde's<\/mark> Code Book, count: 1" } ] } ] }
+            [ "ssCtx5" ] } ] } ] }

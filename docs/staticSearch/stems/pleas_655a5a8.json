@@ -9,19 +9,19 @@
         [ 
           { "form" : "please",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "...these virtues? Then, perhaps, your oath and service may <mark>please<\/mark> the Morag Tong.",
             "fid" : "content" },
           
           { "form" : "please",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 95,
             "context" : "...these masks? Then, perhaps, your oath and service may <mark>please<\/mark> the Black Glove.",
             "fid" : "content" },
           
           { "form" : "please",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 120,
             "context" : "...these things? Then, perhaps, your oath and service may <mark>please<\/mark> Mephala.",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "\"Please",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "...head up in agony, cried out to Sotha Sil: <mark>\"Please<\/mark>, please, have mercy, little boy, for what...",
             "fid" : "content" },
           
           { "form" : "please",
             "weight" : "1",
-            "pos" : 51,
+            "pos" : 46,
             "context" : "...in agony, cried out to Sotha Sil: \"Please, <mark>please<\/mark>, have mercy, little boy, for what is sport...",
             "fid" : "content" } ] },
       
@@ -49,7 +49,7 @@
         [ 
           { "form" : "please",
             "weight" : "1",
-            "pos" : 491,
+            "pos" : 486,
             "context" : "\"Later, if you <mark>please<\/mark>,\" said the Ashkhan. \"What happened then?\"",
             "fid" : "content" } ] },
       
@@ -60,7 +60,7 @@
         [ 
           { "form" : "please",
             "weight" : "1",
-            "pos" : 225,
+            "pos" : 220,
             "context" : "...said, \"If you are still in communication with Benitah, <mark>please<\/mark> give her my sympathies.\"",
             "fid" : "content" } ] },
       
@@ -71,6 +71,6 @@
         [ 
           { "form" : "pleased",
             "weight" : "1",
-            "pos" : 183,
+            "pos" : 178,
             "context" : "The council is <mark>pleased<\/mark> to report a reduction in the incidence of theft and violent...",
             "fid" : "content" } ] } ] }

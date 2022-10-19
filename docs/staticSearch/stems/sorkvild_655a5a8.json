@@ -9,7 +9,7 @@
         [ 
           { "form" : "Sorkvild's",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Dagon Fel, <mark>Sorkvild's<\/mark> Tower: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Sorkvild's",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Dagon Fel, <mark>Sorkvild's<\/mark> Tower: Visitable? ",
             "fid" : "acq" } ] },
       
@@ -31,19 +31,9 @@
         [ 
           { "form" : "Sorkvild's",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Dagon Fel, <mark>Sorkvild's<\/mark> Tower: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Sorkvild's",
-            "weight" : "1",
-            "pos" : 1507,
-            "context" : "Dagon Fel, <mark>Sorkvild's<\/mark> Tower" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -52,7 +42,7 @@
         [ 
           { "form" : "sorkvild's",
             "weight" : "1",
-            "pos" : 1678,
+            "pos" : 1673,
             "context" : "dagon fel, <mark>sorkvild's<\/mark> tower",
             "fid" : "loc",
             "in" : 

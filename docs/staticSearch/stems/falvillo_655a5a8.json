@@ -2,16 +2,6 @@
   { "stem" : "falvillo",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Falvillo's",
-            "weight" : "1",
-            "pos" : 1723,
-            "context" : "<mark>Falvillo's<\/mark> Endeavor" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "falvillo's",
             "weight" : "1",
-            "pos" : 1894,
+            "pos" : 1889,
             "context" : "<mark>falvillo's<\/mark> endeavor",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Falvillo's",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "<mark>Falvillo's<\/mark> Endeavor: Visitable? yes",
             "fid" : "acq" } ] } ] }

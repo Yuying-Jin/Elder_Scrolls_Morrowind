@@ -9,19 +9,19 @@
         [ 
           { "form" : "examine",
             "weight" : "1",
-            "pos" : 16,
+            "pos" : 11,
             "context" : "\"The Test of Pattern requires the observer to <mark>examine<\/mark> and analyze for patterns before he acts, with the understanding...",
             "fid" : "content" },
           
           { "form" : "examine",
             "weight" : "1",
-            "pos" : 66,
+            "pos" : 61,
             "context" : "\"The Test of Evasion requires the observer to <mark>examine<\/mark> the obstacle, and compare his resources and abilities; if...",
             "fid" : "content" },
           
           { "form" : "examine",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 76,
             "context" : "\"The Test ofConfrontation requires the observer to <mark>examine<\/mark> the obstacle, and compare his resources and abilities; if...",
             "fid" : "content" } ] },
       
@@ -32,7 +32,7 @@
         [ 
           { "form" : "examination",
             "weight" : "1",
-            "pos" : 158,
+            "pos" : 153,
             "context" : "...must present themselves to the Steward of the Guild Hall for <mark>examination<\/mark> and approval. ",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "examination",
             "weight" : "1",
-            "pos" : 267,
+            "pos" : 262,
             "context" : "...victors in the race for success? Then submit yourself for <mark>examination<\/mark> at the Balmora Council Manor. If you have the skills...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "examined",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "...no effect on these creatures. No specimen has ever been <mark>examined<\/mark>, and no references have ever linked these legends with the...",
             "fid" : "content" } ] } ] }

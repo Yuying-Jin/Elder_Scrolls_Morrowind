@@ -9,12 +9,12 @@
         [ 
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 43,
             "context" : "<mark>Fellowship<\/mark> of the Temple" },
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 904,
+            "pos" : 899,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 1024,
+            "pos" : 1019,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 1288,
+            "pos" : 1283,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 1388,
+            "pos" : 1383,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 2762,
+            "pos" : 2757,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 2861,
+            "pos" : 2856,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 3",
             "fid" : "loc",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 3466,
+            "pos" : 3461,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "loc",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 4295,
+            "pos" : 4290,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 3",
             "fid" : "loc",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 4645,
+            "pos" : 4640,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "loc",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 5412,
+            "pos" : 5407,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "group",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 5852,
+            "pos" : 5847,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "group",
             "in" : 
@@ -102,76 +102,11 @@
           
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 6336,
+            "pos" : 6331,
             "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 12,
-        "contexts" : 
-        [ 
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 741,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 833,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 1140,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 1219,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 2593,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 2700,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 3" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 3226,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 4149,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 3" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 4476,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 5215,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 5604,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" },
-          
-          { "form" : "Fellowship",
-            "weight" : "1",
-            "pos" : 6274,
-            "context" : "<mark>Fellowship<\/mark> of the Temple, count: 1" } ] },
       
       { "docId" : "librarium_Fellowship_of_the_Temple",
         "docUri" : "librarium\/Fellowship_of_the_Temple.html",
@@ -180,7 +115,7 @@
         [ 
           { "form" : "Fellowship",
             "weight" : "1",
-            "pos" : 49,
+            "pos" : 44,
             "context" : "...the saints, and the priests, are welcome to the <mark>Fellowship<\/mark> of the Tribunal Temple. The Temple is the religion of...",
             "fid" : "content" } ] },
       
@@ -191,6 +126,6 @@
         [ 
           { "form" : "fellowship",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : ".... Come to Red Mountain, old friend. For the <mark>fellowship<\/mark> and honor that once we shared, I would grant you...",
             "fid" : "content" } ] } ] }

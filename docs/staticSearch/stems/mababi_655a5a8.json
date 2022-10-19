@@ -9,19 +9,9 @@
         [ 
           { "form" : "Mababi",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "<mark>Mababi<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Mababi",
-            "weight" : "1",
-            "pos" : 2489,
-            "context" : "<mark>Mababi<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "mababi",
             "weight" : "1",
-            "pos" : 2658,
+            "pos" : 2653,
             "context" : "<mark>mababi<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -43,7 +33,7 @@
         [ 
           { "form" : "Mababi",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "<mark>Mababi<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -54,7 +44,7 @@
         [ 
           { "form" : "Mababi",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "<mark>Mababi<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -65,7 +55,7 @@
         [ 
           { "form" : "Mababi",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "<mark>Mababi<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -76,6 +66,6 @@
         [ 
           { "form" : "Mababi",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Mababi<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

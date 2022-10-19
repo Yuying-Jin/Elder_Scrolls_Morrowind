@@ -9,13 +9,13 @@
         [ 
           { "form" : "portion",
             "weight" : "1",
-            "pos" : 139,
+            "pos" : 134,
             "context" : "...the Temple to use. It is customary to leave a <mark>portion<\/mark> of muck at the shrine to represent Vivec's humility.",
             "fid" : "content" },
           
           { "form" : "portion",
             "weight" : "1",
-            "pos" : 562,
+            "pos" : 557,
             "context" : "...you address the shrine, it is customary to leave a <mark>portion<\/mark> of dreugh wax as a token of Vivec's victorious struggle with...",
             "fid" : "content" } ] },
       
@@ -26,6 +26,6 @@
         [ 
           { "form" : "portions",
             "weight" : "1",
-            "pos" : 27,
+            "pos" : 22,
             "context" : "the meat of one mudcrab (two <mark>portions<\/mark>)",
             "fid" : "content" } ] } ] }

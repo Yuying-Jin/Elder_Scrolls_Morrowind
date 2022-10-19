@@ -9,58 +9,33 @@
         [ 
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "...northeast, St. Delyn's Canton southwest, and St. <mark>Olms<\/mark> Canton southeast.",
             "fid" : "content" },
           
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 343,
+            "pos" : 338,
             "context" : "...in the less-formal St. Delyn and St. <mark>Olms<\/mark> cantons.",
             "fid" : "content" },
           
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 482,
+            "pos" : 477,
             "context" : " St. Delyn and St. <mark>Olms<\/mark> Residential Cantons",
             "fid" : "content" },
           
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 489,
+            "pos" : 484,
             "context" : " St. Delyn Canton and St. <mark>Olms<\/mark> Canton are residence cantons for commoners and paupers. The Temple...",
             "fid" : "content" },
           
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 528,
+            "pos" : 523,
             "context" : "...-Troll has a top-tier manor on St. <mark>Olms<\/mark>.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Olms",
-            "weight" : "1",
-            "pos" : 1413,
-            "context" : "Canton of St. <mark>Olms<\/mark>" },
-          
-          { "form" : "Olms",
-            "weight" : "1",
-            "pos" : 4524,
-            "context" : "Vivec, St. <mark>Olms<\/mark> Yngling Manor" },
-          
-          { "form" : "Olms",
-            "weight" : "1",
-            "pos" : 7000,
-            "context" : "<mark>Olms<\/mark>" },
-          
-          { "form" : "Olms",
-            "weight" : "1",
-            "pos" : 7327,
-            "context" : "St.<mark>Olms<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -69,7 +44,7 @@
         [ 
           { "form" : "olms",
             "weight" : "1",
-            "pos" : 1584,
+            "pos" : 1579,
             "context" : "canton of st. <mark>olms<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -77,7 +52,7 @@
           
           { "form" : "olms",
             "weight" : "1",
-            "pos" : 4703,
+            "pos" : 4698,
             "context" : "vivec, st. <mark>olms<\/mark> yngling manor",
             "fid" : "loc",
             "in" : 
@@ -85,7 +60,7 @@
           
           { "form" : "olms",
             "weight" : "1",
-            "pos" : 7132,
+            "pos" : 7127,
             "context" : "<mark>olms<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -93,7 +68,7 @@
           
           { "form" : "olms",
             "weight" : "1",
-            "pos" : 7440,
+            "pos" : 7435,
             "context" : "st.<mark>olms<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -106,13 +81,13 @@
         [ 
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 222,
+            "pos" : 217,
             "context" : "St. <mark>Olms<\/mark> grants Olms' Benediction, for resistance to common disease.",
             "fid" : "content" },
           
           { "form" : "Olms'",
             "weight" : "1",
-            "pos" : 224,
+            "pos" : 219,
             "context" : "St. Olms grants <mark>Olms'<\/mark> Benediction, for resistance to common disease.",
             "fid" : "content" } ] },
       
@@ -123,13 +98,13 @@
         [ 
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "Vivec, St. <mark>Olms<\/mark> Yngling Manor: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 127,
             "context" : "..., Free Trader, Yngling Manor, Canton of St. <mark>Olms<\/mark>, Vivec, District of Vvardenfell, Province of Morrowind",
             "fid" : "content" } ] },
       
@@ -140,6 +115,6 @@
         [ 
           { "form" : "Olms",
             "weight" : "1",
-            "pos" : 374,
+            "pos" : 369,
             "context" : "Saint <mark>Olms<\/mark> the Just appeared before Baranat in a burst of flame,...",
             "fid" : "content" } ] } ] }

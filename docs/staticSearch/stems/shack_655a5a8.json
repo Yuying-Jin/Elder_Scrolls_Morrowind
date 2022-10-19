@@ -2,26 +2,6 @@
   { "stem" : "shack",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Shack",
-            "weight" : "1",
-            "pos" : 622,
-            "context" : "Abandoned <mark>Shack<\/mark>" },
-          
-          { "form" : "Shack",
-            "weight" : "1",
-            "pos" : 1589,
-            "context" : "Dren_Plantation,_Helvi's_<mark>Shack<\/mark>" },
-          
-          { "form" : "Shack",
-            "weight" : "1",
-            "pos" : 2440,
-            "context" : "Llirala's <mark>Shack<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 3,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "shack",
             "weight" : "1",
-            "pos" : 799,
+            "pos" : 794,
             "context" : "abandoned <mark>shack<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "shack",
             "weight" : "1",
-            "pos" : 1758,
+            "pos" : 1753,
             "context" : "dren plantation, helvi's <mark>shack<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -45,7 +25,7 @@
           
           { "form" : "shack",
             "weight" : "1",
-            "pos" : 2611,
+            "pos" : 2606,
             "context" : "llirala's <mark>shack<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -58,7 +38,7 @@
         [ 
           { "form" : "Shack",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Abandoned <mark>Shack<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -69,7 +49,7 @@
         [ 
           { "form" : "Shack",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Llirala's <mark>Shack<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -80,6 +60,6 @@
         [ 
           { "form" : "Shack",
             "weight" : "1",
-            "pos" : 21,
+            "pos" : 16,
             "context" : "Dren Plantation, Helvi's <mark>Shack<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

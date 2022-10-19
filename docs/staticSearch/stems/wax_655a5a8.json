@@ -9,19 +9,19 @@
         [ 
           { "form" : "wax",
             "weight" : "1",
-            "pos" : 438,
+            "pos" : 433,
             "context" : "...his strength with a potion made from ash yams and dreugh <mark>wax<\/mark>. Ash yam is a tough tuberous root vegetable common to...",
             "fid" : "content" },
           
           { "form" : "wax",
             "weight" : "1",
-            "pos" : 450,
+            "pos" : 445,
             "context" : "...tuberous root vegetable common to the Ascadian Isles region. dreugh <mark>wax<\/mark> is a tough, waxy substance scraped from dreugh shells....",
             "fid" : "content" },
           
           { "form" : "wax",
             "weight" : "1",
-            "pos" : 463,
+            "pos" : 458,
             "context" : "...powerful aquatic creatures, and hunting them for their hides and <mark>wax<\/mark> is a dangerous occupation.",
             "fid" : "content" } ] },
       
@@ -32,25 +32,15 @@
         [ 
           { "form" : "wax",
             "weight" : "1",
-            "pos" : 553,
+            "pos" : 548,
             "context" : "...the epic battle with the Dreugh in the cave. Dreugh <mark>wax<\/mark> may be bought at the Temple in Gnisis. When you...",
             "fid" : "content" },
           
           { "form" : "wax",
             "weight" : "1",
-            "pos" : 564,
+            "pos" : 559,
             "context" : "...shrine, it is customary to leave a portion of dreugh <mark>wax<\/mark> as a token of Vivec's victorious struggle with Ruddy Man....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "wax",
-            "weight" : "1",
-            "pos" : 181,
-            "context" : "dreugh_<mark>wax<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -59,7 +49,7 @@
         [ 
           { "form" : "wax",
             "weight" : "1",
-            "pos" : 362,
+            "pos" : 357,
             "context" : "dreugh <mark>wax<\/mark>",
             "fid" : "items",
             "in" : 

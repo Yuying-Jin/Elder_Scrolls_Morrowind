@@ -9,19 +9,9 @@
         [ 
           { "form" : "Galos",
             "weight" : "1",
-            "pos" : 263,
+            "pos" : 258,
             "context" : "...spokesmen for their councilor mage-lords) Felisa Ulessen, <mark>Galos<\/mark> Mathendis, Arara Uvulas, Mallam Ryon, Raven Omayn,...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Galos",
-            "weight" : "1",
-            "pos" : 6858,
-            "context" : "<mark>Galos<\/mark> Mathendis" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "galos",
             "weight" : "1",
-            "pos" : 6982,
+            "pos" : 6977,
             "context" : "<mark>galos<\/mark> mathendis",
             "fid" : "persons",
             "in" : 

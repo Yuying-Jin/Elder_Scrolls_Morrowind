@@ -9,19 +9,19 @@
         [ 
           { "form" : "outlander",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...or may be adopted into a Great House. Initially an <mark>outlander<\/mark> may gain status in a house as an oath-bonded...",
             "fid" : "content" },
           
           { "form" : "outlander",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "..., after faithful service and advancement in lower ranks, an <mark>outlander<\/mark> may seek adoption into a Great House. Adoption and advancement...",
             "fid" : "content" },
           
           { "form" : "outlander",
             "weight" : "1",
-            "pos" : 127,
+            "pos" : 122,
             "context" : "...candidate's character and loyalty. Finding a councilor to sponsor an <mark>outlander<\/mark> often involves performing a great service for the prospective sponsor....",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "outlander",
             "weight" : "1",
-            "pos" : 160,
+            "pos" : 155,
             "context" : "\"And the <mark>outlander<\/mark> female?\" asked the Ashkhan with some disapprobation and a dismissive...",
             "fid" : "content" },
           
           { "form" : "outlanders",
             "weight" : "1",
-            "pos" : 197,
+            "pos" : 192,
             "context" : "...\"That is all very well, but I do not like <mark>outlanders<\/mark> in my court,\" said the Ashkhan. \"Many are spies...",
             "fid" : "content" },
           
           { "form" : "outlanders",
             "weight" : "1",
-            "pos" : 226,
+            "pos" : 221,
             "context" : "...between you two. He also had some concerns about the <mark>outlanders<\/mark> in our troupe, though it was our Khajiit tumbler Master...",
             "fid" : "content" } ] },
       
@@ -55,13 +55,13 @@
         [ 
           { "form" : "Outlanders",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : " <mark>Outlanders<\/mark> can find services for the Fighters Guild, Mages Guild,...",
             "fid" : "content" },
           
           { "form" : "outlanders",
             "weight" : "1",
-            "pos" : 186,
+            "pos" : 181,
             "context" : "...town. There are two cornerclubs: Dirty Muriel's, for <mark>outlanders<\/mark>, and Fara's Hole in the Wall for local Dunmer....",
             "fid" : "content" } ] },
       
@@ -72,13 +72,13 @@
         [ 
           { "form" : "Outlanders",
             "weight" : "1",
-            "pos" : 44,
+            "pos" : 39,
             "context" : "...Arena for public entertainments like mock battles and comic plays. <mark>Outlanders<\/mark> mostly confine themselves to the Foreign Canton, while natives live...",
             "fid" : "content" },
           
           { "form" : "outlanders",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "...enter Vivec any further than the Foreign Quarter, but now <mark>outlanders<\/mark> can travel throughout Vivec at will. The Imperial Guilds each have...",
             "fid" : "content" } ] },
       
@@ -89,7 +89,7 @@
         [ 
           { "form" : "Outlanders",
             "weight" : "1",
-            "pos" : 269,
+            "pos" : 264,
             "context" : "...Citizens flock to the Arena for entertainments and war games. <mark>Outlanders<\/mark> mostly confine themselves to the Foreign Canton, while natives live...",
             "fid" : "content" } ] },
       
@@ -100,19 +100,9 @@
         [ 
           { "form" : "outlanders",
             "weight" : "1",
-            "pos" : 158,
+            "pos" : 153,
             "context" : "...and they're not very nice. They have this thing about <mark>outlanders<\/mark>. They want them all dead. So, unless your ambition...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "outlanders",
-            "weight" : "1",
-            "pos" : 6091,
-            "context" : "<mark>outlanders<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -121,7 +111,7 @@
         [ 
           { "form" : "outlanders",
             "weight" : "1",
-            "pos" : 5914,
+            "pos" : 5909,
             "context" : "<mark>outlanders<\/mark>",
             "fid" : "group",
             "in" : 
@@ -134,6 +124,6 @@
         [ 
           { "form" : "outlander",
             "weight" : "1",
-            "pos" : 171,
+            "pos" : 166,
             "context" : "Outsiders learning of the rabid isolationist and <mark>outlander<\/mark>-hating temperament of House Telvanni wizards often assume it would...",
             "fid" : "content" } ] } ] }

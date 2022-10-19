@@ -9,37 +9,27 @@
         [ 
           { "form" : "Ministry",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "...most of all, this is Lord Vivec's holy city. The <mark>Ministry<\/mark> of Truth, the Temple prison, hangs above the great...",
             "fid" : "content" },
           
           { "form" : "Ministry",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "...Compound, with Vivec's Palace, the High Fane, the <mark>Ministry<\/mark> of Truth, and the Hall of Wisdom and the Hall...",
             "fid" : "content" },
           
           { "form" : "Ministry",
             "weight" : "1",
-            "pos" : 204,
+            "pos" : 199,
             "context" : "...from all over Morrowind to view the High Fane and the <mark>Ministry<\/mark> of Truth, and to offer prayer and thanks before the...",
             "fid" : "content" },
           
           { "form" : "Ministry",
             "weight" : "1",
-            "pos" : 211,
+            "pos" : 206,
             "context" : "...offer prayer and thanks before the Palace of Vivec. The <mark>Ministry<\/mark> of Truth, a celestial body suspended by Vivec's mighty power...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ministry",
-            "weight" : "1",
-            "pos" : 2585,
-            "context" : "<mark>Ministry<\/mark> of Truth" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -48,7 +38,7 @@
         [ 
           { "form" : "ministry",
             "weight" : "1",
-            "pos" : 2754,
+            "pos" : 2749,
             "context" : "<mark>ministry<\/mark> of truth",
             "fid" : "loc",
             "in" : 

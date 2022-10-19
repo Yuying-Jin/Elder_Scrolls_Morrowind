@@ -9,13 +9,13 @@
         [ 
           { "form" : "affect",
             "weight" : "1",
-            "pos" : 173,
+            "pos" : 168,
             "context" : "...very powerful, and very dangerous. Normal weapons do not <mark>affect<\/mark> them.",
             "fid" : "content" },
           
           { "form" : "affect",
             "weight" : "1",
-            "pos" : 242,
+            "pos" : 237,
             "context" : "...warriors of the Tribunal Temple report that spell effects known to <mark>affect<\/mark> the undead have no effect on ash vampires.",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "affect",
             "weight" : "1",
-            "pos" : 160,
+            "pos" : 155,
             "context" : "...very powerful, and very dangerous. Normal weapons do not <mark>affect<\/mark> them.",
             "fid" : "content" },
           
           { "form" : "affect",
             "weight" : "1",
-            "pos" : 229,
+            "pos" : 224,
             "context" : "...warriors of the Tribunal Temple report that spell effects known to <mark>affect<\/mark> the undead have no effect on ash vampires.",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "affecting",
             "weight" : "1",
-            "pos" : 143,
+            "pos" : 138,
             "context" : "...\"ash vampire\" of Ashlanderlegend is not undead. Sorceries and blessings <mark>affecting<\/mark> the undead reportedly have no effect on these creatures. No...",
             "fid" : "content" } ] } ] }

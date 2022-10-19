@@ -9,7 +9,7 @@
         [ 
           { "form" : "theft",
             "weight" : "1",
-            "pos" : 180,
+            "pos" : 175,
             "context" : "...is forbidden to steal from another member, whether by open <mark>theft<\/mark> or by covert pickpocketing. It is forbidden to trespass upon...",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Theft",
             "weight" : "1",
-            "pos" : 193,
+            "pos" : 188,
             "context" : "...carefully balanced against the more tangible coins in any deal. <mark>Theft<\/mark> and murder are bad for business. You can steal from...",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "thefts",
             "weight" : "1",
-            "pos" : 749,
+            "pos" : 744,
             "context" : "...servants talked. If they began to connect his absences with <mark>thefts<\/mark> in other towns, it was only a matter of time...",
             "fid" : "content" } ] },
       
@@ -42,6 +42,6 @@
         [ 
           { "form" : "theft",
             "weight" : "1",
-            "pos" : 187,
+            "pos" : 182,
             "context" : "...council is pleased to report a reduction in the incidence of <mark>theft<\/mark> and violent crime in the Hlaalu House Districts, thanks to...",
             "fid" : "content" } ] } ] }

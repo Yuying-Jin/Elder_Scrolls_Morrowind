@@ -9,7 +9,7 @@
         [ 
           { "form" : "Teran",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Teran<\/mark> Hall: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "Teran",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 31,
             "context" : "<mark>Teran<\/mark> Hall: Visitable? ",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Teran",
-            "weight" : "1",
-            "pos" : 4057,
-            "context" : "<mark>Teran<\/mark> Hall" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "teran",
             "weight" : "1",
-            "pos" : 4201,
+            "pos" : 4196,
             "context" : "<mark>teran<\/mark> hall",
             "fid" : "loc",
             "in" : 

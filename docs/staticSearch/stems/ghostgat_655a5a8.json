@@ -9,31 +9,31 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "<mark>Ghostgate<\/mark>: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 591,
+            "pos" : 586,
             "context" : "...Pride is found within the Ghostfence, just northeast of the <mark>Ghostgate<\/mark> itself. The safest route to Ghostgate is along the Foyada Mamaea...",
             "fid" : "content" },
           
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 594,
+            "pos" : 589,
             "context" : "..., just northeast of the Ghostgate itself. The safest route to <mark>Ghostgate<\/mark> is along the Foyada Mamaea, a volcanic ravine running from...",
             "fid" : "content" },
           
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 621,
+            "pos" : 616,
             "context" : "...A pilgrim may follow the Foyada Mamaea all the way to <mark>Ghostgate<\/mark>. Any journey inside the Ghostfence is dangerous, but even...",
             "fid" : "content" },
           
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 633,
+            "pos" : 628,
             "context" : "...so long as he does not stray too far from the <mark>Ghostgate<\/mark> and flees from any minions of Dagoth Ur. When you...",
             "fid" : "content" } ] },
       
@@ -44,41 +44,21 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 1003,
+            "pos" : 998,
             "context" : "...rings the volcano's outer slopes, and is broken only at <mark>Ghostgate<\/mark>. Within the Ghostfence, rain never falls and the sun...",
             "fid" : "content" },
           
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 1018,
+            "pos" : 1013,
             "context" : " <mark>Ghostgate<\/mark> is the gate citadel of the Ghostfence Ordinator and Buoyant Armiger...",
             "fid" : "content" },
           
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 1026,
+            "pos" : 1021,
             "context" : "...gate citadel of the Ghostfence Ordinator and Buoyant Armiger garrisons. <mark>Ghostgate<\/mark> sits astride the only gap through which the monstrous hosts of...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Ghostgate",
-            "weight" : "1",
-            "pos" : 1870,
-            "context" : "<mark>Ghostgate<\/mark>" },
-          
-          { "form" : "Ghostgate",
-            "weight" : "1",
-            "pos" : 1902,
-            "context" : "<mark>Ghostgate<\/mark>, Tower of Dawn Lower Level" },
-          
-          { "form" : "Ghostgate",
-            "weight" : "1",
-            "pos" : 1912,
-            "context" : "<mark>Ghostgate<\/mark>,_Tower_of_Dawn_Lower_Level" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -87,7 +67,7 @@
         [ 
           { "form" : "ghostgate",
             "weight" : "1",
-            "pos" : 2049,
+            "pos" : 2044,
             "context" : "<mark>ghostgate<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -95,7 +75,7 @@
           
           { "form" : "ghostgate",
             "weight" : "1",
-            "pos" : 2081,
+            "pos" : 2076,
             "context" : "<mark>ghostgate<\/mark>, tower of dawn lower level",
             "fid" : "loc",
             "in" : 
@@ -108,13 +88,13 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "...“Aren't you the adventurer who slew all those ash vampires in <mark>Ghostgate<\/mark> a couple of months back?”",
             "fid" : "content" },
           
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "...a glass of greef. “I hail from the region of <mark>Ghostgate<\/mark> which is how I heard your name. Are you on...",
             "fid" : "content" } ] },
       
@@ -125,7 +105,7 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 118,
             "context" : "...the temples in Ald'ruhn, Balmora, Molag Mar, and <mark>Ghostgate<\/mark>, or with priests at the High Fane in the Temple...",
             "fid" : "content" } ] },
       
@@ -136,7 +116,7 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 6,
+            "pos" : 1,
             "context" : "<mark>Ghostgate<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -147,7 +127,7 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "<mark>Ghostgate<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -158,7 +138,7 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 17,
+            "pos" : 12,
             "context" : "<mark>Ghostgate<\/mark>, Tower of Dawn Lower Level: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -169,7 +149,7 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "<mark>Ghostgate<\/mark>, Tower of Dawn Lower Level: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -180,7 +160,7 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "<mark>Ghostgate<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -191,6 +171,6 @@
         [ 
           { "form" : "Ghostgate",
             "weight" : "1",
-            "pos" : 16,
+            "pos" : 11,
             "context" : "<mark>Ghostgate<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

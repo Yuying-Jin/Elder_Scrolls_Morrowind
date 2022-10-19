@@ -9,19 +9,19 @@
         [ 
           { "form" : "river",
             "weight" : "1",
-            "pos" : 271,
+            "pos" : 266,
             "context" : "...eighty-seven pieces. Beyond Feryn's post was a raging <mark>river<\/mark>, where the second eldest Coribael brother, Horis, stood...",
             "fid" : "content" },
           
           { "form" : "river",
             "weight" : "1",
-            "pos" : 324,
+            "pos" : 319,
             "context" : "...Baranat rushed at Horis, and two plunged into the rushing <mark>river<\/mark>. For twelve hours, they wrestled one another under the...",
             "fid" : "content" },
           
           { "form" : "river",
             "weight" : "1",
-            "pos" : 338,
+            "pos" : 333,
             "context" : "...no more and drowned. Baranat pulled himself out of the <mark>river<\/mark> and continued down the valley, until he reached the camp...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,9 @@
         [ 
           { "form" : "River",
             "weight" : "1",
-            "pos" : 788,
+            "pos" : 783,
             "context" : "...in the Bitter Coast region. A rough track along the <mark>River<\/mark> Odai connects Hla Oad with the town of Balmora.",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "River",
-            "weight" : "1",
-            "pos" : 3128,
-            "context" : "<mark>River<\/mark> Odai" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +43,7 @@
         [ 
           { "form" : "river",
             "weight" : "1",
-            "pos" : 3297,
+            "pos" : 3292,
             "context" : "<mark>river<\/mark> odai",
             "fid" : "loc",
             "in" : 
@@ -66,7 +56,7 @@
         [ 
           { "form" : "rivers",
             "weight" : "1",
-            "pos" : 254,
+            "pos" : 249,
             "context" : "The Ginko leaves which are found along the banks of <mark>rivers<\/mark> and lakes in Hammerfell are most inconspicuous, only its peculiar...",
             "fid" : "content" } ] },
       
@@ -77,6 +67,6 @@
         [ 
           { "form" : "rivers",
             "weight" : "1",
-            "pos" : 157,
+            "pos" : 152,
             "context" : "Runs in red <mark>rivers<\/mark>, blossoms in fountains.",
             "fid" : "content" } ] } ] }

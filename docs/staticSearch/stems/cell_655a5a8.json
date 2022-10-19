@@ -9,31 +9,21 @@
         [ 
           { "form" : "cells",
             "weight" : "1",
-            "pos" : 311,
+            "pos" : 306,
             "context" : "...here. The tiers below contain Hlaalu treasuries, records, holding <mark>cells<\/mark>, and various Great House services. There are two public...",
             "fid" : "content" },
           
           { "form" : "cells",
             "weight" : "1",
-            "pos" : 381,
+            "pos" : 376,
             "context" : ".... Slaves are housed in the lowest tiers, along with <mark>cells<\/mark> full of monsters. There are many tradesmen, craftsmen,...",
             "fid" : "content" },
           
           { "form" : "Cells",
             "weight" : "1",
-            "pos" : 416,
+            "pos" : 411,
             "context" : "...includes the Redoran Treasury, Hall of Records, and Holding <mark>Cells<\/mark>. On the lowest tier is a Redoran shrine and ancestral...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Cells",
-            "weight" : "1",
-            "pos" : 2261,
-            "context" : "Holding <mark>Cells<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -42,7 +32,7 @@
         [ 
           { "form" : "cells",
             "weight" : "1",
-            "pos" : 2427,
+            "pos" : 2422,
             "context" : "holding <mark>cells<\/mark>",
             "fid" : "loc",
             "in" : 

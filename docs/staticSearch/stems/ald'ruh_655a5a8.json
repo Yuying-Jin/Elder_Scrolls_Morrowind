@@ -2,16 +2,6 @@
   { "stem" : "ald'ruh",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Ald'Ruh",
-            "weight" : "1",
-            "pos" : 687,
-            "context" : "<mark>Ald'Ruh<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "ald'ruh",
             "weight" : "1",
-            "pos" : 871,
+            "pos" : 866,
             "context" : "<mark>ald'ruh<\/mark>",
             "fid" : "loc",
             "in" : 

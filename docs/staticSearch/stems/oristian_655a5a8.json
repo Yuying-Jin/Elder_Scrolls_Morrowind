@@ -2,16 +2,6 @@
   { "stem" : "oristian",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Oristian",
-            "weight" : "1",
-            "pos" : 7249,
-            "context" : "<mark>Oristian<\/mark> Silverthorn" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "oristian",
             "weight" : "1",
-            "pos" : 7384,
+            "pos" : 7379,
             "context" : "<mark>oristian<\/mark> silverthorn",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Oristian",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "“That I am,” said <mark>Oristian<\/mark> Silverthorn with a weary smile for his admirer. He knew...",
             "fid" : "content" } ] } ] }

@@ -9,12 +9,12 @@
         [ 
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 163,
+            "pos" : 158,
             "context" : "The <mark>Real<\/mark> Nerevar" },
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 551,
+            "pos" : 546,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "items",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 2099,
+            "pos" : 2094,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 3216,
+            "pos" : 3211,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 5211,
+            "pos" : 5206,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "group",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 5218,
+            "pos" : 5213,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "group",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 5313,
+            "pos" : 5308,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 4",
             "fid" : "group",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 5418,
+            "pos" : 5413,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 8",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 5822,
+            "pos" : 5817,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "group",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 5868,
+            "pos" : 5863,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "group",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 6051,
+            "pos" : 6046,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "group",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 6178,
+            "pos" : 6173,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 1",
             "fid" : "group",
             "in" : 
@@ -102,76 +102,11 @@
           
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 7105,
+            "pos" : 7100,
             "context" : "The <mark>Real<\/mark> Nerevar, count: 8",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 12,
-        "contexts" : 
-        [ 
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 387,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 1925,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 3058,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 5118,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 4" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 5221,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 8" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 5314,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 5328,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 5574,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 5620,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 5770,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 6086,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 1" },
-          
-          { "form" : "Real",
-            "weight" : "1",
-            "pos" : 6943,
-            "context" : "The <mark>Real<\/mark> Nerevar, count: 8" } ] },
       
       { "docId" : "librarium_Ashland_Hymns",
         "docUri" : "librarium\/Ashland_Hymns.html",
@@ -180,7 +115,7 @@
         [ 
           { "form" : "real",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 31,
             "context" : "...never a false word, Weal and woe, wish and <mark>real<\/mark>, Woven each together From first kiss to last breath,...",
             "fid" : "content" } ] },
       
@@ -191,7 +126,7 @@
         [ 
           { "form" : "real",
             "weight" : "1",
-            "pos" : 108,
+            "pos" : 103,
             "context" : "...no tricks. All the realizations of acrobacy we perform are <mark>real<\/mark> with no illusions. We wish we knew tricks, for...",
             "fid" : "content" } ] },
       
@@ -202,7 +137,7 @@
         [ 
           { "form" : "Real",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "The <mark>Real<\/mark> Nerevar: A Telvanni retainer's informal history of Nerevar",
             "fid" : "content" } ] },
       
@@ -213,6 +148,6 @@
         [ 
           { "form" : "real",
             "weight" : "1",
-            "pos" : 227,
+            "pos" : 222,
             "context" : "...submit themselves to the will of a vampire, but no <mark>real<\/mark> evidence of this exists....",
             "fid" : "content" } ] } ] }

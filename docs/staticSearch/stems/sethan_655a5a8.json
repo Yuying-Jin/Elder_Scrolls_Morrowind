@@ -2,16 +2,6 @@
   { "stem" : "sethan",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Sethan",
-            "weight" : "1",
-            "pos" : 3409,
-            "context" : "<mark>Sethan<\/mark>_Ancestral_Tomb" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "sethan",
             "weight" : "1",
-            "pos" : 3562,
+            "pos" : 3557,
             "context" : "<mark>sethan<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Sethan",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "<mark>Sethan<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] } ] }

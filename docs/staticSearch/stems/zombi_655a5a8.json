@@ -9,36 +9,21 @@
         [ 
           { "form" : "zombie",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : " If you wish to create a <mark>zombie<\/mark> servant, one need only bring the corpse to a suitable...",
             "fid" : "zombie" },
           
           { "form" : "zombies",
             "weight" : "1",
-            "pos" : 114,
+            "pos" : 109,
             "context" : "...done, but with care and maintenance, one may raise <mark>zombies<\/mark> dozens of times.",
             "fid" : "content" },
           
           { "form" : "zombie",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 115,
             "context" : "However, creating a mere <mark>zombie<\/mark> is a method best left to lazy or desperate practitioners....",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "zombie",
-            "weight" : "1",
-            "pos" : 6183,
-            "context" : "<mark>zombie<\/mark>" },
-          
-          { "form" : "zombies",
-            "weight" : "1",
-            "pos" : 6190,
-            "context" : "<mark>zombies<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +32,7 @@
         [ 
           { "form" : "zombie",
             "weight" : "1",
-            "pos" : 6263,
+            "pos" : 6258,
             "context" : "<mark>zombie<\/mark>",
             "fid" : "group",
             "in" : 
@@ -55,7 +40,7 @@
           
           { "form" : "zombies",
             "weight" : "1",
-            "pos" : 6270,
+            "pos" : 6265,
             "context" : "<mark>zombies<\/mark>",
             "fid" : "group",
             "in" : 
@@ -68,7 +53,7 @@
         [ 
           { "form" : "'zombies'",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "Flesh revenants, or <mark>'zombies'<\/mark> as they are often called in the West, are known...",
             "fid" : "content" } ] },
       
@@ -79,6 +64,6 @@
         [ 
           { "form" : "'zombies'",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "Flesh revenants, or <mark>'zombies'<\/mark> as they are often called in the West, are known...",
             "fid" : "content" } ] } ] }

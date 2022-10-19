@@ -9,37 +9,37 @@
         [ 
           { "form" : "Moon",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "To Stop the <mark>Moon<\/mark>: The Shrine of Daring",
             "fid" : "content" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 153,
+            "pos" : 148,
             "context" : "When Sheogorath rebelled against the Tribunal, he tricked the <mark>moon<\/mark> Baar Dau into forsaking its appointed path through Oblivion. The...",
             "fid" : "content" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 163,
+            "pos" : 158,
             "context" : "...its appointed path through Oblivion. The Mad Star inspired the <mark>moon<\/mark> to hurl itself upon Vivec's new city, which Sheogorath claimed...",
             "fid" : "content" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 180,
+            "pos" : 175,
             "context" : "...When Vivec learned of Sheogorath's scheme, he froze the rogue <mark>moon<\/mark> in the sky with a single gesture and the grace of...",
             "fid" : "content" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 190,
+            "pos" : 185,
             "context" : ".... Overwhelmed by the courage and daring of Vivec, the <mark>moon<\/mark> Baar Dau swore itself to eternal service of the Tribunal and...",
             "fid" : "content" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 199,
+            "pos" : 194,
             "context" : "...service of the Tribunal and all its works. Thus the <mark>moon<\/mark> now stands guard over the palace, and serves as a...",
             "fid" : "content" } ] },
       
@@ -50,19 +50,19 @@
         [ 
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "...to pack his broken bones. One of the crates of <mark>moon<\/mark> sugar was open.",
             "fid" : "moonsugar" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "...went wrong. Their boat, laden with five crates of <mark>moon<\/mark> sugar, was supposed to meet another, the Sanchariot,...",
             "fid" : "content" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 347,
+            "pos" : 342,
             "context" : ".... The smugglers aboard would pay them good money for the <mark>moon<\/mark> sugar. Luckily, S'Riizh had used only a little bit...",
             "fid" : "content" } ] },
       
@@ -73,36 +73,21 @@
         [ 
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "6th <mark>moon<\/mark> ....... \"Alas, the Battlespire appears to be falling into the...",
             "fid" : "content" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "8th <mark>moon<\/mark> ....... \"I have presented to the few remaining Battlemages my last...",
             "fid" : "content" },
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "9th <mark>moon<\/mark>........ \"It is as I feared. A carcass is all...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "moon",
-            "weight" : "1",
-            "pos" : 377,
-            "context" : "<mark>moon<\/mark> sugar" },
-          
-          { "form" : "moon",
-            "weight" : "1",
-            "pos" : 385,
-            "context" : "<mark>moon<\/mark>-and-star" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -111,7 +96,7 @@
         [ 
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 549,
+            "pos" : 544,
             "context" : "<mark>moon<\/mark> and star",
             "fid" : "items",
             "in" : 
@@ -119,7 +104,7 @@
           
           { "form" : "moon",
             "weight" : "1",
-            "pos" : 556,
+            "pos" : 551,
             "context" : "<mark>moon<\/mark> sugar",
             "fid" : "items",
             "in" : 
@@ -132,7 +117,7 @@
         [ 
           { "form" : "moons",
             "weight" : "1",
-            "pos" : 424,
+            "pos" : 419,
             "context" : "..., speed, strength, timing, and tactics as the <mark>moons<\/mark> rose and fell from the sky. But on the seventh...",
             "fid" : "content" } ] },
       
@@ -143,6 +128,6 @@
         [ 
           { "form" : "Moon",
             "weight" : "1",
-            "pos" : 49,
+            "pos" : 44,
             "context" : "...anyone who wore it except Nerevar. The ring was called <mark>Moon<\/mark>-and-Star, and it helped Nerevar unite the various clans...",
             "fid" : "moon and star" } ] } ] }

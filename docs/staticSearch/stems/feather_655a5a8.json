@@ -2,16 +2,6 @@
   { "stem" : "feather",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "feather",
-            "weight" : "1",
-            "pos" : 192,
-            "context" : "<mark>feather<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "feather",
             "weight" : "1",
-            "pos" : 373,
+            "pos" : 368,
             "context" : "<mark>feather<\/mark>",
             "fid" : "items",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Feather",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "<mark>Feather<\/mark> reduces the weary traveler's burdens and can be gained from heather...",
             "fid" : "content" } ] } ] }

@@ -2,16 +2,6 @@
   { "stem" : "galsa",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Galsa",
-            "weight" : "1",
-            "pos" : 1837,
-            "context" : "<mark>Galsa<\/mark> Gindu's House" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "galsa",
             "weight" : "1",
-            "pos" : 2016,
+            "pos" : 2011,
             "context" : "<mark>galsa<\/mark> gindu's house",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Galsa",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "<mark>Galsa<\/mark> Gindu's House: Visitable? yes",
             "fid" : "acq" } ] } ] }

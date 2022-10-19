@@ -2,16 +2,6 @@
   { "stem" : "mano",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Mano",
-            "weight" : "1",
-            "pos" : 1227,
-            "context" : "Balmora, Hlaalu Council <mark>Mano<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "mano",
             "weight" : "1",
-            "pos" : 1410,
+            "pos" : 1405,
             "context" : "balmora, hlaalu council <mark>mano<\/mark>",
             "fid" : "loc",
             "in" : 

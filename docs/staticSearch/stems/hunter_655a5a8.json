@@ -9,19 +9,19 @@
         [ 
           { "form" : "hunters",
             "weight" : "1",
-            "pos" : 263,
+            "pos" : 258,
             "context" : "... In the West, a shadowy fraternity of vampire <mark>hunters<\/mark> is believed to be primarily composed of formerly afflicted vampires who...",
             "fid" : "content" },
           
           { "form" : "Hunters",
             "weight" : "1",
-            "pos" : 275,
+            "pos" : 270,
             "context" : "...cured of the disease. According to legend, the vampire <mark>Hunters<\/mark> refuse to reveal the cure to the disease for fear that...",
             "fid" : "content" },
           
           { "form" : "Hunters",
             "weight" : "1",
-            "pos" : 292,
+            "pos" : 287,
             "context" : "In the East, the Western tradition of vampire <mark>Hunters<\/mark> is unknown. Vampirism is known to be incurable, and...",
             "fid" : "content" } ] },
       
@@ -32,6 +32,6 @@
         [ 
           { "form" : "hunter",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "The blood of the <mark>hunter<\/mark> and the blood of the hunted. The joy of the...",
             "fid" : "content" } ] } ] }

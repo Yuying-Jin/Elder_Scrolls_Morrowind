@@ -9,25 +9,15 @@
         [ 
           { "form" : "Dragonne",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "...to the bowells of the Battlespire, where I will mount <mark>Dragonne<\/mark> Papré, my Dragon companion. From his lair, we...",
             "fid" : "content" },
           
           { "form" : "Dragonne",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "...not sorrowful though, for I will be eternally reunited with <mark>Dragonne<\/mark> Papré. Hope for the living is lost. My name...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Dragonne",
-            "weight" : "1",
-            "pos" : 7021,
-            "context" : "<mark>Dragonne<\/mark> Papré" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "dragonne",
             "weight" : "1",
-            "pos" : 7146,
+            "pos" : 7141,
             "context" : "<mark>dragonne<\/mark> papré",
             "fid" : "persons",
             "in" : 

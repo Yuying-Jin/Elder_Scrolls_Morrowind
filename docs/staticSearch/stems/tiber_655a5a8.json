@@ -9,13 +9,13 @@
         [ 
           { "form" : "Tiber",
             "weight" : "1",
-            "pos" : 48,
+            "pos" : 43,
             "context" : "...the Talos cult, veneration of the divine god-hero <mark>Tiber<\/mark> Septim, founder and patron of the Empire. Imperial cult...",
             "fid" : "content" },
           
           { "form" : "Tiber",
             "weight" : "1",
-            "pos" : 81,
+            "pos" : 76,
             "context" : "...Zenithar, Mara, Stendarr, Kynareth, Julianos, and <mark>Tiber<\/mark> Septim. We preach the Nine Virtues: Humility, Inspiration...",
             "fid" : "content" } ] },
       
@@ -26,25 +26,15 @@
         [ 
           { "form" : "Tiber",
             "weight" : "1",
-            "pos" : 135,
+            "pos" : 130,
             "context" : "...-cults of Akatosh and Dibella. The Imperial Cult of <mark>Tiber<\/mark> Septim also has a significant charismatic sub-cult.",
             "fid" : "content" },
           
           { "form" : "Tiber",
             "weight" : "1",
-            "pos" : 195,
+            "pos" : 190,
             "context" : "...the dominant secularism of the Empire. The Imperial Cult of <mark>Tiber<\/mark> Septim is just such a hero-cult, and among...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Tiber",
-            "weight" : "1",
-            "pos" : 7205,
-            "context" : "<mark>Tiber<\/mark> Septim" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -53,7 +43,7 @@
         [ 
           { "form" : "tiber",
             "weight" : "1",
-            "pos" : 7320,
+            "pos" : 7315,
             "context" : "<mark>tiber<\/mark> septim",
             "fid" : "persons",
             "in" : 

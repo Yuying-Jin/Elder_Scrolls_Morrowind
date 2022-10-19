@@ -9,19 +9,19 @@
         [ 
           { "form" : "Humility",
             "weight" : "1",
-            "pos" : 60,
+            "pos" : 55,
             "context" : "The Fields of Kummu: Shrine of <mark>Humility<\/mark>",
             "fid" : "content" },
           
           { "form" : "humility",
             "weight" : "1",
-            "pos" : 95,
+            "pos" : 90,
             "context" : "...the Fields of Kummu we go to pray for the same <mark>humility<\/mark> Lord Vivec showed on that day.",
             "fid" : "content" },
           
           { "form" : "humility",
             "weight" : "1",
-            "pos" : 144,
+            "pos" : 139,
             "context" : "...leave a portion of muck at the shrine to represent Vivec's <mark>humility<\/mark>.",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "HUMILITY",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "<mark>HUMILITY<\/mark>",
             "fid" : "content" },
           
           { "form" : "humility",
             "weight" : "1",
-            "pos" : 180,
+            "pos" : 175,
             "context" : "Thank you for your <mark>humility<\/mark>, Lord Vivec. I shall neither strut nor preen in...",
             "fid" : "content" } ] },
       
@@ -49,7 +49,7 @@
         [ 
           { "form" : "Humility",
             "weight" : "1",
-            "pos" : 86,
+            "pos" : 81,
             "context" : "..., and Tiber Septim. We preach the Nine Virtues: <mark>Humility<\/mark>, Inspiration, Piety, Work, Compassion, Justice,...",
             "fid" : "content" } ] },
       
@@ -60,7 +60,7 @@
         [ 
           { "form" : "humility",
             "weight" : "1",
-            "pos" : 404,
+            "pos" : 399,
             "context" : "...we were running for the Gateway Inn. Now, with all <mark>humility<\/mark>, I would say that no one is faster on their...",
             "fid" : "content" } ] },
       
@@ -71,6 +71,6 @@
         [ 
           { "form" : "humility",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "...his Dunmer people, and through his long life, his <mark>humility<\/mark>, and his unconquerable spirit, he attained the Wisdom of...",
             "fid" : "content" } ] } ] }

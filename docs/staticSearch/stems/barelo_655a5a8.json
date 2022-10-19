@@ -2,16 +2,6 @@
   { "stem" : "barelo",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Barelo",
-            "weight" : "1",
-            "pos" : 1924,
-            "context" : "Gilvas <mark>Barelo<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "barelo",
             "weight" : "1",
-            "pos" : 2098,
+            "pos" : 2093,
             "context" : "gilvas <mark>barelo<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Barelo",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Gilvas <mark>Barelo<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

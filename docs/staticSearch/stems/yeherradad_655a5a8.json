@@ -2,16 +2,6 @@
   { "stem" : "yeherradad",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Yeherradad's",
-            "weight" : "1",
-            "pos" : 4751,
-            "context" : "<mark>Yeherradad's<\/mark>_Hut" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "yeherradad's",
             "weight" : "1",
-            "pos" : 4879,
+            "pos" : 4874,
             "context" : "<mark>yeherradad's<\/mark> hut",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Yeherradad's",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "<mark>Yeherradad's<\/mark> Hut: Visitable? yes",
             "fid" : "acq" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "gem",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "[Rithari sought and obtained a cursed soul <mark>gem<\/mark> of mysterious nature from a deep cavern on the northern slopes...",
             "fid" : "content" },
           
           { "form" : "gem",
             "weight" : "1",
-            "pos" : 137,
+            "pos" : 132,
             "context" : "\"I placed the <mark>gem<\/mark> within the basin before the altar, and instantly experienced a...",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "gem",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 120,
             "context" : "...shake vigorously. Strain through Winged Twilight membrane and served in <mark>gem<\/mark> encrusted goblet. ",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "gem",
-            "weight" : "1",
-            "pos" : 513,
-            "context" : "soul_<mark>gem<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "gem",
             "weight" : "1",
-            "pos" : 683,
+            "pos" : 678,
             "context" : "soul <mark>gem<\/mark>",
             "fid" : "items",
             "in" : 
@@ -60,7 +50,7 @@
         [ 
           { "form" : "gem",
             "weight" : "1",
-            "pos" : 643,
+            "pos" : 638,
             "context" : "...address the shrine, it is customary to leave a soul <mark>gem<\/mark> in remembrance of our ancestors who were bound to the Tribunal's...",
             "fid" : "content" } ] },
       
@@ -71,6 +61,6 @@
         [ 
           { "form" : "gems",
             "weight" : "1",
-            "pos" : 311,
+            "pos" : 306,
             "context" : "...Saint Roris the Martyr appeared before Baranat with flesh like sparkling <mark>gems<\/mark>, and smiled on him, \"Baranat, I will make you...",
             "fid" : "content" } ] } ] }

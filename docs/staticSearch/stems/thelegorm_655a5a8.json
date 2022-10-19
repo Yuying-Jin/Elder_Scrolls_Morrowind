@@ -2,16 +2,6 @@
   { "stem" : "thelegorm",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Thelegorm",
-            "weight" : "1",
-            "pos" : 7376,
-            "context" : "<mark>Thelegorm<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "thelegorm",
             "weight" : "1",
-            "pos" : 7493,
+            "pos" : 7488,
             "context" : "<mark>thelegorm<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Thelegorm",
             "weight" : "1",
-            "pos" : 351,
+            "pos" : 346,
             "context" : "\"Masters Harakostil and <mark>Thelegorm<\/mark> compressed themselves low enough to squirm under the gates so they...",
             "fid" : "content" } ] } ] }

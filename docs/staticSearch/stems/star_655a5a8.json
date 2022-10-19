@@ -9,30 +9,15 @@
         [ 
           { "form" : "stars",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "...and known would fold themselves around her until they were like <mark>stars<\/mark> or the messages of stars. Ayem took a netchiman's wife...",
             "fid" : "content" },
           
           { "form" : "stars",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "...around her until they were like stars or the messages of <mark>stars<\/mark>. Ayem took a netchiman's wife and said:",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "star",
-            "weight" : "1",
-            "pos" : 386,
-            "context" : "moon-and-<mark>star<\/mark>" },
-          
-          { "form" : "star",
-            "weight" : "1",
-            "pos" : 545,
-            "context" : "throwing <mark>star<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +26,7 @@
         [ 
           { "form" : "star",
             "weight" : "1",
-            "pos" : 550,
+            "pos" : 545,
             "context" : "moon and <mark>star<\/mark>",
             "fid" : "items",
             "in" : 
@@ -49,7 +34,7 @@
           
           { "form" : "star",
             "weight" : "1",
-            "pos" : 719,
+            "pos" : 714,
             "context" : "throwing <mark>star<\/mark>",
             "fid" : "items",
             "in" : 
@@ -62,7 +47,7 @@
         [ 
           { "form" : "star",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...want the marksman's weapons -- the bow, crossbow, throwing <mark>star<\/mark>, and dart. You want light armor, so you...",
             "fid" : "content" } ] },
       
@@ -73,7 +58,7 @@
         [ 
           { "form" : "Star",
             "weight" : "1",
-            "pos" : 161,
+            "pos" : 156,
             "context" : "...Dau into forsaking its appointed path through Oblivion. The Mad <mark>Star<\/mark> inspired the moon to hurl itself upon Vivec's new city,...",
             "fid" : "content" } ] },
       
@@ -84,6 +69,6 @@
         [ 
           { "form" : "Star",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "...wore it except Nerevar. The ring was called Moon-and-<mark>Star<\/mark>, and it helped Nerevar unite the various clans into the...",
             "fid" : "moon and star" } ] } ] }

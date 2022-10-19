@@ -9,13 +9,13 @@
         [ 
           { "form" : "read",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "...pilgrim must stand before the three-sided stone triolith and <mark>read<\/mark> the inscription. To ease the pilgrim's task, the Temple...",
             "fid" : "content" },
           
           { "form" : "read",
             "weight" : "1",
-            "pos" : 373,
+            "pos" : 368,
             "context" : "...with courtesy. After Krazzt accepts the sword, pilgrims must <mark>read<\/mark> the inscription on the triolith.",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "read",
             "weight" : "1",
-            "pos" : 24,
+            "pos" : 19,
             "context" : "...are so smeared with fishy stick sauce it is impossible to <mark>read<\/mark> any of them.",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "read",
             "weight" : "1",
-            "pos" : 184,
+            "pos" : 179,
             "context" : "...fish swimming at the edges of the island. He had <mark>read<\/mark> somewhere that fish not only were food, but there was...",
             "fid" : "content" } ] } ] }

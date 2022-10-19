@@ -2,21 +2,6 @@
   { "stem" : "rori",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Roris",
-            "weight" : "1",
-            "pos" : 7097,
-            "context" : "<mark>Roris<\/mark>" },
-          
-          { "form" : "Roris",
-            "weight" : "1",
-            "pos" : 7341,
-            "context" : "St.<mark>Roris<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "roris",
             "weight" : "1",
-            "pos" : 7229,
+            "pos" : 7224,
             "context" : "<mark>roris<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "roris",
             "weight" : "1",
-            "pos" : 7454,
+            "pos" : 7449,
             "context" : "st.<mark>roris<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -45,13 +30,13 @@
         [ 
           { "form" : "Roris",
             "weight" : "1",
-            "pos" : 237,
+            "pos" : 232,
             "context" : "St. <mark>Roris<\/mark> grants Roris' Bloom, for fortifying the body's health.",
             "fid" : "content" },
           
           { "form" : "Roris'",
             "weight" : "1",
-            "pos" : 239,
+            "pos" : 234,
             "context" : "St. Roris grants <mark>Roris'<\/mark> Bloom, for fortifying the body's health.",
             "fid" : "content" } ] },
       
@@ -62,6 +47,6 @@
         [ 
           { "form" : "Roris",
             "weight" : "1",
-            "pos" : 304,
+            "pos" : 299,
             "context" : "Saint <mark>Roris<\/mark> the Martyr appeared before Baranat with flesh like sparkling gems,...",
             "fid" : "content" } ] } ] }

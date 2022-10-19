@@ -9,13 +9,13 @@
         [ 
           { "form" : "Therana",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 80,
             "context" : "...The Grazelands, District of Vvardenfell, Province of Morrowind Mistress <mark>Therana<\/mark>, Mage Lord of Telvanni Council, Vvardenfell District, Tower...",
             "fid" : "content" },
           
           { "form" : "Therana",
             "weight" : "1",
-            "pos" : 126,
+            "pos" : 121,
             "context" : "...Arara Uvulas For Master Neloth: Mouth Raven Omayn For Mistress <mark>Therana<\/mark>: Felisa Ulessen For Mistress Dratha: Mouth Mallam Ryon Council...",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "Therana",
             "weight" : "1",
-            "pos" : 539,
+            "pos" : 534,
             "context" : "...is the tower and seat of the eccentric Telvanni wizard named <mark>Therana<\/mark>. The tower and its tiny village are located on a...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Therana's",
-            "weight" : "1",
-            "pos" : 3702,
-            "context" : "Tel Branora, <mark>Therana's<\/mark> Chamber" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "therana's",
             "weight" : "1",
-            "pos" : 3899,
+            "pos" : 3894,
             "context" : "tel branora, <mark>therana's<\/mark> chamber",
             "fid" : "loc",
             "in" : 
@@ -60,6 +50,6 @@
         [ 
           { "form" : "Therana's",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 47,
             "context" : "Tel Branora, <mark>Therana's<\/mark> Chamber: Visitable? yes",
             "fid" : "acq" } ] } ] }

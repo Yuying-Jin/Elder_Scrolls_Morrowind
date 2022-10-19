@@ -2,16 +2,6 @@
   { "stem" : "alik'r",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Alik'r",
-            "weight" : "1",
-            "pos" : 927,
-            "context" : "<mark>Alik'r<\/mark> Desert" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "alik'r",
             "weight" : "1",
-            "pos" : 1099,
+            "pos" : 1094,
             "context" : "<mark>alik'r<\/mark> desert",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Alik'r",
             "weight" : "1",
-            "pos" : 177,
+            "pos" : 172,
             "context" : "...Senyndie? Ah, Mighty Gothren, she hails from the <mark>Alik'r<\/mark> Desert of Hammerfell where she won renown for her skill at...",
             "fid" : "content" } ] } ] }

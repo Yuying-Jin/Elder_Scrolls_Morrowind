@@ -9,19 +9,19 @@
         [ 
           { "form" : "PRIDE",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 65,
             "context" : "<mark>PRIDE<\/mark>",
             "fid" : "content" },
           
           { "form" : "Pride",
             "weight" : "1",
-            "pos" : 144,
+            "pos" : 139,
             "context" : "The Grace of <mark>Pride<\/mark>",
             "fid" : "content" },
           
           { "form" : "pride",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "Thank you for your <mark>pride<\/mark>, Lord Vivec. I shall not doubt myself, or my...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "Pride",
             "weight" : "1",
-            "pos" : 573,
+            "pos" : 568,
             "context" : "The Ghostfence: The Shrine of <mark>Pride<\/mark>",
             "fid" : "content" },
           
           { "form" : "pride",
             "weight" : "1",
-            "pos" : 582,
+            "pos" : 577,
             "context" : "...will and power of ALMSIVI, and a monument to Dunmer <mark>pride<\/mark> in overcoming its enemies.",
             "fid" : "content" },
           
           { "form" : "Pride",
             "weight" : "1",
-            "pos" : 586,
+            "pos" : 581,
             "context" : "The Shrine of <mark>Pride<\/mark> is found within the Ghostfence, just northeast of the Ghostgate...",
             "fid" : "content" } ] },
       
@@ -55,7 +55,7 @@
         [ 
           { "form" : "pride",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 94,
             "context" : "“I do nothing,” said Darothil with some measure of <mark>pride<\/mark>. “But in my youth, I used to teach the...",
             "fid" : "content" } ] },
       
@@ -66,7 +66,7 @@
         [ 
           { "form" : "prideful",
             "weight" : "1",
-            "pos" : 59,
+            "pos" : 54,
             "context" : ".... And safeguard that the Congeries shall not be abused by <mark>prideful<\/mark> wizards, confident in their skill and blinded by their ambitions...",
             "fid" : "content" } ] },
       
@@ -77,6 +77,6 @@
         [ 
           { "form" : "pride",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "..., and there never was, but there used to be some <mark>pride<\/mark>, some skill, some basic creativity. It really makes...",
             "fid" : "content" } ] } ] }

@@ -2,16 +2,6 @@
   { "stem" : "mebestien",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Mebestien",
-            "weight" : "1",
-            "pos" : 2958,
-            "context" : "Pelagiad,_<mark>Mebestien<\/mark>_Ence:_Trader" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "mebestien",
             "weight" : "1",
-            "pos" : 3133,
+            "pos" : 3128,
             "context" : "pelagiad, <mark>mebestien<\/mark> ence: trader",
             "fid" : "loc",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Mebestien",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "Pelagiad, <mark>Mebestien<\/mark> Ence: Trader: Visitable? yes",
             "fid" : "acq" } ] } ] }

@@ -9,25 +9,25 @@
         [ 
           { "form" : "Test",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "\"The <mark>Test<\/mark> of Pattern requires the observer to examine and analyze for patterns...",
             "fid" : "content" },
           
           { "form" : "Test",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "\"The <mark>Test<\/mark> of Disorder requires the observer to proceed systematically when no pattern...",
             "fid" : "content" },
           
           { "form" : "Test",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "\"The <mark>Test<\/mark> of Evasion requires the observer to examine the obstacle, and...",
             "fid" : "content" },
           
           { "form" : "Test",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "\"The <mark>Test<\/mark> ofConfrontation requires the observer to examine the obstacle, and compare...",
             "fid" : "content" } ] },
       
@@ -38,13 +38,13 @@
         [ 
           { "form" : "test",
             "weight" : "1",
-            "pos" : 698,
+            "pos" : 693,
             "context" : "...familiar to Oin. \"I will have to invent a new <mark>test<\/mark> for suitors, while I search for my true love.\"...",
             "fid" : "content" },
           
           { "form" : "test",
             "weight" : "1",
-            "pos" : 718,
+            "pos" : 713,
             "context" : "...said the woman. \"I had to make some kind of <mark>test<\/mark> to rebuff the advances of so many men interested in my...",
             "fid" : "content" } ] },
       
@@ -55,7 +55,7 @@
         [ 
           { "form" : "testing",
             "weight" : "1",
-            "pos" : 273,
+            "pos" : 268,
             "context" : "...Vivec is the Puzzle Canal, a place of worship and <mark>testing<\/mark> for questing heroes hoping to receive Vivec's favor. Many choice...",
             "fid" : "content" } ] },
       
@@ -66,7 +66,7 @@
         [ 
           { "form" : "testing",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "...apotheosis was miraculously achieved through questing, virtue, knowledge, <mark>testing<\/mark>, and battling with Evil; Temple doctrine claims their divine...",
             "fid" : "content" } ] },
       
@@ -77,7 +77,7 @@
         [ 
           { "form" : "testing",
             "weight" : "1",
-            "pos" : 35,
+            "pos" : 30,
             "context" : "...apotheosis was miraculously achieved through questing, virtue, knowledge, <mark>testing<\/mark>, and battling with Evil; Temple doctrine claims their divine...",
             "fid" : "content" } ] },
       
@@ -88,6 +88,6 @@
         [ 
           { "form" : "tested",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "...mortal into an enlightened divine. Vivec sought out experiences that <mark>tested<\/mark> him in every way possible, particularly in the defense and...",
             "fid" : "content" } ] } ] }

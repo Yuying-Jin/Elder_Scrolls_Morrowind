@@ -9,19 +9,19 @@
         [ 
           { "form" : "study",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : "...the most respected noble and scholarly families are actually allowed to <mark>study<\/mark> the dead in the open. Their research, however,...",
             "fid" : "content" },
           
           { "form" : "study",
             "weight" : "1",
-            "pos" : 365,
+            "pos" : 360,
             "context" : "...the Imperial practice of donating the corpses of criminals for Necromantic <mark>study<\/mark> as a deterrent to the bandits and pirates that still threaten...",
             "fid" : "content" },
           
           { "form" : "study",
             "weight" : "1",
-            "pos" : 452,
+            "pos" : 447,
             "context" : "..., a more expedient approach is sometimes necessary to further the <mark>study<\/mark> of the Art.",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "study",
             "weight" : "1",
-            "pos" : 93,
+            "pos" : 88,
             "context" : "...staves and hammers, armored only in our faith. We <mark>study<\/mark> Restoration and Alchemy to heal the people, and Mysticism to...",
             "fid" : "content" },
           
           { "form" : "study",
             "weight" : "1",
-            "pos" : 103,
+            "pos" : 98,
             "context" : "...Mysticism to learn more of the divine. We must also <mark>study<\/mark> Conjuration to speak with the spirits of our ancestors and protect...",
             "fid" : "content" } ] },
       
@@ -49,13 +49,13 @@
         [ 
           { "form" : "studied",
             "weight" : "1",
-            "pos" : 310,
+            "pos" : 305,
             "context" : "...resolved the issue of true or false insights. They have <mark>studied<\/mark> the mysticism of the Ashlander Ancestor Cults, in particular the...",
             "fid" : "content" },
           
           { "form" : "study",
             "weight" : "1",
-            "pos" : 334,
+            "pos" : 329,
             "context" : "...the Nerevarine prophecies are genuine, and have made a systematic <mark>study<\/mark> of prophecies recorded in Temple archives.",
             "fid" : "content" } ] },
       
@@ -66,13 +66,13 @@
         [ 
           { "form" : "studied",
             "weight" : "1",
-            "pos" : 310,
+            "pos" : 305,
             "context" : "...resolved the issue of true or false insights. They have <mark>studied<\/mark> the mysticism of the Ashlander Ancestor Cults, in particular the...",
             "fid" : "content" },
           
           { "form" : "study",
             "weight" : "1",
-            "pos" : 334,
+            "pos" : 329,
             "context" : "...the Nerevarine prophecies are genuine, and have made a systematic <mark>study<\/mark> of prophecies recorded in Temple archives.",
             "fid" : "content" } ] },
       
@@ -83,25 +83,15 @@
         [ 
           { "form" : "study",
             "weight" : "1",
-            "pos" : 770,
+            "pos" : 765,
             "context" : "He slipped the gold into the vault in his <mark>study<\/mark>, and went upstairs. The schedule had been tight,...",
             "fid" : "content" },
           
           { "form" : "study",
             "weight" : "1",
-            "pos" : 840,
+            "pos" : 835,
             "context" : "...song returned, and Sathis heard the vault door in his <mark>study<\/mark> swing open. The smell of stoneflower filled his nose and...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Study",
-            "weight" : "1",
-            "pos" : 2384,
-            "context" : "Kagrenac's <mark>Study<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -110,7 +100,7 @@
         [ 
           { "form" : "study",
             "weight" : "1",
-            "pos" : 2553,
+            "pos" : 2548,
             "context" : "kagrenac's <mark>study<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -123,6 +113,6 @@
         [ 
           { "form" : "Study",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Kagrenac's <mark>Study<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

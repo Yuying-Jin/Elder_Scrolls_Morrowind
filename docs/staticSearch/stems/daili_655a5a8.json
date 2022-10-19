@@ -9,13 +9,13 @@
         [ 
           { "form" : "daily",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "..., speaks in person with priests and cultists, and whose <mark>daily<\/mark> actions are prescribed models for the daily actions of their followers...",
             "fid" : "content" },
           
           { "form" : "daily",
             "weight" : "1",
-            "pos" : 252,
+            "pos" : 247,
             "context" : "...cultists, and whose daily actions are prescribed models for the <mark>daily<\/mark> actions of their followers.",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "daily",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "...palace of Vivec are visited by hundreds of tourists and pilgrims <mark>daily<\/mark>. Citizens flock to the Arena for public entertainments like mock...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "daily",
             "weight" : "1",
-            "pos" : 262,
+            "pos" : 257,
             "context" : "...palace of Vivec are visited by hundreds of tourists and pilgrims <mark>daily<\/mark>. Citizens flock to the Arena for entertainments and war games...",
             "fid" : "content" } ] } ] }

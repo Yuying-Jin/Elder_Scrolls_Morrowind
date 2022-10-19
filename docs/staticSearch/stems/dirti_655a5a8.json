@@ -9,31 +9,21 @@
         [ 
           { "form" : "Dirty",
             "weight" : "1",
-            "pos" : 123,
+            "pos" : 118,
             "context" : "...at Wolverine Hall. Members of the Thieves Guild congregate at <mark>Dirty<\/mark> Muriel's Cornerclub. Telvanni Great House and Tribunal Temple services are...",
             "fid" : "content" },
           
           { "form" : "Dirty",
             "weight" : "1",
-            "pos" : 184,
+            "pos" : 179,
             "context" : "...others are scattered through town. There are two cornerclubs: <mark>Dirty<\/mark> Muriel's, for outlanders, and Fara's Hole in the Wall...",
             "fid" : "content" },
           
           { "form" : "Dirty",
             "weight" : "1",
-            "pos" : 242,
+            "pos" : 237,
             "context" : "...Helende, the Thieves Guild Boss, makes frequent appearances at <mark>Dirty<\/mark> Muriel's Cornerclub. Telvanni wizards and retainers visit the Council Hall...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Dirty",
-            "weight" : "1",
-            "pos" : 1554,
-            "context" : "<mark>Dirty<\/mark> Muriel's" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -42,7 +32,7 @@
         [ 
           { "form" : "dirty",
             "weight" : "1",
-            "pos" : 1723,
+            "pos" : 1718,
             "context" : "<mark>dirty<\/mark> muriel's",
             "fid" : "loc",
             "in" : 
@@ -55,6 +45,6 @@
         [ 
           { "form" : "dirty",
             "weight" : "1",
-            "pos" : 476,
+            "pos" : 471,
             "context" : "...tumblers fell beneath his fingers, he softly sang an old <mark>dirty<\/mark> tavern song about the Ninety-Nine Loves of Boethiah....",
             "fid" : "content" } ] } ] }

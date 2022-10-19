@@ -2,26 +2,6 @@
   { "stem" : "rethan",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "Rethan",
-            "weight" : "1",
-            "pos" : 3092,
-            "context" : "<mark>Rethan<\/mark> Manor" },
-          
-          { "form" : "Rethan",
-            "weight" : "1",
-            "pos" : 3100,
-            "context" : "<mark>Rethan<\/mark> Manor, Gols' House" },
-          
-          { "form" : "Rethan",
-            "weight" : "1",
-            "pos" : 3109,
-            "context" : "<mark>Rethan<\/mark>_Manor" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -29,7 +9,7 @@
         [ 
           { "form" : "rethan",
             "weight" : "1",
-            "pos" : 3263,
+            "pos" : 3258,
             "context" : "<mark>rethan<\/mark> manor",
             "fid" : "loc",
             "in" : 
@@ -37,7 +17,7 @@
           
           { "form" : "rethan",
             "weight" : "1",
-            "pos" : 3282,
+            "pos" : 3277,
             "context" : "<mark>rethan<\/mark> manor, gols' house",
             "fid" : "loc",
             "in" : 
@@ -50,7 +30,7 @@
         [ 
           { "form" : "Rethan",
             "weight" : "1",
-            "pos" : 44,
+            "pos" : 39,
             "context" : "<mark>Rethan<\/mark> Manor, Gols' House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -61,7 +41,7 @@
         [ 
           { "form" : "Rethan",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "<mark>Rethan<\/mark> Manor: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -72,7 +52,7 @@
         [ 
           { "form" : "Rethan",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "<mark>Rethan<\/mark> Manor: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -83,6 +63,6 @@
         [ 
           { "form" : "Rethan",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "<mark>Rethan<\/mark> Manor: Visitable? yes",
             "fid" : "acq" } ] } ] }

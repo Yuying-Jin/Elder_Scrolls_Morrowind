@@ -2,16 +2,6 @@
   { "stem" : "erer",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Erer",
-            "weight" : "1",
-            "pos" : 6462,
-            "context" : "<mark>Erer<\/mark> Darothil" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "erer",
             "weight" : "1",
-            "pos" : 6569,
+            "pos" : 6564,
             "context" : "<mark>erer<\/mark> darothil",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Erer",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "“My name would have no meaning to you, but I'm <mark>Erer<\/mark> Darothil,” he said, raising a glass of greef....",
             "fid" : "content" } ] } ] }

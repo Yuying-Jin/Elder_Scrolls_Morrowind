@@ -9,25 +9,15 @@
         [ 
           { "form" : "Pavflek",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "...the thick tall trama shrubs about the marriage of Sedura Indoril <mark>Pavflek<\/mark> Mamoona, one of the wealthiest and most respected nobles in...",
             "fid" : "content" },
           
           { "form" : "Pavflek",
             "weight" : "1",
-            "pos" : 203,
+            "pos" : 198,
             "context" : "Not long afterwards, Sedura Indoril <mark>Pavflek<\/mark> Mamoona fell ill and died, despite all the skills of...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Pavflek",
-            "weight" : "1",
-            "pos" : 7182,
-            "context" : "Sedura_Indoril_<mark>Pavflek<\/mark>_Mamoona" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "pavflek",
             "weight" : "1",
-            "pos" : 6961,
+            "pos" : 6956,
             "context" : "sedura indoril <mark>pavflek<\/mark> mamoona",
             "fid" : "persons",
             "in" : 

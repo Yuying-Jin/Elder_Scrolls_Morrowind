@@ -9,7 +9,7 @@
         [ 
           { "form" : "Odirniran",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 47,
             "context" : "<mark>Odirniran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -20,19 +20,9 @@
         [ 
           { "form" : "Odirniran",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "<mark>Odirniran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Odirniran",
-            "weight" : "1",
-            "pos" : 2853,
-            "context" : "<mark>Odirniran<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -41,7 +31,7 @@
         [ 
           { "form" : "odirniran",
             "weight" : "1",
-            "pos" : 3026,
+            "pos" : 3021,
             "context" : "<mark>odirniran<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -54,7 +44,7 @@
         [ 
           { "form" : "Odirniran",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "<mark>Odirniran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -65,7 +55,7 @@
         [ 
           { "form" : "Odirniran",
             "weight" : "1",
-            "pos" : 47,
+            "pos" : 42,
             "context" : "<mark>Odirniran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -76,6 +66,6 @@
         [ 
           { "form" : "Odirniran",
             "weight" : "1",
-            "pos" : 49,
+            "pos" : 44,
             "context" : "<mark>Odirniran<\/mark>: Visitable? yes",
             "fid" : "acq" } ] } ] }

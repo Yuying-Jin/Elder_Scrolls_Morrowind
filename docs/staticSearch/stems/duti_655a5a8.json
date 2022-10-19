@@ -9,13 +9,13 @@
         [ 
           { "form" : "Duties",
             "weight" : "1",
-            "pos" : 181,
+            "pos" : 176,
             "context" : "<mark>Duties<\/mark> of the Faithful",
             "fid" : "content" },
           
           { "form" : "duties",
             "weight" : "1",
-            "pos" : 184,
+            "pos" : 179,
             "context" : "Your fourfold <mark>duties<\/mark> are to: Faith, Family, Masters, and all that...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "duty",
             "weight" : "1",
-            "pos" : 147,
+            "pos" : 142,
             "context" : "...with holdings on Vvardenfell. The Redoran prize the virtues of <mark>duty<\/mark>, gravity, and piety. Duty is to one's own...",
             "fid" : "content" },
           
           { "form" : "Duty",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : "...prize the virtues of duty, gravity, and piety. <mark>Duty<\/mark> is to one's own honor, and to one's family and...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "duty",
             "weight" : "1",
-            "pos" : 129,
+            "pos" : 124,
             "context" : "...they come unbidden, from love of kin or faith to <mark>duty<\/mark>, it is not unholy. It is but the answering...",
             "fid" : "content" } ] },
       
@@ -54,7 +54,7 @@
         [ 
           { "form" : "duties",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "..., the collection of beasts for the arenas, and other <mark>duties<\/mark> defined by the Guild Stewards. ",
             "fid" : "content" } ] },
       
@@ -65,7 +65,7 @@
         [ 
           { "form" : "duty",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "...one bears responsibility for helping and protecting others. One's first <mark>duty<\/mark>, of course, is to one's fellow members of the...",
             "fid" : "content" } ] },
       
@@ -76,6 +76,6 @@
         [ 
           { "form" : "duties",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "..., for service in the Legion is the model for the <mark>duties<\/mark> of Imperial citizenship. Troopers are expected to demonstrate mastery of...",
             "fid" : "content" } ] } ] }

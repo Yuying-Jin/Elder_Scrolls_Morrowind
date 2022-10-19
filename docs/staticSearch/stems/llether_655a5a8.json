@@ -2,21 +2,6 @@
   { "stem" : "llether",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Llether",
-            "weight" : "1",
-            "pos" : 850,
-            "context" : "Ald'ruhn, <mark>Llether<\/mark> Vari: Enchanter" },
-          
-          { "form" : "Llether",
-            "weight" : "1",
-            "pos" : 7475,
-            "context" : "<mark>Llether<\/mark> Vari" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "llether",
             "weight" : "1",
-            "pos" : 1068,
+            "pos" : 1063,
             "context" : "ald'ruhn, <mark>llether<\/mark> vari: enchanter",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "llether",
             "weight" : "1",
-            "pos" : 7612,
+            "pos" : 7607,
             "context" : "<mark>llether<\/mark> vari",
             "fid" : "persons",
             "in" : 
@@ -45,6 +30,6 @@
         [ 
           { "form" : "Llether",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Ald'ruhn, <mark>Llether<\/mark> Vari: Enchanter: Visitable? yes",
             "fid" : "acq" } ] } ] }

@@ -9,12 +9,12 @@
         [ 
           { "form" : "Log",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "Starlover's <mark>Log<\/mark>" },
           
           { "form" : "Log",
             "weight" : "1",
-            "pos" : 2445,
+            "pos" : 2440,
             "context" : "Starlover's <mark>Log<\/mark>, count: 2",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Log",
             "weight" : "1",
-            "pos" : 2452,
+            "pos" : 2447,
             "context" : "Starlover's <mark>Log<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Log",
             "weight" : "1",
-            "pos" : 4842,
+            "pos" : 4837,
             "context" : "Starlover's <mark>Log<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "Log",
             "weight" : "1",
-            "pos" : 5082,
+            "pos" : 5077,
             "context" : "Starlover's <mark>Log<\/mark>, count: 1",
             "fid" : "group",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Log",
             "weight" : "1",
-            "pos" : 6542,
+            "pos" : 6537,
             "context" : "Starlover's <mark>Log<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Log",
             "weight" : "1",
-            "pos" : 7149,
+            "pos" : 7144,
             "context" : "Starlover's <mark>Log<\/mark>, count: 5",
             "fid" : "persons",
             "in" : 
@@ -62,51 +62,11 @@
           
           { "form" : "Log",
             "weight" : "1",
-            "pos" : 7477,
+            "pos" : 7472,
             "context" : "Starlover's <mark>Log<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 7,
-        "contexts" : 
-        [ 
-          { "form" : "Log",
-            "weight" : "1",
-            "pos" : 2279,
-            "context" : "Starlover's <mark>Log<\/mark>, count: 2" },
-          
-          { "form" : "Log",
-            "weight" : "1",
-            "pos" : 2286,
-            "context" : "Starlover's <mark>Log<\/mark>, count: 1" },
-          
-          { "form" : "Log",
-            "weight" : "1",
-            "pos" : 4712,
-            "context" : "Starlover's <mark>Log<\/mark>, count: 1" },
-          
-          { "form" : "Log",
-            "weight" : "1",
-            "pos" : 4947,
-            "context" : "Starlover's <mark>Log<\/mark>, count: 1" },
-          
-          { "form" : "Log",
-            "weight" : "1",
-            "pos" : 6437,
-            "context" : "Starlover's <mark>Log<\/mark>, count: 1" },
-          
-          { "form" : "Log",
-            "weight" : "1",
-            "pos" : 7024,
-            "context" : "Starlover's <mark>Log<\/mark>, count: 5" },
-          
-          { "form" : "Log",
-            "weight" : "1",
-            "pos" : 7364,
-            "context" : "Starlover's <mark>Log<\/mark>, count: 1" } ] },
       
       { "docId" : "librarium_starlovers_log",
         "docUri" : "librarium\/starlovers_log.html",
@@ -115,6 +75,6 @@
         [ 
           { "form" : "log",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "[[Scrawled hastily on a page from a <mark>log<\/mark> journal]]",
             "fid" : "content" } ] } ] }

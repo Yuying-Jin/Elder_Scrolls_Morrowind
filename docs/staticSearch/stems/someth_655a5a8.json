@@ -9,19 +9,19 @@
         [ 
           { "form" : "something",
             "weight" : "1",
-            "pos" : 109,
+            "pos" : 104,
             "context" : "...it insults the shop-keeper. If you are offered <mark>something<\/mark> for ten gold pieces, try offering six and see where...",
             "fid" : "content" },
           
           { "form" : "something",
             "weight" : "1",
-            "pos" : 214,
+            "pos" : 209,
             "context" : "...follow you around the shop, assuming you're going to steal <mark>something<\/mark>. Similarly, Nords, Bretons, and Cyrodiils are sometimes...",
             "fid" : "content" },
           
           { "form" : "something",
             "weight" : "1",
-            "pos" : 245,
+            "pos" : 240,
             "context" : " If you see <mark>something<\/mark> you really like or need, buy it then and there...",
             "fid" : "content" } ] },
       
@@ -32,6 +32,6 @@
         [ 
           { "form" : "something",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "...join the Guild. Make friends. Be a part of <mark>something<\/mark>.\"",
             "fid" : "content" } ] } ] }

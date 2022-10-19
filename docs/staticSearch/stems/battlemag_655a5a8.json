@@ -9,37 +9,27 @@
         [ 
           { "form" : "battlemage",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "...expression. “I'm challenged to rid The Grazelands of a rogue <mark>battlemage<\/mark> by the name of Egroamaro.”",
             "fid" : "content" },
           
           { "form" : "battlemage's",
             "weight" : "1",
-            "pos" : 210,
+            "pos" : 205,
             "context" : "...and he soon saw the blight and ruin that was the <mark>battlemage's<\/mark> calling card. Delving into the depths of the ruins,...",
             "fid" : "content" },
           
           { "form" : "battlemage",
             "weight" : "1",
-            "pos" : 264,
+            "pos" : 259,
             "context" : "...strolling across the length of the hall, before dispatching the <mark>battlemage<\/mark> with one stroke of his blade.",
             "fid" : "content" },
           
           { "form" : "battlemage",
             "weight" : "1",
-            "pos" : 296,
+            "pos" : 291,
             "context" : "...turn. I kept imagining you burned to ashes by that <mark>battlemage<\/mark>, and where would that leave me? Do we have enough...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Battlemages",
-            "weight" : "1",
-            "pos" : 4945,
-            "context" : "<mark>Battlemages<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -48,7 +38,7 @@
         [ 
           { "form" : "battlemages",
             "weight" : "1",
-            "pos" : 5080,
+            "pos" : 5075,
             "context" : "<mark>battlemages<\/mark>",
             "fid" : "group",
             "in" : 
@@ -61,6 +51,6 @@
         [ 
           { "form" : "Battlemages",
             "weight" : "1",
-            "pos" : 49,
+            "pos" : 44,
             "context" : "...8th moon ....... \"I have presented to the few remaining <mark>Battlemages<\/mark> my last hope plan. I will fight my way to...",
             "fid" : "Battlemages" } ] } ] }

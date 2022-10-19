@@ -2,16 +2,6 @@
   { "stem" : "samar",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Samar",
-            "weight" : "1",
-            "pos" : 7361,
-            "context" : "<mark>Samar<\/mark> Starlover" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "samar",
             "weight" : "1",
-            "pos" : 7474,
+            "pos" : 7469,
             "context" : "<mark>samar<\/mark> starlover",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Samar",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : ".... Hope for the living is lost. My name is <mark>Samar<\/mark> Starlover. Tell my sister I am dead, and if...",
             "fid" : "content" } ] } ] }

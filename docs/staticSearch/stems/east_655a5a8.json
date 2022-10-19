@@ -9,31 +9,31 @@
         [ 
           { "form" : "East",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "...on Vvardenfell, and one of the largest cities in the <mark>East<\/mark>. Each of the great cantons is the size of a...",
             "fid" : "content" },
           
           { "form" : "east",
             "weight" : "1",
-            "pos" : 109,
+            "pos" : 104,
             "context" : "...Hlaalu Compound to the west, the Telvanni Compound on the <mark>east<\/mark>, and four cantons grouped together at the center of the...",
             "fid" : "content" },
           
           { "form" : "east",
             "weight" : "1",
-            "pos" : 454,
+            "pos" : 449,
             "context" : "...Redoran compound on the west and the Telvanni compound on the <mark>east<\/mark>. The Arena is the site of public entertainments and combat...",
             "fid" : "content" },
           
           { "form" : "east",
             "weight" : "1",
-            "pos" : 543,
+            "pos" : 538,
             "context" : "...north bay region and the Foreign Quarter, and between the <mark>east<\/mark> bay region and Telvanni Compound. Good roads lead from the...",
             "fid" : "content" },
           
           { "form" : "east",
             "weight" : "1",
-            "pos" : 576,
+            "pos" : 571,
             "context" : "...Neen, north towards Suran and the Ascadian Isles, and <mark>east<\/mark> towards Molag Mar. Roads from the Telvanni Compound bridge are...",
             "fid" : "content" } ] },
       
@@ -44,19 +44,19 @@
         [ 
           { "form" : "east",
             "weight" : "1",
-            "pos" : 29,
+            "pos" : 24,
             "context" : "...province of the Tamrielic Empire, bounded on the north and <mark>east<\/mark> by the Sea of Ghosts, on the west by Skyrim...",
             "fid" : "content" },
           
           { "form" : "East",
             "weight" : "1",
-            "pos" : 234,
+            "pos" : 229,
             "context" : "...garrison. The officers, docks, and warehouses of the <mark>East<\/mark> Empire Company are also found in Ebonheart.",
             "fid" : "content" },
           
           { "form" : "East",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "...on Vvardenfell, and one of the largest cities in the <mark>East<\/mark>. Each of the great cantons is the size of a...",
             "fid" : "content" } ] },
       
@@ -67,13 +67,13 @@
         [ 
           { "form" : "east",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "..., while the Temple is located on high ground to the <mark>east<\/mark>, and surrounded by a residential section.",
             "fid" : "content" },
           
           { "form" : "east",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "...Manors of Ald'ruhn-Under-Skar. The Ald'ruhn Temple on the <mark>east<\/mark> side of town provides service for Temple worshipers. Buckmoth Fort...",
             "fid" : "content" } ] },
       
@@ -84,13 +84,13 @@
         [ 
           { "form" : "east",
             "weight" : "1",
-            "pos" : 422,
+            "pos" : 417,
             "context" : "..., Galsiah, and Imalyn approached the Cobblers Guildhouse on the <mark>east<\/mark> end of town. Galsiah used her cachous of stoneflower to...",
             "fid" : "content" },
           
           { "form" : "east",
             "weight" : "1",
-            "pos" : 571,
+            "pos" : 566,
             "context" : "...f'lah fortune-teller, and headed north. Imalyn headed <mark>east<\/mark> into the park, trusting his unnatural senses to keep him...",
             "fid" : "content" } ] },
       
@@ -101,7 +101,7 @@
         [ 
           { "form" : "East",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "...Telvanni Council, Vvardenfell District, Tower of Tel Aruhn, <mark>East<\/mark> Molag Amur, District of Vvardenfell, Province of Morrowind Master...",
             "fid" : "content" } ] },
       
@@ -112,19 +112,9 @@
         [ 
           { "form" : "east",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...a large orb supported by giant mushroom stalks. To the <mark>east<\/mark> of the Great Market is Tel Naga, the towering wizard...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "East",
-            "weight" : "1",
-            "pos" : 5047,
-            "context" : "<mark>East<\/mark> Empire Company" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -133,7 +123,7 @@
         [ 
           { "form" : "east",
             "weight" : "1",
-            "pos" : 5193,
+            "pos" : 5188,
             "context" : "<mark>east<\/mark> empire company",
             "fid" : "group",
             "in" : 
@@ -146,7 +136,7 @@
         [ 
           { "form" : "East",
             "weight" : "1",
-            "pos" : 146,
+            "pos" : 141,
             "context" : "...District, Lady of Maar Gan, of Morvayn Manor, <mark>East<\/mark> Ald'ruhn, District of Vvardenfell, Province of Morrowind",
             "fid" : "content" } ] },
       
@@ -157,7 +147,7 @@
         [ 
           { "form" : "east",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : "...is between two rocks, and most easily noticed while traveling <mark>east<\/mark> along the road. Alof's farm nearby has a small dock...",
             "fid" : "content" } ] },
       
@@ -168,7 +158,7 @@
         [ 
           { "form" : "East",
             "weight" : "1",
-            "pos" : 288,
+            "pos" : 283,
             "context" : "In the <mark>East<\/mark>, the Western tradition of vampire Hunters is unknown. Vampirism...",
             "fid" : "content" } ] },
       
@@ -179,6 +169,6 @@
         [ 
           { "form" : "East",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "...Free Trader, Lord of Omani Plantation, Elmas Island, <mark>East<\/mark> Vivec, District of Vvardenfell, Province of Morrowind",
             "fid" : "content" } ] } ] }

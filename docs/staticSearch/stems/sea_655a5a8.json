@@ -9,66 +9,51 @@
         [ 
           { "form" : "Sea",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "...Tamrielic Empire, bounded on the north and east by the <mark>Sea<\/mark> of Ghosts, on the west by Skyrim, on the...",
             "fid" : "content" },
           
           { "form" : "Sea",
             "weight" : "1",
-            "pos" : 65,
+            "pos" : 60,
             "context" : "...Mountain and cut off from mainland Morrowind by the surrounding Inner <mark>Sea<\/mark>.",
             "fid" : "content" },
           
           { "form" : "Sea",
             "weight" : "1",
-            "pos" : 372,
+            "pos" : 367,
             "context" : "...lower slopes of Red Mountain. The Ashlands extend to the <mark>Sea<\/mark> of Ghosts in the north, and elsewhere form a wide...",
             "fid" : "content" },
           
           { "form" : "sea",
             "weight" : "1",
-            "pos" : 517,
+            "pos" : 512,
             "context" : "...Sadrith Mora is an island settlement, and accessible only by <mark>sea<\/mark> and teleportation. The town is large, with many services...",
             "fid" : "content" },
           
           { "form" : "Sea",
             "weight" : "1",
-            "pos" : 750,
+            "pos" : 745,
             "context" : "...of Seyda Neen is a beacon to mariners throughout the Inner <mark>Sea<\/mark>. Most visitors from the Empire make landfall at the port...",
             "fid" : "content" },
           
           { "form" : "Sea",
             "weight" : "1",
-            "pos" : 773,
+            "pos" : 768,
             "context" : "...Coastguard cutters docked here control smuggling and piracy on the Inner <mark>Sea<\/mark>.",
             "fid" : "content" },
           
           { "form" : "Sea",
             "weight" : "1",
-            "pos" : 1066,
+            "pos" : 1061,
             "context" : "...are called the West Gash. The region extends from the <mark>Sea<\/mark> of Ghosts on the northwest coast to the inland town of...",
             "fid" : "content" },
           
           { "form" : "Sea",
             "weight" : "1",
-            "pos" : 1224,
+            "pos" : 1219,
             "context" : "...islands are a maritime wilderness extending north from Vvardenfell into the <mark>Sea<\/mark> of Ghosts. The region is largely hostile and uninhabited,...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Sea",
-            "weight" : "1",
-            "pos" : 2339,
-            "context" : "Inner <mark>Sea<\/mark>" },
-          
-          { "form" : "Sea",
-            "weight" : "1",
-            "pos" : 3402,
-            "context" : "<mark>Sea<\/mark> of Ghosts" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -77,7 +62,7 @@
         [ 
           { "form" : "sea",
             "weight" : "1",
-            "pos" : 2505,
+            "pos" : 2500,
             "context" : "inner <mark>sea<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -85,7 +70,7 @@
           
           { "form" : "sea",
             "weight" : "1",
-            "pos" : 3555,
+            "pos" : 3550,
             "context" : "<mark>sea<\/mark> of ghosts",
             "fid" : "loc",
             "in" : 
@@ -98,7 +83,7 @@
         [ 
           { "form" : "Sea",
             "weight" : "1",
-            "pos" : 462,
+            "pos" : 457,
             "context" : "...heartland of Morrowind, comprising the lands south of the Inner <mark>Sea<\/mark> and the eastern coast. The city of Almalexia is located...",
             "fid" : "content" } ] },
       
@@ -109,7 +94,7 @@
         [ 
           { "form" : "sea",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "...Sadrith Mora is an island settlement, and accessible only by <mark>sea<\/mark> and teleportation. The town is large, with many craftsmen...",
             "fid" : "content" } ] },
       
@@ -120,7 +105,7 @@
         [ 
           { "form" : "sea",
             "weight" : "1",
-            "pos" : 236,
+            "pos" : 231,
             "context" : "...in a desperate panic all the Guar scuttled off towards the <mark>sea<\/mark>, determined to drown themselves rather than live in such a...",
             "fid" : "content" } ] },
       
@@ -131,7 +116,7 @@
         [ 
           { "form" : "seas",
             "weight" : "1",
-            "pos" : 112,
+            "pos" : 107,
             "context" : "...Tell my sister I am dead, and if all the <mark>seas<\/mark> were ink, I could not write enough how I shall...",
             "fid" : "content" } ] },
       
@@ -142,6 +127,6 @@
         [ 
           { "form" : "sea",
             "weight" : "1",
-            "pos" : 524,
+            "pos" : 519,
             "context" : "...of Gnisis. The cave mouth faces south, towards the <mark>sea<\/mark>, and is marked by a large natural arch of stone...",
             "fid" : "content" } ] } ] }

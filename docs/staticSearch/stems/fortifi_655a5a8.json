@@ -9,31 +9,31 @@
         [ 
           { "form" : "fortify",
             "weight" : "1",
-            "pos" : 258,
+            "pos" : 253,
             "context" : "\"You can teach me a spell that will <mark>fortify<\/mark> my own strength,\" said Oin. \"I beg you to...",
             "fid" : "content" },
           
           { "form" : "fortify",
             "weight" : "1",
-            "pos" : 279,
+            "pos" : 274,
             "context" : "Oin agreed, and Yakin taught him the spell to <mark>fortify<\/mark> his strength. It took him some time to master it,...",
             "fid" : "content" },
           
           { "form" : "fortify",
             "weight" : "1",
-            "pos" : 391,
+            "pos" : 386,
             "context" : "\"You can teach me a spell that will <mark>fortify<\/mark> my own endurance,\" said Oin. \"I beg you to...",
             "fid" : "content" },
           
           { "form" : "fortify",
             "weight" : "1",
-            "pos" : 537,
+            "pos" : 532,
             "context" : "\"You can teach me a spell that will <mark>fortify<\/mark> my own agility,\" said Oin. \"I beg you to...",
             "fid" : "content" },
           
           { "form" : "fortify",
             "weight" : "1",
-            "pos" : 756,
+            "pos" : 751,
             "context" : "..., he returned to Kena Yakin Bael and learned how to <mark>fortify<\/mark> his personality in exchange for next season's worth of willow anther...",
             "fid" : "content" } ] },
       
@@ -44,19 +44,19 @@
         [ 
           { "form" : "fortifying",
             "weight" : "1",
-            "pos" : 179,
+            "pos" : 174,
             "context" : "St. Aralor grants Aralor's Intervention, for <mark>fortifying<\/mark> character.",
             "fid" : "content" },
           
           { "form" : "fortifying",
             "weight" : "1",
-            "pos" : 204,
+            "pos" : 199,
             "context" : "St. Llothis grants The Rock of Llothis, for <mark>fortifying<\/mark> the will.",
             "fid" : "content" },
           
           { "form" : "fortifying",
             "weight" : "1",
-            "pos" : 241,
+            "pos" : 236,
             "context" : "St. Roris grants Roris' Bloom, for <mark>fortifying<\/mark> the body's health.",
             "fid" : "content" } ] },
       
@@ -67,7 +67,7 @@
         [ 
           { "form" : "fortified",
             "weight" : "1",
-            "pos" : 920,
+            "pos" : 915,
             "context" : " The outpost at Molag Mar is a <mark>fortified<\/mark> stronghold on the southeastern edge of the desolate Molag Amur region...",
             "fid" : "content" } ] },
       
@@ -78,7 +78,7 @@
         [ 
           { "form" : "fortified",
             "weight" : "1",
-            "pos" : 216,
+            "pos" : 211,
             "context" : "...Lord of Morrowind, imposes favorable tariffs on flin [an imported <mark>fortified<\/mark> Imperial alcoholic beverage]. The council protests the continuing burdensome tariffs...",
             "fid" : "content" } ] },
       
@@ -89,6 +89,6 @@
         [ 
           { "form" : "fortify",
             "weight" : "1",
-            "pos" : 431,
+            "pos" : 426,
             "context" : "An adventurer can <mark>fortify<\/mark> his strength with a potion made from ash yams and dreugh...",
             "fid" : "content" } ] } ] }

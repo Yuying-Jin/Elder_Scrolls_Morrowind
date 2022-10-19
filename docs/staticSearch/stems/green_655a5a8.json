@@ -2,26 +2,6 @@
   { "stem" : "green",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 3,
-        "contexts" : 
-        [ 
-          { "form" : "green",
-            "weight" : "1",
-            "pos" : 266,
-            "context" : "<mark>green<\/mark> lichen" },
-          
-          { "form" : "green",
-            "weight" : "1",
-            "pos" : 273,
-            "context" : "<mark>green<\/mark> lichens" },
-          
-          { "form" : "green",
-            "weight" : "1",
-            "pos" : 280,
-            "context" : "<mark>green<\/mark>_lichen" } ] },
-      
       { "docId" : "librarium_The_Alchemists_Formulary",
         "docUri" : "librarium\/The_Alchemists_Formulary.html",
         "score" : 3,
@@ -29,19 +9,19 @@
         [ 
           { "form" : "green",
             "weight" : "1",
-            "pos" : 179,
+            "pos" : 174,
             "context" : "To cure common diseases, combine gravedust and <mark>green<\/mark> lichen. gravedust is spirit-affinitive dust taken from remains...",
             "fid" : "content" },
           
           { "form" : "green",
             "weight" : "1",
-            "pos" : 191,
+            "pos" : 186,
             "context" : "...-affinitive dust taken from remains buried in consecrated ground. <mark>green<\/mark> lichen is a hardy primitive plant that grows in the Ascadian...",
             "fid" : "content" },
           
           { "form" : "green",
             "weight" : "1",
-            "pos" : 345,
+            "pos" : 340,
             "context" : ".... luminous russula is a squat, mottled-brown-and-<mark>green<\/mark> toadstool mushroom of the Bitter Coast region. hackle-lo...",
             "fid" : "content" } ] },
       
@@ -52,7 +32,7 @@
         [ 
           { "form" : "green",
             "weight" : "1",
-            "pos" : 447,
+            "pos" : 442,
             "context" : "<mark>green<\/mark> lichen",
             "fid" : "items",
             "in" : 
@@ -60,7 +40,7 @@
           
           { "form" : "green",
             "weight" : "1",
-            "pos" : 454,
+            "pos" : 449,
             "context" : "<mark>green<\/mark> lichens",
             "fid" : "items",
             "in" : 
@@ -73,7 +53,7 @@
         [ 
           { "form" : "green",
             "weight" : "1",
-            "pos" : 154,
+            "pos" : 149,
             "context" : " The Ascadian Isles is a region of lush, <mark>green<\/mark>, well-watered southern lowlands where most of Vvardenfell's agriculture...",
             "fid" : "content" } ] },
       
@@ -84,7 +64,7 @@
         [ 
           { "form" : "Green",
             "weight" : "1",
-            "pos" : 73,
+            "pos" : 68,
             "context" : "...of Daedra 1 Part mixed Bittergreen Petals, Void Salts, <mark>Green<\/mark> Lichens and Bonemeal 1 Part Moonsugar 5 Parts Flin",
             "fid" : "content" } ] },
       
@@ -95,7 +75,7 @@
         [ 
           { "form" : "green",
             "weight" : "1",
-            "pos" : 36,
+            "pos" : 31,
             "context" : "What is <mark>green<\/mark> and hops and sizzles on lava?",
             "fid" : "content" } ] },
       
@@ -106,7 +86,7 @@
         [ 
           { "form" : "green",
             "weight" : "1",
-            "pos" : 286,
+            "pos" : 281,
             "context" : "...of Black Marsh. The fronds from this plant are light <mark>green<\/mark> and quite delicate. Picking a frond can be very difficult...",
             "fid" : "content" } ] },
       
@@ -117,7 +97,7 @@
         [ 
           { "form" : "green",
             "weight" : "1",
-            "pos" : 260,
+            "pos" : 255,
             "context" : "...the Innocent Quarry to personally mock and torment Chimere. The <mark>green<\/mark> crystal structure was created by enchantments, and is the only...",
             "fid" : "content" } ] },
       
@@ -128,6 +108,6 @@
         [ 
           { "form" : "Green",
             "weight" : "1",
-            "pos" : 49,
+            "pos" : 44,
             "context" : "<mark>Green<\/mark> and Gracious Land",
             "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "stronghold",
             "weight" : "1",
-            "pos" : 921,
+            "pos" : 916,
             "context" : " The outpost at Molag Mar is a fortified <mark>stronghold<\/mark> on the southeastern edge of the desolate Molag Amur region....",
             "fid" : "content" },
           
           { "form" : "stronghold",
             "weight" : "1",
-            "pos" : 948,
+            "pos" : 943,
             "context" : "...the garrison of Redoran and Buoyant Armiger crusaders stationed at the <mark>stronghold<\/mark>.",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "Strongholds",
             "weight" : "1",
-            "pos" : 286,
+            "pos" : 281,
             "context" : "...West, seeking refuge in profane Daedric shrines, abandoned Dunmer <mark>Strongholds<\/mark>, and corrupted subterranean labyrinths of the detested Dwemer race?...",
             "fid" : "content" } ] },
       
@@ -37,7 +37,7 @@
         [ 
           { "form" : "stronghold",
             "weight" : "1",
-            "pos" : 362,
+            "pos" : 357,
             "context" : "...they could lower the bridge into the main courtyard of the <mark>stronghold<\/mark>. Masters Tulkiande, Mearvis, Jereth, and I formed...",
             "fid" : "content" } ] },
       
@@ -48,7 +48,7 @@
         [ 
           { "form" : "stronghold",
             "weight" : "1",
-            "pos" : 202,
+            "pos" : 197,
             "context" : "...teacher and set off on his way. Indoranyon, Egroamaro's <mark>stronghold<\/mark>, was not far from Sadrith Mora, and he soon...",
             "fid" : "content" } ] },
       
@@ -59,7 +59,7 @@
         [ 
           { "form" : "stronghold",
             "weight" : "1",
-            "pos" : 515,
+            "pos" : 510,
             "context" : "...Cave, a cavern on the seacoast west of the ancient <mark>stronghold<\/mark> Berandas and south of Gnisis. The cave mouth faces south...",
             "fid" : "content" } ] },
       
@@ -70,7 +70,7 @@
         [ 
           { "form" : "stronghold",
             "weight" : "1",
-            "pos" : 98,
+            "pos" : 93,
             "context" : "The armies met at Red Mountain, a Dwemer <mark>stronghold<\/mark>. The Dwemer were defeated, with great slaughter, and...",
             "fid" : "content" } ] },
       
@@ -81,6 +81,6 @@
         [ 
           { "form" : "strongholds",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : "...the remote wastelands, or in the subterranean labyrinths of abandoned <mark>strongholds<\/mark> and wizard towers....",
             "fid" : "content" } ] } ] }

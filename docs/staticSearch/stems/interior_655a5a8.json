@@ -9,19 +9,9 @@
         [ 
           { "form" : "Interior",
             "weight" : "1",
-            "pos" : 9,
+            "pos" : 4,
             "context" : "Moonmoth Legion Fort <mark>Interior<\/mark>: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Interior",
-            "weight" : "1",
-            "pos" : 2666,
-            "context" : "Moonmoth Legion Fort <mark>Interior<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "interior",
             "weight" : "1",
-            "pos" : 2833,
+            "pos" : 2828,
             "context" : "moonmoth legion fort <mark>interior<\/mark>",
             "fid" : "loc",
             "in" : 

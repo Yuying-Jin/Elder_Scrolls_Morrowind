@@ -9,19 +9,9 @@
         [ 
           { "form" : "Telvayn",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "<mark>Telvayn<\/mark> Ancestral Tomb: Visitable? yes",
             "fid" : "acq" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Telvayn",
-            "weight" : "1",
-            "pos" : 4035,
-            "context" : "<mark>Telvayn<\/mark> Ancestral Tomb" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "telvayn",
             "weight" : "1",
-            "pos" : 4179,
+            "pos" : 4174,
             "context" : "<mark>telvayn<\/mark> ancestral tomb",
             "fid" : "loc",
             "in" : 

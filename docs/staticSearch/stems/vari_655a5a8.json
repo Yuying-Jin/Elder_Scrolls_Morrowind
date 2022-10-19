@@ -2,21 +2,6 @@
   { "stem" : "vari",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Vari",
-            "weight" : "1",
-            "pos" : 851,
-            "context" : "Ald'ruhn, Llether <mark>Vari<\/mark>: Enchanter" },
-          
-          { "form" : "Vari",
-            "weight" : "1",
-            "pos" : 7476,
-            "context" : "Llether <mark>Vari<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "vari",
             "weight" : "1",
-            "pos" : 1069,
+            "pos" : 1064,
             "context" : "ald'ruhn, llether <mark>vari<\/mark>: enchanter",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "vari",
             "weight" : "1",
-            "pos" : 7613,
+            "pos" : 7608,
             "context" : "llether <mark>vari<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "Vari",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "Ald'ruhn, Llether <mark>Vari<\/mark>: Enchanter: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -56,7 +41,7 @@
         [ 
           { "form" : "vary",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : "..., or long-dormant ones have been awakened. Vampires <mark>vary<\/mark> in their substance and power according to their age and accumulated...",
             "fid" : "content" } ] },
       
@@ -67,7 +52,7 @@
         [ 
           { "form" : "varying",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 127,
             "context" : "...writings reveal secrets, untruths, inconsistencies, conflicting accounts and <mark>varying<\/mark> interpretations which hint at darker and less heroic motives and actions...",
             "fid" : "content" } ] },
       
@@ -78,7 +63,7 @@
         [ 
           { "form" : "varying",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 127,
             "context" : "...writings reveal secrets, untruths, inconsistencies, conflicting accounts and <mark>varying<\/mark> interpretations which hint at darker and less heroic motives and actions...",
             "fid" : "content" } ] },
       
@@ -89,6 +74,6 @@
         [ 
           { "form" : "vary",
             "weight" : "1",
-            "pos" : 192,
+            "pos" : 187,
             "context" : "..., or long-dormant ones have been awakened. Vampires <mark>vary<\/mark> in their substance and power according to their age and accumulated...",
             "fid" : "content" } ] } ] }

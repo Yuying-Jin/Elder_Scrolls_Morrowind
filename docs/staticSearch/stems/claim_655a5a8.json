@@ -9,13 +9,13 @@
         [ 
           { "form" : "claims",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : "Temple doctrine <mark>claims<\/mark> their apotheosis was miraculously achieved through questing, virtue, knowledge...",
             "fid" : "content" },
           
           { "form" : "claims",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "...knowledge, testing, and battling with Evil; Temple doctrine <mark>claims<\/mark> their divine powers and immortality are ultimately conferred as a communal...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "claims",
             "weight" : "1",
-            "pos" : 28,
+            "pos" : 23,
             "context" : "Temple doctrine <mark>claims<\/mark> their apotheosis was miraculously achieved through questing, virtue, knowledge...",
             "fid" : "content" },
           
           { "form" : "claims",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "...knowledge, testing, and battling with Evil; Temple doctrine <mark>claims<\/mark> their divine powers and immortality are ultimately conferred as a communal...",
             "fid" : "content" } ] },
       
@@ -43,6 +43,6 @@
         [ 
           { "form" : "claimed",
             "weight" : "1",
-            "pos" : 170,
+            "pos" : 165,
             "context" : "...moon to hurl itself upon Vivec's new city, which Sheogorath <mark>claimed<\/mark> was built in mockery of the heavens. When Vivec learned...",
             "fid" : "content" } ] } ] }

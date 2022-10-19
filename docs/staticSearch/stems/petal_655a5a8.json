@@ -9,19 +9,9 @@
         [ 
           { "form" : "Petals",
             "weight" : "1",
-            "pos" : 70,
+            "pos" : 65,
             "context" : "...Traitors 1 Part Daedra's Heart of Daedra 1 Part mixed Bittergreen <mark>Petals<\/mark>, Void Salts, Green Lichens and Bonemeal 1 Part Moonsugar...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "petals",
-            "weight" : "1",
-            "pos" : 50,
-            "context" : "bittergreen_<mark>petals<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "petals",
             "weight" : "1",
-            "pos" : 232,
+            "pos" : 227,
             "context" : "bittergreen <mark>petals<\/mark>",
             "fid" : "items",
             "in" : 
@@ -43,7 +33,7 @@
         [ 
           { "form" : "petal",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 117,
             "context" : "...to the conditions of high heat and bright light. A <mark>petal<\/mark> from this plant placed under an adventurer's tongue will provide protection...",
             "fid" : "content" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "petals",
             "weight" : "1",
-            "pos" : 475,
+            "pos" : 470,
             "context" : "...potions, can be made only from crushed diamonds and bittergreen <mark>petals<\/mark>. Bittergreen is a red flowering plant growing in the Red...",
             "fid" : "content" } ] } ] }

@@ -9,13 +9,13 @@
         [ 
           { "form" : "try",
             "weight" : "1",
-            "pos" : 113,
+            "pos" : 108,
             "context" : ".... If you are offered something for ten gold pieces, <mark>try<\/mark> offering six and see where that takes you.",
             "fid" : "content" },
           
           { "form" : "try",
             "weight" : "1",
-            "pos" : 144,
+            "pos" : 139,
             "context" : "...the shop-keeper compliments your taste, smile, but <mark>try<\/mark> to resist the flattery.",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "trying",
             "weight" : "1",
-            "pos" : 119,
+            "pos" : 114,
             "context" : "...when at play he had pushed a bully away who was <mark>trying<\/mark> to hurt her, and the look of appreciation she gave him...",
             "fid" : "content" },
           
           { "form" : "trying",
             "weight" : "1",
-            "pos" : 235,
+            "pos" : 230,
             "context" : "...get a word in with all her counselors. They are <mark>trying<\/mark> to find her a new husband, and she has made...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "try",
             "weight" : "1",
-            "pos" : 447,
+            "pos" : 442,
             "context" : "...to train a good troupe, and it seemed smarter to <mark>try<\/mark> to save everyone. In any case, I lured the...",
             "fid" : "content" } ] },
       
@@ -54,7 +54,7 @@
         [ 
           { "form" : "tried",
             "weight" : "1",
-            "pos" : 253,
+            "pos" : 248,
             "context" : "...through a boulder which turned to dust on impact. Feryn <mark>tried<\/mark> to get to his feet, but Baranat tore him apart...",
             "fid" : "content" } ] },
       
@@ -65,6 +65,6 @@
         [ 
           { "form" : "trying",
             "weight" : "1",
-            "pos" : 118,
+            "pos" : 113,
             "context" : "...specifically what you'd like us to do?\" asked Galsiah calmly, <mark>trying<\/mark> to keep the tone of the group down. Most locals at...",
             "fid" : "content" } ] } ] }

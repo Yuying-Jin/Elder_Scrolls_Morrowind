@@ -9,31 +9,31 @@
         [ 
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "..., flesh, and fleshless. Spirit revenants like the ancestor <mark>ghost<\/mark>, wraith, and dwarven ghost, can only be harmed...",
             "fid" : "content" },
           
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "...Spirit revenants like the ancestor ghost, wraith, and dwarven <mark>ghost<\/mark>, can only be harmed by weapons that are enchanted or...",
             "fid" : "content" },
           
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "...enchanted or made of refined substances such as silver. Ancestor <mark>ghosts<\/mark>, the most common spirit revenant, are harmless, apart...",
             "fid" : "content" },
           
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "...curses they lay upon their victims. Wraiths are similar to <mark>ghosts<\/mark>, but they are capable of inflicting wounds to the careless...",
             "fid" : "content" },
           
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "...are capable of inflicting wounds to the careless explorer. Dwarven <mark>ghosts<\/mark> are more dangerous still, but they generally appear only in...",
             "fid" : "content" } ] },
       
@@ -44,31 +44,31 @@
         [ 
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 30,
+            "pos" : 25,
             "context" : "..., flesh, and fleshless. Spirit revenants like the ancestor <mark>ghost<\/mark>, wraith, and dwarven ghost, can only be harmed...",
             "fid" : "content" },
           
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "...Spirit revenants like the ancestor ghost, wraith, and dwarven <mark>ghost<\/mark>, can only be harmed by weapons that are enchanted or...",
             "fid" : "content" },
           
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 42,
+            "pos" : 37,
             "context" : "...enchanted or made of refined substances such as silver. Ancestor <mark>ghosts<\/mark>, the most common spirit revenant, are harmless, apart...",
             "fid" : "content" },
           
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "...curses they lay upon their victims. Wraiths are similar to <mark>ghosts<\/mark>, but they are capable of inflicting wounds to the careless...",
             "fid" : "content" },
           
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "...are capable of inflicting wounds to the careless explorer. Dwarven <mark>ghosts<\/mark> are more dangerous still, but they generally appear only in...",
             "fid" : "content" } ] },
       
@@ -79,52 +79,27 @@
         [ 
           { "form" : "Ghosts",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "..., bounded on the north and east by the Sea of <mark>Ghosts<\/mark>, on the west by Skyrim, on the southwest by...",
             "fid" : "content" },
           
           { "form" : "Ghosts",
             "weight" : "1",
-            "pos" : 373,
+            "pos" : 368,
             "context" : "...of Red Mountain. The Ashlands extend to the Sea of <mark>Ghosts<\/mark> in the north, and elsewhere form a wide margin between...",
             "fid" : "content" },
           
           { "form" : "Ghosts",
             "weight" : "1",
-            "pos" : 1067,
+            "pos" : 1062,
             "context" : "...the West Gash. The region extends from the Sea of <mark>Ghosts<\/mark> on the northwest coast to the inland town of Balmora,...",
             "fid" : "content" },
           
           { "form" : "Ghosts",
             "weight" : "1",
-            "pos" : 1225,
+            "pos" : 1220,
             "context" : "...a maritime wilderness extending north from Vvardenfell into the Sea of <mark>Ghosts<\/mark>. The region is largely hostile and uninhabited, with two...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 4,
-        "contexts" : 
-        [ 
-          { "form" : "Ghosts",
-            "weight" : "1",
-            "pos" : 3403,
-            "context" : "Sea of <mark>Ghosts<\/mark>" },
-          
-          { "form" : "Ghost",
-            "weight" : "1",
-            "pos" : 5320,
-            "context" : "Ancestor <mark>Ghost<\/mark>" },
-          
-          { "form" : "ghost",
-            "weight" : "1",
-            "pos" : 6028,
-            "context" : "ancestor <mark>ghost<\/mark>" },
-          
-          { "form" : "ghosts",
-            "weight" : "1",
-            "pos" : 6041,
-            "context" : "Ancestor <mark>ghosts<\/mark>" } ] },
       
       { "docId" : "librarium_the_book_of_dawn_n_dusk",
         "docUri" : "librarium\/the_book_of_dawn_n_dusk.html",
@@ -133,25 +108,25 @@
         [ 
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "Death does not diminish; the <mark>ghost<\/mark> gilds with glory.",
             "fid" : "content" },
           
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 190,
+            "pos" : 185,
             "context" : "Can <mark>ghosts<\/mark> or justice change with time?",
             "fid" : "content" },
           
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 225,
+            "pos" : 220,
             "context" : "Refuse neither brother nor <mark>ghost<\/mark>.",
             "fid" : "content" },
           
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 230,
+            "pos" : 225,
             "context" : "Blessed Almsivi, through birth, life, <mark>ghost<\/mark>.",
             "fid" : "content" } ] },
       
@@ -162,7 +137,7 @@
         [ 
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 3556,
+            "pos" : 3551,
             "context" : "sea of <mark>ghosts<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -170,7 +145,7 @@
           
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 5532,
+            "pos" : 5527,
             "context" : "ancestor <mark>ghost<\/mark>",
             "fid" : "group",
             "in" : 
@@ -178,7 +153,7 @@
           
           { "form" : "ghosts",
             "weight" : "1",
-            "pos" : 5550,
+            "pos" : 5545,
             "context" : "ancestor <mark>ghosts<\/mark>",
             "fid" : "group",
             "in" : 
@@ -191,7 +166,7 @@
         [ 
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 196,
+            "pos" : 191,
             "context" : "...ancestor's service given in love to Hearth and Kin. But <mark>ghost<\/mark> or guardian, bonewalker or bonelord, summoned by profane ritual...",
             "fid" : "content" } ] },
       
@@ -202,6 +177,6 @@
         [ 
           { "form" : "ghost",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "Death does not diminish; the <mark>ghost<\/mark> gilds with glory.",
             "fid" : "content" } ] } ] }

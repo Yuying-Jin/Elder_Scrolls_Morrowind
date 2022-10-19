@@ -2,36 +2,6 @@
   { "stem" : "dren",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 5,
-        "contexts" : 
-        [ 
-          { "form" : "Dren",
-            "weight" : "1",
-            "pos" : 1562,
-            "context" : "<mark>Dren<\/mark> Plantation" },
-          
-          { "form" : "Dren",
-            "weight" : "1",
-            "pos" : 1576,
-            "context" : "<mark>Dren<\/mark> Plantation, Dren's Villa" },
-          
-          { "form" : "Dren's",
-            "weight" : "1",
-            "pos" : 1578,
-            "context" : "Dren Plantation, <mark>Dren's<\/mark> Villa" },
-          
-          { "form" : "Dren",
-            "weight" : "1",
-            "pos" : 1586,
-            "context" : "<mark>Dren<\/mark>_Plantation,_Helvi's_Shack" },
-          
-          { "form" : "Dren",
-            "weight" : "1",
-            "pos" : 6524,
-            "context" : "Duke Vedam <mark>Dren<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 5,
@@ -39,7 +9,7 @@
         [ 
           { "form" : "dren",
             "weight" : "1",
-            "pos" : 1731,
+            "pos" : 1726,
             "context" : "<mark>dren<\/mark> plantation",
             "fid" : "loc",
             "in" : 
@@ -47,7 +17,7 @@
           
           { "form" : "dren",
             "weight" : "1",
-            "pos" : 1745,
+            "pos" : 1740,
             "context" : "<mark>dren<\/mark> plantation, dren's villa",
             "fid" : "loc",
             "in" : 
@@ -55,7 +25,7 @@
           
           { "form" : "dren's",
             "weight" : "1",
-            "pos" : 1747,
+            "pos" : 1742,
             "context" : "dren plantation, <mark>dren's<\/mark> villa",
             "fid" : "loc",
             "in" : 
@@ -63,7 +33,7 @@
           
           { "form" : "dren",
             "weight" : "1",
-            "pos" : 1755,
+            "pos" : 1750,
             "context" : "<mark>dren<\/mark> plantation, helvi's shack",
             "fid" : "loc",
             "in" : 
@@ -71,7 +41,7 @@
           
           { "form" : "dren",
             "weight" : "1",
-            "pos" : 6633,
+            "pos" : 6628,
             "context" : "duke vedam <mark>dren<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -84,13 +54,13 @@
         [ 
           { "form" : "Dren",
             "weight" : "1",
-            "pos" : 140,
+            "pos" : 135,
             "context" : "...Mallam Ryon Council Actions In response to repeated protests from Duke <mark>Dren<\/mark> and representative of the other Great Houses, Telvanni Council reminded...",
             "fid" : "content" },
           
           { "form" : "Dren",
             "weight" : "1",
-            "pos" : 186,
+            "pos" : 181,
             "context" : ".... The council renews its objection to proposals placed before Duke <mark>Dren<\/mark> and the Grand Council concerning slavery and slave trading in Vvardenfell...",
             "fid" : "content" } ] },
       
@@ -101,13 +71,13 @@
         [ 
           { "form" : "Dren",
             "weight" : "1",
-            "pos" : 12,
+            "pos" : 7,
             "context" : "<mark>Dren<\/mark> Plantation, Dren's Villa: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Dren's",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "Dren Plantation, <mark>Dren's<\/mark> Villa: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -118,7 +88,7 @@
         [ 
           { "form" : "Dren",
             "weight" : "1",
-            "pos" : 214,
+            "pos" : 209,
             "context" : "...maritime trade. Castle Ebonheart is the home of Duke Vedam <mark>Dren<\/mark>, the district's ruler and Emperor's representative. Also located at...",
             "fid" : "content" } ] },
       
@@ -129,7 +99,7 @@
         [ 
           { "form" : "Dren",
             "weight" : "1",
-            "pos" : 16,
+            "pos" : 11,
             "context" : "<mark>Dren<\/mark> Plantation: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -140,7 +110,7 @@
         [ 
           { "form" : "Dren",
             "weight" : "1",
-            "pos" : 20,
+            "pos" : 15,
             "context" : "<mark>Dren<\/mark> Plantation: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -151,6 +121,6 @@
         [ 
           { "form" : "Dren",
             "weight" : "1",
-            "pos" : 18,
+            "pos" : 13,
             "context" : "<mark>Dren<\/mark> Plantation, Helvi's Shack: Visitable? yes",
             "fid" : "acq" } ] } ] }

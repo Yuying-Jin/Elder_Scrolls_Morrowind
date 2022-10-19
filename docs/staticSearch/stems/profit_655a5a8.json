@@ -9,19 +9,19 @@
         [ 
           { "form" : "profited",
             "weight" : "1",
-            "pos" : 101,
+            "pos" : 96,
             "context" : "...tides of Imperial law and custom. And thus we have <mark>profited<\/mark> by the Empire's new policies, rising from obscurity as the...",
             "fid" : "content" },
           
           { "form" : "profit",
             "weight" : "1",
-            "pos" : 175,
+            "pos" : 170,
             "context" : "When you see a chance to turn a <mark>profit<\/mark>, take it. But do not follow money blindly. There...",
             "fid" : "content" },
           
           { "form" : "profit",
             "weight" : "1",
-            "pos" : 228,
+            "pos" : 223,
             "context" : "...able to trade with the best of merchants and make a <mark>profit<\/mark>. You must learn to protect your own property by securing...",
             "fid" : "content" } ] },
       
@@ -32,13 +32,13 @@
         [ 
           { "form" : "profits",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...it is that if we're rescued, we can divide the <mark>profits<\/mark> between two rather than between twelve.\"",
             "fid" : "content" },
           
           { "form" : "profitable",
             "weight" : "1",
-            "pos" : 435,
+            "pos" : 430,
             "context" : "...When you said that a fortune divided by two was more <mark>profitable<\/mark> than a fortune divided by twelve, S'Riizh listened to that...",
             "fid" : "content" } ] },
       
@@ -49,6 +49,6 @@
         [ 
           { "form" : "profitable",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "...of their power from their traffickings with Daedra, a very <mark>profitable<\/mark> but risky path to success. Chimere was perhaps the cleverest...",
             "fid" : "content" } ] } ] }

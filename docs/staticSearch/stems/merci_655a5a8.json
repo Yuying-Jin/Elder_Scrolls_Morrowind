@@ -9,13 +9,13 @@
         [ 
           { "form" : "Mercy",
             "weight" : "1",
-            "pos" : 124,
+            "pos" : 119,
             "context" : "Blessed Almsivi, <mark>Mercy<\/mark>, Mastery, Mystery.",
             "fid" : "content" },
           
           { "form" : "Mercy",
             "weight" : "1",
-            "pos" : 173,
+            "pos" : 168,
             "context" : "Three mouths sing <mark>Mercy<\/mark>, Mastery, Mystery.",
             "fid" : "content" } ] },
       
@@ -26,19 +26,9 @@
         [ 
           { "form" : "mercy",
             "weight" : "1",
-            "pos" : 52,
+            "pos" : 47,
             "context" : "...cried out to Sotha Sil: \"Please, please, have <mark>mercy<\/mark>, little boy, for what is sport to you is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "mercy",
-            "weight" : "1",
-            "pos" : 527,
-            "context" : "spear of bitter <mark>mercy<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -47,7 +37,7 @@
         [ 
           { "form" : "mercy",
             "weight" : "1",
-            "pos" : 697,
+            "pos" : 692,
             "context" : "spear of bitter <mark>mercy<\/mark>",
             "fid" : "items",
             "in" : 
@@ -60,7 +50,7 @@
         [ 
           { "form" : "Mercy",
             "weight" : "1",
-            "pos" : 15,
+            "pos" : 10,
             "context" : "Blessed ALMSIVI, <mark>Mercy<\/mark>, Mastery, Mystery",
             "fid" : "content" } ] },
       
@@ -71,7 +61,7 @@
         [ 
           { "form" : "Mercy",
             "weight" : "1",
-            "pos" : 277,
+            "pos" : 272,
             "context" : "Supposedly the Spear of Bitter <mark>Mercy<\/mark> used in the Wild Hunts could not be handled by any...",
             "fid" : "content" } ] },
       
@@ -82,6 +72,6 @@
         [ 
           { "form" : "Mercy",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "...triune ALMSIVI, three deities exemplifying Dunmeri virtues. Almalexia is <mark>Mercy<\/mark>, Vivec is Mastery, and Sotha Sil is Mystery....",
             "fid" : "content" } ] } ] }

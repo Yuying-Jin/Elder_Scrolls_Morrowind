@@ -9,19 +9,9 @@
         [ 
           { "form" : "milk",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "...and coral. They gifted the netchiman's wife with gills and <mark>milk<\/mark> fingers, changing her sex so that she might give birth...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Milk",
-            "weight" : "1",
-            "pos" : 2579,
-            "context" : "<mark>Milk<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "milk",
             "weight" : "1",
-            "pos" : 2748,
+            "pos" : 2743,
             "context" : "<mark>milk<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -43,6 +33,6 @@
         [ 
           { "form" : "milk",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...magical properties. When they are crushed and mixed with the <mark>milk<\/mark> of the agile footed mountain goat, a potion that allows...",
             "fid" : "content" } ] } ] }

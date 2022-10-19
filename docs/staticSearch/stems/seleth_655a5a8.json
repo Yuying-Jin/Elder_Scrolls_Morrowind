@@ -2,21 +2,6 @@
   { "stem" : "seleth",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Seleth's",
-            "weight" : "1",
-            "pos" : 3847,
-            "context" : "Tel Uvirith, <mark>Seleth's<\/mark> House" },
-          
-          { "form" : "Seleth's",
-            "weight" : "1",
-            "pos" : 3975,
-            "context" : "Tel_Uvirith,_<mark>Seleth's<\/mark>_House" } ] },
-      
       { "docId" : "librarium_Blasphemous_Revenants",
         "docUri" : "librarium\/Blasphemous_Revenants.html",
         "score" : 1,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "Seleth's",
             "weight" : "1",
-            "pos" : 78,
+            "pos" : 73,
             "context" : "<mark>Seleth's<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -35,7 +20,7 @@
         [ 
           { "form" : "seleth's",
             "weight" : "1",
-            "pos" : 4054,
+            "pos" : 4049,
             "context" : "tel uvirith, <mark>seleth's<\/mark> house",
             "fid" : "loc",
             "in" : 
@@ -48,7 +33,7 @@
         [ 
           { "form" : "Seleth's",
             "weight" : "1",
-            "pos" : 82,
+            "pos" : 77,
             "context" : "Tel Uvirith, <mark>Seleth's<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -59,6 +44,6 @@
         [ 
           { "form" : "Seleth's",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "Tel Uvirith, <mark>Seleth's<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] } ] }

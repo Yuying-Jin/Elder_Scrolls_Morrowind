@@ -9,37 +9,27 @@
         [ 
           { "form" : "S'Rabba",
             "weight" : "1",
-            "pos" : 232,
+            "pos" : 227,
             "context" : "...in our troupe, though it was our Khajiit tumbler Master <mark>S'Rabba<\/mark> who he was particularly suspicious of. In fact, the irony...",
             "fid" : "content" },
           
           { "form" : "S'Rabba",
             "weight" : "1",
-            "pos" : 238,
+            "pos" : 233,
             "context" : "...suspicious of. In fact, the irony is that he thought <mark>S'Rabba<\/mark> was a spy for you. Well, you know Khajiit....",
             "fid" : "content" },
           
           { "form" : "S'Rabba",
             "weight" : "1",
-            "pos" : 280,
+            "pos" : 275,
             "context" : "...sense of humor. He took some sarcastic comments from Master <mark>S'Rabba<\/mark> literally, and we all ended up being tortured for information...",
             "fid" : "content" },
           
           { "form" : "S'Rabba",
             "weight" : "1",
-            "pos" : 309,
+            "pos" : 304,
             "context" : "...Actually, not all of us were let go. Master <mark>S'Rabba<\/mark> had apparently died under torture. You have probably had experience...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "S'Rabba",
-            "weight" : "1",
-            "pos" : 7119,
-            "context" : "Master <mark>S'Rabba<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -48,7 +38,7 @@
         [ 
           { "form" : "s'rabba",
             "weight" : "1",
-            "pos" : 7244,
+            "pos" : 7239,
             "context" : "master <mark>s'rabba<\/mark>",
             "fid" : "persons",
             "in" : 

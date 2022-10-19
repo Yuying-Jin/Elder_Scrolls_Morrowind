@@ -9,7 +9,7 @@
         [ 
           { "form" : "Transportation",
             "weight" : "1",
-            "pos" : 295,
+            "pos" : 290,
             "context" : " Travel and <mark>Transportation<\/mark>",
             "fid" : "content" } ] },
       
@@ -20,7 +20,7 @@
         [ 
           { "form" : "Transportation",
             "weight" : "1",
-            "pos" : 289,
+            "pos" : 284,
             "context" : " <mark>Transportation<\/mark>",
             "fid" : "content" } ] },
       
@@ -31,7 +31,7 @@
         [ 
           { "form" : "Transportation",
             "weight" : "1",
-            "pos" : 529,
+            "pos" : 524,
             "context" : " <mark>Transportation<\/mark>",
             "fid" : "content" } ] },
       
@@ -42,6 +42,6 @@
         [ 
           { "form" : "transport",
             "weight" : "1",
-            "pos" : 1245,
+            "pos" : 1240,
             "context" : "...is reached by ship services; all other island-to-island <mark>transport<\/mark> must be provided by the traveler.",
             "fid" : "content" } ] } ] }

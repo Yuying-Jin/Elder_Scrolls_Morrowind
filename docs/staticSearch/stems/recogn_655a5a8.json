@@ -9,13 +9,13 @@
         [ 
           { "form" : "recognizing",
             "weight" : "1",
-            "pos" : 150,
+            "pos" : 145,
             "context" : " A lot of the game depends on <mark>recognizing<\/mark> the types of shop-keepers and not automatically assuming that...",
             "fid" : "content" },
           
           { "form" : "Recognize",
             "weight" : "1",
-            "pos" : 192,
+            "pos" : 187,
             "context" : "...and merchants before you even step foot in a shop. <mark>Recognize<\/mark> too the prejudices of the region. In Morrowind where I...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "recognized",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 120,
             "context" : "...land described by the native Ashlanders, so the designations are <mark>recognized<\/mark> by most local traders, travelers, and adventurers. These...",
             "fid" : "content" } ] },
       
@@ -37,6 +37,6 @@
         [ 
           { "form" : "recognizes",
             "weight" : "1",
-            "pos" : 34,
+            "pos" : 29,
             "context" : "...proceed systematically when no pattern is perceived. When the observer <mark>recognizes<\/mark> that many things must be done, and in no specific...",
             "fid" : "content" } ] } ] }

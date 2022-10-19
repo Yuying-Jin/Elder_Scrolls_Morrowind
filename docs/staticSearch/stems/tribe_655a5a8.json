@@ -9,31 +9,31 @@
         [ 
           { "form" : "tribes",
             "weight" : "1",
-            "pos" : 105,
+            "pos" : 100,
             "context" : "...and volcanic badlands, and thinly populated by the nomadic Ashlander <mark>tribes<\/mark>.",
             "fid" : "content" },
           
           { "form" : "tribe",
             "weight" : "1",
-            "pos" : 430,
+            "pos" : 425,
             "context" : " The Ashlanders Urshilaku <mark>tribe<\/mark> has a permanent settlement at Urshilaku camp in the Ashlands region...",
             "fid" : "content" },
           
           { "form" : "tribe",
             "weight" : "1",
-            "pos" : 673,
+            "pos" : 668,
             "context" : " The Ashlander Ahemmusa <mark>tribe<\/mark> has a permanent settlement at Ahemmusa camp on a rocky promontory...",
             "fid" : "content" },
           
           { "form" : "tribe",
             "weight" : "1",
-            "pos" : 857,
+            "pos" : 852,
             "context" : " The Ashlander Zainab <mark>tribe<\/mark> has a permanent settlement at Zainab camp, near the village...",
             "fid" : "content" },
           
           { "form" : "tribe",
             "weight" : "1",
-            "pos" : 951,
+            "pos" : 946,
             "context" : " The Ashlander Erabenimsun <mark>tribe<\/mark> has a permanent settlement at Erabenimsun camp, an isolated hut...",
             "fid" : "content" } ] },
       
@@ -44,7 +44,7 @@
         [ 
           { "form" : "Tribes",
             "weight" : "1",
-            "pos" : 149,
+            "pos" : 144,
             "context" : "...then such a summons is blasphemy, an abomination before the <mark>Tribes<\/mark> and Temple, and a sin so great that ages of...",
             "fid" : "Ashlander" } ] },
       
@@ -55,7 +55,7 @@
         [ 
           { "form" : "tribes",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : "...way that requires very little preparation. Khajiit of the desert <mark>tribes<\/mark> are often buried with only a small cairn of stones which...",
             "fid" : "content" } ] },
       
@@ -66,19 +66,9 @@
         [ 
           { "form" : "tribes",
             "weight" : "1",
-            "pos" : 55,
+            "pos" : 50,
             "context" : "The Great Houses traditions derive from ancient Dunmer clan and <mark>tribes<\/mark>, but now function as political parties. Dunmer Great House...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "tribes",
-            "weight" : "1",
-            "pos" : 6085,
-            "context" : "nomad_<mark>tribes<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -87,7 +77,7 @@
         [ 
           { "form" : "tribes",
             "weight" : "1",
-            "pos" : 6177,
+            "pos" : 6172,
             "context" : "nomad <mark>tribes<\/mark>",
             "fid" : "group",
             "in" : 
@@ -100,6 +90,6 @@
         [ 
           { "form" : "tribes",
             "weight" : "1",
-            "pos" : 85,
+            "pos" : 80,
             "context" : "...northwest Morrowind, while Nerevar mustered the other Houses and nomad <mark>tribes<\/mark> and marched to meet the Dwemer-Dagoth-Westerner forces...",
             "fid" : "content" } ] } ] }

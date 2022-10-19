@@ -9,7 +9,7 @@
         [ 
           { "form" : "prescribe",
             "weight" : "1",
-            "pos" : 200,
+            "pos" : 195,
             "context" : "...his boasting, then asked him, \"How can you pretend to <mark>prescribe<\/mark> for others the cure to all diseases, when you are...",
             "fid" : "content" } ] },
       
@@ -20,6 +20,6 @@
         [ 
           { "form" : "prescribed",
             "weight" : "1",
-            "pos" : 250,
+            "pos" : 245,
             "context" : "...person with priests and cultists, and whose daily actions are <mark>prescribed<\/mark> models for the daily actions of their followers.",
             "fid" : "content" } ] } ] }

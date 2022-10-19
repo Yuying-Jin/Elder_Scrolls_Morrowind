@@ -9,12 +9,12 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "Great Houses of <mark>Morrowind<\/mark>" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 1109,
+            "pos" : 1104,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -22,7 +22,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 2148,
+            "pos" : 2143,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 1",
             "fid" : "loc",
             "in" : 
@@ -30,7 +30,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 2500,
+            "pos" : 2495,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 2",
             "fid" : "loc",
             "in" : 
@@ -38,7 +38,7 @@
           
           { "form" : "morrowind",
             "weight" : "1",
-            "pos" : 2839,
+            "pos" : 2834,
             "context" : "<mark>morrowind<\/mark>",
             "fid" : "loc",
             "in" : 
@@ -46,7 +46,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 2853,
+            "pos" : 2848,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 4",
             "fid" : "loc",
             "in" : 
@@ -54,7 +54,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 4771,
+            "pos" : 4766,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 7",
             "fid" : "loc",
             "in" : 
@@ -62,7 +62,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 5343,
+            "pos" : 5338,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 5",
             "fid" : "group",
             "in" : 
@@ -70,7 +70,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 5374,
+            "pos" : 5369,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 7",
             "fid" : "group",
             "in" : 
@@ -78,7 +78,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 5648,
+            "pos" : 5643,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 10",
             "fid" : "group",
             "in" : 
@@ -86,7 +86,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 5679,
+            "pos" : 5674,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 9",
             "fid" : "group",
             "in" : 
@@ -94,7 +94,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 5720,
+            "pos" : 5715,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 4",
             "fid" : "group",
             "in" : 
@@ -102,7 +102,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 5967,
+            "pos" : 5962,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 7",
             "fid" : "group",
             "in" : 
@@ -110,7 +110,7 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 6043,
+            "pos" : 6038,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 7",
             "fid" : "group",
             "in" : 
@@ -118,86 +118,11 @@
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 6579,
+            "pos" : 6574,
             "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 1",
             "fid" : "persons",
             "in" : 
             [ "ssCtx5" ] } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 14,
-        "contexts" : 
-        [ 
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 937,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 1" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 1987,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 1" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 2334,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 2" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 2670,
-            "context" : "<mark>Morrowind<\/mark>" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 2684,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 4" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 4643,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 7" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 5151,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 5" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 5177,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 7" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 5423,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 10" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 5436,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 9" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 5477,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 4" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 5720,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 7" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 5765,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 7" },
-          
-          { "form" : "Morrowind",
-            "weight" : "1",
-            "pos" : 6472,
-            "context" : "Great Houses of <mark>Morrowind<\/mark>, count: 1" } ] },
       
       { "docId" : "librarium_Red_Book_of_3E_426",
         "docUri" : "librarium\/Red_Book_of_3E_426.html",
@@ -206,49 +131,49 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...Manor District, Ald'ruhn, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 104,
+            "pos" : 99,
             "context" : "...Manor District, Ald'ruhn, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "...Manor District, Ald'ruhn, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 151,
+            "pos" : 146,
             "context" : "...Manor, East Ald'ruhn, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 175,
+            "pos" : 170,
             "context" : "...Manor District, Ald'ruhn, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 199,
+            "pos" : 194,
             "context" : "...Manor District, Ald'ruhn, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 210,
+            "pos" : 205,
             "context" : "King Hlaalu Athyn Llethan, High Councilor and Lord of <mark>Morrowind<\/mark>, imposes favorable tariffs on flin [an imported fortified Imperial alcoholic...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 281,
+            "pos" : 276,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -259,49 +184,49 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 244,
+            "pos" : 239,
             "context" : "...it clear that she will only marry the strongest man in <mark>Morrowind<\/mark>.\"",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 345,
+            "pos" : 340,
             "context" : "The word went out quickly throughout <mark>Morrowind<\/mark>: the most intelligent man alive was in the province....",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 374,
+            "pos" : 369,
             "context" : "...man of endurance, a rock. The greatest in all <mark>Morrowind<\/mark>.\"",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 484,
+            "pos" : 479,
             "context" : "The word went out quickly throughout <mark>Morrowind<\/mark>: the toughest man alive was in the province. Oin...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 519,
+            "pos" : 514,
             "context" : "...of agility, a nimble acrobat. The greatest in all <mark>Morrowind<\/mark>.\"",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 534,
+            "pos" : 529,
             "context" : "...say he is the greatest shield-blocker and pickpocket in <mark>Morrowind<\/mark>.\"",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 650,
+            "pos" : 645,
             "context" : "The word went out quickly throughout <mark>Morrowind<\/mark>: the most agile man alive was in the province....",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 775,
+            "pos" : 770,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -312,43 +237,43 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 69,
+            "pos" : 64,
             "context" : "...Island, East Vivec, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...Fixed Residence, Vivec, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 112,
+            "pos" : 107,
             "context" : "...Hlaalu Compound, Vivec, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 137,
+            "pos" : 132,
             "context" : ".... Olms, Vivec, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 161,
+            "pos" : 156,
             "context" : "...Isles, Bal Ur, District of Vvardenfell, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 172,
+            "pos" : 167,
             "context" : "King Hlaalu Athyn Llethan, High Councilor and Lord of <mark>Morrowind<\/mark>, grants relief to merchants complaining of high tariffs on imported...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 248,
+            "pos" : 243,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -359,37 +284,37 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...The violent antipathy of <mark>Morrowind<\/mark> culture toward necromancy ensures that vampires are virtually unknown in...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 99,
+            "pos" : 94,
             "context" : "...culture toward necromancy ensures that vampires are virtually unknown in <mark>Morrowind<\/mark>...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 113,
+            "pos" : 108,
             "context" : "..., interviews with Temple officials persuade me that the Dunmer of <mark>Morrowind<\/mark> are experienced and knowledgeable in the handling of these menaces....",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 365,
+            "pos" : 360,
             "context" : ".... This account of the origin of vampirism is peculiar to <mark>Morrowind<\/mark>, appearing nowhere else in Imperial lore. Unfortunately, scholarly...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 385,
+            "pos" : 380,
             "context" : "...to the only substantial collection of historical and cultural records in <mark>Morrowind<\/mark>....",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 440,
+            "pos" : 435,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -400,31 +325,31 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "..., East Molag Amur, District of Vvardenfell, Province of <mark>Morrowind<\/mark> Master Aryon, Mage Lord of Telvanni Council, Vvardenfell District...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "...Vos, The Grazelands, District of Vvardenfell, Province of <mark>Morrowind<\/mark> Master Neloth, Mage Lord of Telvanni Council, Vvardenfell District...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 67,
+            "pos" : 62,
             "context" : "...Naga, Sadrith Mora, District of Vvardenfell, Province of <mark>Morrowind<\/mark> Mistress Dratha, Mage Lord of Telvanni Council, Vvardenfell District...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 83,
+            "pos" : 78,
             "context" : "...Mora, The Grazelands, District of Vvardenfell, Province of <mark>Morrowind<\/mark> Mistress Therana, Mage Lord of Telvanni Council, Vvardenfell District...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 100,
+            "pos" : 95,
             "context" : "...Branora, Azura's Coast, District of Vvardenfell, Province of <mark>Morrowind<\/mark> Councilor Representatives of House Telvanni, Council Hall, Sadrith Mora...",
             "fid" : "content" } ] },
       
@@ -435,31 +360,31 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 8,
+            "pos" : 3,
             "context" : "In modern times <mark>Morrowind<\/mark> is ruled by five Great Houses: House Hlaalu, House...",
             "fid" : "Morrowind" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 247,
+            "pos" : 242,
             "context" : "...politically and economically dominant among the Great Houses of Vvardenfell and <mark>Morrowind<\/mark>. Hlaalu welcomes Imperial culture and law, Imperial Legions and...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 457,
+            "pos" : 452,
             "context" : "...or interest in Vvardenfell. Indoril District occupies the heartland of <mark>Morrowind<\/mark>, comprising the lands south of the Inner Sea and the...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 496,
+            "pos" : 491,
             "context" : "...of Imperial law. Dres District is in the south of <mark>Morrowind<\/mark>, bordering the swamps and marshes of Black Marsh. House...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 540,
+            "pos" : 535,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -470,31 +395,31 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : " <mark>Morrowind<\/mark> is the northeastmost province of the Tamrielic Empire, bounded on...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "...by the giant volcano Red Mountain and cut off from mainland <mark>Morrowind<\/mark> by the surrounding Inner Sea.",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 358,
+            "pos" : 353,
             "context" : "...looks more like a village in the western Empire than a <mark>Morrowind<\/mark> settlement.",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 1040,
+            "pos" : 1035,
             "context" : "...Ur might emerge from Red Mountain to threaten the rest of <mark>Morrowind<\/mark>. The Ghostfence itself is a colossal magical artifact that completely...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 1257,
+            "pos" : 1252,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -505,25 +430,25 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 19,
+            "pos" : 14,
             "context" : "...the Arts of Necromancy are only illegal in the province of <mark>Morrowind<\/mark>, few citizens of the Empire have an enlightened view of...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "In <mark>Morrowind<\/mark>, the outlawing of Necromancy would make its practice impossible were...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "...their ashpits, a careful and discrete Necromancer can thrive in <mark>Morrowind<\/mark> by taking slaves at a modest rate. Most will assume...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 514,
+            "pos" : 509,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -534,25 +459,25 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 54,
+            "pos" : 49,
             "context" : "...of the Tribunal Temple. The Temple is the religion of <mark>Morrowind<\/mark> and Dunmer people, and has been for generation upon generation...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : "..., the Temple guards and protects the lands and peoples of <mark>Morrowind<\/mark>.",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 141,
+            "pos" : 136,
             "context" : "...Almalexia, Vivec, and Sotha Sil were mortal guardians of <mark>Morrowind<\/mark> who walked the earth, defeated the Dunmer's greatest enemies,...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 281,
+            "pos" : 276,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -563,25 +488,25 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 90,
+            "pos" : 85,
             "context" : "...often called in the West, are known as 'bonewalkers' in <mark>Morrowind<\/mark>. Magic preserves the bonewalker's fleshy remains along with the bones...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 177,
+            "pos" : 172,
             "context" : "Vampires were believed to be extinct in <mark>Morrowind<\/mark> for centuries. Dunmer culture has a special hatred for vampires...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 198,
+            "pos" : 193,
             "context" : "...years, however, vampires have either begun to sneak into <mark>Morrowind<\/mark>, or long-dormant ones have been awakened. Vampires...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 255,
+            "pos" : 250,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -592,25 +517,25 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 89,
+            "pos" : 84,
             "context" : "...writing from the Vos Tradehouse in Vvardenfell District, Province of <mark>Morrowind<\/mark>]",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 213,
+            "pos" : 208,
             "context" : "The Tribunal Temple in <mark>Morrowind<\/mark>, and its predecessor, house ancestor cults, are, by...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 259,
+            "pos" : 254,
             "context" : "The differences in religious temperament between Heartlanders and <mark>Morrowind<\/mark> Dunmer accounts in large part for consistent political and social misunderstanding...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 324,
+            "pos" : 319,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -621,25 +546,25 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 77,
+            "pos" : 72,
             "context" : "...often called in the West, are known as 'bonewalkers' in <mark>Morrowind<\/mark>. Magic preserves the bonewalker's fleshy remains along with the bones...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 164,
+            "pos" : 159,
             "context" : "Vampires were believed to be extinct in <mark>Morrowind<\/mark> for centuries. Dunmer culture has a special hatred for vampires...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 185,
+            "pos" : 180,
             "context" : "...years, however, vampires have either begun to sneak into <mark>Morrowind<\/mark>, or long-dormant ones have been awakened. Vampires...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 242,
+            "pos" : 237,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -650,25 +575,25 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : "...best in the Ascadian Isles. Most saltrice comes from southeastern <mark>Morrowind<\/mark>, but there are also some new and prospering farms and...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "...mud crab, commonly found along all coasts. bread in <mark>Morrowind<\/mark> is usually baked from saltrice flour. Kwama eggs are harvested...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 157,
+            "pos" : 152,
             "context" : "...eggs are harvested from egg mines, and sold everywhere in <mark>Morrowind<\/mark>; the smaller eggs retain properties lost in later states of...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 501,
+            "pos" : 496,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -679,19 +604,19 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 80,
+            "pos" : 75,
             "context" : "...invited Orc and Nord clans as allies, and held northwest <mark>Morrowind<\/mark>, while Nerevar mustered the other Houses and nomad tribes and...",
             "fid" : "content" },
           
           { "form" : "Morrowind's",
             "weight" : "1",
-            "pos" : 122,
+            "pos" : 117,
             "context" : "..., and his ring lost, but Nerevar's alliance survives in <mark>Morrowind's<\/mark> ruling political institution, the Grand Council.",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 136,
+            "pos" : 131,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -702,19 +627,19 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "<mark>Morrowind<\/mark> is holy country, and its gods are flesh and blood...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "...Temple literature and liturgy as one of the divine kings of <mark>Morrowind<\/mark>. He guards the sacred Velothi subcontinent of Vvardenfell, and...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 384,
+            "pos" : 379,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -725,13 +650,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 195,
+            "pos" : 190,
             "context" : "...shop. Recognize too the prejudices of the region. In <mark>Morrowind<\/mark> where I hail from, for example, Argonians are viewed with...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 311,
+            "pos" : 306,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -742,13 +667,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 41,
+            "pos" : 36,
             "context" : "...stripping the flesh from a corpse. The ravenous mudcrabs of <mark>Morrowind<\/mark> can strip a corpse down to its bones in a matter...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 224,
+            "pos" : 219,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -759,13 +684,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 167,
+            "pos" : 162,
             "context" : "Fighters Guild Chapters in Vvardenfell District, Province of <mark>Morrowind<\/mark>",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 209,
+            "pos" : 204,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -776,13 +701,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 200,
+            "pos" : 195,
             "context" : "..., healers, and monks. Pilgrims travel from all over <mark>Morrowind<\/mark> to view the High Fane and the Ministry of Truth,...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 650,
+            "pos" : 645,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -793,13 +718,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 64,
+            "pos" : 59,
             "context" : "...we wake from our long dream, coming forth to free <mark>Morrowind<\/mark> of foreign rulers and divine pretenders. When the land is...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -810,13 +735,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : "...against invasions or internal disorders, but in Vvardenfell District of <mark>Morrowind<\/mark>, the local forts help to insure law and order,...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 212,
+            "pos" : 207,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -827,13 +752,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 172,
+            "pos" : 167,
             "context" : "...Mountain, misleading the people about the Tribunal's ability to protect <mark>Morrowind<\/mark> from Dagoth Ur, and concealing a recent dramatic diminishing of...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 442,
+            "pos" : 437,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -844,13 +769,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 172,
+            "pos" : 167,
             "context" : "...Mountain, misleading the people about the Tribunal's ability to protect <mark>Morrowind<\/mark> from Dagoth Ur, and concealing a recent dramatic diminishing of...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 442,
+            "pos" : 437,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -861,13 +786,13 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 107,
+            "pos" : 102,
             "context" : "Fire Fern, a perennial herb, native to <mark>Morrowind<\/mark>. The flowers are inconspicuous and often hidden. The glossy...",
             "fid" : "content" },
           
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 366,
+            "pos" : 361,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -878,7 +803,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 285,
+            "pos" : 280,
             "context" : "         People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References  ",
             "fid" : "svg" } ] },
       
@@ -889,7 +814,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 171,
+            "pos" : 166,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -900,7 +825,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 326,
+            "pos" : 321,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -911,7 +836,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 87,
+            "pos" : 82,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -922,7 +847,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 33,
+            "pos" : 28,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -933,7 +858,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 157,
+            "pos" : 152,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -944,7 +869,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 748,
+            "pos" : 743,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -955,7 +880,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 183,
+            "pos" : 178,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -966,7 +891,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 293,
+            "pos" : 288,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -977,7 +902,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 399,
+            "pos" : 394,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -988,7 +913,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 349,
+            "pos" : 344,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -999,7 +924,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1010,7 +935,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 313,
+            "pos" : 308,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1021,7 +946,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 244,
+            "pos" : 239,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1032,7 +957,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 68,
+            "pos" : 63,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1043,7 +968,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 91,
+            "pos" : 86,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1054,7 +979,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 617,
+            "pos" : 612,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1065,7 +990,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1076,7 +1001,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 203,
+            "pos" : 198,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1087,7 +1012,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 388,
+            "pos" : 383,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1098,7 +1023,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 489,
+            "pos" : 484,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1109,7 +1034,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 127,
+            "pos" : 122,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1120,7 +1045,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 323,
+            "pos" : 318,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1131,7 +1056,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 393,
+            "pos" : 388,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1142,7 +1067,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 72,
+            "pos" : 67,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1153,7 +1078,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 155,
+            "pos" : 150,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1164,7 +1089,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 57,
+            "pos" : 52,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1175,7 +1100,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 259,
+            "pos" : 254,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1186,7 +1111,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 205,
+            "pos" : 200,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1197,7 +1122,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 309,
+            "pos" : 304,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1208,7 +1133,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 657,
+            "pos" : 652,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1219,7 +1144,7 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 525,
+            "pos" : 520,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] },
       
@@ -1230,6 +1155,6 @@
         [ 
           { "form" : "Morrowind",
             "weight" : "1",
-            "pos" : 886,
+            "pos" : 881,
             "context" : "...&gt;        People     Groups     Items     Locations   Quantity of ID used Count of <mark>Morrowind<\/mark> References ",
             "fid" : "svg" } ] } ] }

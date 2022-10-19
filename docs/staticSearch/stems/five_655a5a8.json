@@ -9,13 +9,13 @@
         [ 
           { "form" : "five",
             "weight" : "1",
-            "pos" : 23,
+            "pos" : 18,
             "context" : "...Listen, faithful, to Vivec's words, for he says <mark>five<\/mark> times and five ways --",
             "fid" : "content" },
           
           { "form" : "five",
             "weight" : "1",
-            "pos" : 25,
+            "pos" : 20,
             "context" : "..., to Vivec's words, for he says five times and <mark>five<\/mark> ways --",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "five",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : "...operation and what went wrong. Their boat, laden with <mark>five<\/mark> crates of moon sugar, was supposed to meet another,...",
             "fid" : "content" },
           
           { "form" : "five",
             "weight" : "1",
-            "pos" : 355,
+            "pos" : 350,
             "context" : "...used only a little bit of it, and they still had <mark>five<\/mark> nearly full crates. They were not only going to be...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "five",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "In modern times Morrowind is ruled by <mark>five<\/mark> Great Houses: House Hlaalu, House Redoran, House Telvanni...",
             "fid" : "content" } ] },
       
@@ -54,6 +54,6 @@
         [ 
           { "form" : "five",
             "weight" : "1",
-            "pos" : 75,
+            "pos" : 70,
             "context" : " There are <mark>five<\/mark> legion garrisons in Vvardenfell District. The three town garrisons --...",
             "fid" : "content" } ] } ] }

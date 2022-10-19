@@ -9,19 +9,19 @@
         [ 
           { "form" : "entertainments",
             "weight" : "1",
-            "pos" : 38,
+            "pos" : 33,
             "context" : "...and pilgrims daily. Citizens flock to the Arena for public <mark>entertainments<\/mark> like mock battles and comic plays. Outlanders mostly confine themselves...",
             "fid" : "content" },
           
           { "form" : "entertainments",
             "weight" : "1",
-            "pos" : 458,
+            "pos" : 453,
             "context" : "...on the east. The Arena is the site of public <mark>entertainments<\/mark> and combat sports. The comfortable domed Arena has seating for...",
             "fid" : "content" },
           
           { "form" : "entertainers",
             "weight" : "1",
-            "pos" : 472,
+            "pos" : 467,
             "context" : "...spectators; beneath the Arena are dressing and storage rooms for <mark>entertainers<\/mark> and training rooms and animal pens for the combat competitors....",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "entertaining",
             "weight" : "1",
-            "pos" : 31,
+            "pos" : 26,
             "context" : "Master Gothren agreed to see the acrobats because he needed <mark>entertaining<\/mark>. For months now, he had been struggling with his fellow...",
             "fid" : "content" },
           
           { "form" : "entertained",
             "weight" : "1",
-            "pos" : 213,
+            "pos" : 208,
             "context" : "\"Neloth?!\" roared Gothren. \"You <mark>entertained<\/mark> that whoreson?!\"",
             "fid" : "content" },
           
           { "form" : "entertainment",
             "weight" : "1",
-            "pos" : 333,
+            "pos" : 328,
             "context" : "...then, but we decided that he still owed us for the <mark>entertainment<\/mark> we provided under torture. We weren't sure how to collect...",
             "fid" : "content" } ] },
       
@@ -55,7 +55,7 @@
         [ 
           { "form" : "entertain",
             "weight" : "1",
-            "pos" : 204,
+            "pos" : 199,
             "context" : "...the Treaty of the Armistice, and Telvanni Council will not <mark>entertain<\/mark> any discussion of abridgements of those rights. ",
             "fid" : "content" } ] },
       
@@ -66,6 +66,6 @@
         [ 
           { "form" : "entertainments",
             "weight" : "1",
-            "pos" : 266,
+            "pos" : 261,
             "context" : "...tourists and pilgrims daily. Citizens flock to the Arena for <mark>entertainments<\/mark> and war games. Outlanders mostly confine themselves to the Foreign...",
             "fid" : "content" } ] } ] }

@@ -9,25 +9,15 @@
         [ 
           { "form" : "Battlespire",
             "weight" : "1",
-            "pos" : 14,
+            "pos" : 9,
             "context" : "6th moon ....... \"Alas, the <mark>Battlespire<\/mark> appears to be falling into the hands of evil. Their...",
             "fid" : "ImperialBattlespire" },
           
           { "form" : "Battlespire",
             "weight" : "1",
-            "pos" : 56,
+            "pos" : 51,
             "context" : ".... I will fight my way to the bowells of the <mark>Battlespire<\/mark>, where I will mount Dragonne Papré, my Dragon companion...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Battlespire",
-            "weight" : "1",
-            "pos" : 2277,
-            "context" : "Imperial <mark>Battlespire<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "battlespire",
             "weight" : "1",
-            "pos" : 2443,
+            "pos" : 2438,
             "context" : "imperial <mark>battlespire<\/mark>",
             "fid" : "loc",
             "in" : 

@@ -2,16 +2,6 @@
   { "stem" : "dram",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Dram",
-            "weight" : "1",
-            "pos" : 6382,
-            "context" : "<mark>Dram<\/mark> Bero" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 1,
@@ -19,7 +9,7 @@
         [ 
           { "form" : "dram",
             "weight" : "1",
-            "pos" : 6465,
+            "pos" : 6460,
             "context" : "<mark>dram<\/mark> bero",
             "fid" : "persons",
             "in" : 
@@ -32,6 +22,6 @@
         [ 
           { "form" : "Dram",
             "weight" : "1",
-            "pos" : 71,
+            "pos" : 66,
             "context" : "Master <mark>Dram<\/mark> Bero, by Grace of Almsivi, Honored Councilor of Hlaalu...",
             "fid" : "content" } ] } ] }

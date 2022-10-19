@@ -9,31 +9,31 @@
         [ 
           { "form" : "candidates",
             "weight" : "1",
-            "pos" : 215,
+            "pos" : 210,
             "context" : "Not true. Telvanni accept all races as <mark>candidates<\/mark> for membership.",
             "fid" : "content" },
           
           { "form" : "candidates",
             "weight" : "1",
-            "pos" : 227,
+            "pos" : 222,
             "context" : "...by wizard-lord nobles, many assume they accept only <mark>candidates<\/mark> of the highest intelligence and willpower.",
             "fid" : "content" },
           
           { "form" : "candidates",
             "weight" : "1",
-            "pos" : 234,
+            "pos" : 229,
             "context" : "Not true. Telvanni accept <mark>candidates<\/mark> of modest intelligence and willpower.",
             "fid" : "content" },
           
           { "form" : "candidates",
             "weight" : "1",
-            "pos" : 246,
+            "pos" : 241,
             "context" : "...Telvanni ranks depends on high intelligence and willpower, and that <mark>candidates<\/mark> proficient in the arts of magic -- especially Mysticism, Conjuration...",
             "fid" : "content" },
           
           { "form" : "candidates",
             "weight" : "1",
-            "pos" : 359,
+            "pos" : 354,
             "context" : "...is very difficult for outsiders. Most disconcerting for some potential <mark>candidates<\/mark> is House Telvanni's casual acceptance of murder and assassination of rivals...",
             "fid" : "content" } ] },
       
@@ -44,19 +44,19 @@
         [ 
           { "form" : "candidates",
             "weight" : "1",
-            "pos" : 131,
+            "pos" : 126,
             "context" : " The Guild selects <mark>candidates<\/mark> who are strong and healthy. A candidate must have some...",
             "fid" : "content" },
           
           { "form" : "candidate",
             "weight" : "1",
-            "pos" : 134,
+            "pos" : 129,
             "context" : "...The Guild selects candidates who are strong and healthy. A <mark>candidate<\/mark> must have some proficiency with long blades, axes, blunt...",
             "fid" : "content" },
           
           { "form" : "Candidates",
             "weight" : "1",
-            "pos" : 152,
+            "pos" : 147,
             "context" : "<mark>Candidates<\/mark> must present themselves to the Steward of the Guild Hall for...",
             "fid" : "content" } ] },
       
@@ -67,7 +67,7 @@
         [ 
           { "form" : "candidate's",
             "weight" : "1",
-            "pos" : 121,
+            "pos" : 116,
             "context" : "...requires that a Great House councilor stand as sponsor for the <mark>candidate's<\/mark> character and loyalty. Finding a councilor to sponsor an outlander...",
             "fid" : "content" } ] },
       
@@ -78,6 +78,6 @@
         [ 
           { "form" : "candidates",
             "weight" : "1",
-            "pos" : 132,
+            "pos" : 127,
             "context" : "The Legion selects <mark>candidates<\/mark> on the basis of superior endurance, the soldierly virtue,...",
             "fid" : "content" } ] } ] }

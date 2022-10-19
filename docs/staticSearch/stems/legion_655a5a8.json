@@ -2,301 +2,6 @@
   { "stem" : "legion",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 58,
-        "contexts" : 
-        [ 
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 1211,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legion",
-            "weight" : "1",
-            "pos" : 1346,
-            "context" : "Buckmoth <mark>Legion<\/mark> Fort" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 1598,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 1601,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 1887,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legion",
-            "weight" : "1",
-            "pos" : 2177,
-            "context" : "Hawkmoth <mark>Legion<\/mark> Garrison" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 2521,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 2560,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legion",
-            "weight" : "1",
-            "pos" : 2647,
-            "context" : "Moonmoth <mark>Legion<\/mark> Fort" },
-          
-          { "form" : "Legion",
-            "weight" : "1",
-            "pos" : 2664,
-            "context" : "Moonmoth <mark>Legion<\/mark> Fort Interior" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 2694,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 3" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 2703,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 3" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 2796,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 2868,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4183,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4290,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4392,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4869,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4872,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4965,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4968,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4983,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 4986,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5254,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5260,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legion",
-            "weight" : "1",
-            "pos" : 5531,
-            "context" : "<mark>Legion<\/mark>" },
-          
-          { "form" : "Legion",
-            "weight" : "1",
-            "pos" : 5539,
-            "context" : "Imperial <mark>Legion<\/mark>" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5546,
-            "context" : "Imperial <mark>Legions<\/mark>" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5652,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5655,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5824,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5827,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5905,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5908,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5923,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 2" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5926,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 2" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5949,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5952,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5961,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 5" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 5964,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 5" },
-          
-          { "form" : "Legion",
-            "weight" : "1",
-            "pos" : 6020,
-            "context" : "Hawk Moth <mark>Legion<\/mark> garrison" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6030,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6033,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6043,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 2" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6046,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 2" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6111,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 4" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6114,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 4" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6127,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6130,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6141,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 2" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6144,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 2" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6154,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 2" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6157,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 2" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6167,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6170,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6192,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 6195,
-            "context" : "<mark>Legions<\/mark> of the Dead, count: 1" },
-          
-          { "form" : "Legions",
-            "weight" : "1",
-            "pos" : 7621,
-            "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 54,
@@ -304,17 +9,17 @@
         [ 
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "<mark>Legions<\/mark> of the Dead" },
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 116,
+            "pos" : 111,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead" },
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 1380,
+            "pos" : 1375,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -322,7 +27,7 @@
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 1509,
+            "pos" : 1504,
             "context" : "buckmoth <mark>legion<\/mark> fort",
             "fid" : "loc",
             "in" : 
@@ -330,7 +35,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 1766,
+            "pos" : 1761,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -338,7 +43,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 1770,
+            "pos" : 1765,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -346,7 +51,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 2055,
+            "pos" : 2050,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -354,7 +59,7 @@
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 2347,
+            "pos" : 2342,
             "context" : "hawkmoth <mark>legion<\/mark> garrison",
             "fid" : "loc",
             "in" : 
@@ -362,7 +67,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 2690,
+            "pos" : 2685,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -370,7 +75,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 2718,
+            "pos" : 2713,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -378,7 +83,7 @@
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 2812,
+            "pos" : 2807,
             "context" : "moonmoth <mark>legion<\/mark> fort",
             "fid" : "loc",
             "in" : 
@@ -386,7 +91,7 @@
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 2831,
+            "pos" : 2826,
             "context" : "moonmoth <mark>legion<\/mark> fort interior",
             "fid" : "loc",
             "in" : 
@@ -394,7 +99,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 2864,
+            "pos" : 2859,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 3",
             "fid" : "loc",
             "in" : 
@@ -402,7 +107,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 2872,
+            "pos" : 2867,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 3",
             "fid" : "loc",
             "in" : 
@@ -410,7 +115,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 2962,
+            "pos" : 2957,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -418,7 +123,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 3030,
+            "pos" : 3025,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -426,7 +131,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 4319,
+            "pos" : 4314,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -434,7 +139,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 4429,
+            "pos" : 4424,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -442,7 +147,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 4530,
+            "pos" : 4525,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "loc",
             "in" : 
@@ -450,7 +155,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 4991,
+            "pos" : 4986,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -458,7 +163,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 4995,
+            "pos" : 4990,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -466,7 +171,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5105,
+            "pos" : 5100,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -474,7 +179,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5109,
+            "pos" : 5104,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -482,7 +187,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5123,
+            "pos" : 5118,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -490,7 +195,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5127,
+            "pos" : 5122,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -498,7 +203,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5135,
+            "pos" : 5130,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 6",
             "fid" : "group",
             "in" : 
@@ -506,7 +211,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5139,
+            "pos" : 5134,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 6",
             "fid" : "group",
             "in" : 
@@ -514,7 +219,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5459,
+            "pos" : 5454,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -522,7 +227,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5463,
+            "pos" : 5458,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -530,7 +235,7 @@
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 5524,
+            "pos" : 5519,
             "context" : "hawk moth <mark>legion<\/mark> garrison",
             "fid" : "group",
             "in" : 
@@ -538,7 +243,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5536,
+            "pos" : 5531,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -546,7 +251,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5540,
+            "pos" : 5535,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -554,7 +259,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5551,
+            "pos" : 5546,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 2",
             "fid" : "group",
             "in" : 
@@ -562,7 +267,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5555,
+            "pos" : 5550,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 2",
             "fid" : "group",
             "in" : 
@@ -570,7 +275,7 @@
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 5780,
+            "pos" : 5775,
             "context" : "<mark>legion<\/mark>",
             "fid" : "group",
             "in" : 
@@ -578,7 +283,7 @@
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 5788,
+            "pos" : 5783,
             "context" : "imperial <mark>legion<\/mark>",
             "fid" : "group",
             "in" : 
@@ -586,7 +291,7 @@
           
           { "form" : "legions",
             "weight" : "1",
-            "pos" : 5795,
+            "pos" : 5790,
             "context" : "imperial <mark>legions<\/mark>",
             "fid" : "group",
             "in" : 
@@ -594,7 +299,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5899,
+            "pos" : 5894,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -602,7 +307,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 5903,
+            "pos" : 5898,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -610,7 +315,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6013,
+            "pos" : 6008,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 4",
             "fid" : "group",
             "in" : 
@@ -618,7 +323,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6017,
+            "pos" : 6012,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 4",
             "fid" : "group",
             "in" : 
@@ -626,7 +331,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6107,
+            "pos" : 6102,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -634,7 +339,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6111,
+            "pos" : 6106,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -642,7 +347,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6190,
+            "pos" : 6185,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -650,7 +355,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6194,
+            "pos" : 6189,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -658,7 +363,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6209,
+            "pos" : 6204,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -666,7 +371,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6213,
+            "pos" : 6208,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -674,7 +379,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6225,
+            "pos" : 6220,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 4",
             "fid" : "group",
             "in" : 
@@ -682,7 +387,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6229,
+            "pos" : 6224,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 4",
             "fid" : "group",
             "in" : 
@@ -690,7 +395,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6238,
+            "pos" : 6233,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 3",
             "fid" : "group",
             "in" : 
@@ -698,7 +403,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6242,
+            "pos" : 6237,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 3",
             "fid" : "group",
             "in" : 
@@ -706,7 +411,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6271,
+            "pos" : 6266,
             "context" : "<mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -714,7 +419,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 6275,
+            "pos" : 6270,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "group",
             "in" : 
@@ -722,7 +427,7 @@
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 7061,
+            "pos" : 7056,
             "context" : "Sharn's <mark>Legions<\/mark> of the Dead, count: 1",
             "fid" : "persons",
             "in" : 
@@ -735,73 +440,73 @@
         [ 
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 7,
+            "pos" : 2,
             "context" : "Moonmoth <mark>Legion<\/mark> Fort Interior: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 251,
+            "pos" : 246,
             "context" : "...greeters: Ygfa at Fort Pelagiad, Syloria Siruliulus at Buckmoth <mark>Legion<\/mark> Fort, Somutis Vunnis at Moonmoth Legion Fort, Ruccia Conician...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 256,
+            "pos" : 251,
             "context" : "...Syloria Siruliulus at Buckmoth Legion Fort, Somutis Vunnis at Moonmoth <mark>Legion<\/mark> Fort, Ruccia Conician in the Grand Council Chambers in Ebonheart...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 342,
+            "pos" : 337,
             "context" : " You can find Imperial cult services in Buckmoth <mark>Legion<\/mark> Fort, Moonmoth Legion Fort, Pelagiad Legion Fort, Gnisis...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 345,
+            "pos" : 340,
             "context" : "...can find Imperial cult services in Buckmoth Legion Fort, Moonmoth <mark>Legion<\/mark> Fort, Pelagiad Legion Fort, Gnisis Legion Fort, Wolverine...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 348,
+            "pos" : 343,
             "context" : "...services in Buckmoth Legion Fort, Moonmoth Legion Fort, Pelagiad <mark>Legion<\/mark> Fort, Gnisis Legion Fort, Wolverine Hall in Sadrith Mora...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 351,
+            "pos" : 346,
             "context" : "...Fort, Moonmoth Legion Fort, Pelagiad Legion Fort, Gnisis <mark>Legion<\/mark> Fort, Wolverine Hall in Sadrith Mora, Vivec, Foreign...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 438,
+            "pos" : 433,
             "context" : "...Vivec Foreign Quarter; Wolverine Hall in Sadrith Mora; Buckmoth <mark>Legion<\/mark> Fort; Moonmoth Legion Fort; Pelagiad Legion Fort; Gnisis...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 441,
+            "pos" : 436,
             "context" : "...Wolverine Hall in Sadrith Mora; Buckmoth Legion Fort; Moonmoth <mark>Legion<\/mark> Fort; Pelagiad Legion Fort; Gnisis Legion Fort; and...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 444,
+            "pos" : 439,
             "context" : "...Mora; Buckmoth Legion Fort; Moonmoth Legion Fort; Pelagiad <mark>Legion<\/mark> Fort; Gnisis Legion Fort; and Imperial Chapels in Ebonheart...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 447,
+            "pos" : 442,
             "context" : "...Fort; Moonmoth Legion Fort; Pelagiad Legion Fort; Gnisis <mark>Legion<\/mark> Fort; and Imperial Chapels in Ebonheart.",
             "fid" : "content" },
           
           { "form" : "legions",
             "weight" : "1",
-            "pos" : 629,
+            "pos" : 624,
             "context" : "...The Imperial cults have a very close relationship with the Imperial <mark>legions<\/mark>, and a friendly and supportive relationship with the Imperial Guilds...",
             "fid" : "content" } ] },
       
@@ -812,73 +517,73 @@
         [ 
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 10,
+            "pos" : 5,
             "context" : "Hawkmoth <mark>Legion<\/mark> Garrison: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 22,
+            "pos" : 17,
             "context" : "Moonmoth <mark>Legion<\/mark> Fort: Visitable? yes",
             "fid" : "acq" },
           
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 39,
+            "pos" : 34,
             "context" : "...most disciplined and effective military force in history, the Imperial <mark>Legions<\/mark> preserve the peace and rule of law in the Empire....",
             "fid" : "ImperialLegions" },
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 46,
+            "pos" : 41,
             "context" : "...rule of law in the Empire. At need, the <mark>legion<\/mark> garrisons can be swiftly mobilized to protect against invasions or internal...",
             "fid" : "content" },
           
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 76,
+            "pos" : 71,
             "context" : " There are five <mark>legion<\/mark> garrisons in Vvardenfell District. The three town garrisons -- Moonmoth...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 84,
+            "pos" : 79,
             "context" : "...garrisons in Vvardenfell District. The three town garrisons -- Moonmoth <mark>Legion<\/mark> Fort in Balmora , Buckmoth Legion Fort in Ald'ruhn, and...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 88,
+            "pos" : 83,
             "context" : "...three town garrisons -- Moonmoth Legion Fort in Balmora , Buckmoth <mark>Legion<\/mark> Fort in Ald'ruhn, and Fort Pelagiad in Pelagiad -- are...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 97,
+            "pos" : 92,
             "context" : "...Pelagiad in Pelagiad -- are at full complement. The Hawkmoth <mark>Legion<\/mark> garrisoned at Castle Ebonheart is an elite honor guard unit,...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 124,
+            "pos" : 119,
             "context" : "...garrison on Vvardenfell. Qualified citizens seeking enlistment in the Imperial <mark>Legion<\/mark> should apply to the commander of that garrison, General Darius...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 130,
+            "pos" : 125,
             "context" : "The <mark>Legion<\/mark> selects candidates on the basis of superior endurance, the soldierly...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 143,
+            "pos" : 138,
             "context" : "...trustworthy personality, the citizen's virtue, for service in the <mark>Legion<\/mark> is the model for the duties of Imperial citizenship. Troopers...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 157,
+            "pos" : 152,
             "context" : "...of the long blade, the spear and blunt weapons. <mark>Legion<\/mark> troops train with shield and heavy armor, and so must...",
             "fid" : "content" } ] },
       
@@ -889,19 +594,19 @@
         [ 
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 229,
+            "pos" : 224,
             "context" : "...Ebonheart are the Vvardenfell District Council chambers and the Hawk Moth <mark>Legion<\/mark> garrison. The officers, docks, and warehouses of the...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 342,
+            "pos" : 337,
             "context" : "...Ascadian Isles region. The village is right outside the Imperial <mark>Legion<\/mark> garrison at Fort Pelagiad. The houses and shops are built...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 1127,
+            "pos" : 1122,
             "context" : "...Caldera, Seyda Neen, and Vivec City. The Imperial <mark>Legion<\/mark> garrison of Fort Moonmoth lies south of Balmora.",
             "fid" : "content" } ] },
       
@@ -912,13 +617,13 @@
         [ 
           { "form" : "legion",
             "weight" : "1",
-            "pos" : 120,
+            "pos" : 115,
             "context" : " Buckmoth Fort is the Imperial <mark>legion<\/mark> garrison for the district. The strong walls and towers of...",
             "fid" : "content" },
           
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 164,
+            "pos" : 159,
             "context" : "...for Temple worshipers. Buckmoth Fort offers services to the Imperial <mark>Legion<\/mark> and devotees of the Imperial cult, including an Imperial cult...",
             "fid" : "content" } ] },
       
@@ -929,7 +634,7 @@
         [ 
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 254,
+            "pos" : 249,
             "context" : "...and Morrowind. Hlaalu welcomes Imperial culture and law, Imperial <mark>Legions<\/mark> and bureaucracy, and Imperial freedom of trade and religion....",
             "fid" : "content" } ] },
       
@@ -940,7 +645,7 @@
         [ 
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 53,
+            "pos" : 48,
             "context" : "..., and to Wolverine Hall, the Imperial quarters of the <mark>Legion<\/mark> garrison and guilds. The docks are in a sheltered bay...",
             "fid" : "Legion" } ] },
       
@@ -951,7 +656,7 @@
         [ 
           { "form" : "legions",
             "weight" : "1",
-            "pos" : 227,
+            "pos" : 222,
             "context" : "...undead. With his enchanted ebony blade, he cut through <mark>legions<\/mark> before facing the master himself in the desolate main hall....",
             "fid" : "content" } ] },
       
@@ -962,7 +667,7 @@
         [ 
           { "form" : "Legion",
             "weight" : "1",
-            "pos" : 32,
+            "pos" : 27,
             "context" : "Moonmoth <mark>Legion<\/mark> Fort: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -973,6 +678,6 @@
         [ 
           { "form" : "Legions",
             "weight" : "1",
-            "pos" : 195,
+            "pos" : 190,
             "context" : "...the Hlaalu House Districts, thanks to the vigilance of the <mark>Legions<\/mark> and stern sentences by the magistrates. The council laments the...",
             "fid" : "content" } ] } ] }

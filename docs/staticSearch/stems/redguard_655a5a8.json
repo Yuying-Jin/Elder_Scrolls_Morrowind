@@ -9,19 +9,9 @@
         [ 
           { "form" : "Redguard",
             "weight" : "1",
-            "pos" : 277,
+            "pos" : 272,
             "context" : "..., but Imsin the Dreamer is the chapter steward. The <mark>Redguard<\/mark> Hean is priest of the Imperial cult. Goren Andarys is...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Redguard",
-            "weight" : "1",
-            "pos" : 5687,
-            "context" : "<mark>Redguard<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -30,7 +20,7 @@
         [ 
           { "form" : "redguard",
             "weight" : "1",
-            "pos" : 5953,
+            "pos" : 5948,
             "context" : "<mark>redguard<\/mark>",
             "fid" : "group",
             "in" : 
@@ -43,7 +33,7 @@
         [ 
           { "form" : "Redguard",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 163,
             "context" : "...the Ashkhan with some disapprobation and a dismissive gesture toward the <mark>Redguard<\/mark> woman in the troupe.",
             "fid" : "content" } ] },
       
@@ -54,6 +44,6 @@
         [ 
           { "form" : "Redguard",
             "weight" : "1",
-            "pos" : 455,
+            "pos" : 450,
             "context" : "...hand, Baranat completed the Cycle of Blood, the old <mark>Redguard<\/mark> fighting style he had begun on day one. Airen Coribael...",
             "fid" : "content" } ] } ] }

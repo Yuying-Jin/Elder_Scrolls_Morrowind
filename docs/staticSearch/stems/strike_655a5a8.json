@@ -9,13 +9,13 @@
         [ 
           { "form" : "strike",
             "weight" : "1",
-            "pos" : 58,
+            "pos" : 53,
             "context" : "...they supply to misdirect their prey. Close and sure they <mark>strike<\/mark> with shortblade, or distant and secure they strike from afar...",
             "fid" : "content" },
           
           { "form" : "strike",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "...sure they strike with shortblade, or distant and secure they <mark>strike<\/mark> from afar with accurate missile fire. Light armor protects them...",
             "fid" : "content" } ] },
       
@@ -26,7 +26,7 @@
         [ 
           { "form" : "strike",
             "weight" : "1",
-            "pos" : 131,
+            "pos" : 126,
             "context" : "For soon we shall <mark>strike<\/mark>. The Temples of Arkay will be torn stone from stone...",
             "fid" : "content" } ] },
       
@@ -37,7 +37,7 @@
         [ 
           { "form" : "strikes",
             "weight" : "1",
-            "pos" : 98,
+            "pos" : 93,
             "context" : " Any member of the Guild of Fighters who <mark>strikes<\/mark> or steals from another member shall be expelled from the Guild...",
             "fid" : "content" } ] },
       
@@ -48,7 +48,7 @@
         [ 
           { "form" : "strike",
             "weight" : "1",
-            "pos" : 301,
+            "pos" : 296,
             "context" : "...by, Harithoel got better and better until he was able to <mark>strike<\/mark> quickly and with great accuracy. He could hit a fish...",
             "fid" : "content" } ] },
       
@@ -59,6 +59,6 @@
         [ 
           { "form" : "striking",
             "weight" : "1",
-            "pos" : 300,
+            "pos" : 295,
             "context" : "For example, one of the most <mark>striking<\/mark> persistent myths associated with Vivec is the story that Vivec conspired...",
             "fid" : "content" } ] } ] }

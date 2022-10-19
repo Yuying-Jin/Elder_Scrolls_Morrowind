@@ -9,25 +9,15 @@
         [ 
           { "form" : "Nuit",
             "weight" : "1",
-            "pos" : 181,
+            "pos" : 176,
             "context" : "...came, and he was a Demiprince, called Fa-<mark>Nuit<\/mark>-Hen, or the Multiplier of Motions Known. And...",
             "fid" : "content" },
           
           { "form" : "Nuit",
             "weight" : "1",
-            "pos" : 188,
+            "pos" : 183,
             "context" : "..., or the Multiplier of Motions Known. And Fa-<mark>Nuit<\/mark>-Hen said:",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Nuit",
-            "weight" : "1",
-            "pos" : 6558,
-            "context" : "Fa-<mark>Nuit<\/mark>-Hen" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "nuit",
             "weight" : "1",
-            "pos" : 6801,
+            "pos" : 6796,
             "context" : "fa <mark>nuit<\/mark> hen",
             "fid" : "persons",
             "in" : 

@@ -9,19 +9,19 @@
         [ 
           { "form" : "includes",
             "weight" : "1",
-            "pos" : 164,
+            "pos" : 159,
             "context" : "...lowlands where most of Vvardenfell's agriculture is found. The area <mark>includes<\/mark> Pelagiad, Suran, Vivec City, and Ald Sotha along...",
             "fid" : "content" },
           
           { "form" : "includes",
             "weight" : "1",
-            "pos" : 612,
+            "pos" : 607,
             "context" : "...an ancient wizard of the Telvanni Council. The small settlement <mark>includes<\/mark> a few craftsfolk and a tradehouse.",
             "fid" : "content" },
           
           { "form" : "include",
             "weight" : "1",
-            "pos" : 830,
+            "pos" : 825,
             "context" : "..., sandwiched between the Ashlands and Azura's Coast. Permanent settlements <mark>include<\/mark> Vos village and the towers of Tel Vos and Tel Fyr...",
             "fid" : "content" } ] },
       
@@ -32,19 +32,19 @@
         [ 
           { "form" : "includes",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 101,
             "context" : "The help of friends <mark>includes<\/mark> information. Your friends at the Thieves Guild know where the...",
             "fid" : "content" },
           
           { "form" : "includes",
             "weight" : "1",
-            "pos" : 117,
+            "pos" : 112,
             "context" : "...safe, and where it is not. The help of friends <mark>includes<\/mark> a place to rest, and a place to buy supplies...",
             "fid" : "content" },
           
           { "form" : "includes",
             "weight" : "1",
-            "pos" : 128,
+            "pos" : 123,
             "context" : "...and services -- training and tools. The help of friends <mark>includes<\/mark> fixing things with the guards at a discount rate. That's...",
             "fid" : "content" } ] },
       
@@ -55,13 +55,13 @@
         [ 
           { "form" : "includes",
             "weight" : "1",
-            "pos" : 372,
+            "pos" : 367,
             "context" : "...tower instead of their preferred mushroom towers. The administrative center <mark>includes<\/mark> a treasury and a hall of records. Slaves are housed...",
             "fid" : "content" },
           
           { "form" : "includes",
             "weight" : "1",
-            "pos" : 410,
+            "pos" : 405,
             "context" : "...and next to the Arena. The Redoran administrative center there <mark>includes<\/mark> the Redoran Treasury, Hall of Records, and Holding Cells...",
             "fid" : "content" } ] },
       
@@ -72,13 +72,13 @@
         [ 
           { "form" : "including",
             "weight" : "1",
-            "pos" : 176,
+            "pos" : 171,
             "context" : "...summer into fall, Oin began to sell his herbs, <mark>including<\/mark> some to Kena Kena Yakin Bael, a prominent healer in...",
             "fid" : "content" },
           
           { "form" : "including",
             "weight" : "1",
-            "pos" : 212,
+            "pos" : 207,
             "context" : "...died, despite all the skills of the great healers, <mark>including<\/mark> Kena Yakin Bael. When Oin came to deliver the herbs...",
             "fid" : "content" } ] },
       
@@ -89,7 +89,7 @@
         [ 
           { "form" : "include",
             "weight" : "1",
-            "pos" : 435,
+            "pos" : 430,
             "context" : "...out for craftsmen and commoners. Open-air markets often <mark>include<\/mark> the giant cages displaying the wares of the slave masters....",
             "fid" : "content" } ] },
       
@@ -100,7 +100,7 @@
         [ 
           { "form" : "including",
             "weight" : "1",
-            "pos" : 168,
+            "pos" : 163,
             "context" : "...to the Imperial Legion and devotees of the Imperial cult, <mark>including<\/mark> an Imperial cult altar. The guildhalls of the Fighters Guild...",
             "fid" : "content" } ] },
       
@@ -111,7 +111,7 @@
         [ 
           { "form" : "including",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "...ultimately conferred as a communal judgement by the Dunmer ancestors [ <mark>including<\/mark>, among others, the Good Daedra, the prophet Veloth...",
             "fid" : "content" } ] },
       
@@ -122,7 +122,7 @@
         [ 
           { "form" : "including",
             "weight" : "1",
-            "pos" : 50,
+            "pos" : 45,
             "context" : "...ultimately conferred as a communal judgement by the Dunmer ancestors [ <mark>including<\/mark>, among others, the Good Daedra, the prophet Veloth...",
             "fid" : "content" } ] },
       
@@ -133,6 +133,6 @@
         [ 
           { "form" : "include",
             "weight" : "1",
-            "pos" : 125,
+            "pos" : 120,
             "context" : "...do not think of their relationships as personal. Notable exceptions <mark>include<\/mark> minor charismatic sub-cults of Akatosh and Dibella. The...",
             "fid" : "content" } ] } ] }

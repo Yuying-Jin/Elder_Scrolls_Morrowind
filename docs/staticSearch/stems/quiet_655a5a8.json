@@ -2,21 +2,6 @@
   { "stem" : "quiet",
     "instances" : 
     [ 
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 2,
-        "contexts" : 
-        [ 
-          { "form" : "Quiet's",
-            "weight" : "1",
-            "pos" : 1699,
-            "context" : "Erna the <mark>Quiet's<\/mark> House" },
-          
-          { "form" : "Quiet",
-            "weight" : "1",
-            "pos" : 7051,
-            "context" : "Erna the <mark>Quiet<\/mark>" } ] },
-      
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
         "score" : 2,
@@ -24,7 +9,7 @@
         [ 
           { "form" : "quiet's",
             "weight" : "1",
-            "pos" : 1870,
+            "pos" : 1865,
             "context" : "erna the <mark>quiet's<\/mark> house",
             "fid" : "loc",
             "in" : 
@@ -32,7 +17,7 @@
           
           { "form" : "quiet",
             "weight" : "1",
-            "pos" : 7176,
+            "pos" : 7171,
             "context" : "erna the <mark>quiet<\/mark>",
             "fid" : "persons",
             "in" : 
@@ -45,7 +30,7 @@
         [ 
           { "form" : "Quiet's",
             "weight" : "1",
-            "pos" : 26,
+            "pos" : 21,
             "context" : "Erna the <mark>Quiet's<\/mark> House: Visitable? yes",
             "fid" : "acq" } ] },
       
@@ -56,7 +41,7 @@
         [ 
           { "form" : "quiet",
             "weight" : "1",
-            "pos" : 271,
+            "pos" : 266,
             "context" : " A wounded Netch lay himself down in a <mark>quiet<\/mark> corner of its feeding-ground. His healthy companions came...",
             "fid" : "content" } ] },
       
@@ -67,6 +52,6 @@
         [ 
           { "form" : "quietly",
             "weight" : "1",
-            "pos" : 247,
+            "pos" : 242,
             "context" : "\"It's not my weapon of choice,\" said Harithoel, <mark>quietly<\/mark>, watching his prey and missing another with a splash and...",
             "fid" : "content" } ] } ] }

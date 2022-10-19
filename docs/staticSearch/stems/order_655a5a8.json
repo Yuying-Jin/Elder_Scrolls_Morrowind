@@ -9,13 +9,13 @@
         [ 
           { "form" : "order",
             "weight" : "1",
-            "pos" : 40,
+            "pos" : 35,
             "context" : "...that many things must be done, and in no specific <mark>order<\/mark>; the procedure is to perceive and order all the things...",
             "fid" : "content" },
           
           { "form" : "order",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "...in no specific order; the procedure is to perceive and <mark>order<\/mark> all the things to be done, and, upon doing a...",
             "fid" : "content" } ] },
       
@@ -26,13 +26,13 @@
         [ 
           { "form" : "ordering",
             "weight" : "1",
-            "pos" : 66,
+            "pos" : 61,
             "context" : "...skill and blinded by their ambitions. In this, hold the <mark>ordering<\/mark> of the Congeries among the oldest and most trusted of mages...",
             "fid" : "content" },
           
           { "form" : "ordering",
             "weight" : "1",
-            "pos" : 74,
+            "pos" : 69,
             "context" : "...oldest and most trusted of mages, and make secure this <mark>ordering<\/mark> through arcane codes and keys to confound even the most clever...",
             "fid" : "content" } ] },
       
@@ -43,7 +43,7 @@
         [ 
           { "form" : "order",
             "weight" : "1",
-            "pos" : 43,
+            "pos" : 38,
             "context" : "...in raising a skeleton will assemble the bones in the proper <mark>order<\/mark>, skeletons may be strengthened considerably by the addition of support...",
             "fid" : "content" } ] },
       
@@ -54,19 +54,9 @@
         [ 
           { "form" : "order",
             "weight" : "1",
-            "pos" : 551,
+            "pos" : 546,
             "context" : " A shrine sergeant helps keep <mark>order<\/mark> at the shrines, carries messages and packages, and sometimes...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "Order",
-            "weight" : "1",
-            "pos" : 5636,
-            "context" : "Alessian <mark>Order<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -75,7 +65,7 @@
         [ 
           { "form" : "order",
             "weight" : "1",
-            "pos" : 5884,
+            "pos" : 5879,
             "context" : "alessian <mark>order<\/mark>",
             "fid" : "group",
             "in" : 
@@ -88,7 +78,7 @@
         [ 
           { "form" : "order",
             "weight" : "1",
-            "pos" : 62,
+            "pos" : 57,
             "context" : "...of Morrowind, the local forts help to insure law and <mark>order<\/mark>, providing guards to supplement the local guard units of the...",
             "fid" : "content" } ] },
       
@@ -99,7 +89,7 @@
         [ 
           { "form" : "Order",
             "weight" : "1",
-            "pos" : 145,
+            "pos" : 140,
             "context" : "With the exception of the Alessian <mark>Order<\/mark>, which Heartlanders regard as a dark age, religious cults...",
             "fid" : "content" } ] },
       
@@ -110,7 +100,7 @@
         [ 
           { "form" : "order",
             "weight" : "1",
-            "pos" : 693,
+            "pos" : 688,
             "context" : ".... They would take a couple flagons of greef, perhaps <mark>order<\/mark> a meal -- a big one -- and wait. Hours...",
             "fid" : "content" } ] },
       
@@ -121,6 +111,6 @@
         [ 
           { "form" : "orders",
             "weight" : "1",
-            "pos" : 106,
+            "pos" : 101,
             "context" : "......The Temple does not acknowledge the existence of Western vampire hunting <mark>orders<\/mark>. Nonetheless, interviews with Temple officials persuade me that the...",
             "fid" : "content" } ] } ] }

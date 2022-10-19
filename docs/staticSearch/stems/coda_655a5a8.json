@@ -9,25 +9,15 @@
         [ 
           { "form" : "coda",
             "weight" : "1",
-            "pos" : 288,
+            "pos" : 283,
             "context" : "...the following ingredients: trama root, racer plumes, and <mark>coda<\/mark> flowers. A thick, bitter-tasting root of the...",
             "fid" : "content" },
           
           { "form" : "coda",
             "weight" : "1",
-            "pos" : 310,
+            "pos" : 305,
             "context" : "...regions. racer plumes are plucked from dead cliff racers. <mark>coda<\/mark> flowers are collected from the primitive draggle-tail plant of...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "coda",
-            "weight" : "1",
-            "pos" : 94,
-            "context" : "<mark>coda<\/mark>_flowers" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "coda",
             "weight" : "1",
-            "pos" : 276,
+            "pos" : 271,
             "context" : "<mark>coda<\/mark> flowers",
             "fid" : "items",
             "in" : 

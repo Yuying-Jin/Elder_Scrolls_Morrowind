@@ -9,25 +9,15 @@
         [ 
           { "form" : "russula",
             "weight" : "1",
-            "pos" : 332,
+            "pos" : 327,
             "context" : "...made from two or more of the following ingredients: luminous <mark>russula<\/mark>, hackle-lo leaf, and kwama cuttle. luminous...",
             "fid" : "content" },
           
           { "form" : "russula",
             "weight" : "1",
-            "pos" : 340,
+            "pos" : 335,
             "context" : "..., hackle-lo leaf, and kwama cuttle. luminous <mark>russula<\/mark> is a squat, mottled-brown-and-green toadstool mushroom...",
             "fid" : "content" } ] },
-      
-      { "docId" : "librarium_morrowindTables%20-%20Copy",
-        "docUri" : "librarium\/morrowindTables%20-%20Copy.html",
-        "score" : 1,
-        "contexts" : 
-        [ 
-          { "form" : "russula",
-            "weight" : "1",
-            "pos" : 358,
-            "context" : "luminous_<mark>russula<\/mark>" } ] },
       
       { "docId" : "librarium_morrowindTables",
         "docUri" : "librarium\/morrowindTables.html",
@@ -36,7 +26,7 @@
         [ 
           { "form" : "russula",
             "weight" : "1",
-            "pos" : 530,
+            "pos" : 525,
             "context" : "luminous <mark>russula<\/mark>",
             "fid" : "items",
             "in" : 
