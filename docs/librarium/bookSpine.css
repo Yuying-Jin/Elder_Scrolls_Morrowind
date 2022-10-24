@@ -69,36 +69,36 @@ section {
      flex: 1;
      
  }
- 
-.nav {
+.nav ul{
   list-style-type: none;
-  margin: 0 auto;
   padding: 0;
+  margin:auto;
   overflow: hidden;
 /*  background-color: #333;*/
+  font-family: "Lucida Console", Courier, monospace;
   position: sticky;
   top: 0;
-  display: table;
+  display:table;
 }
-
-li {
+.nav li {
   float:inherit;
-  border-right: 1px solid;
+  padding:0;
+  border-right: 1px solid #bbb;
   display:inline-block;
-}
-
-li a {
+  }
+  .nav li a{
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-}
-
-li a:hover {
+  }
+  
+  .nav li a:hover{
   background-color: #e37839;
-}
-
-.active {
+  }
+  
+ 
+  .active {
   background-color: #E39439;
 }

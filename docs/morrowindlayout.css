@@ -95,7 +95,7 @@ h2 {
 
 li {
   float:inherit;
-  border-right: 1px solid;
+  border-right: 1px solid #bbb;
   display:inline-block;
 }
 
